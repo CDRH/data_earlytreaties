@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2 id="treaty.00005">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author/>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"/>
+<availability><p><!-- ? (copyright) -->
+</p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 5</note>
+<note type="project">
+The Albany Congress, and Treaty of 1754.
+</note>
+<note type="source">O'Callaghan, E. B. (Ed.). (1855). <hi rend="italics">Documents Relative to the Colonial History of the State of New York, vol. 6</hi>. Albany, NY: Weed, Parsons, and Co., 853–892.</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>The Albany Congress, and Treaty of 1754,</title>
+<editor>O'Callaghan, E.B. (Ed.)</editor>
+</analytic>
+<monogr>
+<title>Documents Relative to the Colonial History of the State of New York</title>
+<imprint>
+<biblScope type="volume"> vol. 6</biblScope>
+<date value="1855"> (1855).</date>
+<biblScope type="pages"> pp. 853–892</biblScope>
+<pubPlace>Albany, NY:</pubPlace>
+<publisher>Weed, Parsons and Co.,</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-13</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-12-09</date>
+<respStmt>
+<resp/>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<div1>
+
+<pb n="853"/>
+
+<p><hi rend="center"><hi rend="bold">Proceedings of the Colonial Congress held at Albany.<lb/><lb/>
+
+
+[New-York Papers, Bundle Kk., No. 20.]<lb/><lb/>
+
+
+Albany the 19. June 1754.</hi><lb/><lb/>
+
+<milestone unit="horbar"/>
+
+Proceedings of the Congress held at Albany by the <orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> James DeLancey <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and commander in Chief
+of the <orig reg="Province">Prov<hi rend="super">ce</hi></orig> of New York, and the Commissioners of the Several Provinces now
+met in this City. <lb/><lb/>
+
+<hi rend="bold">At a Meeting in the Court House at Albany on Wednesday the 19 June 1754 A. M. </hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The <orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig>
+<orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York <lb/><lb/>
+
+Esquires of His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> Council of New York <lb/>
+
+Joseph Murray<lb/>
+William Johnson<lb/>
+John Chambers<lb/>
+William Smith<lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for His <orig reg="Majesty's">Maj<hi rend="super">ties</hi></orig>
+Province of New Hampshire <lb/>
+
+Theodore Atkinson<lb/>
+Richard Wibbird<lb/>
+Meshec Weare<lb/>
+Henry Sherburne <orig reg="Junior">Jun<hi rend="super">r</hi></orig><lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Massachusets Bay<lb/>
+
+Samuel Welles<lb/>
+John Chandler<lb/>
+Oliver Partridge<lb/>
+John Worthington<lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the Colony of Connecticut<lb/>
+
+William Pitkin<lb/>
+Roger Wolcott<lb/>
+Elisha Williams<lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the Colony of Rhode Island <lb/>
+
+Stephen Hopkins<lb/>
+Martin Howard <orig reg="Junior">Jun<hi rend="super">r</hi></orig><lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the <orig reg="Government">Govern<hi rend="super">t</hi></orig> of Maryland <lb/>
+
+Bejamin Tasker<lb/>
+Abraham Barnes<lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the <orig reg="Government">Govern<hi rend="super">t</hi></orig> of Pennsylvania <lb/>
+
+John Penn<lb/>
+Richard Peters<lb/>
+Isaac Norris<lb/>
+Benjamin Franklin<lb/><lb/></hi></p>
+
+<p>His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York having
+yesterday directed <orig reg="Mr">M<hi rend="super">r</hi></orig> Banyar Deputy Secretary of the said province, to wait upon the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of the several provinces above named, to acquaint them that
+his Honour desired they would meet him in Council in the City Hall of Albany this morning, in order to produce their powers and proceed upon business. <lb/><lb/></p>
+
+<p>The said <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> being now accordingly met took their seats, and produced
+their respective <orig reg="Commissions">Commiss<hi rend="super">ns</hi></orig> which were read. <lb/><lb/></p>
+
+<p>His Honour then produced a letter from the Right <orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> the Lords of Trade,
+bearing date the <orig reg="18th">18<hi rend="super">th</hi></orig> of September last, out of which a paragraph was read.
+<lb/></p>
+
+<pb n="854"/>
+
+<p>Afterwards were read two Minutes of the proceedings of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of
+Indian affairs in this City dated the <orig reg="15th">15<hi rend="super">th</hi></orig> and <orig reg="18th">18<hi rend="super">th</hi></orig> <orig reg="instant"> inst</orig>:
+also a remonstrance from the Oswego Traders to His Honour. <lb/><lb/></p>
+
+<p>It was recommended as the first step necessary to be taken at this Congress, that the Commissioners should consider of the several matters they may judge proper to be proposed to the Indians, at the intended interview with them, and to prepare the speech to be made on that occasion for which purpose his honour acquainted the <orig reg="Commissioners">Commission<hi rend="super">rs</hi></orig>, he would direct the Secretary or Agent for Indian affairs to attend them with the Records of that Office, and the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian affairs to meet together as often as there should be
+occasion in order that they might give them all the information relative to Indian affairs.
+<lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Wednesday afternoon the 19 June 1754.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The Council of New York, and all the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> as particularly named in the Minutes of this morning.<lb/><lb/></hi></p>
+
+<p>The Board proceeded to take into consideration the Matters recommended by his Honour in the Morning. The whole letter from the Lords of Trade was read and is as follows: <lb/><lb/></p>
+
+<p>Whitehall <orig reg="September">Sept<hi rend="super">r</hi></orig> 18 1753. <lb/><lb/></p>
+
+<p>Sir,<lb/></p>
+
+<p>A few days after you sailed from Portsmouth we received a letter from <orig reg="Mr">M<hi rend="super">r</hi></orig> Clinton, inclosing minutes of the proceedings between him, and a Deputation of the Mohawk Indians, at Fort George in the City of New York, in June last, with the Journals of the Assembly then sitting.
+<lb/><lb/></p>
+
+<p>You will without doubt upon your arrival be fully informed of the particular circumstances of this affair, the resentment expressed by the Indians, and the abrupt, and hasty manner in which they went away, and tho' from the confidence we have of your vigilant attention to whatever may concern your <orig reg="Government">Govern<hi rend="super">t</hi></orig>, we are persuaded you will not have failed to have taken every necessary and prudent measure to obviate the fatal consequences which might attend this affair. Yet we think it no less our duty to embrace the first opportunity of writing our sentiments to you upon [it,] and of pointing out to you what appears to us necessary to be done. <lb/><lb/></p>
+
+<p>When we consider of how great consequence the friendship and alliance of the six Nations is to all His <orig reg="Majesties">Maj<hi rend="super">ties</hi></orig> Colonies and Plantations in America in general as well as to New York in particular; when we consider that this friendship and alliance, is only to be gained and preserved by making presents to them at proper times and upon proper occasions, and by an inviolable observance of all our engagements with them, and when we recollect the attempts, which have lately been made to withdraw them from the British interest, we cannot but be greatly concerned and surprised, that the Province of New York should have been sn inattentive to the general Interest of His <orig reg="Majesties">Maj<hi rend="super">ties</hi></orig> subjects in America, as well as to their own particular security,
+as to have given occasion to the complaints made by the Indians, but we are still more surprised at the manner in which these complaints were received, The dissatisfactory answer[s] given to the Indians, &amp; at their being suffered to depart (tho' the Assembly was then sitting) without any measures taken to bring them to Temper or to redress their complaints. <lb/><lb/></p>
+
+<p>This being the light in which we see this affair, we think it for his <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> service that you <orig reg="should">sh<hi rend="super">d</hi></orig> take the very first opportunity of representing to the Council and Assembly in the strongest
+
+<pb n="855"/>
+
+Manner of how great importance it is to the Province of New York, to preserve the Friendship and affections of the Indians, and the fatal consequences which most inevitably follow from a neglect of them, that you should press them to join with and support you in every measure you shall find it necessary to pursue in order to fix them in the British Interest, more especially by making proper provisions for presents for them, which joined to the presents allowed by His <orig reg="Majesty">Maj<hi rend="super">ty</hi></orig>, and which you will receive by this conveyance, may serve to facilitate this great end, and to wipe away all remembrance of that neglect, the Indians now complain of. As a speedy interview with the Indians is from their present disposition become the more necessary, you will no doubt think it proper to advise with the Council, as to the time and place of meeting the Indians, in which points we trust you will have a due regard to their convenience, and as it appears from their complaints, that Albany, which has been the usual place of meeting is obnoxious to them, you will, if
+you find sufficient foundation for this complaint appoint some other place, you shall think more for their Ease and satisfaction, and we observe from a Report of the Council and Assembly to <orig reg="Mr">M<hi rend="super">r</hi></orig> Clinton that Onondaga is proposed as the most proper place. We likewise hope that in the choice of the Persons who are to attend and assist you at this interview, you will have a regard to such as are best acquainted, with the Indians and their affairs and not obnoxious to them; and as a great deal depends upon the Interpretors, we desire you will be particularly careful to appoint such as are well acquainted with the Indian language and Men of ability and integrity.<lb/><lb/></p>
+
+<p>We hope that the Threats of the Mohawk Indians, when they left New York, have not been carried into execution, but think it of absolute necessity in order to obviate any ill consequences which might attend these threats, that some person of character and discretion should be immediately sent amongst the Indians to acquaint them of your arrival, of the presents his Majesty has ordered to be delivered to them and of your intention of holding an interview with them for burrying the Hatchet and renewing the Covenant chain, that this person should be carefully instructed to endeavour to remove any prejudices which the Six Nations may have imbibed from the representations of the Mohawks, to obviate the ill effects which would attend a general discontent among them at so critical a juncture and to put them upon their guard against any attempts which may be made to withdraw them from His <orig reg="Majesties">Maj<hi rend="super">ties</hi></orig> interest, and that nothing may be wanting to convince the
+Indians of the sincerity of our intentions; you will do well to examine into the complaints, they have made of being defrauded of their lands, to take all proper and legal methods to redress their complaints, and to gratify them by reasonable purchases, or in such other matter, as you shall find most proper and agreable to them, for such lands as have been unwarrantably taken from them, and for such others as they may have a desire to dispose of, and we recommend it to you to be particularly careful for the future that you do not make grants to any persons whatsoever of lands purchased by them of the Indians upon their own accounts, such practices have been found in a neighbouring <orig reg="Government">Govern<hi rend="super">t</hi></orig> to be attended with great mischief &amp; inconvenience; but when the Indians are disposed to sell any of their lands, the purchase ought to be made in His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> name and at the publick charge. <lb/><lb/></p>
+
+<p>As we find it has been usual upon former occasions when an interview has been held with the Indians, for the other neighbouring <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> in alliance with them to send <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> to be joined with those of New York, and as the present wavering disposition of the Indians equally effects the other provinces, we have wrote to the Governours of Virginia, Pennsylvania, Maryland, N. Hampshire, Massachusetes Bay and New Jersey, desiring them to represent to their respective assemblies the utility and necessity of this measure, and to urge them to make proper provision
+
+<pb n="856"/>
+
+for it and therefore it will be necessary that when you have settled the time and place of meeting, you should give them early notice of it, and this leads us to recommend one thing more to your attention, and that is to take care that all the provinces be (if practicable) comprised in one general treaty to be made in His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> name, it appearing to us that the practice of each province making a separate treaty for itself in its own name, is very improper, and may be attended with great inconvenience to His Majesty's service. So we bid you heartily farewell and are <lb/><lb/></p>
+
+<p>Your very loving friends and <lb/>
+
+humble servants <lb/><lb/>
+
+<orig reg="Dunk">D<hi rend="smallCaps">UNK </hi></orig> <orig reg="Halifax">H<hi rend="smallCaps">ALIFAX</hi></orig><lb/>
+
+J. <orig reg="Grenville">G<hi rend="smallCaps">RENVILLE</hi></orig> <lb/><lb/>
+
+
+For Sir Danvers Osborn <orig reg="Governor">Gov<hi rend="super">r</hi></orig> of New York. <orig reg="Dupplin">D<hi rend="smallCaps">UPPLIN</hi></orig>.
+<lb/><lb/>
+
+And also were read the following papers from the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian affairs at Albany. viz<hi rend="super">t</hi><lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">Albany, 15 June 1754.</hi><lb/>
+
+<hi rend="bold">At a Meeting of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian Affairs at <orig reg="Mr">M<hi rend="super">r</hi></orig>
+Lutteridge's</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — Coll: Mynd<hi rend="super">t</hi> Schuyler<lb/>
+
+<orig reg="Robert">Rob<hi rend="super">t</hi></orig> Saunders <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> Mayor of the City<lb/>
+
+Syb<hi rend="super">t</hi> Van Schaak <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> Recorder <lb/>
+
+<orig reg="Captain">Capt<hi rend="super">n</hi></orig> Hubert Marshall Commader of the Fort<lb/><lb/>
+
+Esquires:<lb/>
+
+Cornelius Cuyler<lb/>
+
+John Beckman<lb/>
+
+John Rentzelaar<lb/>
+
+Jacob Coen<hi rend="super">t</hi> tenEyck<lb/>
+
+Peter Winne<lb/><lb/>
+
+
+Peter Wraxall, Secretary </hi><lb/></p>
+
+<p>His <orig reg="Honour">Hon<hi rend="super">r</hi></orig> the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> the
+<orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> James de Lancey <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> having directed Coll.
+Mynd<hi rend="super">t</hi> Schuyler to convene the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian Affairs that they might consult together if they had any matters in particular to recommend to His Honour upon the approaching interview, with the Six Nations. <lb/><lb/></p>
+
+<p>In consequence hereof the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> are of opinion, that the Six Nations who now live dispersed and confused, should in the most earnest manner be exhorted to unite and dwell together in their respective Castles, and that the Mohawk Nation should live in one Castle only.<lb/><lb/></p>
+
+<p>That his honour apply to the Onondaga Indians in particular to direct and exhort them to live together in one Castle according to their ancient and prudent Custom, and to cause all their friends and Relations wherever dispersed to join them particularly those who have separated themselves, and live at present at Sweegassie<ref n="1" target="n856.01"/> on the South side of the River <orig reg="St">S<hi rend="super">t</hi></orig> Lawrence, to the Eastward of Cadaraghqui where the French have lately fortifyed, have a Garrison, and where a French Missionary constantly resides in order to draw them off from our alliance. At this Sweegassie the French have lately made a <orig reg="settlement">settlem<hi rend="super">t</hi></orig> of Indians belonging to the Six Nations of which the greatest part are from Onondaga and Cayouge. <lb/><lb/></p>
+
+<p>That whereas the French have been long endeavouring to prevail on the Senecas to come and settle at Irondequat in order to have them nearer to their settlements, the more easily to effect their design of debauching them from the British interest, the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> are of opinion, that his <orig reg="Honour">Hon<hi rend="super">r</hi></orig> should insist on the Senecas, who at present live very remote from one another,<lb/>
+
+<note id="n856.01" n="1">Oawegatchie, now Ogdensburgh, St. Lawrence Co., N. Y. — <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="857"/>
+
+to make a general Castle near the mouth of the Senecas River, where they have already began to build a new Castle. — This point has been several times recommended to them by former Governors, and which they have faithfully promised to do, but have not hitherto effected. <lb/><lb/></p>
+
+<p>The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> are of opinion that the most effectual method to retain and secure the Six Nations to the British Interest, will be to build two Forts, one on the Onondaga, the other in the Senecas Country, and that each Fort be supplyed with a proper Missionary. They are further of opinion that the carrying and selling Rum in the Castles of the Six Nations is of the most pernicious consequence to the public interest of this Colony in particular and to the British Interest in general, with respect to our Indian connections. <lb/><lb/></p>
+
+<p>The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> are also of <sic corr="opinion">opnion</sic> that no Frenchman upon any pretence whatsoever, should be suffered to reside or Trade among the Six Nations, and that the Six Nations should be directed to send those Frenchmen away who now Trade or reside among them, and to warn them not to return. Those French Emissarys having always been of fatal consequence to the British interest
+amongst the Six Nations. — <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">Albany <orig reg="18th">18<hi rend="super">th</hi></orig> June 1754.</hi><lb/>
+
+<hi rend="bold">At a meeting of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian affairs at the House of Robert
+Lutteridge.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — Peter Winne<lb/>
+
+Mynd<hi rend="super">t</hi> Schuyler <lb/>
+
+Sybrant Van Schaak Recorder<lb/>
+
+John Beeckman <lb/>
+
+Jacob Coen<hi rend="super">t</hi> ten Eyck <orig reg="Esquire">Esq<hi rend="super">re</hi></orig><lb/>
+
+[Peter Wraxall, Secretary] </hi><lb/></p>
+
+<p>His Honour the <abbr expan="Lieutenant">Lieut </abbr> <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> having sent to Coll: Mynd<hi rend="super">t</hi>
+Schuyler to know what he should do with regard to the River Indians at the approaching interview — 
+Coll: Schuyler thought proper to convene the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> that they might answer
+his honour upon this point. <lb/><lb/></p>
+
+<p>They are of opinion, that after the Six Nations arrive in Town, it will be time enough to send a
+Message to the said River Indians. <lb/><lb/></p>
+
+<p>Whereas divers complaints have been made to the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian Affairs that the Indians at Chonoghoheere Castle, do forcibly take Rum from the Oswego Traders, in their passage by the said Castle; and also that the Onejda Indians oblige the Traders to let them carry their goods over the carrying place, and to pay them double, and sometimes more than double the Customary price which the Germans were ready and willing to take. It is the opinion therefore of this Board that His Honour be pleased at the approaching interview, to represent the injustice of these proceedings to the Six Nations, and that it is a breach of their promises so solemnly made, and a violation of their engagements entered into, and frequently renewed with former Governours.
+<lb/><lb/></p>
+
+<p>A true Copy from the Records of Indian Affairs.<lb/>
+
+<orig reg="Peter">P<hi rend="smallCaps">ETER </hi></orig> <orig reg="Wraxall">W<hi rend="smallCaps">RAXALL </hi></orig> <orig reg="Secretary">Secr<hi rend="super">ty</hi></orig> ettc.
+<lb/><lb/></p>
+
+<p>A Remonstrance was then read to the Board from the Oswego Traders to His Honour the <abbr expan="Lieutenant">Lieut: </abbr> <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> of New York, of which the following is a copy: <lb/> </p>
+
+<pb n="858"/>
+
+<p>"To his Honour James deLancey <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <abbr expan="Lieutenant">Lieut: </abbr> <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> and
+Commander in Chief of the <orig reg="Provence">Prov<hi rend="super">ce</hi></orig> of New York ettc. <lb/><lb/></p>
+
+<p>We the Traders (or Handlers) to Oswego most humbly beg leave to remonstrate to your Honour the many hazards and difficulties we are subject to, in our passage thither from the ill treatment we meet with from the Indians i. e. in passing the Mohawks and Conajohary Castles; they board our Battoes, with axes, knives ettc and by force take what Rum they think proper, hooping and yelping as if they Gloried in their depredations, and threatning Murder to any that oppose them, and on our arrival at the great carrying place the Oneida Indians force our goods from us at pleasure to carry over, and not content with making us pay a most exorbitant price, for each freight, but rob us of our Rum, stores and other goods, with a great deal of invective threatening language, and are generally so numerous that we are obliged to submit to those impositions, or run the risk of being murdered and robbed of every thing we have, and to put their schemes the better into execution they force away the High Germans, who generally attend with their horses, that we may be under a necessity of employing them, and paying whatsoever they please to demand. <lb/><lb/></p>
+
+<p>We therefore humbly pray your honour, to take those our most severe grievances under due consideration, and fall upon such methods to redress them, as you in your great wisdom shall seem most expedient. <lb/><lb/></p>
+
+<p>Accept of our most fervent prayers for welfare and prosperity, as we ever remain with all due defference, gratitude and esteem — Sir <lb/><lb/></p>
+
+<p>Your Honour's most dutiful and most humble servants. <lb/><lb/>
+
+Oswego June <orig reg="1st">1<hi rend="super">st</hi></orig> 1754.["] (to which 47, several names were signed) <lb/><lb/></p>
+
+<p>The following Gentlemen were appointed a Committee to prepare the draught of a general speech to be made by his Honour to the Indians. Namely William Johnson, Samuel Wells, Theodore Atkinson, Elisha Williams, Martin Howard <orig reg="Junior">Jun<hi rend="super">r</hi></orig> Isaac Norris, Benjamin Tasker <orig reg="Junior">Jun<hi rend="super">r </hi></orig> <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> to whom were delivered the aforesaid papers. <lb/><lb/>
+
+[Adjourned till to Morrow Morning.] <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting at the Court house in Albany on Thursday the <orig reg="20th">20<hi rend="super">th</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His Honour and the aforesaid Council of New York and several of the Commissioners</hi><lb/></p>
+
+<p>The Committee appointed yesterday to prepare a draught of a general speech to be made to the Indians not being ready to make their Report [the Board] adjourned till to morrow morning. <lb/>
+</p>
+
+<pb n="859"/>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Friday the <orig reg="21st">21<hi rend="super">st</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His <orig reg="Honour">Hon<hi rend="super">r</hi></orig> the <orig reg="Lieutenant">Lieut </orig>  <orig reg="Governor">Gov<hi rend="super">r </hi></orig><lb/>
+
+The Council of New York aforesaid<lb/>
+
+All the Commissioners and <lb/>
+
+Thomas Hutchinson <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Massachusets Bay</hi><lb/></p>
+
+<p>It was proposed by the <orig reg="Governor">Gov<hi rend="super">r</hi></orig> that to avoid all disputes about the precedency of the Colonies, they should be named in the Minutes according to their situation from North to South — which was agreed to. <lb/><lb/></p>
+
+<p>Peter Wraxall <orig reg="Esquire">Esq<hi rend="super">re</hi></orig> was chosen Secretary to this Board. <lb/><lb/></p>
+
+<p>The Committee delivered in their draught of the General Speech which was read thro' and afterwards paragraph by paragraph; objections were made to some parts, the Board not coming to any conclusion on the same they adjourned till to morrow morning. <lb/><lb/></p>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court House at Albany on Saturday the <orig reg="22d">22<hi rend="super">d</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The Council of New York aforesaid, and all the Commissioners except John Chandler <orig reg="Esquire">Esq<hi rend="super">r</hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Massachusets Bay </hi><lb/></p>
+
+<p>The Consideration of the draught of the General speech was resumed, and one being agreed upon <orig reg="Mr">M<hi rend="super">r</hi></orig> Hutchinson and <orig reg="Mr">M<hi rend="super">r</hi></orig> Peters were desired to wait upon the
+<orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> with the same. <lb/><lb/></p>
+
+<p>Adjourned to Monday Morning. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court House at Albany on Monday the 24 June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig>  —  The Council of New York aforesaid and all the Commissioners</hi>
+<lb/></p>
+
+<p>A motion was made, that the thanks of this Board be given to the <orig reg="Reverend">Rev<hi rend="super">d </hi></orig> <orig reg="Mr">M<hi rend="super">r </hi></orig> Peters, one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Pennsilvania, for his
+sermon preached yesterday and that he be desired to suffer the same to be printed. — which was unanimously agreed to. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r</hi></orig> Chambers and <orig reg="Mr">M<hi rend="super">r</hi></orig> Peters were desired to wait upon
+his Honour, to request him to administer an Oath to <orig reg="Mr">M<hi rend="super">r</hi></orig> Wraxall for the due and faithful discharge of his Office of Secretary to this Board. — adjourned to three o'clock this afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting as aforesaid Monday afternoon the 24 June 1754.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the Council <orig reg="aforesaid">afores<hi rend="super">d</hi></orig> of the Province of New York and all
+the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig><lb/></hi></p>
+
+<p><orig reg="Mr">M<hi rend="super">r</hi></orig> Chambers and <orig reg="Mr">M<hi rend="super">r</hi></orig> Peters, Reported to the Board that <orig reg="Mr">M<hi rend="super">r</hi></orig> Wraxall had been swore into his Office by His Honour, comfortable<ref n="1" target="n859.01"/> to their desire in the morning. <lb/><lb/></p>
+
+<p>A motion was made, that the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> deliver their opinion, whether a Union of all the Colonies is not at present absolutely necessary for their security and defence. <lb/>
+</p>
+
+<note id="n859.01" n="1"><hi rend="italics">Sic</hi>. conformable. Official Record in <hi rend="italics">Johnson's Manuscripts</hi>, I.  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="860"/>
+
+<p>The question was accordingly put, and it passed in the affirmative unanimously. <lb/><lb/></p>
+
+<p>His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> made a proposal as a branch of the Indian Affairs under the considration of this Board, to build two Forts in the Indian Country to protect them, their Wives &amp; children as the best expedient to secure their fidelity to His Majesty. — Which proposal the Board determined to proceed upon, after they had considered some Method of effecting the union between the Colonies. <lb/><lb/></p>
+
+<p>On a Motion that a Committee be appointed to prepare and receive Plans or Schemes for the Union of the Colonies, and to digest them into one general plan for the inspection of this Board. <lb/><lb/>
+</p>
+
+<p>Resolved, that each <orig reg="Government">Govern<hi rend="super">t</hi></orig> chose one of their own number to be of that Committee. Accordingly were appointed.<lb/><lb/>
+
+<hi rend="center">Thomas Hutchinson <abbr expan="Esquire">Esq:</abbr> for Massachusets Bay<lb/>
+
+Theodore Atkinson <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> for New Hampshire<lb/>
+
+William Pitkin <abbr expan="Esquire">Esq.</abbr> for Conecticut<lb/>
+
+Stephen Hopkins <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> for Rhode Island<lb/>
+
+Benjamin Franklin <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> for Pennsylvania<lb/>
+
+Benjamin Tasker <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> for Maryland</hi><lb/></p>
+
+<p>It was left to His Honour to appoint one of His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> Council for the <orig reg="Government">Govern<hi rend="super">t</hi></orig> of New York, and he named William Smith <orig reg="Esquire">Esq<hi rend="super">re</hi></orig>.
+<lb/><lb/></p>
+
+<p>Adjourned till to morrow morning at 11 o'clock <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court house at Albany on Tuesday the <orig reg="25th">25<hi rend="super">th</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — 
+
+<orig reg="Esquire">Esq<hi rend="super">re</hi></orig> of the Council of N. York <lb/>
+
+Joseph Murray <lb/>
+
+William Johnson <lb/>
+
+John Chambers<lb/><lb/>
+
+<orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for <abbr expan="New">N.</abbr> Hampshire<lb/>
+
+Richard Wibbard <lb/>
+
+Meschech Weare <lb/>
+
+Henry Sherburne<lb/><lb/>
+
+<orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the Massachusetts Bay <lb/>
+
+Samuel Wells<lb/>
+
+John Chandler<lb/>
+
+Oliver Patridge <lb/>
+
+John Worthington<lb/><lb/>
+
+<orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Connecticut <lb/>
+
+Roger Wolcott <lb/>
+
+Elisha Williams<lb/><lb/>
+
+<orig reg="Esquire">Esq<hi rend="super">r </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Rhode Island<lb/>
+
+Martin Howard <orig reg="Junior">Jun<hi rend="super">r</hi></orig><lb/><lb/>
+
+<orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Pennsylvania<lb/>
+
+John Penn<lb/>
+
+Isaac Norris<lb/><lb/>
+
+<orig reg="Esquire">Esq<hi rend="super">r </hi> </orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Maryland<lb/>
+
+Abraham Barnes </hi><lb/></p>
+
+<p>The draught of the General speech not being returned to the Board from His Honour the <orig reg="Lieutenant">Lieut: </orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York, adjourned till five o'clock this afternoon. <lb/></p>
+
+<pb n="861"/>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting as aforesaid, Tuesday the <orig reg="25th">25<hi rend="super">th</hi></orig> June 1754 P.M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the Gentlemen of the Council of <abbr expan="New">N.</abbr> York and all the Commissioners</hi><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r</hi></orig> Murray delivered to the Board for their approbation His Honour's alterations &amp; additions to the draught of the speech presented to His Honour by <orig reg="Mr">M<hi rend="super">r</hi></orig> Hutchinson and <orig reg="Mr">M<hi rend="super">r</hi></orig> Peters, the <orig reg="22nd">22<hi rend="super">nd </hi></orig> <abbr expan="instant">inst:</abbr> which were read to the Board by the Secretary, and the further consideration thereof was deferred till to morrow morning. <lb/><lb/></p>
+
+<p>adjourned till 11 o'clock to morrow morning <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court House at Albany on Wednesday the <orig reg="26th">26<hi rend="super">th</hi></orig> June 1754 A.M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — 
+
+William Johnson and John Chambers <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> of the Council of New York<lb/>
+
+Samuel Welles, John Chandler, Thomas Hutchinson and Oliver Patridge <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> <orig reg="Commissioners"> Commiss<hi rend="super">rs</hi></orig> for Massachusets Bay <lb/>
+
+William Pitkin, Roger Wolcott &amp; Elisha Williams <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> <orig reg="Commissioners"> Commiss<hi rend="super">rs</hi></orig> for Connecticut <lb/>
+
+Martin Howard <orig reg="Junior">Jun<hi rend="super">r </hi></orig> <orig reg="Esquire">Esq<hi rend="super">r</hi></orig> a <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig>
+for Rhode Island.</hi><lb/></p>
+
+<p>The draught of the General speech, to the Six Nations was further debated, but not being fully concluded upon, the Board adjourned till 10 o'clock to morrow morning. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Thursday the <orig reg="27th">27<hi rend="super">th</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The four Gentlemen of the Council of New York and all the Commissioners</hi><lb/></p>
+
+<p>The draught of the general speech was further debated, and not being fully concluded upon, the Board adjourned till 5 o'clock this afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Thursday the <orig reg="27th">27<hi rend="super">th</hi></orig> June 1754. P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The four Gentlemen of the Council of New York and all the Commissioners</hi><lb/></p>
+
+<p>A motion was made that the Commissions or Powers from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> should be made part of the Records of this Congress. <lb/><lb/></p>
+
+<p>It was unanimously agreed to, and ordered to be prefixed to these Records. <lb/><lb/></p>
+
+<p>The draught of the General Speech was settled, Read and unanimously approved of, &amp; is as follows: <lb/><lb/></p>
+
+<p>Brethren. I have invited you here by the command of the great King our Common Father, to receive a present from him, and in his name to renew the ancient Treaty between this and all his other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>, and you our Brethren; and I have the pleasure to tell you, that by His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> order there are now present, <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Massachusets Bay, New Hampshire, Connecticut, Rhode Island, Pennsylvania and Maryland.<lb/><lb/>
+</p>
+
+<p>Virginia and Carolina likewise desire to be considered as present, altho' some great affairs which those <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> are engaged in, have prevented their sending <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig>; we are glad to see our Brethren here in health, and heartily bid you welcome. A Belt. <lb/></p>
+
+<pb n="862"/>
+
+<p>Brethren. We condole your, and our loss in the death of some of your people since the last interview in this place, We wipe away all tears from your eyes, and take away sorrow from your hearts, that you may speak freely. 3 strings of Wampum. <lb/><lb/></p>
+
+<p>Brethren, We come to strengthen and brighten the chain of friendship. It gives us great satisfaction, that you have lately added two links to the chain, the Shanihadaradighroones and the Tedderighroones, as it will always gives us pleasure to see your strength increased. This chain hath remained firm and unbroken from the beginning. This Belt will represent to you our disposition to preserve it strong and bright so long as the sun and moon shall endure and in the name of the Great King our Father, and in the behalf of all His <orig reg="Majesty's"/>Maj<hi rend="super">ty's</hi> Colonies, we now solemnly renew brighten and strengthen the ancient covenant Chain, and promise to keep the same inviolable and free from rust, and we expect the like confirmation and assurance on your part. —  A Chain Belt<lb/><lb/></p>
+
+<p>His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r</hi></orig>, explained this Chain Belt to them in the following manner: <lb/><lb/></p>
+
+<p>Brethren. This represents the King our common Father — this line represents his arms extended, embracing all us the English and all the Six Nations — These represents the Colonies which are here present and those who desire to be thought present — These represents the Six Nations, and there is a space left to draw in the other Indians — And there in the middle is the line represented which draws us all in under the King our common Father.<lb/><lb/></p>
+
+<p>The foregoing explanation having been given by His Honour at the time of his delivering the speech, doth not appear in the proceedings of the Congress, but stands in the Records of Indian Affairs and is therefore supplyed in this manner, [by] <lb/><lb/>
+
+(signed). <orig reg="Peter">P<hi rend="smallCaps">ETER </hi></orig> <orig reg="Wraxall">W<hi rend="smallCaps">RAXALL </hi></orig> <abbr expan="Secretary">Secr:</abbr> for <abbr expan="Indian">Ind: </abbr> <abbr expan="Affairs">Aff:</abbr>
+<lb/><lb/></p>
+
+<p>Brethren. We are informed that you now live dispersed from each other contrary to the Ancient and prudent custom of your Forefathers; and as you are by this means exposed to the attempts of your Enemies, we therefore in the most earnest manner recommend to, and expect it from you, for your own safety, to collect yourselves together, and dwell in your National Castles; We desire you, brethren of the Onondaga Nation in particular to call in your friends and relations to join you, especially those of your Nation who now lives at Osweegachio. A brave people separated from each other may easily fall a sacrifice, whereas united they may live secure and uninjured. A Belt. <lb/><lb/></p>
+
+<p>Brethren. We have some things to say to you of great importance. The Treatys, subsisting between us and you our Brethren, as well as the great affection we bear towards you, oblige us to mention it; The French profess to be in perfect friendship with us as well as you; notwithstanding this, they are making continual incroachments upon us both; they have lately done so, in the most insulting manner, both to the Northward and Westward. Your Fathers by their valour above one hundred years ago, gained a considerable Country, which they afterwards of their own accord put under the protection of the King of Great Brittain. The French are endeavouring to posess themselves of this whole Country, altho' they have made the most express Treaties with the English to the contrary. <lb/><lb/></p>
+
+<p>Brethren. It appears to us that these measures of the French, must necessarily soon interrupt and destroy all Trade and intercourse between the English and the several Indian
+
+<pb n="863"/>
+
+Nations on the continent, and will block up and obstruct, the great roads which have hitherto lain open between you and your allies, and Friends who live at a distance. <lb/><lb/></p>
+
+<p>We want to know whether these things appear to you in the same light as they do to us, or whether the French taking possession of the lands in your Country and building Forts between the Lake Erie, and the River Ohio, be done with your consent or approbation — a large Belt. <lb/><lb/></p>
+
+<p>Brethren. Open your hearts to us, deal with us as Brethren, we are ready to consult with you, how to scatter these Clouds that hang over us, this is a matter of so great weight that we think it best to defer mentioning any other affairs till you have considered this, least they should take away part of that attention which is necessary on so extraordinary an occasion. A Belt. <lb/><lb/></p>
+
+<p>adjourned till to morrow morning at 11 o'clock. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany Friday the <orig reg="28th">28<hi rend="super">th</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — John Chandler, Oliver Patridge &amp; John Worthington <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Massachusets Bay<lb/>
+
+Richard Wibbird Meschech Weare and Henry Sherburne <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for New Hampshire <lb/>
+
+Roger Wolcott and Elisha Williams <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Connecticut <lb/>
+
+Martin Howard <orig reg="Junior">Jun<hi rend="super">r </hi></orig> <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> a <orig reg="Commissioner">Commiss<hi rend="super">r</hi></orig>
+for Rhode Island <lb/>
+
+John Penn <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Pennsylvania</hi><lb/></p>
+
+<p>The Board adjourned till 5 o'clock this afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court house at Albany Friday afternoon the <orig reg="28th">28<hi rend="super">th</hi></orig> June 1754.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The four Gentlemen of the Council of New York <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Massachusets Bay<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from New Hampshire<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> front Connecticut<lb/>
+
+Stephen Hopkins <orig reg="Esquire">Esq<hi rend="super">r</hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Rhode
+Island<lb/>
+
+John Penn, and Benjamin Franklin <orig reg="Esquire">Esq<hi rend="super">rs</hi></orig> from Pensilvania<lb/>
+
+Benjamin Tasker <orig reg="Junior">Jun<hi rend="super">r </hi></orig> <orig reg="Esquire">Esq<hi rend="super">r</hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Maryland</hi><lb/></p>
+
+<p>The Committee appointed the <orig reg="24th">24<hi rend="super">th </hi></orig> <abbr expan="instant">inst:</abbr> to prepare and receive plans and schemes for the union of the Colonies, presented short hints of a scheme for that purpose of which copies were taken by the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of the respective provinces. <lb/><lb/></p>
+
+<p>Adjourned till to-morrow morning at 9 o'clock. <lb/></p>
+
+<pb n="864"/>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting at the Court house in Albany on Saturday the <orig reg="29th">29<hi rend="super">th</hi></orig> June 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — William Smith <orig reg="Esquire">Esq<hi rend="super">r</hi></orig> one of the Council of New
+York and all the Commissioners</hi><lb/></p>
+
+<p>His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York having given
+notice to this Board that he was going to speak to the Indians, the Board adjourned till 5 o'clock
+this afternoon and attended his Honour while he delivered the speech. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Saturday the <orig reg="29th">29<hi rend="super">th</hi></orig> June 1754. P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — Joseph Murray, John Chambers &amp; <orig reg="William">Will<hi rend="super">m</hi></orig> Smith <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> of the Council of New York <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Massachusets Bay <lb/>
+
+Theodore Atkinson and Richard Wibbird <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> Commissioners for New
+Hampshire<lb/>
+
+All the <orig reg="Commissioners"> Commiss<hi rend="super">rs</hi></orig> from Connecticut. The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Rhode Island<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Pennsylvania <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Maryland</hi><lb/></p>
+
+<p>The Board being informed that a considerable Number of Indians from Stock bridge, being of the Nation known by the name of the River Indians were in Town, a motion was made that his Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> might be acquainted with the circumstances of
+said Indians and desired to give orders for their support. <lb/><lb/></p>
+
+<p>The said Motion was agreed to, and <orig reg="Mr">M<hi rend="super">r </hi></orig> Welles and <orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin were appointed to wait on his Honour accordingly. The hints of a scheme for the union of the Colonies were debated on, but come to no conclusion. <lb/><lb/></p>
+
+<p>Adjourned to Monday morning at 9 o'clock. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting at the Court house at Albany on Monday the <orig reg="1st">1<hi rend="super">st</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the four Gentlemen of the Council of New York<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Massachusets Bay except John Chandler <orig reg="Esquire">Esq<hi rend="super">r </hi></orig><lb/>
+
+Theodore Atkinson and Henry Sherburne <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> <orig reg="Commissioners"> Commiss<hi rend="super">rs</hi></orig> for New Hampshire <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Connecticut <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Rhode Island <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Pennsylvania <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for Maryland </hi><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin reported to the Board that he had with <orig reg="Mr">M<hi rend="super">r </hi></orig> Welles (<orig reg="Mr">M<hi rend="super">r </hi></orig> Welles was not then present) waited on the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig>, and delivered the Message from the Board of Saturday
+last, relating to the River Indians living near Stock bridge, and that his Honour, was pleased to answer that he had not sent for those Indians, that he had consulted his Council, and
+
+<pb n="865"/>
+
+enquired of the Commissioners of Indian Affairs, and was informed that it had never been usual to afford subsistance to those Indians at any Treaty in Albany, that it was a great expence to New York to maintain the other Indians, that those properly belonged to Massachusets Bay <orig reg="Government">Govern<hi rend="super">t </hi></orig> and it appeared to him, that they should be supported by that <orig reg="Government">Govern<hi rend="super">t </hi></orig>. <lb/><lb/></p>
+
+<p>Upon a Motion, the Records of Indian affairs of New York were sent for, and it appeared that the River Indians have usually been present at the Treaties with the Six Nations, and that a speech has always been made to the said River Indians, and it was moved to the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> Governour of New York that he would now speak to them in the name of the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from the several Colonies, and also give orders for their support. <lb/><lb/>
+</p>
+
+<p>His Honour agreed to the proposal of speaking to them, and offered to give orders for their support but was pleased to say that he expected the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> for the several provinces would contribute to the charge of it. <lb/><lb/></p>
+
+<p>His Honour delivered to the Board copys of two Minutes of Council which are as follows: <lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Council held in the City of Albany the <orig reg="27th">27<hi rend="super">th</hi></orig> June 1754 P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The <orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> James de Lancey <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Govern<hi rend="super">r </hi></orig><lb/>
+
+Mr Murray, Coll: Johnson, Mr Chambers, Mr Smith</hi><lb/></p>
+
+<p>His Honour being informed by the Indian interpreter that the lower Castle of the Mohawk Indians now in this City, had some business to lay before him, and desired to be admitted to an Audience, appointed them to attend at 4 o'clock this afternoon, in Council, and they attending accordingly, were introduced with the Interpreter. <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> told them he was very glad to see them, that he was now met in Council &amp; ready to hear what they had to say. <lb/><lb/></p>
+
+<p>Whereupon Canadagara their Speaker addressing himself to his honour spoke as follows: <lb/><lb/>
+</p>
+
+<p>Brother. We are here this day by God's will, and your Honour's order, to which place you have led us as it were by the hand; this is our old meeting place, where if we have any grievances, we can lay them open. You are lately come to the Administration, and we are glad to see you, to lay our complaints before you. We take it very kind, you have given us this opportunity to unfold our minds, and we will now proceed to declare our grievances. <lb/><lb/></p>
+
+<p>Brother. We shall now open our minds, and we beg you will take time to consider what we shall say, and not give us too hasty an answer, or in two or three words, and then turn your back upon us. As you are a new Gov<hi rend="super">r </hi> we beg you will treat us tenderly, and not as the former <orig reg="Governor">Gov<hi rend="super">r </hi></orig> did, who turned his back upon us, before we knew he intended to depart, so that we had no opportunity to finish our business with him. The reason, we wish you would treat us in this tender manner, is, because this is the place where we are to expect a redress of our grievances, and we hope all things will be so settled that we may part good friends. <lb/><lb/></p>
+
+<p>Brother. We told you a little while ago, that we had an uneasiness on our minds, and we shall now tell you what it is; it is concerning our land. We understand that there are writings for all our lands, so that we shall have none left but the very spot we live upon and hardly that; we have examined amongst the elderly people, who are now present, if they have sold any of it, who deny that they ever have, and we earnestly desire, that you will take this into consideration, which will give us great satisfaction, and convince us that you have a friendship
+
+<pb n="866"/>
+
+for us; we dont complain of those who have honestly bought the land they possess, or those to whom we have given any, but of some who have taken more than we have given them; We find we are very poor, we [thought we] had yet land round about us, but it is said there are writings for it all. It is one condition of the ancient Covenant chain, that if there be any uneasiness on either side, or any request to be made, that they shall be considered with a brotherly regard, and we hope you will fulfill that condition on your side, as we shall be always ready to on ours; we have embraced this opportunity of unbosoming ourselves to you, with regard to our Castle, and we are well assured that the other Castle of the Mohawks, have complaints of the same nature to make, when they come down. We have now declared our grievances, and the Conajoharys will declare theirs, but that we shall leave to them. By this Belt we desire you to consider what we have said, and by the same we inform you that the Five Nations, have some things to say to you before you speak to them. Gave a Belt. <lb/><lb/>
+</p>
+
+<p>The Gov<hi rend="super">r </hi> said: <lb/></p>
+
+<p>You have now unbosomed yourselves to me, &amp; desire I would seriously consider of what you have said, and not give you a hasty answer. I will consider of it seriously, and you shall always find me ready to redress any of your Grievances as far as it may by in my power. But your complaints are general, I must therefore desire you to tell me, where those lands lye and the Names of the persons of whom you complain. <lb/><lb/></p>
+
+<p>To which the Speaker answered: <lb/></p>
+
+<p>Brother. We are told, a large Tract of land has been taken up called Kayadarosseras, beginning at the half Moon, and so up along Hudson's River to the third fall, and thence to the Cacknowaga or Canada-creek, which is about four or five miles above the Mohawks, which upon enquiry among our old Men we cannot find was ever sold, and as to the particular persons, many of them live in this Town, but there are so great a Number we cannot name them. <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> said: <lb/></p>
+
+<p>I will send for some of the Patentees or the persons claiming that land, and hear what they have to say, and consider the matter and give you an answer before you leave this place. It is agreable to Justice to hear both parties, before a judgement is given; and to manifest my friendship for you, I will do you all the Justice in my power. <lb/><lb/></p>
+
+<p>A true copy <orig reg="examined">exam<hi rend="super">d</hi></orig> by G. <orig reg="Banyar">B<hi rend="smallCaps">ANYAR</hi></orig> D. C. of the Council <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Council held in the City of Albany the <orig reg="28th">28<hi rend="super">th</hi></orig> June 1754.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The <orig reg="Honourable">Hon<hi rend="super">ble</hi></orig> James De Lancey <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> ettc. <lb/>
+
+<orig reg="Mr">M<hi rend="super">r </hi></orig> Murray, Coll: Johnson, <orig reg="Mr">M<hi rend="super">r </hi></orig> Chambers <orig reg="Mr">M<hi rend="super">r </hi></orig> Smith</hi><lb/></p>
+
+<p>His Honour being informed that the Conajohary or the upper Castle of the Mohawk Indians, and several Sachims of each of the other five Nations, attended without, and desired to speak to him, they were introduced with the Interpretor. <lb/><lb/></p>
+
+<p>Hendrick their Speaker spoke as follows: <lb/></p>
+
+<pb n="867"/>
+
+<p>Brother. We had a message from you some time ago, to meet you at this place where the fire burns; we of Conajahary met the Messenger you sent with a letter at Coll: Johnson's, and as soon as we received it, we came down running, and the Six Nations are now here compleat. <lb/><lb/></p>
+
+<p>The Govr said: <lb/></p>
+
+<p>Brethren of the Six Nations you are welcome. I take this opportunity now you are all together to condole the loss in the death of your friends and relations, since you last met here, and with this string of Wampum, I wipe away your tears, and take sorrow from your hearts, that you may open your minds and speak freely. A String of Wampum. <lb/><lb/></p>
+
+<p>Hendrick replyed: <lb/></p>
+
+<p>Brother. We thank you for condoling our loss, and wiping away our tears, that we may speak freely, and as we do not doubt, but you have lost some of your great Men and friends, we give you this string of condolence in return that it may remove your sorrow, and that we may both speak freely. Gave a string. <lb/><lb/></p>
+
+<p>Then Hendrick addressing himself to the Six Nations said: That last year he attended Coll: Johnson to Onondaga, to do service to the King and their people; that Coll: Johnson told them a New <orig reg="Governor">Gov<hi rend="super">r </hi></orig> was expected soon, and they would then have an opportunity of seeing him at Albany, and laying their grievances before him. <lb/><lb/></p>
+
+<p>That the New <orig reg="Governor">Gov<hi rend="super">r </hi></orig> arrived soon after and scarcely had they heard of his arrival but they had an account of his death, and that now he was glad to see his Honour, to whom he would declare his grievances — and then proceeded. <lb/><lb/></p>
+
+<p>Brother. We thought you would wonder why we of Connajohary staid so long, we shall now give you the reason. Last Summer we of Connajohary were down at New York to make our complaints, and we then thought the <orig reg="Covenent">Coven<hi rend="super">t </hi></orig> Chain was broken, because we were neglected; and when you neglect business, the French take advantage of it, for they are never quiet. <lb/><lb/></p>
+
+<p>It seemed to us that the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> had turned his back upon the Five Nations, as if they were no more, whereas the French are doing all in their power to draw us over to them.<lb/><lb/></p>
+
+<p>We told the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> last summer, we blamed him for the neglect of the Five Nations, and at the same time we told him, the French were drawing the Five Nations away to Osweegachie owing to that neglect, which might have been prevented, if proper use had been made of that warning, but now we are affraid it is too late. We remember how it was in former times when we were a strong and powerful people, Coll: Schuyler used frequently to come among us, and by this means we were kept together. <lb/><lb/></p>
+
+<p>Brother. We the Mohawks are in very difficult circumstances, and are blamed for things behind our backs which we dont deserve. Last Summer when we went up with Coll: Johnson to Onondaga, and he made his speech to the Five Nations, the Five Nations said, they liked his speech very well, but that the Mohawks had made it. We are looked upon by the other Nations, as Coll: Johnson's Councellors, and supposed to hear all news from him, which is not the case; for Coll: Johnson does not receive from, or impart much news to us; this is our reason for staying behind, for if we had come first, the other Nations would have said, that we made the Gov<hi rend="super">rs</hi> speech, and therefore tho' we were resolved to come, we intended the other nations should go before us, that they might hear the <orig reg="Governors">Gov<hi rend="super">rs</hi></orig> speech, which we could hear afterwards. <lb/><lb/></p>
+
+<p>There are some of our People who have large open Ears and talk a little broken English and Dutch, so that they sometimes hear what is said by the Christian settlers near them, and
+
+<pb n="868"/>
+
+by this means we came to understand, that we are looked upon to be a proud Nation, and therefore staid behind. Tis true, and known we are so, find that, we the Mohawks are the head of all the other Nations; here they are, and they must own it; but it was not out of pride we Cannajoharys staid behind, but for the reasons we have already given. <lb/><lb/></p>
+
+<p>His Honour answered: <lb/></p>
+
+<p>Brethren of Connajohary. — You have now told me the reason why you stayed behind, because you would not be blamed, by the other Nations as you have been before. I am satisfyed with what you say, that your staying behind did not proceed from pride. <lb/><lb/></p>
+
+<p>You tell me you have large open Ears, and that some of you understand a little of the language of the settlers about you, but I must caution you not to hearken to common reports, neither of us or your Brethren of the other Nations; I desire that we may all speak freely, and open our hearts to each other, and so remove any jealousies from amongst us. <lb/><lb/></p>
+
+<p>I hope that at another interview, you will all be more punctual, and keep as near as you can to the time appointed. You are sensible it must be very inconvenient to me and the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> to be detained so long in this place, at so great a distance from our homes. <lb/><lb/></p>
+
+<p>a true copy, <orig reg="Examined">Exam<hi rend="super">d</hi></orig> by G. <orig reg="Banyar">B<hi rend="smallCaps">ANYAR</hi></orig>. [D. C. of <orig reg="ye">y<hi rend="super">e</hi></orig> <orig reg="Cl"> C<hi rend="super">l</hi></orig>.] <lb/><lb/></p>
+
+<p>A motion was made that a Committee should be appointed to draw up a representation of the present state of the Colonies. Which was agreed to, and that the Gentlemen who were appointed to prepare and receive Plans or Schemes for the union of the Colonies the 24<hi rend="super">th</hi> ult: should be a Committee for this purpose. <lb/><lb/></p>
+
+<p>The plan for a Union of the Colonies was debated but the Board came to no resolves upon it.<lb/><lb/></p>
+
+<p>Adjourned to nine o'clock to morrow morning. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court House at Albany on Tuesday the <orig reg="2nd">2<hi rend="super">nd</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from Massachusets Bay, New
+Hampshire, Connecticut, Rhode Island, Pennsylvania and Maryland </hi><lb/></p>
+
+<p>After the debates held on the plan of an Union, it was moved; if the Board should proceed to form the plan of a Union of the Colonies, to be establised by an Act of Parliament. <lb/><lb/></p>
+
+<p>Whereupon it was move[d] to put the previous question, which passed in the negative. <lb/><lb/>
+</p>
+
+<p>The Question was then put, whether the Board should proceed to form a plan of a Union of the Colonies to be established by [an] Act of <orig reg="Parliament">Parliam<hi rend="super">t </hi></orig> which passed in the affirmative. <lb/><lb/></p>
+
+<p>adjourned to 3 o'clock in the afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting as aforesaid on Tuesday the <orig reg="2nd">2<hi rend="super">nd</hi></orig> July 1754 P.M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the four <orig reg="Gentlemen">Gentl<hi rend="super">n</hi></orig> of the Council of New York and All the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> above mentioned </hi><lb/> </p>
+
+<p>The answer of the Six Nations to the general speech made to them on Saturday last by His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York, in His <orig reg="Majesty's">Maj<hi rend="super">ty's</hi></orig> name, and in the presence and behalf of the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> on the continent therein named, was read and is as follows:<lb/>
+
+<pb n="869"/>
+
+Abraham, a Sachem of the upper Castle of the Mohawks rose up and said. <lb/><lb/></p>
+
+<p>Brethren. — You the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York and the <orig reg="Commissioners">Commis<hi rend="super">rs</hi></orig> of the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> are you ready to hear us? <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> replyed they were all ready. <lb/><lb/></p>
+
+<p>Then Hendrick brother to the said Abraham, &amp; a Sachem of the said Castle, rose up, and spoke on behalf of the Six Nations as follows: <lb/></p>
+
+<p>Brethren — Just now you told us, you were ready to hear us, hearken to me. <lb/><lb/></p>
+
+<p>Brother Corlaer, and brothers of the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig><lb/><lb/></p>
+
+<p>Saturday last you told us that you came here by order of the Great King our common Father, and in his name, to renew the ancient chain of friendship between this and the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> on the Continent and us, the Six united Nations; and you said also that there were then present, Commissioners from Massachusets Bay, New Hampshire, Connecticut, Rhode Island, Pennsylvania and Maryland, and that Virginia and Carolina desired to be considered also as present.<lb/><lb/></p>
+
+<p>We rejoyce that by the King's Orders we are all met here this day, and are glad to see each other face to face; We are very thankful for the same, and we look upon the <orig reg="Governors">Gov<hi rend="super">rs</hi></orig> of South Carolina &amp; Virginia as also present. Gave a Belt. <lb/><lb/></p>
+
+<p>Brethren. We thank you in the most hearty manner for your condolence to us, we also condole all your friends and Relations, who have died since our last meeting here. Gave 3 strings of Wampum.<lb/><lb/></p>
+
+<p>Brethren. (holding the Chain Belt given by his Honour and the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> in his hand) We return you all our grateful acknowledgements for renewing and brightening the covenant Chain. This Chain Belt is of very great importance to our united Nations, and all our Allies, we will therefore take it to Onondaga, where our Council Fire always burns, and keep it so securely that neither Thunder nor Lightning shall break it; there we will consult over it, and as we have lately added two links it, so we will use our endeavours to add as many more [links] to it as lyes in our power; and we hope when you show this Belt again, we shall give you reason to rejoyce at it, by your seeing the vacancys in it filled up (referring to His Honour's explanations of it in the general speech) In the mean time we desire, that you will strengthen yourselves, and bring as many into this Covenant Chain as you possibly can.  — <lb/><lb/></p>
+
+<p>We do now solemnly renew and brighten the Covenant Chain with our Brethren here present, and all our other absent Brethren on the Continent. <lb/><lb/></p>
+
+<p>Brethren. As to the accounts you have heard of our living dispersed from each other 'tis very true. <lb/><lb/></p>
+
+<p>We have several times endeavoured to draw off those our Brethren who are settled at Osweegatie but in vain, for the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Canada is like a wicked deluding spirit; however, as you desire we shall persist in our endeavours. <lb/><lb/></p>
+
+<p>Your have asked us the reason of our living in this dispersed manner. The reason is, your neglecting us for these three years past (then taking a stick and throwing it behind his back) you have thus thrown us behind your back, and disregarded us, whereas the French are a subtle and vigilant people, ever using their utmost endeavours to seduce and bring our people over to them. —  Gave a Belt. <lb/></p>
+
+<pb n="870"/>
+
+<p>Brethren. As to the encroachments of the French, and what you have said to us on that article in behalf of the King our Father, as these matters were laid before us as of great importance, so we have made a strickt enquiry amongst all our people, if any of them have either sold or given the French leave to build the Forts you mention, and we can not find that either any sale has been made, or leave has been given, but the French have gone thither without our consent or approbation nor ever mentioned it to us. <lb/><lb/></p>
+
+<p>Brethren. — The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia, and the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Canada are both quarrelling about lands which belong to us, and such a quarel as this may end in our destruction; they fight who shall have the land. The <orig reg="Governors">Gov<hi rend="super">rs</hi></orig> of Virginia and Pennsylvania have made paths thro' our Country to Trade and built houses without acquainting us with it, they should first have asked our consent to build there, as was done when Oswego was built. — Gave a Belt. <lb/><lb/></p>
+
+<p>Brethren. It is very true as you told us that the Clouds hang heavy over us, and 'tis not very pleasant to look up, but we give you this Belt (giving a Belt) to clear away all Clouds that we may all live in bright sunshine, and keep together in strict union and friendship; then we shall become strong and nothing can hurt us. <lb/><lb/></p>
+
+<p>Brethren. — This is the ancient place of Treaty where the Fire of Friendship always used to burn, and 'tis now three years since we have been called to any publick Treaty here; Tis true there are <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> here, but they have never invited us to smoak with them, (by which they mean the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> had never invited them to any conference), but the Indians of Canada, come frequently and smoak here, which is for the sake of their Beaver, but we hate them (meaning the French Indians) we have not as yet confirmed the peace with them. <hi rend="italics">Tis your fault Brethren that we are not strengthened by conquest, for we would have gone and taken Crown Point, but you hindered us; we had concluded to go and take but we were told it was too late, and that the Ice would not bear us; instead of this, you burnt your own Forts at Seraghtoga and run away from it, which was a shame &amp; a scandal to you. Look about your Country &amp; see, you have no Fortifications about you, no, not even to this City, tis but one Step from Canada hither, and the French may easily come and turn you out of your doors</hi>. <lb/><lb/></p>
+
+<p>Brethren. You desire us to speak from the bottom of our hearts, and we shall do it. Look about you and see all these houses full of Beaver, and the money is all gone to Canada, likewise powder, lead and guns, which the French now make use of at Ohio. <lb/><lb/></p>
+
+<p>Brethren. The goods which go from hence to Oswego, go from thence to Ohio which further enables the French to carry on their designs at the Ohio. <lb/><lb/></p>
+
+<p>Brethren. You were desirous that we should open our minds, and our hearts to you ; look at the French, they are Men, they are fortifying every where — but, we are ashamed to say it, you are all like women bare and open without any fortifications. <lb/><lb/></p>
+
+<p>Here Hendrick ended his speech, his Brother Abraham then rose up &amp; said: <lb/><lb/></p>
+
+<p>Brethren. We would let you know, what was our desire three years ago when Coll: Johnson laid down the management of Indian Affairs, which gave us great uneasiness; the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> then told us, it was not in his power to continue him, but that he would consult with the Council at New York, that he was going over to England and promised to recommend our desire that Coll: Johnson should have the management of Indian Affairs to the King, that the new <orig reg="Governor">Gov<hi rend="super">r </hi></orig> might have power to reinstate him; we long waited in expectation of this being done, but hearing no more of it, we embrace this opportunity of laying this Belt (&amp; gave a Belt) before all our Brethren here present, and desire them that Coll: Johnson may be reinstated and have
+
+<pb n="871"/>
+
+the Management of Indian Affairs, for we all lived happy, whilst they were under his management, for we love him, and he us, and he has always been our good, and trusty Friend. <lb/><lb/></p>
+
+<p>Brethren. I forgot something. We think our request about Coll: Johnson, which <orig reg="Governor">Gov<hi rend="super">r </hi></orig> Clinton promised to carry to the King our Father is drowned in the sea. The fire here is burnt out, and (turning his face to the New York <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig> of Indian Affairs at Albany who were there present) desired them to take notice of what he said. <lb/><lb/></p>
+
+<p>Which answer from the Indians was debated paragraph by paragraph, and those Gentlemen who were appointed a Committee to prepare a General speech the <orig reg="19th">19<hi rend="super">th</hi></orig> <abbr expan="ultimate">ult:</abbr> were now appointed to draw up a reply. <lb/><lb/></p>
+
+<p>Adjourned till to morrow morning at 9 o'clock. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Wednesday the <orig reg="3rd">3<hi rend="super">rd</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — John Chambers and William Smith <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> of the Council of New York<lb/>
+
+Samuel Welles, John Chandler and Oliver Patridge <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Massachusets Bay<lb/>
+
+Theodore Atkinson and Richard Wibbird <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from New Hampshire <lb/>
+
+[The Commissioners from Connecticutt] <lb/>
+
+Martin Howard [<orig reg="Junior">Jun<hi rend="super">r </hi></orig>] <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> a <orig reg="Commissioner">Commiss<hi rend="super">r </hi></orig> from Rhode Island <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Pennsylvania<lb/>
+
+Benjamin Tasker <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Maryland</hi><lb/></p>
+
+<p>A draught of the reply proposed to be made to the speech of the 6 Nations of the <orig reg="1st">1<hi rend="super">st</hi></orig> inst which the Committee appointed yesterday afternoon had drawn up, was read.<lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Chambers desired to carry it to His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> for his opinion  — which was agreed to. <lb/><lb/></p>
+
+<p>Took their seats at the Board. <lb/></p>
+
+<p><hi rend="center">His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig><lb/>
+
+Joseph Murray and William Johnson <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> of the Council of New York. <lb/>
+
+Thomas Hutchinson and John Worthington <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Massachusetts Bay. <lb/>
+
+Meschech Weare and Henry Sherburn <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for New Hampshire. <lb/>
+
+Stephen Hopkins <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Rhode Island.<lb/>
+
+Abraham Barnes <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Maryland.</hi><lb/></p>
+
+<p>His Honour laid before the Board several<ref n="1" target="n871.01"/>
+ matters, which he proposed to be inserted in the Reply to be made to the Six Nations, which together with the draught from the Committee was read and debated. <lb/><lb/></p>
+
+<p>The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Pennsylvania also laid before the Board an addition in behalf of their province and proposed it to be added to the Reply. The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Massachusets, New Hampshire and Connecticut, proposed also some additions.<lb/><lb/></p>
+
+<p>These several draughts being read &amp; considered the following reply to the Six Nations was agreed upon by the Board.<lb/><lb/></p>
+
+<note id="n871.01" n="1">certain. <hi rend="italics">Johnson Manuscripts</hi>, L.  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="872"/>
+
+<p>Brethren. It gives us great pleasure to see you so ready to renew and brighten the ancient Chain of friendship, we wish the further extention of it, and shall not fail joyning our utmost endeavours for that purpose. <lb/><lb/></p>
+
+<p>Brethren. We are [very] sorry that any neglect has been shown to you, and we hope that nothing of that kind will happen hereafter, or any misunderstanding arise between you and any of his <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>. You are our old and steady friends, we assure you not one thought has ever come into our minds of rejecting you, our hearts have ever been warm towards you, and we now gladly meet and open our hearts to you. The Covenant is renewed, the Chain is brightened, the Fire burns clear, and we hope all things will be pleasant on both sides for the
+future. A Belt. <lb/><lb/></p>
+
+<p>Brethren. We gladly understand that you gave no countenance to the French, who went to Ohio, and have entered on your lands, they are always your and our open or secret Enemies; you did put this land under the King our Father, he is now taking care to preserve it for you; for this end, among others, he has directed us to meet you here, for although, the land is under the King's <orig reg="Government">Govern<hi rend="super">t</hi></orig>, yet the property or power of selling it to any of his <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> subjects having authority from him, we always consider as vested in you.<lb/><lb/></p>
+
+<p>Brethren. You say that the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia and Canada, are fighting about lands belonging to you, and the <orig reg="Governors">Gov<hi rend="super">rs </hi></orig> of Virginia &amp; Pennsylvania have opened new roads and built houses at Ohio. <lb/><lb/></p>
+
+<p>What you say, is a great surprise to us. We all know that for five years past, in the face of all the six Nations in open daylight, the French have been marching Troops into that Country, which we ever did, and do still acknowledge to belong to you, tho' within your Father the King of Great Brittain's Dominions, and under his protection, &amp; the French did publish every where, their designs to build Forts and drive away the English Traders, and they did carry them into execution by seizing the Traders, and did last year actually build two Forts in that Country. <lb/><lb/></p>
+
+<p>But we never heard notwithstanding these open Hostilities of the French, that ever Virginia or Pennsylvania, sent one Soldier or built one house for their or your protection, till this present year. <lb/><lb/></p>
+
+<p>It is fortunate that <orig reg="Mr">M<hi rend="super">r </hi></orig> Weiser who transacts the publick business of Virginia &amp; Pennsylvania [with your Nations] and is one of your Council and knows these matters well, is now present, hear the account he gives, and that will set this matter in a true light.<lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Weiser was to say as follows: <lb/><lb/></p>
+
+<p>Brethren. The Road to Ohio is no new Road; [it is an old and frequented Road;] the Shawanese and Delawares removed thither above thirty years ago from Pennsylvania; ever since which that Road has been travelled by our Traders at their invitation, and always with safety, until within these few years, that the French with their usual faithlessness, sent armies there, threatened the Indians and obstructed our trade with them. <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia observing these hostilities in time of full peace, sent His <orig reg="Majesty">Maj<hi rend="super">ty</hi></orig> an account of them; his <orig reg="Majesty">Maj<hi rend="super">ty</hi></orig> was pleased to order his <orig reg="Governor">Gov<hi rend="super">r </hi></orig> to hold an interview with the Six Nations to consult measures with them, how to put a stop to these French proceedings, equally injurious to them, as to his subjects, and that they might better know them. <lb/><lb/></p>
+
+<p>It was thought the interview might best be held at some place near the Country where these hostile proceedings were carried on; His <orig reg="Majesty">Maj<hi rend="super">ty</hi></orig> likewise ordered a present to the Six Nations,
+
+<pb n="873"/>
+
+as a further token of his affection for them. Accordingly <orig reg="Mr">M<hi rend="super">r </hi></orig> Weiser in 1750 was sent to Onondaga by the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia, and invited the Indians to come,
+and treat at Federicksburgh in that Province, and receive the King's present, but could not prevail. The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia finding the French still continuing their hostilities sent <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> in 1751 to the Indians at Ohio, and delivered them the King's
+present, and by a Belt of Wampum proposed, that a strong house might be built near the mouth of the Mohonagahela for their mutual protection; the Indians made answer, that they were well pleased with the proposal, and would send that Belt to Onondaga, and joyn one of their own to it. Nothing was heard of this Belt, and the last year the French invaded the Country of Ohio, with a strong hand, whereupon the Indians residing there, your flesh &amp; blood, sent repeated messages to the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia, to send his young Men to their Assistance, but he being a person of great forethought and prudence still forbore to do it, and instead thereof sent two Messages by <orig reg="Mr">M<hi rend="super">r </hi></orig> Andrew Meutour, to Onondaga, for your advice how to act. It happened that no Council could be called at either time, the Chiefs of Onondaga, desired <orig reg="Mr">M<hi rend="super">r </hi></orig> Montour to tell their Brother the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia, to act cautiously, and let the French strike the first blow. <lb/><lb/></p>
+
+<p>The French then coming nearer and nearer, Tanacharisson (otherwise called the Half King ) was sent to them by the united Nations at Ohio, together with the Shawanese and Delawares to forewarn them off their land, in the mean time other chiefs of these several Nations came to Virginia and Pennsylvania, and told us what they had agreed upon, in Council, to wit that they, the rest of the Chiefs should come to us and desire us to call our people from over the Aleghany Hills, to prevent bloodshed between the English and French; but when these Indians returned, and found that the French paid no regard to their warning, but told them positively, that if they opposed their taking posession of that Country, they would cut them off, they sent repeated Messages to the <orig reg="Governors">Gov<hi rend="super">rs </hi></orig> of Pennsylvania and Virginia, to apprize them of their, the Indians immediate danger, telling them they would find nothing but the ashes of their houses and their bones, if they did not forthwith send warriours and build them a house to fly to, having a late example before their eyes, in, that the French had fallen upon their brethren the Tweeghtwees on a sudden and killed them in their houses as well as some English who were then Trading with them. <lb/><lb/></p>
+
+<p>On this melancholy account the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia agreable to the request of the Indians sent people to build a house at the mouth of Mohongahela, but before they had finished it, the French came down the River, with a Thousand Men and 18 cannon, and told the people who were building it, and were but forty four in number, that they might<ref n="1" target="n873.01"/> either fight or give up posession, which last they were obliged to do, on account of the superior force of the French. <lb/><lb/></p>
+
+<p>Brethren. This is the truth, which we have thought proper to relate so particularly, that the prudent and cautious conduct of Virginia might be known to the Six Nations. As to Pennsylvania, they have never sent a warriour, or built a Fort at Ohio. This Belt is given to confirm what is said, and that you may remember what has been now related to you. A Belt. <lb/><lb/></p>
+
+<p>Here <orig reg="Mr">M<hi rend="super">r </hi></orig> Weiser's relation ends. <lb/><lb/></p>
+
+<p>Brethren. You told<ref n="2" target="n873.02"/> us we are open and defenceless, we are consulting how far it will be necessary to fortify our frontiers, at the same time we expect you take care to keep your people from going over to the French. <lb/><lb/></p>
+
+<note id="n873.01" n="1">must. <hi rend="italics">Johnson Manuscripts</hi>, I.</note>
+
+<note id="n873.02" n="2">tell. <hi rend="italics">Ibid</hi> —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="874"/>
+
+<p>We are able when united with you to resist any force the French and their Allies, can bring against us. <lb/><lb/></p>
+
+<p>(The following paragraphs were to be spoken by the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York in his own name) <lb/><lb/></p>
+
+<p>Brethren. You have told me, that this is the place of Treaty; that 'tis now three years ago since you were asked to smoake a pipe here; that there are Commiss<hi rend="super">rs </hi> but they have never invited you to smoak with them. <lb/><lb/></p>
+
+<p>It was their duty on their appointment to acquaint you with it, and to invite you to smoak with them to rekindle the fire, which was then almost extinguished, and if they had done it earlier, and before I sent them directions it would have been very agreable to me. <lb/><lb/></p>
+
+<p>Brethren. You say the houses here are full of Beaver; this is a Trading place, and the Merchants have a right to traffick for Beaver or other skins, which they sometimes pay for in goods and sometimes in money, but as to what you say about Guns, and powder being sold to the French, I have made all the enquiry I could into this matter, and am assured you are misinformed, for that neither guns nor powder are sold by any persons here to the French. <lb/><lb/></p>
+
+<p>Brethren. — You tell me that whilst Coll: Johnson had the management of Indian affairs you all lived happy, that you loved him and he you, and that he has always been your good and Trusty friend; I am very sensible you had good reason to look upon him, in this light and fully convinced that he is still your Friend, but as this is the place where the ancient fire was kindled which was nearly burnt out, &amp; as Coll: Johnson for some reasons declined the management of Indian Affairs, it was thought proper to rekindle the fire here, by appointing <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> whom I shall direct to receive and consult with you, upon all business that may concern our mutual interests, and
+[I] expect that you will for the future apply to them according to the Custom of your forefathers, to tell your news, and in return to receive from them what shall be thought necessary to be imparted to you, and I will give them directions that they treat you, with the affection due to you as Brethren. I will make tryal of them another year, and if you do not meet with the kind treatment you have a right to expect, complain to this <orig reg="Government">Govern<hi rend="super">t </hi></orig> and effectual measures shall be taken for your satisfaction. Gave a Belt. <lb/><lb/></p>
+
+<p>(The following was to be spoken by <orig reg="Mr">M<hi rend="super">r </hi></orig> Killogg I[n]terpreter from Massachusets Bay). <lb/><lb/></p>
+
+<p>Brethren. We have agreed to tell all News, &amp; take Council together, we can not part till we have told you the News from New England, tho' at a considerable distance from you, The French have the same bad designs there, as well as at Ohio, they are very fond to get Kennybeck River; we have news of their beginning a Fort at the head of that River; a priest of theirs has built a house a great way down that River, Governour Shirley has raised 800 Men, and is gone down to drive them away and to build an English Fort at the head or far up the said River Kennybeck. We have news also that the French are building a Fort up Conecticut River, northward of Cowass; the Gov<hi rend="super">r </hi> of New Hampshire has now sent a <orig reg="Company">Comp<hi rend="super">y</hi></orig> of Men up that River to enquire into that fact, and if true to drive them immediately off. In another part of the <orig reg="Government">Govern<hi rend="super">t </hi></orig> of New Hampshire a number of the <orig reg="St">S<hi rend="super">t </hi></orig> Francis Indians, have lately taken a family consisting of a Man and his wife and three Children, and carryed them into captivity from an out settlement on Merrismack River, and this contrary to their solemn engagements at a Treaty held with them. <lb/></p>
+
+<pb n="875"/>
+
+<p>We have also news that a number of Indians had murdered twenty one English Fishermen at Canso, and had carried their Scalps, to Cape Breton where they were well received, and 'tis said rewarded.<lb/><lb/></p>
+
+<p>The Board then adjourned till to morrow <orig reg="morning">morn<hi rend="super">g</hi></orig> at 9 o'clock. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court house at Albany on Thursday the <orig reg="4th">4<hi rend="super">th</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — The four Gentlemen of the Council of New York <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig></hi><lb/> </p>
+
+<p>The plan for a Union of the Colonies was debated but nothing finally determined on — adjourned to 3 o'clock this afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting as above on Thursday the <orig reg="4th">4<hi rend="super">th</hi></orig> July 1754 P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig></hi><lb/></p>
+
+<p>The plan for a Union was further considered but no resolves made thereupon. <lb/><lb/></p>
+
+<p>The Board receiving a message from His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York, that the Indians were seated in order to speak to his Honour and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> the Board adjourned to 9 o'clock to morrow morning and waited upon the <orig reg="Governor">Gov<hi rend="super">r </hi></orig>. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting in the Court house at Albany on Friday the <orig reg="5th">5<hi rend="super">th</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig></hi><lb/></p>
+
+<p>The rejoinder of the Six Nations spoke yesterday afternoon was read, to the Board and ordered to be minuted as follows: (The following speech is chiefly a Rejoinder to the reply made to the Six Nations on the <orig reg="3rd">3<hi rend="super">rd </hi></orig> <orig reg="instant">inst:</orig>) <lb/><lb/></p>
+
+<p>Brother of New York — Brethren of the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>. — We on our side are equally as much rejoiced as you have expressed yourselves on the renewing and brightening the ancient covenant chain between all His <orig reg="Majestys">Maj<hi rend="super">tys</hi></orig> <orig reg="Government">Govern<hi rend="super">ts</hi></orig> on the continent and us of the Six United Nations. <lb/><lb/></p>
+
+<p>As to what the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York told us yesterday relating to the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> of Indian affairs at Albany, we are much obliged to him for his promise to direct them to take due notice of us for the future, that he will try them for one year longer, and for giving us leave to acquaint this <orig reg="Government">Govern<hi rend="super">t </hi></orig>, if they do not treat us as Brethren. <lb/><lb/></p>
+
+<p>Brethren. We have told the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York how Coll: Johnson has behaved to us, and our opinion of him, and the danger we thought ourselves in by his leaving off the management of Indian Affairs, if he fails us, we die — however we agree to what the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> has proposed to us — he is Master of all to do what he pleases, and we submit the whole affair to him. Gave a Belt. <lb/><lb/></p>
+
+<p>Brethren. We are very thankful to the King our Father for ordering <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from so many <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> to meet here in order to enquire into all matters relating to us and to put every
+
+<pb n="876"/>
+
+thing upon [a] right footing. We rejoice that we have opened our hearts to each other, and we return the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and all the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> our thanks for the same. <lb/><lb/></p>
+
+<p>Brethren. Some time ago the King our Father sent a present to the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia, who sent a Messenger to the Six Nations that we should come down to Virginia and receive it, but we could not come; we have since been informed that the present was sent to Ohio (the speaker then proceeded to repeat the substance of what was said to them yesterday on the part of the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> of Virginia and Pennsylvania by their Interpreter <orig reg="Mr">M<hi rend="super">r </hi></orig> Weiser.) We allow that the Road from Pennsylvania to Ohio is no new Road, but has been travelled these thirty years by the Traders. <lb/><lb/></p>
+
+<p>We thank the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Virginia for assisting the Indians at Ohio, who are our Brethren<ref n="1" target="n876.01"/> &amp; Allies, and we approve of the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of Pennsylvania's not having hitherto intermeddled in this affair, he is a wise and prudent Man, and will know his own time. <lb/><lb/></p>
+
+<p>We return the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York, and all the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> our most hearty thanks (here the Speaker made bows to his Honour and all the <orig reg="Commissioners">Commiss<hi rend="super">rs</hi></orig>) for the promise of protection given us, of our lands, and the acknowledgement that the right of selling it is in us. Gave a Belt. <lb/><lb/></p>
+
+<p> Brethren. <hi rend="italics">We put you in mind in our former speech of the defenceless state of your Frontiers, particularly of this City [, of Schenectady] and of the Country of the Five Nations. You told us yesterday you were consulting about securing both, yourselves &amp; us. We beg you will resolve upon something speedily. You are not safe from danger one day. The French have their hatchet in their hands, both, at Ohio and in two places in New England. We don't know but this very night they may attack us. One of the principal reasons why we desire, you will be speedy in these matters is, that since Coll: Johnson has been in this City, there has been a French Indian at his house, who took mreasure of the wall round it and made very narrow observations on every thing thereabouts. We think him (Coll: Johnson) in very great danger, because the French will take more than ordinary pains either to kill him, or to take him prisoner, upon account of his great interest among us, and being also one of the Five Nations </hi> (Coll: Johnson is one of their Sachems). Upon this they gave four strings of Wampum. <lb/><lb/></p>
+
+<p>(The Board having ordered this Rejoynder of the Six Nations to be only so far recorded in their proceeding, the remainder of their said rejoynder is by order of his Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> supplied after this manner from the Records of Indian
+Affairs, that these proceedings of the Congress may compleat all that passed at the publick conferences with the Indians. The remainder of their said speech is as follows:) <lb/><lb/></p>
+
+<p> Brethren. There is an affair about which our hearts tremble and our minds are deeply concerned; this is the selling of Rum in our Castles. It destroys many both, of our old and young people. We request of all the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> here present, that it may be forbidden to carry any of it amongst the Five Nations. <lb/><lb/></p>
+
+<p>Brethren. We are in great fears about this Rum, it may cause murder on both sides. We dont want it to be forbid to be sold us in Albany, but that none may be brought to our Castles. The Cayouges now declare in their own name, that they will not allow any Rum to be brought up their River, and those who do must take the consequences. <lb/><lb/></p>
+
+<p>Brethren. We the Mohawks of both Castles have also one request to make, which is, that the people who are settled round about us may not be suffered to sell our people Rum; it keeps them all poor, makes them idle &amp; wicked; if they have any money or goods they lay
+
+<note id="n876.01" n="1">Relations. <hi rend="italics">Johnson Manuscripts</hi>, I.  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="877"/>
+
+it all out in Rum, it destroys virtue and the progress of Religion amongst us. (the lower Castle of the Mohawks have a Chapel and an English Missionary belonging to it). <lb/><lb/></p>
+
+<p>We have a friendly request to make to the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and all the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> here present, that they will help us to build a Church at Connojohary, and that we may have a Bell in it, which together with the putting a stop to the selling of Rum, will tend to make us Religious and lead better lives than we do now. <lb/><lb/></p>
+
+<p>Brethren. We have now fully opened our hearts to you except about the land belonging to the Cannojoharys which caused us to go down to New York last year. The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> knows what our complaint is, and we now desire to know, when that affair will be settled, as it was promised that satisfaction should be given us on that article. <lb/><lb/></p>
+
+<p>Here Hendrick ended his speech. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Penn one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Pennsylvania,
+declared that himself in conjunction with the other <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for that <orig reg="Government">Govern<hi rend="super">t </hi></orig> were about purchasing from the Six Nations a tract of land within the boundaries of the said <orig reg="Government">Govern<hi rend="super">t </hi></orig> below the lattitude 42°; and the Indians also then published their intention of making the said sale at the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> Lodgings. <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> spoke to the Indians and told them: That as to what they had said about Rum, he would give them an answer to morrow morning, that he had received a present for them from the King their Father, and another from this <orig reg="Government">Govern<hi rend="super">t </hi></orig>, which he would give him to morrow morning, when he would also give them an answer to those other particulars which require one. As I have given you satisfaction with respect to one of your complaints about your land, and you have consented that an enquiry into any other shall be deferred until I arrive at N. York, I shall not now say anything further to you on that affair. (Extracted from the Records of Indian Affairs by me Peter Wraxall —  <orig reg="Secretary">Secr<hi rend="super">ty</hi></orig>). <lb/><lb/></p>
+
+<p> The Board then proceeded to consider the plan for a Union, but did not go thro' with it. adjourned to 9 o'clock to morrow morning. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting held in the Court house at Albany on Saturday the <orig reg="6th">6<hi rend="super">th</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Massachusets Bay<lb/>
+
+William Pitkin and Roger Wolcott <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Connecticut<lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Rhode Island<lb/>
+
+John Penn, Isaac Morris,<ref n="1" target="n877.01"/> &amp; Benjamin Franklin <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Pennsylvania <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Maryland</hi><lb/></p>
+
+<p>His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> sent to the Board the
+speech he proposed to make to the River Indians, which the Board agreed to with a small addition, which was sent in writing to his Honour. The Board having been informed by <orig reg="Mr">M<hi rend="super">r </hi></orig> Peters "that the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York sent for him last night, and told him, his provisions were expended, and he could no longer maintain the Indians, and expected the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> would maintain them, and gave him the list of what
+had been allowed p<hi rend="super">r </hi> day to the Five Nations, exclusive of the River Indians" The Board
+
+<note id="n877.01" n="1">Norris. <hi rend="italics">Johnson Manuscripts</hi>, I.  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="878"/>
+
+thereupon resolved: that they would take the charge of supporting the Indians upon themselves.
+<lb/><lb/></p>
+
+<p>Meshech Weare and Henry Sherburne <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for New Hampshire took their seats. <lb/><lb/></p>
+
+<p>The Committee appointed the <orig reg="1st">1<hi rend="super">st </hi></orig> <orig reg="instant">inst:</orig> to draw up a representation of the present State of the Colonies with relation to the French delivered the same to the Board, which was read, &amp; ordered to lay upon the Table for the consideration of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig><lb/><lb/></p>
+
+<p>The Secretary presented to the Board a draught of the speech which his Honour proposed to deliver to the Six Nations this afternoon, and also the following Message fronm his Honour: "that the Board would please to send him any alterations or additions which they might think proper to be made to the said draught — that his honour, intended when he made the speech, to read to them the Act of the General Assembly of New York concerning the sale of Rum to the Indians, and that he also recommended the request of the upper Castle of the Mohawks for a Church to the Board."<lb/><lb/></p>
+
+<p> The Secretary also brought back his Honour's approbation to the small addition proposed to be made to the speech intended to be made to the River Indians, which speech is as follows: <lb/><lb/>
+</p>
+
+<p>Brethren. I have sent for you here to give you fresh assurances of the Great King your Father's protection, and that we might with the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> whom you now see assembled here from the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> of Massachusets Bay, New Hampshire, Connecticut, Rhode Island, Pennsylvania and Maryland, strengthen and brighten the Covenant Chain. <lb/><lb/></p>
+
+<p>We are glad to see you at this [your] old meeting place, and we do now, in His <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> name, and in behalf of all the Colonies renew the Ancient Covenant Chain of friendship, that it may be stronger and brighter than ever, which we recommend to you to preserve clean and free from rust, by a peaceable &amp; affectionate behaviour to all your brethren, and especially to those who live near you, and you may then with confidence rely on the favour of this and all his <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>. <lb/><lb/></p>
+
+<p>As a proof of the King your Father's tender regard for you, I shall deliver you a Present he has sent over for you, consisting of such necessaries as you may want; and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from each of the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> have contributed towards a present for you also, all which presents shall be here ready for you in the afternoon.<lb/><lb/>
+</p>
+
+<p>Elisha Williams <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> a <orig reg="Commissioner">Commiss<hi rend="super">r </hi></orig> for Connecticut took
+his seat. <lb/><lb/></p>
+
+<p>On a Motion made and seconded that a Message be sent to His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York relating to the answer he proposes to make to the Six Nations, <orig reg="Mr">M<hi rend="super">r </hi></orig> Hutchinson and <orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin were appointed to prepare the same. <lb/><lb/></p>
+
+<p>Theodore Atkinson and Richard Wibbird <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> <orig reg="Commissioners">Com<hi rend="super">rs </hi></orig> for New Hampshire took their seats, as did also Richard Peters <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Pennsylvania. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Hutchinson reported the following Message: <lb/><lb/></p>
+
+<p>May it please your Honour. <lb/></p>
+
+<p>The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> now met at Albany observe that in the speech your Honour proposes to make this day to the Indians of the Six Nations, and which you have caused to be communicated to the Board by their Secretary, no notice is taken of the complaints of the said Indians, relating to their lands. This complaint seems by the letter from the Right Honourable the Lords of Trade, which your Honour has laid before the Board to have been the principal occasion of this unusual and expensive meeting of <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from
+
+<pb n="879"/>
+
+so many Colonies, and it appears by the last answer from the Indians, that their uneasiness still remains. <lb/><lb/></p>
+
+<p>The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> therefore, think it incumbent on them to pray your Honour that they may be acquainted with the particulars of the complaint, and that they may have an opportunity of consulting with your Honour, proper measures for removing the causes thereof. <lb/><lb/></p>
+
+<p>Which was read and unanimously agreed to; and it was thereupon ordered that <orig reg="Mr">M<hi rend="super">r </hi></orig> Welles and <orig reg="Mr">M<hi rend="super">r </hi></orig> Pitkin, wait upon his Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York with the same. <lb/><lb/></p>
+
+<p>adjourned to 3 o'clock this afternoon. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting on Saturday the <orig reg="6th">6<hi rend="super">th</hi></orig> July 1754 P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Massachusets Bay<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from New Hampshire <lb/>
+
+The <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from Connecticut <lb/>
+
+Stephen Hopkins <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Com<hi rend="super">rs </hi></orig> from Rhode Island
+</hi><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Welles reported to the Board that he and <orig reg="Mr">M<hi rend="super">r </hi></orig> Pitkin had delivered the Message they were appointed in the morning to deliver to His <orig reg="Honour">Hon<hi rend="super">r </hi></orig> the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York<lb/><lb/></p>
+
+<p>The four Gentlemen of the Council of New York Marlin Howard [<orig reg="Junior">Jun<hi rend="super">r </hi></orig>] <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> Benjamin Franklin and Abraham Barnes <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> took their seats. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Murray delivered at the Board his Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor's">Gov<hi rend="super">r's</hi></orig> answer in writing to the Message delivered to his Honour this morning by <orig reg="Mr">M<hi rend="super">r </hi></orig> Welles and <orig reg="Mr">M<hi rend="super">r </hi></orig> Pitkin, which was read and is as follows: <lb/><lb/></p>
+
+<p>Gentlemen. In answer to your Message to me of this day I acquaint you, that yesterday I had the Sachems of the Connajohary Castle before me in Council, to conclude the matter in controversy between some Germans and one Teady Magin, relating to an Indian purchase that had occasioned the greatest uneasiness amongst the Indians of that Castle, which after two meetings, was then formally and finally settled to the satisfaction of all parties. <lb/><lb/></p>
+
+<p>I then took occasion to observe to them that at their meeting on the <orig reg="2nd">2<hi rend="super">nd</hi></orig> <abbr expan="instant">inst:</abbr> I desired them to open their minds fully, and that I expected they would then have laid all their complaints before me; that as to what they had mentioned in their publick speech on the <orig reg="4th">4<hi rend="super">th</hi></orig> <abbr expan="instant">inst:</abbr> I was not acquainted with any other particular complaints until I came to this place, being abroad on the circuit at the time they made them at New York, and then I promised as soon as I returned thither I would look into them, and do [them] all the justice that lay in my power, with which they declared themselves well satisfied and thanked me. <lb/><lb/></p>
+
+<p>Albany <orig reg="6th">6<hi rend="super">th</hi></orig> July 1754. <orig reg="James">J<hi rend="smallCaps">AMES </hi></orig> <orig reg="DeLancey">D<hi rend="smallCaps">E</hi>L<hi rend="smallCaps">ANCEY </hi></orig><lb/><lb/></p>
+
+<p>The Board being obliged to attend at the interview of the Skaticok and River Indians adjourned to Monday morning at 9 o'clock. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court house at Albany on Monday the <orig reg="8th">8<hi rend="super">th</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — William Johnson and <abbr expan="William">W<hi rend="super">m</hi></abbr> Smith <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> two of the Council of New York &amp; all the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig>.</hi><lb/></p>
+
+<p>The speech proposed by His Honour to be made to the Indians of the Six Nations having been again read to the Board, and the complaint of the Indians relative to their lands coming
+
+<pb n="880"/>
+
+under their consideration, the Board were acquainted that <orig reg="Mr">M<hi rend="super">r </hi></orig> William Livingston and <orig reg="Mr">M<hi rend="super">r </hi></orig> William Alexander,<ref n="1" target="n880.01"/> two of the Heirs or Devisees
+of Phillip Livingston <orig reg="Esquire">Esq<hi rend="super">re </hi></orig> deceased, the proprietor or patentee of the lands on which Connajohary Castle stands, had declared their readiness to give up all right to said patents or such parts as shall be thought necessary; it was ordered that said <orig reg="Mr">M<hi rend="super">r </hi></orig> Livingston and <orig reg="Mr">M<hi rend="super">r </hi></orig> Alexander be informed that the Board desired to speak with them. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Livingston and <orig reg="Mr">M<hi rend="super">r </hi></orig> Alexander being present informed the Board, that their Father was one among other Patentees of the lands mentioned, that they were interested 1/8 each of them in their Father's Right; the circumstances of this title they had made no enquiry into, but were ready to make any resignation, which, either justice or the publick service required. <lb/><lb/></p>
+
+<p>The Board being informed that His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> desired a Gentleman from each <orig reg="Government">Govern<hi rend="super">t </hi></orig>, might be appointed to be present with him, in making enquiry of the Indians of the Connajohary Castle, how far they were satisfyed respecting their lands, <orig reg="Mr">M<hi rend="super">r </hi></orig> Peters and <orig reg="Mr">M<hi rend="super">r </hi></orig> Howard were appointed to wait on His Honour and acquaint him that the Board agreed to the proposal. Accordingly: <lb/><lb/></p>
+
+<p><hi rend="center">Mr Hutchinson was appointed for Massachusets Bay <lb/>
+
+Coll: Atkinson was appointed for New Hampshire <lb/>
+
+Coll: Wolcott for Connecticut <lb/>
+
+Mr Hopkins for Rhode Island <lb/>
+
+Mr Norris for Pennsylvania <lb/>
+
+Coll: Tasker for Maryland <lb/>
+
+Joseph Murray &amp; John Chambers <orig reg="Esquires">Esq<hi rend="super">rs </hi></orig> of the Council of New York <lb/>
+
+took their seats.</hi><lb/></p>
+
+<p>His Honour's draught of the speech he proposes to make to the Six Nations which was delivered to the Board the <orig reg="6th">6<hi rend="super">th </hi></orig> <abbr expan="instant">inst:</abbr> was read, and after debate had thereon, relative to the sale of Rum amongst them, and the Connajohary's desire about a Church, some alterations and additions to it were agreed to be proposed to his Honour. <lb/><lb/></p>
+
+<p>The Representation of the present state of the Colonies was again read, through, but no final resolution thereon agreed to. <lb/><lb/></p>
+
+<p>The answers of the Scaakticook and River Indians to the speech made them the <orig reg="6th">6<hi rend="super">th</hi></orig> <abbr expan="instant">inst:</abbr> were read, and is as follows: <lb/><lb/></p>
+
+<p>The Speech of the Scaakticook Indians: <lb/><lb/></p>
+
+<p>Father, We are glad that the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> sees his children now before him, we are small in number, but next time we hope we shall be more; Your Honour may see that we are but young and unexperienced, our ancient people being almost all dead, so that we have nobody to give us any advice, but we will do as our Fathers have done before us. Gave a Belt. <lb/><lb/></p>
+
+<p>Father, This Belt came from our forefathers, and we will be true and faithful to the king as they were. Gave a Belt. <lb/><lb/></p>
+
+<p>They also gave to the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> a small bundle of skinns and desired that the sale of Rum might be stopped at Scaacticook, and that if they want it they will come and buy it at Albany. <lb/></p>
+
+<note id="n880.01" n="1">Afterwards known as Lord Stirling; married Sarah, eldest daughter of
+Philip Livingston, 2d proprietor of the Manor of Livingston, and Catharine Van Brugh. <hi rend="italics">Holgate's American Geneology</hi>, 168  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="881"/>
+
+<p>The speech of the River Indians. <lb/><lb/></p>
+
+<p>Fathers. — We are greatly rejoyced to see you all here. It is by the will of heaven that we are met here, and we thank you for this opportunity of seeing you all together, as it is a long time since we have had such a one. <lb/><lb/></p>
+
+<p>Fathers, who sit present here, we will just give you a short relation of the long Friendship, which hath subsisted, between the White people of this Country and us — Our Forefathers had a Castle on this River, as one of them walked out he saw something on the River, but was at a loss to know what it was, he took it at first for a great fish, he ran into the Castle and gave notice to the other Indians, two of our Forefathers went to see what it was and found it a Vessel with Men in it, they immediately joyned hands with the people in the Vessel and became friends; the white people told them they should not come any further up the River at that time, and said to them they would return back from whence they came and come again in a year's time; according to their promise they returned back in a year's time and came as far up the River, as where the old Fort stood; Our Forefathers invited them ashore, and said to them, here we will give you a place to make you a Town, it shall be from this place up to such a stream, (meaning where the Patroons Mill now stands) and from the River back up to the Hill, our Forefathers told them they were now a small people, they would in time multiply and fill up the land they had given them. After they were a shore sometime, some other Indians, who had not seen them before, looked fiercely at them, &amp; our Forefathers observing it and seeing the White people so few in number, lest they should be destroyed, took and sheltered them under their arms; but it turned out that these Indians did not desire to destroy them, but wished also to have the said White people for their friends; at this time which we have now spoken of, the white people were small, but we were very numerous and strong, we defended them in that low state, but now the case is altered, you are numerous and strong, we are few and weak, therefore we expect that you will act by us in these circumstances, as we did by you in those we have just now related;
+we view ye now as a very large Tree, which has taken deep Root in the ground, whose branches are spread very wide, we stand by the body of this Tree, and we look round to see if there be any who endeavour to hurt it, and if it should so happen that any are powerful enough to destroy it, we are ready to fall with it. Gave a Belt. <lb/><lb/></p>
+
+<p>Fathers, You see how early we made friendship with you, we tied each other in a very strong chain, that chain has never yet been broken, we now clean and Rub that chain, to make it brighter and stronger, and we determine on our part, that it never shall be broken, and we hope you will take care that neither you, nor any one else shall break it, and we are greatly rejoyced that Peace and friendship have so long subsisted between us. Gave a Belt. <lb/><lb/></p>
+
+<p>Fathers, Dont think strange at what we are about to say; we would say something respecting our lands; when the White people purchased from time to time of us, they said they only wanted to purchase the low lands, they told us the hilly land was good for nothing, and that it was full of wood and stones, but now we see people living all about the Hills and woods, although they have not the purchased lands — when we enquire of the people who live on the[se] lands, what right they have to them, they reply to us that we are not to be regarded, and that these lands belong to the King; but we were the first posessors of them, and when the King has paid us for them, then they may say they are his; hunting now is grown very
+
+<pb n="882"/>
+
+scarce, and we are not like to get our livings that way; therefore we hope our Fathers will take care that we are paid for our lands, that we may live.	Gave a Belt. <lb/><lb/></p>
+
+<p>make a present of a bundle of Skins. <lb/><lb/></p>
+
+<p>[The Board then Adjourned to 3 O'clock this afternoon.]<lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting ettc. on Monday the <orig reg="8th">8<hi rend="super">th</hi></orig> July 1754 P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> except Coll: Atkinson <orig reg="Mr">M<hi rend="super">r </hi></orig> Norris and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Maryland</hi><lb/></p>
+
+<p>The Board proceeded in their consideration upon the plan for a Union, but did not go thro' with it. <lb/><lb/></p>
+
+<p>The speech proposed to be made to the Six Nations was returned, to the Board from His Honour with the alterations and additions proposed by the Board in the morning: <lb/><lb/></p>
+
+<p>Ordered. That the said speech lay upon the Table till some further matters relating to it be agreed on by the Board. <lb/><lb/></p>
+
+<p>The Committee appointed in the morning to be present with the Lieut<hi rend="super">t </hi> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York at a conference with the Connajohary Indians, returned from the same and reported as follows: <lb/><lb/></p>
+
+<p>That His Honour enquired of the Indians whether they had not expressed themselves satisfied with the measures he had taken concerning their lands, and the promise that he would enquire further into the affair when he came to New York, to which they replyed: that they were sensible, His Honour was at Albany when they made this<ref n="1" target="n882.01"/> complaint at New York last year — That he had told them he had now left the papers there, but would enquire into it when he came there — That they were willing to try one year more, and if matters were not made up by the <orig reg="Governor">Gov<hi rend="super">r </hi></orig> whom they looked upon as their elder Brother, but neglected as they used to be, they would send to all their other brothers (pointing to the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig>) for their assistance, and that they agreed to this the rather, as there were French Indians in Town, and they did not think it convenient to have any difference before them. Upon which His Honour again assured them, he would enquire into their affairs, in order to their being satisfyed, especially as he had the King's orders for it. <lb/><lb/></p>
+
+<p>The Board receiving a Message from His Honour that the Sachims of the Six Nations were attending to be spoke to: <lb/><lb/></p>
+
+<p>The Board adjourned to 9 o'clock to morrow <orig reg="morning">morn<hi rend="super">g</hi></orig> and waited upon the Governour.<lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court house at Albany [on Tuesday the] <orig reg="9th">9<hi rend="super">th</hi></orig> July 1754 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — Joseph Murray &amp; William Smith <orig reg="Esquire">Esq<hi rend="super">rs </hi></orig> of the Council of New York <lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> except Coll: Partridge and <orig reg="Mr">M<hi rend="super">r </hi></orig> Hopkins</hi><lb/></p>
+
+<p>The public conference between His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>, with the Sachems of the Six Nations yesterday evening was read, and ordered to be entered as follows: <lb/></p>
+
+<note id="n882.01" n="1">their. <hi rend="italics">Johnson Manuscript</hi> I —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="883"/>
+
+<p>Brethren. You told me your hearts were deeply concerned at the sad effects which may arise from selling Rum in your respective Countries, I will give orders that the Laws already made for preventing the Sale of this liquor among you shall be strictly put in execution, and whatever further provision in the law is necessary, I will endeavour it shall be made, that you may see I take care of your health and your peace, which are hurt and disturbed by the use of this Liquor among you, of the Five upper nations: and as to what you of the Mohawks have said, I shall consider how far it may be necessary to restrain the people living round you from selling Rum, and if I can think of a proper remedy for this evil, I will endeavour to apply it. <lb/><lb/></p>
+
+<p>Brethren of the Upper Castle of the Mohawks. <lb/></p>
+
+<p>I am well pleased with your earnest request to have a Church built amongst you, and shall do every thing in my power to promote so good a work, and it is very agreable to me, and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from all the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> present to find a disposition in you to receive the Christian Religion. <lb/><lb/></p>
+
+<p>Brethren. As I have given you satisfaction with respect to one of your complaints, about your lands, which lay heavy on your minds, and have assured you that I shall endeavour to do you justice as to the rest when I come to New York, I shall not say any thing further to you on that affair now.<lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> being informed by the Interpreter, that they chose to have the powder divided on the Hill, told them, it was in his opinion, better for them to have it sent to Schenectady. <lb/><lb/></p>
+
+<p>Hendrick answered for them; just as His Honour pleased, who told them he would order the powder to Schenectady and the Rum above the settlements, with which they expressed themselves satysfied.<lb/><lb/></p>
+
+<p>His Honour then said: <lb/></p>
+
+<p>I have now done speaking to you, but before I cover up the fire, I must recommend it to you to behave quietly and peaceably to all your brethren and their Cattle in your return home. <lb/><lb/>
+</p>
+
+<p>Hendrick then replyed <lb/></p>
+
+<p>Your Honour told us, you now covered up the fire and we are highly pleased, that all things have been so amicably settled, and hope that all that has passed between us may be strictly observed on both sides <lb/><lb/></p>
+
+<p>Brethren of the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig><lb/></p>
+
+<p>We hope that you will not fail in the Covenant Chain, wherewith we have mutually bound ourselves, and now [so] solemnly renewed and strengthened. <lb/><lb/></p>
+
+<p>If we do not hold fast by this Chain of friendship, our Enemies will laugh us to scorn. <lb/><lb/>
+</p>
+
+<p>Brethren. We wish you would all contribute to provide some provisions for us, in our way home, which will effectually prevent our people from killing the Inhabitants' Cattle, and we desire you will provide some Waggons for us to go to Schenectady; we think this expence will fall too heavy upon one province, as we have the presents from all to carry up. <lb/><lb/></p>
+
+<p>We beg we may all take care of the Fire<ref n="1" target="n883.01"/> of friendship and preserve it by our mutual attention from any injuries; we will take care of it on our sides, and we hope our Brethren will do so on theirs. We wish this fire of Friendship<ref n="1" target="n883.01"/> may grow up to a great height, and then we shall be a powerful people. <lb/><lb/></p>
+
+<note id="n883.01" n="1"><hi rend="italics">Sic</hi>. <hi rend="italics">Tree </hi>of friendship.
+<hi rend="italics">Johnson Manuscripts</hi>, I. —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="884"/>
+
+<p>Brethren. We the united Nations shall rejoyce in the increase of our strength, so that all other Nations may stand in awe of us. <lb/><lb/></p>
+
+<p>Brethren. I will just tell you what a people we were formerly; if any of our Enemies rose against us, we had no occasion to lift up our whole hand against them, for our little finger was sufficient, and as we have now made so strong a confederacy, if we are truly earnest therein, we may retrieve the Ancient glory of the Five Nations. <lb/><lb/></p>
+
+<p>Brethren. We have now done; but one word we must add. The Interpreter, if the French continue their Hostilities, will want assistance, three or four to be joyned with him; but this matter we submit to the <orig reg="Governor">Gov<hi rend="super">r </hi></orig>. We have now [fully] finished all that we have to say.<lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> replyed: <lb/></p>
+
+<p>Brethren. It gives me and all the Commissioners here present great satisfaction, that this interview has been so amicably concluded on all sides. I have ordered 30 waggons, to be provided for your service which I expect here to morrow morning, and I have ordered provisions to serve you on your journey. <lb/><lb/></p>
+
+<p>I hope that by this present Union, we shall grow up to a great height and be as powerful and famous as you were of old. <lb/><lb/></p>
+
+<p>As to the Interpreter, when the circumstances of this Country require it, he shall have the necessary assistance, and I assure you in the name of this and all the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> here present, that we shall endeavour to extend and preserve the Covenant Chain by every possible Method in our power. <lb/><lb/></p>
+
+<p>They asked his Honour when himself and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> proposed to return home. <lb/><lb/></p>
+
+<p>His Honour answered, that they had some matters yet to settle about the Union, and they should then set out for their respective habitations. <lb/><lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> then in his own name and that of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> wished them a good journey and they returned the compliment, and then the conference broke up. <lb/><lb/></p>
+
+<p>The answers of the answers,<ref n="1" target="n884.01"/> of the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> to the Schaacticook and River Indians, was next read and ordered to be entered as follows: <lb/><lb/></p>
+
+<p>The answer to the Schaacticook Indians. <lb/></p>
+
+<p>Children. We condole with you on the loss of your old and experienced people. A string.<lb/><lb/></p>
+
+<p>Children. I and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the other <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> here present are glad to see that although you are young and unexperienced, yet you are willing to take advice, and are determined to remain faithful to the King and friendly to all his subjects. A Belt. <lb/><lb/></p>
+
+<p>Answer to the River Indians. <lb/></p>
+
+<p>Children. We are glad to find that you treasure up in your Memories the mutual instances of friendship between our ancestors and yours; the remembrance of that friendship will descend to our posterity, and we desire you to hand it down to yours; and altho' there is a great alteration in circumstances since our predecessors first came among you, yet we have not less affection for you than they had A Belt. <lb/><lb/></p>
+
+<note id="n884.01" n="1"><hi rend="italics">Sic</hi>. The Answers of the Lieut. Gov., &amp;c. <hi rend="italics">Johnson Manuscripts</hi>, I.  —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="885"/>
+
+<p>Children. Your brightening and strengthening the covenant Chain, is well pleasing to me and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig>; we acknowledge you have never broke it; we have likewise preserved it entire, and are determined to continue to do so. A Belt. <lb/><lb/></p>
+
+<p>Children. — You complain that some of the people of this province, are in possesion of your lands which you never sold. This is a complaint which affects persons who live at a distance. I have ordered notice to be given them of it, and if upon enquiry into the affair, it shall appear that you have been injured, I will endeavour to get you redressed; but I shall observe to you, that the constant method of granting lands in this Province, is and has been by licence from the <orig reg="Governor">Gov<hi rend="super">r </hi></orig>, to purchase from the Indians, and upon the purchase being returned, before him in Council, he with their advice orders a Patent, and that most of these lands concerning which you complain, were patented when you were Children, some before any of you were born. <lb/><lb/></p>
+
+<p>Ordered that the following minute be made. <lb/><lb/></p>
+
+<p>That the last paragraph of the foregoing answer to the River Indians, about the manner of Patenting Lands in this Province beginning with the words "I shall observe" — was an addition made by His Honour to the draught sent him yesterday by this Board. <lb/><lb/></p>
+
+<p>Coll: Johnson, <orig reg="Mr">M<hi rend="super">r </hi></orig> Chambers, Coll: Partridge and <orig reg="Mr">M<hi rend="super">r </hi></orig> Hopkins took their seats. <lb/><lb/></p><p> The plan of the Union was debated and agreed upon, and <orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin was desired to make a draught of it as now concluded upon.<lb/><lb/></p>
+
+<p>adjourned to 5 o'clock this evening. <lb/><lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a meeting ettc on Tuesday the <orig reg="9th">9<hi rend="super">th</hi></orig> July 1754 P. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the four Gentlemen of the Council of New York, and all the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> except <orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin absent by his appointment in the morning </hi><lb/></p>
+
+<p>The draught of the Representation ettc was read and considered paragraph by paragraph, some amendments made, and the whole was agreed to and ordered to be minuted as follows: <lb/><lb/></p>
+
+<p>That His <orig reg="Majestys">Maj<hi rend="super">tys</hi></orig> title to the Northern continent of America, appears to be founded on the discovery thereof first made and the posession thereof first taken in 1497, under a Commission from Henry the <orig reg="7th">7<hi rend="super">th</hi></orig> of England to Sebastion Cabot. <lb/><lb/></p>
+
+<p>That the French have possessed themselves of several parts of this continent which by Treaties have been ceded and confirmed to them. <lb/><lb/></p>
+
+<p>That the right of the English to the whole Sea coast from Georgia on the South to the River <orig reg="St">S<hi rend="super">t </hi></orig> Lawrence on the North except the Island of Cape Breton and the Islands in the Bay of <orig reg="St">S<hi rend="super">t </hi></orig> Lawrence, remains plain and indisputable. <lb/><lb/></p>
+
+<p>That all the lands and Countries Westward from the Atlantic Ocean, to the South sea between 48 and 34 degrees North latitude were expressly included in the grant of King James the <orig reg="1st">1<hi rend="super">st</hi></orig> to divers of his subjects as long since as the year 1606 and afterwards confirmed in 1620. and under this grant, the Colony of Virginia claims extent as far West as the south sea, and the ancient Colonies of the Massachusets Bay and Connecticut were by their respective Charters, made to extend to the South sea; on that not only the Right to the sea coast, but to
+
+<pb n="886"/>
+
+all the Inland Countries, from sea to sea has at all times been asserted by the Crown of England.
+<lb/><lb/></p>
+
+<p>That the province of Nova Scotia or Accadie hath known and determinate bounds by the original Grant from King James the <orig reg="1st">1<hi rend="super">st</hi></orig> and that there is abundant evidence of the sense which the French had of these bounds while they were in possession of it, and [that] these bounds being then<ref n="1" target="n886.01"/>
+ known, the said province by the Treaty of Utrecht according to its ancient limits, was added<ref n="2" target="n886.02"/> to Great Brittain, and remained in possession thereof until the Treaty of Aix-la-Chapelle, by which it was confirmed; but by said Treaty it is stipulated, that the bounds of the said Province shall be determined by Commissaries ettc. <lb/><lb/>
+</p>
+
+<p>That by the Treaty of Utrecht the Country of the Five Cantons of the Iroquois, is expressly acknowledged to be under the Dominion of the Crown of Great Brittain. <lb/><lb/></p>
+
+<p>That the Lake Champlain formerly called Lake Iroquois and the Country Southward of it, as far as the Dutch or English settlements the lakes Ontario, Erie and all the Countries adjacent, have by all ancient authors, French and English been allowed to belong to the Five Cantons or Nations and the whole of these Countries long before the said Treaty of Utrecht, were by said Nations, put under the protection of the Crown of great Brittain. <lb/><lb/></p>
+
+<p>That by the Treaty of Utrecht there is reserved to the French a liberty of frequenting the Countries of the Five Nations and other Indians in friendship with great Brittain for the sake of Commerce, as there is also to the English a liberty of frequenting the Countries of those in friendship with France for the same purpose. <lb/><lb/></p>
+
+<p> That after the Treaty of Utrecht the French built several Fortresses, in the Country of the Five Nations, and a very strong one at a place called Crown Point, to the South of lake Champlain. <lb/><lb/></p>
+
+<p>That the French Court hath evidently since the Treaty of Aix-la-Chapelle, made this Northern Continent more than ever the object of its attention. <lb/><lb/></p>
+
+<p>That the French have most unjustly taken Possession of part of the Province of Nova Scotia and in the River <orig reg="St">S<hi rend="super">t </hi></orig> John's and other parts of said province, they have built strong Fortresses, and from this River they will have during the Winter and spring season, a much easier communication between France and Canada, than they have heretofore had, and will be furnished with a harbour more commodiously situated, for the anoying the British Colonies by privatiers and Men of War than Louisburgh itself. <lb/><lb/></p>
+
+<p>That they have taken possession of, &amp; begun a settlement at the head of the River Kinnebeck, within the bounds of the Province of Main, the most convenient situation, for affording support and safe retreat to the Eastern Indians in any of their attempts upon the <orig reg="Government">Govern<hi rend="super">t </hi></orig> of New England. <lb/><lb/></p>
+
+<p>That it appears by information of the Natives the French have been making preparations for another settlement at a place called Cohass on Connecticut River, near the head thereof, where it is but about ten miles distant from a branch of Merrimack River, and from whence there is a very near and easy communication with the Abnekais Indians who are settled on the River <orig reg="St">S<hi rend="super">t </hi></orig> Francois, about forty miles from the River <orig reg="St">S<hi rend="super">t </hi></orig> Lawrence, and it is certain that the Inhabitants of New Hampshire in which province this Cohass is supposed to lye, have been interrupted and impeded by the French Indians, from making any settlements there. <lb/><lb/></p>
+
+<p>That since the Treaty of Aix-la-Chapelle, the French have increased the number of their Forts in the Country of the great Lakes and on the Rivers which run into the Missisippi and
+
+<note id="n886.01" n="1">thus known. <hi rend="italics">Johnson Manuscripts</hi>, I.</note>
+
+<note id="n886.02" n="2">ceded. <hi rend="italics">Ibid</hi>. —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="887"/>
+
+are securing a communication between the two Colonies of Louisania and Canada, and at the same time, putting themselves into a capacity of annoying the Southern British Colonys, and preventing any further settlement of His <orig reg="Majesties">Maj<hi rend="super">ties</hi></orig> dominions <lb/><lb/></p>
+
+<p>That they have been gradually increasing their Troop[s] in America, transporting them in their Ship[s] of War, which return to France with a bare compliment of Men, leaving the rest in their Colonies, and by this means they are less observed by the powers of Europe than they would be if Transports as usual heretofore were provided for this purpose. <lb/><lb/></p>
+
+<p>That they have taken prisoners, divers of His <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> subjects trading in the Country of the Iroquois, and other Inland parts, and plundered such prisoners of several thousand pounds sterling, and they are continually exciting the Indians, to destroy or make prisoners, the Inhabitants of the Frontiers of the British Colonies, which prisoners are carried to Canada and a price equal to what slaves are [usually] sold for in the Plantations is demanded for their redemption and release. <lb/><lb/></p>
+
+<p>That they are continually drawing off the Indians from the British interest, and have lately perswaded one half of the Onondaga Tribe with many from the other Nations along with them, to remove to a place called Osweegchie, on the river Cadaraghqui, where they have built them a Church and Fort and many of the Senecas, the most numerous Nation, appear to be wavering and rather inclined to the French, and it is a melancholy consideration, that not more than 150 Men of all the several Nations, have attended this Treaty, although they had notice, that all the <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> would be here by their Commissioners, and that a large present would be given. <lb/><lb/></p>
+
+<p>That it is the evident design of the French to surround the British Colonies, to fortifie themselves on the back thereof, to take and keep possession of the heads of all the important Rivers, to draw over the Indians to their interest, and with the help of such Indians added to such Forces as are already arrived and may hereafter be sent from Europe, to be in a capacity of making a general attack on the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>, and if at the same time a strong Naval Force be sent from France, there is the utmost dlanger that the whole continent will be subjected to that Crown and that the danger of such a Naval Force is not merely imaginary, may be argued from past experience, for if it had not been for the most extraordinary interposition of Heaven, every sea-port Town on the Continent in the year 1746 might have been Ravaged and destroyed by the Squadron under the Command of the Duke d'Anville, notwithstanding the then declining State of the French, and the very flourishing state of the British Navy, and the further advantage accruing to the English from the possession of Cape Breton. That the French find by experience they are able to make greater and more sure advantages upon their neighbours in peace than in war; what they unjustly possessed themselves of after the peace of Utrecht, they now pretend to have a right to hold by virtue of the Treaty of Aix-la-Chapelle, until the true boundary between the English and the French be settled by Commissarys, but their conquest made during the war, they have been obliged to restore.<lb/><lb/></p>
+
+<p>That the French affairs relative to this continent are under one direction, and constantly regarded by the Crown and Ministry, who are not inse[n]sible how great a stride they would make, towards an Universal Monarchy if the British Colonies were added to their Dominions, and consequently, the whole Trade of North America engrossed by them. <lb/><lb/></p>
+
+<p>That the said Colonies being in a divided disunited state, there has never been any joint exertion of their Force or Counsells to repel or defeat the measures of the French, and particular Colonies are unable and unwilling to maintain the cause of the whole. <lb/></p>
+
+<pb n="888"/>
+
+<p> That there has been a very great neglect of the affairs of the Iroquois, or, as they a[re] commonly called the Indians of the Six Nations and their friendship and alliance has been improved to private purposes, for the sake of the Trade with them, and the purchase or acquisition of their lands more than to the public service. <lb/><lb/></p>
+
+<p>That they are supplyed with Rum by the traders in vast and almost incredible quantities, the laws of the Colonies now in force being insufficient to restrain the supply, and the Indians of every Nation are frequently drunk and abused in their Trade, and their affections thereby alienated from the English; they often wound and murder one another in their Liquor, and to avoid revenge flee to the French, and perhaps more have been lost by these means than by the French artifices. <lb/><lb/></p>
+
+<p>That purchases of lands from the Indians by private persons for small trifling considerations, have been the cause of great uneasiness and discontents, and if the Indians are not in fact imposed on and injured, yet they are apt to think that they have been and indeed they appear not fit to be intrusted at large with the sale of their own lands, and the Laws of some of the Colonies which make such sales void, unless the allowance of the <orig reg="Government">Govern<hi rend="super">t </hi></orig> be first obtained, seem to be well founded. <lb/><lb/></p>
+
+<p>That the granting or patenting vast Tracts of Land to private persons, or companys without conditions of speedy settlement, has tended to prevent the strengthning the Frontiers of the particular Colony where such Tracts lye, and been prejudicial to the rest. <lb/><lb/></p>
+
+<p>That it seems absolutely necessary that speedy and effectual measures be taken to secure the Colonies from the slavery they are threatened with. <lb/><lb/></p>
+
+<p>That any further advances of the French should be prevented and the encroachments already made removed. — That the Indians in alliance or Friendship with the English be constantly regarded, under some wise directions or superintendancy. That endeavours be used for the recovery of those Indians who are lately gone over to the French and for securing those that remain. — That some discreet person or persons be appointed to reside constantly with each Nation of Indians, such persons to have no concern in Trade, and duly to communicate all advices to the superintendents. That the Trade with the said Indians be well regarded, and made subservient to the public interest, more than to private gain. That there be Forts built for the security of each Nation and the better carrying on the Trade with them. That warlike vessells be provided sufficient to maintain His <orig reg="Majesty's">Maj<hi rend="super">ty's </hi></orig> right to a free Navigation on the several Lakes. That all future purchase of lands from the Indians be void unless made by the <orig reg="Government">Govern<hi rend="super">t </hi></orig> where such lands lye, and from the Indians in a body in their public councils. That the patentees or possessors of large unsettled Territories be injoyned to cause them to be settled in a reasonable time on pain of forfeiture. That the complaints of the Indians, relative to any grants or possessions of their lands fraudulently obtained be enquired into and all injuries redressed. That the bounds of these Colonies which extend to the South sea, be contracted and limited by the Alleghenny or Apalachian mountains, and that measures be taken for settling from time to time Colonies of His <orig reg="Majestys">Maj<hi rend="super">tys</hi></orig> protestant subjects, westward of said Mountains in convenient Cantons to be assigned for that purpose; and finally: That there be a Union of His <orig reg="Majestys">Maj<hi rend="super">tys</hi></orig> several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> on the Continent, that so their Councils, Treasure and strength may be employed in due proportion <orig reg="against">ag<hi rend="super">st</hi></orig> their common Enemy. All which is submitted:
+<lb/><lb/></p>
+
+<p>Adjourned till 9 o'clock tomorrow morning. <lb/></p>
+
+<pb n="889"/>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting in the Court House at Albany on Wednesday the <orig reg="10th">10<hi rend="super">th</hi></orig> July 1751 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — Joseph Murray and <orig reg="William">W<hi rend="super">m</hi></orig> Smith <orig reg="Esquires">Esq<hi rend="super">rs</hi></orig> of the Council of New York<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> except Henry Sherburn <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for New Hampshire </hi><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin reported the draught in a new form of a plan of a Union, agreable to the determination of yesterday which was read paragraph by paragraph, [and debated] and the further consideration of it deferred to the afternoon. adjourned to 3 o'clock this afternoon.
+<lb/></p>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting &amp;c. on Wednesday the <orig reg="10th">10<hi rend="super">th</hi></orig> July 1754 P.M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r</hi></orig> and the four Gentlemen of the Council of New York and all the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for the respective Governments</hi><lb/></p>
+
+<p>The consideration of a plan of a Union was resumed which plan is as follows: <lb/><lb/></p>
+
+<p><hi rend="center"><orig reg="Plan">P<hi rend="smallCaps">LAN</hi></orig> of a proposed <orig reg="Union">U<hi rend="smallCaps">NION</hi></orig> of the several Colonies of Massachusets Bay, New Hampshire, Connecticut, Rhode Island, New York, New Jerseys, Pennsylvania Maryland, Virginia, North Carolina, and South Carolina, for their mutual defence and security, and for extending the British Settlements in North America.</hi><lb/></p>
+
+<p> That humble application be made for an Act of the Parliament of Great Brittain, by virtue of which, one General <orig reg="Government">Govern<hi rend="super">t </hi></orig> may be formed in America, including all the said Colonies, within, and under which <orig reg="Government">Govern<hi rend="super">t </hi></orig> each Colony may retain each present constitution, except in the particulars wherein a charge may be directed by the said Act, as hereafter follows. <lb/><lb/></p>
+
+<p>That the said General <orig reg="Government">Govern<hi rend="super">t </hi></orig> be administered by a president General, to be appointed &amp; supported by the Crown, and a grand Council to be chosen by the representatives of the people of the several Colonies, meet in their respective assemblies. <lb/><lb/></p>
+
+<p>That within [ ] Months after the passing of such Act, The house of representatives in the several Assemblies, that Happen to be sitting within that time or that shall be specially for that purpose convened, may and shall chose, Members for the Grand Council in the following proportions, that is to say: </p>
+<lb/><lb/>
+<p>
+
+<table cols="2" rows="12">
+<row>
+<cell>Massachusets Bay</cell><cell> 7.</cell>
+</row>
+<row>
+<cell>New Hampshire</cell><cell> 2.</cell>
+</row>
+<row>
+<cell>Connecticut</cell><cell> 5.</cell>
+</row>
+<row>
+<cell>Rhode Island</cell><cell> 2.</cell>
+</row>
+<row>
+<cell>New York</cell><cell> 4.</cell>
+</row>
+<row>
+<cell>New Jerseys</cell><cell> 3.</cell>
+</row>
+<row>
+<cell>Pennsylvania</cell><cell> 6.</cell>
+</row>
+<row>
+<cell>Maryland</cell><cell> 4.</cell>
+</row>
+<row>
+<cell>Virginia</cell><cell> 7.</cell>
+</row>
+<row>
+<cell>North Carolina</cell><cell> 4.</cell>
+</row>
+<row>
+<cell>South Carolina</cell><cell><hi rend="underline"> 4.</hi></cell>
+</row>
+<row>
+<cell/><cell>48.</cell>
+</row>
+</table>
+</p>
+
+
+<pb n="890"/>
+
+<p>Who shall meet for the present time at the City of Philadelphia in Pennsylvania, being called by the President General as soon as conveniently may be after his appointment. <lb/><lb/></p>
+
+<p>That there shall be a New Election of Members for the Grand Council every three years, and on the death or resignation of any Member, his place shall be supplyed by a new choice at the next sitting of the Assembly of the Colony he represented. <lb/><lb/></p>
+
+<p>That after the first three years, when the proportion of money arising out of each Colony to the General Treasury can be known, the number of Members to be chosen, for each Colony shall from time to time in all ensuing Elections be regulated by that proportion (yet so as that the Number to be chosen by any one province be not more than seven nor less than two). <lb/><lb/></p>
+
+<p>That the Grand Council shall meet once in every year, and oftener if occasion require, at such time and place as they shall adjourn to at the last preceeding meeting, or as they shall be called to meet at by the President General, on any emergency, he having first obtained in writing the consent of seven of the Members to such call, and sent due and timely notice to the whole. <lb/><lb/></p>
+
+<p>That the Grand Council have power to chose their speaker, and shall neither be dissolved prorogued, nor continue sitting longer than six weeks at one time without their own consent, or the special command of the Crown. <lb/><lb/></p>
+
+<p>That the Members of the Grand Council shall be allowed for their services ten shillings sterling per diem, during their Sessions or Journey to and from the place of Meeting; twenty miles to be reckoned a days Journey. <lb/><lb/></p>
+
+<p>That the Assent of the President General be requisite to all Acts of the Grand Council, and that it be his Office and duty to cause them to be carried into execution. <lb/><lb/></p>
+
+<p>That the President General with the advice of the Grand Council, hold or direct all Indian Treaties in which the general interest or welfare of the Colonys may be concerned; and make peace or declare war with the Indian Nations. That they make such Laws as they judge necessary for the regulating all Indian Trade. That they make all purchases from Indians for the Crown, of lands [now] not within the bounds of particular Colonies, or that shall not be within their bounds when some of them are reduced to more convenient dimensions. That they make new settlements on such purchases by granting Lands, [in the King's name] reserving a Quit rent to the Crown, for the use of the General Treasury. <lb/><lb/></p>
+
+<p>That they make Laws for regulating &amp; governing such new settlements, till the Crown shall think fit to form them into particular <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>. <lb/><lb/></p>
+
+<p>That they raise and pay Soldiers, and build Forts for the defence of any of the Colonies, and equip vessels of Force to guard the Coasts and protect the Trade on the Ocean, Lakes, or great Rivers; but they shall not impress men in any Colonies without the consent of its Legislature. That for these purposes they have power to make Laws and lay and Levy such general duties, imposts or taxes, as to them shall appear most equal and just, considering the ability and other circumstances of the Inhabitants in the several Colonies, and such as may be collected with the least inconvenience to the people, rather discouraging luxury, than loading Industry with unnecessary burthens.  — That they might appoint a General Treasurer and a particular Treasurer in each <orig reg="Government">Govern<hi rend="super">t </hi></orig> when necessary, and from time to time may order the sums in the Treasuries of each <orig reg="Government">Govern<hi rend="super">t </hi></orig>, into the General Treasury, or draw on them for special payments as they find most convenient; yet no money to issue but by joint orders of the President General and Grand Council, except where sums have been appropriated to particular purposes, and the President General is previously impowered by an Act to draw for such sums. <lb/></p>
+
+<pb n="891"/>
+
+<p> That the General accounts shall be yearly settled and reported to the several Assemblies.<lb/><lb/></p>
+
+<p>That a Quorum of the Grand Council impowered to act with the President General, do consists of twenty five Members, among whom there shall be one or more from a majority of the Colonies. That the Laws made by them for the purposes aforesaid, shall not be repugnant, but as near as may be agreable to the Laws of England, and shall be transmitted to the King in Council for approbation, as soon as may be after their passing, and if not disapproved within three years after presentation to remain in Force. <lb/><lb/></p>
+
+<p>That in case of the death of the President General, the Speaker of the Grand Council for the time being shall succeed, and be vested with the same powers and authority, to continue until the King's pleasure be known. <lb/><lb/></p>
+
+<p>That all Military Commission Officers, whether for land or sea service, to act under this General constitution, shall be nominated by the President General, but the aprobation of the Grand Council is to be obtained before they receive their Commissions; and all Civil Officers are to be nominated by the grand Council, and to receive the President General's approbation before they officiate; but in case of vacancy by death or removal of any Officer Civil or Military under this constitution, The <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of the Province in which such vacancy happens, may appoint till the pleasure of the President General and grand Council can be known. — That the particular Military as well as Civil establishments in each Colony remain in their present State this General constitution notwithstanding. And that on sudden emergencies any Colony may defend itself, and lay the accounts of expence thence arisen, before the President General and Grand Council, who may allow and order payment of the same as far as they judge such accounts just and reasonable. <lb/><lb/></p>
+
+<p>After debate on the foregoing plan: <lb/><lb/></p>
+
+<p>Resolved. That the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> be desired to lay the same before their respective constituents for their consideration, and that the Secretary to this Board transmit a copy thereof with their vote thereon to the Governor of each of the Colonies which have not sent their <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> to this Congress.<lb/><lb/></p>
+
+<p>His Honour proposed to the Board that agreable to their resolution of the 24. June, they would now consider the expediency of building Forts in the Indian Country. It was determined, that considering the present wavering disposition of the Senecas it was expedient that a Fort should be built in their Country at a place called Irondequat or Tierondequat.<lb/><lb/></p>
+
+<p>Ordered. That a Committee be appointed to consider what further Forts may be necessary in the Country of the Six Nations, and that each Colony name a Member for this Committee. <lb/><lb/></p>
+
+<p>Ordered. That <orig reg="Mr">M<hi rend="super">r </hi></orig> Chambers and <orig reg="Mr">M<hi rend="super">r </hi></orig> Peters be a Committee to revise the Minutes settled and agreed to by this Board. <lb/><lb/></p>
+
+<p>adjourned till tomorrow morning at 9 o'clock. <lb/></p>
+
+<pb n="892"/>
+
+<milestone unit="horbar"/>
+
+<p><hi rend="center"><hi rend="bold">At a Meeting at the Court house at Albany on Thursday the <orig reg="11th">11<hi rend="super">th</hi></orig> July 1751 A. M.</hi><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> — His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> and the four Gentlemen of the Council of New York<lb/>
+
+All the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> from the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> except William Pitkin <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> one of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> for Connecticut</hi><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Welles from the Committee appointed to consider what other Forts may be necessary, reported: That they had carefully considered the present state of the Frontiers of these Colonies, and are of opinion that several other Forts at particular passes, are equally necessary, with that proposed at Tierondequat, that as there is no probability of their being effected in the present disunited state of the Colonies, and the General union may make some of them unnecessary. — We apprehend some inconveniencies may arise if the Board should go farther into the consideration of that matter at this time.<lb/><lb/></p>
+
+<p>His Honour put the Question, whether the Board would accept of this Report. <lb/><lb/></p>
+
+<p>And it passed in the affirmative. <lb/><lb/></p>
+
+<p>Certain proposals from William Johnson <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> relative to the Six Nations, and for the defeating the designs of the French; also certain considerations offered by Thomas Pownall <orig reg="Esquire">Esq<hi rend="super">r </hi></orig> "towards a general plan of the Measures of the English Provinces" were read at the Board. <lb/><lb/></p>
+
+<p>It was thereupon voted that <orig reg="Mr">M<hi rend="super">r </hi></orig> Franklin be desired to give the thanks of this Board to the said <orig reg="Mr">M<hi rend="super">r </hi></orig> Johnson and <orig reg="Mr">M<hi rend="super">r </hi></orig> Pownall, and desire them to suffer copies of the papers to be taken by the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> of each Colony for the consideration of their respective <orig reg="Governments">Govern<hi rend="super">ts</hi></orig>.<lb/><lb/></p>
+
+<p>Ordered. That all His <orig reg="Majesties">Maj<hi rend="super">ties </hi></orig> <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> on this Continent may have liberty from time to time to take copies of the proceedings of this Congress or any parts thereof, paying for the same, and that no other copies be delivered by the Secretary.<lb/><lb/></p>
+
+<p>Ordered. That upon the Secretary's leaving this Province the Records of these proceedings of the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> of the several <orig reg="Governments">Govern<hi rend="super">ts </hi></orig> be lodged in the Secretary's Office of the province of New York. <lb/><lb/></p>
+
+<p><orig reg="Mr">M<hi rend="super">r </hi></orig> Chambers and <orig reg="Mr">M<hi rend="super">r </hi></orig> Peters Reported that they had examined these Minutes of the proceedings of this Congress and find them right.<lb/><lb/></p>
+
+<p>An then His Honour the <orig reg="Lieutenant">Lieut<hi rend="super">t </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> of New York and the <orig reg="Commissioners">Commiss<hi rend="super">rs </hi></orig> of the several <orig reg="Governments">Govern<hi rend="super">ts</hi></orig> rose without any further adjournment. <lb/><lb/></p>
+
+<p>New York <orig reg="25th">25<hi rend="super">th</hi></orig> July 1754. <lb/><lb/></p>
+
+<p>A True copy from the proceedings of the Congress held in the City of Albany in the Province of New York in the months of June and July of this present year. <lb/></p>
+
+<p>Examined by me <orig reg="Peter">P<hi rend="smallCaps">ETER </hi></orig> <orig reg="Wraxall">W<hi rend="smallCaps">RAXALL </hi></orig> <orig reg="Secretary">Secr<hi rend="super">ty</hi></orig><lb/><lb/></p>
+
+<p><orig reg="Note">N<hi rend="smallCaps">OTE</hi></orig>. — The Letters and words within brackets, in the preceding Document, are inserted from the copy in the <hi rend="italics">Johnson Manuscripts</hi>, I., in the State Library. —  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>. <lb/><lb/></p>
+</div1>
+</body>
+<!--
+<back>
+<div1 type="notes">
+
+
+
+moved to proper pages - 15 February 2006 - CB
+
+<note id="n856.01" n="1">Oawegatchie, now Ogdensburgh, St. Lawrence Co., N. Y.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n859.01" n="1"><hi rend="italics">Sic</hi>. conformable. Official Record in <hi
+rend="italics">Johnson's Manuscripts</hi>, I.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n871.01" n="1">certain. <hi rend="italics">Johnson Manuscripts</hi>, L.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n873.01" n="1">must. <hi rend="italics">Johnson Manuscripts</hi>, I.</note>
+
+<note id="n873.02" n="2">tell. <hi rend="italics">Ibid</hi> &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n876.01" n="1">Relations. <hi rend="italics">Johnson Manuscripts</hi>, I.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n877.01" n="1">Norris. <hi rend="italics">Johnson Manuscripts</hi>, I.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n880.01" n="1">Afterwards known as Lord Stirling; married Sarah, eldest daughter of
+Philip Livingston, 2d proprietor of the Manor of Livingston, and Catharine Van Brugh. <hi rend="italics">Holgate's American Geneology</hi>, 168  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n882.01" n="1">their. <hi rend="italics">Johnson Manuscript</hi> I &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n883.01" n="1"><hi rend="italics">Sic</hi>. <hi rend="italics">Tree </hi>of friendship.
+<hi rend="italics">Johnson Manuscripts</hi>, I. &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n884.01" n="1"><hi rend="italics">Sic</hi>. The Answers of the Lieut. Gov., &amp;c. <hi
+rend="italics">Johnson Manuscripts</hi>, I.  &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n886.01" n="1">thus known. <hi rend="italics">Johnson Manuscripts</hi>, I.</note>
+
+<note id="n886.02" n="2">ceded. <hi rend="italics">Ibid</hi>. &#8212;  <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+
+
+</div1>
+</back>
+-->
+
+</text>
+</TEI.2>

@@ -1,0 +1,4 @@
+default:
+  shortname: earlytreaties
+  solr_core: earlytreaties
+  tei_solr_xsl: projects/earlytreaties/scripts/solr_transform_tei.xsl
