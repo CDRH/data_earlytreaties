@@ -1,4 +1,4 @@
 default:
-  es_type: earlytreaties
+  collection: earlytreaties
   solr_core: earlytreaties
-  tei_solr_xsl: projects/earlytreaties/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
