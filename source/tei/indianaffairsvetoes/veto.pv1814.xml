@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1814">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1814	H.R. 2675 (Seventy-ninth Congress, Second Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1814</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-ninth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1814	H.R. 2675 (Seventy-ninth Congress, Second Session &#8212; Truman)</head>
+
+<p>Conferring jurisdiction upon the Court of Claims to hear, examine, adjudicate, and render judgment in any and all claims which the Confederated Salish and Kootenai Tribes of Indians of the Flathead Reservation of Montana may have against the United States.</p>
+
+<p>Vetoed June 28, 1946.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 685 (92 <title>Cong. Rec.</title> 7998-7999).</p>
+
+<p>Veto unchallenged</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 371.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1814.01.pdf">Claims of certain Indian tribes.  Message from the President of the United States returning without approval the Bill (H.R. 2678) conferring jurisdiction upon the Court of Claims to hear, examine, adjudicate, and render judgment in any and all claims which the confederated Salish and Kootenai tribes of Indians of the Flathead Reservation in Montana, or any tribe or band thereof, may have against the United States, and for the other purposes.</ref>  (1946).   House of Representatives.  79th Congress, 1st session.  House   Document No. 685 (<title>Serial Set</title> 11056).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 79TH CONGRESS  		HOUSE OF REPRESENTATIVES  		DOCUMENT
+2d Session	No. 685 </fw>
+<head>CLAIMS OF CERTAIN INDIAN TRIBES</head>
+<milestone unit="rule" />
+<head>MESSAGE
+
+FROM
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (H. R. 2678) CONFERRING JURISDICTION UPON THE COURT OF CLAIMS TO HEAR, EXAMINE, ADJUDICATE, AND RENDER JUDGMENT IN ANY AND ALL CLAIMS WHICH THE CONFEDERATED SALISH AND KOOTENAI TRIBES OF INDIANS OF THE FLATHEAD RESERVATION IN MONTANA, OR ANY TRIBE OR BAND THEREOF, MAY HAVE AGAINST THE UNITED STATES, AND FOR OTHER PURPOSES</head>
+<milestone unit="rule" />
+<p>JUNE 29, 1946.-Referred to the Committee on Indian Affairs and ordered to be
+printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith, without my approval, the bill (H. R. 2678) conferring jurisdiction upon the Court of Claims to hear, examine, adjudicate, and render judgment in any and all claims which the Confederated Salish and Kootenai Tribes of Indians of the Flathead Reservation in Montana, or any tribe or band thereof, may have against the United States, and for other purposes</p>.
+<p>This bill proposes to confer jurisdiction upon the Court of Claims to adjudicate any and all legal and equitable claims which the Con-federated Salish (or Flathead) and Kootenai Tribes of Indians of the Flathead Reservation in Montana may have against the United States, including any claims arising under the treaty of July 16, 1855 (12 <title>Stat.</title> 975), or any subsequent treaty, agreement, act of Congress, or Executive order. The jurisdiction thus to be conferred, it is provided, would extend to claims arising by reason of any lands taken from these Indians, including lands lost by erroneous surveys, or lands opened to settlement, lands used for dam, power, and reservoir sites or irrigation projects, or lands lost by submergence, resulting from the erection of reservoirs, without compensation and without the consent of the Indians given in the usual manner. The bill declares that any taking of the lands of the Indians by the United States, without compensation and without their consent, or the reservation thereof for<pb n="2" />
+<fw> 2	CLAIMS OF CERTAIN INDIAN TRIBES </fw>
+any of the above purposes, to be sufficient grounds for suitable relief, and the court would be required to award the Indians just compensation for such lands as for a taking under the power of eminent domain.</p>
+<p>In addition to other objectionable features of the bill, an attempt is made in its provisions to define the "grounds for equitable relief" and the basis upon which the court shall render judgment in favor of the Indians and award to them just compensation "as for a taking under the power of eminent domain." It is possible that under the provisions of the bill the use by the United States of any lands "formerly * * * possessed" by the Indians, even though the Indians were without any recognized title, would constitute a sufficient basis "for equitable relief" and "for a taking under the power of eminent domain." Thus the bill does not merely waive the statute of limitations and laches and provide a forum for the adjudication of any preexisting claims which the Indians may have against the United States, but it seeks to create liability against the Government which would not otherwise exist. Moreover, by providing for the payment of just compensation, the bill would probably require the Government to pay interest, for a period of more than 30 years, on a claim that did not even exist prior to its passage. Neither on legal nor moral grounds would there seem to be any justification for legislation of this kind.</p>
+<p>For these reasons, 1 am constrained to withhold my approval from the bill.</p>
+<closer><signed>HARRY S. TRUMAN.</signed> <dateline>THE WHITE HOUSE, June 28, 1946.</dateline></closer>
+<p>H. R. 2678</p>
+<head>SEVENTY-NINTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON MONDAY, THE FOURTEENTH DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY-SIX</head>
+<head type="sub">AN ACT Conferring jurisdiction upon the Court of Claims to hear, examine, adjudicate, and render judgment in any and all claims which the Confederated Salish and Kootenai Tribes of Indians of the Flathead Reservation in Montana, or any tribe or band thereof, may have against the United States, and for other purposes</head>
+<hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> <p>That jurisdiction is hereby conferred upon the Court of Claims, with the right of appeal by either party to the Supreme Court of the United States, to hear, examine, adjudicate, and render judgment in any and all legal and equitable claims of whatsoever nature which the Confederated Salish and Kootenai Tribes of Indians of the Flathead Reservation of Montana, or any tribe or band thereof, may have against the United States, including, but not limiting the generality of the foregoing, claims arising under or growing out of the treaty of July 16, 1855 (12 <title>Stat.</title> 975; 2 Kappler 722), or any subsequent treaty or agreement, Act of Congress, or Executive order, or by reason of any lands taken from said Indians by Acts of Congress or otherwise, including lands lost to them by erroneous surveys, or lands opened to settlement, or used for dam, power, and reservoir sites and irrigation projects, or loss of lands by submergence by erection of reservoirs, without compensation and without their consent given in the usual manner, or for the failure or refusal of the United States to protect the interests of any of said Indians in lands as to which they had or claimed possessory right of use and occupancy, or because of any mismanagement or wrongful handling of any of the funds, lands, properties, or business enterprises belonging to or held in trust for said Indians.</p>
+<p>SEC. 2. That suit or suits under this Act may be instituted by the Confederated Salish and Kootenai Tribes of Indians, or any tribe or band thereof, either separately or jointly, as party or parties plaintiff, against the United States as party defendant, by filing within five years after the approval of this Act a petition or<pb n="3" />
+<fw> CLAIMS OF CERTAIN INDIAN TRIBES	3 </fw>
+petitions in the Court of Claims and serving with respect to each suit a copy thereof on the Attorney General of the United States, who, either in person or by some attorney from the Department of Justice to be designated by him, shall appear and defend the interests of the United States. Such petition or petitions shall set forth the facts upon which the claim or claims for recovery is or are based and shall be verified by the attorney or attorneys employed by said Indians, under contract approved in accordance with existing law, to prosecute said claims, which may be made upon information and belief, and no other verification shall be necessary. The petition or petitions shall be subject to amendment at any time prior to final submission of the case to the Court of Claims. Such petition or petitions may, in addition to alleging specific claims, demand a general accounting of all funds and property expended or used by the United States for the ac-count of said Indians, in which event the General Accounting Office shall within a reasonable time from date of filing said petition or petitions make a complete audit of said accounts, and, in addition to the usual copies furnished the Attorney General, shall furnish a copy thereof to the attorney or attorneys for said Indians; and the court, after full hearing, shall state the account and render judgment in accordance therewith.</p>
+<p>SEC. 3. That at the trial of any suit instituted hereunder the court shall apply as respects the United States the same principles of law as would be applied to an ordinary fiduciary and shall settle and determine the rights therein, both legal and equitable, of said Indians against the United States, notwithstanding lapse of time or statutes of limitation. In the determination of the validity of any claim asserted or defense interposed hereunder, the court shall have the full power and authority of a court of equity.</p>
+<p>SEC. 4. That the court shall have authority, by proper orders and process, to make parties to any suit or suits instituted hereunder any other tribe, band, or group of Indians deemed by it necessary or proper to a final determination of the matters in controversy.</p>
+<p>SEc. 5. That in any suit instituted hereunder any letter, paper, document, map, or record in the possession, of any officer or department of the United States (or certified copies thereof) may be used in evidence, and the departments of the Government of the United States shall give full and free access to the attorney or attorneys for said Indians to such letters, papers, documents, maps, or records as may be useful to said attorney or attorneys in the preparation for trial or trials of such suit or suits.</p>
+<p>SEC. 6. That no payment or payments which have been made by the United States upon or in satisfaction of any claim or claims asserted in any suit brought hereunder, or expended for any of the said Indians, shall operate as an estoppel against any suit brought hereunder, but there shall be set off against any recovery obtained by said Indians hereunder any payment made by the United States on any claim asserted by said Indians, together with such gratuity expenditures as are directed to be set off by the Act of Congress, approved August 12, 1935 (49 <title>Stat.</title> 596): Provided, That no moneys expended for the benefit of said Indians under the Wheeler-Howard Act, approved June 18, 1934 (48 <title>Stat.</title> 984), shall be applicable as set-offs.</p>
+<p>SEC. 7. That if the court shall find that any lands formerly belonging to or possessed by said Indians have been appropriated by the United States, or set apart and reserved as national reservations, dam, power, and reservoir sites, and for irrigation projects, or that loss of lands has been occasioned by submergence by the erection of reservoirs, or that lands have been taken for other public uses or otherwise reserved or disposed of in any manner whereby the said Indians have been deprived of the use or benefits of such lands and the natural resources thereof, without compensation therefor and without their consent it is hereby declared that such action shall be sufficient grounds for equitable relief, and the court shall render judgment in favor of said Indians, and shall award to them, as for a taking under the power of eminent domain, just compensation for all such lands, sites, projects, and natural resources.</p>
+<p>SEc. 8. That the Attorney General of the United States and the Secretary of the Interior in behalf of the United States, and the attorney or attorneys representing said Indians, shall have authority, with the approval of the tribal council, at any time after the approval of this Act to compromise and settle any claim asserted by said Indians.</p>
+<p>SEC. 9. That upon the final determination of any suit or suits instituted here-under, whether by judgment, compromise, or otherwise, the Court of Claims, in the event of judgment for said Indians or, in the event any claim asserted by any of said Indians shall be compromised or settled without the institution of any suit<pb n="3" />
+<fw> CLAIMS OF CERTAIN INDIAN TRIBES </fw>
+hereunder, the Secretary of the Interior shall determine such fees or compensation to be paid the attorney or attorneys as said court or said Secretary shall find reasonable or equitable, and in addition thereto such actual and necessary expenses as shall have been incurred by the attorney or attorneys in the prosecution of said claims. In no case shall the fees or compensation decreed by said Court of Claims or by the Secretary of the Interior be in excess of the amount stipulated in the contract or contracts approved by the Commissioner of Indian Affairs and the Secretary of the Interior, and in no event to exceed 10 per centum of the amount of the recovery, and shall be paid out of any money appropriated by Congress for the benefit of said Indians pursuant to any judgment or settlement hereunder.</p>
+<p>SEC. 10. That the amount of any judgment recovered or settlement made for said Indians, less attorneys' fees and expenses, shall be placed to the credit of said Indians in the Treasury of the United States and shall draw interest at the rate of 4 per centum per annum from date of judgment or settlement, and shall thereafter be subject to appropriation by Congress and used for the benefit of said Indians, including, but without limitations, the purchase of lands, livestock, farming implements, erection of buildings and improvements, and for productive enterprises, with the approval of the Secretary of the Interior and the consent of said Indians.</p>
+<closer><signed>SAM RAYBURN,</signed>
+Speaker of the House of Representatives.
+<signed>KENNETH MCKELLAR,</signed>
+President of the Senate pro tempore. <note>[Endorsement on back of bill:]
+I certify that this Act originated in the House of Representatives.</note>
+<signed>SOUTH TRIMBLE, Clerk.</signed> By H. NEWLIN MEGILL.</closer>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1814.02.pdf"><title>Congressional Record</title> 92, 7998-7999</ref> (1946).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 7998	CONGRESSIONAL RECORD-HOUSE	JUNE 29 </fw>
+<p>Committee on Banking and Currency; is that correct?</p>
+<p>The SPEAKER. A bill cannot be introduced from the floor of the House. The gentleman from Kentucky has not dropped this resolution in the box.</p>
+<p>Mr. WOLCOTT. I understood the gentleman from Kentucky made the statement that he was introducing it. May we be advised of the situation at the present time? Has or has not the resolution been introduced?</p>
+<p>The SPEAKER. The gentleman from Kentucky can answer that question.</p>
+<p>Mr. SHORT. Mr. Speaker, I object.</p>
+<p>The SPEAKER. Will the gentleman withhold his objection?</p>
+<p>Mr. SHORT. I withhold my objection.</p>
+<p>The SPEAKER. The only resolution the Chair knows anything about is on the reading clerk's desk and it is not in the box.</p>
+<p>Mr. WOLCOTT, Then it has not been introduced?</p>
+<p>The SPEAKER. Not unless the gentleman from Kentucky cares to do that.</p>
+<p>Mr. WOLCOTT. Mr. Speaker, I object.</p>
+<p>The SPEAKER. Objection is heard.</p>
+<head>EXTENSION OF REMARKS</head>
+<p>Mr. HEBERT (at the request of Mr. LARCADE) was given permission to extend his remarks in the RECORD and include an article by Frank R. Schwengel, president of the Distilled Spirits Institute.</p>
+<p>Mr. LARCADE asked and was given permission to extend his remarks in the RECORD and include a statement by Frank A. Godehaux.</p>
+<p>Mr. LUTHER A. JOHNSON asked and was given permission to extend his remarks in the RECORD and include an editorial.</p>
+<p>Mrs. DOUGLAS of Illinois asked and was given permission to extend her remarks in the RECORD and include an article.</p>
+<p>Mr. ALMOND asked and was given permission to extend his remarks in the RECORD and include an address delivered by Hon. Clifton A. Woodrum, a former Member of the House of Representatives.</p>
+<p>Mr. WOODRUFF asked and was given permission to extend his remarks in the RECORD and include three editorials.</p>
+<head>COMMITTEE ON WAYS AND MEANS&#8212;PERMISSION TO FILE REPORT</head>
+<p>Mr. DOUGHTON of North Carolina. Mr. Speaker, I ask unanimous consent to have until midnight Monday, July 1, 1946, to file a report on the bill (H. R. 6911) to amend the Social Security Act and the Internal Revenue Code, and for other purposes; and that the same privilege may be extended to those desiring to file minority views, if there be such.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from North Carolina?</p>
+<p>There was no objection.</p>
+<head>MILITARY ESTABLISHMENT APPROPRIATION BILL, 1947</head>
+<p>Mr. HENDRICKS. Mr. Speaker, I ask unanimous consent to take from the Speaker's table the bill (H. R. 6837) making appropriations for the Military Establishment for the fiscal year ending June 30, 1947, and for other purposes,with Senate amendments thereto, disagree to the Senate amendments and agree to the conference asked by the Senate.</p>
+<p>The Clerk read the title of the bill.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Florida [Mr. HENDRICKS]? [After a pause.] The Chair hears none, and appoints the following conferees: Mr. KERR, Mr. MAHON, Mr. NORRELL, Mr. HENDRICKS, Mr. KIRWAN, Mr. O'NEAL, Mr. RABAUT, Mr. CASE of South Dakota, Mr. TIBBOTT, and Mr. TABER.</p>
+<head>J. B. McCRARY CO., INC.&#8212;VETO MESSAGE
+FROM THE PRESIDENT</head>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States, which was read by the Clerk:</p>
+
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval the bill (H. R. 3494) for the relief of J. B. McCrary Co., Inc., and for other purposes.</p>
+<p>The bill provides for the payment of the sum of $75,829.16 to J. B. McCrary Co., of Atlanta, Ga., in full settlement of its claims against the United States for losses alleged to have been sustained by it in the performance of a contract for the construction of the Warner Robins housing project near Atlanta, Ga.</p>
+<p>It appears that the Federal Public Housing Authority advertised for bids for the construction, on a lump sum or fixed-fee basis, of 65 brick buildings for a war housing project at Warner Robins, Ga. The specifications required that the work be performed within 60 calendar days from the date of notice to proceed and contained a provision for liquidated damages of $500 per day for each day's delay. It also provided that wages paid for labor performed under the con-tract would not exceed the minimum wages fixed for that area by the Secretary of Labor under the Davis-Bacon Act, as amended (40 U. S. C. 276a). The claimant was the low bidder and its bid was accepted. A contract was entered into and notice to proceed was given on February 4, 1943. The work was not completed by April 6, 1943, 60 calendar days after notice to proceed, nor was it finished until October 23, 1943. By a change order dated November 5, 1943, the contracting officer granted the claimant an extension of sufficient time to avoid the payment of any liquidated damages.</p>
+<p>The claimant asserts that it sustained an out-of-pocket loss of $75,829.16 in the performance of the contract due to first, the failure of the Government to provide roughing-in measurements for material and equipment when needed; second, delays by the Government in delivering material; and third, the impossibility of securing sufficient bricklayers, resulting from the fact that the maximum wage permitted to be paid under the contract was considerably less than that' being paid to bricklayers on other construction jobs in the area.
+The United States has waived its immunity to suit on claims for damages arising out of contracts, express or implied, and the Court of Claims has been designated as the forum to hear, deter-mine, and ruder judgment on such claims (U. S. C. 250). Although the claim covered by the bill under consideration is of the type cognizable by the Court of Claims, the record in this case fails to disclose that the claimant has taken any action to avail itself of its right to sue the United States in that court.</p>
+<p>Since relief by private act of Congress should be granted only when no remedy is provided by law, and since the claimant has failed to pursue the remedies afforded it by general law, I am constrained to withhold my approval from the bill.</p>
+<closer><signed>HARRY TRUMAN. </signed<dateline>>THE WHITE HOUSE, June 29, 1946.</dateline></closer>
+
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal, and the message and accompanying bill referred to the Committee on Claims and ordered printed.</p>
+<head>LAWRENCE PORTLAND CEMENT CO.&#8212;VETO MESSAGE FROM THE PRESIDENT</head>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States, which was read by the Clerk:</p>
+
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning without my approval the enrolled enactment, H. R. 3391, for the relief of Lawrence Portland Cement Co., of Thomaston, Maine.</p>
+<p>H. R. 3391 is in effect a retroactive subsidization of costs which were incurred prior to the time such costs became eligible for subsidy payments, and it can-not, therefore, be said that the costs would not. have been incurred or that the production would not have been achieved except for the subsidy.</p>
+<p>In authorizing payment of subsidies the Congress has enunciated the policy that subsidy payments for excess war-time costs are to be made only to achieve the maximum necessary production of commodities which might not be achieved in the absence of the subsidy. The various executive agencies and departments functioning the subsidy programs have consistently followed this policy.</p>
+<p>If this bill should become law, the Government must necessarily anticipate a large volume of demands of a similar character, the effect of which, if granted, would be to extend the various subsidy programs far beyond their original scope and purpose.</p>
+<closer><signed>HARRY S. TRUMAN.</signed> <dateline>The WHITE HOUSE, June 29, 1946.</dateline></closer>
+
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal, and the message, together with the accompanying bill, referred to the Committee on Claims and ordered printed.</p>
+<head>SALISH AND KOOTENAI TRIBES OF
+INDIANS&#8212;VETO MESSAGE</head>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States:</p>
+
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval the bill (H. R. 2678) conferring<pb n="2" />
+<fw> HeinOnline- 92 <title>Cong. Rec.</title> 7998 1946
+1946	CONGRESSIONAL RECORD-HOUSE	. 7999 </fw>
+jurisdiction upon the Court of Claims to hear, examine, adjudicate, and render judgment in any and all claims which the Confederated Salish and Kootenai Tribes of Indians of the Flathead Reservation in Montana, or any tribe or band thereof, may have against the United States, and for other purposes.</p>
+<p>This bill proposes to confer jurisdiction upon the Court of Claims to adjudicate any and all legal and equitable claims which the Confederated Salish (or Flathead) and Kootenai Tribes of Indians of the Flathead Reservation in Montana may have against the United States, including any claims arising under the treaty of July 16, 1855 (12 <title>Stat.</title> 975), or any subsequent treaty, agreement, act of Congress, or Executive order. The jurisdiction thus to be conferred, it is provided, would extend to claims arising by reason of any lands taken from these Indians, including lands lost by erroneous surveys, or lands opened to settlement, lands used for dam, power, and reservoir sites or irrigation projects, or lands lost by submergence resulting from the erection of reservoirs, without compensation and without the consent of the Indians given in the usual manner. The bill declares that any taking of the lands of the Indians by the United States, without compensation and without their consent, or the reservation thereof, for any of the above purposes, to be sufficient grounds for suit-able relief, and, the court would be required to award the Indians just compensation for such lands as for a taking under the power of eminent domain.</p>
+<p>In addition to other objectionable features of the bill, an attempt is made in its provisions to define the "grounds for equitable relief" and the basis upon which the court shall render judgment In favor of the Indians and award to them just compensation "as for a taking under the power of eminent domain." It is possible that under the provisions of the bill the use by the United States of any lands "formerly * * * possessed" by the Indians even though the Indians were without any recognized title would constitute a sufficient basis "for equitable relief" and "for a taking under the power of eminent domain." Thus the bill does not merely waive the statute of limitations and lathes, and provide a forum for the adjudication of any preexisting claims which the Indians may have against the United States, but it seeks to create liability against the Government which would not otherwise exist. Moreover, by providing for the payment of just compensation, the bill would probably require the Government to pay interest, for a period of more than 30 years, on a claim that did not even exist prior to its passage. Neither on legal nor moral grounds would there seem to be any justification for legislation of this kind.</p>
+<p>For these reasons, I am constrained to withhold my approval from the bill.</p>
+<closer><signed>HARRY S. TRUMAN. </signed><dateline>THE WHITE HOUSE, June 28, 1946.</dateline></closer>
+<p>
+The SPEAKER. The objections of the President will be spread at large upon the Journal.</p>
+<p>The message together with the accompanying bill, was referred to the Committee on Indian Affairs and ordered printed.</p>
+<head>MESSAGE FROM THE PRESIDENT OF THE UNITED STATES TRANSMITTING ANNUAL REPORT OF RAILROAD RETIREMENT BOARD</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States, which was read by the Clerk, and together with the accompanying papers referred to the Committee one Interstate and Foreign Commerce and ordered to be printed with illustrations:</p>
+<opener>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>In compliance with the provisions of section 10 (b) (4) of the Railroad Retirement Act, approved June 24, 1937, and of section 12 (1) of the Railroad Unemployment Insurance Act, approved June 25, 1938, I transmit herewith for the information of the Congress, the report of the Railroad Retirement Board for the fiscal year ended June 30, 1945.</p>
+<closer><signed>HARRY S. TRUMAN. </signed><dateline>THE WHITE HOUSE, June 29, 1946.</dateline></closer>
+
+<head>STATE, JUSTICE, COMMERCE, JUDICIARY APPROPRIATION BILL, 1947&#8212;CONFERENCE REPORT</head>
+<p>The SPEAKER. The gentleman from Michigan [Mr. RABAUT] is recognized.</p>
+<p>Mr. HARE. Mr. Speaker, in the absence of the gentleman from Michigan, I call up the conference report on the bill (H. R. 6056) making appropriations for the Departments of State, Justice, Commerce, and the Judiciary, for' the fiscal year ending June 30, 1947, and for other purposes, and ask unanimous consent that the statement of the managers be read in lieu of the report.</p>
+<p>The Clerk read the title of the bill.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from South Carolina?</p>
+<p>There was no objection.</p>
+<note>The Clerk read the statement of the managers on the part of the House.</note>
+<p>The conference report and statement are as follows:</p>
+<head type="sub" />>CONFERENCE REPORT</head>
+<p>The committee of conference on the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. R. 6056) making appropriations for the Departments of State, Justice, Commerce, and the Judiciary, for the fiscal year ending June 30, 1947, and for other purposes, having met, after full and free conference, have agreed to recommend and do recommend to their respective Houses as follows:</p>
+<p>That the Senate recede from its amendments numbered 11, 13, 54, 77 and 78.</p>
+<p>That the House recede from its disagreement to the amendments of the Senate numbered 3, 4, 5, 6, 7, 17, 19, 20, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 43, 45, 48, 49, 53, 55, 61, 62, 63, 64, 66, 67, 68, 69, 71, 72, 75, 79, and 80, and agree to the same.</p>
+<p>Amendment numbered 1: That the House recede from its disagreement to the amendment of the Senate numbered 1, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$23,600,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 9: That the House recede from its disagreement to the amendment of the Senate numbered 9, and agree
+to the same with an amendment as follows: In lieu of the sum proposed insert "$1,915,-700"; and the Senate agree to the same.</p>
+<p>Amendment numbered 10: That the House recede from its disagreement to the amendment of the Senate numbered 10, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$5,219,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 12: That the House recede from its disagreement to the amendment of the Senate numbered 12, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$3,360,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 14: That the House recede from its disagreement to the amendment of the Senate numbered 14, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$10,200,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 15: That the House recede from its disagreement to the amendment of the Senate numbered 16, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$5,996,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 16: That the House recede from its disagreement to the amendment of the Senate numbered 16, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$3,300000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 18: That the House recede from its disagreement to the amendment of the Senate numbered 16, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$9,100,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 21: That the House recede from its disagreement to the amendment of the Senate numbered 21, and agree to the same with an amendment as follows: In lieu of the matter inserted by said amendment insert the following: ": Provided further, That pursuant to section 204 of Public Law 334, Seventy-ninth Congress, auto-mobiles in possession of the Foreign Service abroad may be exchanged or sold and the exchange allowances or proceeds of such sales applied to replacement of an equal number of automobiles of the same general type and class"; and the Senate agree to the same.</p>
+<p>Amendment numbered 22: That the House recede from its disagreement to the amendment of the Senate numbered 22, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$9,000,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 35: That the House recede from its disagreement to the amendment of the Senate numbered 35, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$25,500,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 38: That the House recede from its disagreement to the amendment of the Senate numbered 38, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$3,800,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 41: That the House recede from its disagreement to the amendment of the Senate numbered 41, and agree to the same with an amendment as follows: In lieu of the sum proposed insert "$12,000,000"; and the Senate agree to the same.</p>
+<p>Amendment numbered 42: That the House recede from its disagreement to the amendment of the Senate numbered 42, and agree to the same with an amendment as follows: Restore the matter stricken out by said amendment, amended to read as follows: <hi rend="italic">Provided,</hi> That on and after October 1, 1946, all functions necessary to the compilation of foreign trade statistics shall be performed in New York, New York; <hi rend="italic">Provided further,</hi> That not to exceed $950,000 shall be expended for this purpose"; and the Senate agree to the same.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

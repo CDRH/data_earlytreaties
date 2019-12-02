@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1118">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1118	S. 826 (Seventy-second Congress, First Session &#8212; Hoover)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1118</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Hoover</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-second Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1118	S. 826 (Seventy-second Congress, First Session &#8212; Hoover)</head>
+<p>Conferring jurisdiction upon the Court of Claims to hear and determine claims of certain bands or tribes of Indians residing in the State of Oregon.</p>
+
+<p>Vetoed April 25, 1932.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 89 (75 <title>Cong. Rec.</title> 9192).</p>
+
+<p>Veto unchallenged.</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 242.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1118.01.pdf">Veto message relating to claims of certain bands or tribes of Indians in the State of Oregon.  Message from the President of the United States returning without approval the Bill (S. 826) entitled “An Act Conferring Jurisdiction upon the Court of Claims to Hear and Determine Claims of Certain Bands or Tribes of Indians Residing in the State of Oregon.”</ref>  (1932).  Senate.  72nd Congress, 1st session.  Senate Document No. 89 (<title>Serial Set</title> 9521).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 72D CONGRESS  1st Session	SENATE
+DOCUMENT No. 89 </fw>
+<head>VETO MESSAGE RELATING TO CLAIMS OF CERTAIN BANDS OR
+TRIBES OF INDIANS IN THE STATE OF OREGON</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT APPROVAL THE BILL (S. 826) ENTITLED "AN ACT CONFERRING JURISDICTION UPON THE COURT OF CLAIMS TO
+HEAR AND DETERMINE CLAIMS OF CERTAIN BANDS OR TRIBES
+OF INDIANS RESIDING IN THE STATE OF OREGON</head>
+<milestone unit="rule" />
+<p>APRIL 29, 1932.-Read; referred to the Committee on Indian Affairs and ordered
+to be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I am returning herewith Senate bill 826, "An act conferring jurisdiction upon the Court of Claims to hear and determine claims of certain bands or tribes of Indians residing in the State of Oregon," without my approval.</p>
+<p>The bill limits the claims which can be presented to those "arising under or growing out of any treaty, agreement, act of Congress, Executive order," and then throws the door wide open by adding "or otherwise." I can not assent to the proposition that the Government should be obligated after 75 years to defend a suit for unknown claims of such ancient origin and for persons long since dead not based upon any treaty, agreement, act of Congress, or Executive order.</p>
+<p>I want full justice for our Indian wards, and would have no objection to the presentation of claims arising under the treaties named in the bill, both ratified and unratified treaties. I am advised, however, that all funds promised to these Indians under the ratified treaties have been appropriated and paid, and that lands were set aside for and occupied by the Indians who were parties to the unratified treaties. I am further constrained to this action at a time when the Government can not assume additional and unknown burdens of expenditure.</p>
+<closer><signed>HERBERT HOOVER.</signed>
+<dateline>THE WHITE HousE, April 25, 1932.</dateline></closer>
+<milestone unit="rule" />
+<p>[S. 826. Seventy-second Congress of the United States of America; at the first session, begun and held at the city of Washington on Monday, the seventh day of December, one thousand nine hundred and thirty-one]</p>
+<hi rend="italic"><p>An Act conferring jurisdiction upon the Court of Claims to hear and determine claims of certain bands or tribes
+of Indians residing in the State of Oregon</p></hi>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That jurisdiction is hereby conferred on the Court of Claims, with the right of appeal to the Supreme Court of the United
+<fw> 2	VETO MESSAGE RELATING TO CLAIMS OF OREGON INDIANS </fw>
+States, by either party, as in other cases, to hear, examine, adjudicate, and render final judgment in any and all legal and equitable claims, arising under or growing out of any treaty, agreement, Act of Congress, Executive order, or otherwise, which certain Indian tribes or bands, or portions thereof, and their descendants, may have against the United States, namely, the Indians described in the ratified treaties of September 10, 1853 (10 <title>Stat.</title> 1018), September 19, 1853 (10 <title>Stat.</title> 1027), November 18, 1854 (10 <title>Stat.</title> 1122), November 25, 1854 (10 <title>Stat.</title> 1125), January 22, 1855 (10 <title>Stat.</title> 1143), and December 21, 1855 (12 <title>Stat.</title> 981); together with those described in the unratified treaties published in Senate Executive Document Numbered 25, Fifty-third Congress, first session (pages 8 to 15), except the Coos Bay, Lower Umpqua, and Siuslaw Tribes, it being the intention of this Act to include all the Indian tribes, or bands, residing in the State of Oregon, west of the Cascade Range at the dates of the said treaties, respectively, and their descendants, some of whom, in 1855, or later, were removed by the military authorities of the United States to the Siletz Coast Range and the Grande Ronde Reservation, in the said States, except the three tribes last named.</p>
+<p>SEC. 2. That if any claim or claims be submitted to said courts hereunder they shall settle the rights therein, both legal and equitable, of each and all the parties thereto, notwithstanding the lapse of time or the statutes of limitation; and any payment which may have been made upon any such claim shall not operate as an estoppel but may be pleaded as a set-off, and the United States shall be allowed to plead and shall receive credit for all sums, including gratuities if properly chargeable, paid to or expended for the benefit of any of said nations, tribes, or bands of Indians. The claim or claims of each nation, tribe, or band may be presented separately or jointly by petition, subject, however, to amendment and consolidation in proper cases. Such action shall make the petitioner or petitioners party plaintiff or plaintiffs and the United States party defendant; and any nation, tribe, or band the court may deem necessary to a final determination of such suit or suits may be joined therein by order of the court.</p>
+<p>The petition shall set forth all the facts upon which the claims are based and the laws, treaties, agreements, Executive orders, or wrongful actions of the Government under and upon which recovery is sought, and shall be signed and verified by the attorney or attorneys employed to prosecute such claim or claims and who are under contract with said Indians approved in accordance with existing law. A copy of the petition in such suit shall be served upon the Attorney General of the United States, and he, or some attorney from the Department of Justice designated by him, shall appear and defend the interests of the United States: Provided, That any and all claims against the United States within the purview of this Act shall be forever barred unless suit be instituted or petition filed as herein provided in the Court of Claims within ten years from the date of the approval of this Act.</p>
+<p>Official letters, papers, documents, and public records, or certified copies thereof, may be used in evidence, and the departments of the Government shall allow the attorney or attorneys access to such treaties, papers, correspondence, or records as may be proper.</p>
+<p>SEC. 3. Upon final determination of such suit or suits the Court of Claims shall have jurisdiction to fix and determine a reasonable fee, not to exceed 10 per centum of the recovery, based upon actual services rendered, together with all necessary and proper expenses incurred in the preparation and prosecution of the suit or suits, to be paid to the attorney or attorneys employed by said nations, tribes, or bands of Indians; and if not otherwise paid, the same shall be included in the decree and shall be paid out of any sum or sums found to be due said Indians.</p>
+<p>SEC. 4. The proceeds of all amounts, if any, recovered for said Indians, less attorneys' fees and expenses, shall be deposited in the Treasury of the United States to the credit of the Indians decreed by said court to be entitled thereto, and shall draw interest at the rate of 4 per centum per annum from the date of the original judgment or decree, and thereafter shall be subject to appropriation by Congress for educational, health, industrial, and other purposes for the benefit of said Indians, including the purchase of lands and building of homes.</p>
+<closer><signed>JNO. N. GARNER,</signed>
+Speaker of the House of Representatives. 
+<signed>CHARLES CURTIS,</signed>
+Vice President of the United States and President of the Senate.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><title><ref target="PV1118.02.pdf">Congressional Record</ref></title> 75, 9192-9193 (1932).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9192	CONGRESSIONAL RECORD SENATE	APRIL 29 </fw>
+<p>7216. Also, resolution of the Williams Pocahontas Mine Safety Club, of War, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7217. Also, resolution of the Price Hill Safety Club, of Price Hill, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7218. Also, resolution of the Skelton Safety Club, of Skelton, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7219. Also, resolution of the Cranberry Safety Club, of Cranberry, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7220. Also, resolution of the Lochgelly Safety Club, of Lochgelly, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7221. Also, resolution of the Summerlee Safety Club, of Summerlee, W. Va., opposing the Davis-Kelly coal bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7222. AIso, resolution of the Sprague Safety Club, of Sprague, W. Va., opposing the Davis-Kelly coal bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7223. Also, resolution of the Alpha Pocahontas Coal Co. Safety Club, of Alpoca, W. Va., opposing the Davis-Kelly coal bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7224. Also, resolution of the Covel Safety Club, of Covel, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7225. Also, resolution of the Oakwood Safety Club, of Carlisle, W. Va., opposing the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7226. Also, resolution of the Prudence and Harvey Safety Club, of Harvey, W. Va., opposing. the Davis-Kelly bill; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7227. Also, resolution of the Whipple Safety Club, of Whipple, W. Va., opposing the Davis-Kelly bill; to the- Committee on Interstate and Foreign Commerce. </p>
+<p>7228. By Mr. SUTPHIN : Petition of Vernon A. Brown Post, No. 438, Veterans of Foreign Wars, opposing payment of the foreign-war debt at the expense of the disabled veteran; to the Committee on World War Veterans' Legislation.</p>
+<p>7229. Also, petition of New Jersey State Division of the American Association of University Women, opposing curtailment of appropriations for vocational education; to the Committee on Appropriations.</p>
+<p>7230. By Mr. SWANSON: Petition of J. E. Brooks and others of Greenfield, Iowa, against . House bill 8576, for the discontinuance of postal sale of contract-printed envelopes; to the Committee on the Post Office and Post Roads.</p>
+<p>7231. By Mr. TARVER: Petition of H. Grady Jones and a number of other citizens of Haralson County, Ga., favoring the regulation of bus-and-truck transportation; to the Committee on Interstate and Foreign Commerce.</p>
+<p>7232. By Mr. WATSON: Resolution passed by the Mountain Arts Association of Pennsylvania, favoring the continuation of the Smith-Hughes Act of 1917; to the Committee on Education.</p>
+<p>7233. Also, resolution passed by the Philadelphia Board of Trade, concerning the status of sugar refining; to the Committee on Ways and Means.</p>
+<p>7234. Also, resolution passed by the Port of Philadelphia Ocean Traffic Bureau, concerning the status of sugar refining; to the Committee on Ways and Means.</p>
+
+<head>SENATE
+FRIDAY, APRIL 29, 1932.</head>
+<p>The Chaplain, Rev. ZeBarney T. Phillips, D. D., LL. D., offered the following prayer:</p> <p>
+Almighty and Eternal God, whose will doth sway the destiny of the universe and of human life, before whose eyes nothing is covered or concealed; preserve us in our secret life from all idle reverie, from all impurity of thought, from moments of self-pity, pride, and petulance, and give to us the inner calm, the fine serenity of souls principled in faith and hope and love.</p>
+<p>Touch Thou our lips with kindly wisdom, that with grace and clearest insight our words may rise on winged feet above confusion's wide expanse, clothing our thought with the rare bloom and fragrance of that knowledge which reveals the constant inflowing of God into the affairs of men. We ask it in the name and for the sake of Him who spake as never man spake, Jesus Christ our Lord. Amen.</p>
+
+<head>THE JOURNAL
+</head>
+<p>The Chief Clerk proceeded to read the Journal of the proceedings of the calendar day of yesterday, when, on request of Mr. Fess and by unanimous consent, the further reading was dispensed with and .the Journal was approved.</p>
+<head>
+CALL OF THE ROLL</head>
+
+<p>Mr. FESS. Mr. President, I suggest the absence of a quorum.</p>
+<p>The VICE PRESIDENT. The clerk will call the roll.</p>
+<p>The legislative clerk called the roll, and the following Senators answered to their names:</p>
+<table type="" rows="21" cols="4">
+<row>
+<cell role="desc">Ashurst	</cell><cell role="desc">Cutting</cell>	<cell role="desc">Kendrick</cell>	<cell role="desc">Robinson, Ark.</cell>
+</row>
+<row>
+<cell role="desc">Austin</cell>	<cell role="desc">Dale</cell>	<cell role="desc">Keyes</cell>	<cell role="desc">Robinson, Ind.</cell>
+</row>
+<row>
+<cell role="desc">Bailey</cell>	<cell role="desc">Davis</cell>	<cell role="desc">King</cell>	<cell role="desc">Schall</cell>
+</row>
+<row>
+<cell role="desc">Bankhead</cell>	<cell role="desc">Dickinson</cell>	<cell role="desc">La Follette</cell>	<cell role="desc">Sheppard</cell>
+</row>
+<row>
+<cell role="desc">Bingham</cell>	<cell role="desc">Dill</cell>	<cell role="desc">Lewis</cell>	<cell role="desc">Shipstead</cell>
+</row>
+<row>
+<cell role="desc">Black</cell>	<cell role="desc">Fess</cell>	<cell role="desc">Logan</cell>	<cell role="desc">Shortridge</cell>
+</row>
+<row>
+<cell role="desc">Blaine</cell>	<cell role="desc">Fletcher</cell>	<cell role="desc">Long</cell>	<cell role="desc">Smoot</cell>
+</row>
+<row>
+<cell role="desc">Borah</cell>	<cell role="desc">Frazier</cell>	<cell role="desc">McGill</cell>	<cell role="desc">Steiwer</cell>
+</row>
+<row>
+<cell role="desc">Bratton</cell>	<cell role="desc">George</cell>	<cell role="desc">McKellar</cell>	<cell role="desc">Stephens</cell>
+</row>
+<row>
+<cell role="desc">Brookhart</cell>	<cell role="desc">Goldsborough</cell>	<cell role="desc">McNary</cell>	<cell role="desc">Thomas, Idaho</cell>
+</row>
+<row>
+<cell role="desc">Broussard</cell>	<cell role="desc">Gore</cell>	<cell role="desc">Metcalf</cell>	<cell role="desc">Thomas, Okla.</cell>
+</row>
+<row>
+<cell role="desc">Bulkley</cell>	<cell role="desc">Hale</cell>	<cell role="desc">Morrison</cell>	<cell role="desc">Townsend</cell>
+</row>
+<row>
+Bulow	Harrison	Moses	Trammell
+</row>
+<row>
+<cell role="desc">Byrnes</cell>	<cell role="desc">Hatfield</cell>	<cell role="desc">Neely</cell>	<cell role="desc">Tydings</cell>
+</row>
+<row>
+<cell role="desc">Capper</cell>	<cell role="desc">Hawes</cell>	<cell role="desc">Norbeck</cell>	<cell role="desc">Vandenberg</cell>
+</row>
+<row>
+<cell role="desc">Caraway</cell>	<cell role="desc">Hayden</cell>	<cell role="desc">Norris</cell>	<cell role="desc">Wagner</cell>
+</row>
+<row>
+<cell role="desc">Connally</cell>	<cell role="desc">Howell</cell>	<cell role="desc">Nye</cell>	<cell role="desc">Walcott</cell>
+</row>
+<row>
+<cell role="desc">Coolidge</cell>	 <cell role="desc">Hull</cell>	<cell role="desc">Oddie</cell>	<cell role="desc">Walsh, Mass.</cell>
+</row>
+<row>
+<cell role="desc">Copeland</cell>	<cell role="desc">Johnson</cell>	<cell role="desc">Patterson</cell>	<cell role="desc">Waterman</cell>
+</row>
+<row>
+<cell role="desc">Costigan</cell>	<cell role="desc">Jones</cell><cell role="desc">	Pittman</cell>	<cell role="desc">Watson</cell>
+</row>
+<row>
+<cell role="desc">Couzens</cell>	<cell role="desc">Kean</cell>	<cell role="desc">Reed</cell>	<cell role="desc">White</cell>
+</row>
+</table>
+
+<p>The VICE PRESIDENT. Eighty-four Senators have answered to their names. A quorum is present.</p>
+
+<head>CLAIMS OF INDIANS IN OREGON&#8212;VETO MESSAGE (S. DOC. NO. 89)</head>
+
+<p>The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was read:</p>
+<p>To the Senate:</p>
+<p>I am returning herewith Senate bill 826, "An act conferring jurisdiction upon the Court of Claims to hear and determine claims of certain bands or tribes of Indians residing in the State of Oregon," without my approval.</p>
+<p>The bill limits the claims which can be presented to those "arising under or growing out of any treaty, agreement, act of Congress, Executive order," and then throws the door wide open by adding "or otherwise." I can not assent to the proposition that the Government should be obligated after 75 years to defend a suit for unknown claims of such ancient origin and for persons long since dead not based upon any treaty, agreement, act of Congress, or Executive order.</p>
+<p>I want full justice for our Indian wards, and would have no objection to the presentation of claims arising under the treaties named in the bill, both ratified and unratified treaties. I am advised, however, that all funds promised to these Indians under the ratified treaties have been appropriated and paid, and that lands were set aside for and occupied by the Indians who were parties to the unratified treaties. I am further constrained to this action at a time when the Government can not assume additional and unknown burdens of expenditure.</p>
+<closer><signed>HERBERT HOOVER.</signed>
+<dateline>THE WHITE HousE, April 25, 1932.</dateline></closer>
+
+<p>The VICE PRESIDENT. The question is, Shall the bill pass, the objections of the President of the United States to the contrary notwithstanding?</p><pb n="9193" />
+<fw> HeinOnline- 75 <title>Cong. Rec.</title> 9192 1932
+1932	CONGRESSIONAL RECORD SENATE	9193 </fw>
+<p>Mr. McNARY. Mr. President, I ask unanimous consent that the veto message, with the accompanying enrolled bill, may be referred to the Committee on Indian Affairs and printed.</p>
+<p>The VICE PRESIDENT. Without objection, that order will be made.</p>
+
+<head>PETITIONS AND MEMORIALS</head>
+<p>The VICE PRESIDENT laid before the Senate a resolution adopted by the Board of Supervisors of the City and County of San Francisco, Calif., protesting against curtailment, as an economy measure, of benefits now received by disabled veterans, which was referred to the Committee on Appropriations.</p>
+<p>He also laid before the Senate a letter signed by Francis A. McCann, executive secretary Washington section of the Baltimore Archdiocesan Union of Holy Name Societies, Washington, D.C., favoring the appropriation of $600,000 for the relief of the unemployed in the District of Columbia, which was referred to the Committee on Appropriations.</p>
+<p>He also laid before the Senate a letter from Herbert J. Ollinger, of Cleveland, Ohio, submitting a plan for solution of the present unemployment difficulties, which was referred to the Committee on Finance.</p>
+<p>He also laid before the Senate a letter from Everett G. Glidden, of Schenectady, N. Y., submitting a plan to overcome the present economic depression, which was referred to the Committee on Finance.</p>
+<p>He also laid before the Senate letters from L. E. McElroy, of Oklahoma City, Okla., relative to an alleged discrepancy in taxation in the present Federal revenue law as applied to property sold in Texas and property sold in Oklahoma, Arkansas, and Kansas (oil and gas leases, etc.) , which were referred to the Committee on Finance.</p>
+<p>He also laid before the Senate a resolution adopted by the Northeast Suburban Woman's Christian Temperance Union, of Washington, D. C., protesting against the resubmission of the  eighteenth amendment of the Constitution to State conventions or legislatures and favoring the making of adequate appropriations for law enforcement and education in law observance, which was referred to the Committee on the Judiciary.</p>
+<p>He also laid before the Senate a letter from Jane Anderson, of New York City, N. Y., inclosing a newspaper article, being a special to the New York Times under the date line "Briarcliff Manor, April 25," entitled "Doctor Buchman Offers World-Saving Plan; Prosperity Would Return if the Nation's Leaders Got in Touch with God," which was ordered to lie on the table.</p>
+<p>Mr. ROBINSON of Arkansas presented petitions of members of Victor Ellig Post, No. 31, American Legion, and sundry citizens, all of Fort Smith, Ark., praying for the prompt passage of legislation for the payment of adjusted-compensation certificates (bonus) of World War veterans, which were referred to the Committee on Finance.</p>
+<p>He also presented telegrams in the nature of petitions signed by Jeff Davis and sundry other citizens, of El Dorado; by J. E. Berry and sundry other citizens, of Smackover; and the chamber of commerce and sundry citizens of Camden, all in the State of Arkansas, praying for the imposition of an excise duty on imported crude oil, asphalt, and gasoline in the pending tax bill, which were referred to the Commit-tee on Finance.</p>
+<p>Mr. KEAN presented memorials numerously signed by sundry citizens of Camden County, N. J., remonstrating against the passage of legislation to change existing laws relating to compensation, disability allowance, or pension in any manner designed to reduce the amount of such payments to the veterans of any war, their widows or dependents, which were referred to the Committee on Finance.</p>
+<p>Mr. HALE presented numerous letters and communications in the nature of petitions from sundry citizens and organizations in the State of Maine, praying for the passage of the bill (H. R. 9891) to provide for the .establishment of a system of pensions for railroad and transportation employees and for a railroad pension board, and for otherpurposes, which were referred to the Committee on Inter-state Commerce.</p>
+<p>Mr. WALSH of Massachusetts presented petitions of 45 citizens of the State of Massachusetts praying for the pas-sage of the bill (H. R. 9891) to provide for the establishment of a system of pensions for railroad and transportation employees and for a railroad pension board, and for other purposes, which were referred to the Committee on Inter-state Commerce.</p>
+<p>He also presented a petition of sundry citizens of the State of Massachusetts, praying for the prompt passage of legislation providing immediate cash payment of adjusted-compensation certificates (bonus) of World War veterans, which was referred to the Committee on Finance.
+He also presented a telegram in the nature of a memorial from sundry citizens and postal employees of Ware, and memorials of 135 other citizens, all in the State of Massachusetts, remonstrating against reductions in the compensation or leave privileges of postal employees, which was referred to the Committee on Appropriations.</p>
+<p>Mr. TYDINGS presented a resolution adopted by the County Council of the American Legion Posts of Montgomery County, Md., protesting against the passage of the so-called omnibus economy bill, and particularly opposing reductions in appropriations for ex-service men, which was referred to the Committee on Appropriations.</p>
+<p>He also presented resolutions adopted by the Monumental Social Club, Democratic, second ward, and the One hundred and tenth Machine Gun Association (Inc.) , both of Baltimore, Md., favoring the prompt passage of legislation providing for the payment of adjusted-compensation certificates (bonus) of World War veterans, which were referred to the Committee on Finance.</p>
+<p>Mr. JONES presented a petition of sundry citizens of Bellingham, Wash., praying for the passage of legislation known as the motor boat bill, which was referred to the Committee on Commerce.</p>
+<p>He also presented a resolution adopted by the Yakima Valley Reclamation League, Yakima, Wash., indorsing the plan of Federal reclamation upon suitable projects and favoring the making of appropriation therefor, which was referred to the Committee on Irrigation and Reclamation.</p>
+<p>He also presented a memorial of sundry citizens of Grays Harbor County, Wash., remonstrating against the imposition of a 10 per cent tax upon sales of jewelry, and favoring a general sales tax, which was referred to the Committee on Finance.</p>
+<p>He also presented a memorial of sundry citizens of Enumclaw and vicinity, in the State of Washington, remonstrating against the imposition of a general sales tax, which was referred to the Committee on Finance.</p>
+<p>He also presented a resolution of the mayor and city commission of Centralia, Wash., favoring the imposition of adequate tariff duties on imports of lumber and products thereof, which was referred to the Committee on Finance.</p>
+<p>He also presented a memorial of sundry citizens of Seattle, Wash., remonstrating against the passage of legislation curtailing the benefits allowed to disabled war veterans, Which was referred to the Committee on Finance.</p>
+<p>Mr. SHORTRIDGE presented letters and papers in the nature of memorials from the Garden City Lodge, No. 504, International Association of Machinists, of San Jose, by Charles N. Fletcher, secretary; Kern River Local, No. 19, International Association of Oil Field, Gas Well, and Re-finery Workers of America, of Bakersfield, by E. B. Daniel, secretary; Southern Citrus Fruits Corporation (Ltd.) of Los Angeles, by C. H. Clay; Local Union No. 216, Sheet Metal Workers International Association, of Oakland, by F. E. Monsler, recording secretary; and sundry citizens and organizations, all in the State of California, remonstrating against reductions in the compensation of Federal employees, which were referred to the Committee on Appropriations.</p>
+<p>He also presented letters in the nature of memorials from sundry citizens and business firms in the State of California, remonstrating against the 10 per cent tax on jewelry</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

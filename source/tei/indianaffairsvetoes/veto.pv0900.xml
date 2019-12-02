@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0900">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">900	H.R. 11204 (Fifty-eighth Congress, Third Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0900</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-eighth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Seneca</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>900	H.R. 11204 (Fifty-eighth Congress, Third Session &#8212; T. Roosevelt)</head>
+
+<p>To ratify and confirm a lease made by the Seneca Nation of New York Indians to John Quilter.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 58th Congress had adjourned sine die on March 3, 1905.  The bill was presented to the President on March 2, 1905 (March 2, 1905, H. Jour., p. 453; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 39).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>. </title> (1992). Washington, DC: Government Printing Office, 192.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0900.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1905).  58th Congress, 3rd session, p. 453 (<title>Serial Set</title> 4754).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE; UNITED STATES,</head>
+<head>BEING THE
+THIRD SESSION OF THE FIFTY-EIGHTH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 5, 1904,
+IN THE ONE HUNDRED AND TWENTY-NINTH YEAR OE THE INDEPENDENCE OF THE UNITED STATES.</head>
+<milestone untit="rule" />
+<head>WASHINGTON:
+GOVERNMENT PRINTING OFFICE. 1905.</head>
+<fw> 1905.	HOUSE OF REPRESENTATIVES.	453 </fw>
+<p>S. 5094. An act to promote the efficiency of the reserve militia and to encourage rifle practice among the members thereof. S. 6644. An act to cause certain lands heretofore withdrawn from market for reservoir purposes to he restored to the public domain, subject to entry under the homestead law, with certain restrictions ;</p>
+<p>S. 7184. An act to provide for additional associate justice of the supreme court of the Territory of Arizona, and for other pURPOSES;</p>
+<p>Bills of the Senate and a bill of the House, with an amendment of the Senate thereto. were taken from the Speaker's table and, under the rule, referred as follows:</p>
+<p>S. 621. An act for the relief of Fernando J. Moreno&#8212;to the Committee on Claims.</p>
+<p>S. 1983. An act for the relief of George T. Pettengill, lieutenant. United States Navy&#8212;to the Committee on Claims.</p>
+<p>H. R. 18197. A bill to amend section 4463 of the Revised Statutes, relating to the complement of crews of vessels, with Senate amendment thereto&#8212;to the Committee on Merchant Marine and Fisheries.</p>
+<p>The Speaker laid before the House the joint resolution of the Senate (S. R. 116) to pay the necessary expenses of the inaugural ceremonies of the President of the United States March 4, 1905; when the same was by unanimous consent considered and agreed to.</p>
+<p>The Speaker laid before the House the bill of the Senate (S. 5989) to remove the charge of dishonorable dismissal from the military record of John Finn, alias Flynn; when the same was by unanimous consent considered, was read three times, and passed.</p>
+<p>A motion by Mr. Alexander to reconsider the vote last taken was, on his motion, laid on the table.</p>
+<p>Ordered, That the Clerk notify the Senate thereof.</p>
+<p>And then,</p>
+<p>On motion of Mr. Payne, at 10 o'clock and 40 minutes a. m., the House took a recess until 10 o'clock and 55 minutes a. m.</p>
+<head>AFTER THE RECESS  10.55 A. M. (CALENDAR DAY, MARCH 4).</head>
+<p>The House resumed its session.</p>
+<p>By unanimous consent Mr. Badger was granted leave to withdraw from the files of the House, without leaving copies, the papers in the case of George W. Recot, Zachariah Heed, William H. Feaster, John Brodie, William 11. Trautman, David Scurry, Thomas Murane, Laurence Bast, and Nicholas Schwartz, Fifty-eighth Congress, no adverse report having been made thereon.</p>
+<p>Mr. Wachter, from the Committee on Enrolled Bills, reported that that committee had this day presented to the President for his approval bills and joint resolutions of the House of the following titles:</p>
+<p>H. J. Res. 222. Joint resolution permitting Ying Hsing Wen and Ting Chia Chen, of China, to receive instrnction at the Military Academy at West Point;</p>
+<p>H. R. 18514. An net to amend an net to prohibit the passage of special or local laws in the Territories, to limit Territorial indebtedness, and to legalize the indebtedness of school district No. 1 in Pawnee County, Okla.;</p>
+<p>H. H. 18939. An act for the relief of the heirs and assignees of Thomas Whaley and wife;</p>
+<p>H. R. 19097. An act to authorize the Missouri Central Railroad Company to construct and maintain a bridge across the Missouri River near the city of St. Charles, in the State of Missouri;</p>
+<p>H. R. 19050. An act to authorise the county of Ouachita to construct a bridge across the Ouachita River, Arkansas;</p>
+<p>H.R. 19098. An act to authorize the Missouri Central Rail-road Company to construct and maintain a bridge across the Missouri River near the city of Glasgow, in the State of Missouri;</p>
+<p>H. R. 19178. An act to authorize the Apalachicola and Northern Railway to construct and maintain a bridge across the Apalachicola River and the East St. Mary River;</p>
+<p>H. R.815, An act to correct the military record of James Houselman;</p>
+<p>H.R.17865. An act making appropriations for the service of the Post-Office Department for the fiscal year ending June 30, 1906, and for other purposes;</p>
+<p>H. H. 15021. An act for the relief of Gilbert Shaw;</p>
+<p>H. R. 14393. An act granting an increase of pension to Deborah W. Annable;</p>
+<p>H. R. 11664. An act to reimburse the Illinois Central Railroad Company for damage to union depot at Louisville, Ky., by blasting in the Ohio River;</p>
+<p>H. R. 3535. An act to grant honorable discharge to William A. Treadwell;</p>
+<p>H.11.18040. An act to authorize Gila County, Ariz., to issue $40,000 in bonds to build a court-house, etc.;</p>
+<p>H. R. 189110. An act authorizing the Secretary of War to convey the Kimmins Arsenal property, situated in Augusta, Me., to the State of Maine for public purposes;</p>
+<p>H. J. Res. 227. Joint resolution for printing the report on the Mexican cotton boll weevil;</p>
+<p>H.R. 17589. An act to enable the Secretary of Agriculture to establish and maintain quarantine districts, to permit and regulate the movement of cattle and other live stock therefrom, ,and for other purposes;</p>
+<p>H. R. 11204. An act to ratify and confirm a lease made by the Seneca Nation of New York Indians to John Quilter</p>
+<p>H. R. 18467. An act making appropriations for the naval service for the fiscal year ending June 30, 1906, and for other purposes; and</p>
+<p>H. R. 1786 3. An act to further prescribe the duties of the secretary of the district of Alaska.</p>
+<p>Mr. Wachter also reported that the committee had examined and found truly enrolled bills of the House of the following titles: which were thereupon signed by the Speaker, to wit:</p>
+<p>H. R.14022. An act prohibiting the selection of timber lands in lieu of lands in forest reserves;</p>
+<p>H. J. Res. 230. Joint resolution to authorize the chairman of the excise board of the District of Columbia to issue certain permits;</p>
+<p>H. B. 18754. An act to prohibit interstate transportation of insect pests, and the use of the United States mails for that purpose;</p>
+<p>H. R. 18969. An act making appropriations for sundry civil expenses of the Government for the fiscal year ending June 30, 1906, and for other purposes;</p>
+<p>H. R. 18.809. An act making appropriations for the construction, repair, and preservation of certain public works on rivers and harbors. and for other purposes.</p>
+<p>H.R. 19150. An act making appropriations to supply deficiencies in the appropriations for the fiscal year ending June 30. 1905, and for prior years, and for other purposes:</p>
+<p>H. R. 17514. An act granting an increase of pension to John H. Williams;</p>
+<p>H. R.18481. An act granting a pension to Paul G. Morgan; </p>
+<p>H. R. 9980. An act grunting an increase of pension to Edwin A. Haradon;</p>
+<p>H. R. 7474. An act making appropriations for the current and contingent expenses of the Indian Department and for fulfilling treaty stipulations with various Indian tribes for the fiscal year ending June 30, 1906, and for other purposes;</p>
+<p>H. R. 6826. An act to transfer Ensign Creighton Churchill from the retired to the active list of the Navy;</p>
+<p>H. R. 12273. An act authorizing the appointment of certain midshipman in the United States Navy;</p>
+<p>H. R. 17863. An act to further prescribe the duties of the secretary of the district of Alaska, and for other purposes; and  H.R. 3916. An act for the relief of James S. Harber. The Speaker announced his signature to enrolled bills of the Senate of the following titles:</p>
+<p>S.5989. An act to remove the record of dishonorable dismissal from the military record of John Finn, alias Flynn: S.6841. An act to authorize the construction of a bridge over the Alabama River between the counties of Clark and Monroe, State of Alabama;</p>
+<p>S. R. 98. Joint resolution to print a second and revised edition of the Third Annual Report of the United States Reclamation Service;</p>
+<p>S. R. 109. Joint resolution to print the report of the Eighth International Geographic Congress;</p>
+<p>S. 1344. An act to quiet certain land titles in the State of Mississippi ; and</p>
+<p>S.R.116. Joint resolution to enable the Secretary of the Senate and Clerk of the House of Representatives to pay necessary expenses of inaugural ceremonies of the President of the United States.</p>
+<p>Mr. Payne submitted the following resolution (H. Res. 549) : Resolved, That a committee of three members be appointed by the Chair to join a similar committee appointed by the Senate to wait upon the President of the United States and inform him that the two Houses have completed the business of the present session and are ready to adjourn unless the President has some other communication to make to them.</p>
+<p>The resolution was agreed to.</p>
+<p>Thereupon, the Speaker announced the appointment of Mr. Payne, Mr. Hepburn, and Mr. De Armond as the committee on the part of the House.</p>
+<p>The Speaker announced the following appointments:</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0900.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 39 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  2d Session	HOUSE OF REPRESENTATIVES J DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO	39 </fw><pb n="39" />
+<p>H. R. 15573&#8212;received Feb. 28. On bill is written in ink:</p>
+<p> Veto</p>
+<p>H. R. 16361&#8212;received Feb. 28. On bill is written in ink: </p>
+<p>Not sign</p>
+<p>H. R. 16445&#8212;received Feb. 28. No marks by the President, but attached to the bill is a report of the Commissioner of Pensions that the beneficiary had died.</p>
+<p>The 58th Congress, third session, adjourned March 4, 1905, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 39, pt. 4, pp. 4028, 4041) President Roosevelt retained unsigned S. 5108, which is stamped:</p>
+<p>White House received Mar 3, 1905</p>
+<p>and H. R. 11204, which has no date of receipt stamped on it. Both bills are now at the Executive Offices.</p>
+<p>The 59th Congress, first session, adjourned June 30, 1906. (<title>Cong. Rec.</title>, vol. 40, pt. 10, pp. 9802, 9817) President Roosevelt retained unsigned six Senate and three House bills. They are now at the Executive Offices.</p>
+<p>S. 1812, S. 2188, S. 4774, H. R. 12080 and H. R. 15673 are undated.</p> 
+<p>S. 4197 is stamped:</p>
+<p>The White House received Jun. 29, 1906 On the bill is penciled: </p>
+<p>Pocket Veto.</p>
+<p>S. 4965 is undated. Attached to the bill is a slip on which is written:</p>
+<p>Pocket Veto.</p>
+<p>S. 6355 was received June 29. Attached to it is a slip of paper on which is written:</p>
+<p>Let it die.</p>
+<p>H. R. 7226 was received June 28. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket Veto.</p>
+<p>The 59th Congress, second session, adjourned March 4, 1907, the Senate and House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 41, pt. '5, pp. 4658, 4672) President Roosevelt retained unsigned two Senate and four House bills, which are now at the Executive Offices.</p>
+<p>S. 4964 was received Mar. 2. On the bill itself, in ink, in the President's handwriting, is word "Veto."</p>
+<p>S. 8540 was received Mar. 2. On the bill, in ink, in the President's handwriting, are the words "Pocket veto."</p>
+<p>H. R. 3498 was received February 28, 1907.</p>
+<p>H. R. 17415 is not stamped with date of receipt. On the bill itself, in ink, in the President's handwriting, are the words "Pocket veto." H. R. 18854 was received February 22.
+H. R. 19500 is undated.</p>
+<p>The 60th Congress, second session, adjourned March 4, 1909, the Senate legislative day of March 3 and the House legislative day of February 23. (Cong Rec., vol. 43, pt. 4, pp. 3825, 3837) President Roosevelt retained unsigned ten Senate and seven House bills. They</p>
+</body></floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

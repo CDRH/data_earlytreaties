@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1063">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1063	S. 2301 (Sixty-ninth Congress, Second Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1063</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-ninth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Shoshone</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+ <change><date>2010-08-19</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1063	S. 2301 (Sixty-ninth Congress, Second Session &#8212; Coolidge)</head>
+
+<p>Authorizing the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming to submit
+claims to the Court of Claims.</p>
+
+<p>Vetoed January 28, 1927.  The veto message was laid before the Senate, referred to the Committee an Agriculture and Forestry, and printed as S. Doc. No. 199 (68 <title>Cong. Rec.</title> 2414).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 230.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1063.01.pdf">Veto message relating to the Act Authorizing the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming to Submit Claims to the Court of Claims.  Message from the President of the United States returning without approval the Bill (2301) authorizing the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming to submit claims to the Court of Claims.</ref>  (1927).  Senate.  69th Congress, 2nd session.  Senate Document No. 199 (<title>Serial Set</title> 8713).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 69TH CONGRESS	SENATE 2d Session
+DOCUMENT
+No. 199 </fw>
+<head>VETO MESSAGE RELATING TO THE ACT AUTHORIZING THE SHOSHONE TRIBE OF INDIANS OF THE WIND RIVER RESERVATION IN WYOMING TO SUBMIT CLAIMS TO THE COURT OF CLAIMS</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+
+WITHOUT APPROVAL THE BILL (2301) AUTHORIZING THE SHOSHONE TRIBE OF INDIANS OF THE WIND RIVER RESERVATION IN WYOMING TO SUBMIT CLAIMS TO THE COURT OF CLAIMS</head>
+<milestone unit="rule" />
+<head type="sub">JANUARY 25 (calendar day, JANUARY 28), 1927.&#8212;Ordered to lie on the table and to be printed</head>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I am returning herewith Senate bill 2301, "An act authorizing
+the Shoshone Tribe of Indians of the Wind River Reservation in
+Wyoming to submit claims to the Court of Claims," without my
+approval.</p>
+<p>The Fort Bridger treaty of July 3, 1868 (15 <title>Stat.</title> 673), set aside a
+reservation for the Shoshone Indians and for such other tribes as
+the Shoshones might "admit amongst them," but also provided
+that no cession of any portion of the reservation should be valid
+unless a treaty for the purpose should .be signed by a majority of
+the male adult Indians of the Shoshone Tribe. Afterwards the
+northern band of Arapaho Indians were located on the Shoshone
+Reservation.</p>
+<p>The Shoshone Indians claim that a majority of the male adult
+Shoshones did not sign a treaty agreeing to the cession to the
+Arapahoes of a portion of the reservation; that the consent, if any,
+given by the Shoshones to the location of the Arapahoes on the
+reservation was for temporary occupancy only; and that the
+Shoshones have from time to time asserted that they should be
+compensated for the land occupied by the Arapahoes.</p>
+<p>It might be fair to say that these contentions may be disposed of,
+it seems to me, by the fact that in 1896 and 1904 reservation lands<pb n="2" />
+<fw> 2	VETO MESSAGE RELATING TO SHOSHONE CLAIMS </fw>
+were ceded by agreements signed by both the Shoshones and the Arapahoes which provided that the moneys received therefor should be divided between the Shoshones and the Arapahoes. Congress ratified these agreements, and they were carried into effect. Still, this objection might not be fatal.</p>
+<p>But aside from the question of the merit of the claim the enrolled bill is objectionable because of the provision for the payment of interest from the date of origin of the claim. It had never been Government policy, prior to the Crow Indian jurisdictional act of July 3, 1926, to provide for the payment of interest from the date of origin of a claim. I am now satisfied that further departure from our former policy would be unjustified. It seems to me unreason-able to expect that the Government should be charged with interest from the dates of origin of such ancient claims. The amount of the interest under the enrolled bill is several times greater than the amount of the principal. Such an interest policy would inevitably mean that issues supposed to have been placed in the way of fair determination by jurisdictional acts of the past will come forward again for additional interest settlements far exceeding the amounts of the original claims. Should the item of interest be eliminated, I can now see no reason why the bill should not be approved. But if interest is to be allowed on this claim, it will certainly result in an effort to reopen an endless number of claims which have already been settled.</p>	
+<closer><signed>CALVIN COOLIDGE.</signed>
+<dateline>THE WHITE HOUSE, January 28, 1927.</dateline></closer>
+<milestone unit="rule" />
+<p>[S. 2301. Sixty-ninth Congress of the United States of America; At the Second Session, begun and held at the City of Washington on Monday, the sixth day of December, one thousand nine hundred and twenty-six.]</p>
+<hi rend="italic"><p>An act authorizing the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming to submit claims
+to the Court of Claims.</p></hi>
+
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That jurisdiction be, and is hereby, conferred upon the Court of Claims, with right of appeal to the Supreme Court of the United States by either party, notwithstanding the lapse of time or statutes of limitation, to hear, examine, adjudicate, and render judgment in any and all legal and equitable claims which the Shoshone Tribe of Indians of the Wind River Reservation in the State of Wyoming may have against the United States arising under or growing out of the treaty of July 3, 1868 (Fifteenth Statutes, page 673), or arising under or growing out of any subsequent treaty or agreement between said Shoshone Tribe of Indians and the United States or any subsequent Act of Congress affecting said tribe, which claims have not heretofore been determined and adjudicated upon their merits by the Court of Claims or the Supreme Court of the United States.</p>
+<p>SEC. 2. The claims of said tribe shall be presented by petition, subject, however, to amendment at any time. The suit under this Act shall be instituted or petition filed in the Court of Claims within three years from the date of approval of this Act. Such suit shall make the Shoshone Tribe of Indians of the Wind River Reservation in Wyoming party plaintiff and the United States party defendant. The petition shall be verified upon information and belief by the attorney or attorneys employed by said tribe to prosecute said claims under contract approved by the Commissioner of Indian Affairs and the Secretary of the Interior. Letters, papers, documents, and public records, or certified copies thereof, bearing upon the claims presented, may be used in evidence, and the departments of Government shall give the attorney of said tribe access to any such letters, papers, documents, or public records and shall furnish certified copies of such thereof as may be deemed material.</p><pb n="3" />
+<fw> VETO MESSAGE RELATING TO SHOSHONE CLAIMS	3 </fw>
+<p>SEC. 3. In said suit the court shall also hear, examine, and adjudicate any claims which the United States may have against said tribe, but any payment including gratuities which the United States may have made to said tribe shall not operate as an estoppel, but may be pleaded as an offset in such suit: Provided, however, That the United States may interpose to such suit or action any and all pleas of defense, affirmative and negative, legal and equitable, which it may have thereto not herein specifically barred by the provisions of this Act.</p>
+<p>SEC. 4. If it be determined by the court that the United States, in violation of the terms and provisions of any law, treaty, or agreement, has appropriated or disposed of any lands, money, or other property belonging to the Indians, damages therefor shall be confined to the value of the money, lands, or other property at the time of such appropriation or disposal, together with interest thereon at 5 per centum per annum from the date thereof; and with reference to all claims which may be the subject matter of the suits herein authorized, the decree of the court shall be in full settlement of all damages, if any, committed by the Government of the United States and shall annul and cancel all claim, right, and title of the said Shoshone Indians in and to such money, lands, or other property.</p>
+<p>SEC. 5. Upon final determination of such suit or suits the Court of Claims shall have jurisdiction to fix and determine a reasonable fee, not to exceed 10 per centum of the recovery, together with all necessary and proper expenses incurred in preparation and prosecution of the suit, to be paid to the attorneys employed by said Shoshone Tribe of Indians, and the same shall be included in the decree and shall be paid out of any sum or sums found to be due said tribe.</p>
+<p>SEC. 6. The Court of Claims shall have full authority by proper orders and process to bring in and make parties to said suit any or all persons deemed by it necessary or proper to the final determination of the matters in controversy.</p>
+<p>SEC. 7. A copy of the petition in such suit shall be served upon the Attorney General of the United States, and he, or some attorney from the Department of Justice to be designated by him, is hereby directed to appear and defend the interests of the United States.</p>
+<p>SEC. 8. All amounts which may be found due and recovered for said tribe under the provisions of this Act, less attorneys' fees and expenses, shall be deposited in the Treasury of the United States to the credit of said tribe and shall draw interest at the rate of 4 per centum per annum from the date of the judgment or decree.</p>
+<closer><signed>NICHOLAS LONGWORTH,</signed>
+Speaker of the House of Representatives.
+<signed>CHARLES G. DAWES,</signed>
+Vice President of the United States and President of the Senate.</closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1063.02.pdf"><title>Congressional Record</title> 68, 2414</ref> (1927).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 2414	CONGRESSIONAL RECORD SENATE	JANUARY 28 </fw>
+<p>have been heretofore, but they are unspeakably lower in comparison with the prices of the commodities which are made out of the raw materials produced on the farm and which hi turn the farmer must consume.</p>
+<p>As I have previously stated, there is being blazoned abroad to the country the information that incomes were never so great as now. They have grown so great that the revenues of the Government, derived from our new method of taxation, have exceeded even the careful calculations of the actuary of the Government. That is largely due to the fact that the price of the raw material is down to where it does not pay the cost of production under modern conditions.</p>
+<p>We are engaged every day in proposing and passing legislation directly affecting and protecting the industrial interests of the country, while not a single practicable law has been placed upon our statute books meeting the necessity of that peculiar form of industry which is known as agriculture.</p>
+<p>Mr. President, in conclusion I merely wish to say that it is the duty of this Congress, even though the supply bills, including the deficiency bills, shall not be enacted into law, to address itself to the horrible condition in which agriculture finds itself, and to seek a solution, even though such legislation should break every precedent under our form of government. The sustaining of our farms, the health of our agricultural interests are of more importance than even our winning the World War, because we fought that war to " make America safe for democracy"; but what shall it profit us, though we won the war, if we undermine the very foundation of the Government which we sent those millions of soldiers to protect? We can not sustain this Government so long as we address ourselves and our legislation to fostering and promoting one class of our citizens to the destruction of another class. It is for this reason that I have read these letters and have male the plea which I have presented. While the statement is being made that such prosperity was never before known in the history of America, yet the voice of 30,000,000 who are being crucified under existing conditions falls on no willing ears amongst the powers that be.</p>
+<p>The VICE PRESIDENT. The bill is still as in Committee of the Whole and open to amendment. If there are no further amendments to be proposed, the bill will be reported to the Senate.</p>
+<p>The bill was reported to the Senate as amended, and the amendments were concurred in.
+The amendments were ordered to be engrossed and the bill to be read a third time.</p>
+<p>The bill was read the third time, and passed.</p>
+<head>SENATOR FROM GEORGIA</head>
+<p>Mr. HARRIS presented the certificate of election of WALTER F. GEORGE, of Georgia, which was read and ordered to be filed, as follows :</p>
+<dateline>EXECUTIVE DEPARTMENT, STATE of GEORGIA, November 12, 1926.</dateline>
+<p>This is to certify that the undersigned met this day, November 12, 1926, in the office of the governor at the capitol, for the purpose of canvassing and consolidating the votes cast at the general election held November 2, 1926, for a Senator of the United States for the term beginning March 4, 1927, and terminating March 3, 1933. Having canvassed and consolidated said vote so cast on November 2, 1926, the undersigned hereby certify that WALTER F. Gomm received 47,366 votes for Senator, and was duly elected Senator from the State of Georgia for the term named, and the undersigned hereby certify to such election, executing this certificate in triplicate for the records of the governor's office, in the comptroller general's office, and in the office of the secretary of state.</p>
+<p>Given under our hands and official signature this 12th day of November, 1926.</p>
+<closer><signed>CLIFFORD WALKER,</signed>
+Governor. 
+<signed>WM. A. WRIGHT,</signed>
+Comptroller General. 
+<signed>S. G. MCLENDON,</signed>
+	Secretary of State.</closer>
+
+<p>STATE of GEORGIA,
+EXECUTIVE DEPARTMENT.</p>
+<p>This is to certify that the foregoing certificate of election is a true and correct duplicate of the original, said original having been lost. Given under the seal of the executive department.</p>
+<p>This January 26, 1927.</p>
+<p>[SEAL.]		</p>
+<closer><signed>A. R. ARNAU,</signed> Secretary Executive Department.</closer>
+
+<head>PRESIDENTIAL. APPROVALS</head>
+<p>A message from the President of the United States, by Mr. Latta, one of his secretaries, announced that the President had approved and signed the following acts:</p>
+<p>On January 22, 1927:</p>
+<p>S.3992. An net to provide for the purchase of land for use in connection with Camp Marfa, Tex.</p>
+<p>On January 25, 1927:</p>
+<p>S.564. An act confirming in States and Territories title to lands granted by the United States in the aid of common or public schools;</p>
+<p>S. 1730. An act to authorize the payment of indemnity to the Government of Great Britain on account of losses sustained by the owners of the British steamship Mavisbrook as a result of collision between it and the U. S. transport Carolinian; and</p>
+<p>S.4846. An act granting the consent of Congress to Tacony-Palmyra Bridge Co. to construct, maintain, and operate a bridge across the Delaware River at Palmyra, N. J.</p>
+<p>On January 28, 1927:</p>
+<p>S.3804. An act granting the consent of Congress to W. D. Cosner and Wesley Vandercook to construct, maintain, and operate a bridge across the Columbia River between Longview, Wash., and Rainier, Oreg.</p>
+
+<head>CLAIMS OF THE SHOSHONE TRIBE OF INDIANS-VETO MESSAGE</head>
+<head type="sub">(S. Doc. NO. 199)</head>
+<p>The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was ordered to lie on the table, to be printed, and was read, as follows :</p>
+<quote>
+<p>To the Senate:</p>
+<p>I am returning herewith Senate bill 2301, "An act authorizing
+the Shoshone Tribe of Indians of the Wind River Reservation in
+Wyoming to submit claims to the Court of Claims," without my
+approval.</p>
+<p>The Fort Bridger treaty of July 3, 1868 (15 <title>Stat.</title> 673), set aside a
+reservation for the Shoshone Indians and for such other tribes as
+the Shoshones might "admit amongst them," but also provided
+that no cession of any portion of the reservation should be valid
+unless a treaty for the purpose should .be signed by a majority of
+the male adult Indians of the Shoshone Tribe. Afterwards the
+northern band of Arapaho Indians were located on the Shoshone
+Reservation.</p>
+<p>The Shoshone Indians claim that a majority of the male adult
+Shoshones did not sign a treaty agreeing to the cession to the
+Arapahoes of a portion of the reservation; that the consent, if any,
+given by the Shoshones to the location of the Arapahoes on the
+reservation was for temporary occupancy only; and that the
+Shoshones have from time to time asserted that they should be
+compensated for the land occupied by the Arapahoes.</p>
+<p>It might be fair to say that these contentions may be disposed of,
+it seems to me, by the fact that in 1896 and 1904 reservation lands
+were ceded by agreements signed by both the Shoshones and the Arapahoes which provided that the moneys received therefor should be divided between the Shoshones and the Arapahoes. Congress ratified these agreements, and they were carried into effect. Still, this objection might not be fatal.</p>
+<p>But aside from the question of the merit of the claim the enrolled bill is objectionable because of the provision for the payment of interest from the date of origin of the claim. It had never been Government policy, prior to the Crow Indian jurisdictional act of July 3, 1926, to provide for the payment of interest from the date of origin of a claim. I am now satisfied that further departure from our former policy would be unjustified. It seems to me unreason-able to expect that the Government should be charged with interest from the dates of origin of such ancient claims. The amount of the interest under the enrolled bill is several times greater than the amount of the principal. Such an interest policy would inevitably mean that issues supposed to have been placed in the way of fair determination by jurisdictional acts of the past will come forward again for additional interest settlements far exceeding the amounts of the original claims. Should the item of interest be eliminated, I can now see no reason why the bill should not be approved. But if interest is to be allowed on this claim, it will certainly result in an effort to reopen an endless number of claims which have already been settled.</p>	
+<closer><signed>CALVIN COOLIDGE.</signed>
+<dateline>THE WHITE HOUSE, January 28, 1927.</dateline></closer>
+
+<head>PETITIONS AND MEMORIALS</head>
+<p>The VICE PRESIDENT laid before the Senate the following joint resolution of the Legislature of the State of Illinois, which was referred to the Committee on Agriculture and Forestry:</p>
+
+</body>
+</floatingText> -->
+
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

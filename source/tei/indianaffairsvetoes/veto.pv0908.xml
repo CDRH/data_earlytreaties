@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0908">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">908	H.R. 19681 (Fifty-ninth Congress, First Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0908</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-ninth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Blackfeet</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>908	H.R. 19681 (Fifty-ninth Congress, First Session &#8212; T. Roosevelt)</head>
+
+<p>To survey and allot the lands embraced within the limits of the Blackfeet Indian Reservation, in the State of Montana, and to open the surplus lands to settlement.</p>
+
+<p>Vetoed June 29, 1906.  The veto message was laid before the House and referred to the Committee on Indian Affairs (40 <title>Cong. Rec.</title> 9740).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988.</title>  (1992). Washington, DC: Government Printing Office, 194.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0908.01.pdf"><title>Congressional Record</title> 40, 9740</ref> (1906).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9740	CONGRESSIONAL RECORD-HOUSE.	JUNE 29, </fw>
+<p>upon information and statements furnished by gentlemen in the pay of the proprietary medicine association. The story has been spread wide and far that the Senate bill contained the provision requiring the labeling of the narcotics and that the House bill proposed to legalize the use of these narcotics. That story has been spread through the influence and the pay of the proprietary-medicine people. Newspaper men necessarily rely upon statements which are made to them from many sources. They have been woefully imposed upon in this case. Even the medical associations have sent resolutions to us urging that the House " accept the Senate bill requiring the labeling of narcotics in place of the House bill legalizing their use." But I am thankful to say that the Members of the House have exhibited a marked degree of confidence in the members of our committee urging the passage of this bill, and they have accepted, without question, our statement that the. House bill did require the thing which the newspapers stated it did not.</p>
+<p>The provision on this subject which is now in the bill re-quires that as to medicines the package shall bear a statement on the label of the quantity or proportion of any alcohol, morphine, opium, cocaine, heroin, alpha or beta eucaine, chloroform, cannabis indica, chloral hydrate, or acetanilide, or any derivative or preparation of any such substances contained therein. This is the most stringent provision upon this subject which has ever been adopted by any legislative body. It will be one of the most popular provisions of the pure-food and drug bill. The origin of that provision was in the House of Representatives. It has been put into the bill by the House. The country owes to the House that portion of the pure-food law, as well as many other of the best and most stringent features in the law.</p>
+<p>As we report the bill back from the conference committee now it does not omit one single provision of any importance which was in the biLL as it passed the Senate. It has not been weakened any from the Senate bill, but it has been greatly strengthened by various provisions which have been inserted in the House.</p>
+<p>Mr. Speaker, I do not desire to close without saying a word in. regard to Dr. Harvey W. Wiley, Chief of the Bureau of Chemistry. While in some important respects I have been unable to Tully agree with Doctor Wiley's opinions, yet he and I have formed a close friendship .in connection with the consideration of pure-food legislation, and I have constantly sought his advice as well as his knowledge of facts. We owe much to him.</p>
+<p>Mr. Speaker, in my opinion the pure-food bill, which will surely become a law, is a distinct step forward, and I believe At will prove itself to be one of the most valuable and most popular laws ever placed upon the statute books. [Loud applause.]</p>
+<p>Mr. Speaker. I ask for a vote.</p>
+<p>The SPEAKER pro tempore (Mr. WATSON). The question, is on agreeing to the conference report.
+The question was taken; and the conference report was agreed to.</p>
+<p>On motion of Mr. HEPBURN, a motion to reconsider the last vote was laid on the table.</p>
+<head>BLACKFEET INDIAN RESERVATION, MONT.</head>
+<p> The SPEAKER pro tempore laid before the House the following message from the President of the United States:<p/> 
+<quote>
+<hi rend="italic"><p>To the House of Representatives:</p></hi>
+<p>I return herewith without approval H. R. 19081, entitled "An act to survey and allot the lands embraced within the limits of the Black-feet Indian Reservation, in the State of Montana, and to open the surplus lands to settlement," calling attention to the inclosed report of the Acting Commissioner of Indian Affairs, and especially to that portion of the report running as follows:</p>
+<p>"Attention is invited to the fact that all of the waters of the reservation are at once subject to appropriation under the laws of the State of Montana, but such appropriation shall not be held to create a right
+adverse to any Indian allottee who actually appropriates water or for whom an actual appropriation is made to the extent that may be necessary for use on the allotment within two years from the date of the President's proclamation opening the surplus lands to settlement.
+While this language would seem to have been designed to protect the water rights of the Indian allottees, I am strongly of the belief that in practice it will fail to do so. In the first place, there will be a necessary delay of several days before the allotments can be made, owing to the fact that the reservation is not surveyed, and even after it is surveyed and allotments made thereafter no actual appropriation of waters can be made by the Indians or for them, as they have no means to construct the necessary irrigation ditches, and this bill makes no appropriation to aid them in so doing. They will derive no funds from their surplus lands for this purpose for several years at least after the Issuance of the President's proclamation. If this bill be-comes law, I think it will be found that a very large part of the waters of the reservation will at once, or within a very short time, be appropriated by white settlers living outside thereof and  that irrigation
+works will be constructed for their use. When the time comes when
+the Indian allottee is ready to appropriate water it will in all probability have been completely appropriated and fully used by white settlers who have expended large sums on their irrigation works and other improvements in making homes for themselves. True, under the terms of this bill the Indians seem to have a right to take the water from the white settlers, but the practical difficulties against doing this, in the light of what has just been said, are, in my opinion, too obvious to require extended comment."</p>
+<p>I am anxious to favor in every way the actual bona fide homesteaders of northern Montana, and I will gladly sign any bill which will thus favor them, provided that it explicitly and unequivocally guarantees to the Indians their water rights&#8212;that is, the right of each Indian to a sufficiency of water to make his allotment of real use to him. Subject to this guaranty, and also of course to the certainty that the action of the Government will redound not to the benefit of one individual or corporation who wishes to exploit the water rights, but to the benefit of the actual settlers, I will gladly approve any bill which
+may be drawn to achieve the purposes of this bill without containing its defects.</p>
+<closer>
+<signed>THEODORE ROOSEVELT. </signed>
+<dateline>WHITE House, June 29, 1906.</dateline></closer>
+<quote?
+<p>Mr. CURTIS. Mr. Speaker, I move to refer the message and the accompanying documents to the Committee on Indian Affairs.</p>
+<p>The SPEAKER pro tempore. The question is on the motion of the gentleman from Kansas to refer the message and the accompanying documents to the Committee on Indian Affairs. The question was taken ; and the motion was agreed to.</p>
+
+<head>ANNUITIES OF THE SAC AND FOX INDIANS.</head>
+<p>The SPEAKER pro tempore laid before the House the following message from the President:</p>
+<note>The Clerk read as follows:</note>
+<quote>
+<hi rend="italic"><p>To the House of Representatives:</p></hi>
+<p>I return herewith without approval H. R. 10133, entitled "An act to provide for the annual pro rata distribution of the annuities of the Sac and Fox Indians of the Mississippi between the two branches of the tribe, and to adjust the existing claims between the two branches as to said annuities," for the reasons enumerated in the accompanying extract from the report of the Commissioner of Indian Affairs of
+February 12, and the letters of the Acting Commissioner of Indian Affairs of June 25 and of June 28. I have directed the Acting Commissioner Of Indian Affairs to have an immediate and thorough investigation made of the matter in accordance with the concluding paragraph of his letter of June 28, and after the report of this investigation has reached me I shall be prepared to give my assent to any bill which shall do justice both to the Indians in Iowa and the Indians
+in Oklahoma.</p>
+<closer><signed>THEODORE ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, June 29, 1906.</dateline></closer>
+</quote>
+<p>Mr. CURTIS. Mr. Speaker, I move that the message be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to,</p>
+<head>ANCHORAGE OF VESSELS.</head>
+<p>The SPEAKER <foreign>pro tempore</foreign> laid before the House the following bill with House amendment disagreed to:</p>
+<note>The Clerk read as follows:</note>
+<p>The bill (S. 4774) relating to the movements and anchorage of vessels in Hampton Roads, the harbors of Norfolk and Newport News and adjacent waters, in the State of Virginia.</p>
+<p>Mr. RYAN. Mr. Speaker, I move that the House insist upon its amendment and agree to a conference.</p>
+<p>The motion was agreed to.</p>
+<p>The SPEAKER pro tempore. If there be no objection, the Speaker pro tempore will appoint the following conferees. [After a pause.] The Chair hears no objection.</p>
+<note>The Clerk read as follows:</note>
+<p>Mr. HEPBURN, Mr. MANN, and Mr. RYAN.</p>
+	
+<head>RAILROAD, ETC., IN ALASKA.</head>
+<p>The SPEAKER <foreign>pro tempore.</foreign> The gentleman from Missouri has nineteen minutes remaining.</p>
+<p>Mr. LLOYD. Did I understand the gentleman from Michigan wanted to ask a question?</p>
+<p>Mr. HAMILTON. The gentleman made the statement, and I know he made it in very good faith, but I think under a misapprehension of the facts, that there had been no survey made by the people who were seeking to be incorporated here. As a matter of fact, as I understand it, the testimony does show that these gentlemen have made a survey, and I am not certain whether the testimony shows the amount, but I am informed that they have spent $15,000 on surveys already.</p>
+<p>Mr. LLOYD. Mr. Speaker, that is in part true. It is not really a survey, as I understand the testimony. They have made an investigation of the Copper River district and the copper region, and on that investigation they have expended perhaps $15,000. It is an exploration rather than an investigation. There is no preliminary map filed and there is no preliminary survey. There is no question about that.</p>
+<p>Mr. HAMILTON. It would not be possible for them, not being incorporated, to file a preliminary survey. The testimony, for instance, on page 61, shows, in the testimony of Mr. Hawkins, that an inquiry was made in relation to a survey, and he said: "Yes, sir; the ground was very carefully examined by Mr. Jamieson and his party, and he very carefully prepared an estimate of the construction expense." And in several places throughout the testimony this is shown.</p>
+<p>Mr. BEALL of Texas. I will call the gentleman's attention</p>
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

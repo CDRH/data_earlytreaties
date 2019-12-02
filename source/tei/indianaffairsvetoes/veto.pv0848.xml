@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0848">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">848	H.R. 3204 (Fifty-sixth Congress, Second Session &#8212; McKinley)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0848</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Fifty-sixth Congress, Second Session</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>McKinley</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>848	H.R. 3204 (Fifty-sixth Congress, Second Session &#8212; McKinley)</head>
+
+<p>To refer certain claims for Indian depredations to the Court of Claims.</p>
+
+<p>Vetoed March 1, 1901.  The veto message was laid before the House, referred to the Committee on War Claims, and printed as H.R. Doc. No. 504 (34 <title>Cong. Rec.</title> 3387).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 181.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0848.01.pdf">Indian depredation claims.  Message from the President of the United States, returning, without approval, House Bill No. 3204, entitled “An Act to Refer Certain Claims for Indian Depredations to the Court of Claims.”</ref>  (1901).  House of Representatives.  56th Congress, 2nd session.  House Document No. 504 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 56TH CONGRESS,  HOUSE OF REPRESENTATIVES. J DOCUMENT
+2d Session.	l No. 504. </fw>
+<head>INDIAN DEPREDATION CLAIMS.</head>
+<milestone untit="rule" />
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,</head>
+<head>RETURNING,
+WITHOUT APPROVAL, HOUSE BILL NO. 3204, ENTITLED "AN ACT TO REFER CERTAIN CLAIMS FOR INDIAN DEPREDATIONS TO THE COURT OF CLAIMS."</head>
+<milestone untit="rule" />
+<head>MARCH 1, 1901.&#8212;Referred to the Committee on War Claims and ordered to be printed.</head>
+<hi rend="italic"><p>To the House of Representatives:</p></hi>
+<p>I return herewith, without approval, House bill No. 3204, entitled "An act to refer certain claims for Indian depredations to the Court of Claims."</p>
+<p>General relief has been extended to citizens who have lost property by reason of Indian depredations by the act of March 3, 1891, conferring jurisdiction upon the Court of Claims to hear and determine such cases. That act provides for payment for damages growing out of depredations committed by any Indian or Indians belonging to a band, tribe, or nation in amity with the United States, excluding from consideration all claims which originated during the existence of actual hostilities between the United States and the Indian tribe.</p>
+<p>In making this discrimination the act of 1891 follows the general principle which has been asserted in all general legislation which has ever been enacted for the payment of claims for property destroyed by Indians. The first act which promised such indemnity, that of May 19, 1796, contained the same restriction, and it was reported in every subsequent general act of Congress dealing with the subject. This policy, which has been clearly manifested from the beginning, is in accord with the recognized principle that a nation is not liable for damage to the private property of its citizens caused by the act of the public enemy. This statute has been thoroughly considered by the Court of Claims aid by the Supreme Court and its interpretation fixed, and it has been declared to be in accord not only with the policy of Congress as expressed through the legislation of a century, but with the general principles of international law.</p>
+<pb n="2" />
+<fw> 2	INDIAN DEPREDATION CLAIMS. </fw>
+<p>I am informed that the records of the Court of Claims show that the claims of four of the five beneficiaries named in the present bill have been presented to that court under the general law and decided adversely, the court having held that a state of war existed between the United States and the Sioux Indians in the year 1862, when the claims arose. The remaining claim, which originated under the same circumstances and at the same time, would, of course, be subject to the same defense if presented.</p>
+<p>The bill provides that these claims shall be sent back to the Court of Claims for trial, according to the principles and rules which governed the commission appointed under the act of February 16, 1863. That act, which was a special act relating to losses occurring during the hostilities of the previous year, did not, of course, impose the requirement of amity, the claims allowed by the commission being paid out of funds belonging to the hostile Indians sequestered by the statute. The effect of this bill if it became a law would be to provide for the payment out of the Treasury of the United States of these claims, which were not presented for payment out of the Indian funds and which have been rejected by the courts under the general law.</p>
+<p>There are many hundreds of cases, aggregating a large amount claimed, which have been filed in the Court of Claims, but which are excluded from its jurisdiction for the same reason which necessitated the dismissal of the petitions filed by these claimants. There is no legal obligation on the part of the United States and no promise, express or implied, for the payment of such claims.</p>
+<p>The measure of governmental liability is fulfilled by the passage of the act of March 3, 1891, and the prompt payment of the judgments rendered thereunder. To single out for payment a few claims of this large class, to the exclusion of all others, would, in my judgment, be unjust; and such action would also with reason be cited as a precedent for extending governmental aid in all similar cases.</p>
+<p>For the reasons given I am constrained to withhold my approval from the bill.</p>
+<closer><signed>WILLIAM MCKINLEY. </signed>
+<dateline>EXECUTIVE MANSION, March 1, 1901.</dateline></closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0848.02.pdf"><title>Congressional Record</title> 34, 3387</ref> (1901).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1901.	CONGRESSIONAL RECORD-HOUSE.	3387 </fw>
+<p>S. 6054. An act authorizing the Texas and Pacific Railway Company to construct a bridge across Red River, Louisiana.</p>
+<head>CLAIMS FOR INDIAN DEPREDATIONS.</head>
+<p>The SPEAKER also laid before the House the following veto message of the President of the United States; which was read:</p>
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith, without approval, House bill No. 3201, entitled "An act to refer certain claims for Indian depredations to the Court of Claims."</p>
+<p>General relief has been extended to citizens who have lost property by reason of Indian depredations by the act of March 3, 1891, conferring jurisdiction upon the Court of Claims to hear and determine such cases. That act provides for payment for damages growing out of depredations committed by any Indian or Indians belonging to a band, tribe, or nation in amity with the United States, excluding from consideration all claims which originated during the existence of actual hostilities between the United States and the Indian tribe.</p>
+<p>In making this discrimination the act of 1891 follows the general principle which has been asserted in all general legislation which has ever been en-acted for the payment of claims for property destroyed by Indians. The first act which promised such indemnity, that of May 19,1796, contained the same restriction, and it was reported in every subsequent general act of Congress dealing with the subject. This policy, which has been clearly manifested from the beginning, is in accord with the recognized principle that a nation is not liable for damage to the private property of its citizens caused by the act of the public enemy. This statute has been thoroughly considered by the Court of Claims and by the Supreme Court and its interpretation fixed, and it has been declared to be in accord not only with the policy of Congress as expressed through the legislation of a century, but with the general principles of international law.</p>
+<p>I am informed that the records of the Court of Claims show that the claims of four of the five beneficiaries named in the present bill have been presented to that court under the general law and decided adversely, the court having held that a state of war existed between the United States and the Sioux Indians in the year 1862, when the claims arose. The remaining claim, which originated under the same circumstances and at the same time, would, of course, be subject to the same defense if presented.</p>
+<p>The bill provides that these claims shall be sent back to the Court of Claims for trial, according to the principles and rules which governed the commission appointed under the act of of February 16, 1863. That act, which was a special act relating to losses occurring during the hostilities of the previous year, did not, of course, impose the requirement of amity, the claims allowed by the commission being paid out of funds belonging to the hostile Indians sequestered by the statute. The effect of this bill if it became a law would be to provide for the payment out of the Treasury of the United States of these claims, which were not presented for payment out of the Indian funds and which have been rejected by the courts under the general law.</p>
+<p>There are many hundreds of cases, aggregating a large amount claimed, which have been filed in the Court of Claims, but which are excluded from its jurisdiction for the same reason which necessitated the dismissal of the petitions filed by these claimants. There is no legal obligation on the part of the United States and no promise, express or implied, for the payment of such claims.</p>
+<p>The measure of governmental liability is fulfilled by the passage of the act of March 3, 1891, and the prompt payment of the judgments rendered there-under. To single out for payment a few claims of this large class, to the exclusion of all others, would, in my judgment, be unjust; and such action would also with reason be cited as a precedent for extending governmental aid in all similar cases.</p>
+<p>For the reasons given I am constrained to withhold my approval from the bill.</p>
+<closer><signed>WILLIAM McKINLEY.</signed>
+<dateline>EXECUTIVE MANSION, March 1, 1901.</dateline></closer>
+</quote>
+<p>Mr. MAHON. I move that the message just read be referred, with the accompanying bill, to the Committee on War Claims, and be ordered to be printed.</p>
+<p>The motion was agreed to.</p>
+<head>APPOINTMENT AND PAYMENT OF HOUSE EMPLOYEES.</head>
+<p>The SPEAKER announced the appointment of Mr. HEMENWAY, Mr. WARNER, Mr. LONG, Mr. NEWLANDS, and Mr. MADDOX as the committee provided for by House resolution No. 439 to frame and report to the next House a bill to regulate the appointment of and payments to the employees of the House of Representatives.</p>
+<head>WITHDRAWAL OF PAPERS.</head>
+<p>Mr. ZIEGLER, by unanimous consent, obtained leave to with-draw from the files of the House papers in the cases of Charnton C. Mullen and George W. Hope (Fifty-sixth Congress), no adverse report having been made.</p>
+<head>LEAVE OF ABSENCE.</head>
+<p>Mr. METCALF, by unanimous consent, obtained leave of absence for this day on account of sickness.</p>
+<head>ORDER OF BUSINESS FOR TO-MORROW.</head>
+<p>Mr. PAYNE, I ask unanimous consent that the House now take a recess until 9 o'clock to-morrow morning, and that from 9 till 11 o'clock to-morrow it shall be in order only to ask unanimous consent or to move to suspend the rules.</p>
+<p>The SPEAKER. The gentleman from New York asks unanimous consent that the House now take a recess until 9 o'clock to-morrow morning, and that the two hours, from 9 till 11 o'clock, be devoted entirely to matters brought up by unanimous consent or under suspension of the rules. Is there objection?</p>
+<p>Mr. HENRY of Mississippi. I want to ask whether that will give the War Claims Committee an opportunity to bring up the resolution sending a number of claims to the Court of Claims?</p>
+<p>The SPEAKER. That will depend upon the class of business for which gentlemen are recognized. [Laughter.] The Chair hears no objection to the proposed order; and it is adopted.
+The House accordingly (at 6-o'clock and 10 minutes p. m.) took a recess until 9 o'clock to-morrow morning.</p>
+<head>EXECUTIVE COMMUNICATIONS.</head>
+<p>Under clause 2 of Rule XXIV, the following executive communications were taken from the Speaker's table and referred as follows:</p>
+<p>A letter from the assistant clerk of the Court of Claims, transmitting a copy of the findings of fact in the case of John Beal against the United States—to the Committee on War Claims, and ordered to be printed.</p>
+<p>A letter from the Secretary of War, transmitting a final report of inspection of buildings in this city occupied by the War Department&#8212;to the Committee on Public Buildings and Grounds, and ordered to be printed.</p>
+<p>A letter from the Secretary of War, transmitting the report of a board of officers recommending the purchase of land for bar-racks and officers' quarters at Fort Schuyler&#8212;to the Committee on Appropriations, and ordered to be printed.</p>
+<head>REPORTS OF COMMITTEES ON PUBLIC BILLS AND
+RESOLUTIONS.</head>
+<p>Under clause 2 of Rule XIII, bills and resolutions of the following titles were severally reported from committees, delivered to the Clerk, and referred to the several Calendars therein named, as follows:</p>
+<p>Mr. DAYTON, from the Committee on Naval Affairs, to which was referred the bill of the House (H. R. 14309) for the reward of enlisted men of the Navy or Marine Corps, reported the same without amendment, accompanied by a report (No. 2980); which said bill and report were referred to the House Calendar.</p>
+<p>Mr. McCLEARY, from the Committee on the Library, to which was referred the joint resolution of the' House (H. J. Res. 313) for the erection of a monument to the memory of Dorothea Lynde Dix, reported the same without amendment, accompanied by a report (No, 2985) ; which said bill and report were referred to the Committee of the Whole House on the state of the Union.</p>
+<head>REPORTS OF COMMITTEES ON PRIVATE BILLS AND
+RESOLUTIONS.</head>
+<p>Under clause 2 of Rule XIII, private bills and resolutions of the following titles were severally reported from committees, delivered to the Clerk, and referred to the Committee of the Whole House, as follows:</p>
+<p>Mr. PARKER of New Jersey, from the Committee on Military Affairs, to which was referred the bill of the House (H. R. 13910) to remove the record of dishonorable discharges from the military records of John Shamburger. Louis Smith, and Henry Metzger, reported the same without amendment, accompanied by a report (No. 2982) ; which said bill and report were referred to the Private Calendar.</p>
+<p>Mr. GRAFF, from the Committee on Claims, to which was referred the bill of the Senate (S. 5133) for the relief of William D, Rutan, reported the same without amendment, accompanied by a report (No. 2983) ; which said bill and report were referred to the Private Calendar.</p>
+<head>ADVERSE REPORTS.</head>
+<p>Under clause 2 of Rule XIII adverse reports were delivered to the Clerk, and laid on the table, as follows:</p>
+<p>Mr. PARKER of New Jersey, from the Committee on Military Affairs, to which was referred the bill of the House (H. R. 3598) to enable the President to restore Second Lieut. Henry Ossian Flipper to duty, rank, and status in United States Army, reported the same adversely, accompanied by a report (No. 2981); which said bill and report were ordered to lie on the table.</p>
+<p>Mr. PEARRE, from the Committee on the District of Columbia, to which was recommitted the bill of the House (H. R. 13660) relating to the Washington Gaslight Company, and for other purposes, reported the same adversely, accompanied by a report (No. 2984) ; which said bill and report were ordered to lie on the table.
+PUBLIC BILLS, RESOLUTIONS, AND MEMORIALS</p>
+<head>INTRODUCED.</head>
+<p>Under clause 3 of Rule XXII, bills, resolutions, and memorials of the following titles were introduced and severally referred as follows:</p>
+<p>By Mr. COOPER of Texas: A bill (H. R. 14318) authorizing the appointment of a clerk for the district courts of the eastern district of Texas at Sherman and Beaumont, Tex., and for other purposes&#8212;to the Committee on the Judiciary.</p>
+<p>By Mr. RIDGELY: A bill (H. R. 14319) to provide means of determining and expressing the total quantities of all kinds of property in the United States in decimal terms independent of value&#8212;to the Committee on Coinage, Weights, and Measures.</p>
+<p>By Mr. GILLETT of Massachusetts: A bill (H. R. 14324) to prevent superannuation and favoritism in the classified civil service&#8212;to the Committee on Reform in the Civil Service.</p>
+<p>By Mr. GROUT: A concurrent resolution (H. C. lies. 91) for</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

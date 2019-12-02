@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1864">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1864	H.R. 981 (Eightieth Congress, First Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1864</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eightieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1864	H.R. 981 (Eightieth Congress, First Session &#8212; Truman)</head>
+
+<p>To amend section 2 of the act of January 29, 1942 (56 <title>Stat.</title> 211, relating to the refund of taxes illegally paid by Indian citizens.</p>
+
+<p>Pocket veto occurred in the 1st session of the 80th Congress during a recess from July 27, 1947 until November 17, 1947.  The bill was presented to the President on July 24, 1947 (93 <title>Cong. Rec.</title> 10098; <hi rend="italics">see also</hi> 93 <title>Cong. Rec.</title> 10586).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 380.</bibl>
+</div1>
+
+
+<div1 type="source_citation">
+<bibl><ref target="PV1864.03.pdf">An act to set aside certain lands in Oklahoma for the Cheyenne-Arapaho Tribes of Indians; and to carry out certain obligations to certain enrolled Indians under tribal agreement,</ref> 56 <title>Stat.</title> 21 (1942).</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1864.01.pdf"><title>Congressional Record</title> 93, 10098</ref> (1947).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 10098	CONGRESSIONAL RECORD-HOUSE	JULY 24 </fw>
+<p>ceiling prices. I say that was done for the benefit of the speculators and that signalled the approach of wild skyrocketing prices and brought about the condition that exists today.</p>
+<p>Mr. KENNEDY. I certainly agree with the gentleman.</p>
+<head>SENATE BILLS AND JOINT RESOLUTION
+REFERRED</head>
+<p>Bills and a joint resolution of the Senate of the following titles were taken from the Speaker's table and, under the rule, referred as follows:</p>
+<p>S. 192. An act for the relief of Juan Llona, to the Committee on the Judiciary.</p>
+<p>S.229. An act to authorize the Secretary of the Navy to establish a postgraduate school at Monterey, Caiif.; to the Committee on Armed Services.</p>
+<p>S. 257. An act for the relief of Yoneo Sakai; to the Committee on the Judiciary.</p>
+<p>S.521. An act to permit the naturalization of Sang Hun Shim; to the Committee on the Judiciary.</p>
+<p>S.535. An act for the relief of Adelbert E. Tuller; to the Committee on the Judiciary.</p>
+<p>S. 795. An act for the relief of G. R. Below; to the Committee on the Judiciary.</p>
+<p>S. 939. An act for the relief of Charles Howard Richards; to the Committee on the Judiciary.</p>
+<p>S. 970. An act for the relief of Mr. and Mrs. Harold T. Prosser; to the Committee on the Judiciary.</p>
+<p>S.999. An act to amend the Veterans' Preference Act of 1944 with respect to preference accorded in Federal employment to disabled veterans, and for other purposes; to the Committee on Post Office and Civil Service.</p>
+<p>S 1006. An act to amend section 27 of the Mineral Leasing Act of February 25, 1920, as amended, so as to increase the acreage of sodium leases which may be issued in any State to a person, association, or corporation; to the Committee on Public Lands.</p>
+<p>S. 1014. An act to provide for the disposition of internal revenue collections on articles produced in the Virgin Islands; to the Committee on Ways and Means.</p>
+<p>S.1026. An act to amend section 101 (b) of the Department of Agriculture Organic Act of 1944; to the Committee on Agriculture.</p>
+<head>S. 1154. An act to amend the Veterans' Emergency Housing Act of 1946; to the Committee on Banking and Currency.</head>
+<head>S. 1181. An act for the relief of Robert F. Parks; to the Committee on the Judiciary.</head>
+<p>S. 1188. An act to authorize the Civil Service Commission, in the promulgation of reduction in force regulations, to give consideration to employees who have incurred injuries resulting in occupational handicaps; to the Committee on Post Office and Civil Service.</p>
+<p>S.1215. An act to authorize conversions of certain naval vessels; to the Committee on Armed Services.</p>
+<p>S.1236. An act to increase the minimum ailowance payable for rehabilitation in service-connected cases; to the Committee on Veterans' Affairs.</p>
+<p>S. 1252. An act making certain changes in the organization of the Navy Department, and for other purposes; to the Committee on Armed Services.</p>
+<p>S. 1418. An act to amend section 203 of the Federal Employees Pay Act of 1945; to the Committee on Post Office and Civil Service.</p>
+<p>S. 1426. An act to authorize certain administrative expenses in the Post Office Department, and for other purposes; to the Committee on Post Office and Civil Service.</p>
+<p>S. 1463. An act to amend section 12 of the Immigration Act of 1917; to the Committee on the Judiciary.</p>
+<p>S. 1505. An act authorizing the Secretary of Agriculture to convey certain lands in
+Boise, Idaho, to the Boise Chamber of Commerce; to the Committee on Agriculture. </p>
+<p>S. 1507. An act authorizing the sale of undisposed of lots in Michel addition to the town of Poison, Mont.; to the Committee on Public Lands.</p>
+<p>S. 1562. An act to amend section 102 (b) of the Federal Employees Pay Act of 1945 to exclude certain experts and consultants from the coverage of the act; to the Committee on Post Office and Civil Service.</p>
+<p>S. 1574. An act to authorize any agency of the United States Government to furnish or to procure and furnish materials, supplies, and equipment to public international organizations; to the Committee on Foreign Affairs.</p>
+<p>S. 1581. An act to provide additional time to the city of Newark, N. J., for paying certain installments on the purchase price of the Port Newark Army Base, and for other purposes; to the Committee on Armed Services.</p>
+<p>S. 1582. An act relating to the sale of Paxon Field, Duval County, Fla.; to the Committee on Expenditures in the Executive Departments.</p>
+<p>S. 1590. An act to amend the District of Columbia rent control law so as to provide that schools and universities may recover possession of housing accommodations in certain cases; to the Committee on the District of Columbia.</p>
+<p>S. 1633. An act to authorize the attendance of the Marine Band at the National Convention of the American Legion to be held in New York, N. Y., August 28 to 31, 1947, and the National Convention of the Veterans of Foreign Wars of the United States to be held in Cleveland, Ohio, September 4 to 9, 1947; to the Committee on Armed Services.</p>
+<p>S.1639. An act authorizing the repair and rehabilitation of irrigation works damaged by flood and the prevention of flood damage in the Fort Sumner Irrigation District, and for other purposes; to the Committee on Public Lands.</p>
+<p>S.1641. An act to establish the Women's Army Corps in the Regular Army, to authorize the enlistment and appointment 'of women in the Regular Navy and Marine Corps and the Naval and Marine Corps Reserve, and for other purposes; to the Committee on Armed Services.</p>
+<p>S. 1661. An act to provide additional inducements to physicians, surgeons, and dentists to make a career of the United States military, naval, and public health services, and for other purposes; to the Committee on Armed Services.</p>
+<p>S. J. Res. 46. Joint resolution authorizing appropriations for the construction, operation, and maintenance of the western land boundary fence project and the Rio Grande border fence project, and for other purposes; to the Committee on Foreign Affairs.</p>
+<head>ENROLLED BILLS SIGNED</head>
+<p>Mr. LECOMPTE, from the Committee on House Administration, reported that that committee had examined and found truly enrolled bills of the House of the following titles, which were thereupon signed by the Speaker:</p>
+<p>H. R. 981. An act to amend section 2 of the act of January 29, 1942 (56 <title>Stat.</title> 21) , relating to the refund of taxes illegally paid by Indian citizens;</p>
+<p>H. R. 2938. An act to amend section 1 of the act of August 24, 1912 (37 <title>Stat.</title> 497, 5 U. S. C., sec. 488), fixing the price of copies of records furnished by the Department of the Interior; and</p>
+<p>H. R. 3191. An act to amend Public Law 301, Seventy-ninth Congress, approved February 18, 1946, so as to extend the benefits of the Missing Persons Act, approved March 7, 1942 (56 <title>Stat.</title> 143), as amended, to certain members of the organized military forces of the Government of the Commonwealth of the Philippines.</p>
+<p>H. R. 3243. An act for the relief of Roman Toporow;</p>
+<p>The SPEAKER announced his signature to enrolled bills of the Senate of the following titles:</p>
+<p>S.358. An act for the relief of Julian M. Thomas;</p>
+<p>S.364. An act to expedite the disposition of Government surplus airports, airport facilities, and equipment, and to assure their disposition in such manner as will best encourage and foster the development of civilian aviation and preserve for national defense purposes a strong, efficient, and properly maintained Nation-wide system of public airports, and for other purposes;</p>
+<p>S.483. An act to relocate the boundaries and reduce the area of the Gila Federal reclamation project, and for other purposes;</p>
+<p>S. 526. An act to promote the progress of science; to advance national health, prosperity, and welfare; to secure the national defense; and for other purposes;</p>
+<p>S.682. An act to regulate the interstate transportation of black bass and other game fish, and for other purposes;</p>
+<p>S.706. An act for the relief of William D. McCormick;</p>
+<p>S.753. An act to authorize the Secretary of the Interior to defer the collection of certain irrigation construction charges against lands under the Flathead Indian irrigation project;</p>
+<p>S. 1262. An act to provide a central authority for standardizing geographic names for the purpose of eliminating duplication in standardizing such names among the Federal departments, and for other purposes; and</p>
+<p>S. 1368. An act to amend section 2455 of the Revised Statutes, as amended, to increase the size of isolated or disconnected tracts or parcels of the public domain which may be sold, and for other purposes.</p>
+<head>BILLS PRESENTED TO THE PRESIDENT</head>
+<p>Mr. LECOMPTE, from the Committee on House Administration, reported that that committee did on this day present to the President, for his approval, bills of the House of the following titles:</p>
+<p>H. R. 981. An act to amend section 2 of the act of January 29, 1942 (56 <title>Stat.</title> 21) , relating to the refund of taxes illegally paid by Indian citizens;</p>
+<p>H. R. 2938. An act to amend section 1 of the act of August 24, 1912 (37 <title>Stat.</title> 497, 5 U. S. C., sec. 488) , fixing the price of copies of records furnished by the Department of the Interior;</p>
+<p>H. R. 3191. An act to amend Public Law 301, Seventy-ninth Congress, approved February 18, 1946, so as to extend the benefits of the Missing Persons Act, approved March 7, 1942 (56 <title>Stat.</title> 143), as amended, to certain members of the organized military forces of the Government of the Commonwealth of the Philippines;</p>
+<p>H. R. 3587. An act to provide for the establishment of a temporary Congressional Aviation Policy Board; and</p>
+<p>H. R. 4106. An act making appropriations for the government of the District of Columbia and other activities chargeable in whole or in part against the revenues of such District for the fiscal year ending June 30, 1948, and for other purposes.</p>
+<head>ADJOURNMENT</head>
+<p>Mr. KEATING. Mr. Speaker, I move that the House do now adjourn.</p>
+<p>The motion was agreed to; accordingly (at 5 o'clock and 58 minutes p. m.) , under its previous order, the House adjourned until tomorrow, Friday, July 25, 1947, at 10 o'clock a. m.</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1864.02.pdf"><title>Congressional Record</title> 93, 10586</ref> (1947).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 10586	CONGRESSIONAL RECORD-HOUSE	NOVEMBER 17 </fw>
+<p>that it would grant a special benefit to Major Miles which is denied to other Army officers similarly situated.</p>
+<p>In the light of the foregoing facts I feel obliged to withhold my approval from the bill.</p>
+<closer><signed>HARRY S. TRUMAN.</signed> <dateline>THE WHITE HOUSE, August 5, 1947.</dateline></closer>
+<head>TRANSPORTATION BY MERCHANT VESSELS</head>
+<p>H. R. 673. I am withholding my approval from the bill (H. R. 673) to repeal certain provisions authorizing the establishing of priorities in transportation by merchant vessels.</p>
+<p>The purpose of the bill is to repeal the act of July 14, 1941, entitled "An act to provide for priorities in transportation by merchant vessels in the interests of national defense, and for other purposes," as amended and extended (55 <title>Stat.</title> 591; 56 <title>Stat.</title> 271).</p>
+<p>The act in question, which was known as the Ship Warrants Act, authorized the War Shipping Administration to establish a system of ship warrants which became effective upon approval by President Roosevelt on January 4, 1943. On June 6, 1946, the ship warrant rules and regulations were revoked and on July 25, 1947, the act was repealed by Public Law No. 239.
+Accordingly, this legislation is not necessary.</p>
+<closer><signed>HARRY S. TRUMAN.</signed> THE WHITE HOUSE, August 6, 1947.</closer>
+<head>MARY JANE SHERMAN AND W. D. SHERMAN</head>
+<p>H. R. 704. I have withheld my approval from H. R. 704, a bill for the relief of Mrs. Mary Jane Sherman and W. D. Sherman.</p>
+<p>The purpose of this bill is to pay to Mrs. Mary Jane Sherman the sum of $6,203.20 and to W. D. Sherman the sum of $311.11 for personal injuries, medical and hospital expenses, and property damage sustained as the result of a collision involving an Army truck which occurred on May 18, 1943, at the intersection of Waukegan Road and Shermer Avenue, Northbrook, Ill.</p>
+<p>It appears that on May 18, 1943, at about 11:50 a. m., a Packard sedan owned by W. D. Sherman, and operated by his wife, Mrs. Mary Jane Sherman, had stopped on Shermer Road facing east at its intersection with Waukegan Road in Northbrook, waiting for an automatic traffic light to change from red to green. At the same time an Army 2 1/2-ton truck, operated by an enlisted man on official business, was proceeding south on Waukegan Road at an estimated speed of about 15 miles per hour approaching said intersection. A tractor with a semi-trailer attached, owned by the Kool-Rite Sales Co., of Chicago, Ill., and operated by its employee, Frank Zvokel, Jr., was also proceeding south on Waukegan Road following the Army trucks The Army driver gave a signal indicating his intention to make a right turn onto Shermer Road and had started to make such turn when the driver of the tractor and semitrailer of the Kool-Rite Sales Co. attempted to pass the Army truck on the right and the tractor struck the
+Army truck on its right rear fender, running board, and front fender, forcing the Army vehicle to the left where it stopped in the center of the intersection. The civilian tractor and semitrailer continued across Shermer Road and collided with the front part of the Sherman automobile. As a result of the collision Mr. Sherman's automobile was damaged in the amount of $311.11 and Mrs. She-man was personally injured. Mr. Sherman was not riding in his automobile at the time of the accident.</p>
+<p>While Mrs. Sherman received bruises and shock in the accident, it does not appear that she sustained any fracture. It appears that Mrs. Sherman was suffering from a rather severe arterial hypertension at the time of the accident, which finally culminated in an apoplectic stroke in August 1944, and that she has been treated by a number of physicians since the time of the accident and has incurred a considerable amount of medical and hospital expenses. It further appears that at the time of her ad-mission to a hospital in August 1944 she had a blood pressure of 220/125, and that the diagnosis upon her admission to the hospital was "malignant hypertension with encephalopathy." Some of her physicians have attributed her condition subsequent to the accident to the injuries sustained by her in the accident, while others disagree.</p>
+<p>After a review of the evidence relating to the injury of Mrs. Sherman and her subsequent condition, the Surgeon General of the Army in a statement, dated July 28, 1947, said:
+Following a careful review of the case of Mrs. Mary Jane Sherman by this office, no direct relationship can be found between injuries sustained in an accident May 18, 1943, and a cerebral vascular accident that she suffered on or about August 5, 1944.</p>
+<p>It appears that the insurance company which carried the liability insurance on the Kool-Rite Sales Co.'s tractor and semitrailer involved in this accident paid to Mrs. Sherman the sum of $3,500 upon her execution of a covenant not to sue said insured for the personal injuries which she sustained as a result of the accident.</p>
+<p>I am convinced that this accident was primarily due to the negligence of the driver of the vehicle of the Kool-Rite Sales Co. in that he was operating said vehicle at a speed which was greater than was reasonable and prudent under the conditions then existing, was not maintaining a proper lookout, and was attempting to pass the Army truck on the right while the latter vehicle was entering an intersection, without assuring himself that such a movement could be made in safety. I am of the further view that there is no equitable basis on which Mrs. Sherman, after having been paid a substantial sum by the insurer of the Kool-Rite Sales Co. for the personal injuries sustained by her in this accident&#8212;the insurer thereby tacitly recognizing the liability of its insured for the accident and the resulting injury of Mrs. Sherman and the damage caused to Mr. Sherman's automobile&#8212;should now be paid an additional sum by the United States. Moreover, it appears that the sum of $3,500 paid to Mrs. Sherman by the insurer of the Kool-Rite Sales Co.constitutes an adequate settlement for all of the injuries sustained by her which may reasonably be attributed to this accident.</p>
+<p>In the light of the foregoing facts there would not appear to be any justifiable basis for the granting of awards to these claimants. I, therefore, feel obligated to withhold my approval from the bill.</p>
+<closer><signed>HARRY S. TRUMAN.</signed>
+<dateline>THE WHITE HOUSE, August 1, 1947.</dateline></closer>
+<head>REFUND OF TAXES</head>
+<p>H. R. 981. I have withheld my approval of H. R. 981, a bill "to amend section 2 of the act of January 29, 1942 (56 <title>Stat.</title> 21) , relating to the refund of taxes illegally paid by Indian citizens."</p>
+<p>H. R. 981 would amend section 2 of the act of January 29, 1942 (56 <title>Stat.</title> 21), to direct the refund of certain income taxes to Indians falling within designated classes who filed claims for refunds under that act but whose claims were rejected. All claims for refund properly filed under the act of January 29, 1942, relating to taxes illegally assessed upon the income of the Indians concerned, have been paid. The rejected claims which H. R. 981 would allow, related to legally collected taxes paid on income received during the taxable years from 1913 to April 26, 1931, the termination date for all restrictions on alien-ability and taxability of lands belonging to the affected Indians.</p>
+<p>It has been clearly established by the courts that the Indians in question were fully taxable upon the income involved. Accordingly, the effect of H. R. 981 is to set up retroactively a period of exemption prior to 1931 when it is clear that the Indians concerned were taxable during that period. There appears to be no satisfactory reason why a particular group on whom taxes were legally assessed should be classified with other groups from whom taxes were collected illegally.</p>
+<p>Another objectionable feature of the bill is the provision for the payment of interest at 4 percent per annum for the years before and since 1931 when these persons had no claim, legal or equitable, to refund of the taxes paid. The amount of interest payable under the bill would almost equal the taxes. It would be unsound policy and an inadvisable precedent to provide for the payment of interest on these refunds of taxes which were legally and properly collected.
+For these reasons, I have withheld my approval of the bill.</p>
+<signed>HARRY S. TRUMAN.</signed> <dateline>THE WHITE HOUSE, July 30, 1947.</dateline>
+<head>COINAGE OF 50-CENT PIECES</head>
+<p>H. R. 1180. I am withholding my approval of H. R. 1180, to authorize the coinage of 50-cent pieces in commemoration of the one hundredth anniversary of the admission of Wisconsin into the Union as a State.</p>
+<p>The proposed legislation would authorize the coinage of not to exceed 500,000 silver 50-cent pieces in commemoration of the one hundredth anniversary of the admission of Wisconsin into the Union</p>.
+
+
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1384">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1384	S. 2263 (Seventy-fifth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1384</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fifth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1384	S. 2263 (Seventy-fifth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>To authorize per capita payments to the Seminole Indians in Oklahoma from funds standing to their credit in the Treasury.</p>
+
+<p>Pocket veto occurred after the 1st session of the 75th Congress had adjourned sine die on August 21, 1937.  The bill was presented to the President on August 21, 1937 (81 <title>Cong. Rec.</title> 9609; <hi rend="italics">see also</hi> 81 <title>Cong. Rec.</title> 9615).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 292.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1384.01.pdf"><title>Congressional Record</title> 81, 9609</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1937	CONGRESSIONAL. RECORD SENATE.	9609 </fw>
+<head>INDIAN LANDS IN ARIZONA</head>
+<p>The PRESIDENT pro tempore laid before the Senate the message from the House of Representatives returning to the Senate, in compliance with its request, the bill (S. 2188) to amend section 3 of the act of June 18, 1934 (48 <title>Stat.</title> 984-988), relating to Indian lands in Arizona.</p>
+<p>Mr. THOMAS of Oklahoma. I move that the Senate reconsider the vote by which the amendment of the House was disagreed to and conferees were appointed.</p>
+<p>The motion was agreed to.</p>
+<p>Mr. THOMAS of Oklahoma. I now ask the Chair to lay before the Senate the amendment of the House to the bill.</p>
+<p>The PRESIDENT pro tempore laid before the Senate the amendment of the House, which was, on page 2, line 5, to strike out all after "reservation", down to and including "358) "in line 9.</p>
+<p>Mr. THOMAS of Oklahoma. I now move that the Senate concur in the amendment of the House.</p>
+<p>The motion was agreed to.</p>
+<head>ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED</head>
+<p>Mrs. Caraway, from the Committee on Enrolled Bills, reported that today, August 21, 1937, that committee presented to the President of the United States. the following enrolled bills and joint resolutions:</p>
+<p>S. 537. An act to provide suitable accommodations for the district court of the United States at Glasgow, Mont.;</p>
+<p>S. 1918. An act to authorize the award of a decoration for distinguished service to Acors Rathbun Thompson;</p>
+<p>S. 2263. An act providing for per-capita payments to the Seminole Indians in Oklahoma from funds standing to their credit in the Treasury;</p>
+<p>S. 2831. An act to approve a compact or agreement between the State of Ohio and the Commonwealth of Pennsylvania relating to Pymatuning Lake;</p>
+<p>S. 2862. An act to provide funds for cooperation with the school board at Worley, Idaho, in the construction of a public-school building to be available to Indian children in the town of Worley and county of Kootenai, Idaho;</p>
+<p>S.2901. An act to amend subsection (e) of section 9 of the Trading with the Enemy Act, as amended;</p>
+<p>S. J. Res. 162. A joint resolution to permit the States of Maryland, Virginia, West Virginia, Pennsylvania, and the District of Columbia to enter into a compact or agreement respecting the creation of a Potomac Valley conservancy district for the prevention or abatement of harmful pollution of the waters thereof ;</p>
+<p>S. J. Res. 197. A joint resolution authorizing an appropriation for the expenses of participation by the United States in the Inter-American Radio Conference to be held in 1937 at Habana, Cuba; and</p>
+<p>S. J. Res. 199. A joint resolution to authorize an appropriation for the expenses of participation by the United States in the Eighth International Road Congress in 1938.</p>
+<head>FINAL ADJOURNMENT RESOLUTION</head>
+<p>The PRESIDENT pro tempore laid before the Senate the House Concurrent Resolution 25, which was read as follows:
+Resolved by the House of Representatives (the Senate concurring) , That the two Houses of Congress shall adjourn on Saturday, the 21st day of August 1937, and that when they adjourn on said day, they stand adjourned sine die.</p>
+<p>Mr. BARKLEY. Mr. President, I move the adoption of the concurrent resolution.</p>
+<p>The PRESIDENT pro tempore. The question is on the adoption of the concurrent resolution.</p>
+<p>The concurrent resolution was agreed to.</p>
+<head>SIGNING OF ENROLLED BILLS AND JOINT RESOLUTIONS</head>
+<p>The PRESIDENT pro tempore laid before the Senate the concurrent resolution, House Concurrent Resolution 26, which was read as follows:</p>
+<p>Resolved by the House of Representatives (the Senate concurring), That, notwithstanding the adjournment of the first session of the Seventy-fifth Congress, the President of the Senate and the Speaker of the House of Representatives be, and they arehereby, authorized to sign any enrolled bills or joint resolutions
+duly passed by the two Houses and which have been examined by the Committee on Enrolled Bills of each House and found truly enrolled.</p>
+<p>Mr. BARKLEY. Mr. President, I move the adoption of the concurrent resolution.</p>
+<p>The PRESIDENT pro tempore. The question is on the adoption of the concurrent resolution.</p>
+<p>The concurrent resolution was agreed to.</p>
+<head>GREETINGS FROM THE PRESIDENT</head>
+<p>The PRESIDENT pro tempore. The Chair lays before the Senate the following communication from the President of the United States, which will be read:</p>
+<p>The Legislative Clerk read as follows:</p>
+<opener>
+<dateline>THE WHITE HOUSE,
+Washington, August 21, 1937.</dateline>
+ <salute>MY DEAR MR. VICE PRESIDENT:</salute>
+</opener>
+<p>Before the adjournment of the Congress, will you be good enough to extend to the Members of the Senate my regards and good wishes?</p>
+<p>I hope that during the coming months all of you will have a pleasant and a happy vacation.</p>
+<closer>Very sincerely yours,
+<signed>FRANKLIN D. ROOSEVELT.</signed>
+THE VICE PRESIDENT OF THE UNITED STATES AND PRESIDENT OF THE SENATE,
+United States Senate, Washington,. D. C.</closer>
+<head>REPORT OF COMMITTEE TO NOTIFY THE PRESIDENT</head>
+<p>Mr. BARKLEY. Mr. President, on behalf of the Senator from Vermont [Mr. AUSTIN] and myself, who were appointed a committee to wait on the President and ascertain whether he had any further communications to make to the Senate, I have to report that we have discharged our duty and the President has no, further communication to send to the Senate at this session.</p>
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. BARKLEY. Mr. President, before I make. the motion which I shall presently make, I wish to thank not only the Members of the Senate but the President of the Senate and all the officials of the Senate for the very genuine and cordial cooperation which I have received from all of them in the performance of my duties during recent weeks.</p>
+<p>I wish for everyone of them the most delightful vacation. I wish to express my appreciation without regard to party, without regard to which side of the aisle Senators are on, for the splendid cooperation and courtesy which has been extended to me. I wish for all of you not only a delightful vacation, but that when we meet again you may return strengthened in mind and body, strengthened in the faith that we all feel in the fundamental institutions of the United States of America.</p>
+<p>I move, in accordance with the terms of Concurrent Resolution 25, that the Senate do now adjourn sine die.
+The motion was agreed to; and (at 6 o'clock and 55 minutes p. m.) the Senate adjourned sine die.</p>
+<head>JOINT COMMITTEE ON HAWAII</head>
+<p>Subsequent to the final adjournment of the Senate, the Vice President announced the appointment of Mr. TYDINGS, Mr. KING, Mr. CLARK, Mr. MCADOO, Mr. GIBSON, Mr. BONE, Mr. LUNDEEN, Mr. BROWN of Michigan, Mr. BURKE, Mr. GILLETTE, Mr. O'MAHONEY, and Mr. CoNNALLY as the members on the part of the Senate of the Joint Committee on Hawaii, created by Senate Concurrent Resolution No. 18, agreed to August 21, 1937.</p>
+<head>ENROLLED BILLS SIGNED</head>
+<p>The PRESIDENT pro tempore, under the authority of House Concurrent Resolution 26, signed, on August 23, 1937, the following enrolled bills and joint resolutions, which had been previously signed by the Speaker of the House of Representatives:
+S. 1226. An act to amend the act of May 3, 1935, relating to the promotion of safety on the highways of the District of Columbia;</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1384.02.pdf"><title>Congressional Record</title> 81, 9615</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1937	CONGRESSIONAL RECORD SENATE	9615 </fw>
+<p>Paris, thereby implying that other national organizations engaged in aiding and assisting veterans and their dependents are likewise entitled to share in this fund. The premise on. which this argument is based seems to me an incorrect one. The appropriation which was made to the Secretary of the Treasury to liquidate the indebtedness connected with Pershing Hall was conditioned on the vesting of the legal title to the property in the Government of the United States for the use and benefit of all American veterans of the World War. In no sense could this former appropriation be considered as being for. the benefit of any one organization of veterans. The purpose of that appropriation was entirely different from the one authorized by the pending bill.</p>
+<p>I find myself unable to agree with the present proposal to provide, out of the general fund of the Treasury, for the donation to private agencies of funds to which they have no claim and to the expenditure of which the usual governmental safeguards would not apply.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<head>CONSTRUCTION OP A PUBLIC-SCHOOL BUILDING AT WORLEY, IDAHO</head>
+<p>S.2862. Authorizes an appropriation of $30,000 for cooperating with the public-school board of district 57, Kootenai County, Idaho, for the construction and equipment of a public-school building at Worley, Idaho.</p>
+<p>There are several reasons why this legislation is objectionable.</p>
+<p>A number of similar bills have heretofore been passed by the Congress. They were approved with reluctance, because no provision was made for reimbursement to the United States of money expended in improving property the title to which was not in the United States. S. 2862 makes no provision for the reimbursement of the proposed expenditure.</p>
+<p>The need for the construction from an Indian standpoint is not apparent. Figures given in the adverse report of the Acting Secretary of the Interior dated June 17, 1937, on H. R. 6701 showed 160 white children and 9 Indian children attending the public school at Worley. The enrollment would be increased by 40 pupils if additional classroom space were provided; of this number, perhaps 10 would be Indians. </p>
+<p>The present Indian enrollment at this school is less than 6 percent of the total, and it would not be increased beyond 10 percent if the new construction were undertaken. The ratio of Indian and white benefits clearly demonstrates that the construction of any addition at the Worley. School is not a Federal responsibility, notwithstanding the fact that there are large areas of nontaxable land within the district. </p>
+<p>If the appropriation were made, and as a condition thereto repayment over a period of 30 years with interest at 3 per-cent on unrecouped balances should be required, the district would not earn an amount sufficient to meet the annual payments. Representatives of the Coeur d'Alene Indians have urged that this legislation be not enacted, inasmuch as there would be a very few Indian children receiving any benefit from this expenditure.</p>
+<p>Approval of this legislation is withheld.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<p>On August 30, 1937:</p>
+<p>SAMUEL RICHARD MANN</p>
+<p>S. 1457. I have withheld my approval of S. 1457, Seventy-fifth Congress, an act for the relief of Samuel Richard Mann, which reads as follows:</p>
+<p>That the Administrator of Veterans' Affairs be, and he is hereby, authorized and directed to cancel the charge entered against Samuel Richard Mann, C&#8212;905813, in such amount as remains unpaid at the date this act becomes effective, . which amount will represent the balance remaining due and unpaid on account of an overpayment of emergency officers' retirement award to the said Samuel Richard Mann due to an error of the Veterans' Administration.</p>
+<p>This act proposes to relieve Samuel Richard Mann of the balance of the indebtedness to the Government which, as of July 31, 1937, was $1,298.34. This indebtedness was originally in the amount of $2,215.64 and resulted from the erroneous payment of emergency officers' retirement pay concurrently with active-duty pay. Liquidation of the indebtedness is being
+LXXXI-607 .effectuated by withholding part of the monthly disability compensation benefits otherwise payable.</p>
+<p>The facts in this case are similar to those in other over-payment cases, and there is no reason evident why this particular case should receive special consideration as proposed.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer> 
+<p>On August 31, 1937:</p>
+<p>HARRY W. DUBISKE</p>
+<p>S.937 is a bill to authorize and direct the Commissioner of Internal Revenue to receive, consider, and determine, in accordance with law, but without regard to any statute of limitations, any claim filed by Harry W. Dubiske, of Chicago, Ill., for a refund of income and profits taxes claimed to have been erroneously collected for the year 1919.</p>
+<p>A suit for a recovery of the refund has been brought in the United States District Court for the Northern District of Illinois. One of the questions in controversy in that case is whether or not the taxpayer filed in due time a waiver which would have extended the running of the statute of limitations. The trial court has found "that plaintiff has not sustained the burden of proving the filing of the waiver." The litigation, however, has not as yet been concluded. Aside from any other considerations, it is premature to extend to the claimant any relief by legislative action while the matter is still pending in the courts.</p>
+<p>It should be observed that the situation here presented materially differs from that involved in another case during the last Congress in which I approved the granting of legislative relief and in which it appeared that the court found that the taxpayer handed a waiver to a subordinate in the office of the Collector of Internal Revenue, and apparently, through no fault of the taxpayer, the waiver was not there-after transmitted to the proper officials.</p>
+<p>I have, on previous occasions, expressed my accord with the enacted policy of Congress that it is sound to include in all revenue acts, statutes of limitations, by the operation of which, after a fixed period of time, it becomes impossible for the Government to collect additional taxes or for the taxpayer to obtain a refund of an overpayment of taxes. I have pointed out that such legislation selects a small class of taxpayers for special treatment by excepting them from that policy, thus discriminating against the whole body of Federal taxpayers and establishing a precedent which would open .the door to relief in all cases in which the statute operates to the prejudice of a, particular taxpayer, while leaving the door closed to the Government in those cases in which the statute operates to the disadvantage of the Government.</p>
+<p>For the foregoing reasons, I have withheld my approval of S. 937.</p>
+<head>FRANKLIN D. ROOSEVELT. SEMINOLE INDIANS IN OKLAHOMA</head>
+<p>S.2263. Authorizes a per-capita payment of $35 to the Seminole Indians in Oklahoma from their tribal funds.</p>
+<p>The Acting Secretary of the Interior, in his report to the Committees on Indian Affairs, listed the balances to the credit of the Seminole Indians and indicated that, exclusive of the Seminole school fund and interest thereon, only $81,099.54 would be available for making the payment, if authorized, and that the Seminole income during the fiscal year 1936 was only $2,525.70. The Seminole school fund was established by the agreement of December 16, 1897, approved July 1, 1898 (30 <title>Stat.</title> p. 567) . This fund was</p> <quote>set apart as a permanent school fund for the education of children of the members of said tribe, and shall be held by the United States at 5 percent interest, or invested to produce such amount of interest.</quote>
+<p>In the instant case the Acting Secretary of the Interior recommended that the remaining tribal funds, or at least a portion thereof, be set aside as a revolving loan fund for loans to needy Indians, such loans to be used for improving homes, acquiring farm machinery or livestock, or otherwise improving the economic status of the Indians.</p>
+<p>There does not appear to be any emergency demanding immediate relief. The local superintendent advises that crop
+<fw> 9616	CONGRESSIONAL RECORD HOUSE	AUGUST 21 </fw>
+conditions are good; that there is no prospect of additional tribal income; that 630 individuals have incomes from oil operations; that more than $120,000 was paid out in monthly allowances during the last 6 months of the fiscal year 1937 to Indians having funds to their credit; and that special payments to, or in behalf of, those Indians for the same period were approximately $327,900.</p>
+<p>For the reasons stated, approval of S. 2263 is withheld.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<p>On September 1, 1937:</p>
+<p>L. J. POWERS</p>
+<p>S. 886. I have found it necessary to withhold my approval of the bill S. 886, for the relief of L. J. Powers in the amount of $1,000 in settlement of his claim against the United States for the redemption of two documentary revenue stamps, one bearing serial no. 928 for $500, and one bearing serial no. 3577 for $500.</p>
+<p>Mr. Powers' claim for redemption of the stamps presented in July 1925 was rejected by the Commissioner of Internal Revenue in January 1926 on the grounds that the claimant , had not satisfactorily traced the history of such stamps from the time of their issuance, as required by statute and regulations, and that the claim had not been filed within the prescribed statutory period of 4 years after purchase.</p>
+<p>The claimant alleged that he received two documentary revenue stamps, one for $500, serial no. 928, and the second, for $500, serial no. 3577, from the Couch Cotton Mills, of Atlanta, Ga., in payment for compensation due him as an officer of that company. It was further alleged that these stamps had been purchased from the collector of internal revenue at Atlanta, Ga., in October 1921. The records of the Treasury Department, however, indicate that the collector of internal revenue at Atlanta, Ga., did not sell any $500 documentary revenue stamps during a 2-year period beginning 1920 and ending in 1922. These records further show that the documentary revenue stamps covered by the claim for redemption bore serial nos. 337 and 928, although S. 886 would grant relief on account of stamps nos. 928 and 3577, as to which latter stamp no claim for redemption was ever filed by Mr. Powers.</p>
+<p>After the Commissioner of Internal Revenue rejected the claim, Mr. Powers failed to pursue the prescribed statutory remedy for securing relief, namely, the filing of a suit within 2 years from the rejection of such claim. Consequently, in this regard, S. 886 does not differ from other bills to except certain taxpayers from the operation of the statutes of limitations, a number of which bills I have disapproved. On those occasions I expressed my accord with the enacted policy of Congress that it is sound to include in all revenue acts statutes of limitations, by the operation of which, after a fixed period of time, becomes impossible for the Government to collect additional taxes or for the taxpayer to obtain 'a refund of an overpayment of taxes. I pointed out in each instance that such legislation selects an individual taxpayer, or a small class of taxpayers, for special treatment by excepting them from that policy, thus discriminating against the whole body of Federal taxpayers and establishing a precedent which would open the door to relief in all cases in which the statute operates to the prejudice of a particular taxpayer, while leaving the door closed to the Government in those cases in which the statute operates to the disadvantage of the Government.</p>
+<p>I must again express my belief that the field of special legislation should not be opened to relieve special classes of taxpayers from the consequences of their failure to protect their claims for the refund of taxes within the period fixed by law.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+
+<head>CONFIRMATIONS</head>
+<head type="sub">Executive nominations confirmed by the Senate August 21
+(legislative day of Aug. 20), 1937</head>
+<head type="sub">UNITED STATES COURT OF APPEALS, DISTRICT OF COLUMBIA </head>
+<p>Justin Miller to be an associate justice of the United States Court of Appeals for the District of Columbia.</p>
+
+<head>FEDERAL COMMUNICATIONS COMMISSION</head>
+<p>T. A. M. Craven to be a member of the Federal Communications Commission.</p>
+<head>CIVIL SERVICE COMMISSION</head>
+<p>Samuel H. Ordway, Jr., to be a Civil Service Commissioner.</p>
+<head>SOCIAL SECURITY BOARD</head>
+<p>Clarence N. Grey to be principal administrative officer in the Social Security Board.</p>
+<head>POSTMASTERS</head>
+<p>CALIFORNIA </p>
+<p>Blanche A. Ross, Winterhaven.</p>
+<p>COLORADO </p>
+<p>Clarence Patterson, Steamboat Springs.</p>
+<p>FLORIDA</p>
+<p>Minnie Blanch Payne, Longwood.</p> 
+<p>IOWA</p>
+<p>John H. Petersen, Sabula.</p>
+<p>LOUISIANA</p>
+<p>Emily D. Straughan, Colfax.</p> 
+<p>John E. Harris, 0lla.</p>
+<p>MASSACHUSETTS</p>
+<p>Edward H. Leary, Middleton. </p>
+<p>Anna R. Ellis, Norwood.</p>
+<p>MICHIGAN</p>
+<p>Alden E. Derrie, Champion.</p>
+<p>MISSISSIPPI</p> 
+<p>Nettie Dorsett, Lucedale.</p>
+<p>Thomas E. Goodman, New Albany.</p>
+<p>MISSOURI</p>
+<p>William T. Scott, Centerville. </p><p>William O. Vinson, Lilbourn.</p><p> Basil V. Jones, Pleasant Hill.</p>
+<p>NEW JERSEY</p>
+<p>William H. Hitchcock, Keyport.</p>
+<p> NEW YORK</p>
+<p>Gus Di Savino, Chadwicks. </p><p>Roza A. Youker, Dolgeville.</p> <p>Marshall A. Crawford, Keene Valley.</p>
+<p>NORTH CAROLINA</p> <p>Henry Folger, Mount Airy.</p>
+<p>OHIO</p>
+<p>Walter W. Farra, Lewisburg.</p>
+<p>TENNESSEE</p>
+<p>William F. English, Pulaski,</p>
+<p>TEXAS</p>
+<p>John K. Ford, Bogata. </p><p>Frank J. Williams, Lipan.</p> 
+<p>WASHINGTON</p>
+<p>Gustaf Norman Dalstead, Anacortes.</p>
+
+<head>HOUSE OF REPRESENTATIVES</head>
+<head type="sub">SATURDAY, AUGUST 21, 1937
+(Legislative day of Friday, Aug. 20, 1937)</head>
+<head type="sub">AFTER RECESS</head>
+<p>The recess having expired, the House was called to order by the Speaker at 10 a. m.</p>
+<head type="sub">CENSUS OF PARTIAL EMPLOYMENT, UNEMPLOYMENT, AND
+OCCUPATIONS</head>
+<p>Mrs. NORTON. Mr. Speaker, I move to suspend the rules and pass the bill (S. 2705) to provide for the taking of a census of partial employment, unemployment, and occupations, and for other purposes.</p>
+<p>The SPEAKER. The gentlewoman from New Jersey moves. to suspend the rules and pass the bill S. 2705. The Clerk will report the Senate bill as amended.</p>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1957">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1957	S. 815 (Eighty-first Congress, Second Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1957</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eighty-first Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1957	S. 815 (Eighty-first Congress, Second Session &#8212; Truman)</head>
+
+<p>To authorize the sale of inherited interests in certain allotted land under the jurisdiction of the Crow Creek Indian Agency, South Dakota. (Lower Brule Reservation).</p>
+
+<p>Vetoed September 1, 1950.  The veto message was laid before the Senate, referred to the Committee on Interior and Insular Affairs, and printed as S. Doc. No. 224 (96 <title>Cong. Rec.</title> 14117).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 397.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1957.01.pdf">Sale of inherited interests in land under jurisdiction of Crow Creek Indian Agency -- veto message.  Message from the President of the United States returning without approval the Bill (S. 815) entitled “An act to authorize the sale of inherited interests in certain allotted land under the jurisdiction of the Crow Creek Indian Agency, S. Dak.”</ref>  (1950).  Senate.  81st Congress, 2nd session.  Senate   Document No. 224 (<title>Serial Set</title> 11401).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+81sT CONGRESS	SENATE	5 DOCUMENT
+Rd Session	No. 224
+SALE OF INHERITED INTERESTS IN LAND UNDER JURISDICTION OF CROW CREEK INDIAN AGENCY-VETO MESSAGE
+MES SAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 815) ENTITLED "AN ACT TO AUTHORIZE THE SALE OF INHERITED INTERESTS IN CERTAIN ALLOTTED LAND UNDER THE JURISDICTION OF THE CROW CREEK INDIAN AGENCY, S. DAK."
+SEPTEMBER 1 (legislative day, JULY 20), 1950.-Read; referred to the Committee
+on Interior and Insular Affairs and ordered to be printed
+To the United States Senate:
+I return herewith, without my approval, the enrolled bill (S. 815) to authorize the sale of inherited interests in certain allotted land under the jurisdiction of the Crow Creek Indian Agency, S. Dak.
+This bill would direct the Secretary of the Interior to sell certain tracts of land, designated as Lower Brule allotments 190 and 192, held in trust by the United States under the laws relating to Indian affairs. It would further direct that the proceeds of such sale be distributed among the heirs of Red Star, a deceased member of the Lower Brule Sioux Tribe of Indians. The beneficial interest in allotment 190 was originally granted to Red Star in a division of the tribal property, and subsequently passed by inheritance to Thomas Flying Walker and Henry Good Face in equal shares. The beneficial interest in allotment 192 was originally granted to Thomas Flying Walker. The rights of Thomas Flying Walker in both allotments ultimately passed by inheritance to his wife, Martha White Bull.
+One defect in this bill is that it incorrectly describes the land included in allotment 190. This land is situated in section 27, rather than in section 21, of the township mentioned in the bill.
+2 SALE OF INHERITED INTERESTS IN INDIAN LAND-VETO MESSAGE
+Another defect stems from the fact that the beneficial one-half interest of Martha 'White Bull in allotment 190 has been transferred by her to the Lower Brule Sioux Tribe, for whom it is now held in trust by the United States. On December 7, 1948, Martha White Bull sold her share in this allotment to the tribe for a consideration of $480. On February 2, 1949, this conveyance was approved by virtue of authority granted to the Secretary of the Interior under the pro-visions of the Indian Reorganization Act of June 18, 1934 (48 <title>Stat.</title> 984). Since it appears that the bill was introduced for the benefit of Martha White Bull, it may safely be assumed that the inclusion of allotment 190 was due merely to lack of knowledge that her interest in this land had terminated. The literal effect of the bill in the present state of affairs, nevertheless, would be to require that property belonging to the Lower Brule Sioux Tribe be sold, irrespective of whether such a sale is desired by the tribe, and to require that the proceeds of the sale be paid to a person who no longer has any right or title in that property.
+A third defect is that the bill incorrectly describes the persons to whom the proceeds of the sale of allotment 192 are to be distributed. The beneficial interest of Martha White Bull in this tract is based on her relationship to Thomas Flying Walker, the original allottee. Since Red Star never had any right or title to allotment 192, it would obviously be improper to grant all his heirs a share in the proceeds of this land. Thus, the inclusion of allotment 192 presents the same fundamental objection as does the inclusion of allotment 190.
+The foregoing defects, while evidently inadvertent, can be corrected, with certainty, only by withholding approval from the bill, as its pro-visions are couched in mandatory terms.
+HARRY S. TRUMAN. THE WHITE HOUSE, September 1, 1950.
+S. 815
+EIGHTY-FIRST CONGRESS OF THE UNITED STATES OF AMERICA, AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FIFTY
+AN ACT To authorize the sale of inherited interests in certain allotted land under the jurisdiction of the
+Crow Creek Indian Agency, South Dakota
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the Interior is authorized and directed to sell the trust allotments numbered 190 and 192 of Red Star, deceased, described as the south half of section 21, township 107, range 74, fifth principal meridian, South Dakota, and the northeast quarter of section 33 town-ship 107, range 74, fifth principal meridian, South Dakota, conveyance to be made by the issuance of a patent in fee to the purchaser, and to distribute the proceeds of such sale among the heirs of the said Red Star in accordance with their respective interests.
+SEC. 2. (a) The lands herein described shall not be sold after the date of enactment of this Act to any purchaser, other than the Lower Brule Sioux Tribe of South Dakota or a member thereof, unless (1) at least sixty days prior to such sale the superintendent of the Crow Creek Agency shall have been served with notice of the terms thereof, and a copy of such notice, together with a description of the lands, shall have been posted by the superintendent in a conspicuous public place at such agency and have remained posted for a period of sixty days, and (2) prior to the expiration of such sixty days no bona fide offer in writing to purchase such land upon the terms specified in such notice, or upon terms more favorable
+SALE OF INHERITED INTERESTS IN INDIAN LAND-VETO MESSAGE 3
+to the owner, shall have been made by the Lower Brule Tribe or any member thereof and a copy thereof served upon the superintendent of the Crow Creek Agency.
+(b) A certificate of the superintendent of the Crow Creek Agency stating that notice of the proposed sale was served upon him and was posted by him for a period of sixty days in accordance with the provisions of clause (1) of subsection (a) and that no offer was received in accordance with clause (2) of such subsection, when filed and recorded in the office of the register of deeds of the county in which such lands are situated, shall be conclusive evidence of compliance with this section. The superintendent shall furnish the certificate to the purchaser for filing and recording.
+SAM RAYBURN,
+Speaker of the House of Representatives.
+ALBEN W BARKLEY,
+Vice President of the United States and President of the Senate. [Endorsement on back of bill :]
+I certify that this Act originated in the Senate.
+LESLIE L. BIFFLE Secretary.
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1957.02.pdf"><title>Congressional Record</title> 96, 14117</ref> (1950).</bibl>
+<!-- <floatingText>
+<body>
+1950	CONGRESSIONAL RECORD-SENATE	14117
+I stood to the end against permitting the FDIC to examine State banks which are members of the Federal Reserve Sys-tem. I voted against it. I was voted down. Because of the other things in the bill, which were very important, I took it. But I took it with an amendment to the House language which gave the FDIC the unrestricted privilege of examining not only State member banks—they already had a right to examine State banks—but also other banks as to which special examinations could be made.
+I still was not satisfied. We received a letter from Mr. Hari, the essence of which we placed in our report, It was that he gave us his word of honor, so to speak, that he would never make any general use of this examining power, but would use it only when the examinations made by the Federal Reserve Board or the national bank examiners were in his opinion inadequate for some problem which confronted his insurance risk. He would then make what he called a special examination. I still feel that we are putting 1,800 State banks in a rather precarious situation for three examinations. It was not, in my opinion, necessary, yet I am going along with the bill.
+Mr. WHERRY. Mr. President, will the Senator from South Carolina yield for another question?
+Mr. MAYBANK. I yield.
+Mr. WHERRY. The Senator made a remark a moment ago to the effect that the conferees were unanimous.
+Mr. MAYBANK. I said, on everything except that section.
+Mr. WHERRY. The section proposed by the Senator from Vermont [Mr. FLANDERS?
+Mr. MAYBANK. Yes.
+Mr. WHERRY. That is the one the conferees took exception to?
+Mr. MAYBANK. Yes. I may say that the chairman himself did.
+The VICE PRESIDENT. The question is on agreeing to the conference report.
+The report was agreed to.
+INTERNAL SECURITY OF THE UNITED
+STATES
+Mr. McCARRAN. Mr. President, I move that the Senate proceed to the consideration of Calendar No. 2372, Senate bill 4037, to protect the internal security of the United States, and for other purposes.
+The VICE PRESIDENT. The Secretary will state the bill by title.
+The CHIEF CLERK. A bill (S. 4037) to protect the internal security of the United States, and for other purposes.
+The VICE PRESIDENT. The question is on the motion of the Senator from Nevada.
+The motion was agreed to; and the Senate proceeded to consider the bill.
+INTERNAL SECURITY ACT OF 1950—
+AMENDMENT
+Mr. WHERRY (for himself, Mr. KEM, and Mr. BYRD) submitted an amendment intended to be proposed by them, jointly, to the bill (S. 4037) to protect the internal security of the United States, and for other purposes, which was ordered to lie on the table and to be printed.
+SALE OF INHERITED INTERESTS IN CERTAIN ALLOTTED LAND, CROW CREEK INDIAN AGENCY, S. DAK.—VETO MESSAGE (S. DOC. NO. 224)
+The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying bill, referred to the Committee on Interior and Insular Affairs, and ordered to be printed:
+
+To the United States Senate:
+I return herewith, without my approval, the enrolled bill, S. 815, to authorize the sale of inherited interests in certain allotted land under the jurisdiction of the Crow Creek Indian Agency, S. Dak.
+This bill would direct the Secretary of the Interior to sell certain tracts of land, designated as Lower Brule allotments 190 and 192, held in trust by the United States under the laws relating to Indian affairs. It would further direct that the proceeds of such sale be distributed among the heirs of Red Star, a deceased member of the Lower Brule Sioux Tribe of Indians. The beneficial interest in allotment 190 was originally granted to Red Star in a division of the tribal property, and subsequently passed by inheritance to Thomas Flying Walker and Henry Good Face in equal shares. The beneficial interest in allotment 192 was originally granted to Thomas Flying Walker. The rights of Thomas Flying Walker in both allotments ultimately passed by inheritance to his wife, Martha White Bull.
+One defect in this bill is that it in-correctly describes the land included in allotment 190. This land is situated in section 27, rather than in section 21, of the township mentioned in the bill.
+Another defect stems from the fact that the beneficial one-half interest of Martha White Bull in allotment 190 has been transferred by her to the Lower Brule Sioux Tribe, for whom it is now held in trust by the United States. On December 7, 1948, Martha White Bull sold her share in this allotment to the Tribe for a consideration of $480. On February 2, 1949, this conveyance was approved by virtue of authority granted to the Secretary of the Interior under the provisions of the Indian Reorganization Act of June 18, 1934 (48 <title>Stat.</title> 984). Since it appears that the bill was introduced for the benefit of Martha White Bull, it may safely be assumed that the inclusion of allotment 190 was due merely to lack of knowledge that her interest in this land had terminated. The literal effect of the bill in the present state of affairs, nevertheless, would be to require that property belonging to the Lower Brule Sioux Tribe be sold, irrespective of whether such a sale is de-sired by the Tribe, and to require that the proceeds of the sale be paid to a per-son who no longer has any right or title in that property.
+A third defect is that the bill incorrectly describes the persons to whom the proceeds of the sale of allotment 192 are to be distributed. The beneficial interest of Martha White Bull in this tract is based on her relationship to Thomas
+Flying Walker, the original allottee. Since Red Star never had any right or title to allotment 192, it would obviously be improper to grant all his heirs a share in the proceeds of this land. Thus, the inclusion of allotment 192 presents the same fundamental objection as does the inclusion of allotment 190.
+The foregoing defects, while evidently inadvertent, can be corrected, with certainty, only by withholding approval from the bill, as its provisions are couched in mandatory terms.
+HARRY S. TRUMAN. THE WHITE HOUSE,
+September 1, 1950.
+SALE OF LAND ALLOTTED TO MRS. IRIS HUEBNER MARAK, PINE RIDGE RESERVATION, S. DAK.—VETO MESSAGE (S. DOC. NO. 225)
+The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying bill, referred to the Committee on Interior and Insular Affairs, and ordered to be printed :
+
+To the United States Senate:
+I return herewith, without my approval, the enrolled bill, S. 1064, to authorize the sale of land allotted to Mrs. Iris Huebner Marak on the Pine Ridge Reservation, S. Dak.
+This bill would direct the Secretary of the Interior to sell approximately 160 acres of land, held in trust by the United States under the laws relating to Indian affairs. It would further direct that the proceeds of such sale be distributed to Iris Huebner Marak, a member of the Oglala Sioux Tribe of Indians. At the time when the bill was introduced the beneficial interest in this tract of land belonged to Mrs. Marak, to whom the tract had been allotted in a division of the tribal property. On March 31, 1950, Mrs. Marak sold her beneficial interest to the Oglala Sioux Tribe for a consideration of $800. On May 19, 1950, this conveyance was approved by virtue of authority granted to the Secretary of the Interior under the provisions of the Indian Reorganization Act of June 18, 1934 (48 <title>Stat.</title> 984). Accordingly, the entire beneficial interest is now vested in the tribe, for whom the land is held in trust by the United States.
+The literal effect of the bill in the present state of affairs would be to re-quire that property belonging to the Oglala Sioux Tribe be sold, irrespective of whether such a sale is desired by the tribe, and to require that the proceeds of the sale be paid to a person who no longer has any right or title in that property. Since the underlying objective of the bill was satisfied when the consideration for the sale of the land to the tribe was received by Mrs. Marak, it may safely be assumed that the subsequent passage of the bill was due merely to lack of knowledge that the sale had occurred. This inadvertence can be corrected, with certainty, only by withholding approval from the bill, as its pro-visions are couched in mandatory terms.
+HARRY S. TRUMAN.
+THE WHITE House,
+September 1, 1950.
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

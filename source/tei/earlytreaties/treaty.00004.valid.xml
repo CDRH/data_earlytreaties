@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="treaty.00004">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 4</note>
+<note type="project">Treaty of Logstown, 1752</note>
+<note type="source">The Treaty of Logg's Town, 1752. (1906). <hi rend="italics">Virginia Magazine of History and Biography 13</hi>, 154&#8211;174.</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>The Treaty of Logg's Town, 1752.</title>
+</analytic>
+<monogr>
+<title>Virginia Magazine of History and Biography,</title>
+<imprint>
+<biblScope type="volume"> 13</biblScope>
+<date value="1906"> (1906).</date>
+<biblScope type="pages"> 154&#8211;174.</biblScope>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Made Charlie's proofing changes</item> 
+</change>
+
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-11</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-13-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+
+<body>
+<div1>
+<pb n="154" />
+
+<p>
+<hi  rend="center"><hi rend="bold"><orig reg="Virginia">V<hi rend="smallCaps">IRGINIA </hi></orig> <orig reg="Commissioners">C<hi rend="smallCaps">OMMISSIONERS </hi></orig> <orig reg="To"><hi rend="smallCaps">TO </hi></orig> <orig reg="Governor">G<hi rend="smallCaps">OVERNOR </hi></orig> <orig reg="Dinwiddie">D<hi rend="smallCaps">INWIDDIE</hi></orig></hi></hi>
+
+</p><lb/>
+
+
+<p>
+To the <orig reg="Honourable">Hon'ble</orig> Robert Dinwiddie, <abbr expan="Esquire">Esqr</abbr>., his Majesty's <abbr expan="Lieutenant">Lieut.</abbr> Govenor and Commander in Chief of Virginia:
+</p><lb/><lb/>
+
+
+
+
+<p>
+In Obedience to your Honour's Commission, we proceeded to Loggstown with his Majesty's Present to the Indians of the six Nations &amp; their Allies, and held a Treaty with Them. An Account of our Transactions in that Affair is contain'd in the following Sheets, which we humbly begg Leave to lay before <abbr expan="your">y<hi rend="super">r</hi></abbr> Honour, and are your Honour's most dutiful and most humble Servants.
+</p><lb/><lb/>
+
+<p>
+<orig reg="Joshua">J<hi rend="smallCaps">OSHUA </hi></orig> <orig reg="Fry">F<hi rend="smallCaps">RY</hi></orig>, <orig reg="Lunsford">L<hi rend="smallCaps">UNSFORD </hi></orig> <orig reg="Lomax">L<hi rend="smallCaps">OMAX </hi></orig>, <orig reg="James">J<hi rend="smallCaps">AMES </hi></orig> <orig reg="Patton">P<hi rend="smallCaps">ATTON</hi></orig>.
+</p><lb/><lb/>
+
+<p>
+<hi  rend="center"><orig reg="Journal">J<hi rend="smallCaps">OURNAL </hi></orig> <orig reg="of"><hi rend="smallCaps">OF </hi></orig> <orig reg="the"><hi rend="smallCaps">THE </hi></orig> <orig reg="Virginia">V<hi rend="smallCaps">IRGINIA </hi></orig> <orig reg="Commissioners">C<hi rend="smallCaps">OMMISSIONERS</hi></orig></hi>
+</p><lb/>
+
+<p>
+An Account of the Treaty held between the Government of Virginia &amp; the six united Nations of Indians on the River Ohio, in the Year of our Lord 1752.
+</p><lb/><lb/>
+
+
+<p>
+The Commissioners being on their Way with the King's Present were met on Thursday, the 28th of May, about three Miles from Shonassims Town, on Ohio, by seven or eight of the Delawar Indians on Horse-back; when they came near, all, as well English as Indians, dismounted, and the Indians having filled and lighted their long Pipes or Calumets, first smoak'd and then handed them to the Commissioners and others in their Company, who all smoak'd. After the Ceremony had been repeated two or three Times, the Chief of the Indian made a short Speech to welcome the Commissioners, which, being answered, they all mounted and the Indians led the Way
+</p><lb/><lb/>
+
+
+<p>
+About two hundred Paces from the Town, the Commissioners with their Company halted, the Indians going on to join their own People, and then they began the Salute by fireing their Peices, which was returned by the English and this was repeated two or three Times.
+</p><lb/><lb/>
+
+
+<p>
+The Commissioners then proceeded to the River Bank, a little above the Town, where they pitched their Camp, and set up the King's Coulours, which had been carried before them.
+</p><lb/>
+
+
+<pb n="155" />
+
+<p>
+At this Time the Delawars had no King, but were headed by two Brothers named Shingas and the Beaver<ref target="n155.11" n="11"></ref> who were dressed after the English Fashion, had silver Breast Plates and a great deal of Wampum about them.
+</p><lb/><lb/>
+
+
+<p>
+<hi  rend="center"><hi rend="bold">At a Council held at Shenapin Town,<lb/>
+Fryday, the 29th of May</hi></hi>
+</p><lb/>
+
+<p>
+<orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig>:
+</p><lb/><lb/>
+
+<p>Joshua Fry, Lunsford Lomax, James Patton, Commissioners. 
+
+</p><lb/>
+
+<p>Mr. Christopher Gist, Agent for the Ohio Company.
+
+</p> <lb/>
+
+<p>The Chiefs of the Delawar Indians.
+
+</p><lb/>
+
+<p>Mr. Andrew Montnur, Interpreter.
+
+</p><lb/><lb/>
+
+<p>The Speaker of the Indians, addressing himself to the Commissioners, said:
+</p><lb/><lb/>
+
+<p>Brethren, you have come a long Journey and have sweated a great Deal. We wipe off your Sweat with this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, you are come a long Way, &amp; we are glad to see you; we hope you will open <orig reg="your">y<hi rend="super">r</hi></orig> Hearts to us, &amp; speak clearly, and that you may be enabled to do it, we clear your Voices with this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, you are come from far, and have heard many Stories &amp; false Reports about us, your Brethren. We hope that you will not keep them in your Mind, and that you will disregard them, we give you this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, we desire you will consider our Brethren that live
+
+<note id="n155.11" n="11">Shingas was a famous village chief, a terror to the frontier settlements of Pennsylvania. A brother, and later the successor of King Beaver, his camp was at the mouth of Beaver creek, which empties into the Ohio twenty-six miles below "the forks" (site of Pittsburg).
+<hi rend="italics">Wither's Chronicles of Border Warfare</hi>. <hi rend="italics">Thwaites' note</hi>, p.45. As will be seen, however, from one of the speeches of the Half King, Shingas is stated to have lived at the "fork of the Mohongalio" (Pittsburg).</note>
+
+<pb n="156" />
+
+towards the Sun sitting, &amp; that you will give them your best Advice, upon which we give you this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+
+<p>Then Mr. Christopher Gist<ref target="n156.12" n="12"></ref>
+ and Mr. Andrew Montour delivered to the Commissioners a String of Wampum from the Council at Loggs Town to let them know that they were glad to hear of their being on the Road, and to assure them that they might come in Safety to Loggs Town.
+
+</p><lb/><lb/>
+
+<p>The Commissioners not having any Wampum strung, without which Answers cou'd not be returned, acquainted the Indians that they wou'd answer their Speeches in the Afternoon, on which the Council broke up.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">May the 29th, in the Afternoon.</hi>
+</hi></p><lb/>
+
+<p>The same Persons being met, the Commissioners spoke as followeth:
+</p><lb/><lb/>
+
+<p>Brethren, the Chiefs of the Delawars:</p><lb/>
+
+<p>We have had a long &amp; difficult Journey hither to see our Brethren, but that has been sufficiently made Amends for by the kind Reception you have given us; we assure you we are glad to meet you here in Council, and present you with this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, in your second Speech, you clear'd our Voices, that we might speak our Minds to you, in Answer to which we inform you, that the great King, our Father, has sent by us a Present of Goods to his Children, the Indians, the largest he has ever given them, which we are to deliver at Loggs Town, whither we are going.
+
+</p><lb/><lb/>
+
+<p>It is the Desire of our Father, that you &amp; we, his Children, shou'd be strongly united together as one People, and that it is our Inclination so to be Join'd, we confirm to you by this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, in Answer to your third Speech, we let you know
+
+<note id="n156.12" n="12">Christopher Gist, agent for the Ohio Company, who had done much exploring and surveying along the Ohio.</note>
+
+<pb n="157" />
+
+that we did hear many Stories in our Way hither, rais'd by idle and wicked People to occasion a Difference between us, but we did not believe them, and now we are satisfied that they were false.</p><lb/><lb/>
+
+<p>
+If any others shou'd be spread we shall wholly disregard them, and we hope that you will do the like, and that our good Agreement may always continue, we give you this String of Wampum. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, we heartily wish well to our Brethren, who live towards the Sun setting, and shall be always ready to assist them with our best Advice whenever we shall be informed of their Circumstances, which in the Course of the Treaty to be held at Loggs Town, we suppose we may be. We present you with this String of Wampum.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">Saturday, May the 30th.</hi>
+</hi>
+</p><lb/>
+
+<p>The Goods being put on Board four large Canoes lashed together, the Commissioners &amp; others went on Board also to go down the River, with Colours flying. When they came opposite to the Delewar Town, they were saluted by the Discharge of fire Arms, both from the Town &amp; opposite Shore, where Queen Alliguippe lives, and the Compliment was returned from the Canoes.
+
+</p><lb/><lb/>
+
+<p>The Company then went on Shore to wait on the Queen, who welcomed them &amp; presented them with a String of Wampum to clear their Way to Loggs Town, she presented them also with a fine Dish of Fish to carry with them, and had some Victuals set, which they all eat of. The Commissioners then presented the Queen with a brass Kettle, Tobacco and some other Trifles, and took their Leave.</p><lb/><lb/>
+
+<p>
+The Weather being very wet, the Commissioners went on Shore to a Trader's House, secured their Goods in the Canoes by covering them in the best Manner they cou'd, and lay there that Night.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">Sunday, May the 31st.</hi></hi>
+
+</p><lb/>
+
+<p>They set off with the Canoes and arriv'd at Loggs Town, where they were saluted by the Fireing of small Arms, both
+
+<pb n="158" />
+
+from the Indians and English Traders residing there, and the Commissioners were met by the Chiefs of the Indians on the Shore and welcomed.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">Monday, June the 1st.</hi>
+</hi>
+</p><lb/>
+
+<p>The Chiefs of the Indians then at Loggs Town having met in their Council House, by a Message acquainted the Commissioners that they had something to say to them. They went to the Place, and they and the other Company being seated, a Chief of the six Nations stood up, &amp; addressing himself to the Commissioners, spoke as followeth:
+
+</p><lb/><lb/>
+
+<p>Brethren, you have come a long &amp; blind way; If We had been certain which Way you were coming, we shou'd have met you at some Distance from the Town, but now we bid you welcome, and we open your Eyes with this String of Wampum, which we give you in the Name of the six united Nations. gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren of Virginia and Pensyvania, I desire that you will hearken to what I am going to say that you may open your Hearts and speak freely unto us.
+
+</p><lb/><lb/>
+
+<p>We don't doubt but you have many Things in your Mind which may trouble you, notwithstanding which, we hope we may continue in Friendship. On which we give you those Strings of Wampum. Gave two Strings.
+
+</p><lb/><lb/>
+
+<p>The Commissioners let them know, they wou'd give them an answer in a few hours.
+
+</p><lb/><lb/>
+
+<p>Sometime after all being met in the Council House, Mr. George Croghan<ref target="n158.13" n="13"></ref>
+ by Direction of the Governor of Pennsyl-
+
+<note id="n158.13" n="13">George Croghan, of Pennsylvania, a native of Ireland, who settled near Harrisburg, and was an Indian trader as early as 1746. Having acquired the confidence of the Indians and a knowledge of their languages, he became agent for the colony among them. He was an officer during the French and Indian war, and in 1756, was appointed by Sir William Johnson deputy Indian agent for the Pennsylvania and Ohio Indians. He long rendered valuable service in negotiations with them. By deed, dated at Fort Pitt, July 10, 1775, he purchased from the Six Nations six million acres on the Ohio, which, by another deed, dated July 30, 1777, he transferred to Thomas Walker and eight other Virginians. Copies of these deeds are printed (from copies formerly in the possession of Dr. Thomas Walker) in Page's <hi rend="italics">Page Family</hi> (1893), pp. 206&#8211;209. There is on record in the County Court of Augusta, at Summon, Va., a long deed from the Indians, confirming a former conveyance to Croghan and reciting the goods which were given or to be given them by him. Among the numerous items is one of many dozen jews-harps. George Croghan died in Pennsylvania, in 1782.
+</note>
+
+<pb n="159" />
+
+vania, made a Speech to the Indians, letting them know that it was his Desire they shou'd receive their Brethren of Virginia kindly, and presented them with a String of Wampum.
+
+</p><lb/><lb/>
+
+<p>The Commissioners then spoke as followeth:</p><lb/><lb/>
+
+<p>Brethren, you sent a String of Wampum, which we met on the Road, by which you acquainted us that you heard of our Coming to visit you, and welcomed us so far on our Journey yesterday we arrived at this Place, &amp; this Morning you took an Opportunity with a String of Wampum to bid us welcome to Your Town, &amp; to open our Eyes that we may see the Sun clearly &amp; look upon you as Brothers who are willing to receive us. This we take very kindly, and we assure you of our hearty Inclinations to live in Friendship with you; to confirm this we present you with a String of Wampum. Gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, in your second Speech to us &amp; our Brethren of Pensylvania this Day, you deliver'd us two Strings of Wampum, to clear our Hearts from any Impression that may have been made on them, by flying Report or ill News, and that we might speak our Minds freely.
+
+</p><lb/><lb/>
+
+<p>Brethren, we assure you of our Willingness to remove all Misunderstanding out of our Hearts &amp; Breasts which might impede or hinder the Friendship subsisting between us.
+
+</p><lb/><lb/>
+
+<p>Now. Brethren, we are to acquaint you, that we are sent hither, by the King of Great Britain, our Father, who, not forgetting his Children on this Side the great Waters, has ordered us to deliver you a large Parcel of Goods in his Name, which we have brought with us. But as we understand you have sent for some of your Chiefs, whom you shortly expect,
+
+<pb n="160" />
+
+we will wait with Patience till they come, and then faithfully deliver you the Good &amp; open our Hearts to you. In Assurance of [w]hich we present you with this String of Wampum. Gave a String.
+
+</p><lb/><lb/>
+
+<p>To which the Speaker replied, I am glad that you have the Consideration, to wait for the coming of our chief Men.
+
+</p><lb/><lb/>
+
+<p>On Thursday, June the 4th, Thonariss, called by the English the half King<ref target="n160.14" n="14"></ref>
+ with a Sachim deputed by the Onondaga Council, and others, came down the River with English Colours flying, to Loggs Town, and the following Days they were employed in their own Business till the 10th, when a Council was appointed for treating with the Commissioners of Virginia, &amp; the Present was set out before the Door where they lodged, Arbours being made for the Council to sit round about. All being met, the Commissioners, addressing themselves to the Indians, said:
+
+</p><lb/><lb/>
+
+<p>Sachims &amp; Warriors of the six united Nations, our Friends and Brethren:
+
+</p><lb/><lb/>
+
+<p>We are Glad to meet you at this Place to enlarge the Council Fire already kindled here, by our Brethren of Pensylvania, to brighten the Chain &amp; to renew our Friendship, that it may last as long as the Sun, the Moon &amp; the Stars shall give Light to confirm which we give you a String of Wampum. Gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren, at the Treaty of Lancaster, in the Year 1744. between the Government of Virginia, Maryland, &amp; Pensylvania, you made a Deed <hi rend="italics">recognizing</hi> the King's Right to all the Lands in Virginia, as far as it was then peopled, or hereafter should be peopled, or bounded by the King, our Father, for which you receiv'd the Consideration agreed on.
+
+</p><lb/><lb/>
+
+<p>At the same Time Conasetego<ref target="n160.15" n="15"></ref> desired that the Commis-
+
+<note id="n160.14" n="14">Thonariso, or Tanacharison, a Seneca chief, who, at the beginning of the war with France, was a warm friend and ally of the English. He was with Washington in the fight at the Meadows, and died October 4, 1754.</note>
+
+<note id="n160.15" n="15">Conasetego, one of the chiefs who had signed the treaty of Lancaster.
+</note>
+
+<pb n="161" />
+
+sioners wou'd recommend you for the King's further Favour, when the Settlements shou'd encrease much further back. This the Commissioners promised, and confirm'd it by a writing under their Hands &amp; Seals. In Consequence of which Promise, a Present was sent you from the King by Conrad Wieser, which Mr. Wieser since informed us that he delivered you, at a Council held here in the Year 1748. Now the King, our Father, to show the Love he bears to Justice, as well as his Affection to his Children, has sent a large Present of Goods, to be divided among you and your Allies, which is here ready to be delivered to you, and we desire that you will confirm the Treaty of Lancaster.
+
+</p><lb/><lb/>
+
+<p>Brethren, it is the Design of the King, our Father, at present, to make a Settlement of British Subjects on the South East Side of Ohio, that we may be united as one People, by the strongest Ties of Neighbourhood as well as Friendship, &amp; by these Means be able to withstand the Insults of our Enemies, be they of what Kind soever.
+
+</p><lb/><lb/>
+
+<p>From such a Settlement greater Advantages will arise to you, than you can at present conceive, our People will be able to supply you with Goods much Cheaper than can at this Time be afforded; they will be a ready Help in Case you shou'd be attacked, and some good Men among them will be appointed, with Authority to punish &amp; restrain the many Injuries &amp; Abuses too frequently committed here, by disorderly white People.
+
+</p><lb/><lb/>
+
+<p>Brethren, be assur'd that the King, our Father, by purchasing your Lands, had never any Intention of <hi rend="italics">takeing them from you</hi>, but that we might live together as one People, &amp; <hi rend="italics">keep them from the French</hi>, who wou'd be bad Neighbours.
+
+</p><lb/><lb/>
+
+<p>He is not like the French King, who calls himself your Father, &amp; endeavoured about three Years ago with an armed Force <hi rend="italics">to take Possession of your Country</hi>, by setting up Inscriptions on Trees, and at the Mouths of Creeks on this River, by which he claims the Lands, tho' at the Time of their Coming &amp; for many Years before, a Number of your Brethren, the English, were residing in this Town, &amp; at several other Places on this River.
+
+</p><lb/>
+
+<pb n="162" />
+
+<p>You will remember how he scattered the Shawness, so that they are since dispersed all over the Face of the Earth; and he now threatens to cut off the Twightwees. This is to weaken you that he may cut you off also, which he durst not Attempt while you are united.
+
+</p><lb/><lb/>
+
+<p>On the Contrary, the King, your Father, will lay his Hand on your Heads, under which Protection you will always remain safe.
+
+</p><lb/><lb/>
+
+<p>Brethren, the great King, our Father, recommends a strict Union between us, you, &amp; our Brethren towards the Sun setting, which will make us strong &amp; formidable, as a Division may have a contrary Effect. We are directed to send a small Present to the Twightwees as an Earnest of the Regard which the Governor of Virginia has for them, with an Assurance of his further Friendship, when ever they shall stand in Need.
+
+</p><lb/><lb/>
+
+<p>Brethren:
+<lb/>
+</p>
+
+<p>We earnestly exhort you not to be drawn away by the empty, deceitful Speeches of ye french, the peculiar Talent of that cunning people, but in all their attempts to shake your Duty to our common Father, think on what real Acts of friendship have been done by the English, and what by them; weigh these Things in your Minds, and then determine who best deserves your Esteem and regard, for it is not by vain, unmeanning Words true friendship is to be discovered. That what we have said may have the deeper impression on you &amp; have its full force we present you with this Belt of Wampum. Gave a Belt.
+
+</p><lb/><lb/>
+
+<p>Brethren, It is many years ago that the English first came over the great Water to visit you; on our first coming you took hold of our Ships and tied them to your strongest Trees, ever since which we have remained together in friendship; we have assisted you when you have been attacked by the French, by which you have been able to withstand them, and you have remained our good Friends &amp; Allies, for tho' at some times the Chain of friendship may have contracted some Rust, it has been easily rubbed off, and the Chain has been restored to its brightness. This, we hope, will always be the Case, and
+
+<pb n="163" />
+
+that our friendship may continue to the latest posterity we give you this String of Wampum. Gave a String.
+
+</p><lb/><lb/>
+
+<p>Brethren:
+<lb/>
+</p>
+
+<p>We are sorry for the occasion that requires us to complain to you of an Injury done us by one of your people who murdered a poor Woman on the new River. Murder is a great Crime, and by the Consent of all Nations, has been usually punished with death; this is ye usage among the English,
+whether one of our own people has been killed, or one of our Brethren, the Indians, and it is one of the earliest commands of the great father and maker of us all, who inhabits the skies, that whoso shedeth Man's Blood, by man his Blood shall be shed.
+
+</p><lb/><lb/>
+
+<p>We understand that you know the Man that is accused of the Murder, and we hope you will give him up to be tried by our Law. You may be assured that he will have a fair trial, and if he is not guilty, he will be sent back unhurt.
+
+</p><lb/><lb/>
+
+<p>We must inform you that the Governor of Virginia expects that you will deliver the person supposed to be guilty up to some Magistrate in Virginia, whom we shall name to you that he may send him to <orig reg="Williamsburg">W<hi rend="super">ms</hi>burg</orig> for his trial.
+
+</p><lb/><lb/>
+
+<p>This procedure is not only proper, as it is a compliance with the law of God, and of Nations, but it is necessary to warn all hot-headed men who are not guided by reason to forbear from such wicked Actions, by which their Brethren suffer.
+
+</p><lb/><lb/>
+
+<p>Brethren:
+<lb/>
+</p>
+
+<p>We desire for the future that you will observe the Treaty of Lancaster, and whenever your people travel through Virginia, that they will take such passes as are directed by that Treaty. By these passes, signed by Magistrates, the Men will be known, which will be some restraint on them as to their behaviour. It will be proper, also, that a man of prudence &amp; discretion should head such a party that one among them, if possible, should speak English, and that by no means any French or french Indians be suffered to go with them.
+
+</p><lb/><lb/>
+
+<p>We might have mentioned many other Irregularities, but we have forborne, in hopes that for the future you will give
+
+<pb n="164" />
+
+your people such orders as will prevent our having any further occasion to complain. To inforce what we have said and to induce you to do us justice, we present you with this Belt of Wampum. gave a Belt.
+
+</p><lb/><lb/>
+
+<p>The Commissioners then spoke to the Allies of the Six Nations, who were present, having first advised with the half King, and being joined by him in the Speeches in the name of the Six Nations.
+
+</p><lb/><lb/>
+
+<p>Brethren, the Delawares, we thank you for the kind reception you gave us when we came to Shenapins, which we shall never forget. We advise and exhort you to beware of french Councils, &amp; that you will adhere to a strict friendship with us, the Six Nations, and your Brethren who live towards the Sun setting, which will strengthen us all, and be a sure defence against our Enemies. To confirm you in this mind, we present you with this Belt of Wampum. gave a Belt.
+
+</p><lb/><lb/>
+
+<p>Brethren, the shawness, your Nation has suffered much by French Devices by which you have been dispers'd. We exhort you that remain, that you keep firm hold of the great Chain of Friendship between us, the six Nations &amp; their Allies, which is the likeliest Method to retrieve your Loss, and again to make you an happy People. We present you with this Belt of Wampum. Gave a Belt.
+
+</p><lb/><lb/>
+
+<p>Brethren, the Windots, your Nation is divided, &amp; Part is under the Direction of the French; we think it wou'd be good Policy in you that are in our Interest, to endeavor to bring over your Brethren. But if this can't be done, you ought to take all the Care in your Power, that they do not, under the Colour &amp; Name of Friendship, come into <hi rend="italics">our Country</hi> &amp; hurt our Inhabitants; or, if they do, that you will endeavor to secure them on their Return &amp; give them up; to prevent any Misunderstanding, we present you with this Belt of Wampum. Gave a Belt.
+
+</p><lb/><lb/>
+
+<p>After the Speeches had been spoke, &amp; interpreted; The Commissioners, in his Majesty's Name, delivered the Present
+
+<pb n="165" />
+
+of Goods to the half King &amp; the other Chiefs of the Indians, who thankfully received them &amp; appointed some of their Men to make a Division of them, which they did, without the least Noise or Disorder, on the Spot, among the several Nations; whose representatives respectively took Charge of their Parts, to be subdivided when they carried them Home.
+
+</p><lb/><lb/>
+
+<p>The half King then, with a ten rowed Belt of Wampum in his Hand, directing his Speech to Eghnisara, which is Mr. Montour's indian Name, said:
+
+</p><lb/><lb/>
+
+<p>Child, remember that you are one of our own People, and have transacted a great Deal of Business among us before; you were employed by our brethren of Pensylvania and Virginia; you are Interpreter between us and our Brethren, which we are well pleased at, for we are sure our Business will go on well &amp; Justice be done on both Sides. But you are not Interpreter only; for you are one of our Council, have an equal Right with us to all these Lands, &amp; may transact any publick Business in behalf of us, the six Nations, as well as any of us, for we look upon you as much as we do upon any of the chief Counsellors; and to confirm what we have said, we present you with this Belt of Wampum. Gave a Belt.
+
+</p><lb/><lb/>
+
+<p>Then addressing himself to the Commissioners of Virginia, and all the Indians present, with a String of Wampum in his Hand, he spoke as follows:
+
+</p><lb/><lb/>
+
+<p>Brethren, it is a great while since our brother, the Buck (meaning Mr. George Croghan) has been doing Business between us, &amp; our Brother of Pensylvania, but we understood he does not intend to do any more, so I now inform you that he is approv'd of by our Council at Onondago, for we sent to them to let them know how he has helped us in our Councils here; and to let you &amp; him know that he is one of our People and shall help us still &amp; be one our Council, I deliver him this String of Wampum. Gave a Belt.
+
+</p><lb/><lb/>
+
+<p>He next spoke to the Shawness, and told them he took the Hatchet from them, &amp; tied them with black Strings of Wampum, to hinder them from going to War against the Chero-
+
+<pb n="166" />
+
+kees; he said they had struck their own Body &amp; did not know what they were doing; had they not some of their own People whom they wou'd get, and wou'd it not be better to be at Peace, to bring them back? He charg'd them not to go again to strike their own People, &amp; he said that he hoped that the Governors of Virginia and Pensylvania wou'd interest themselves in making a Peace. Gave a black String of Wampum.
+
+</p><lb/><lb/>
+
+<p>Then turning to the Delewars, he said, you went to the Windots &amp; deliver'd them a Speech &amp; a Belt of Wampum, to make a Peace between you and the Cherokees, &amp; after you came back, you let your young Men go to War against the Cherokees, which was very wrong after you had delivered the Speech, which I myself, being present, heard.
+
+</p><lb/><lb/>
+
+<p>I take the Hatchet from you; you belong to me, &amp; I think you are to be ruled by me, &amp; I, joining with your Brethren of Virginia, order you to go to war no more. Gave a Belt of Wampum
+
+</p><lb/><lb/>
+
+<p>Taking a belt of Wampum in his Hand, he proceeded as followeth:
+
+</p><lb/><lb/>
+
+<p>Brethren, the Governors of Virginia &amp; Pensylvania, some Years ago we made a Complaint to our Brother of Pensylvania, that his Traders brought out too much of spirituous Liquors among us, &amp; desired that there might not come such Quantities, and hoped he wou'd order his Traders to sell their Goods &amp; Liquors at cheaper Rates.
+
+</p><lb/><lb/>
+
+<p>In Answer to our request, Conrad Wieser delivered us this Belt of Wampum, &amp; told us that we must pay but five Buckskins for a Cagg, &amp; if the Traders wou'd not take that, we shou'd have it for Nothing.
+
+</p><lb/><lb/>
+
+<p>Since which Time there has been double the Quantity brought out yearly &amp; sold as formerly, &amp; we have made our Complaints since to try to stop such large Quantities from being brought, but as there has been no Notice taken to prevent it, we believe Mr. Wieser spoke only from his mouth, &amp; not from his Heart, and without the Governor's Authority, so we think proper to return the Belt.
+
+</p><lb/><lb/>
+
+<p>He gave the Belt to Mr. Croghan.
+
+</p><lb/>
+
+<pb n="167" />
+
+<p><hi  rend="center"><hi rend="bold">Thursday, June 11th.</hi>
+</hi>
+</p><lb/>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig>:
+
+</p><lb/><lb/>
+
+<p>Joshua Fry, Lunsford Lomax, James Patton, Commissioners.
+
+</p><lb/> 
+
+<p>Mr. Christopher Gist, Agent for the Ohio Company. 
+
+</p><lb/>
+
+<p>The Chiefs of the six Nations.
+
+</p><lb/>
+
+<p>Mr. Andrew Montour, Interpreter.
+
+</p><lb/><lb/>
+
+<p>The Commissioners of Virginia delivered to the six Nations a String of Wampum &amp; Suit of Indian Clothing, to wipe away their Tears for the Loss of one of their Chiefs, who, lately came down from the Head of Ohio to Loggs Town, &amp; died there.
+
+</p><lb/><lb/>
+
+<p>Afterwards the half King spoke to the Delawars. Nephews, you receiv'd a Speech last Year from your Brother, the Governor of Pensylvania, and from us, desiring you to choose one of your wisest Counsellors &amp; present him to us, for a King, as you have done it, we let you know that it is our Right to give you a King, and we think proper to give you Shingas for your King, whom you must look upon as your Chief, &amp; with whom all publick Business must be transacted between you &amp; your Brethren, the English.
+
+</p><lb/><lb/>
+
+<p>On which the half King put a laced Hat on the Head of the Beaver, who stood Proxy for his Brother Shingas, &amp; presented him also with a rich Jacket &amp; a suit of English Colours, which had been delivered to the Half King, by the Commissioners for that Purpose.
+
+</p><lb/><lb/>
+
+<p>The Commissioners, addressing themselves to the Shawness, acquainted them that they understood that their chief King Cockawichy, who had been a good Friend to the English, was lying bed-rid, and that to show the Regard they had for his past Services, they took this Opportunity to acknowledge it, by presenting him with a Suit of Indian Clothing.
+
+</p><lb/><lb/>
+
+<p>Then the half King spoke as follows:
+
+</p><lb/><lb/>
+
+<p>Brother the Governor of Virginia, You acquainted us yesterday with the King's Right to all Lands in Virginia as far as it is settled, &amp; back from thence to the Sun setting, whenever he shall think fit to extend his Settlements. You produced a Copy of the Deed, made by the Onondago Council at
+
+<pb n="168" />
+
+the Treaty of Lancaster, &amp; desired that your Brethren of Ohio might likewise confirm that Deed.
+
+</p><lb/><lb/>
+
+<p>Brother, the Governor of Virginia, We are well acquainted that our chief Council, at the Treaty of Lancaster, confirmed a Deed to you for a Quantity of Land in Virginia which you have a Right to, &amp; likewise our Brother Onas has a right to a Parcel of Land in Pensylvania. We are glad you have acquainted us with the Right to those Lands, &amp; we assure you we are willing to confirm any Thing our Council has done in Regard to the Land, but we never understood, before you told us Yesterday, that the Lands then sold were to extend further to the Sun setting than the Hill on the other Side of the Allegany Hill, so that we can't give you a further Answer now.
+
+</p><lb/><lb/>
+
+<p>Brother, you acquainted us yesterday that the French were a designing People, which we now see &amp; know that they design to cheat us out of our Lands; you told us that the King of England designed to settle some Lands on the South East Side of Ohio, that it might be better in our Brethren's Power to help us, if we were in Need, than it is at Present at the great Distance they live from us; we are sure the French design nothing else but Mischief, for they have struck our Friends, the Twightwees. We therefore desire our Brethren of Virginia may build a strong House, at the Fork of the Mohongalio, to keep such Goods, Powder, Lead &amp; necessaries as shall be wanting, and as soon as you please; and as we have given our Cousins, the Delawars, a King, who lives there, we desire you will look upon him as a Chief of that Nation. Gave a large String of Wampum.
+
+</p><lb/><lb/>
+
+<p>Brethren, your Brothers that live on the Ohio are all Warriors &amp; hunters, &amp; likewise your Brothers, the Traders, are not all wise Men; there has been Reason for many Complaints for some Time past, but we will not complain of our Brethren, the Traders, for we love them, &amp; can't live without them, but we hope you will take care to send none among us but good Men, sure you know them that are fit, &amp; we hope you will advise them how to behave, &amp; we will take all the Care we can of our young Men, that they shall behave better than they have done.
+
+</p><lb/>
+
+<pb n="169" />
+
+<p>We well remember when first we saw our Brethren, the English, &amp; we remember the first Council we had with them, &amp; we shall do all we can to keep the Chain of Friendship from Rust.
+
+</p><lb/><lb/>
+
+<p>This Evening the Commissioners had a private Conference with the half King, on the Subject of the strong House, for it had been alleged, that the Expression implied a Settlement of People, as well as an House. The Question being asked whether he meant it in that Sense or not, He answered in the Negative.
+
+</p><lb/><lb/>
+
+<p>The Commissioners then told him that a Trade cou'd never be carried on with them to their Advantage, unless we had a Settlement of People near to raise Provision &amp; make them plenty &amp; cheap, for whilst the Traders were oblig'd to bring theirs from Pensylvania, or purchase of those who brought them for sale, they were oblig'd to lay a greater Advance on their Goods to answer that Charge, &amp; that if at any Time they themselves should stand in need of Assistance against an Enemy, it would be easier for their Brethren, the English, to send men than to support them afterwards with Provisions.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">Fryday, the 12th of June.</hi></hi>
+
+</p><lb/>
+
+<p>The half King &amp; the deputy from the Onondago Council, with a String of Wampum, informed the Commissioners that one Fraizer a Smith, in the Town of Wiwango, threat'ned to remove; that they did not desire he should leave them, but, if he did, they wished another might be sent to them, &amp; they said they had not a sufficient Number of Traders there to supply them with Goods.
+
+</p><lb/><lb/>
+
+<p>To which the Commissioners replied that they wou'd represent their Case to the Governor of Virginia, &amp; hoped they wou'd be supplied according to their Desire.
+
+</p><lb/><lb/>
+
+<p>The same Day the Chiefs of the Shawnese, with a String of Wampum, thanked the Commissioners for their good Advice. They acknowledged that they had been led astray by the French, &amp; had suffer'd for it, &amp; said that they wou'd take Care not to be deceived by the French again, but would keep
+
+<pb n="170" />
+
+fast hold to the Chain of Friendship between the English, the six Nations &amp; themselves.
+
+</p><lb/><lb/>
+
+<p>The Commissioners thanked them for their Attachment to the English, &amp; desired their Compliments might be made to the young King of the Shawnese, who was generously gone to the Assistance of the Pitts; they sent him also a laced Hat and a rich jacket.
+
+</p><lb/><lb/>
+
+<p>A little before the Treaty began, a Trader's Man about forty Miles above Loggs Town, cut an Indian of the six Nation, dangerously across the Wrist with a Knife &amp; took his Gun from him, which much exasperated the Indian, &amp; he threat'ned to revenge it on some of the Traders. To pacify him the Commissioners gave him a Gun, &amp; Mr. George Croghan a thousand of Wampum to pay for the Cure, on which the Indian returned thanks for the Care his Brethren had taken, &amp; assured them they had remov'd all Anger from his Breast, and that he wou'd think no more of what had happened.
+
+</p><lb/><lb/>
+
+<p><hi  rend="center"><hi rend="bold">Saturday. June the 13th.</hi></hi>
+
+</p><lb/>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig>:
+
+</p><lb/><lb/>
+
+<p>Joshua Fry, Lunsford Lomax, Tames Patton, Commissioners. 
+
+</p><lb/>
+
+<p>Mr. Christopher Gist, Agent for the Ohio Company.
+
+</p><lb/>
+
+<p>The Chiefs of the six Nations.
+
+</p><lb/>
+
+<p>Mr. Andrew Montour, Interpreter.
+
+</p><lb/><lb/>
+
+<p>Thonarison, speaking to the Commissioners, said:
+
+</p><lb/><lb/>
+
+<p>Brethren, you told us you sent a Present of Goods in the Year 1784, which you say Conrad Wieser delivered at this Town; he may have told you so, but we assure you we never heard of it from him; it is true he did deliver us Goods then, but, we understood him they were from our Brother Onas<ref target="n170.16" n="16"></ref>
+ he never made mention of the great King, our Father, nor of our Brother Assaragos<ref target="n170.17" n="17"></ref>
+</p><lb/><lb/>
+
+<note id="n170.16" n="16">Onas, the Indian name for the Governor of Pennsylvania.</note>
+
+<note id="n170.17" n="17">Assaregos, or Assaregoa, the Indian name for the Governor of Virginia.</note>
+
+<pb n="171" />
+
+<p>Then, directing his Speech to the Governor of Virginia, he said:
+
+</p><lb/><lb/>
+
+<p>Brother, you complained to us that some of our People had murdered a Woman in Virginia; it is true there has been such a Thing done &amp; Brother we know the Man that did it; he is one of our six Nations, although he has lived some time among the French. We cannot make an Excuse for so barbarous a Murder, but we assure you he did it without our Knowledge, &amp; we beleive the evil Spirit tempted him to do it; we will let the Onondago Council know what has been done, &amp; we believe they will try to get him, &amp; make a satisfaction for the Crime committed. Gave a String of black &amp; white Wampum.
+
+</p><lb/><lb/>
+
+<p>Brother, we have heard what you said in Regard to the King's Design of making a S'ttlement of his People on the Waters of the River Ohio; you likewise told us you had a Deed for those Lands signed by our Council at the Treaty of Lancaster; we assure you of our Willingness to agree to what our Council does or has done, but we have not the full Power in our Hands here on Ohio.
+
+</p><lb/><lb/>
+
+<p>We must acquaint our Council at Onondago of the Affair, and whatsoever they bid us do, we will do.
+
+</p><lb/><lb/>
+
+<p>In Regard to our Request of Building a strong House at the Mouth of Mohongalio, you told us it wou'd require a Settlement to support it with provisions &amp; necessaries. It is true, but we will take Care that there shall be no Scarcity of that kind, untill we can give you a full Answer; Although in all our Wars we don't consider Provisions, for we live on one another; but we know it is different with our Brethren, the English. Gave three Strings of white Wampum.
+
+</p><lb/><lb/>
+
+<p>The Commissioners having drawn an Instrument of writing for confirming the Deed made at Lancaster, &amp; containing a Promise that the Indians wou'd not molest our Settlements on the South East Side of Ohio, desired Mr. Montour to confer with his Brethren, the other Sachems, in private, on the Subject, to urge the Necessity of such a Settlement &amp; the
+
+<pb n="172" />
+
+great Advantage it wou'd be to them, as to their Trade or their Security.
+
+</p><lb/><lb/>
+
+<p>On which they retir'd for half an Hour, &amp; then return'd, &amp; Mr. Montour said they were satisfied in the Matter &amp; were willing to sign &amp; seal the Writing, which was done &amp; witnessed by the Gentlemen then present.
+
+</p><lb/><lb/>
+
+<p>The half King spoke as followeth:
+
+</p><lb/><lb/>
+
+<p>Brethren, the Governors of Virginia &amp; Pensylvania, you expressed your Regard for our Friends &amp; Allies, the Twightwees, &amp; have considered their Necessities at present. we return you our Thanks for your Care of them; we will join with you, &amp; desire you will deliver them this Belt and let them know from us, that we desire them not to forget what they did in Pensylvania when they were down four Years ago and Joined in Friendship with our Brethren, the English; we desire they may hold fast by the Chain of Friendship, &amp; not listen to any but their Brethren, the English, &amp; us, the six Nations, Delawars &amp; Shawnese, as we will stand by them; we expect they will come down &amp; confirm the Friendship they have engaged in with the English.
+
+</p><lb/><lb/>
+
+<p>He delivered the Belt, to be sent to the Shawnese.
+
+</p><lb/><lb/>
+
+<p>The Commissioners then opened the Road to Virginia with a Belt of Wampum, &amp; the following Speech:
+
+</p><lb/><lb/>
+
+<p>Brethren, we have travelled through a long &amp; dark Way to
+meet you at this Council; we have now compleated our Business with Pleasure &amp; Satisfaction, both to you &amp; us, &amp; as we are now returning back, we do in the name of the great King, Your Father, as also in the Name of your Brother, the Governor of Virginia, remove all Obstacles out of the way, &amp; make clear the Road that you may at any time send Messengers to us on any Occasion, and we shall always be ready to receive them kindly, and look upon you as our Brethren and in Token of our Sincerity of our Hearts, we present you with this Belt of Wampum. Gave the Belt.
+
+</p><lb/><lb/>
+
+<p>The Commissioners added:
+
+</p><lb/><lb/>
+
+<p>Brethren, at the Treaty of Lancaster, the Commissioners
+
+<pb n="173" />
+
+informed you of a large House built among us for the educating of Indian Children, &amp; desired that you would send some of Yours; we now make you the same Offer, but if you think it too far to send Your Children, we desire to know whether it wou'd be agreeable to you that Teachers shou'd be sent among you.
+
+</p><lb/><lb/>
+
+<p>The Advantage of an English Education are greater than can be imagined by those who are unacquainted with it. By it we know in that Part of the World from whence we came; how Nations for some thousands of Years back have arose, grown powerful, or decayed; how they have remov'd from one Place to another; what Battles have been fought; what great Men have lived, &amp; how they have acted, either in Council or in War.
+
+</p><lb/><lb/>
+
+<p>In this Part of the World we know from the first Time the Spaniards came to it, how cruelly they used the Indians, then wholly ignorant of fire Arms. And we know the Actions of the French against you &amp; others. There are many Benefits arising from a good Education, which wou'd be too long to be mentioned, but the greatest of all is, that by it we are acquainted with the Will of the great God, the Creator of the World and Father of us all, who inhabits the Skies, by which the better People among us regulate their Lives, &amp; hope after Death to live with him forever. Gave a String of Wampum.
+
+</p><lb/><lb/>
+
+<p>To which the half King, after a short Pause, answered:
+
+</p><lb/><lb/>
+
+<p>Brethren, we heard of the Offer which was made us at Lancaster, &amp; we thank you for that which you make us now, but we can give you no Answer before we have consulted the Onondago Council about it.
+
+</p><lb/><lb/>
+
+<p>A Copy of the Instrument of writing before mentioned.
+
+</p><lb/><lb/>
+
+<p>Whereas, at the Treaty of Lancaster, in the County of Lancaster &amp; Province of Pensylvania, held between the Government of Virginia &amp; the six united Nations of Indians, in the Year of our Lord one thousand seven hundred &amp; seventy-four [<hi rend="italics">sic</hi>., but forty-four is of cause meant]; the Hon'ble Thomas Lee and William Beverly, <abbr expan="Esquires">Esqrs.</abbr>, being Commissioners, a Deed
+
+<pb n="174" />
+
+recognizing &amp; acknowledging the Right &amp; Title of his Majesty our sovereign Lord, the King of great Britain, to all the Lands within the Colony of Virginia, as it was then or hereafter, might be peopled &amp; bounded by his Majesty, our sovereign Lord, the King, his Heirs &amp; Successors, was signed, sealed &amp; delivered by the Sachems &amp; Chiefs of the six united Nations, then present, as may more fully appear by the <orig reg="said">s<hi rend="super">d</hi></orig> Deed, reference thereunto being had: We, Conogariera, Cheseago, Cownsagret, Enguisara, Togrondoaro, Thonorison. Sachems &amp;
+Chiefs of the <orig reg="said">s<hi rend="super">d</hi></orig> united Nations, now met in Council at Loggs Town, do hereby signify our Consent &amp; Confirmation of said Deed in as full &amp; ample a Manner as if the same was here recited. And whereas his Majesty has a present Design of making a Settlement or Settlements of British Subjects on the southern or eastern Parts of the River Ohio, called otherwise the Allagany. We in Council (Joshua Fry, Lunsford Lomax, &amp; James Patton, being Commissioners on behalf of his Majesty) do give our consent thereto, &amp; do further promise that the said Settlement or Settlements shall be unmolested by us, and that we will, as far as in our power, assist and Protect the British Subjects there inhabiting.
+
+</p><lb/><lb/>
+
+<p>In Witness whereof we have hereunto put our hands and Seals this thirteenth day of June, in the Year of our Lord 1752.
+
+</p><lb/><lb/>
+
+</div1>
+</body>
+<!--
+<back>
+<div1>
+
+
+
+
+Footnotes put on correct pages - 14 February 2006 - CB
+
+<note id="n155.11" n="11">Shingas was a famous village chief, a terror to the frontier settlements of Pennsylvania. A brother, and later the successor of King Beaver, his camp was at the mouth of Beaver creek, which empties into the Ohio twenty-six miles below "the forks" (site of Pittsburg).
+<hi rend="italics">Wither's Chronicles of Border Warfare</hi>. <hi rend="italics">Thwaites' note</hi>, p.45. As will be seen, however, from one of the speeches of the Half King, Shingas is stated to have lived at the "fork of the Mohongalio" (Pittsburg).</note>
+
+<note id="n156.12" n="12">Christopher Gist, agent for the Ohio Company, who had done much exploring and surveying along the Ohio.</note>
+
+<note id="n158.13" n="13">George Croghan, of Pennsylvania, a native of Ireland, who settled near Harrisburg, and was an Indian trader as early as 1746. Having acquired the confidence of the Indians and a knowledge of their languages, he became agent for the colony among them. He was an officer during the French and Indian war, and in 1756, was appointed by Sir William Johnson deputy Indian agent for the Pennsylvania and Ohio Indians. He long rendered valuable service in negotiations with them. By deed, dated at Fort Pitt, July 10, 1775, he purchased from the Six Nations six million acres on the Ohio, which, by another deed, dated July 30, 1777, he transferred to Thomas Walker and eight other Virginians. Copies of these deeds are printed (from copies formerly in the possession of Dr. Thomas Walker) in Page's <hi rend="italics">Page Family</hi> (1893), pp. 206&#8211;209. There is on record in the County Court of Augusta, at Summon, Va., a long deed from the Indians, confirming a former conveyance to Croghan and reciting the goods which were given or to be given them by him. Among the numerous items is one of many dozen jews-harps. George Croghan died in Pennsylvania, in 1782.
+</note>
+
+<note id="n160.14" n="14">Thonariso, or Tanacharison, a Seneca chief, who, at the beginning of the war with France, was a warm friend and ally of the English. He was with Washington in the fight at the Meadows, and died October 4, 1754.</note>
+
+<note id="n160.15" n="15">Conasetego, one of the chiefs who had signed the treaty of Lancaster.
+</note>
+
+<note id="n170.16" n="16">Onas, the Indian name for the Governor of Pennsylvania.</note>
+
+<note id="n170.17" n="17">Assaregos, or Assaregoa, the Indian name for the Governor of Virginia.</note>
+
+
+
+
+</div1>
+</back>-->
+</text>
+</TEI.2>

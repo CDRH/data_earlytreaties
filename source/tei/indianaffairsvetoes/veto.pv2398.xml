@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2398">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2398	H.R. 5118 (Ninety-seventh Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2398</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-seventh Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2398	H.R. 5118 (Ninety-seventh Congress, Second Session &#8212; Reagan)</head>
+
+<p>To provide water and settle water rights to the Papago Tribe of Arizona.</p>
+
+<p>Vetoed on June 1, 1982.  The veto message was laid before the House, referred to the Committee on Interior and Insular Affairs, and printed as H. Doc. 97-191 (128 <title>Cong. Rec.</title> 12736 and 13352).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 493.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2398.01.pdf">Veto of H.R. 5118.  Message from the President of the United States transmitting his veto message on H.R. 5118, the proposed “Southern Arizona Water Rights Settlement Act of 1982.”</ref>  (1982).  House of Representatives.  97th Congress, 2nd session.  House   Document No. 97-191 (<title>Serial Set</title> 13467).  Washington, DC: Government Printing Office.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2398.03.pdf"><title>Congressional Record</title> 128, 12736</ref> (1982).</bibl>
+<!-- <floatingText>
+<body>
+12736	CONGRESSIONAL RECORD—HOUSE	June 2, 1982
+from the Clerk of the House of Representatives:
+WASHINGTON, D.C., JUNE 2, 1982. Hon. THOMAS P. O'NEILL, Jr.,
+The Speaker, U.S. House of Representatives, Washington, D. C.
+DEAR MR. SPEAKER: Pursuant to the per-mission granted in the Rules of the House of Representatives, I have the honor to transmit a sealed envelope from The White House, received in the Clerk's Office at 3:00 p.m. on Tuesday, June 1, 1982 and said to contain H.R. 5118, an Act to provide water to the Papago Indian Tribe of Arizona and its members, to settle Papago Indian water rights claims in portions of the Papago reservations, and for other purposes, and a veto message thereon.
+With kind regards, I am
+Sincerely,
+EDMUND L. HENSHAw, Jr.,
+Clerk,
+U.S. House of Representatives.
+SOUTHERN ARIZONA WATER RIGHTS SETTLEMENT ACT OF 1982—VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 97-191).
+The SPEAKER laid before the House the following veto message from the President of the United States.
+To the House of Representatives:
+I return herewith, without my approval, H.R. 5118, the proposed "Southern Arizona Water Rights Settlement Act of 1982." I take this action with sincere disappointment. I am well aware of the hard work of the Arizona Congressional leaders that went into the development and passage of this legislation. I also understand their desire to resolve the litigation that has hung over the head of the City of Tucson and the many private parties involved for the past seven years.
+I strongly believe that the most appropriate means of resolving Indian water rights disputes is through negotiated settlement and legislation if it is needed to implement any such settlement. However, H.R. 5118 is a negotiated settlement with a serious flaw. The United States Government was never a party to the negotiations that led to the development of this proposal. This settlement was negotiated among the Tribe, the City of Tucson, the State of Arizona, the affected commercial interests and other defendants with assistance from the Arizona Congressional delegation. The result of this negotiation was that the United States Government, which was absent from the negotiation table, would bear almost the entire financial burden of the settlement at a potential initial cost of $112 million and a potential annual cost of approximately $5 mil-lion.
+I cannot support this resolution of litigation on behalf of the Papago Tribe by the United States Government. I can only in good conscienceapprove legislation intended to implement a settlement if the United States has been a major party in the negotiations and if the contribution by the defendants in the litigation involved is significant.
+I pledge the full cooperation of my Administration to the States and local governments that are facing the difficult task of equitably resolving Indian water rights suits. I cannot, however, pledge the Federal Treasury as a panacea for this problem.
+H.R. 5118 is a multi-million dollar bailout of local public and commercial interests at the expense of Federal taxpayers throughout the nation. It is a prime example of serious misuse of Federal funds. It asks the Federal Government to pay the settlement share of the mining companies and other local water users whose share should more properly be borne by the defendants themselves.
+I therefore must return this legislation to you without my approval. I will only approve legislation that implements a true negotiated settlement. Such a settlement is one in which all parties that are making contributions or concessions have agreed to those contributions or concessions at the negotiating table. I look forward to receiving such legislation from the Congress. I am asking the Secretary of the Interior to coordinate participation by my Administration in any such negotiations.
+RONALD REAGAN. THE WHITE HOUSE, June 1, 1982.
+The SPEAKER. The objections of the President will be spread at large upon the Journal, and the message and bill will be printed as a House document.
+Mr. UDALL. Mr. Speaker, I ask unanimous consent that further consideration of the veto message of the President on the bill, H.R. 5118, be postponed until Thursday, June 10, 1982.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+Mr. WALKER. Mr. Speaker, reserving the right to object, do I under-stand that the joint leadership has decided to postpone this, and that this is agreeable with the leadership on our side as well as the leadership on the gentleman's side?
+Mr. UDALL. Yes.. Mr. Speaker, if the gentleman will yield, we have cleared it in committee with the leadership on the gentleman's side, and they have no objection to this 8-day delay rather than trying to act today without being prepared.
+Mr. WALKER. The 8-day delay would put it on a date certain, then, if this matter is taken up before the House?
+Mr. UDALL. On next Thursday, a week from tomorrow, June 10.
+Mr. WALKER. Mr. Speaker, I with-draw my reservation of objection. The SPEAKER. Is there objection to the request from the gentleman from Arizona?
+There was no objection.
+MILITARY WIDOWS AND SURVIVING CHILDREN BENEFITS RESTORATION ACT
+(Mr. MONTGOMERY asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)
+Mr. MONTGOMERY. Mr. Speaker, today, I am introducing two bills to re-store benefits to widows and children of certain veterans who were killed while on active duty in Vietnam.
+The benefits which would be re-stored were paid under the provisions of the Social Security Act prior to the Budget Reconciliation Act of 1981 (Public Law 97-35). One of the bills I am introducing would require the branch of the Armed Forces in which the veteran served to pay the benefits. The other bill would require that the benefits be paid by the Social Security Administration. It only seems fair to the families of those killed in Vietnam that these benefits be restored.
+One of the provisions of the Budget Reconciliation Act ended entitlement to social security benefits for a surviving parent caring for a child or children when the youngest child reaches 16 rather than 18. This provision of the social security program is generally referred to as a mother's benefit. The mother's benefit provision took effect in September 1981, but did not include, for an additional 2 years after the effective date, those who were receiving the benefit in August 1981.
+Another provision of the Budget Reconciliation Act has ended or reduced educational social security benefits effective August 1, 1982, paid to adult children ages 18 through 22 who are taking postsecondary education courses. Effective August 1, 1982, no payments are permitted past age 18 for a child attending college or taking higher education, or past age 19 for a child attending high school. Payments to children on the date of enactment are being gradually reduced or phased out over a 4-year period which began on May 1, 1982.
+Later on, I will make available a more detailed explanation of these two bills in the CONGRESSIONAL RECORD and hope that many of you will join me in cosponsoring these two measures which are intended to provide justice and equity for the survivors of those who gave their lives for their country.
+HeinOnline- 128 <title>Cong. Rec.</title> 12736 1982
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+ <bibl><ref target="PV2398.02.pdf"><title>Congressional Record</title> 128, 13352</ref> (1982).</bibl>
+<!-- <floatingText>
+<body>
+13352	CONGRESSIONAL RECORD — HOUSE	June 10, 1982
+cially struck gold medal to Adm. Hyman George Rickover;
+H.R. 5566. An act authorizing appropriations to the Secretary of the Interior for services necessary to the nonperforming arts functions of the John F. Kennedy Center for the Performing Arts, and for other purposes;
+H.R. 5659. An act to authorize the Smithsonian Institution to construct a building for the National Museum of African Art and a center for Eastern art together with structures for related educational activities in the area south of the original Smithsonian Institution Building adjacent to Independence Avenue at 10th Street SW., in the city of Washington; and
+H.R. 6132. An act to amend section 5590 of the Revised Statutes to provide for adjusting the rate of interest paid on funds of the Smithsonian Institution deposited with the Treasury of the United States as a permanent loan.
+The message also announced that the Senate had passed a joint resolution of the following title, in which the concurrence of the House is re-quested:
+S.J. Res. 201. Joint resolution designating "Baltic Freedom Day."
+The message also announced that Mr. JOHNSTON be excused as a conferee, on the part of the Senate, on the bill (H.R. 5922) entitled "An act making urgent supplemental appropriations for the fiscal year ending September 30, 1982, and for other purposes"; also Mr. SPECTER and Mr. LEAHY be additional conferees, on the part of the Senate, to the above-entitled bill.
+^ 1020
+THE REVEREND CARLETON C.
+ROGERS
+(Mr. McCLORY asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)
+Mr. McCLORY Mr. Speaker, our guest chaplain in the U.S. House of Representatives this morning is a longtime personal friend. Dr. Carleton Rogers, minister of the First United Methodist Church of Elgin in my congressional district serves a large congregation of Methodists and assumes an even larger role of spiritual and civic leadership in the Kane County area of my congressional district in Illinois.
+For some years before I undertook a career of public service, Dr. Rogers was the minister of Grace Methodist Church in my hometown of Lake Bluff, Ill. Dr. Rogers and his wife Eleanor and their children had a close relationship with my wife and our children. Now for the past 32 years, Dr. Rogers has served the First United Methodist Church in Elgin where during the past 11 years, he has spear-headed an annual interfaith service which has brought together Protestants, Catholics, and Jews, as well as church representatives from various ethnic and racial groups, to share a common service of faith and spiritual dedication.
+I know that I echo the sentiments of all my colleagues in the U.S. House of Representatives in expressing appreciation for Dr. Rogers' opening prayer of love and healing, and we welcome him and his wife Eleanor here today.
+SOUTHERN ARIZONA WATER RIGHTS SETTLEMENT ACT OF 1982—VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+The SPEAKER. The unfinished business is the further consideration of the veto message of the President of the United States on the bill (H.R. 5118) to provide water to the Papago Tribe of Arizona and its members, to settle Papago Indian water rights claims in portions of the Papago reservations, and for other purposes.
+Mr. UDALL. Mr. Speaker, I ask unanimous consent that the veto message of the President, together with the accompanying bill, H.R. 5118, be referred to the Committee on Interior and Insular Affairs.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+Mr. DAUB. Mr. Speaker, reserving the right to object, I wish to state only that there is no objection from this side.
+Mr. Speaker, I withdraw my reservation of objection.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+There was no objection.
+FIRST CONCURRENT RESOLUTION ON THE BUDGET—FISCAL YEAR 1983
+Mr. PEPPER. Mr. Speaker, by direction Of the Committee on Rules, I call up House Resolution 496 and ask for its immediate consideration.
+The Clerk read the resolution, as follows:
+H. RES. 496
+Resolution providing for the consideration of the concurrent resolution (H. Con. Res. 352) revising the congressional budget for the United States Government for the fiscal year 1982 and setting forth the congressional budget for the United States Government for the fiscal years 1983, 1984, and 1985
+Resolved, That upon the adoption of this resolution it shall be in order, section 305(a)(1) of the Congressional Budget Act of 1974 (Public Law 93-344) to the contrary notwithstanding, to move that the House re-solve itself into the Committee of the Whole House on the State of the Union for the consideration of the concurrent resolution (H. Con. Res. 352) revising the congressional budget for the United States Government for the fiscal year 1982 and setting forth the congressional budget for the United States Government for. the fiscal years 1983, 1984, and 1985, and the first reading of the resolution shall be dispensed with. General debate in the Committee of the Whole on said resolution shall continue not to exceed two hours, with not to exceed one hour equally divided and controlled as provided in section 305(a)(2) of the Congres-sional Budget Act and not to exceed one hour for debate on economic goals and policies as provided in section 305(a)(3) of the Congressional Budget Act. No amendment to the resolution shall be in order except the amendment in the nature of a substitute printed in the Congressional Record of June 8, 1982, by Representative Latta of Ohio, said amendment shall be in order any rule of the House to the contrary notwithstanding and shall be considered as having been read, and said amendment shall be debatable for not to exceed one hour, to be equally divided and controlled by the chair-man and ranking minority member of the Committee on the Budget. Said amendment shall not be subject to amendment except for a substitute consisting of the text of the amendment in the nature of a substitute printed in the Congressional Record of June 8, 1982, by Representative Jones of Oklahoma, said amendment shall be in order any rule of the House to the contrary notwithstanding and shall be considered as having been read and said amendment shall not be subject to amendment but shall be debatable for not to exceed one hour, to be equally divided and controlled by the chairman and ranking minority member of the Committee on the Budget. The resolution shall not be subject to a demand for a division of the question in the House pending final adoption. It shall also be in order to consider the amendment or amendments provided in section 305(a)(6) of the Congressional Budget Act of 1974 necessary to achieve mathematical consistency. Upon the adoption of H. Con. Res. 352, the concurrent resolution S. Con. Res. 92 shall be considered to have been taken from the Speaker's table, to have been amended with an amendment in the nature of a substitute consisting of the text of H. Con. Res. 352 as adopted by the House, to have been adopted by the House as so amended, and the House shall be considered to have insisted on its amendment to S. Con. Res. 92 and to have requested a conference with the Senate thereon; the Speaker shall then appoint conferees without intervening motion.
+
+^ 1030
+POINT OF ORDER
+Mr. WALKER. Mr. Speaker, I re-serve a point of order against consideration of the rule.
+The SPEAKER. The gentleman has to state his point of order. There is no reserving a point of order against consideration of a report from the Committee on Rules.
+Mr. WALKER. Mr. Speaker, I re-quest a point of order against the legislation' for the fact that it puts in order consideration of a bill which, if passed, would violate the law of the land; namely, Public Law 95-435; and that the rule provides no waiver for that particular violation of law, nor does the resolution that we will be taking up provide any waiver of that law.
+So, therefore, Mr. Speaker, we will be considering a rule and legislation which would be in direct contraven-tion of a law which was reaffirmed by this House yesterday by a vote of 375 to 7.
+Mr. Speaker, I would demand a ruling on my point of order.
+The SPEAKER. Does the gentleman from Florida (Mr. PEPPER) wish to speak on the point of order?
+
+</body></floatingText> -->
+
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

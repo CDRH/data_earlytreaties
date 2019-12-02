@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1054">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1054	H.R. 9160 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1054</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-19</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+<text>
+<body>
+<div1 type="stub">
+<head>1054	H.R. 9160 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</head>
+
+<p>Authorizing certain Indian tribes and bands or any of them residing in the State of Washington submit to the Court of Claims certain claims growing out of treaties, and otherwise.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 68th Congress had adjourned sine die on March 3, 1925.  The bill was presented to the President on February 21, 1925 (February 21, 1925, H. Jour., p. 295; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 42).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 228.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV1054.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1925).  68th Congress, 2nd session, p. 295 (<title>Serial Set </title>8387).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>HOUSE OF REPRESENTATIVES
+OF THE UNITED STATES</head>
+<head>SIXTY-EIGHTH CONGRESS
+SECOND SESSION</head>
+<head>BEGUN AND HELD AT THE CITY OF WASHINGTON: DECEMBER 1, 1924</head>
+<head>IN THE ONE HUNDRED AND FORTY-NINTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES</head>
+<pb n="295" />
+<fw> 1925	HOUSE OF REPRESENTATIVES	295 </fw>
+<p>On February 21, 1925:</p>
+<p>H. R. 166. An act authorizing the Secretary of the Interior to issue patent to the city of Redlands, Calif., for certain lands, and for other purposes;</p>
+<p>H. R. 27. An act to compensate the Chippewa Indians of Minnesota for timber and interest in connection with the settlement for the Minnesota National Forest;</p>
+<p>H. R. 6436. An act for the relief of Isidor Steger;</p>
+<p>H. R. 5612. An act to authorize the addition of certain lands to the Mount Hood National Forest;</p>
+<p>H. R. 5170. An act providing for an exchange of lands between Anton Hiersche and the United States in connection with the North Platte Federal irrigation project;</p>
+<p>H. R. 4825. An act for the establishment of industrial schools for Alaskan native children, and for other purposes;</p>
+<p>H. R. 6853. An act to relinquish title of the United States to the land in the preemption claim of William Wekley, situate in the county of Baldwin, State of Alabama:</p>
+<p>H.R.6695. An act authorizing the owners of the steamship
+<hi rend="italic">Malta Mara</hi> to bring suit against the United States of America; </p>
+<p>H. R. 6651. An act to add certain lands to the Umatilla, Wallowa, and Whitman National Forests in Oregon;</p>
+<p>H. B. 8410. An act to change the name of Third Place NE. to Abbey Place:</p>
+<p>H. R. 8438. An act granting the consent of Congress to the county of Allegheny. Pa., to construct a bridge across the Monongahela River from Cliff Street, McKeesport, to a point opposite in the city of Duquesne;</p>
+<p>H. R. 8366. An act to add certain lands to the Santiam National Forest;</p>
+<p>H. R. 8333. An act to restore homestead rights in certain cases:</p>
+<p>H. R. 8298. An act for the relief of Byron S. Adams:</p>
+<p>H. R. 8267. An act for the purchase of land adjoining Fort Bliss, Tex.:</p>
+<p>H. R. 8226. An act granting relief to the First State Savings Bank, of Gladwin. Mich.;</p>
+<p>H. R. 8169. An act for the relief of John J. Dobbertin; </p>
+<p>H. R. 7780. An act for the relief of Fred J. La May;</p>
+<p>H. R. 7631. An act for the relief of Charles T. Clayton and
+others;</p>
+<p>H. R. 11952. An net to authorize the exchange of certain patented lands in the Rocky Mountain National Park for Government lands in the park</p>
+<p>H. R. 11668. An act granting consent of Congress to the States of Missouri, Illinois, and Kentucky to construct, maintain, and operate bridges over the Mississippi and Ohio Rivers at or near Cairo. Ill., and for other purposes;</p>
+<p>H.R. 11500. An act to amend an act entitled "An act to consolidate national forest lands";</p>
+<p>H. R. 11445. An act to amend the national defense act;</p>
+<p>H. R. 11255. An act granting the consent of Congress to the
+Kanawha Falls Bridge Co. (Inc.) to construct a bridge across
+the Kanawha River at Kanawha Falls, Fayette County, W. Va.; </p>
+<p>H. R. 4522. An act to provide for the completion of the topo-
+graphical survey of the United States:</p>
+<p>H. J. Res. 342. Joint resolution to authorize the appointment of an additional commissioner on the United States Lexington-Concord Sesquicentennial Commission ;</p>
+<p>H. R. 11214. An act to amend an act regulating the height of buildings in the District of Columbia, approved June 1, 1910, as amended by the act of December 30, 1910;</p>
+<p>H. R. 11030. An act to revive and reenact the act entitled "An act authorizing the construction, maintenance, and operation of a private drawbridge over and across Lock No. 4 of the canal and locks, Willamette Falls, Clackamas County, Oreg.," approved May 31. 1921;</p>
+<p>H. R. 10596. An act to extend the times for commencing and completing the construction of a dam across the Red River of the North ;</p>
+<p>H. R. 10590. An act authorizing the Secretary of the Interior to sell certain land to provide funds to be used in the purchase of a suitable tract of land to be used for cemetery purposes for the use and benefit of members of the Kiowa, Comanche, and Apache Tribes of Indians;</p>
+<p>H. R. 10412. An act granting the consent of Congress to the Pittsburgh, Cincinnati, Chicago & St. Louis Railroad Co., its successors and assigns, to construct a bridge across the Little Calumet River;</p>
+<p>H. R.10411. An act granting desert-land entrymen an extension of time for making final proof;</p>
+<p>H.R.10348. An act authorizing the Chief of Engineers of the United States Army to accept a certain tract of land from Mrs. Anne Archbold donated to the United States for park purposes;</p>
+<p>H. R.10143. An act to exempt from cancellation certain desert-land entries in Riverside County, Calif.;</p>
+<p>H. R. 9700. An act to authorize the Secretary of State to enlarge the site and erect buildings thereon for the use of the diplomatic and consular establishments of the United States in Tokyo, Japan;</p>
+<p>H. R.9688. An act granting public lands to the city of Red Bluff, Calif., for a public park;</p>
+<p>H. R. 9537. An act to authorize the Secretary of Commerce to transfer to the city of Port Huron, Mich., a portion of the Fort Gratiot Lighthouse Reservation, Mich.;</p>
+<p>H.R.9495. An act granting to the State of Oregon certain lands to be used by it for the purpose of maintaining and operating thereon at fish hatchery;</p>
+<p>H.R.9160. An act authorizing certain Indian tribes and hands, or any of them, residing in the State of Washington, to submit to the Court of Claims certain claims growing out of treaties and otherwise;</p>
+<p>H. R.9028. An art to authorize the addition of certain lands to the Whitman National Forest;</p>
+<p>H. R. 4114. An act authorizing the construction of a bridge across the Colorado River near Lee Ferry, Ariz.;</p>
+<p>H. R. 2716. An act to amend paragraph 20 of section 24 of the Judical code as amended by act of November 23, 1921, entitled "An act to reduce and equalize taxation, to provide revenue. and for other purposes";</p>
+<p>H. R. 3927. An act granting public lands to the town of Silverton, Colo., for public-park purposes;</p>
+<p>H. H. 2720. An act to authorizing the sale of lands in Pittsburgh, Pa.;</p>
+<p>H. R.2689. An act to consolidate certain lands within the Snoqualmie National Forest; and</p>
+<p>H.R.2419. An act for the relief of Michael Curran ; And then,</p>
+
+<head>ADJOURNMENT</head>
+<p>On motion of Mr. Longworth, at 5 o'clock and 40 minutes p. m., the House adjourned.</p>
+
+<head>REPORTS OF COMMITTEES ON PUBLIC BILLS AND RESOLUTIONS</head>
+<p>Under clause 2 of Rule XIII,</p>
+<p>Mr. Foster: Committee on the Judiciary. S. 3406. An act relating to the use or disposal of vessels or vehicles forfeited to the United States for violation of the customs laws or the national prohibition act, and for other purposes; without amendment (Kept. No. 1551). Referred to the Committee of the Whole House on the state of the Union.</p>
+<p>Mr. Temple: Committee on Foreign Affairs. H. J. Res. 365. A joint resolution to provide for the expenditure of certain funds received and to be received from the Persian Government for the education in the United States of Persian students; without amendment (Rept. No. 1552). Referred to the Committee of the Whole House• on the state of the Union.</p>
+<p>Mr. Parks of Arkansas: Committee on Interstate and Foreign Commerce. </p>
+<p>H. R. 12247. A bill granting the consent of Congress to the Yell and Pope County bridge district. Dardanelle and Russellville, Ark., to construct, maintain, and operate a bridge across the Arkansas River, at or near the city of Dardanelle, Yell County, Ark.; with amendments (Kept. No. 1553). Referred to the House Calendar.</p>
+<p>Mr. Parks of Arkansas ; Committee on Interstate and Foreign Commerce. H. R. 12266. A bill granting the consent of Congress to authorize R. L. Gaster, his successors and assigns, to constuct a bridge across the White River ; with an amendment (Rept. No. 1554). Referred to the House Calendar.</p>
+<p>Mr. Parks of Arkansas : Committee on Interstate and Foreign Commerce. H. It. 12297. A bill granting the consent of Congress to the county of Jackson,- Ark., to construct, maintain, and operate a bridge across the White River at or near the city of Newport, in the county of Jackson, in the State of Arkansas; without amendment (Rept. No. 1555). Referred to the 'House Calendar.</p>
+<p>Mr. Gilbert: Committee on the District of Columbia. H. R. 12214. A bill to authorize the closing of a part of Thirty-fourth Place NW. and to change the permanent system of high-ways plan of the District of Columbia, and for other purposes ; without amendment (Rept. No. 1556). Referred to the House Calendar.</p>
+<p>Mr. Rathbone: Committee on the District of Columbia. S. 4207. An act to provide for the regulation of motor-vehicle traffic in the District of Columbia, increase the. number of judges of the police court, and for other purposes ; without amendment (Kept. No. 1557). Referred to the Committee of the Whole House on the state of the Union.</p>
+<p>Mr. Newton of Minnesota: Committee on Interstate and Foreign Commerce. H. R. 12264. A bill granting the consent of</p>
+
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV1054.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 42 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d Session	HOUSE OF REPRESENTATIVES J DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<unclear>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</unclear>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> 42	REPORT ON POCKET VETO </fw>
+<p>H. R. 13329, An Act to authorize the Secretary of War to transfer certain surplus material, machinery, and equipment to the Department of Agriculture, and for other purposes.</p>
+<p>66th Congress, 2nd Session.</p>
+<p>At the end of the 66th Congress, third session, which adjourned March 4, 1921, the Senate legislative day of March 2 and the House legislative day of March 3 (<title>Cong. Rec.</title>, vol. 60, pt. 4, pp. 4532, 4546) President Wilson retained unsigned one Senate and four House bills. All of these bills are now at the Executive Offices. The only marks on the bills or on attached memoranda are as follows:</p>
+<p>S. 3695 and H. R. 13558 are unstamped.</p>
+<p>H. R. 1856 is stamped as received Feb. 26, 1921. </p>
+<p>H. R. 14461&#8212;received Feb. 28, 1921.</p>
+<p>H. R. 15943&#8212;received March 3, 1921.</p>
+<p>At the end of the 67th Congress, second session, which adjourned September 22, 1922 (<title>Cong. Rec.</title>, vol. 62, pt. 12, pp. 13142, 13183) President Harding retained unsigned H. R. 10672. It is stamped as received at the White House September 15, 1922. It is now at the Executive Offices.</p>
+<p>At the end of the 68th Congress, second session, which adjourned March 4, 1925, the Senate legislative day of February 26 and the House legislative day of March 3, (<title>Cong. Rec.</title>, vol. 66, pt. 5, pp. 5521, 5623) President Coolidge retained unsigned one Senate and three House bills.</p><p> S. 4301 and H. R. 6442 are stamped as received March 2. H. R. 9160 is stamped February 21. H. R. 9343 is stamped February 24. These bills are now at the Executive Offices. There are no marks on any of them except the stamps. To H. R. 9343 is attached a slip which says "Veto Recommended."</p>
+<p>At the end of the 69th Congress, first session, which adjourned July 3, 1926 (<title>Cong. Rec.</title>, vol. 67, pt. 11, pp. 13009, 13100) President Coolidge retained unsigned two Senate and three House bills.</p>
+<p>S. 3185 is marked as received Jun 34 1926.</p>
+<p>S. 3999&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>S. 3999
+No</p>
+<p>Recommend veto</p>
+<p>J. G. S.</p></hi>
+<p>H. R. 534&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>Secretary of War recommends</p>
+<p>Veto</p></hi>
+<p>H. R. 6087&#8212;received June 30.</p>
+</body>
+</floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

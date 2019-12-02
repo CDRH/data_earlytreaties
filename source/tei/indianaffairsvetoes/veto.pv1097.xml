@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1097">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1097	H.R. 16985 (Seventieth Congress, Second Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1097</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventieth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1097	H.R. 16985 (Seventieth Congress, Second Session &#8212; Coolidge)</head>
+
+<p>Authorizing the Uintah, Uncompaghre, and the White River Bands of the Ute Indians in Utah and Colorado, and the Southern Ute and the Ute Mountain Bands of Indians in Utah, Colorado, and New Mexico, to sue in the Court of Claims.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 70th Congress had adjourned sine die on March 3, 1929.  The bill was presented to the President on March 2, 1929 (70 <title>Cong. Rec.</title> 5098).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 237.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1097.01.pdf"><title>Congressional Record</title> 70, 5098</ref> (1929).</bibl>
+<!-- <floatingText>
+<body>
+<head>5098	CONGRESSIONAL RECORD HOUSE	MARCH 2</head>
+<p>H. R. 16490. An act to extend the times for commencing and completing the construction of a bridge across the Kanawha River at or near St. Albans, Kanawha County, W. Va.;</p>
+<p>H. R. 16531. An act to extend the times for commencing and completing the construction of a bridge across the Ohio River at or near Golconda, Ill.;</p>
+<p>H. R. 16533. An act to authorize the American Legion, Department of New Jersey, to erect a memorial chapel at the naval air station, Lakehurst, N. J.;</p>
+<p>H. R.16603. An act to extend the times for commencing and completing the construction of a bridge across the Cumberland River at or near Arat, Cumberland County, Ky.;</p>
+<p>H.R. 16604. An act to extend the tallies for commencing and completing the construction of a bridge across the Cumberland River at or near Center Point, in Monroe County, Ky.;</p>
+<p>H. R. 16605. An act to extend the times for commencing and completing the construction of a bridge across the Cumberland River at or near Creelsboro, in Russell. County, Ky.;</p>
+<p>H. R. 16606. An act to extend the times for commencing and completing the construction of a bridge across the Cumberland River at or near Keelys Perry, in Cumberland County, Ky.;</p>
+<p>H. R. 16609. An act extending the times for commencing and completing the construction of a bridge across the Ohio River at Sistersville, Tyler County, W. Va.;</p>
+<p>H. R. 16610. An act to extend the times for commencing and completing the construction of a bridge across the Mississippi River at or near Chester, Randolph County, Ill.;</p>
+<p>H. R. 16659. An act to authorize an appropriation to pay one-half the cost of a bridge on the Cheyenne River in the State of South Dakota; </p>
+<p>H. R,. 16660. An act to authorize an appropriation to pay one-half the cost of a bridge on the Cheyenne River Indian Reservation in South Dakota;</p>
+<p>H. R. 16714. An act making appropriations for the Navy Department and the naval service for the fiscal year ending June 30, 1930, and for other purposes;</p>
+<p>H. R.16719. An act granting the consent of Congress to the city of Chattanooga and the county of Hamilton, Tenn., to construct, maintain, and operate a bridge across the Tennessee River at or near Chattanooga, Hamilton County, Tenn.;</p>
+<p>H. R. 16725. An act authorizing L. L. Thompsen, his heirs, legal representatives, and assigns, to construct, maintain, and operate a bridge across. the Red River at or near Montgomery, La.</p>
+<p>H. R. 16791. An act to extend the times for commencing and completing the construction of a bridge across the Monongahela River at or near Point Marion, Pa.;</p>
+<p>H. R. 16818. An act to extend the times for commencing and completing the construction of a bridge across the Ohio River at or near Wellsburg, W. Va.;</p>
+<p>H. R. 16824. An act to extend the times for commencing and completing the construction of a bridge across the Missouri River at or near Kansas City, Kans.;</p>
+<p>H. R. 16867. An act for the relief of H. E. Jones;</p>
+<p>H. R.16985. An act authorizing the Uintah, Uncompahgre, and the White River Bands of the Ute Indians in Utah and Colorado and the Southern Ute and the Ute Mountain Bands of Ute Indians in Utah, Colorado, and New Mexico to sue in the Court of Claims;</p>
+<p>H.R. 16988. An net to legalize the sewer outlet in the Allegheny River at Thirty-second Street, Pittsburgh, Pa.; </p>
+<p>H.R.17001. An act for the relief of Capt. Walter R. Gherardi, United States Navy ;</p>
+<p>H. R. 17020. An act to extend the times for commencing and completing the construction of a bridge across Lake Champlain at or near Rouses Point, N. Y.;</p>
+<p>H. R. 17023. An act to extend the times for commencing and completing the construction of a bridge across Lake Champlain at or near East Alburg, Vt ;</p>
+<p>H. R. 17079. An act to repeal the provision in the act of April 30, 1908, and for other legislation limiting the annual per capita cost in Indian schools ;</p>
+<p>H. J. Res. 368. Joint resolution providing more economical and improved methods for the publication and distribution of the Code of Laws of the United States and of the District of Columbia, and supplements;</p>
+<p>H. J. Res. 377. Joint resolution authorizing the erection on public grounds in the District of Columbia of a monument or memorial to Oscar S. Straus ; and</p>
+<p>H. J. Res. 431. Joint resolution providing for an investigation of Grover M. Moscowitz, United States district judge for the eastern district of New York.</p>
+<head>EXTENSION OF REMARKS</head>
+<head type="sub">RESOLUTIONS REGARDING UNEMPLOYMENT IN ST. LOUIS, MO.
+</head>
+<p>Mr. COCHRAN of Missouri. Mr. Speaker, a resolution adopted by the Central Trades and Labor Union of St. Louis,
+Mo., in reference to unemployment has just been brought to my attention. I have known that the unemployment situation in my home city has been serious, but I am rather alarmed by the conditions revealed in this resolution. I have been asked to call this matter to the attention of the Congress, and I therefore take the opportunity under leave to print granted me to incorporate the resolution as part of my remarks. I am personally acquainted with Mrs. Mary Ryder, William J. Fitzmaurice, W. G. Gibbons, and J. P. Altheide, who presented the resolution, and can assure you that before placing their names on any document they would be in possession of facts which would prevent anyone disputing their views.</p>
+<p>My mail has clearly indicated that tells of thousands of our citizens are really in distress and unable to secure the necessities of life for their families, due to their inability to secure work.</p>	
+<p>It seems to me the Congress of the United States should meet this situation before it reaches a more advanced stage. We have authorized the construction of and appropriated money for large building programs. If all the work contemplated by the Government was started at once, it would go a long way to alleviate those who the resolution state are not only suffering but are unwillingly idle.</p>
+<p>Under this great public-building program hundreds of millions are at the disposal of the building commission. As an example of the delay in prosecuting this work, let me cite the condition in St. Louis. The Congress has authorized and appropriated the money for a new public building in St. Louis. The building commission agrees an emergency exists. This money was placed in their hands in May, 1928, and up to this time no agreement has been reached as to where the new building is to be located. When this new building is constructed, provided it is not placed on the present site. then the old Federal building will be sold and a modern building erected on that block of ground. The two projects will mean an expenditure of from twelve to fifteen million dollars. Surely the commission can advance no sound reason for not selecting a site. It is true there has been a difference of opinion as to where the new Government building should be located, but when Congress passed the present public building law it removed polities from the building program, and this commission should now decide, with the information it has at hand, where to place the building and start construction without further delay.</p>
+<p>Then you have the hospital building program of the Veterans' Bureau. The projects have been authorized and millions appropriated to start immediate construction. It was last spring that these projects were assured by the action of Congress. Nevertheless, you find few buildings started, and in many in-stances the sites have not been chosen. There is no excuse for such delay. The Director of the Veterans' Bureau admits additional beds are needed in the district which includes St. Louis. Money has been set aside and is available to build an addition to the hospital at Excelsior Springs, Mo. Nearly a million is ready for this purpose. Are they spending it? No. They say it will be July, 1931, or after before that project is completed. Why not start it now? It is admitted it is needed, the money is available, and the proper legislation enacted.</p>
+<p>The War Department is authorized to spend millions for improvements at Army hosts. This work should be started at once.</p>
+<p>Rivers and harbors are to be improved. Flood-control work is to go on. Why not speed up the programs if a thorough investigation discloses the unemployment situation is as alarming as this resolution insists it is.</p>
+<p>If every Member of Congress will make a survey in his district between now and the time the special session is called, information will be available from the entire country on unemployment. It is a problem that must be solved, and the Congress is in a position to solve it by speeding up projects already authorized and advancing additional funds for other work which has been agreed upon but not started.</p>
+<p>The Government has an annual rental bill that is astonishing. Our Government is a permanent institution and there is no sound argument why it should not own the buildings it occupies for its agencies. Statistics will show that people who lease post-office buildings to the Government are permitted a rental paying anywhere from 15 to 22 per cent on their investment. While the contracts are for 10 years, there are specific provisions which enable the Government to secure a release any time it is desired. The Government can borrow money for as low as 4 per cent. Would it not be good business to pass legislation which would enable the Government to borrow a sufficient amount to construct buildings? The amount now being paid in rentals would be almost sufficient to pay the interest.</p>
+<p>The resolution adopted by the Central Trades rind Labor Union of St. Louis, an organization affiliated with the American</p>
+
+
+
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

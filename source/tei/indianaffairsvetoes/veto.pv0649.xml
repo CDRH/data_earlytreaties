@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0649">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">649	S. 712 (Fifty-first Congress, Second Session &#8212; Harrison)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0649</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Harrison</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-first Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>649	S. 712 (Fifty-first Congress, Second Session &#8212; Harrison)</head>
+
+<p>For the relief of the Stockbridge Tribe of Indians, in the State of Wisconsin.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 51st Congress had adjourned sine die on March 3, 1891.  The bill was presented to the President on February 23, 1891 (February 23, 1891, S. Jour., p. 169; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 33).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 143.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0649.01.pdf">Journal of the Senate of the United States</ref>.  (1891).  51st Congress, 2nd session, p. 169 (<title>Serial Set</title> 2817).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+SENATE OF THE UNITED STATES OF AMERICA,
+BEING THE
+SECOND SESSION OF THE FIFTY-FIRST CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 1, 1890,
+IN THE ONE HUNDRED AND FIFTEENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+<head type="sub">WASHINGTON
+GOVERNMENT PRINTING OFFICE.
+1890.</head>
+<fw> 1891.	JOURNAL OF THE SENATE.	169 </fw>
+<p>and to extend the protection of the laws of the United States over the Indians, and for other purposes."</p>
+<p>The Speaker of the House of Representatives having signed seventeen enrolled bills, H. R. 7146, H. R. 9072, H. R. 9193, II. R. 10858,
+H. R. 11215, IL R. 11913, II. R. 11311, H. R. 1131:s, 1 I. R. 11319, I I. IL
+11454, H. R. 11461, H. R. 11641, IL II. 11877, II. R. 12009, II. R. 12071,
+H. R. 12145, and H. R. 12348, I am directed to bring them to the
+Senate for the signature of its President.</p>
+
+<head>PRESENTATION OF BILLS.</head>
+
+<p>Mr. Farwell reported from the committee that they this day presented to the President of the United States the following enrolled bills:</p>
+<p>S. 671. An net for the relief of Daniel B. Washburn;</p>
+<p>S. 712. An act for the relief of the Stockbridge tribe of Indians, in the State of Wisconsin;</p>
+<p>S. 991. An act for the relief of John Finn;</p>
+<p>S. 4196. All act for the relief of Elizabeth Jones, widow of John Jones, deceased;</p>
+<p>S. 4746. An act for the relief of settlers upon certain lands in the State of Iowa; and</p>
+<p>S. 4749. An act for the relief of the Portland Company.</p>
+
+<head>INTRODUCTION OF BILLS AND JOINT RESOLUTION</head>
+
+<p>Bills and a joint, resolution were introduced, read the first
+second times by unanimous consent, and referred as follows:</p>
+<p>By Mr. Mitchell : A bill (S. 5113) for the relief of William S. Han-cock ; to the Committee on Patents.</p>
+<p>By Mr. Pierce: A bill (S. 5114) for the relief of certain settlers on the public lands: to the Committee on Public Lands.</p>
+<p>By Mr. Daniel: A bill (S. 5115) to provide for the examination and survey for a breakwater to form a harbor of safety and refuge in Lynnhaven Bay, near Cape Henry, at the foot of Chesapeake Bay, Virginia; to the Committee on Commerce.</p>
+<p>By Mr. Casey: A joint resolution (S. 195) directing the Secretary of the Interior to negotiate with the St. Paul, Minneapolis and Manitoba Railway Company, with a view to securing its consent to select other public lands in lieu of certain lands to which it may be entitled under a decision of the Supreme Court rendered on the 22d day of December, 1890; to the Committee on Public Lands.</p>
+<head>ENROLLED BILLS EXAMINED AND SIGNED.</head>
+<p>Mr. Farwell reported from the committee that they had examined and found duly enrolled the following bills:</p>
+<p>H. R. 7146. An act granting a pension to Andrew J. Wallace; H. R. 9072. An act increasing <p>the pension of Alexander Evans;</p>
+H. R. 9493. An act granting a pension to Edwin Cotton, late musician Twenty-fourth Regiment Michigan Volunteer infantry; </p>
+<p>H. R. 10858. An act granting a pension to Mary D. Jones; </p>
+<p>H. R. 11215. An act granting a pension to Joel A. Holdren; </p>
+<p>H. R. 11243. An act granting a pension to Sarah H. Philp;</p>
+<p>H. R. 11311. An act granting an increase of pension to Eugene A. Osborn;</p>
+<p>H. R. 11348. An act to place the name of John W. Younger on the pension roll;</p>
+<p>H. R. 11349. An act to grant a pension to Nancy F. Glenn;</p>
+<p>H. R. 11454. An act increasing the pension of Erastus D. Butler, of Togas, Me.;</p>
+<p>H. R. 11461. An act granting an increase of pension to Washington M. Rice;</p>
+<p>R. 11641. An act granting a pension to Anna S. Shuman; H. R. 11877. An act for the relief of James Branigan ;</p>
+<p>H. R. 12009. An act granting a pension to Martha Tennery, widow of James H. Tennery, of Captain Caitlin's Company, First Illinois, Black Hawk war;</p>
+<p>H. R. 12071. An act granting a pension to Catherine McRoberts; </p>
+<p>H. R. 12145. An act granting an increase of pension to Ed win II. Dill; and</p>
+<p>H. R. 12318. An act granting an increase of pension to William H. Head.</p>
+<p>Whereupon</p>
+<p>The Vice President signed the same and they were delivered to the committee to be presented to the President of the United States. </p>
+<head>INVESTIGATION of AFFAIRS IN ALASKA.</head>
+<p>Mr. Platt submitted the following resolution; which was referred to the Committee to Audit and Control the Contingent Expenses of the Senate:</p>
+<p>Resolved, That the Committee on Territories, or any subcommittee thereof, is hereby authorized to visit Alaska diming the recess of the Senate, and to inquire into the resources thereof, the need of a more efficient system of government, as to the character of the legislation necessary for the development of the district and the protection of its people, and to inquire into any and all matters relating to the welfare of the people of said district.</p>
+<p>Said committee shall have power to send for persons and papers, to employ a stenographer, and shall make report, With recommendations in respect to future legislation, to the next regular session of the Senate.</p>
+<p>The necessary expenses of the committee, stenographer, and wit- nesses shall be paid out of the contingent fund of the Senate, to be certified by the chairman of the committee, and to be audited and allowed by the Committee to Audit and Control the Contingent Expenses of the Senate.</p>
+<head>ST. PAUL, MINNEAPOLIS AND MANITOBA RAILWAY.</head>
+<p>Mr. Pierce submitted the following resolution; which was considered by unanimous consent and agreed to:</p>
+<p>Resolved, That the Committee on Public Lands be, and they are hereby, directed to examine the questions arising under the decision of the Supreme Court, in the case of the St. Paul, Minneapolis and Manitoba Rail way Company vs. Ransom Phelps, and report what legislation is necessary to protect the settlers along the line of said road or remunerate them for the loss of their homes and lands under said decision.</p>
+<head>SELECT COMMITTEE ON IRRIGATION.</head>
+<p>Mr. Stewart submitted the following resolution; which was referred to the Committee to Audit and Control the Contingent Expenses of the Senate:</p>
+<p>Resolved, That the Select Committee on Irrigation and Reclamation of Arid Laois he continued during the coming recess, and that it be allowed to employ a (lei* at $6 per diem, to be paid out of the contingent funds of the Senate.</p>
+
+<head>PARLIAMENTARY HISTORY OF CONGRESS,</head>
+<p>Mr. Frye submitted the following resolution for consideration:</p>
+<p>Resolved, That the Committee on Roles be authorized to examine the manuscript of the Parliamentary History of the Congress of the United States. compiled, edited, and copyrighted by Henry II. Smith, Journal Clerk of the House of Representatives, will report to the Senate as to the advisability of purchasing and printing- the same for the use of Congress.</p>
+<head>CONFERENCE REPORT.</head>
+<p>Mr. Dawes, from the committee of conference on the disagreeing votes of the two Holism; on the amendments of the House of Representatives to the bill (S. 304:1), submitted the following report : The committee of conference on the disagreeing votes of the two Houses on the amendments of the House to the bill (8. 3043) to amend and further extend the benefits of the act approved February 8, 1867, entitled "An act to provide for the allotment of land in severalty to Indians on the various reservations and extend the provisions of the laws of the United States over the Indians," and for other purposes, having met, after full and free conference have agreed to recommend and do recommend to their respective Houses as follows:</p>
+<p>That, the Senate recede from its disagreement to the House amendment and consent to the same with the following amendment: Strike out all after section 1, of such amendment, and insert in lien thereof the following:</p>
+<p>SEC. 2. That where allotments hare been .made in whole or in part upon any reservation under the provisions of said act of February, 1887, and the quantity of land in such reservation is sufficient to give each member of the tribe 86 acres, such allotments shall be revised and equalized under the provisions of this act: Provided, That no allotment heretofore approved by the Secretary of the Interior shall be reduced in quantity.</p>
+<p>SEC. 3. That whenever it shall be made to appear to the Secretary of the interior that, by reason of age or other disability, any allot tee under the provisions of said act or any other act or treaty can not personally and with benefit to himself occupy or improve his allotment or any part thereof the same may be leased spot such terms, regulations, and conditions as shall be prescribed by such Secretary, for a term not exceeding three years for farming or grazing, or ten years for mining purposes : Provided, That where lands are occupied by Indians who have bought and paid for the same, and which lands arc not needed for farming or agricultural purposes, and are not desired for individual allotments, the same may be leased by authority of the council speaking for such Indians, for a period not to exceed fire years for grazing or ten years ,for mining purposes in such quantities and upon such terms and conditions as the agent in charge of such reservation may recommend, subject to the approval of the Secretary of the Interior.</p>
+<p>SEC. 4. That where any Indian entitled to allotment undo' existing laws shall make settlement upon any surveyed or unsurveyed lands of the United States not otherwise appropriated, he or she shall be entitled, upon application to the local land office for the district in which the lands are located, to have the same allotted to him or her and to his or her children, in quantities and manner as provided in the foregoing section of this amending act for Indians residing upon reservations, and when such settlement is made upon unsurveyed lands the grant to such Indians. hall be adjusted upon the survey of the lands so as to conform thereto ; and patents shall be issued to them for such lands in the manner and with the restrictions provided in the act to which this is as amendment. And the fees to which the officers of snap local land office would hare been entitled had such lands been entered under the general laws for the disposition of the public lands shall be photo them from any moneys in the Treasury of the United States not otherwise appropriated upon a statement of an account in their behalf for such fees by the Commissioner of the General Land Office, and a certification of such account to the Secretary of the Treasury by the Secretary of the Interior.</p>
+<p>SEC. 5. That for the purpose of determining the descent of land to the heirs of any deceased Indian under the provisions of the fifth section</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0649.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 33 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+
+ <!-- 
+ <fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES JDOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.—Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<hi rend="right"><signed>CALVIN COOLIDGE.</signed></hi>
+<milestone unit="rule" />
+<hi rend="right"><dateline>DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</dateline></hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO .	33 </fw> <p>where the death was I am afraid much more remotely connected with army disability.</p>
+<p>But I do not feel that I can sign a bill directing a pension he awarded only and expressly upon the theory that death was not chargeable to military service. This would not only make what is called a pension an admitted granting of gifts but would set a precedent of the most dangerous kind and fraught with deplorable results.</p>
+<closer><signed>G. C.</signed>
+<dateline>MCH 2/89</dateline></closer>
+<p>The 51st Congress, first session, adjourned October 1, 1890. (<title>Cong. Rec.</title>, vol. 21, pt. 11, pp. 10773, 10799) President Harrison retained unsigned 10 Senate bills and 1 House bill. They are now at the Executive Offices.</p>
+<p>S. 117 was stamped as received at Executive Mansion Sept. 24, 1890. The President made no marks on the bill nor on any attached memoranda.</p>
+<p>S. 125 was stamped as received Sept. 30. On a printed committee report which is attached to the bill is the penciled notation in handwriting which appears to be that of the President:
+<p>Let it die&#8212;for reasons given in Portland Co. case.</quote></p>
+<p>S. 145. No date stamped on bill. On bill itself in pencil are the words "Let it die." This appears to be in the President's handwriting.</p>
+<p>S. 968. Stamped Sep. 30, 1890. Attached to it is a committee report and on it in pencil in writing which is apparently that of President Harrison are the words "Let this die for reasons given in Portland Co. veto."</p>
+<p>S. 1187. Received September 29. On the committee report which is attached are written the words "Let it die&#8212;Veto in Portland case"</p>
+<p>S. 1552. Received September 26. On a typewritten report which is attached is written in ink in President's handwriting "Let this bill die"</p>
+<p>S. 2531. Received September 29. A typewritten report is attached. On it in pencil in writing which appears to be that of the President are the words "Claimant dead&#8212;Let the bill die"</p>
+<p>S. 270. Received September 30. A committee report is attached. On it in pencil is written "Let Die&#8212;see Portland veto&#8212;"</p>
+<p>S. 3414. Received September 26. There is a typewritten report attached. On it in pencil is written "Let this case die&#8212;"</p>
+<p>S. 3721. There is no date stamped on the bill; and no writing on bill or on any attached paper.</p>
+<p>H. R. 4367. Received September 29. This was approved and signed in ink by the President. Then approval and signature were erased.</p>
+<p>The 51st Congress, second session, adjourned March 4, 1891. Three Senate and eight House bills are unsigned and are now at the Executive Offices.</p>
+<p>S. 395&#8212;received Feb. 28, 1891.</p>
+<p>S. 712&#8212;received Feb. 23.</p>
+<p>S. 4749&#8212;received Feb. 23.</p>
+<p>H. R. 174&#8212;received Mar. 3.</p>
+<p>H. R. 2001&#8212;received Mar. 3. Attached to it is a typewritten report on which is written in pencil "Let it die"</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="convergence">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The quantification of a forced convergence of similar texts:
+ The 1870 and the 1875 <title>Okmulgee Constitution</title> 
+and Levenshtein’s edit distance metric
+</title>
+<author>Charles D. Bernholz</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>convergence</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2012-04-02</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<front>
+<div1>
+    <head type="heading">The quantification of a forced convergence of similar texts:
+ The 1870 and the 1875 <title>Okmulgee Constitution</title> 
+and Levenshtein’s edit distance metric</head>
+
+<milestone unit="crosses"/>
+
+<docAuthor>Charles D. Bernholz<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+
+</div1>
+
+<milestone unit="crosses"/>
+
+<div1>
+<head>Abstract</head>
+
+<p>The <title>Okmulgee Constitution</title>, created in the Creek capital of the Indian Territory in December 1870, provided a model for a new full-fledged and federally supported Indian state to replace the Territory.  In a previous study, the variants of that document’s text from the official and unofficial record were examined through the application of Levenshtein’s edit distance algorithm.  This analysis considers the similarity of the 1870 <title>Constitution</title> and a revision from 1875 through a series of forced convergence maneuvers that more closely aligned the texts of these two already highly correlated instruments.  The Levenshtein procedure was employed to quantify this integration.</p>
+    
+
+
+</div1>
+</front>
+
+<body>
+    <head type="heading">The Quantification of a Forced Convergence of Similar Texts:
+ The 1870 and the 1875 <title>Okmulgee Constitution</title> 
+and Levenshtein’s Edit Distance Metric</head>
+
+<milestone unit="crosses"/>
+
+<div1>
+
+
+<p>The realm of text analysis thrives on a diet of incongruences &#8212; and secretly dreads the potential identicalness &#8212; of two compared texts.  Investigations of such classics as <title>The Canterbury Tales</title> have on occasion been rewarded with an overwhelming dose of the former and just a few manifestations of the latter, due in part it is thought to the general inability of scribes or print setters to replicate the desired array of words.  Indeed, the quest to bring all those <title>Canterbury Tales</title> into register has always been impeded by the disturbing knowledge that the scribes created their own descriptions, without regard for absolute replication of text order, causing at the same time a guaranteed way to fuel further analyses to locate even more disorder among these resources (Spencer, Bordalejo, Wang, Barbrook, Mooney, Robinson, Warnow, and Howe, 2003, pp. 97-98).</p>
+
+<p>While literature may be able to withstand all but the most punitive occurrences of incursions or exclusions or replacements, certain documents may immediately lose their usefulness or purpose if precision is lost.  Pronouncements of religious philosophies and legal documents, for example, would constitute two such instrument families that would be particularly sensitive to distortion.  Nevertheless, the so-called Wicked Bible’s <term>Thou shalt commit adultery</term> blunder in the Seventh Commandment of a 1631 King James Bible rendition is prototypic of such problems (see Gimcrack, 1833, p. 103, and Fig. I).<ref n="1" target="n01">1</ref></p>   
+ 
+<figure>
+<graphic facs="wickedbible.jpg"/>
+<p>Fig. I.  Exodus 20:14, from the King James Bible printed by Robert Barker and Martin Lucas, as Royal Printers to Charles I of England (Image courtesy of Greatsite.com)</p>
+</figure>
+
+<p>Similar syntax discrepancies have emerged in more mundane works from the fields of astronomy (Talcot and Walker, 1839, p. 249n) and of chemistry (Hofmann, 1860, p. 586); in journal articles describing Virginia state statutes (Editorial, 1912); in the areas of music (Martino, 1962), mathematics (see the “printer’s error” in Douglas, 1951), and history (Jeffrey, 1990); and in such unique materials as copies of Christopher Columbus’ letter announcing his discovery of the New World (Jane, 1930); the three hundred editions of <title>The Complet Angler</title> (Oliver, 1947); and one facet of the spelling found in Milton’s works &#8212; the use or omission of the idle final “e”  (Shawcross, 1963).<ref n="2" target="n02">2</ref></p>
+
+<p>Legal documents over the centuries have had their own faults, even if the potential outcomes based on misrepresentations might have been less catastrophic than those that the deviant Wicked Bible commandment might have instigated.  A text analysis inquiry into variants of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (Bernholz and Pytlik Zillig, 2009 and 2011; <title>Laramie</title>) was fruitful and insightful, even if neither the letter nor the spirit of the law was impinged through errors induced during reproduction.  The product of that <title>Laramie</title> review was a final, correct text that incorporated for the first time the original wording from the treaty meeting in western Nebraska and the adjustments imposed by Congress during the ratification process.<ref n="3" target="n03">3</ref>   Further, a recent examination of more than a dozen versions of the <title>Okmulgee Constitution</title> revealed a series of errors that were virtually identical in format to those observed in <title>Laramie</title> (Bernholz, 2011a and b).  Briefly, this instrument was crafted by the Five Civilized and other tribes in the Indian Territory following the Civil War, in response to federal directives to prepare for the establishment of an Indian state to join the Union.<ref n="4" target="n04">4</ref>   The <title>Okmulgee</title> document was discussed and fashioned in a chain of annual meetings that were financed by the government between 1870 and 1875.  In December 1870, the first formal version of this declaration was produced, but ratification by member tribes was not forthcoming.  In 1875, a revision of the <title>Constitution</title> was formulated, with relatively slight adjustments to the main Articles.  Within those earlier studies (Bernholz, 2011a and b), comparisons were made among versions of the 1870 document and of the renditions found in the 1875 adjusted text.  A final test, now discussed here, compared the primary <title>Okmulgee</title> text from 1870 (henceforth, <title>Council</title>; see Appendix I) with the revision from the sixth annual meeting in 1875 (<title>Sixth</title>; see Appendix II) in a process to both quantitatively assess and constructively realign these nearly identical materials.</p>
+
+<div2>
+<head>Levenshtein edit distance algorithm</head>
+
+<p>There exists an effective tool with which to address these kinds of text scenarios.  Several decades ago, Vladimir Levenshtein proposed an algorithm to assess information transfer, where the three operations of deletion, insertion, and substitution may be engaged to correct errors contained in a transmitted string (Levenshtein, 1966).  As a model of this procedure, Soukoreff and MacKenzie (2001) used the two string models <term>quick brown fox</term> and <term>quixck brwn fox</term> as prototypic examples of presented and transcribed texts in such an assessment.  While as many as a half dozen individual errors may be present in this comparison &#8212; established by the failure of the <term>xck br</term> substring to accurately convey the initial <term>ck bro</term> material &#8212; the two most likely errors were the insertion of the character <term>x</term> and the omission of the character <term>o</term>.  These two discrepancies yielded a computed Levenshtein’s edit distance (LED) score of 2 for this test, or for the total number of remedial operations required to first delete the <term>x</term> from the <term>xck</term> constituent, and then to accomplish the insertion of the <term>o</term> in the <term>br</term> fragment.  Identical strings &#8212; here, <term>quick brown fox</term> and <term>quick brown fox</term> &#8212; would require no corrective procedures and would thereby lead to a computed LED score of zero.  Further, any observed LED score must be less than or equal to the maximum length of the two test strings, since replacing an entirely missing sequence with one of length <term>n</term> would require no more than <term>n</term> operations.  Such a state exists when none of the transmitted material is received to be transcribed, as portrayed by the two strings <term>quick brown fox</term> and _____ _____ ___.  The Levenshtein algorithm is very adaptable and has served in many diverse applications, including vehicle travel time measurement scenarios (Takahashi and Izumi, 2006); the development of ontologies (Ginsca and Iftene, 2010); the foundation of spell checking (Kukich, 1992); and for plagiarism software (Zini, Fabbri, Moneglia, and Panunzi, 2006).  However, in text analyses as reported here, these LED scores are particularly intuitive, since any string comparison that supports an LED of zero means complete similarity between the elements in question, while any non-zero returned value immediately identifies disparities <emph>and</emph> the magnitude of such differences.</p>
+
+<p>The application of these LED calculations may be made at two levels.  First, they may be computed at the token or element level.  Two relevant examples are apparent in the test involving the terms <term>dog</term> and <term>dig</term> with its LED score of 1, and in the cumulative score of 14 that is generated in an evaluation of just the first line of Walt Whitman’s 1855 original and of his later 1891 revision of <title>I Sing the Body Electric</title>, i.e., for an assessment that evaluates the variability between “<ref target="http://whitmanarchive.org/published/LG/1855/whole.html">The <term>bodies</term> of <term>men and women</term> engirth me and I engirth them</ref>“ and “<ref target="http://whitmanarchive.org/published/LG/1891/whole.html">The <term>armies</term> of <term>those I love</term> engirth me and I engirth them</ref>.”  In this last scenario, the italicized words mark the four pairs of tokens that induce that LED score of 14 across these twelve elements.</p>
+
+<p>Ascertaining disparities between entire documents is a second option with this tool.  In theory, this approach might facilitate an examination of various edition collections, or of a collation of statutes, or of similar ensembles.  Observed changes in the computed cumulative LED amount found in text exemplars within such comparisons may then stimulate pertinent hypotheses regarding the provenance of those test materials.  Direct quantification of differences &#8212; and then from the imposed endeavors to correct such dissimilarities &#8212; is therefore possible with Levenshtein’s metric.</p>
+</div2>
+
+<div2>
+<head>LED score sensitivity and the <title>Okmulgee Constitution</title> test suite</head>
+<p>Just as in the <title>Laramie</title> study, the test data in this <title>Okmulgee Constitution</title> examination consisted of a vertically aligned joint set of the two published texts, stripped of delimiters and constructed to a uniform length, where a single document’s alignment was augmented if needed by blank pad elements to fill in any absent subsection(s) of that version.  As an example of this adaptation, two parallel texts might consist of the terms <term>two-thirds</term> vs. <term>two thirds</term> which, when placed in these vertical arrays, would require that their element sequences occupy in the first instance just one location, but then two places for the second (see line number 2187-2188 in the Stage V worksheet of <ref target="convergence_table1">Table I</ref>).  A blank pad in <title>Council</title> corresponds to <title>Sixth’s</title> <term>thirds</term> term and thereby aligns the two text segments.  The fundamental or base document &#8212; the <term>two-thirds</term>, or <title>Council</title> one here &#8212; may require padding in order to incorporate text styles from later interpretations, or vice versa:</p>
+
+<table>
+<row><cell>two-thirds</cell><cell>two</cell></row>
+<row><cell></cell><cell>thirds</cell></row>
+</table>
+
+<p>The application of the LED algorithm to these data would compute two edit distance scores, one for each of the <term>two-thirds</term> vs. <term>two</term> and of the <term>[blank]</term> vs. <term>thirds</term> rows, and would return individual values of 7 and 6, respectively, for a cumulative LED of 13.  Note that a contrast between <term>two-thirds</term> and <term>two thirds</term> as two strings instead of two pairs of elements would generate in each instance a cumulative LED of just 1, i.e., for the single character insertion cost of the hyphen separating the two words in each of the target pairs.  The vertical text distribution format employed here thus maximized these potential cumulative LED scores, and so the process was thus very sensitive to disparities.  In addition, Levenshtein’s process as designed returns evidence of <emph>all</emph> text differences, including those of capitalization, but since the main objective of the earlier study was concerned with the contents of the <title>Laramie</title> treaty rather than with their presentation or format, all materials were first normalized to lower case prior to similarity testing in order to reduce unnecessary background noise in these calculations.  These structural parameters were replicated for the <title>Okmulgee</title> data.  Document titles were included as part of each file’s data.</p>
+</div2>
+
+<div2>
+<head>Differences between the 1870 <title>Okmulgee Constitution</title> and the revised version of 1875</head>
+
+<p>Unfortunately, there are no working notes available from the Okmulgee Council meetings that would expose the route taken by the constitution committees to create either of the 1870 or the 1875 renditions.<ref n="5" target="n05">5</ref>   The 1870 instrument was formed very quickly, primarily through the redeployment of subcomponents from previous tribal constitutions.  The production of the 1875 material did not take long either, and the need arose to understand precisely what aspects of the document had been affected during its alteration; Nolen (1980, p. 278) reported that “[t]he new constitution was similar to the 1870 version, as only minor changes were introduced.”<ref target="n06" n="6">6</ref></p>
+
+<p>The LED algorithm has been shown to be a useful implement to distinguish among such variations (regardless of their magnitudes), but in this scenario the tool may be engaged to investigate a more pertinent editorial question: how did the <title>Constitution</title>’s wording change between the 1870 and 1875 models, rather than to what degree was the latter document able to perfectly replicate the original, as had been the original task with the other federal and popular press versions.  In this setting, the detection of substantial disparity between the two instances would advocate a more significant modification of the initial presentation than recounted by Nolen, and since the text lengths of the two were unalike &#8212; 3,826 elements in <title>Council</title> vs. 4,060 in <title>Sixth</title> (see Stage I data in <ref target="convergence_table1">Table I</ref>) &#8212; the necessity to make this inquiry was even more pressing: at a bare minimum, there were those additional 234 tokens to consider in the purposely revised account.<ref target="n07" n="7">7</ref>   There was also the need to perceive that the true element limit of a comparison of these two variants is bounded by the last ten tokens of <title>Council</title> that held the signature block of the President and the Secretary of the constitution sessions.  These ten elements in <title>Council</title> read: <title>Enoch Hoag, Supt. Indian Affairs, President G. W. Greyson, Secretary</title> (<title>Journal of the General Council of the Indian Territory</title>, 1871, p. 57).  Regardless of the contents of the 1875 revision &#8212; especially given the absence of this final authorization by these officials &#8212; a reasonable comparison between these two instruments must terminate with these few concluding elements in <title>Council</title>.  This signature block issue is discussed below.</p>
+
+<p>There is an additional motivation present for the application of the LED approach that rests upon the format of <title>Okmulgee</title> itself.  Aust (2007, pp. 420-452) described the “Drafting and Final Clauses” of treaties.  The structure of these formal considerations is mirrored in constitution instruments like <title>Okmulgee</title>, through the sharing of a preamble, a main text, final clauses, a testimonium, and a signature block.  The formal configuration aids in the systematic presentation of pertinent aspects of a treaty and of a constitution and, with regard to text analysis, it offers a rigid map of that sequence that may afford clues to expected document organization.  Bernholz and Pytlik Zillig (2009 and 2011) demonstrated the use of this rigidity to illuminate the provenance of several variants of <title>Laramie</title>; Bernholz (2001a and b) conducted a similar evaluation of variants of the <title>Okmulgee Constitution</title> that directly stimulated this specific study of the original text and its revision; and Bernholz and O’Grady (2012) assessed renditions of the <title>Royal Proclamation of 1763</title> (noted as <title>Proclamation</title>) found in editions of volume 6 of <title>The Annual Register</title> for the year 1763.  In all cases, the consistency of text, and especially of construction, eased the investigations.  The layout of preamble, and of article and section numbers, greatly reduced text alignment concerns, and promptly made known exclusions, incursions, and replacements.  Such procedural rewards were used in the following quantification of the original and revised texts of <title>Okmulgee</title>.</p>
+</div2>
+
+<div2>
+<head>Analysis stages</head>
+
+<div3>
+<head>Stage I</head>
+
+<p>Under unequal text length circumstances, it might be speculated that an initial side-by-side test for similarity with these raw data would be almost meaningless.  However, such an appraisal would afford one estimate of the maximum number of bytes of dissimilarity.  This proposal is supplemented by the proviso that any meaningful forced convergence must be done with two correlated texts.  In the present case, a test may be made to consider the total cost to replace all tokens in <title>Council</title> with identical elements.  This calculation may be obtained by a comparison between the <title>Council</title> text and a vector of blank pads: the result is 3,826 errors encompassing 18,002 bytes (<seg type="character">x&#773;</seg> = 4.71 bytes/error); other methods of byte counting could also be employed.  This initial <title>Council-[blank]</title> step was followed by an LED analysis of the two unadjusted token vectors of <title>Council</title> and <title>Sixth</title> in order to learn the worst-case conditions for a direct unmodified contrast between the actual published texts of these two instruments.  The outcome of this analysis with these two unaligned files of 4,060 pairs of elements &#8212; rectangularized now by the addition of 234 blank pads in <title>Council</title>, as shown in the data from Stage I of <ref target="convergence_table1">Table I</ref> &#8212; uncovered just 71 identical items, 3,989 dissimilar ones, and 21,813 cumulative bytes of difference (<seg type="character">x&#773;</seg> = 5.47 bytes/error).  Five of those 71 identical tokens (and their 32 bytes) were obtained from the shared title of the documents, <title>Constitution of the Indian Territory</title> (see line number 1-5 in the Stage I vectors).  The errors found in Stage I are highlighted in <ref target="convergence_table1">Table I</ref>, as they are for all other tests.</p>
+
+<p>The sheer absence of similarity in this contrast might convey the incorrect impression that the <title>Council</title> and <title>Sixth</title> documents were not parallel productions.  However, the sixth Okmulgee Council session had reconvened in early May of 1875 with an immediate resolution by delegates for “re-submitting the Okmulgee Constitution to the president of the United States for his action” (<title>Journal of the Sixth Annual Session of the General Council of the Indian Territory</title>, 1875, p. 9).  Even though the members considered the 1870 Council text a “dead issue” (Nolen, 1980, p. 278), text modifications were implemented.  As one indication, article 5, §2 noted that the three Judges were to be “elected by joint ballot of the General Council” (p. 108) instead of by the Governor, as proposed in the same article and section in <title>Council</title> (<title>Journal of the General Council of the Indian Territory</title>, 1871, p. 52). </p>
+</div3>
+
+<div3>
+<head>Stage II</head>
+
+<p>A more adequate understanding of this text’s organization can be acquired if the goal is shifted away from one solely focused on reproducibility and towards the identification and reconstruction of a shared fundamental content.  The presence of any comparable multi-word subsection &#8212; no matter where it might be among the renditions &#8212; would signal that this objective was possible.  Conversely, the inability to edit these materials in a meaningful manner to improve induced similarity would serve as an indication that there was present little beyond random element intersections, an outcome that the initial side-by-side test with the raw texts of <title>Council</title> and <title>Sixth</title> seemingly corroborated.  Given that <title>Sixth</title> was by design a revised version of <title>Council</title>, inspection reveals that there are many articles and sections in these two statements that do contain analogous text, coupled with a number of new relevant discrepancies.  The observations included:</p>
+
+<list>
+<item>The <title>Sixth</title> preamble contained additional elements and it lacked general similarity to the material found in <title>Council</title> (length = 80 tokens);</item>
+<item>In a comparison between the two Article III subdivisions, the failure of the sequential order of the section numbers of similarly worded passages was revealed by the first four sections of <title>Council</title> that run in the order §1, 2, 4, and 3 relative to the corresponding segments in <title>Sixth</title>;</item>
+<item>Section 11 of Article IV in <title>Sixth</title> contained a sequence of statements that departed significantly from the flow of the original portion displayed by <title>Council</title>;</item>
+<item>Article V of <title>Sixth</title> held an extra section, i.e., it displayed a supplementary §13 that affected the actions of judges’ instructions to juries (length = 20 tokens);</item>
+<item>The Declaration of Rights in the <title>Sixth</title> instrument was amended by §14 to express a proviso touching upon religious convictions (length = 58 tokens);</item>
+<item>The 1875 Schedule to the Constitution appended §2 to define the interim mechanics of the administration of oaths of office (length = 25 tokens); and</item>
+<item>Inspection of the revised 1875 <title>Okmulgee Constitution</title> revealed that it did not include the signature block of Enoch Hoag and G. W. Grayson (length = 10 tokens).  This exclusion required that the full length of the proposed <title>Sixth</title> text should be considered at 4,070 instead of at 4,060 tokens in length.</item>
+</list>
+
+<p>This list of discrepancies offers more than just a description of the misalignment of these two text arrangements.  It provides clues to a sequence of actions necessary to reassemble the shared sub-contents that formed the foundation for these materials.  For example, the 244 blanks in <title>Council</title> &#8212; required now to fully rectangularize the raw data (with a shared signature block) in both renditions &#8212; signal that there are at least that many pending adjustments required to coordinate the two texts.  This quantity existed over and above any disparities caused by pairs of already shared elements, as for the element <term>cammission</term> in <title>Council</title> that was later correctly reproduced as <term>commission</term> in <title>Sixth</title> (line number 2074 in Stage V of <ref target="convergence_table1">Table I</ref>), or the token <term>directed</term> in the former that was replaced by <term>regulated</term> in the latter (line number 1762).  The ratio of this quantity of blanks with the total element vector lengths suggests that there was an immediate 6% (= 244/4070) offset of these two instruments caused by the text expansion of <title>Sixth</title>, relative to the original instrument found in <title>Council</title>.</p>
+
+<p>Two lateral inquiries expressed such corrections.  In Stage IIA of <ref target="convergence_table1">Table I</ref>, the two raw preambles, including the documents’ titles, were aligned vertically without shifting or adjustment through padding.  The maximum number of tokens in this subtest was 237, based on the longer <title>Sixth</title> preamble with its 80 extra elements of text.  This contrast test exposed just nine identical tokens, 228 dissimilar items, and a cumulative LED score of 1,227 bytes (<seg type="character">x&#773;</seg> = 5.38 bytes/error).</p>
+
+<p>A second test &#8212; Stage IIB in of <ref target="convergence_table1">Table I</ref> &#8212; was conducted on the same pair of preamble passages, subsequent to token shifting that linked meaningful parallel elements in the two documents.  This vertical sliding of the contents was designed to identify and mirror more closely their shared elements.  This maneuver required an increase in the total length of this assembly to 251 elements, evident from the introduction of 14 blank pads.  Through this test, the LED metric flagged 98 identical elements, 153 different ones, and a cumulative byte disparity of 770 bytes (<seg type="character">x&#773;</seg> = 5.03 bytes/error), thereby providing substantial evidence that the preamble of the 1875 revision had made abundant use of the corresponding original 1870 <title>Council</title> text; the common tokens linked 39% of the total possible parallel pairs.  In addition, this nondestructive rearrangement to the <title>Okmulgee</title> preamble exposed more than ten times as many meaningful element pairs, i.e., the number of coordinated items rose from just nine identical ones out of 237 preamble tokens (3.8%) under the raw text side-by-side conditions (see line number 1-5 [i.e., the document’s title], 25, 60, 95, and 148 in Stage I of <ref target="convergence_table1">Table I</ref>) to 98 similar instances in the new collation of 251 aligned objects (39%).  These vastly different effects provided endorsement of the underlying influence of the 1870 <title>Okmulgee Constitution</title> in the revised work created in 1875.  This confirmation stimulated three further tests.</p>
+</div3>
+
+<div3>
+<head>Stage III</head>
+<p>Stage III in <ref target="convergence_table1">Table I</ref> revised the repositioned preamble tokens and interposed padding in <title>Council</title> to accommodate the addition of the new §13 of <title>Sixth</title>’s Article V, §14 of its Declaration of Rights, and §2 from its Schedule to the Constitution.  The signature block from <title>Council</title> was initially moved to the bottom of that element vector and then copied into <title>Sixth</title> as if the latter also had had such official authorization.  The generated cumulative LED score under these conditions was 2,692 bytes for this file of now 4,104 elements, in which 3,547 were identical and 557 were at odds (<seg type="character">x&#773;</seg> = 4.83 bytes/error).<ref target="n08" n="8">8</ref></p>
+</div3>
+
+<div3>
+<head>Stage IV</head>
+<p>Stage IV adjusted the Stage III material by juxtaposing §§3 and 4 of Article III in <title>Council</title> to match the content arrangement in <title>Sixth</title>.  Under this scenario, the modification to the sequencing of <title>Council</title>’s Article III reduced the total number of errors to 496, accounting for 2,364 bytes of dissimilarity (<seg type="character">x&#773;</seg> = 4.77 bytes/error); see <ref target="convergence_table1">Table I</ref>.  Thus, this repositioning of the flow of the text lowered the number of errors by 61 elements and 328 bytes, relative to the unshuffled variant.</p>
+</div3>
+
+<div3>
+<head>Stage V</head>
+<p>Stage V attempted to realign both editions, where possible, to address the dissimilarities evident in §11 of <title>Sixth</title>’s Article IV.  The number of errors found in the 4,104 element array sank to just 431, or 11% of the entire text, with a cumulative LED of 2,010 bytes (<seg type="character">x&#773;</seg> = 4.66 bytes/error).  These relatively few faults were accompanied by 3,673 equivalent tokens, i.e., by almost the same number of identical items as the initial error count (Nerror = 3,989) observed in the raw, side-by-side comparison of Stage I.  Of special note was the overall reduction of noise:  for the 431 observed disparities, 312 (or 72%) were part of a set of sixteen occurrences of a series of five or more errors in succession.  As may be expected from the initial interpretations of the new <title>Sixth</title> and its derivation from <title>Council</title>, the preamble produced many errors (Nerror = 133), due in part to the large difference between token counts in the two instruments, but also due to the fresh rearrangement of those words that created large sequences of errors under testing for similarity.  The religious convictions statement in the newer Declaration of Rights brought on 58 faults (line number 3753-3810 in Stage V of <ref target="convergence_table1">Table I</ref>), while the oath of office modifications in the Schedule to the Constitution created 25 (line number 4070-4094).
+</p>
+</div3>
+</div2>
+
+<div2>
+<head>Conclusions</head>
+
+<p>Under this series of editorial experiments, the length of the document grew by 44 new elements &#8212; by just 1.1% of <title>Sixth</title>’s overall original length &#8212; to 4,104 total tokens through a process that maximized the efficacious use of padding to create appropriate alignment and to separate portions, and that involved judicious text shifting of the two disparate arrangements.  These tests quantitatively confirmed not only the provenance of the 1875 revised <title>Constitution</title>, but also the usefulness of the LED algorithm to assist examinations of this sort.</p>
+ 
+<p>The constant struggle to align and demonstrate a shared past has plagued text analyses since the beginning of such examinations.  The assessment here was performed on a small tribal constitution, but the capability of the Levenshtein edit distance algorithm to help tune a pair of variants &#8212; supplemented by some initial human intervention to shift macro passages &#8212; may be seen as a precursor to more effective software systems developed to interrogate more substantial quantities of text.  These systems may depend in the future upon minimizing local LED scores in queries among specific text portions that are assessed across entire documents.  In this <title>Okmulgee</title> comparison, the preamble and signature sections might serve as easy models for this approach.  The former subsection required a more thorough analysis, since the initial preamble of <title>Council</title> was modified for <title>Sixth</title>.  On the other hand, <title>Council</title>’s signature section was replicated in <title>Sixth</title> as a convenient, yet acceptable, amendment to the entire <title>Sixth</title> contents.  In other words, this reproduction in <title>Sixth</title> of the signatures found in <title>Council</title> removed the unnecessary noise associated with these expected components when tested.  The publishers of <title>Sixth</title> &#8212; for whatever reason &#8212; did not include these components, but the more important question here had to do with fidelity to the text of the <title>Constitution</title> and the resulting LED scores more carefully reflect that focus.  Adding appropriate text through transferring is a more attractive remedy to a non-zero cumulative LED score than is deletion: sharing the signature block between the two variants trumps eliminating it from consideration.</p>
+
+<p>Finally, while this editorial experiment was conceived to show the similarity of these two related instruments and to demonstrate ways to reduce their disparities through manipulation of their texts, it was not designed to demonstrate the identicalness of the materials, as was the case with <title>Laramie</title>, or with the <title>Proclamation</title> variants within editions of <title>The Annual Register</title>.  <title>Council</title> and <title>Sixth</title> texts were already known to be different &#8212; the former was purposely revised to form the latter and so the process described here entailed instead a way to correlate sections that were reused during that revision and to note new portions that were added to the latter’s text.<ref target="n09" n="9">9</ref>   <emph>Forcing</emph> this convergence furnished the reported results.  The Levenshtein metric delivered a way to manage both of the basic analysis tasks required for comparing these two very related texts by identifying discrepancies &#8212; <emph>and</emph> by quantifying them &#8212; to aid in the better understanding of the realignment path, whether these inequalities were intentional &#8212; as in these <title>Council</title> and <title>Sixth</title> examples &#8212; or not, as previously found for <title>Laramie</title> and <title>Proclamation</title>.</p>
+
+<p>The data in the Preamble worksheet of <ref target="convergence_table1">Table I</ref> offer a final quick demonstration of these very rewards.  In two tests, identical copies of the <title>Council</title> preamble text were offset either a) by sliding the “comparison” version forward by two elements relative to the “original” <title>Council</title>, or b) by moving the elements backward by five tokens.  The LED results provided zero identical elements in the “forward” comparison, but six identical objects in the “backward” appraisal; the few common instances are highlighted on the Preamble page.  Three of these pairs &#8212; at line number 105, 108, and 110 &#8212; reveal that this convergence was due to a five element offset within the sentence fragment arrangement employing the tokens <term>of</term>, <term>the</term>, and <term>of</term>, i.e., for the phrase <term>for the better protection <hi rend="bold">of</hi> their rights, <hi rend="bold">the</hi> improvement <hi rend="bold">of</hi> themselves, and <hi rend="bold">the</hi> preservation <hi rend="bold">of</hi> their race</term>….  This example suggests that, in the application of Levenshtein’s metric to index the accuracy of forced alignment, n-tuple occurrences within the test text should be employed as an initial guide to pinpoint the best possible offset values for interrogating that target. </p>
+
+<p>The vertical nature of the data in <ref target="convergence_table1">Table I</ref> helps facilitate the visualization of sliding text segments up or down to minimize the resulting error count and LED score in side-by-side comparisons.  In this simple <title>Council</title> case, the “backward” results were a better estimate of alignment convergence than the “forward” outcomes were, based exclusively on the computed error counts and the cumulative LED scores.  <title>Okmulgee</title>’s legal format &#8212; with its well-defined articles and sections &#8212; would expedite testing such guidance since these are manipulable blocks of text, as was substantiated following the Stage IV maneuvers described above.  Error dictionaries, as proposed by Ringlstetter, Reffle, Gotscharek, and Schulz (2007), may offer further assistance in less strictly arranged material.  In their study, the central issue of text improvement led to a model based upon “the generation of suitable error dictionaries… to find a base vocabulary of correct words that captures a relevant part of the corrected version of the errors found in the text.”  Their research showed that “specialized dictionaries crawled in the web may meet this requirement” (p. 643).  Related tribal constitutional materials would serve the like purpose for assessing these <title>Okmulgee Constitution</title> variants, particularly so since much of this instrument was founded upon earlier design experiences of the same tribes that authored <title>Okmulgee</title>.<ref target="n10" n="10">10</ref>   Significantly, in a document regarding a proposed formal legislative structure, the term <term>government</term> appeared fifteen times in the <title>Council</title> text, between line number 24 and 4034 of Stage V in <ref target="convergence_table1">Table I</ref>, and these events might be employed in a segment sliding process to pinpoint term reoccurrences within <title>Sixth</title>.<ref target="n11" n="11">11</ref>  Thus, while an understanding of the macro text exclusions, inclusions, and replacements would serve at the outset to identify large proportions of the exhibited variability in comparisons of this nature, further study may be reserved and placed upon an understanding of the yet unknown micro style or spelling adjustments within these contrasts.  Examples of these element-level alterations were abundant in the two documents, just as they were in <title>Laramie</title>, the comparisons with the first rendering of the <title>Okmulgee Constitution</title>, and in <title>Proclamation</title>.  Deviations in this study included the twenty-three component replacement instances of the token <term>assembly</term> for <term>council</term>, or the two <term>directed</term> vs. <term>regulated</term> transitions, or the correction of <term>formes</term> to <term>forms</term> in <title>Council</title> and <title>Sixth</title>, respectively (see line number 622, 1762, and 85 in Stage V of <ref target="convergence_table1">Table I</ref> for such incidences).  Certainly, any benefit from known parallel passages should facilitate a text scanning and reconstruction process that could ascertain and then reduce dissimilarity.  Ringlstetter et al. spoke of the use of such an “alignment list” (2007, p. 640) in their research.  The applicability and soundness of any such advantage to address forced convergence scenarios would be fruitful to text analysis enterprises, especially if abetted by the quantification obtainable from the use of Levenshtein’s robust algorithm.</p>
+</div2>
+</div1>
+</body>
+
+<back>
+<div1 type="references">
+<milestone unit="crosses"/>
+<head>References</head>
+
+<bibl>Arber, E.  (1876).  <title>A Transcript of the Registers of the Company of Stationers of London: 1554-1640 A.D.</title>, vol. 3.  London: Privately printed.</bibl>
+<bibl>Aust, A.  (2007).  <title>Modern Treaty Law and Practice</title> (Second edition).  New York: Cambridge University Press.</bibl>
+<bibl>Bernholz, C. D.  (2011a).  Comparing texts of the <title>Okmulgee Constitution</title>: Fourteen instrument versions and Levenshtein’s edit distance metric, and available <ref target="http://digitalcommons.unl.edu/libraryscience/231/">here</ref>.</bibl>
+<bibl>Bernholz, C. D.  (2011b).  “In order to organize the Government of the Indian Territory…”: Comparing variants of the 1870 <title>Okmulgee Constitution</title>, and available <ref target="http://okmulgeeconstitution.unl.edu/">here</ref>.</bibl>
+<bibl>Bernholz, C. D. and O’Grady, B. T.  (2012).   Insights from editions of <title>The Annual Register</title> regarding later variants of the <title>Royal Proclamation of 1763</title>: An application of Levenshtein’s edit distance metric, and available <ref target="http://annualregister1763.unl.edu/">here</ref>.</bibl>
+<bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2009).   The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>: Revisiting the document found in Kappler’s <title>Indian Affairs: Laws and Treaties</title>, and available <ref target="http://treatyoffortlaramie1851.unl.edu/">here</ref>.</bibl>
+<bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2011).  Comparing nearly identical treaty texts: A note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> and Levenshtein’s edit distance metric.  <title>Literary and Linguistic Computing 26</title>, 5-16.</bibl>
+<bibl>Davis, J.  (1881).  <title>The Rise and Fall of the Confederate Government</title>, vol. I.  New York: D. Appleton and Co.</bibl>
+<bibl>Douglas, J.  (1951).   Typographical correction: On the basis theorem for finite abelian groups (Third Note).  <title>Proceedings of the National Academy of Sciences of the United States of America 37</title>, 716.</bibl>
+<bibl>Editorial.  (1912).  <title>The Virginia Law Register 18</title>, 225-235.</bibl>
+<bibl>Gimcrack, G.  (1833).  <title>A Code of Common Sense, or, Patent Pocket Dictionary: Original, Derivative, Authoritative, Orthographical, Etymological, Proverbial, Phraseological, and Synonymous</title>.  Manchester, UK: W. H. Jones.</bibl>
+<bibl>Ginsca, A.-L. and Iftene, A.  (2010).  Using a genetic algorithm for optimizing the similarity aggregation step in the process of ontology alignment.  <title>Ninth IEEE</title> Romanian Educational Network (<title>Roedunet</title>) <title>International Conference</title> (pp. 118-122).  Sibiu, Romania: Romanian Educational Network.</bibl>
+<bibl>Hofmann, P. W.  (1860).  Contributions towards the history of azobenzol and benzidine.  <title>Proceedings of the Royal Society of London 10</title>, 585-588.</bibl>
+<bibl>Jane, C.  (1930).  The letter of Columbus announcing the success of his first voyage.  <title>The Hispanic American Historical Review 10</title>, 33-50.</bibl>
+<bibl>Jeffrey, R.  (1990).  Matriliny, women, development  &#8212; and a typographical error.  <title>Pacific Affairs 63</title>, 373-377.</bibl>
+<bibl><title>Journal of the Adjourned Session of the Sixth Annual General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 1st to the 9th (Inclusive) of Sept., 1875, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date.</title>  (1875).   Lawrence, KS: Journal Steam Book and Job Printing House.</bibl>
+<bibl><title>Journal of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Thereof, Assembled in Council at Okmulgee, in the Indian Territory, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington, in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muskokee, and Seminole Tribes of Indians, of the Same Date</title>.  (1871).  Lawrence, KS: Excelsior Book and Job Printing.</bibl>
+<bibl><title>Journal of the Sixth Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 3d to the 15th (Inclusive) of May, 1875, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date</title>.  (1875).  Lawrence, KS: Republican Journal Steam Printing.</bibl>
+<bibl>Kappler, C. J.  (1904).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  58th Congress, 2nd session.  Senate Document No. 319, part 2 (<title>Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Kukich, K.  (1992).  Techniques for automatically correcting words in text.  <title>ACM Computing Surveys 24</title>, 377-439.</bibl>
+<bibl>Levenshtein, V. I.  (1966).  Binary codes capable of correcting deletions, insertions, and reversals.  <title>Soviet Physics Doklady 10</title>, 707-710.</bibl>
+<bibl>Martino, D.  (1962).  [Typographical errors in “The source set and its aggregate formations”].  <title>Journal of Music Theory 6</title>, 322-323.</bibl>
+<bibl>Matthews, J. M.  (1864/1988).  <title>The Statutes at Large of the Provisional Government of the Confederate States of America</title>.  Buffalo, NY: W. S. Hein.</bibl>
+<bibl>Nolen, C. L.  (1980).  The Okmulgee constitution: A step towards Indian self-determination.  <title>Chronicles of Oklahoma 58</title>, 264-281.</bibl>
+<bibl>Oliver, H. J.  (1947).  The composition and revision of “The Complet Angler.”  <title>The Modern Language Review 42</title>, 295-313.</bibl>
+<bibl>Plomer, H. R.  (1915).  <title>A Short History of English Printing: 1476-1900</title>.  London: Kegan Paul, Trench, T&#252;rbner &amp; Co.</bibl>
+<bibl>Ringlstetter, C.; Reffle, U.; Gotscharek, A.; and Schulz, K.U.  (2007).  Deriving symbol dependent edit weights for text correction &#8212; the use of error dictionaries.  <title>Ninth International Conference on Document Analysis and Recognition</title>, vol. 2 (pp. 639-643).  Curitiba, Brazil: International Association of Pattern Recognition.</bibl>
+<bibl>Shawcross, J. T.  (1963).  One aspect of Milton’s spelling: Idle final “e.”  <title>PMLA 78</title>, 501-510.</bibl>
+<bibl>Soukoreff, R. W. and MacKenzie, I. S.  (2001).  Measuring errors in text entry tasks: An application of the Levenshtein string distance statistic.  <title>Companion Proceedings of the ACM Conference on Human Factors in Computing Systems &#8212; CHI 2001</title> (pp. 319-320).  New York: Association of Computing Machinery.</bibl>
+<bibl>Spencer, M.; Bordalejo, B.; Wang, L.-S.; Barbrook, A. C.; Mooney, L. R.; Robinson, P.; Warnow, T.; and Howe, C. J.  (2003).  Analyzing the order of items in manuscripts of “The Canterbury Tales.”  <title>Computers and the Humanities 37</title>, 97-109.</bibl>
+<bibl>Takahashi, S. and Izumi, T.  (2006).  Travel time measurement by vehicle sequence matching method &#8212; Evaluation method of vehicle sequence using Levenshtein distance.  <title>SICE-ICASE, 2006 International Joint Conference</title>, 1625-1629.</bibl>
+<bibl>Zini, M.; Fabbri, M.; Moneglia, M.; and Panunzi, A.  (2006).  Plagiarism detection through multilevel text comparison.  <title>Second International Conference on Automated Production of Cross Media Content for Multi-Channel Distribution</title> (pp. 181-185).  Washington, DC: IEEE Computer Society.</bibl>
+</div1>
+
+<div1 type="acknowledgements">
+<milestone unit="crosses"/>
+<head>Acknowledgements</head>
+<p>I thank John L. Jeffcoat III of Greatsite.com for permission to use his Wicked Bible graphic for Exodus 20:14.  In addition, I repeat my gratitude to those people listed in the Acknowledgements section of my sabbatical study (Bernholz, 2011a), especially to Laura Weakly and Karin Dalziel of the Center for Digital Research in the Humanities at the University of Nebraska&#8211;Lincoln for their assistance during this subsequent project on forced convergence.</p>
+</div1>
+
+<div1 type="appendix">
+<milestone unit="crosses"/>
+<head>Appendix I</head>
+<head>Constitution of the Indian Territory<ref target="a01" n="*">*</ref></head>
+<div2>
+<p>Whereas the people of the nations of Indians inhabiting the Indian Territory have agreed by treaty with the Government of the United States, and been by its agents invited to meet in General Council under the formes prescribed by the Treaties of 1866 and the action thereon of the Government of the United States, having thus met to frame the laws and arrange the machinery of a government for the country occupied and owned by them, in order to draw themselves together in a closer bond of union, for the better protection of their rights, the improvement of themselves, and the preservation of their race and relying on the guidance and favor of Almighty God to carry out in a consistent and practicable  form the provisions of said treaties at the earliest practicable day, do hereby enact and promulgate the following as the Constitution or organic law of the said Indian Territory: </p>
+</div2>
+<div2>
+<head>Article I.</head>
+
+<p>Section 1.  All that portion of country bounded on the east by the states of Arkansas and Missouri, on the north by the state of Kansas, on the west by the Territory of New Mexico and the state of Texas, and on the south by the state of Texas, which has been set apart and guaranteed by the Treaties and laws of the United States as a permanent home for the Indians therein lawfully resident or such as may be in like manner settled therein hereafter for the purposes of this Constitution shall be known and styled as “The Indian Territory.” </p>
+
+<p>Sec. 2.  Each of the nations of Indians who by themselves, or through their representatives may enter this confederacy, do agree that the citizens of each and every one of said nations shall have the same rights of transit, commerce, trade, or exchange in any of said nations as he has in his own, subject only to consistency with existing treaty stipulations with the United States and the laws regulating trade and intercourse, and under such judicial regulations as are hereinafter provided.  But no right of property or lands, or funds owned by any one nation shall be in any manner invaded by citizens of another nation; and it is hereby distinctly affirmed that the rights of each of these nations to its lands, funds and all other property shall remain the sole and distinct property of such nation.  Any Indian nation now represented in this General Council or which may hereafter enter in a legal manner, or be now in said Indian Territory, may be admitted to representation and all the privileges of this joint government by accepting and agreeing through their proper authorities to the provisions of this Constitution.</p>
+</div2>
+<div2>
+<head>Article II.</head>
+
+<p>Sec. 1.  The powers of this Government shall be divided into three distinct departments, to be called the Legislative, the Executive and the Judicial Departments of the Indian Territory. </p>
+
+<p>Sec. 2.  No person belonging to one of these departments shall exercise any of the powers properly belonging to either of the others except in cases hereinafter expressly directed or permitted. </p>
+</div2>
+<div2>
+<head>Article III.</head>
+
+<p>Sec. 1.  The Legislative power shall be vested in a General Assembly which shall consist of a Senate and House of Representatives; and the style of their acts shall be, —”Be it enacted,” or “Be it resolved by the General Assembly of the Indian Territory.” </p>
+
+<p>Sec. 2.  The Senate shall consist of one member from each nation whose population is two thousand citizens, and one member for every additional two thousand citizens, or fraction greater than one thousand.  Provided, nations with populations less than two thousand may unite and be represented in the same ratio, and provided further, that the Ottawas, Peorias and Quapaws shall be entitled to one senator, and the Senecas, Wyandottes and Shawnees to one senator, and the Sac and Foxes to one senator. </p>
+
+<p>Sec. 3.  No person shall be eligible to a seat in the General Assembly, but a bona fide citizen of the nation which he represents and who shall have attained to the age of twenty-five years. </p>
+
+<p>Sec. 4.  The House of Representatives shall consist of one member from each nation and an additional member for each one thousand citizens or fraction thereof greater than five hundred. </p>
+
+<p>Sec. 5.  The members of the Senate and House of Representatives shall be elected by the qualified voters of their respective nations according to their laws or customs and shall hold their office for the term of two years.  Vacancies that may occur shall be filled in like manner. </p>
+
+<p>Sec. 6.  The Senate when assembled shall choose a President and its other officers, and the House of Representatives a Speaker and other officers; and each shall judge of the qualifications and returns of its own members.  A majority of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day and compel the attendance of absent members, in such manner and under such penalties as each house may provide. </p>
+
+<p>Sec. 7.  Each branch of the General Assembly shall keep a journal and determine the rules of its proceedings, punish a member for disorderly behavior and with the concurrence of two-thirds, expel a member, but not a second time for the same offense.</p>
+
+<p>Sec. 8.  The General Assembly shall have power to legislate upon all subjects and matters pertaining to the intercourse and relations of the nations of the Indian Territory, the arrest and extradition of criminals escaping from one nation to another; the administration of justice between members of the several nations of the said Territory and persons other than Indians and members of said nations; and the common defense and safety of the nations of said Territory.  But the said General Assembly shall not legislate upon matters other than those above indicated.  The General Assembly shall meet annually on the first Monday in June at such place as may be fixed upon at their regular session. </p>
+
+<p>Sec. 9.  Members of the General Assembly and other officers, both Executive and Judicial, before they enter upon the duties of their respective offices, shall take the following oath or affirmation, to wit: “I do solemnly swear (or affirm, as the case may be) that I will support the Constitution of the Indian Territory and that I will faithfully and impartially discharge to the best of my ability, the duties of the office of [blank] according to law.  So help me God.”</p>
+ 
+<p>Sec. 10.  The members of the General Assembly shall be paid four dollars per day while in actual attendance thereon and four dollars mileage for every twenty miles going to and returning therefrom on the most direct traveled route, to be certified by the presiding officer of each house.  Provided, no member shall be allowed per diem compensation for more than thirty days at any annual session. </p>
+
+<p>Sec. 11.  Members of the General Assembly shall in all cases except of treason, felony, or breach of the peace, be privileged from arrest during the session of the General Assembly and in going to and returning from the same.</p>
+ 
+<p>Sec. 12.  No power of suspending the laws of this Territory shall be exercised unless by the General Assembly or its authority.  No retrospective law nor any law impairing the obligation of contracts shall be passed. </p>
+
+<p>Sec. 13.  Whenever the General Assembly shall deem it necessary to provide means to support the Government of the Indian Territory, it shall have power to do so; but no revenue shall be raised not actually necessary and in accordance with law, uniform in its operations throughout the Territory. </p>
+
+<p>Sec. 14.  All bills making appropriations shall originate in the House of Representatives; but the Senate may propose amendments or reject the same.  All other bills may originate in either branch subject to the concurrence or rejection of the other. </p>
+
+<p>Sec. 15.  The House of Representatives shall have the sole power of impeaching.  All impeachments shall be tried by the Senate.  When sitting for that purpose, the Senators shall be on oath or affirmation and shall be presided over by the Chief Justice; and no person shall be convicted without the concurrence of two-thirds of the members present.</p>
+ 
+<p>Sec. 16.  The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend farther than removal from office and disqualification to hold any office of honor, trust or profit under this Government; but the party whether convicted or acquitted, shall nevertheless be liable to indictment, trial and punishment according to law as in other cases. </p>
+
+<p>Sec. 17.  The salaries of all officers created under this Constitution, not otherwise provided shall be regulated by law, but no increase or diminution shall be made in the same during the term for which said officers may have been elected or appointed.</p>
+</div2>
+<div2>
+<head>Article IV.</head>
+
+<p>Sec. 1.  The Executive power of this Territory shall be vested in a Governor who shall be styled the Governor of the Indian Territory, and whose term of service shall be two years, and until his successor shall have been elected and qualified.  He shall be elected by the qualified electors of each nation on the first Wednesday in April at the usual places of holding elections of the several nations.  The returns of the election of Governor shall be sealed up and directed to the Secretary of the Territory who shall open and publish them in the presence of the Senate and House of Representatives in joint session assembled.  The person having the highest number of votes shall be declared Governor by the president of the Senate; but if two or more shall be equal and highest in votes, then one of them shall be chosen by the majority of votes by joint ballot of both Houses of the General Assembly. </p>
+
+<p>Sec. 2.  The manner of conducting and determining contested elections shall be directed by law.</p>
+ 
+<p>Sec. 3.  No person shall be eligible to the office of Governor who shall not have attained to the age of thirty years.</p>
+ 
+<p>Sec. 4.  Whenever the office of Governor shall become vacant by death, resignation, removal from office or otherwise, the President of the Senate shall exercise the office, until another Governor shall be duly qualified.  In case of the death, resignation, removal from office or other disqualification of the President of the Senate so exercising the office of Governor, the Speaker of the House of Representatives shall fill the office until the President of the Senate shall have been chosen and qualified to act as Governor. </p>
+
+<p>Sec. 5.  The Governor shall receive at stated times for his services a compensation to be fixed by law which shall be neither increased nor diminished during the period for which he shall have been elected, nor shall he receive within that period other emolument from the Indian Territory. </p>
+
+<p>Sec. 6.  The Governor shall from time to time give to the General Assembly information in writing of the state of the Government and recommend to its consideration such measures as he may deem expedient, and shall take care that the laws be faithfully executed. </p>
+
+<p>Sec. 7.  The Governor, on extraordinary occasions may by proclamation convene the General Assembly at the seat of Government to legislate upon such matters only as he may recommend. </p>
+
+<p>Sec. 8.  When vacancies occur in offices the appointment of which is vested in the Governor by and with the consent of the Senate, he shall have power to fill such vacancies by commission which shall expire at the end of the next session of the General Assembly. </p>
+
+<p>Sec. 9.  The Governor may grant pardons, and respites and remit fines for offenses agains the laws of thist Territory, and shall cammission all officers who shall be appointed or elected to office under the laws of the Territory. </p>
+
+<p>Sec. 10.  Every bill which shall have passed both houses of the General Assembly shall be presented to the Governor; if he approve, he shall sign it; if not he shall return it, with his objections, to the house in which it may have originated, which shall enter the objections at large upon the journal and proceed to reconsider it.  If after such reconsideration two-thirds of the members present shall agree to pass the bill, it shall be sent with the objections to the other house, by which it shall likewise be reconsidered; if approved by two-thirds of the members present of that house, it shall become a law; but in such case the votes of both houses shall be determined by yeas and nayes, and the names of the members voting for and against the bill shall be entered on the journals of each house respectively.  If any bill shall not be returned by the Governor within five days (Sundays excepted) after it shall have been presented to him, the same shall become a law in like manner as if he had signed it unless the General Assembly by their adjournment prevent its return, in which case it shall be a law unless sent back within three days after their next meeting. </p>
+
+<p>Sec. 11.  There shall be a Secretary of said Territory who shall be appointed by the Governor with the advice and consent of the Senate and who shall hold his office for two years, and whose duties shall be prescribed by law.  He shall also act as Treasurer of the Territory until otherwise provided.  Before entering upon his duties as Treasurer, he shall give bond with such sureties as may be required by law.  No money shall be drawn from the Treasury but by warrant from the Governor, and in consequence of appropriations made by law.  There shall also be appointed in like manner one Marshal who shall have power to appoint such deputies as may be authorized.  There shall likewise be appointed one Attorney General and two District Attorneys, whose duties and terms of office shall be defined by law. </p>
+
+<p>Sec. 12.  All commissions shall be in the name and by the authority of the Indian Territory, and be sealed with the Seal and signed by the Governor and attested by the Secretary of the Territory. </p>
+</div2>
+<div2>
+<head>Article V.</head>
+
+<p>Sec. 1.  The Judicial Department of the Indian Territory shall be vested in a Supreme Court, three District Courts, and such inferior courts as may be provided by law; but their jurisdiction shall not interfere with the civil and criminal jurisdiction retained to each separate nation by the treaties of 1866. </p>
+
+<p>Sec. 2.  The Supreme Court shall be composed of the three Judges who shall be appointed by the Governor with the approval of the Senate as District Judges.  Two of said judges shall form a quorum of the Supreme Court for the transaction of business.  Their terms of office shall be six years, provided that the office of one of said judges shall be vacated in two years, of one in four years, and of one in six years, so that at the expiration of each two years one of said judges shall be appointed as aforesaid.  The judge appointed for six years shall be the first Chief Justice of the Supreme Court and upon the expiration of his term the senior judge in office shall be thereafter the Chief Justice. </p>
+
+<p>Sec. 3.  The Supreme Court shall meet at the Capital commencing on the first Mondays in June and December in each year.  The Supreme Court shall be a court of appellate jurisdiction from the district courts and original jurisdiction in such cases as may be prescribed by law. </p>
+
+<p>Sec. 4.  The Supreme and District judges shall have power to issue writs of habeas corpus and other process necessary to the exercise of their appellate or original jurisdiction. </p>
+
+<p>Sec. 5.  The District Courts shall have original jurisdiction of all cases civil and criminal arising from the trade or intercourse between the several nations and all cases arising under the legislation of this government as may be prescribed by law.</p>
+ 
+<p>Sec. 6.  Writs of error, bills of exceptions, and appeals may be allowed from the final decisions of the District Courts in such cases as shall be prescribed by law.</p>
+ 
+<p>Sec. 7.  It shall be the duty of the General Assembly to divide the Indian Territory into three districts which shall be as nearly equal in territory and population as may be practicable, assign one of the three judges to each district and provide for the holding of terms of the district court in each at such times and places as may be deemed expedient.</p>
+ 
+<p>Sec. 8.  No person shall be appointed a judge of any of the Courts until he shall have attained to the age of thirty years and be a person of good character and suitable qualifications.</p>
+ 
+<p>Sec. 9.  No judge shall sit on a trial of any cause in which he may be interested, or in which he is connected to either of the parties by affinity or consanguinity, except by consent of the parties; and in case of disqualification of any judge, the vacancy shall be filled as may be prescribed by law.</p>
+ 
+<p>Sec. 10.  All writs and other process shall run in the name of the Indian Territory and bear test and be signed by the Clerk issuing the same.</p>
+ 
+<p>Sec. 11.  Indictments shall conclude “Against the peace and dignity of the Indian Territory.” </p>
+
+<p>Sec. 12.  Each court shall appoint its own Clerk whose duty and compensation shall be fixed by law. </p>
+</div2>
+<div2>
+<head>Article VI.</head>
+
+<p>Sec. 1.  The General Assembly may propose such amendments to this Constitution as three-fourths of each branch may deem expedient; and the Governor shall issue a proclamation directing all civil officers of the Territory to promulgate the same as extensively as possible within their respective districts, at least six months previous to the annual sessions of the National Councils of the nations parties hereto; and if three-fourths of such National Councils at such next annual sessions shall ratify such proposed amendment they shall be valid to all intents and purposes as part of this Constitution. </p>
+</div2>
+<div2>
+<head>Declaration of Rights</head>
+
+<p>That the general, great and essential principles of liberty and free government may be recognized and established we declare &#8212; </p>
+
+<p>Sec. 1.  That all political power is inherent in the people, and all free governments are founded on their authority and instituted for their benefit; and they shall have at all times the inalienable right to alter, reform or abolish their form of government as may be lawfully provided for. </p>
+
+<p>Sec. 2.  The free exercise of religious worship and serving God without distinction of creed shall forever be enjoyed within the limits of this Territory.  Provided that the liberty of conscience shall not be so construed as to excuse acts of licentiousness or justify practices inconsistent with the peace, safety and good morals of this Territory. </p>
+
+<p>Sec. 3.  No religious test shall ever be required as a qualification to any office of public trust in this Territory.</p>
+ 
+<p>Sec. 4.  Every citizen shall be at liberty to speak, write or publish his opinions on any subject being responsible for the abuse of this privilege; and no law shall ever be passed curtailing the liberty of speech or of the press. </p>
+
+<p>Sec. 5.  The people shall be secure in their persons, houses, papers and possessions from all unreasonable searches, seizures, and intrusions; and no warrant to search any place or to seize any person or thing shall be issued without describing them as nearly as may be, nor without good cause supported by oath or affirmation. </p>
+
+<p>Sec. 6.  In all criminal prosecutions the accused shall have a speedy trial by an impartial jury, of the district wherein the crime shall have been committed; the right of demanding the nature and cause of the accusation, of having the witnesses to testify in his presence, of having compulsory process to procure witnesses in his favor, of having the right to be heard by himself and counsel, of not being compelled to testify against himself, nor to be held to answer to any criminal charge but on information or indictment by a grand jury. </p>
+
+<p>Sec. 7.  All prisoners shall be bailable before conviction by sufficient surety except for a capital offense where the proof is evident or the presumption great. </p>
+
+<p>Sec. 8.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel or unusual punishment inflicted, and all courts shall be open and every person for an injury done him in his person, reputation or property, shall have remedy as the law directs. </p>
+
+<p>Sec. 9.  No person for the same offense shall be twice put in jeopardy of life or limb and the right of trial by jury shall remain inviolate. </p>
+
+<p>Sec. 10.  No person shall be imprisoned for debt. </p>
+
+<p>Sec. 11.  The citizens shall have the right in a peaceable manner to assemble for their common good, to instruct their representatives and to apply to those invested with the powers of government for redress of grievances or other purposes, by petition, address or remonstrance. </p>
+
+<p>Sec. 12.  The privilege of the writ of habeas corpus shall not be suspended unless the public safety should require it. </p>
+
+<p>Sec. 13.  All power not herein expressly granted by the nations parties to this constitution are reserved by them respectively according to the provisions of their several treaties with the United States. </p>
+</div2>
+
+<div2>
+<head>Schedule to the Constitution</head>
+
+<p>In order to organized the Government of the Indian Territory, and secure practical operation for the same, it is hereby ordained and the provisions of this schedule shall be of the same binding force as the Constitution, of which it is a part, that it shall be the duty of the Secretary of this General Council to transmit a duly authenticated copy of this Constitution to the executive authority of each nation represented in the General Council and to ask the acceptance and ratification of the same by the Councils or people of the respective Nations. </p>
+
+<p>Upon receiving from such authority notification of its acceptance and ratification by National Councils representing two-thirds of the population of the nations represented in the General Council, it shall be his duty to promulgate such fact, and to call a session of the General Council from the nations ratifying this Constitution at such place as the present session may designate for its next meeting.  It shall be the duty of the General Council when so assembled to adopt such measures as may be necessary to secure the election of a Governor and members of the General Assembly, and to fix the time of the first meeting of said assembly, whose duty it shall be to perfect the organization of the Government of the Indian Territory under the provisions of the foregoing Constitution. </p>
+
+<p>Provided, that this Constitution shall be obligatory and binding only upon such nations and tribes as may hereafter duly approve and adopt the same. </p>
+<closer>
+<signed>Enoch Hoag,<lb/>
+Supt. Indian Affairs, President<lb/>
+G. W. Greyson, Secretary.</signed>
+</closer>
+<note xml:id="a01">* Source: <title>Council</title> (<title>Journal of the General Council of the Indian Territory</title>, 1871, pp. 44-57). </note>
+</div2>
+</div1>
+
+<div1 type="appendix">
+<head>Appendix II</head>
+<head>Constitution of the Indian Territory<ref target="a02" n="*">*</ref></head>
+<div2>
+
+<head>Preamble</head>
+
+<p>We, the Indian people of the Indian Territory, having the inalienable right to ordain and establish a form of government for ourselves, in order to secure to ourselves and our posterity the right of life, liberty, property, and pursuit of happiness, and having assented to the Treaties of 1866, for that purpose, and having been invited by the action thereon of the Government of the United States and by its agents, to meet in General Council, under the forms prescribed by the said Treaties of 1866, to frame the laws, and arrange the machinery of a government for the country occupied and owned by us, in order to draw ourselves together in a closer bond of union, for the better protection of our rights, for the improvement of ourselves, and preservation of our race &#8212; being assembled at Okmulgee, Creek Nation, on the first day of September, 1875, and relying on the guidance and favor of Almighty God to carry out our said rights in a consistent and practicable form, do hereby, in the name of and for the Indian Nations lawfully resident in the Indian Territory &#8212; enact, establish, and promulgate the following Constitution and form of Government, and do mutually agree with each other to form ourselves into a free and independent Nation, not inconsistent with the Constitution, Treaties and laws of the United States, governing trade and intercourse with Indians.</p>
+</div2>
+<div2>
+<head>Article I.</head>
+
+<p>Section 1.  All that portion of country bounded on the east by the states of Arkansas and Missouri, on the north by the state of Kansas, on the west by the Territory of New Mexico and the state of Texas, and on the south by the state of Texas, which has been set apart and guaranteed by the Treaties and laws of the United States as a permanent home for the Indians therein lawfully resident or such as may be in like manner settled therein hereafter for the purposes of this Constitution shall be known and styled as “The Indian Territory.” </p>
+
+<p>Sec. 2.  Each of the nations of Indians who by themselves, or through their representatives may enter this confederacy, do agree that the citizens of each and every one of said nations shall have the same rights of transit, commerce, trade, or exchange in any of said nations as he has in his own, subject only to consistency with existing treaty stipulations with the United States and the laws regulating trade and intercourse, and under such judicial regulations as are hereinafter provided.  But no right of property or lands, or funds owned by any one nation shall be in any manner invaded by citizens of another nation; and it is hereby distinctly affirmed that the rights of each of these nations to its lands, funds and all other property shall remain the sole and distinct property of such nation.  Any Indian nation now represented in this General Council or which may hereafter enter in a legal manner, or be now in said Indian Territory, may be admitted to representation and all the privileges of this joint government by accepting and agreeing through their proper authorities to the provisions of this Constitution. </p>
+</div2>
+<div2>
+<head>Article II.</head>
+
+<p>Sec. 1.  The powers of this Government shall be divided into three distinct departments, to be called the Legislative, the Executive and the Judicial Departments of the Indian Territory. </p>
+
+<p>Sec. 2.  No person belonging to one of these departments shall exercise any of the powers properly belonging to either of the others except in cases hereinafter expressly directed or permitted. </p>
+</div2>
+<div2>
+<head>Article III.</head>
+
+<p>Sec. 1.  The Legislative power shall be vested in a General Council which shall consist of a Senate and House of Representatives; and the style of their acts shall be, —”Be it enacted,” or “Be it resolved by the General Council of the Indian Territory.” </p>
+
+<p>Sec. 2.  The Senate shall consist of one member from each nation whose population is two thousand citizens, and one member for every additional two thousand citizens, or fraction greater than one thousand.  Provided, nations with populations less than two thousand may unite and be represented in the same ratio, and provided further, that the Ottawas, Peorias and Quapaws shall be entitled to one senator, and the Senecas, Wyandotts, Shawnees and Modocs to one senator, and the Sac and Foxes and Kickapoos to one senator; and the Pottowatomies and Absentee Shawnees to one Senator. </p>
+
+<p>Sec. 3.  The House of Representatives shall consist of one member from each nation and an additional member for each one thousand citizens or fraction thereof greater than five hundred. </p>
+
+<p>Sec. 4.  No person shall be eligible to a seat in the General Council, but a bona fide citizen of the nation which he represents and who shall have attained to the age of twenty-five years. </p>
+
+<p>Sec. 5.  The members of the Senate and House of Representatives shall be elected by the qualified voters of their respective nations according to their laws or customs and shall hold their office for the term of two years.  Vacancies that may occur shall be filled in like manner. </p>
+
+<p>Sec. 6.  The Senate when assembled shall choose a President and its other officers, and the House of Representatives a Speaker and other officers; and each shall judge of the qualifications and returns of its own members.  A majority of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day and compel the attendance of absent members, in such manner and under such penalties as each house may provide. </p>
+
+<p>Sec. 7.  Each branch of the General Council shall keep a journal and determine the rules of its proceedings, punish a member for disorderly behavior and with the concurrence of two-thirds, expel a member, but not a second time for the same offense. </p>
+
+<p>Sec. 8.  The General Council shall have power to legislate upon all subjects and matters pertaining to the intercourse and relations of the nations of the Indian Territory, the arrest and extradition of criminals escaping from one nation to another; the administration of justice between members of the several nations of the said Territory and persons other than Indians and members of said nations; and the common defense and safety of the nations of said Territory.  But the General Council shall not legislate upon matters other than those above indicated.  The General Council shall meet annually on the first Monday in December at such place as may be fixed upon at their first regular session. </p>
+
+<p>Sec. 9.  Members of the General Council and other officers, both Executive and Judicial, before they enter upon the duties of their respective offices, shall take the following oath or affirmation, to wit: “I do solemnly swear (or affirm, as the case may be) that I will support the Constitution of the Indian Territory and that I will faithfully and impartially discharge to the best of my ability, the duties of the office of [blank] according to law.  So help me God.” </p>
+
+<p>Sec. 10.  The members of the General Council shall be paid four dollars per day while in actual attendance thereon and four dollars mileage for every twenty miles going to and returning therefrom on the most direct traveled route, to be certified by the presiding officer of each house.  Provided, no member shall be allowed per diem compensation for more than thirty days at any annual session. </p>
+
+<p>Sec. 11.  Members of the General Council shall in all cases except of treason, felony, or breach of the peace, be privileged from arrest during the session of the General Council and in going to and returning from the same. </p>
+
+<p>Sec. 12.  No power of suspending the laws of this Territory shall be exercised unless by the General Council or its authority.  No retrospective law nor any law impairing the obligation of contracts shall be passed. </p>
+
+<p>Sec. 13.  Whenever the General Council shall deem it necessary to provide means to support the Government of the Indian Territory, it shall have power to do so; but no revenue shall be raised not actually necessary and in accordance with law, uniform in its operations throughout the Territory. </p>
+
+<p>Sec. 14.  All bills making appropriations shall originate in the House of Representatives; but the Senate may propose amendments or reject the same.  All other bills may originate in either branch subject to the concurrence or rejection of the other. </p>
+
+<p>Sec. 15.  The House of Representatives shall have the sole power of impeaching.  All impeachments shall be tried by the Senate.  When sitting for that purpose, the Senators shall be on oath or affirmation and shall be presided over by the Chief Justice; and no person shall be convicted without the concurrence of two-thirds of the members present. </p>
+
+<p>Sec. 16.  The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend further than removal from office and disqualification to hold any office of honor, trust or profit under this Government; but the party whether convicted or acquitted, shall nevertheless be liable to indictment, trial and punishment according to law as in other cases. </p>
+
+<p>Sec. 17.  The salaries of all officers created under this Constitution, not otherwise provided shall be regulated by law, but no increase or diminution shall be made in the same during the term for which said officers may have been elected or appointed. </p>
+</div2>
+<div2>
+<head>Article IV.</head>
+
+<p>Sec. 1.  The Executive power of this Territory shall be vested in a Governor who shall be styled the Governor of the Indian Territory, and whose term of service shall be two years, and until his successor shall have been elected and qualified.  He shall be elected by the qualified electors of each nation on the first Wednesday in April at the usual places of holding elections of the several nations.  The returns of the election of Governor shall be sealed up and directed to the Secretary of the Territory who shall open and publish them in the presence of the Senate and House of Representatives in joint session assembled.  The person having the highest number of votes shall be declared Governor by the president of the Senate; but if two or more shall be equal and highest in votes, then one of them shall be chosen by the majority of votes by joint ballot of both Houses of the General Council. </p>
+
+<p>Sec. 2.  The manner of conducting and determining contested elections shall be regulated by law. </p>
+
+<p>Sec. 3.  No person shall be eligible to the office of Governor who shall not have attained to the age of thirty years. </p>
+
+<p>Sec. 4.  Whenever the office of Governor shall become vacant by death, resignation, removal from office or otherwise, the President of the Senate shall serve out the unexpired term thereof.  In case of the death, resignation, removal from office or other disqualification of the President of the Senate so exercising the office of Governor, the Speaker of the House of Representatives shall fill the office until the Governor shall have been chosen at the next regular election and qualified. </p>
+
+<p>Sec. 5.  The Governor shall receive at stated times for his services a compensation to be fixed by law which shall be neither increased nor diminished during the period for which he shall have been elected, nor shall he receive within that period other emolument from the Indian Territory. </p>
+
+<p>Sec. 6.  The Governor shall from time to time give to the General Council information in writing of the state of the Government and recommend to its consideration such measures as he may deem expedient, and shall take care that the laws be faithfully executed. </p>
+
+<p>Sec. 7.  The Governor, on extraordinary occasions may by proclamation convene the General Council at the seat of Government to legislate upon such matters only as he may recommend. </p>
+
+<p>Sec. 8.  When vacancies occur in offices the appointment of which is vested in the Governor by and with the consent of the Senate or officers elected, he shall have power to fill such vacancies by commission which shall expire at the end of the next session of the General Council. </p>
+
+<p>Sec. 9.  The Governor may grant pardons, and respites and remit fines for offenses against the laws of this Territory, and shall commission all officers who shall be appointed or elected to office under the laws of the Territory. </p>
+
+<p>Sec. 10.  Every bill which shall have passed both houses of the General Council shall be presented to the Governor; if he approve, he shall sign it; if not he shall return it, with his objections, to the house in which it may have originated, which shall enter the objections at large upon the journal and proceed to reconsider it.  If after such reconsideration two-thirds of the members present shall agree to pass the bill, it shall be sent with the objections to the other house, by which it shall likewise be reconsidered; if approved by two thirds of the members present of that house, it shall become a law; but in such case the votes of both houses shall be determined by yeas and nayes, and the names of the members voting for and against the bill shall be entered on the journals of each house respectively.  If any bill shall not be returned by the Governor within five days (Sundays excepted) after it shall have been presented to him, the same shall become a law in like manner as if he had signed it unless the General Council by their adjournment prevent its return, in which case it shall be a law unless sent back within three days after their next meeting. </p>
+
+<p>Sec. 11.  There shall be a Secretary of said Territory who shall be appointed by the Governor with the advice and consent of the Senate who shall hold his office for two years, and whose duties shall be defined by law.  There shall also be appointed in like manner one Marshal who shall have power to appoint such deputies as may be authorized by law.  And he shall give bond with sufficient sureties in such manner as may be prescribed by law.  There shall be a Treasurer of the said Territory, who shall be elected by the General Council for the term of two years, and whose duties shall be prescribed by law.  Before entering upon his duties as Treasurer, he shall give bond with such sureties as may be required by law.  No money shall be drawn from the Treasury but by warrant from the Governor, and in consequence of appropriations made by law.  There shall also be elected, by the said Council, one Attorney General and three District Attorneys, whose duties and terms of office shall be defined by law. </p>
+
+<p>Sec. 12.  All commissions shall be in the name and by the authority of the Indian Territory, and be sealed with the Seal and signed by the Governor and attested by the Secretary of the Territory. </p>
+</div2>
+<div2>
+<head>Article V.</head>
+
+<p>Sec. 1.  The Judicial Department of the Indian Territory shall be vested in a Supreme Court, three District Courts, and such inferior courts as may be provided by law; but their jurisdiction shall not interfere with the civil and criminal jurisdiction retained to each separate nation by the treaties of 1866. </p>
+
+<p>Sec. 2.  The Supreme Court shall be composed of the three Judges who shall be elected by joint ballot of the General Council as District Judges.  Two of said judges shall form a quorum of the Supreme Court for the transaction of business.  Their terms of office shall be six years, provided that the office of one of said judges shall be vacated in two years, of one in four years, and one in six years, so that at the expiration of each two years one of said judges shall be elected as aforesaid.  The judge elected for six years shall be the first Chief Justice of the Supreme Court and upon the expiration of his term the senior judge in office shall be thereafter the Chief Justice. </p>
+
+<p>Sec. 3.  The Supreme Court shall meet at the Capital commencing on the first Monday in June and December in each year.  The Supreme Court shall be a court of appellate jurisdiction from the district courts and original jurisdiction in such cases as may be prescribed by law. </p>
+
+<p>Sec. 4.  The Supreme and District judge shall have power to issue writs of habeas corpus and other process necessary to the exercise of their appellate or original jurisdiction. </p>
+
+<p>Sec. 5.  The District Court shall have original jurisdiction of all cases civil and criminal arising from the trade or intercourse between the several nations and all cases arising under the legislation of this government as may be prescribed by law. </p>
+
+<p>Sec. 6.  Writs of error, bills of exceptions, and appeals may be allowed from the final decisions of the District Courts in such cases as shall be prescribed by law. </p>
+
+<p>Sec. 7.  It shall be the duty of the General Council to divide the Indian Territory into three districts which shall be as nearly equal in territory and population as may be practicable, assign one of the three judges to each district and provide for the holding of terms of the district court in each at such times and places as may be deemed expedient. </p>
+
+<p>Sec. 8.  No person shall be elected a judge of any of the Courts until he shall have attained to the age of thirty years and who is a person of good character and suitable qualifications. </p>
+
+<p>Sec. 9.  No judge shall sit on a trial of any cause in which he may be interested, or in which he is connected to either of the parties by affinity or consanguinity, except by consent of the parties; and in case of disqualification of any judge, the vacancy shall be filled as may be prescribed by law. </p>
+
+<p>Sec. 10.  All writs and other process shall run in the name of the Indian Territory and bear test and be signed by the Clerk issuing the same. </p>
+
+<p>Sec. 11.  Indictments shall conclude “Against the peace and dignity of the Indian Territory.” </p>
+
+<p>Sec. 12.  Each court shall appoint its own Clerk whose duty and compensation shall be fixed by law. </p>
+
+<p>Sec. 13.  Judges shall not charge Juries with regard to facts proved, but may state the testimony and the law. </p>
+</div2>
+<div2>
+<head>Article VI.</head>
+
+<p>Sec. 1.  The General Council may propose such amendments to this Constitution as three-fourths of each branch may deem expedient; and the Governor shall issue a proclamation directing all civil officers of the Territory to promulgate the same as extensively as possible within their respective districts, at least six months previous to the annual sessions of the National Councils of nations parties hereto; and if three-fourths of such National Councils at such next annual sessions shall ratify such proposed amendments they shall be valid to all intents and purposes as part of this Constitution. </p>
+</div2>
+
+<div2>
+<head>Declaration of Rights</head>
+
+<p>That the general, great and essential principles of liberty and free government may be recognized and established we declare &#8212; </p>
+
+<p>Sec. 1.  That all political power is inherent in the people, and all free governments are founded on their authority and instituted for their benefit; and they shall have at all times the inalienable right to alter, reform or abolish their form of government as may be lawfully provided for. </p>
+
+<p>Sec. 2.  The free exercise of religious worship and serving God without distinction of creed shall forever be enjoyed within the limits of this Territory.  Provided that the liberty of conscience shall not be so construed as to excuse acts of licentiousness or justify practices inconsistent with the peace, safety and good morals of this Territory. </p>
+
+<p>Sec. 3.  No religious test shall ever be required as a qualification to any office of public trust in this Territory. </p>
+
+<p>Sec. 4.  Every citizen shall be at liberty to speak, write or publish his opinions on any subject being responsible for the abuse of this privilege; and no law shall ever be passed curtailing the liberty of speech or of the press. </p>
+
+<p>Sec. 5.  The people shall be secure in their persons, houses, papers and possessions from all unreasonable searches, seizures, and intrusions; and no warrant to search any place or to seize any person or thing shall be issued without describing the place to be searched and the person or thing to be seized as nearly as may be, nor without good cause shown supported by oath or affirmation. </p>
+
+<p>Sec. 6.  In all criminal prosecutions the accused shall have a speedy trial by an impartial jury, of the district wherein the crime shall have been committed; the right of demanding the nature and cause of the accusation, of having the witnesses to testify in his presence, of having compulsory process to procure witnesses in his favor, of having the right to be heard by himself and counsel, of not being compelled to testify against himself, nor to be held to answer to any criminal charge but on information or indictment by a grand jury.</p>
+ 
+<p>Sec. 7.  All prisoners shall be bailable before convcition by sufficient surety except for a capital offense where the proof is evident or the presumption great. </p>
+
+<p>Sec. 8.  Excessive bail shall not be required, nor excessive fines imposed, nor cruel or unusual punishment inflicted, and all courts shall be open and every person for an injury done him in person, reputation or property, shall have remedy as the law directs. </p>
+
+<p>Sec. 9.  No person for the same offense shall be twice put in jeopardy of life or limb and the right of trial by jury shall remain inviolate. </p>
+
+<p>Sec. 10.  No person shall be imprisoned for debt. </p>
+
+<p>Sec. 11.  The citizens shall have the right in a peaceable manner to assemble for their common good, to instruct their representatives and to apply to those invested with the powers of government for redress of grievances or other purposes, by petition, address or remonstrance. </p>
+
+<p>Sec. 12.  The privilege of the writ of habeas corpus shall not be suspended unless the public safety should require it. </p>
+
+<p>Sec. 13.  All power not herein expressly granted by the nations parties to this constitution are reserved by them respectively according to the provisions of their several treaties with the United States.</p>
+
+<p>Sec. 14.  No person who denies the existence of God or a future state of rewards and punishment, shall hold any office in the civil departments of this Indian Territory, nor shall be allowed his oath in any court of justice, neither shall the Bible ever be prohibited as a text book in any school in this Territory. </p>
+</div2>
+
+<div2>
+<head>Schedule to the Constitution</head>
+<p>Sec. 1. In order to organized the Government of the Indian Territory, and secure practical operation for the same, it is hereby ordained and the provisions of this schedule shall be of the same binding force as the Constitution, of which it is a part, that it shall be the duty of the Secretary of this General Council to transmit a duly authenticated copy of this Constitution to the executive authority of each nation represented in the General Council and to ask the acceptance and ratification of the same by the Councils or people of the respective Nations. Upon receiving from such authority notification of its acceptance and ratification by National Councils representing two-thirds of the population of the nations represented in the General Council, it shall be his duty to promulgate such fact, and to call a session of the General Council from the nations ratifying this Constitution at such place as the present session may designate for its next meeting.  It shall be the duty of the General Council when so assembled to adopt such measures as may be necessary to secure the election of a Governor and members of the General Council, and to fix the time of the first meeting of said Council, whose duty it shall be to perfect the organization of the Government of the Indian Territory under the provisions of the foregoing Constitution.  Provided, that this Constitution shall be obligatory and binding only upon such nations and tribes as may hereafter duly approve and adopt the same.</p>
+
+<p>Sec. 2. The oath of office may be administered by any of the Judges of this Indian Territory, until the General Council shall otherwise direct.</p>
+
+<note xml:id="a02">* Source: <title>Sixth</title> (<title>Journal of the Sixth Annual Session of the General Council of the Indian Territory</title>, 1875, pp. 99-114).</note>
+</div2>
+</div1>
+
+<div1 type="notes">
+<milestone unit="crosses"/>
+
+<head>Notes</head>
+
+<note xml:id="f01">*Phone: 402-472-4473<lb/>
+Fax: 402-472-5181<lb/>
+E-mail: cbernholz2@unl.edu</note>
+
+<note xml:id="n01">1 Arber (1876, p. 27) commented upon the printing of Bibles during this period by stating that “[m]any of these editions contain extraordinary errors; but few of these equal that of the edition for which the King’s printers Robert Barker and Martin Lucas were fined £3000 in 1632, for having printed the Seventh Commandment <term>Thou shalt commit adultery</term> leaving out the <term>not</term>.”  Other authors have recorded the fine as £300 (see Plomer, 1915, p.145), but either amount was a substantial penalty in those days.</note>
+
+<note xml:id="n02">2  In this interesting study, Shawcross stated that “[b]ecause of the problems of transmission of text to or through scribes and because of the potential alterations of compositors, printed works offer inconclusive and only corroborative evidence of how Milton spelled.  The place to start is with spellings in Milton's own hand.  Accordingly I have prepared a complete concordance of all English words or abbreviations found in holograph materials” (p. 501).</note>
+
+<note xml:id="n03">3  See this <ref target="http://treatyoffortlaramie1851.unl.edu/">Web page</ref> for more on this transaction.</note>
+
+<note xml:id="n04">4  An offer of such legislative representation for Indians was not unique.  Similar proposals for statehood had been made by the federal government (see, for example, the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/del0003.htm"><title>Treaty with the Delawares, 1778</title></ref> [Kappler, 1904, pp. 3-5]), and by the Confederate States of America during their treaty negotiations with the same tribes in Indian Territory in 1861.  These latter documents are available <ref target="http://csaindiantreaties.unl.edu/">here</ref>.</note>
+
+<note xml:id="n05">5  These two documents may be found, respectively, in the <title>Journal of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Thereof, Assembled in Council at Okmulgee, in the Indian Territory, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington, in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muskokee, and Seminole Tribes of Indians, of the Same Date</title> (1871, pp. 44-57), and in the <title>Journal of the Sixth Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 3d to the 15th (Inclusive) of May, 1875, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date</title> (1875, pp. 99-114).</note>
+
+<note xml:id="n06">6  Note that there was an adjourned sixth meeting after which <title>Okmulgee</title> was published again (<title>Journal of the Adjourned Session of the Sixth Annual General Council of the Indian Territory</title>, 1875, pp. 8-17; <title>Adjourned</title>).  A comparison between the texts of <title>Sixth</title> and <title>Adjourned</title> yielded 28 errors totaling 108 bytes, but these were predominantly style and spelling differences, not procedural ones that separated <title>Council</title> from <title>Sixth</title> (see <ref target="http://okmulgeeconstitution.unl.edu/okmulgee_constitution_tableIIb.htm">Table IIB</ref> in Bernholz, 2011b).</note>
+
+<note xml:id="n07">7 A similar comparative approach may be found in Jefferson Davis’ writings on the government of the Confederate States of America (CSA).  He presented the federal <title>Constitution</title> &#8212; Article for Article – alongside the permanent instrument of the CSA in his Appendix K entitled “The Constitutions” (1881, pp. 640-675).  At the beginning of that appraisal, Davis noted that the United States rendition was “an exact copy of the original in punctuation, spelling, capitals, etc.” (p. 648).  The initial variant of the CSA <title>Constitution</title> is also available in the CSA <title>Statutes at Large</title> (Matthews, 1864/1988, pp. 11-23).</note>
+
+<note xml:id="n08">8  The manipulation of text during Stage III and IV required the addition of a single blank pad prior to the signature blocks in order to maintain the file lengths at 4,104 tokens (see line number 4094 of the Stage III and IV data in <ref target="convergence_table1">Table I</ref>).  The operations within Stage V removed the need for this extra pad.</note>
+
+<note xml:id="n09">9  In those <title>Proclamation</title> comparisons, the simple method to reduce LED noise by normalizing all test materials to lower case was just one way to expedite such an approach, and a full analysis of the contents of imperial documents might wish to incorporate an understanding of case &#8212; and perhaps of punctuation &#8212; to explain variants.</note>
+
+<note xml:id="n10">10  Bernholz (2011a, p. 94) observed the occurrence of “41 Chickasaw, 40 Choctaw, 38 Cherokee, and 18 Creek passages that were likely considered to assist the weaving of the final <title>Okmulgee</title> wording.”  The full <title>Okmulgee</title> text – with these contributions from previous tribal documents &#8212; is available in Appendix IX &#8212; Okmulgee Constitution: Provenance Paths (pp. 275-341).</note>
+
+<note xml:id="n11">11  Note as well, though, that the first instance of <term>government</term> in <title>Council</title> was replaced by <term>form</term> in <title>Sixth</title> at line number 24.</note>
+
+
+</div1>
+
+</back>
+</text>
+</TEI>

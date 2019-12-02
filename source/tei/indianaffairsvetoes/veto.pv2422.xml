@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2422">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2422	S. 2166 (Ninety-eighth Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2422</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2422	S. 2166 (Ninety-eighth Congress, Second Session &#8212; Reagan)</head>
+
+<p>Indian Health Care Amendments of 1983.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 98th Congress adjourned sine die on October 12, 1984.  The bill was presented to the President on October 10, 1984 (130 <title>Cong. Rec.</title> 31240).  A Presidential message was received by Congress on January 22, 1985 (131 <title>Cong. Rec.</title> 733).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 498.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2422.01.pdf"><title>Congressional Record</title> 130, 31240</ref> (1984).</bibl>
+<!-- <floatingText>
+<body>
+31240	CONGRESSIONAL RECORD—SENATE	October 10, 1984
+the Speaker of the House of Representatives:
+S. 607. An act to amend the Communications Act of 1934;
+S. 648. An act to facilitate the exchange of certain lands in South Carolina;
+S. 1102. An act to provide authorization of appropriations for title III of the Marine Protection, Research, and Sanctuaries Act of 1972, and for other purposes;
+S. 1151. An act to compensate heirs of de-ceased Indians for improper payments from trust estates to States or political subdivisions thereof as reimbursements for old age assistance received by decedents during their lifetime;
+S. 1330. An act to establish a National Council on Public Works Improvement to prepare three annual reports on the state of the Nation's infrastruture, to amend the provisions of title 31, United States Code, relating to the President's budget to require it to separately identify and summarize the capital investment expenditures of the United States, and for other purposes;
+S. 1510. An act to establish uniform audit requirements for State and local governments receiving Federal financial assistance;
+S. 1790. An act to authorize the Secretary of the Interior to enter into contracts or co-operative agreements with the Art Barn Association to assist in the preservation and interpretation of the Art Barn in Rock Creek Park in the District of Columbia, and for other purposes;
+S. 2048. An act to provide for the establishment of the Task Force on Organ Trans-plantation and the Organ Procurement and Transplantation Network, to authorize financial assistance for organ procurement organizations, and for other purposes;
+S. 2125. An act to designate certain national forest system lands in the State of Arkansas for inclusion in the National Wilderness Preservation System, and for other purposes;
+S. 2166. An act to reauthorize and amend the Indian Health Care Improvement Act, and for other purposes;
+S. 2303. An act to amend the Public Health Service Act to revise and extend the authorities of that act for assistance for alcohol and drug abuse and mental health services;
+S. 2483. An act to rename Dulles International Airport in Virginia as the "Washing-ton Dulles International Airport";
+S. 2496. An act to extend the authorization of appropriations for certain education programs, and for other purposes;
+S. 2663. An act pertaining to the inheritance of trust or restricted land on the Lake Traverse Indian Reservation, North Dakota and South Dakota, and for other purposes;
+S. 2773. An act to designate certain National Forest System lands in the State of Georgia as wilderness, and for other purposes;
+S. 2808. An act to designate certain National Forest System lands in the State of Mississippi as wilderness, and for other purposes;
+S.J. Res. 80. Joint resolution to grant posthumously full rights of citizenship to William Penn and to Hannah Callowhill Penn;
+S.J. Res. 273. Joint resolution to designate the week of October 7, 1984, through October 13, 1984, as "Smokey Bear Week"; and
+H.J. Res. 663. Joint resolution making further continuing appropriations for fiscal year 1985.
+ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED
+The Secretary reported that on today, October 10, 1984, he had presented to the President of the United States the following enrolled bills and joint resolutions:
+S. 607. An Act to amend the Communications Act of 1934;
+S. 648. An Act to facilitate the exchange of certain lands in South Carolina;
+S. 1102. An Act to provide authorization of appropriations for title III of the Marine Protection, Research, and Sanctuaries Act of 1972, and for other purposes;
+S. 1151. An Act to compensate heirs of de-ceased Indians for improper payments from trust estates to States or political subdivisions thereof as reimbursements for old age assistance received by decedents during their lifetime;
+S. 1330. An Act to establish a National Council on Public Works Improvement to prepare three annual reports on the state of the Nation's infrastructure, to amend the provisions of title 31, United States Code, relating to the President's budget to require it to separately identify and summarize the capital investment expenditures of the United States, and for other purposes;
+S. 1510. An Act to establish uniform audit requirements for State and local governments receiving Federal financial assistance;
+S. 1790. An Act to authorize the Secretary of the Interior to enter into contracts of co-operative agreements with the Art Barn Association to assist in the preservation of the Art Barn in Rock Creek Park in the District of Columbia, and for other purposes.
+S. 2048. An act to provide for the establishment of the Task Force on Organ Trans-plantation and the Organ Procurement and Transplantation Network, to authorize financial assistance for organ procurement organizations, and for other purposes;
+S. 2125. An act to designate certain national forest system lands in the State of Arkansas for inclusion in the National Wilderness Preservation System, and for other purposes;
+S. 2166. An act to reauthorize and amend the Indian Health Care Improvement Act, and for other purposes;
+S. 2303. An act to amend the Public Health Service Act to revise and extend the authorities of that act for assistance for alcohol and drug abuse and mental health services;
+S. 2483. An act to rename Dulles International Airport in Virginia as the "Washing-ton Dulles International Airport";
+S. 2496. An act to extend the authorization of appropriations for certain education programs, and for other purposes;
+S. 2663. An act to the inheritance of trust or restricted land on the Lake Traverse Indian Reservation, North Dakota and South Dakota, and for other purposes;
+S. 2773. An act to designate certain National Forest System lands in the State of Georgia as wilderness, and for other purposes;
+S. 2808. An act to designate certain National Forest System lands in the State of Mississippi as wilderness, and for other purposes;
+S.J. Res. 80. Joint resolution to grant posthumously full rights of citizenship to William Penn and to Hannah Callowhill Penn; and
+S.J. Res. 273. Joint resolution to designate the week of October 7, 1984, through October 13, 1984, as "Smokey Bear Week."
+REPORTS OF COMMITTEES
+The following reports of committees were submitted:
+By Mr. GOLDWATER, from the Select Committee on Intelligence Report to the Senate of the Select Committee on Intelligence for the period January 1, 1983, through December 31. 1984 (with additional views) (Rept. No. 98-665).
+EXECUTIVE REPORTS OF
+COMMITTEES
+The following executive reports of committees were submitted:
+By Mr. HATCH, from the Committee on Labor and Human Resources:
+Faye S. Howell, of Georgia, to be a Member of the National Museum Services Board for the remainder of the term expiring December 6, 1986; and
+Richard J. Herczog, of California, to be a Member of the National Museum Services Board for a term expiring December 6, 1988.
+(The above nominations were reported from the Committee on Labor and Human Resources with the recommendation that they be confirmed, subject to the nominees' commitment to respond to requests to appear and testify before any duly constituted committee of the Senate.)
+INTRODUCTION OF BILLS AND
+JOINT RESOLUTIONS
+The following bills and joint resolutions were introduced, read the first and second time by unanimous con-sent, and referred as indicated:
+By Mr. BIDEN:
+S. 3081. A bill to provide greater protection from civil liability for Federal law enforcement and investigative officers; to the Committee on the Judiciary.
+S. 3082. A bill to provide financial assistance to institutions of higher education for partnership programs with business concerns for basic research in new technology; to the Committee on Labor and Human Re-sources.
+By Mr. BAKER:
+S. 3083. A bill to amend the Land and Water Conservation Fund Act of 1965 and the National Historic Preservation Act to include certain provisions related to the con-version of these funds to trust funds; to the Committee on Energy and Natural Re-sources.
+By Mr. MOYNIHAN:
+S. 3084. A bill to amend part A of title IV of the Social Security Act to provide for grants to States for programs to assist pregnant teenagers and teenage mothers who might otherwise become long-term recipients of aid to families with dependant children: to the Committee on Finance.
+By Mr. MATHIAS:
+S. 3085. A bill to amend the patent laws implementing the Patent Cooperation Treaty; to the Committee on the Judiciary.
+By Mr. CHAFEE:
+S. 3086. A bill to require the National Institute of Child Health and Human Development of the National Institutes of Health to conduct research on, and develop, human contraceptives; to the Committee on Labor and Human Resources.
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2422.02.pdf"><title>Congressional Record</title> 131, 733-734</ref> (1985).</bibl>
+<!-- <floatingText>
+<body>
+January 22, 1 985	CONGRESSIONAL RECORD—SENATE	733
+third year under S. 607, combined funding would be $290 million, a 67 percent increase from the current budget year. Under present fiscal conditions, unrestrained increases of this magnitude—no matter how worthy the programs—are unacceptable.
+Legislation that provides for Federal support of public broadcasting at realistic and reasonable levels and that provides public broadcasters with the means and incentives to explore alter-native revenue sources would be both appropriate and welcome. If, however, we are to succeed in reducing Federal spending—as we must—the levels of spending contemplated by S. 607 cannot be justified.
+In withholding my approval of S. 607, I want to emphasize that the continued operations of the Corporation for Public Broadcasting are not at risk. Funds for the Corporation have al-ready been appropriated for 1985 and 1986, and funds for 1987 are contained in H.R. 6028, the Labor-Health and Human Services-Education 1985 appropriations bill, which recently passed both Houses of Congress.
+I vetoed an earlier version of this legislation on August 29, 1984, for precisely the same reasons that I am withholding my approval of S. 607. I will continue to oppose and reject bills of this nature until and unless Congress presents me with a bill that is consistent with sound budget policy. This one is certainly not, and I decline to approve it.
+RONALD REAGAN. THE WHITE HOUSE. October 19, 1984.
+S. 1097
+MEMORANDUM OF DISAPPROVAL
+I have withheld my approval from S. 1097, the "National Oceanic and Atmospheric Administration's Atmospheric and Oceanic Research and Services Act of 1984." S. 1097 would, among other things, authorize appropriations for various National Oceanic and Atmospheric Administration (NOAA) programs for fiscal year 1085, for which appropriations have already been enacted.
+S. 1097 also contains, however, a number of undesirable provisions that would unduly effect the ability of the Department of Commerce to manage Its programs responsibly and effectively. The provisions in Title VI concerning the closings and consolidations of National Weather Service offices are particularly onerous and would have the effect of virtually precluding the consolidation or closing of such offices, even when such closings or consolidations are fully justified.
+In addition, S. 1097 contains other highly objectionable provisions concerning the Department's activities. Section 205 of S. 1097 would result in excessive and unjustifiable delays in Department contracting-out activities, even when such contracting would bein the clear interest of the Nation's taxpayers. And, Section 202(b), which concerns the weather satellite pro-gram, is objectionable because it would lessen the Secretary of Commerce's discretion in managing that program, as well as require the inefficient use of a government asset.
+This act represents an unwarranted intrusion by Congress into matters normally and properly within the management discretion of the Executive branch. In the interest of efficient and economical conduct of government activities, therefore, I am con-strained to withhold my approval of S. 1097.
+RONALD REAGAN. THE WHITE HOUSE, October 19, 1984.
+S.2166
+MEMORANDUM OF DISAPPROVAL.
+I am withholding my approval of S. 2166, the "Indian Health Care Amendments of 1984," which would extend and amend the Indian Health Care Improvement Act.
+Although I fully support the intent and objectives of the Indian Health Care Improvement Act, I believe this bill is seriously deficient in fulfilling those goals. My disapproval of the
+will in no way affect the continued de-livery of health care services to our country's Indian population. Earlier this month I signed the Continuing Resolution Appropriations Act for fiscal year 1985, which includes $855 million for the Indian Health Service, an increase of $30 million over the prior year.
+A number of serious flaws in S. 2166 compel my disapproval of this bill. Two provisions are especially trouble-some.
+First, a provision that I find totally unacceptable would actually reduce access to health services for Indians. That provision would have the effect of making Indians residing in Montana ineligible for certain benefits of State and locally supported health programs until and unless the availability of such benefits from the Indian Health Service has been exhausted. In my view, this provision for Indian citizens of Montana would set a precedent for potentially changing the fundamental relationship of the Indian Health Service to State and Iocal entities, as well as depriving eligible Indians of benefits that should be due them by virtue of their citizenship in the State. As a matter of both principle and precedent, I cannot accept this provision.
+Second, the mechanism established in section 802(d) of the bill for effecting the removal of the Indian Health Service from the Health Resources and Services Administration (HRSA) is unconstitutional and can have no legal effect. The Department of Justice has advised me that the Congress may not constitutionally delegate to acongressionally appointed body, such as the Commission on the Organizational Placement of the Indian Health Service established by this bill, the legislative authority to determine when legislation will take effect. Be-cause section 602(d) does not comply with the clear requirements of the Constitution, I cannot give my approval to this bill.
+Other serious flaws in S. 2166 that compel my disapproval would: —duplicate existing authorities in
+most of its provisions; —unnecessarily and	wastefully
+change the organization of the
+Indian Health Service; and
+—	place increased emphasis on services that are not oriented toward the primary mission of the Indian Health Service.
+The bill would allocate a significant portion of funding for various peripheral projects, such as unnecessary re-ports, interagency agreements, and regulations development. This would lead either to an unacceptable in-crease in total funding or to under-funding of the most critical area—provision of clinical health services to reservation Indians. The Administration has, on the other hand, proposed using most Indian health funds for this purpose, so that resources can be most effectively spent where the need is the greatest.
+For all these reasons, I find S. 2166 unacceptable.
+As I indicated earlier, the action I am taking will have no adverse impact on the delivery of health services to Indians living on or near a reservation because the existing provisions of the Snyder Act provide all necessary authority for such services. Since 1955, utilizing the Snyder Act authorities:
+-	30 hospitals have been construct-
+ed;
+-	30 clinics and 58 field health stations have been constructed;
+—Annual admissions to Indian Health Service and contract hospitals have more than doubled; out-patient visits have multiplied by approximately eight times; and the number of dental services provided has increased ten-fold.
+Even more important are the
+achievements in terms of improved
+health status, which is, after all, the
+goal of the Indian Health Service:
+—The infant mortality rate has de-creased by 77 percent and the maternal death rate by 86 percent;
+—	The death rate resulting from pneumonia and influenza has de-creased by 73 percent: and
+—	Death from tuberculosis has been reduced by 94 percent and the incidence of new active tuberculosis has been reduced by 84 percent.
+Over the last decade, the Federal
+Government has supported the Indian
+Health Service with over $5 billion.
+HeinOnline- 131 Cong.Rec. 733 1985
+734	CONGRESSIONAL RECORD—SENATE	January 22, 1985
+The last budget that I submitted to the Congress projected spending an additional $4 billion through 1989.
+My Administration's commitment to ensuring the continuing improvement of health services delivery to Indian people and Alaska natives is strong and clear.
+RONALD REAGAN. THE WHITE HOUSE, October .19, 1984.
+MESSAGES FROM THE HOUSE
+At 2:07 p.m., a message from the House of Representatives, delivered by Ms. Goetz, one of its reading clerks, announced that the House has agreed to the following resolution:
+H. Res. 29. Resolution relative to the death of the Honorable Gillis W, Long, a Representative from the State of Louisiana.
+EXECUTIVE AND OTHER
+COMMUNICATIONS
+The following communications were laid before the Senate, together with accompanying papers, reports, and documents, which were referred as indicated:
+EC-141. A communication from the Acting Assistant Secretary of the Army (Installations and Logistics), transmitting, pursuant to law, a report on the conversion of the U.S. Army Recruiting Center at Cameron Station, VA, and Fort Meade, MD, to performance by contract; to the Committee on Armed Services.
+EC-142. A communication from the Secretary of Defense, transmitting, pursuant to law, a report on the status of efforts to re-solve disputes connected with the establishment of the Regional Military Training Center in Honduras; to the Committee on Armed Services.
+EC-143. A communication from the Secretary of the Federal Energy Regulatory Commission transmitting, pursuant to law, the final valuations of properties of certain carriers; to the Committee on Commerce, Science, and Transportation,
+EC-144. A communication from the Comp-troller General of the United States transmitting an analysis of issues concerning "acid rain'; to the Committee on Environment and Public Works.
+EC-145. A communication from the Chair-man of the Consumer Product Safety Commission transmitting, pursuant to law, a report on the results of an evaluation of the system of internal accounting and administrative control of the Commission; to the Committee on Governmental Affairs.
+EC-146. A communication from the Secretary of the Postal Rate Commission dismissing a proposal to add a new category of mail; to the Committee on Governmental Affairs.
+EC-147. A communication from the D.C. Auditor transmitting, pursuant to law, a report on overpayments to LaMancha, Inc.; to the Committee on Governmental Affairs.
+EC-148. A communication from the Administrator of Veterans' Affairs transmitting, pursuant to law, a semiannual report of the inspector general for the period April 1, 1984 through September 30, 1984; to the Committee on Governmental Affairs.
+EC-149. A communication from the Deputy Assistant Secretary of Defense transmitting, pursuant to law, a notice for a
+Computer Matching Program; to the Committee on Governmental Affairs.
+EC-150. A communication from the Secretary of Education transmitting, pursuant to law, the Department's letter of assurance and annual statement to the President on Internal controls at the Department of Education; to the Committee on Governmental Affairs.
+EC-151. A communication from the Secretary of Education transmitting, pursuant to law, notice of completion of 1984 reviews of the Department's accounting systems; to the Committee on Governmental Affairs.
+EC-152. A communication from the Assist-ant Attorney General for Administration transmitting, pursuant to law, a notice of Intent to establish a new Privacy Act system of records; to the Committee on Govern-mental Affairs.
+EC-153. A communication from the Acting Assistant Secretary for Health transmitting, pursuant to law, a report on a new system of records; to the Committee on Governmental Affairs.
+EC-154. A communication from the Secretary of Health and Human Services transmitting, pursuant to law, the annual report of the Indian Health Care Improvement Act; to the Select Committee on Indian Affairs,
+EC-155. A communication from the Secretary of Health and Human Services, transmitting, pursuant to law, a report under the Primary Care Block Grants Act; to the Committee on Labor and Human Resources.
+EC-156. A communication from the Assist-ant Secretary of the Interior (Water and Science), transmitting, pursuant to law, a report on an application by the Rancho California Water District, CA, for a loan under the Small Reclamation Projects Act; to the Committee on Energy and Natural Resources.
+EC-157. A communication from the Acting Under Assistant Secretary of Agri-culture for International Affairs and Commodity Programs, transmitting, pursuant to law, the second quarterly commodity and country allocation table showing current programming plans for food assistance under title I/III of Public Law 480 for fiscal year 1985; to the Committee on Agriculture, Nutrition, and Forestry.
+EC-158. A communication from the Comp-troller General of the United States, transmitting, pursuant to law, a report on the President's third special message for fiscal year 1985; pursuant to Senate Resolution 45, referred jointly to the Committee on the Budget, the Committee on Appropriations, the Committee on Foreign Relations, the Committee on Armed Services, the Commit-tee on Energy and Natural Resources, the Select Committee on Indian Affairs, the Committee on Labor and Human Resources, and the Committee on Governmental Affairs,
+EC-159. A communication from the Deputy Secretary of Defense, transmitting, pursuant to law, the report on the civilian end strength for fiscal year 1984; to the Committee on Armed Services.
+EC-160. A communication from the Secretary of Housing and Urban Development, transmitting, pursuant to law, the fiscal year 1984 annual report on the Department's Solar Energy and Energy Conservation Bank; to the Committee on Banking, Housing, and Urban Affairs.
+EC-161. A communication from the Secretary of Housing and Urban Development, transmitting, pursuant to law, the fiscal year 1984 report on the Rental Rehabilita-tion Program; to the Committee on Banking, Housing, and Urban Affairs.
+EC-162. A communication from the Administrator of NASA transmitting, pursuant to law, a report on the recent establishment in NASA of an Office of Commercial Pro-gram; to the Committee on Commerce, Science, and Transportation,
+EC-163. A communication from the Acting Secretary of Agriculture transmitting, pursuant to law, a report on a minor boundary adjustment to the Admiralty Island National Forest Monument to remove a mining operation therefrom; to the Committee on Energy and Natural Re-sources.
+EC-164. A communication from the Secretary of Energy transmitting, pursuant to law, a report on activities to implement the alternative fuels production program; to the Committee on Energy and Natural Re-sources.
+EC-165. A communication from the Secretary of Energy transmitting, pursuant to law, a report on certain actions taken under the Uranium Mill Tailings Radiation Control Act; to the Committee on Energy and Natural Resources.
+EC-166. A communication from the Secretary of Energy transmitting pursuant to law, a report on the natural gas market; to the Committee on Energy and Natural Re-sources.
+EC-167. A communication from the Acting Secretary of the Interior transmitting, pursuant to law, a report on the Salinity Control Program and the quality of water in the Colorado River basin; to the Committee on Energy and Natural Re-sources.
+EC-168. A communication from the Fiscal Assistant Secretary of the Treasury transmitting, pursuant to law, a report on the statement of liabilities and other financial commitments of the U.S. Government; to the Committee on Finance.
+EC-169. A communication from the Chair-woman of the U.S. International Trade Commission transmitting, pursuant to law, the 40th quarterly report on trade between the United States and the nonmarket economy countries; to the Committee on Finance.
+EC-170. A communication from the Secretary of the Treasury transmitting, pursuant to law, the annual report of the U.S. Government for the fiscal year ended September 30, 1984; to the Committee on Finance.
+EC-171. A communication from the Acting Director of the Defense Security Assistance Agency transmitting, pursuant to law, a secret report on the fiscal year 1984 operation of the special defense acquisition fund; to the Committee on Foreign Relations,
+EC-172. A communication from the Chair-man of the National Endowment for the Arts transmitting, pursuant to law, a report on the agency's system of internal control; to the Committee on Governmental Affairs.
+EC-173. A communication from the Chair-man of the Nuclear Regulatory Commission transmitting, pursuant to law, a report on the Commission's system of internal ac-counting and administrative control; to the Committee on Governmental Affairs.
+EC-174. A communication from the Associate Director of the U.S. Information Agency transmitting, pursuant to law, a report on the Agency's internal controls; to the Committee on Governmental Affairs.
+EC-175. A communication from the Staff Director of the Commission on Civil Rights transmitting, pursuant to law, a report on the Commission's system of internal con-
+
+</body></floatingText> -->
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

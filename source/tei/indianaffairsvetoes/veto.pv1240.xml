@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1240">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1240	H.R. 5229 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1240</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Stockbridge</term>
+<term>Munsee</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1240	H.R. 5229 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>Directing the Secretary of the Interior to investigate, hear, and determine claims of the individual members of the Stockbridge and Munsee Tribes of Indians of the State of Wisconsin.</p>
+
+<p>Vetoed August 13, 1935.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 274 (79 <title>Cong. Rec.</title> 12904).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 266.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1240.01.pdf">Veto message on H.R. 5229, a bill directing the Secretary of the Interior to investigate, hear, and determine claims of individual members of the Stockbridge and Munsee tribe of Indians of the State of Wisconsin.  Message from the President of the United States, transmitting to the House of Representatives without his approval the bill H.R. 5229, “An act directing the Secretary of the Interior to investigate, hear, and determine claims of individual members of the Stockbridge and Munsee Tribe of Indians of the State of Wisconsin.”</ref>  (1935).   House of Representatives.  74th Congress, 1st session.  House Document No. 274 (<title>Serial Set</title> 9928).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 74TH CONGRESS  1st Session	HOUSE OF REPRESENTATIVES  Document  No. 274 </fw>
+<head>VETO MESSAGE ON H. R. 5229, A BILL DIRECTING THE SECRETARY OF THE INTERIOR TO INVESTIGATE, HEAR, AND DETERMINE CLAIMS OF INDIVIDUAL MEMBERS OF THE STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS OF THE STATE OF WISCONSIN</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+TO THE HOUSE OF REPRESENTATIVES WITHOUT HIS APPROVAL THE BILL H. R. 5229, "AN ACT DIRECTING THE SECRETARY OF THE INTERIOR TO INVESTIGATE, HEAR, AND DETERMINE CLAIMS OF THE INDIVIDUAL MEMBERS OF THE STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS OF THE STATE OF WISCONSIN"</head>
+<milestone unit="rule" />
+<head type="sub">AUGUST 12, 1935.&#8212;Referred to the Committee on Indian Affairs and ordered to
+be printed</head>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return, without approval, H. R. 5229, "An Act directing the Secretary of the Interior to investigate, hear, and determine claims of the individual members of the Stockbridge and Munsee Tribe of Indians of the State of Wisconsin".</p>
+<p>The bill would authorize the Secretary of the Interior to investigate and decide claims of individual members of the Stockbridge and Munsee Tribe but is not clear as to just what individuals would be authorized to file claims, the exact nature thereof, or the amount involved. The only individual claims which have been brought forward are those of persons who claimed to be members of the Stock-bridge and Munsee Tribe of Indians but whose claims were disallowed when the rolls of the tribe were prepared.</p>
+<p>It would require great expense to investigate the merits of any and all claims which might be asserted by an individual Indian, with little prospect of any benefits to be derived.</p>
+<signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>The WHITE HOUSE, August 12, 1935.</dateline><pb n="2" />
+<fw> 2	VETO MESSAGE ON H. R. 5229  </fw>
+<p>H. R. 5229</p>
+<head>SEVENTY-FOURTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON THURSDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-FIVE.</head>
+<head type="sub">AN ACT Directing the Secretary of the Interior to investigate, hear, and determine claims of the individual members of the Stockbridge and Munsee Tribe of Indians of the State of Wisconsin.</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the Interior be, and he is hereby, authorized and directed to investigate, hear, and determine the claims of the individual members of the Stockbridge and Munse Tribe of Indians of the State of Wisconsin: Provided, That the Secretary of the Interior is authorized to make all rules and regulations necessary to carry out the provisions of this Act: Provided further, That the claims which shall be investigated under this Act shall be individual claims for allotments of land and for loss of personal property, timber or logs, or improvements on allotments belonging to any such Indian. In the event the original claimant is dead, such claim or claims may be presented by his or her heirs. If any such claims shall be considered meritorious, the Secretary of the Interior shall adjust and pay the same where there is existing law therefor, and such other meritorious claims he shall report to Congress with his recommendations.</p>
+<closer><signed>JOSEPH W. BYRNS, Speaker of the House of Representatives. </signed>
+<signed>JNO. N. GARNER,
+Vice President of the United States and President of the Senate.</signed>
+<note>[Endorsement on back of bill:]</note>
+<p>I certify that this act originated in the House of Representatives</p>
+<signed>SOUTH TRIMBLE, Clerk.</signed></closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1240.02.pdf"><title>Congressional Record</title> 79, 12904</ref> (1935).</bibl>
+</div1>
+<!-- <floatingText>
+<body>
+<fw> 12904	CONGRESSIONAL RECORD HOUSE	AUGUST 12 </fw>
+<fw> fourth Congress to fill the vacancy of the First District of Alabama has been received and flied in this office. Very truly yours,
+SOUTH TRIMBLE, Clerk of the House of Representatives. </fw>
+<p>Mr. HILL of Alabama. Mr. Speaker, I ask that Mr. BOYKIN, the new Representative from the First District of Alabama, be sworn in.</p>
+<p>Mr. BoYKIN appeared in the well of the House and took the oath of office prescribed by law.</p>
+<p>VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES &#8212; STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS OF THE STATE OF WISCONSIN (H. DOC. NO. 274)</p>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States, which was read and ordered spread at large upon the Journal:</p>
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return without approval, H. R. 5229, "An act directing the Secretary of the Interior to investigate, hear, and determine claims of the individual members of the Stockbridge and Munsee Tribe of Indians of the State of Wisconsin."</p>
+<p>The bill would authorize the Secretary of the Interior to investigate and decide claims of individual members of the Stockbridge and Munsee Tribe but is not clear as to just what individuals would be authorized to file claims, the exact nature thereof, or the amount involved. The only individual claims which have been brought forward are those of persons who claimed to be members of the Stock-bridge and Munsee Tribe of Indians but whose claims were disallowed when the rolls of the tribe were prepared.</p>
+<p>It would require great expense to investigate the merits of any and all claims which might be asserted by an individual Indian, with little prospect of any benefits to be derived.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 12, 1935.</dateline></closer>
+</quote>
+<p>Mr. TAYLOR of Colorado. Mr. Speaker, I move that the message, together with the bill, be referred to the Committee on Indian Affairs and ordered printed.</p>
+<p>The motion was agreed to.</p>
+<head>ORDER OF BUSINESS</head>
+<p>Mr. TAYLOR of Colorado. Mr. Speaker, I ask unanimous consent that it may be in order tomorrow to call the Consent Calendar.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Colorado?
+There was no objection.</p>
+<head>LEAVE OF ABSENCE</head>
+<p>By unanimous consent, leave of absence was granted to Mr. DALY (at the request of Mr. HOUSTON), for 2 days, on account of important business.</p>
+<head>SENATE BILL REFERRED</head>
+<p>A bill of the Senate of the following title was taken from the Speaker's table and, under the rule, referred as follows</p>
+<p>S. 3047. An act to amend the act entitled "An act to amend and consolidate the acts respecting copyright", approved March 4, 1909, as amended, and for other purposes; to the Committee on Patents.</p>
+<head>ENROLLED BILL SIGNED</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee had examined and found truly enrolled a bill of the House of the following title, which was thereupon signed by the Speaker:</p>
+<p>H. R. 7260. An act to provide for the general welfare by establishing a system of Federal old-age benefits, and by enabling the several States to make more adequate provision for aged persons, blind persons, dependent and crippled children, maternal and child welfare, public health, and the administration of their unemployment, compensation laws; to establish a Social Security Board; to raise revenue; and for other purposes.</p>
+<head>BILLS PRESENTED TO THE PRESIDENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on the following dates present to the President, for his approval, bills of the House of the following titles:</p>
+On August 9, 1935:
+<p>H. R. 6511. An act to amend the air mail laws and to authorize the extension of the Air Mail Service.</p>
+<p>On August 10, 1935:</p>
+<p>H. R. 4665. An act authorizing the filling of vacancies in certain judgeships;</p>
+<p>H. R. 6228. An act authorizing a capital fund for the Chippewa Indian Cooperative Marketing Association;</p>
+<p>H. R. 6990. An act to fix the hours of duty of postal employees, and for other purposes;</p>
+<p>H. R. 7349. An act to amend the act entitled "An act for the control of floods on the Mississippi River and its tributaries, and for other purposes ", approved May 15, 1928, as amended; and</p>
+<p>H. R. 8554. An act making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1935, and for prior fiscal years, to provide supple-mental appropriations for the fiscal years ending June 30, 1935, and June 30, 1936, and for other purposes.</p>
+<head>THE LATE CHARLES V. TRUAX</head>
+<p>Mr. DUFFEY of Ohio. Mr. Speaker, I ask unanimous consent to address the House for 5 minutes.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Ohio?</p>
+<p>There was no objection.</p>
+<p>Mr. DUFFEY of Ohio. Mr. Speaker, again the House of Representatives of the Seventy-fourth Congress of the United States pauses to pay a tribute of respect and esteem to a deceased colleague. In my own behalf and for colleagues from Ohio, on both sides of the aisle, I bring to the official attention of the House of Representatives the sad statement of the death of Hon. CHARLES V. TRUAX, Congressman at large, from Ohio.</p>
+<p>Shortly after 1 o'clock on last Friday, August 9, 1935, he left the floor of the House, feeling somewhat ill. He did not realize that he was never to return, for within a few short hours thereafter his death occurred. It was sudden and unexpected.</p>
+<p>There is not a Member of the House who did not know the gentleman from Ohio, Mr. TRUAX. He was always present when the House was in session, zealously and sincerely entering into debate, and with a colorful presentation of his viewpoint. He worked arduously and valiantly in the interest of the common people&#8212;in the interest of the farmer and the veteran and laborer. He fought vigorously against what he was wont to call "big business" and "monopolistic tendencies." His last words on the floor of the House were typical of the gentleman from Ohio, reflecting his intense interest in the problem of the farmer, when we read on page 12819 of the CONGRESSIONAL RECORD of August 9, 1935, his inquiry in these words:</p>
+<p>Mr. TRUAX. Does not the gentleman believe that it does not make any difference how high the price of hogs or how high the price of cattle, when a particular farmer loses his farm he is out for the balance of his life? There are a half million going to lose their farms because of the failure of this Congress to enact the Frazier-Lemke law.</p>
+<p>And then, when we turn to page 12837 of the RECORD for the same date, on the quorum roll call no, 160, we read:</p> <quote>And the following Members failed to answer to their names: </quote>
+<p>And among those absent appears the name "TRUAX." When roll calls hereafter are called Mr. TRUAX, of Ohio, will forever fail to answer to his name.</p>
+<p>We from Ohio had learned to know Mr. TRUAx. His heart was warm and his sentiments and feelings were sympathetic and friendly.</p>
+<p>Congressman CHARLES V. TRUAX, Democrat, of Bucyrus, Ohio, 49 years of age, was born on a farm and educated in the country and public schools. The farm was his home</p>
+</body></floatingText> -->
+
+
+
+</body>
+</text>
+</TEI>

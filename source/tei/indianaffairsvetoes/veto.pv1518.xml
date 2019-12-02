@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1518">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1518	H.R. 4831 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1518</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Menominee</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1518	H.R. 4831 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>Authorizing the Secretary of the Interior to pay salaries and expenses of the chairman, secretary and interpreter of the Menominee General Council, members of the Advisory Council; and official delegates of the Menominee Tribe.</p>
+
+<p>Pocket veto occurred after the 1st session of the 76th Congress had adjourned sine die on August 5, 1939.  The bill was presented to the President on August 5, 1939 (84 <title>Cong. Rec.</title> 11219; <hi rend="italics">see also</hi> 84 <title>Cong. Rec.</title> 11223).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 316.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1518.01.pdf"><title>Congressional Record</title> 84, 11219</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1939	CONGRESSIONAL RECORD-HOUSE	11219 </fw>
+<p>S. J. Res. 72. Joint resolution readmitting Mary Cohen Bienvenu to citizenship;</p>
+<p>S. J. Res. 160. Joint resolution to provide for the maintenance for public use of certain highways in the Shenandoah National Park;</p>
+<p>S. J. Res. 181. Joint resolution giving the consent of the Congress to an agreement between the States of Iowa and Missouri establishing a boundary between said States;</p>
+<p>S. J. Res. 182. Joint resolution to amend Public Resolution No. 112, Seventy-fifth Congress; and</p>
+<p>S. J. Res. 185. Joint resolution to authorize The Assistant Secretary of the Navy to continue to serve as Acting Secretary of the Navy until the appointment of a Secretary, and for other purposes.</p>
+<head>BILLS AND JOINT RESOLUTIONS PRESENTED TO THE PRESIDENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, re-ported that that committee did on this day present to the President, for his approval, bills and joint resolutions of the House of the following titles:</p>
+<p>H. R. 139. An act to amend paragraph (1) of section 96 of title 2 of the Canal Zone Code relating to method of computing annuities;</p>
+<p>H. R. 377. An act to amend the act entitled "An act for the relief of Harry Bryan and Aida Duffield Mullins, and others";</p>
+<p>H. R. 1428. An act for the relief of First Lt. Samuel E. Williams;</p>
+<p>H. R. 1648. An act to provide for the refund or credit of the internal-revenue tax paid on spirits lost or rendered unmarketable by reason of the floods of 1936 and 1937 where such spirits were in the possession of the original taxpayer or rectifier for bottling or use in rectification under Government supervision as provided by law and regulation;</p>
+<p>H. R. 2049. An act for the relief of Olin C. Risinger;</p>
+<p>H. R. 2096. An act for the relief of Lucile Snider and Cliff Snider, Jr.;</p>
+<p>H. R. 2250. An act for the relief of Frank Malles, Jr.; </p>
+<p>H. R. 2344. An act for the relief of James McConnachie; </p><p>H. R. 2363. An act for the relief of the estate of Harvey T.
+Combs;</p>
+<p>H. R. 2440. An act for the relief of Thomas J. Smith;</p>
+<p>. H. R. 3122. An act to extend the time for completing the construction of a bridge across the Columbia River near The Dalles, Oreg.;</p>
+<p>H. R. 3156. An act for the relief of Anna E. Hurley;</p>
+<p>H. R. 3172. An act to confer jurisdiction on the Court of
+Claims to hear, determine, and render judgment upon the
+claim of Fiske Warren;</p>
+<p>H. R. 3676. An act for the relief of C. E. Hendrickson and the Stephenville Hospital, Stephenville, Tex.;</p>
+<p>H. R. 3689. An act for the relief of the Columbus Iron Works Co.;</p>
+<p>H. R. 3853. An act for the relief of Floyd Elton;</p>
+<p>H. R. 3927. An act for the relief of Marijo McMillan Williams;</p>
+<p>H. R. 3933. An act for the relief of Otho L. Curtner;</p>
+<p>H. R. 3959. An act to authorize the Secretary of the Interior to dispose of recreational demonstration projects, and
+for other purposes;</p>
+<p>H. R. 3962. An act for the relief of Grace Campbell;</p>
+<p>H. R. 4033. .An act for the relief of Albert R. Rinke;</p> <p>H. R. 4062. An act for the relief of Clarendon Davis;</p> <p>H. R. 4072. An act for the relief of Emmitt Courtney;</p>
+<p>H. R. 4108. An act to provide for the transfer of United
+States Employment Service records, files, and property in
+local offices to the States;</p>
+<p>H. R. 4141. An act for the relief of Celia Press and Bernard Press;</p>
+<p>H. R. 4252. An act for the relief of J. George Bensel Co.;</p> <p>H. R. 4275. An act for the relief of Harry Vrountas and Theodore Vrountas;</p>
+<p>H. R. 4300. An act for the relief of Anton Saganey, John J. Beatty, Frederick J. Coppenrath, Joseph R. Driscoll, Edward A. Morash, and Michael Siderowicz;</p>
+<p>H. R. 4482. An act for the relief of Byron MacDonald;</p> <p>H. R. 4549. An act for the relief of William H. Radcliffe;</p>
+<p>H. R. 4554. An act for the relief of Francis A. Leete and Sarah Leete;</p>
+<p>H. R. 4601. An act for the relief of Paul W. McCoy;</p>
+<p>H. R. 4606. An act for the relief of the Toledo Terminal Railroad Co., of Toledo, Ohio;</p>
+<p>H. R. 4616. An act for the relief of M. F. Gubrud;</p>
+<p>H. R. 4725. An act for the relief of William L. Rull;</p>
+<p>H. R. 4726. An act for the relief of James W. Gilson;</p>
+<p>H. R. 4831. An act authorizing the Secretary of the Interior to pay salaries and expenses of the chairman, secretary, and interpreter of the Menominee General Council, members of the Menominee Advisory Council, and official delegates of the Menominee Tribe;</p>
+<p>H. R. 4872. An act to establish the Benjamin Harrison Commission to formulate plans for the construction of a permanent memorial to the memory of Benjamin Harrison, twenty-third President of the United States;</p>
+<p>H. R. 4875. An act for the relief of Mamie Hoffman;</p>
+<p>H. R. 4885. An act for the relief of James M. Harwood;</p>
+<p>H. R. 4965. An act for the relief of J. Harry Walker;</p>
+<p>H. R. 5115. An act for the relief of Harry W. Lyle;</p>
+<p>H. R. 5129. An act authorizing and providing for the construction of additional facilities on the Canal Zone for the purposes of more adequately providing for the defense of the Panama Canal and for increasing its capacity for the future needs of interoceanic shipping;</p>
+<p>H. R. 5259. An act for the relief of Mrs. Layer Taylor;</p> <p>H. R. 5266. An act for the relief of Mina Kell;</p>
+<p>H. R. 5333. An act to amend the acts granting increased compensation to civilian employees for the period July 1, 1917, to June 30, 1924;</p>
+<p>H. R. 5338. An act for the relief of Mr. and Mrs. John Eckendorff and Mr. and Mrs. Alexander G. Dorr;</p>
+<p>H. R. 5348. An act for the relief of certain postmasters;</p> <p>H. R. 5350. An act for the relief of Caryl Burbank, Preston A. Stanford, and Fire Association of Philadelphia;</p>
+<p>H. R. 5383. An act for the relief of H. A. Dixon;</p>
+<p>H. R. 5405. An act authorizing the installation of parking meters and other devices on the streets of the District of Columbia, and for other purposes;</p>
+<p>H. R. 5491. An act to pay salary of Ruth Dornsife;</p>
+<p>H. R. 5506. An act to authorize the Secretary of the Interior to constract with the State Water Conservation Board of Montana and the Tongue River Water Users' Association for participation in the costs and benefits of the Tongue River Storage Reservoir project for the benefit of lands on the Tongue River Indian Reservation, Mont.;</p>
+<p>H. R. 5515. An act for the relief of Mrs. Virgie B. Weaver;</p> <p>H. R. 5557. An act for the relief of V. H. Scheuring, Elmer Eggers, and Thomas Fahey;</p>
+<p>H. R. 5607. An act for the relief of George A. Meffan, United States marshal, District of Idaho;</p>
+<p>H. R. 5681. An act to authorize the Federal Surplus Commodities Corporation to purchase and distribute surplus products of the fishing industry;</p>
+<p>H. R. 5685. An act to amend the act of Congress entitled "An act to define, regulate, and license real-estate brokers, business-chance brokers, and real-estate salesmen; to create a Real Estate Commission in the District of Columbia; to protect the public against fraud in real-estate transactions; and for other purposes," approved August 25, 1937;</p>
+<p>H. R. 5698. An act for the relief of H. H. Rhyne, Jr.;</p>
+<p>H. R. 5704. An act to amend Private Law No. 310, Seventy-fifth Congress, first session, an act for the relief of D. E. Sweinhart;</p>
+<p>H. R. 5803. An act for the relief of Clyde Equipment Company;</p>
+<p>H. R. 5835. An act to authorize the President to render closer and more effective the relationship between the American republics;</p>
+<p>H. R. 5845. An act to provide for the establishment of a Coast Guard station on the shore of North Carolina at or near Wrightsville Beach, New Hanover County;</p>
+<p>H. R. 5857. An act to amend Private Act No. 286, approved June 18, 1934, entitled "An act for the relief of Carleton-Mace Engineering Corporation";</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1518.03.pdf"><title>Congressional Record</title> 84, 11225</ref> (1939).</bibl>
+<!-- <floatingText>
+<body> WRONG TEXT DON"T USE
+<fw> 1939	CONGRESSIONAL RECORD-SENATE	11123_ </fw>
+<p>H.R. 1428. An act for the relief of First Lt. Samuel E. Williams;</p>
+<p>H. R. 2049. An act for the relief of Olin C. Risinger;</p>
+<p>H. R. 2096. An act for the relief of Lucile Snider and Cliff Snider, Jr.;</p>
+<p>H. R. 2250. An act for the relief of Frank Malles, Jr.;</p>
+<p>H. R. 2344. An act for the relief of James McConnachie;</p> <p>H. R. 2363. An act for the relief of the estate of Harvey T.
+Combs;</p>
+<p>H. R. 2440. An act for the relief of Thomas J. Smith;</p>
+<p>H. R. 3122. An act to extend the time for completing the construction of a bridge across the Columbia River near The Dalles, Oreg.;</p>
+<p>H. R. 3156. An act for the relief of Anna E. Hurley;</p>
+<p>H. R. 3172. An act to confer jurisdiction on the Court of Claims to hear, determine, and render judgment upon the claim of Fiske Warren;</p>
+<p>H. R. 3676. An act for the relief of C. E. Hendrickson and Stephenville Hospital, Stephenville, Tex.;</p>
+<p>H. R. 3689. An act for the relief of the Columbus Iron Works Co.;</p>
+<p>H. R. 3853. An act for the relief of Floyd Elton;</p>
+<p>H. R. 3933. An act for the relief of Otho L. Curtner; </p>
+<p>H. R. 3962. An act for the relief of Grace Campbell; </p>
+<p>H. R. 4033. An act for the relief of Albert R. Rinke;</p> 
+<p>H. R. 4062. An act for the relief of Clarendon Davis;</p> <p>H. R. 4072. An act for the relief of Emmitt Courtney;</p>
+<p>H. R. 4141. An act for the relief of Celia Press and Bernard
+Press;</p>
+<p>H. R. 4252. An act for the relief of J. George Bensel Co.;</p>
+<p>H. R. 4275. An act for the relief of Harry Vrountas and Theodore Vrountas;</p>
+<p>H. R. 4300. An act for the relief of Anton Saganey, John J. Beatty, Frederick J. Coppenrath, Joseph R. Driscoll, Edward A. Morash, and Michael L. Siderowicz;</p>
+<p>H. R. 4482. An act for the relief of Byron MacDonald;</p>
+<p>H. R. 4549. An act for the relief of William H. Radcliffe;</p> <p>H. R. 4554. An act for the relief of Francis A. Leete and Sarah Leete;</p>
+<p>H. R. 4601. An act for the relief of Paul W. McCoy;</p>
+<p>H. R. 4606. An act for the relief of the Toledo Terminal Railroad Co., of Toledo, Ohio;</p>
+<p>H. R. 4616. An act for the relief of M. F. Gubrud;</p>
+<p>H. R. 4725. An act for the relief of William L. Rull; </p>
+<p>H. R. 4726. An act for the relief of James W. Gilson;</p>
+<p>H. R. 4831. An act authorizing the Secretary of the Interior to pay salaries and expenses of the chairman, secretary, and interpreter of the Menominee General Council, members of the Menominee Advisory Council, and official delegates of the Menominee Tribe;</p>
+<p>H. R. 4875. An act for the relief of Mamie Hoffman;</p>
+<p>H. R. 4885. An act for the relief of James M. Harwood;</p><p> H. R. 5115. An act for the relief of Harry W. Lyle;</p> <p>H. R. 5259. An act for the relief of Mrs. Layer Taylor;</p><p> H. R. 5266. An act for the relief of Mina Keil;</p>
+<p>H. H. 5338. An act for the relief of Mr. and Mrs. John
+Eckendorff, and Mr. and Mrs. Alexander G. Dorr;</p>
+<p>H. R. 5348. An act for the relief of certain postmasters; </p><p>H. R. 5350. An act for the relief of Caryl Burbank, Preston
+A. Stanford, and Fire Association of Philadelphia; </p><p>H. R. 5383. An act for the relief of H. A. Dixon;</p>
+<p>H. R. 5491. An act to pay salary of Ruth Dornsife;</p>
+<p>H. R. 5557. An act for the relief of V. H. Scheuring, Elmer Eggers, and Thomas Fahey;</p>
+<p>H. R. 5607. An act for the relief of George A. Meffan, United States marshal, district of Idaho;</p>
+<p>H. R. 5698. An act for the relief of H. H. Rhyne, Jr.;</p>
+<p>H. R. 5704. An act to amend Private Law No. 310, Seventy-
+fifth Congress, first session, an act for the relief of D. E.
+Sweinhart;</p>
+<p>H. R. 5803. An act for the relief of Clyde Equipment Co.;</p>
+<p>H. R. 5845. An act to provide for the establishment of a Coast Guard station on the shore of North Carolina at or near Wrightsville Beach, New Hanover County;</p>
+<p> H. R. 5857. An act to amend Private Act No. 286, approved June 18, 1934, entitled "An act for the relief of Carleton-Mace Engineering Corporation";</p>
+<p>H. R. 5894. An act for the relief of John E. Garrett;</p>
+<p>H. R. 5895. An act for the relief of James D. Larry, Sr.; </p>
+<p>H. R. 5923. An act for the relief of Simon A. Brieger, as
+legal representative of the estate of Thomas Gerald Brieger,
+a deceased minor;</p>
+<p>H. R. 5931. An act for the relief of Elizabeth Hessman;</p> <p>H. R. 5951. An act for the relief of the heirs of Emma J. Hall;</p>
+<p>H. R. 5953. An act for the relief of Marie Heinen;</p>
+<p>H. R. 5998. An act to amend section 32 of the act entitled "An act to authorize the construction of certain bridges and to extend the times for commencing and/or completing the construction of other bridges over the navigable waters of the United States, and for other purposes," approved August 30, 1935;</p>
+<p>H. R. 6021. An act to repeal the minimum-price limitation on sale of the Akron, Ohio, old post-office building and site;</p>
+<p>H. R. 6271. An act granting the consent of Congress to the Secretary of the Interior, the State of Washington, and the Great Northern Railway Co. to construct, maintain, and operate either a combined highway and railroad bridge or two separate bridges across the Columbia River at or near Kettle Falls, Wash.;</p>
+<p>H. R. 6362. An act for the relief of Annie Bearden, Ruth Bearden, Essie Burton, Beatrice Carter, Mary Cobb, Addie Graham, Annie Grant, Sallie Harris, Minerva Holbrooks, Omie Keese, Sallie Marett, Josie McDonald, Jessie Morris, Martha O'Shields, Mae Phillips, Leila H. Roach, Belva Surrett, and Shelley Turner;</p>
+<p> H. R. 6441. An act authorizing the county of St. Louis, State of Missouri, to construct, maintain, and operate a toll bridge across the Mississippi River near Jefferson Bar-racks, Mo.;</p>
+<p>H. R. 6490. An act for the relief of W. R. Fuchs, former disbursing clerk, Department of Agriculture; J. L. Summers, former disbursing clerk, and G. F. Allen, chief disbursing officer, Division of Disbursements, Treasury Department;</p>
+<p>H. R. 6491. An act for the relief of Roscoe B. Huston and Simeon F. Felarca;</p>
+<p>H. R. 6492. An act for the relief of John L. Hicks, rural rehabilitation supervisor, Farm Security Administration, Department of Agriculture, Santa Rosa, N. Mex.;</p>
+<p>H. R. 6662. An act granting the consent of Congress to the Dauphin County (Pa.) Authority to construct, maintain, and operate a highway bridge across the Susquehanna River at or near the city of Harrisburg, Pa.;</p>
+<p>H. R. 6728. An act for the relief of Stacy C. Masser, receiver for the Great Northern Majestic Building Corporation;</p>
+<p>H. R,. 6805. An act for the relief of Sam E. Woods;</p>
+<p>H. R. 6907. An act granting the consent of Congress to the Commonwealth of Pennsylvania to reconstruct, maintain, and operate a free highway bridge across the Susquehanna River from the borough of Wyoming, in the county of Luzerne, Commonwealth of Pennsylvania, to Jenkins Township, county of Luzerne, Commonwealth of Pennsylvania;</p>
+<p>H. R. 6963. An act for the relief of Buford Lee Pratt;</p>
+<p>H. R. 7049. An act for the relief of John L. Summers, former disbursing clerk, Treasury Department, and for other purposes;</p>
+<p>H. R. 7096. An act to amend an act entitled "An act to provide for the complete independence of the Philippine Is-lands, to provide for the adoption of a constitution and a form of government for the Philippine Islands, and for other purposes";</p>
+<p>H. R. 7262. An act granting the consent of Congress to Frank O. Lowden, James E. Gorman, and Joseph B. Fleming, trustees of the estate of the Chicago, Rock Island & Pacific Railway Co., to construct, maintain, and operate a railroad bridge across the Missouri River at or near Randolph, Mo.;</p>
+<p>H. J. Res. 320. Joint resolution to amend Public Resolution No. 46, approved August 9, 1935, entitled "Joint resolution</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

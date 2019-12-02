@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.table">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Cumulative index table</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<authority>I Forbid: Presidential Vetoes and American Indian Affairs, 1789-2000</authority>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.table</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2010-08-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+
+<body>
+<head>The cumulative index table of entries found under the collective “Native Americans” presented in <title>Presidential Vetoes, 1789-1988</title> (1992) and <title>Presidential Vetoes, 1989-2000</title> (2001).
+</head>
+
+<list>
+<item>Agreements, tribal obligations, <ref target="veto.pv1259">1259</ref></item>
+<item>Allegany Tribe, <ref target="veto.pv0129">129</ref>, <ref target="veto.pv1221">1221</ref></item>
+<item>Apache Tribe. (See San Carlos Apache Tribe.)</item>
+<item>Appropriations, <ref target="veto.pv0030">30</ref>, <ref target="veto.pv2442">2442</ref></item>
+<item>Arkansas, railroad right of way, <ref target="veto.pv0443">443</ref>,<ref target="veto.pv0689">689</ref></item>
+<item>Assiniboine Tribe, irrigation claim, <ref target="veto.pv2421">2421</ref></item>
+<item>Assiniboine Tribe, MT, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>Bear Robe, Bessie, relief, <ref target="veto.pv1510">1510</ref></item>
+<item>Bernalillo County, NM, hospital care, <ref target="veto.pv2201">2201</ref></item>
+<item>Big Day, Henry, patent in fee, <ref target="veto.pv1854">1854</ref></item>
+<item>Blackfeet Tribe, MT, survey and allot lands, <ref target="veto.pv0908">908</ref></item>
+<item>Bureau of Indian Affairs, employment preference, <ref target="veto.pv2345">2345</ref></item>
+<item>Buy Indian Act, <ref target="veto.pv2486">2486</ref></item>
+<item>California tribes, claims, <ref target="veto.pv1052">1052</ref>, <ref target="veto.pv1324">1324</ref>, <ref target="veto.pv2465">2465</ref></item>
+<item>Cattaraugus Tribe, <ref target="veto.pv0129">129</ref>, <ref target="veto.pv1221">1221</ref></item>
+<item>Cherokee Tribe, treaty payment, <ref target="veto.pv0030">30</ref></item>
+<item>Chickasaw Tribe, <ref target="veto.pv0972">972</ref>, <ref target="veto.pv1106">1106</ref>, <ref target="veto.pv1419">1419</ref></item>
+<item>Chippewa Tribe: Mille Lacs Band, land claim, <ref target="veto.pv2382">2382</ref></item>
+<item>Chippewa Tribe: Minnesota, claims, <ref target="veto.pv1055">1055</ref>, <ref target="veto.pv1111">1111</ref>, <ref target="veto.pv2382">2382</ref></item>
+<item>Chippewa Tribe: North Dakota, claims, <ref target="veto.pv1137">1137</ref>, <ref target="veto.pv1180">1180</ref></item>
+<item>Chippewa Tribe: Red Lake Band, timber payment, <ref target="veto.pv1392">1392</ref>, <ref target="veto.pv1485">1485</ref></item>
+<item>Chippewa Tribe: Turtle Mountain Band, claims, <ref target="veto.pv1137">1137</ref>, <ref target="veto.pv1180">1180</ref></item>
+<item>Choctaw Tribe, <ref target="veto.pv0972">972</ref>, <ref target="veto.pv1106">1106</ref>, <ref target="veto.pv1419">1419</ref>, <ref target="veto.pv2505">2505</ref></item>
+<item>Cocopah Tribe, land claim, <ref target="veto.pv2430">2430</ref></item>
+<item>Contracts, <ref target="veto.pv2486">2486</ref></item>
+<item>Court of Claims: Depredations, refer to, <ref target="veto.pv0848">848</ref></item>
+<item>Court of Claims: Oregon, jurisdiction, <ref target="veto.pv1118">1118</ref></item>
+<item>Cowlitz Tribe, legal suit, <ref target="veto.pv1072">1072</ref></item>
+<item>Crow Creek Indian Agency, SD, land sale, <ref target="veto.pv1957">1957</ref></item>
+<item>Crow Tribe, <ref target="veto.pv1854">1854</ref>, <ref target="veto.pv2086">2086</ref></item>
+<item>Eberle, Kate, relief, <ref target="veto.pv0742">742</ref></item>
+<item>Education Assistance Act, amend, <ref target="veto.pv2410">2410</ref></item>
+<item>Education, <ref target="veto.pv2521">2521</ref></item>
+<item>Education: Devils Lake, ND, high school, <ref target="veto.pv1247">1247</ref></item>
+<item>Education: Education Assistance Act, amend, <ref target="veto.pv2410">2410</ref></item>
+<item>Education: Indian Self-Determination and Education Act, amend, <ref target="veto.pv2410">2410</ref></item>
+<item>Education: Sioux City, ND, school building, <ref target="veto.pv0127">127</ref></item>
+<item>Education: Tribally Controlled Community College Assistance Act of 1978, amend, <ref target="veto.pv2403">2403</ref></item>
+<item>Education: Williams County, ND, school buildings, <ref target="veto.pv1270">1270</ref></item>
+<item>Employment preference, <ref target="veto.pv2345">2345</ref></item>
+<item>Employment, <ref target="veto.pv2486">2486</ref></item>
+<item>Five Civilized Tribes, <ref target="veto.pv0979">979</ref>, <ref target="veto.pv1032">1032</ref></item>
+<item>Fort Belknap Indian Community, construction claims, <ref target="veto.pv2421">2421</ref></item>
+<item>Fort Peck Indian Reservation, MT, <ref target="veto.pv2499">2499</ref></item>
+<item>Fort Peck, MT, school, <ref target="veto.pv1478">1478</ref></item>
+<item>Fort Smith, Paris, and Dardanelle Railway Co., right of way, <ref target="veto.pv0443">443</ref></item>
+<item>Fox Tribe. (See Sac and Fox Tribes.)</item>
+<item>Gainsville, McAlister, and St. Louis Railway Co., reservation right of way, <ref target="veto.pv0726">726</ref></item>
+<item>Galveston &amp; Great Northern Railway Co., reservation right of way, <ref target="veto.pv0825">825</ref></item>
+<item>Gas mining leases, <ref target="veto.pv1057">1057</ref></item>
+<item>Gila Valley, Globe &amp; Northern Railway Co., reservation right of way, <ref target="veto.pv0679">679</ref></item>
+<item>Grants, <ref target="veto.pv2486">2486</ref></item>
+<item>Gros Ventre Tribe, construction claims, <ref target="veto.pv2421">2421</ref></item>
+<item>Health care, <ref target="veto.pv2201">2201</ref>, <ref target="veto.pv2422">2422</ref></item>
+<item>Health, <ref target="veto.pv2521">2521</ref></item>
+<item>Homestead entries on reservations, <ref target="veto.pv1407">1407</ref></item>
+<item>Hopi Tribe, <ref target="veto.pv1926">1926</ref>, <ref target="veto.pv2375">2375</ref></item>
+<item>How, John, agent, <ref target="veto.pv0355">355</ref></item>
+<item>Indian Health Service, employment preference, <ref target="veto.pv2345">2345</ref></item>
+<item>Indian Preference Act of 1990, <ref target="veto.pv2486">2486</ref></item>
+<item>Jena Band, Choctaw Tribe, <ref target="veto.pv2505">2505</ref></item>
+<item>Kansas City, Oklahoma, &amp; Pacific Railway Co., right of way, <ref target="veto.pv0674">674</ref>, <ref target="veto.pv0688">688</ref></item>
+<item>Kansas Tribe, relief to suppliers, <ref target="veto.pv0139">139</ref></item>
+<item>Kansas, railroad right of way, <ref target="veto.pv0443">443</ref></item>
+<item>Klamath Tribe, <ref target="veto.pv1163">1163</ref>, <ref target="veto.pv1393">1393</ref></item>
+<item>Kootenai Tribe, Flathead Reservation, MT, claims, <ref target="veto.pv1814">1814</ref></item>
+<item>Leavenworth and Rio Grande Railway Co., right of way, <ref target="veto.pv0615">615</ref></item>
+<item>Left Her Behind, Winnie, land patent, <ref target="veto.pv1756">1756</ref></item>
+<item>Legal remedies, <ref target="veto.pv2521">2521</ref></item>
+<item>Marak, Iris Huebner, land sale, <ref target="veto.pv1960">1960</ref></item>
+<item>Mashantucket Pequot Tribe, claims, <ref target="veto.pv2409">2409</ref></item>
+<item>Menominee Tribe, salaries of Council officers, <ref target="veto.pv1518">1518</ref></item>
+<item>Miamies Tribe, land allotment, <ref target="veto.pv0555">555</ref></item>
+<item>Mille Lacs Band.  (See Chippewa Tribe.)</item>
+<item>Mississippi Sioux Indian Judgment Fund Act of 1972, <ref target="veto.pv2499">2499</ref></item>
+<item>Missouri River Basin Project, right of way, <ref target="veto.pv2086">2086</ref></item>
+<item>Missouria Tribe, land sale, <ref target="veto.pv0158">158</ref></item>
+<item>Montana, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>Montana: Land sale, <ref target="veto.pv1899">1899</ref></item>
+<item>Montana: Railroad right of way through reservation, <ref target="veto.pv0245">245</ref></item>
+<item>Munsee and Stockbridge Tribes. (See Stockbridge and Munsee Tribes).</item>
+<item>Native American Programs Amendments of 1986, <ref target="veto.pv2442">2442</ref></item>
+<item>Navajo Tribe: Land claim, <ref target="veto.pv2430">2430</ref></item>
+<item>Navajo Tribe: Rehabilitation and utilization of resources, <ref target="veto.pv1926">1926</ref></item>
+<item>Navajo Tribe: Relief, <ref target="veto.pv1567">1567</ref></item>
+<item>Navajo Tribe: Relocation Commission, amend, <ref target="veto.pv2375">2375</ref></item>
+<item>Navajo Tribe: Settlers’ rights, <ref target="veto.pv0844">844</ref></item>
+<item>New York tribes, Kansas land sale, <ref target="veto.pv0466">466</ref></item>
+<item>North Dakota, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>North Dakota, land sale, <ref target="veto.pv1899">1899</ref></item>
+<item>Oil Springs Indian Reservation, OH, fish and game jurisdiction, <ref target="veto.pv1221">1221</ref></item>
+<item>Oil, reservation leases, <ref target="veto.pv1057">1057</ref></item>
+<item>Oklahoma Central Railway Co., reservation right of way, <ref target="veto.pv0683">683</ref></item>
+<item>Omaha Tribe, NE, extend payment time to land purchasers, <ref target="veto.pv0629">629</ref></item>
+<item>Osage Tribe, <ref target="veto.pv0951">951</ref>, <ref target="veto.pv1515">1515</ref></item>
+<item>Otoe Tribe, land sale, <ref target="veto.pv0158">158</ref></item>
+<item>Papago Tribe, AZ, water rights, <ref target="veto.pv2398">2398</ref></item>
+<item>Pine Ridge Reservation, SD, Iris Marak land sale, <ref target="veto.pv1960">1960</ref></item>
+<item>Quilter, John, land lease, <ref target="veto.pv0900">900</ref></item>
+<item>Railroad rights of way, <ref target="veto.pv0245">245</ref>, <ref target="veto.pv0443">443</ref>, <ref target="veto.pv0553">553</ref>, <ref target="veto.pv0554">554</ref>, <ref target="veto.pv0612">612</ref>,<ref target="veto.pv0615">615</ref>, <ref target="veto.pv0674">674</ref>, <ref target="veto.pv0679">679</ref>, <ref target="veto.pv0683">683</ref>, <ref target="veto.pv0688">688</ref>, <ref target="veto.pv0689">689</ref>, <ref target="veto.pv0726">726</ref>, <ref target="veto.pv0738">738</ref>, <ref target="veto.pv0825">825</ref></item>
+<item>Red Lake Band. (See Chippewa Tribe.)</item>
+<item>Sac and Fox Tribes, <ref target="veto.pv0158">158</ref>, <ref target="veto.pv0906">906</ref></item>
+<item>Salish Tribe, Flathead Reservation, MT, claims, <ref target="veto.pv1814">1814</ref></item>
+<item>San Carlos Apache Tribe, <ref target="veto.pv0679">679</ref>, <ref target="veto.pv1474">1474</ref></item>
+<item>Self-termination and Education Assistance Act, <ref target="veto.pv2410">2410</ref></item>
+<item>Seminole Tribe, <ref target="veto.pv1126">1126</ref>, <ref target="veto.pv1384">1384</ref></item>
+<item>Seneca Nation, <ref target="veto.pv0900">900</ref>, <ref target="veto.pv0926">926</ref>, <ref target="veto.pv1221">1221</ref></item>
+<item>Settlers, land payments, <ref target="veto.pv0778">778</ref></item>
+<item>Shawnee Tribe, treaty, <ref target="veto.pv1061">1061</ref></item>
+<item>Shield Chief, Catherine, patent in fee, <ref target="veto.pv1854">1854</ref></item>
+<item>Shoshone Tribe, <ref target="veto.pv0978">978</ref>, <ref target="veto.pv1063">1063</ref></item>
+<item>Siletz Power and Mfg. Co., reservation right of way, <ref target="veto.pv0916">916</ref>, <ref target="veto.pv0955">955</ref></item>
+<item>Siletz Tribe, land claims, <ref target="veto.pv0964">964</ref></item>
+<item>Sioux City, ND, school building, <ref target="veto.pv1271">1271</ref></item>
+<item>Sioux Tribe, Dakota Territory, railroad right of way, <ref target="veto.pv0554">554</ref></item>
+<item>Sioux Tribe: Devils Lake, ND, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>Sioux Tribe: Fort Peck Reservation, MT, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>Sioux Tribe: Sisseton-Wahpeton, SD, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>Sisseton-Wahpeton Sioux Tribe, <ref target="veto.pv2499">2499</ref></item>
+<item>Sky Necklace, Mary, relief, <ref target="veto.pv1220">1220</ref></item>
+<item>South Dakota, claim, <ref target="veto.pv2499">2499</ref></item>
+<item>South Dakota, land sale, <ref target="veto.pv1899">1899</ref></item>
+<item>Southern California Indian Land Transfer Act, <ref target="veto.pv2465">2465</ref></item>
+<item>Southern Ute. (See Ute Tribe.)</item>
+<item>St. Louis and San Francisco Railroad Co., right of way, <ref target="veto.pv0612">612</ref></item>
+<item>Stockbridge and Munsee Tribes, <ref target="veto.pv0649">649</ref>, <ref target="veto.pv1240">1240</ref>, <ref target="veto.pv1241">1241</ref></item>
+<item>Taxed lands, relief to holders, <ref target="veto.pv1607">1607</ref></item>
+<item>Taxes, refund, <ref target="veto.pv1864">1864</ref></item>
+<item>Taylor, Jesse, claims by heirs, <ref target="veto.pv1172">1172</ref></item>
+<item>Treaties, <ref target="veto.pv0030">30</ref>, <ref target="veto.pv0830">830</ref>, <ref target="veto.pv1061">1061</ref>, <ref target="veto.pv1259">1259</ref></item>
+<item>Tribally Controlled Community College Assistance Act of 1978, amend, <ref target="veto.pv2403">2403</ref></item>
+<item>Trust funds, custody transfer, <ref target="veto.pv0163">163</ref></item>
+<item>Turtle Mountain Band. (See Chippewa Tribe.)</item>
+<item>Two Elk-Poor Bear, Bessie, patent in fee, <ref target="veto.pv1879">1879</ref></item>
+<item>Uintah Band. (See Ute Tribe.)</item>
+<item>Uncompaghre Band. (See Ute Tribe.)</item>
+<item>United Peorias Tribe, land allotment, <ref target="veto.pv0555">555</ref></item>
+<item>Ute Tribe: Claims, <ref target="veto.pv1391">1391</ref></item>
+<item>Ute Tribe: Southern Ute Band, claim, <ref target="veto.pv1097">1097</ref></item>
+<item>Ute Tribe: Uintah Band, claim, <ref target="veto.pv1097">1097</ref></item>
+<item>Ute Tribe: Uncompaghre Band, <ref target="veto.pv0624">624</ref>, <ref target="veto.pv1097">1097</ref></item>
+<item>Ute Tribe: Ute Mountain Band, claims, <ref target="veto.pv1097">1097</ref>, <ref target="veto.pv2383">2383</ref></item>
+<item>Ute Tribe: White River Band, claim, <ref target="veto.pv1097">1097</ref></item>
+<item>Washington State tribes, claims, <ref target="veto.pv1054">1054</ref>, <ref target="veto.pv1058">1058</ref>, <ref target="veto.pv1069">1069</ref></item>
+<item>Washington State, legal remedies, <ref target="veto.pv2521">2521</ref></item>
+<item>White Bull, Ella, patent in fee, <ref target="veto.pv1880">1880</ref></item>
+<item>White River Band. (See Ute Tribe.)</item>
+<item>Yakima Confederated Tribes, delegate expenses, <ref target="veto.pv1197">1197</ref></item>
+<item>Yankton and Missouri River Railway, Yankton Reservation right of way, <ref target="veto.pv0553">553</ref></item>
+<item>Yuma County, AZ, lands, <ref target="veto.pv2430">2430</ref></item>
+</list>
+</body>
+</text>
+    </TEI>

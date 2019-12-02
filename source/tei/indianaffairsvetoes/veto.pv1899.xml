@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1899">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1899	H.R. 3153 (Eightieth Congress, Second Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1899</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eightieth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1899	H.R. 3153 (Eightieth Congress, Second Session &#8212; Truman)</head>
+
+<p>To provide for the sale or other disposal of certain submarginal lands located within the boundaries of Indian reservations in the States of Montana, North Dakota and South Dakota.</p>
+
+<p>Vetoed February 10, 1948.  The veto message was laid before the House, referred to the Committee on Public Lands, and printed as H.R. Doc. No. 527 (94 <title>Cong. Rec.</title> 1276).</p>
+
+<p>Veto unchallenged</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 387.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1899.01.pdf">Providing for sale or other disposal of certain submarginal lands located within the boundaries of Indian reservations in the States of Montana, North Dakota, and South Dakota.  Message from the President of the United States returning without approval the Bill (H.R. 3153) to provide for the sale or other disposal of certain submarginal lands located within the boundaries of Indian reservations in the States of Montana, North Dakota and South Dakota.</ref>  (1948).  House of Representatives.  80th Congress, 2nd session.  House   Document No. 527 (<title>Serial Set</title> 11241).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 80TH CONGRESS  2d Session HOUSE OF REPRESENTATIVES  DOCUMENT
+	No. 527 </fw>
+<head>PROVIDING FOR SALE OR OTHER DISPOSAL OF CERTAIN SUB MARGINAL LANDS LOCATED WITHIN THE BOUNDARIES OF INDIAN RESERVATIONS IN THE STATES OF MONTANA, NORTH DAKOTA, AND SOUTH DAKOTA</head>
+<head>MESSAGE
+
+FROM
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (H. R. 3153) TO PROVIDE FOR THE SALE OR OTHER DISPOSAL OF CERTAIN SUBMARGINAL LANDS LOCATED WITHIN THE BOUNDARIES OF INDIAN RESERVATIONS IN THE STATES OF MONTANA, NORTH DAKOTA, AND SOUTH DAKOTA</head>
+<p>FEBRUARY 12, 1948.&#8212;Referred to the Committee on Public Lands and ordered to be printed</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval H. R. 3153, to provide for the sale or other disposal of certain submarginal lands located within the boundaries of Indian reservations in the States of Montana, North Dakota, and South Dakota.</p>
+<p>During the drought period of 1932 to 1938 the United States acquired in the drought areas, out of funds appropriated under the statutes referred to in H. R. 3153, approximately 10,000,000 acres of submarginal lands, much of which is suited only for carefully limited and controlled grazing use. Of the submarginal lands so acquired in the States of Montana, North Dakota, and South Dakota, approximately 245,000 acres were in 1938 and 1939 placed by Executive order under the administrative jurisdiction of the Secretary of the Interior in order to facilitate their use for the benefit of the Indian tribes occupying reservations in the same localities. The underlying purpose of H. R. 3153 appears to be that of making provision by law for the permanent disposition of these lands, through the transfer to Indian tribal ownership of those lands needed for and adapted to Indian grazing use, through the transfer to individual Indians of those lands needed for and adapted to Indian agricultural use, and through the<pb corresp="" n="2" />
+<fw> 2	DISPOSAL OF CERTAIN SUBMARGINAL INDIAN LANDS </fw>
+transfer to individual veterans of the other agricultural or grazing lands upon appropriate conditions as to price and future use. While this underlying purpose is sound, the manner in which the bill attempts to provide for its accomplishment seems to me to be altogether unsound from several aspects.</p>
+<p>First, the bill would grant to local disposal committees absolute authority not merely to determine factual matters but also to decide the entire policy question of how these submarginal lands should be disposed of, without any effective guidance in the form of statutory standards to channel and control the discretion of their members. Nor does the bill provide any means whereby the decisions of the local disposal committees may be reviewed. On the contrary, it expressly directs the Secretary of the Interior "to make such transfers of title as shall carry out the recommendations of the committee."</p> <p>
+I cannot consider this a sound method of legislation. Local boards, having no real responsibility to either the legislative or the executive branch of the Government, should not be granted the authority to dispose of large tracts of land belonging to the United States merely in accordance with their own opinions as to what would be the best manner of disposing of these lands. Yet this is what the bill would do. Local committees may serve a helpful purpose in the classification of lands for disposal, but certainly adequate standards to govern their actions should be prescribed by law, and adequate means for the review of their determinations should be provided. Yet this is what the bill does not do. Such broad policy issues as whether in a semi-arid country grazing land should be disposed of in the same manner as agricultural land, or whether individual applicants for grants of land should be required to pay or not to pay for the lands they receive, ought not to be left to the untrammeled and unreviewable judgment of local boards. Under the bill it would be possible for each local committee to decide these policy issues for itself, with the result that contradictory policies might be established for neighboring areas.</p>
+<p>Second, H. R. 3153, would permit the disposition of the lands affected by its provisions in ways that would be decidedly contrary to the public interest. The primary purpose of the acquisition of these lands was to prevent overgrazing and other land-use practices which had so accelerated the wind and water erosion of the soil in many drought areas as to produce dust-bowl conditions. A second purpose of their acquisition was the relief of the agricultural poverty which had been brought about through the subdivision of lands best adapted for grazing use into farm units far too small to support the families then attempting to draw a living from these lands. Notwithstanding the large expenditures made for the purchase of submarginal lands in order to prevent the recurrence of these conditions, H. R. 3153 would permit some of these lands to be returned to private ownership without any safeguards whatsoever against their use in ways that would tend to produce dust-bowl conditions and agricultural poverty.</p>
+<p>Lands which should be retained permanently under Federal supervision could be given or sold by the local disposal committees to private individuals, and lands which can be economically used only under carefully worked out conservation programs might be disposed of without the imposition of necessary saeguards against maluse and deterioration. The inevitable tendency would be to invite the plowing of lands which should be used only for grazing, the destruction of<pb corresp="" n="3" />
+<fw> DISPOSAL OF CERTAIN SUBMARGINAL INDIAN LANDS	3 </fw>
+grass through overgrazing, and the resumption of other bad land-use practices. Such practices would, in turn, tend to produce the same conditions of soil depletion and accelerated erosion, and the same sub-division of ranch lands into unstable farm units, which were basic causes of the agricultural distress that beset the people of Montana, North Dakota, and South Dakota, as well as of other States, during the period immediately prior to the acquisition of the submarginal lands.</p>
+<p>We cannot prevent the recurrence of drought cycles, but we should not disregard their lessons. We should not reverse, even to the limited extent inherent in H. R. 3153, the policy of protecting submarginal lands against abuse, born out of the experience of the last great drought cycle, merely because a wet cycle has intervened. To do so would be to throw away the money spent for the acquisition of the submarginal lands, and to intensify agricultural distress whenever drought reappears.</p>
+<p>Third, H. R. 3153 substantially disregards the very real equity which the Indians of the localities where the submarginal lands are situated have in their continued utilization as a part of the otherwise sorely deficient land base of these Indians. While it is true that under the broad discretion conferred on the local disposal committees by the terms of the bill, every single acre of these lands could be placed in Indian tribal ownership, it is also true that under the same broad discretion most, if not all, of the tracts involved could be granted by the local committees to non-Indians.</p>
+<p>When the submarginal lands affected by H. R. 3153 were acquired, it was definitely contemplated that they would be used to assist the neighboring Indian tribes in consolidating their scattered land holdings, in creating economic range units which would support Indian families, in developing conservational land-use practices, and in establishing a better pattern of Indian land ownership and use. To this end the Secretary of the Interior in 1938 and 1939 was directed to administer the lands for the benefit of the Indians, insofar as consistent with the uses for which the lands had been acquired. Since that time the Secretary, in cooperation with the tribes concerned, has developed and put into effect programs for the improvement of the Indian economy to which continued Indian use of at least large parts of the submarginal lands is essential. These programs, and the legitimate Indian aspirations founded upon them, would be frustrated by many of the dispositions which could be accomplished under the terms of the bill. To cite but one example, many existing Indian range units are composed in part of Indian-owned lands and in part of federally owned submarginal lands, and in these units the Indian-owned home properties frequently could not be operated except in conjunction with the submarginal lands upon which they are dependent. The bill provides no safeguards for the protection of these established operations other than the judgment of the local disposal committees.
+Thus H. R. 3153 would open the door to disruption of the Indian economy built up, at no little labor and expense, in reliance upon the continued availability for Indian use of many of the areas covered by the bill. In addition it would deny the Indians any immediate recompense for this disruption, since it provides that any receipts
+DISPOSAL OF CERTAIN SUBMARGINAL INDIAN LANDS
+from the use or sale of the submarginal lands shall be deposited in the Federal Treasury as miscellaneous receipts.</p>
+<p>Fourth, a detailed examination of the bill reveals that a number of its provisions are either ambiguous or impracticable. For example, reference is made at various places to "the county in which the major portion of the Indian reservation lies." This reference does not fit several of the reservations involved which are so divided by county lines that no one county contains "the major portion" of the reservation.</p>
+<p>For these reasons I am constrained to withhold my approval from H. R. 3153.</p>
+<signed>HARRY S. TRUMAN.</signed>
+<dateline>THE WHITE HOUSE, February 10, 1948. H. R. 3153</dateline>
+<milestone unit="rule" />
+<head>EIGHTIETH CONGRESS OF THE UNITED STATES OF AMERICA, AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OP WASHINGTON ON TUESDAY, THE SIXTH DAY OP JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY-EIGHT</head>
+<p>AN ACT To provide for the sale or other disposal of certain submarginal lands located within the boundaries</p>
+<p>of Indian reservations in the States of Montana, North Dakota, and South Dakota
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That (a) upon the enactment of this Act the Secretary of the Interior shall set up a land disposal committee for each of the Indian reservations in the States of Montana, North Dakota, and South Dakota, which have within their boundaries land acquired under authority of title II of the National Industrial Recovery Act of June 16, 1933 (48 <title>Stat.</title> 200), the Emergency Relief Appropriation Act of April 8, 1935 (49 <title>Stat.</title> 115), section 55 of title I of the Act of August 24, 1935 (49 <title>Stat.</title> 750, 781), and title III of the Bankhead-Jones Farm Tenant Act of July 22, 1937 (50 <title>Stat.</title> 522), as amended (hereinafter referred to as "title III land").</p>
+<p>(b) Such committee shall be composed of&#8212;</p>
+<p>(1) the chairman of the board of county commissioners of the county in which the major portion of the Indian reservation lies, or a member of the board designated by him;</p>
+<p>(2) the State conservationist of the Soil Conservation Service or a representative designated by him;</p>
+<p>(3) the Superintendent of the Indian reservation;</p>
+<p>(4) the chairman of the tribal council of the reservation, or a member of the council to he designated by the council; and</p>
+<p>(5) an honorably discharged veteran, who is a resident of the county in which the major portion of the Indian reservation lies and is familiar with the lands in question, to be chosen as the fifth member of the committee by the four members described above.</p>
+<p>SEC. 2. The committee shall organize immediately with the chairman of the board of county commissioners, or the member of the board of county commissioners designated by him, as its chairman, and shall proceed to recommend the disposition of all title III land described in section 1 of this Act. In making such recommendation, the committee may secure the assistance of the Soil Conservation technicians of the Indian Office and the Soil Conservation Service and it shall classify title III lands according to their use capability, designating as grazing lands those tracts which cannot be used for the production of cultivated crops without causing soil depletion and accelerated erosion.</p>
+<p>SEC. 3. Title III land may be (a) granted or sold to (1) the United States in trust for the Indians occupying the reservation, (2) other Federal or State government units for experimental purposes, (3) individual Indian veterans, (4) individual non-Indian veterans, or (h) exchanged for other land located within the same reservation.</p>
+<p>SEC. 4. In the disposal of said land the committee may fix a consideration based on adequate appraisal which considers normal value. In making its findings the committee shall consider (a) the capability and condition of the tract concerned; (b) the effect such disposition would have on the economy of local farms, ranches,<pb corresp="" n="4" />
+<fw> DISPOSAL OF CERTAIN SUBMARGINAL INDIAN LANDS </fw>
+and units of government; (c) the best land use of the area; and (d) other factors which the committee considers pertinent.</p>
+<p>SEC. 5. The committee in each county, when it shall have determined the disposition of the said lands or any part thereof, shall so certify to the Secretary of the Interior, who is hereby authorized and directed to make such transfers of title as shall carry out the recommendations of the committee.</p>
+<p>SEc. 6. All rentals or other revenues received for the use or sale of the title III land shall be covered into the Treasury of the United States for credit to miscellaneous receipts.</p>
+<closer><signed>JOSEPH W. MARTIN, Jr.,</signed>
+Speaker of the House of Representatives.
+<signed>WILLIAM F. KNOWLAND,</signed>
+Acting President of the Senate pro tern pore.
+<note>[Endorsement on back of bill:]</note>
+I certify that this Act originated in the House of Representatives.
+<signed>JOHN ANDREWS,</signed> Clerk</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1899.02.pdf"><title>Congressional Record</title> 94, 1276</ref> (1948).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1276	CONGRESSIONAL RECORD-HOUSE	FEBRUARY 12 </fw>
+<p>H. Con. Res. 139. Concurrent 'resolution providing for a joint session of the two Houses on Monday, April 19, 1948, in commemoration of the fiftieth anniversary of the liberation of Cuba; and</p>
+<p>H. Con. Res. 140. Concurrent resolution extending the life of the Joint Committee on the Observance and Celebration of the Victory Over Spain.</p>
+<p>The message also announced that the Senate had passed, with amendments in which the concurrence of the House is requested, a bill of the House of the following title:</p>
+H. R. 3503. An act to permit the issuance of unrestricted deeds for town-site lands held by Alaska natives, and for other purposes.
+<p>The message also announced that the Senate had passed bills of the following titles, in which the concurrence of the House is requested:</p>
+<p>S. 111. An act for the relief of Donat and Laura Laroche;</p>
+<p>S.511. An act for the relief of Francisco Gamboa Giocoechea;</p>
+<p>S.936. An act for the relief of Burnett A. Pyle;</p>
+<p>S.981. An act for the reiief of Carl W. Sandstrom;</p>
+<p>S.1037. An act to authorize the revision of the boundaries of the Caribou National Forest In the State of Idaho;</p>
+<p>S. 1395. An act for the relief of Jose Maria Gerardo de Amusategui and Ramon de Amusategui;</p>
+<p>S. 1706. An act to limit the operation of sections 109 and 113 of the Criminal Code and section 190 of the Revised Statutes of the United States with respect to counsel in certain cases;</p>
+<p>S. 1782. An act to provide for selection of superintendents of national cemeteries from meritorious and trustworthy members of the armed forces who have been disabled in line of duty for active field service;</p>
+<p>S.1795. An act to repeal section 1 of the act of April 20, 1874, prescribing regulations governing inquiries to be made in connection with disbursements made by disbursing officers of the Army (18 <title>Stat.</title> 33; 10 U. S. C. 184);</p>
+<p>S. 1801. An act to authorize attendance of civilians at schools conducted by the Departments of the Army, Navy, and Air Force, and joint-service schools, and for other purposes; and</p>
+<p>S. 1990. An act to provide a means for the orderly continuation and completion of the Deer Creek and aqueduct divisions of the Provo River project, Utah.</p>
+<p>The message also announced that the President pro tempore has appointed the Senator from North Dakota, Mr. YOUNG, and the Senator from New Mexico, Mr. CHAVEZ, members of the committee on the part of the Senate to attend the ceremonies in Habana, Cuba, on February 15, 1948, in connection with the observance of the fiftieth anniversary of the sinking of the U. S. battleship Maine.</p>
+<p>The message also announced that the Senate had adopted the following resolution (S. Res. 198) :
+Resolved, That the Senate has heard with profound sorrow and extreme regret the announcement of the death of Hon. Joseph S. Frelinghuysen, who served in the United States Senate from the State of New Jersey from March 4, 1917, to March 3, 1923.</p>
+<p>Resolved, That the Secretary communicate these resolutions to the House of Representatives and transmit a copy thereof to the family of the deceased, together with a transcript of remarks made in the Senate in praise of his distinguished service to the Nation.</p>
+<p>The message also announced that the President pro tempore has appointed Mr. LANGER and Mr. CHAVEZ members of the joint select committee on the part of the Senate, as provided for in the act of August 5, 1939, entitled "An act to provide for the disposition of certain records of the United States Government," for the disposition of executive papers in the following departments and agencies:</p>
+<p>1. Departments of the Army and the Air Force.</p>
+<p>2. Department of Justice.</p>
+<p>3. Department of the Navy.</p>
+<p>4. Department of the Treasury.</p>
+<p>5. Federal Security Agency.</p>
+<p>6. National Archives.</p>
+<p>7. Veterans' Administration.</p>
+<head>ENROLLED BILLS SIGNED</head>
+<p>Mr. LECOMPTE, from the Committee on House Administration, reported that that committee had on the following dates examined and found truly enrolled bills of the House of the following titles:</p>
+
+<p>On February 3, 1948:</p>
+<p>H. R. 1634. An act to amend section 1, and provisions (6), (7), and (8) of section 3, and provision (3) of section 4 of chapter V of the act of June 19, 1934, entitled "An act to regulate the business of life insurance in the District of Columbia," and to add sections
+5a, 5b, and 5c thereto.</p>
+<p>On February 9, 1948:</p>
+<p>H. R. 1366. An act to facilitate procurement of supplies and services by the War and Navy Departments, and for other purposes.</p>
+<p>The SPEAKER pro tempore. The Chair desires to announce that, pursuant to the authority granted on February 9, 1948, the Speaker did, on February 11, 1948, sign the following enrolled bills:</p>
+<p>H. R. 1634. An act to amend section 1, and provisions (6), (7), and (8) of section 3, and provision (3) of section 4 of chapter V of the act of June 19, 1934, entitled "An act to regulate the business of life insurance in the District of Columbia," and to add sections 5a,
+5b, and 5c thereto.</p>
+<p>H. R. 1366. An act to facilitate procurement of supplies and services by the War and Navy Departments, and for other purposes.</p>
+<head>CONTESTED-ELECTION CASE&#8212;DAVID J. WILSON AGAINST WALTER K. GRANGER</head>
+<p>The SPEAKER laid before the House the following communication from the Clerk of the House:</p>
+<head>FEBRUARY 12, 1948. The Honorable the SPEAKER,</head>
+House of Representatives. SIR: The Clerk has received from Frank W. Otterstrom, the officer before whom testimony was taken in the contested-election case of David J. Wilson against Walter K. Granger, for a seat in the Eightieth Congress from the First Congressional District of the State of Utah, letters dated January 10, February 3, and February 6, 1948, with reference to the transmission of testimony and exhibits in the aforesaid case.
+<p>The letters from this officer, together with the two express packages, the air-mail package, and exhibit No. 109 referred to therein, as well as copies of all other papers hereto-fore filed with the Clerk relating to this case, are transmitted to the House for its action.</p>
+<closer>Very truly yours,
+<signed>JOHN ANDREWS,</signed>
+Clerk of the House of Representatives.</closer>
+<p>The SPEAKER pro tempore. The communication will be referred to the Committee on House Administration.</p>
+<head>COMMUNICATION FROM THE CLERK OF
+THE HOUSE</head>
+<p>The SPEAKER pro tempore laid before the House the following communication from the Clerk of the House:</p>
+<opener>
+<dateline>FEBRUARY 12, 1948.</dateline>
+The Honorable the SPEAKER,
+House of Representatives.
+</opener>
+<p>Sir: The attached sealed envelope indicating on its face that it contains a message from the President of the United States, and addressed to the Speaker of the House of Representatives of the United States, was received in the Office of the Clerk on February 10, 1948.</p>
+<closer>Respectfully yours,
+<signed>JOHN ANDREWS,</signed>
+Clerk of the House of Representatives.</closer>
+
+<head>SUBMARGINAL LANDS&#8212;VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 527</head>)
+<p>The SPEAKER pro tempore laid before the House the following veto message from the President of the United States:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval H. R. 3153, "to provide for the sale or other disposal of certain submarginal lands located within the boundaries of Indian reservations in the States of Montana, North Dakota, and South Dakota."
+During the drought period of 1932 to 1938 the United States acquired in the drought areas, out of funds appropriated under the statutes referred to in H. R. 3153, approximately 10,000,000 acres of submarginal Iands, much of which is suited only for carefully limited and con-trolled grazing use. Of the submarginal lands so acquired in the States of Montana, North Dakota, and South Dakota, approximately 245,000 acres were in 1938 and 1939 placed by Executive order under the administrative jurisdiction of the Secretary of the Interior in order to facilitate their use for the benefit of the Indian tribes occupying reservations in the same localities. The underlying purpose of H. R. 3153 appears to be that of making provision by law for the permanent disposition of these lands, through the transfer to Indian tribal ownership of those lands needed for and adapted to Indian grazing use, through the transfer to individual Indians of those lands needed for and adapted to Indian agricultural use, and through the transfer to individual veterans of the other agricultural or grazing lands upon appropriate conditions as to price and future use. While this underlying purpose is sound, the manner in which the bill attempts to provide for its accomplishment seems to me to be altogether unsound from several aspects.</p>
+<p>First, the bill would grant to local disposal committees absolute authority, not merely to determine factual matters, but also to decide the entire policy question of how these submarginal lands should be disposed of, without any effective guidance in the form of statutory standards to channel and control the discretion of their members. Nor does the bill provide any means whereby the decisions of the local disposal committees may be reviewed. On the contrary, it expressly directs the Secretary of the Interior "to make such transfers of title</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0163">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">163	H.R. 1561 (Forty-fourth Congress, First Session &#8212; Grant)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0163</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Grant</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+<text>
+<body>
+<div1 type="stub">
+<head>163	H.R. 1561 (Forty-fourth Congress, First Session – Grant)</head>
+
+<p>Transferring the custody of certain Indian trust funds from the Secretary of the Interior to the Treasurer of the United States.</p>
+
+<p>Vetoed February 3, 1876.  The veto message was laid before the House, referred to the Committee on Appropriations, and printed as H.R. Ex. Doc. No. 118 (4 <title>Cong. Rec.</title> 881; see also S. Misc. Doc. No. 53, 49th Cong., 2nd sess., p. 391).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 53.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0163.01.pdf">Transfer of certain Indian trust funds.  Message from the President of the United States, returning, with his objections, the Bill (H.R. 1561) for transferring the custody of certain Indian trust funds from the Secretary of the Interior to the Treasurer of the United States</ref>.  (1876).  House of Representatives.  49th Congress, 2nd session.  House Executive Document No. 118 (<title>Serial Set</title> 1689).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 44TH CONGRESS, HOUSE OF REPRESENTATIVES.  Ex. Doc. 1st Session.	No. 118. </fw>
+<head>TRANSFER OF CERTAIN INDIAN TRUST-FUNDS.</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING,</head>
+
+<head type="sub">With his objections, the bill (H. R. 1561) for transferring the custody of certain Indian trust funds from the Secretary of the Interior to the Treasurer of the United States.</head>
+<milestone unit="rule" />
+<div1>
+<opener>
+<dateline>FEBRUARY 3, 1876-Referred to the Committee on Appropriations and ordered to be
+printed.</dateline>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I have the honor to return herewith, without my approval, House bill No. 1561, entitled "An act transferring the custody of certain Indian trust-funds from the Secretary of the Interior to the Treasurer of the United States," for the reasons set forth in the accompanying communication from the Secretary of the Interior.</p>	
+<closer><signed>U. S. GRANT.</signed>
+<dateline>EXECUTIVE MANSION, February 3, 1876.</dateline></closer>
+ </div1>
+<milestone unit="rule" />
+ <div1>
+<opener><dateline><hi rend="right">DEPARTMENT OF THE INTERIOR,
+Washington, February 2, 1876.</hi></dateline></opener>
+<p>SIR: I acknowledge the receipt of your communication of the 29th ultimo transmitting House bill No. 1561, and requesting this Department to report whether any objections to its becoming a law are known to exist.
+In reply, I have the honor to state that I am fearful that the act is not sufficiently definite in terms to accomplish the end desired, namely, the mere transfer of the custody of said trust-funds, enabling this Department to receive the interest from the custodian and apply it as heretofore without the intervention of Congress. The nature of the guardianship and control over the Indians, exercised by me as Secretary and trustee, is such as to require this Department to keep an account of the funds to their credit or held in trust for them, and to receive the interest on their trust-funds promptly when due. I am fearful that this bill may not allow me to do so, and to guard against any danger of em<pb n="2" />
+<fw> 2	TRANSFER OF CERTAIN INDIAN TRUST-FUNDS. </fw>
+barrassment in the transaction of this business, I inclose a draught of a bill which, if substituted for the one already passed, will, it is believed, obviate the difficulties which may arise if the present bill should be-come a law.</p>
+<closer><signed>Very respectfully, your obedient servant,
+Z. CHANDLER, Secretary.</signed>
+THE PRESIDENT</closer>
+  </div1>
+<milestone unit="rule" />
+ <div1>
+<head>AN ACT transferring the custody of certain Indian trust-funds from the Secretary of
+the Interior to the Treasurer of the United States.</head>
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> That all stocks, bonds, or other securities or evidences of indebtedness now held by the Secretary of the Interior in trust for the benefit of certain Indian tribes, shall, within thirty clays from the passage of this act, be transferred to the Treasurer of the United States, who shall become the custodian thereof; and it shall be the duty of said Treasurer to collect all interest falling due on said bonds, stocks, &amp;e., and deposit the same in the Treasury of the United States, and to issue certificates of deposit therefor, in favor of the Secretary of the Interior, as trustee for various Indian tribes. And the Treasurer of the United States shall also become the custodian of all bonds and stocks which may be purchased for the benefit of any Indian tribe or tribes after the transfer of funds herein authorized, and shall make all purchases and sales of bonds and stocks authorized by treaty stipulations or by acts of Congress, when requested so to do by the Secretary of the Interior: Provided, That nothing in this act shall in any manner impair or affect the supervisory and appellate powers and duties in regard to Indian affairs which may now be vested in the Secretary of the Interior as trustee for various Indian tribes, except as to the custody of said bonds and the collection of interest thereon as hereinbefore mentioned.</p>
+<closer><signed>The PRESIDENT.</signed></closer>
+ </div1>
+ </body>
+</floatingText> -->
+
+</div1>
+
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0163.02.pdf"><title>Congressional Record</title> 4, 881</ref> (1876). </bibl>
+
+<!-- <floatingText>
+<body>
+ <div1>
+<p>1876.	CONGRESSIONAL RECORD.	881</p>
+<p>Mr. HOLMAN obtained the floor.</p>
+<p>Mr. RANDALL. Will the gentleman yield for a motion that the committee rise?</p>
+<p>Mr. HOLMAN. I yield for that purpose.</p>
+<p>Mr. RANDALL. I make the motion.</p>
+<p>The motion was agreed to.</p>
+<p>The committee accordingly rose; and the Speaker having resumed the chair, Mr. HOSKINS reported that the Committee of the Whole on the state of the Union had, according to order, had under consideration the bill (H. R. No. 1594) making appropriations for the consular and diplomatic service of the Government for the year ending June 30, 1877, and for other purposes, and had come to no resolution thereon.</p>
+ </div1>
+ <div1>
+  <head>PAY AND ALLOWANCE OF ARMY OFFICERS.</head>
+<p>Mr. BANNING, by unanimous consent, from the Committee on Military Affairs, reported back the bill (H. R. No. 1453) to regulate the pay and allowance of Army officers with a substitute, (H. R. No. 1806,) and moved that the substitute and a report accompanying the same be printed, and the bill recommitted to the committee.</p>
+<p>The motion was agreed to.</p>
+ </div1>
+ <div1>
+<head>PERSONAL EXPLANATIONS.</head>
+<p>Mr. LUTTRELL. I find by reference to the Record that I am re-corded as voting in the negative upon the amendment offered by my friend from, Texas [Mr. REAGAN] to the proposed constitutional amendment which was under consideration yesterday. I voted in the affirmative, and ask that the correction be made in the Journal.</p>
+<p>The SPEAKER. The correction will be made.</p>
+<p>Mr. STENGER. In the RECORD of yesterday's proceedings I find my name recorded as not voting on the constitutional amendment offered by the gentleman from Texas, [Mr. REAGAN.] I was present and voted "no," and ask that the correction be made.</p>
+<p>The SPEAKER. The correction will be made.</p>
+ </div1>
+ <div1>
+<head>ORDER OP BUSINESS.</head>
+<p>Mr. GARFIELD. I move that the House now adjourn.</p>
+<p>The SPEAKER. Before that motion is put the Chair will lay before the House certain executive documents now upon. his desk,</p>
+  </div1>
+<milestone unit="rule" />
+ <div1>
+<head>IMPROVEMENT OF THE UPPER MISSISSIPPI</head>
+<p>The SPEAKER, by unanimous consent, laid before the House a letter from the Secretary of War, transmitting a report of the Chief of Engineers on surveys, &amp;c., on the Upper Mississippi River, and recommending an appropriation of $65,000 to improve the same; which was referred to the Committee on Commerce.</p>
+ </div1>
+ <div1>
+<head>COMMUNICATION BETWEEN THE MISSISSIPPI AND THE LAKES.</head>
+<p>The SPEAKER also laid before the House a joint resolution of the Legislature of the State of Iowa on the subject of a water highway between the Mississippi River and Lake Michigan by way of the Fox and Wisconsin Rivers; which was referred to the Committee on Commerce.</p>
+ </div1>
+ <div1>
+<head>REV. JOHN H. HAMILTON.</head>
+<p>The SPEAKER also laid before the House a letter from the Secretary of War, transmitting, for the information of the Committee on Military Affairs, a report of the Adjutant-General upon the bill (H. R. No. 64) for the relief of Rev. John R. Hamilton; which was referred to the Committee on Military Affairs.</p>
+ </div1>
+ <div1>
+<head>PRESIDIO MILITARY RESERVATION, CALIFORNIA.</head>
+<p>The SPEAKER also laid before the House a letter from the Secretary of War, transmitting, for the information of the Committee on Military Affairs, a copy of Senate Executive Document No. 55 and Senate Report No. 104, Forty-third Congress, first session, being a re-ort on the Presidio military reservation, San Francisco, California; which was referred to the Committee on Military Affairs.</p>
+ </div1>
+ <div1>
+<head>TRANSFER OF INDIAN FUNDS TO THE TREASURER.</head>
+<p>The SPEAKER also laid before the House the following message from the President of the United States:</p>
+ <floatingText>
+ <body>
+<salute>To the House of Representatives:</salute>
+<p>I have the honor to return herewith without my approval House bill No. 1561, entitled " An act transferring the custody of certain Indian trust funds from the Secretary of the Interior to the Treasurer of the United. States." for the reasons set forth in the accompanying communication from the Secretary of the Interior.</p>
+<closer><signed>U. S. GRANT. </signed><dateline>Executive MANSION, February 3, 1876.</dateline> </closer></body></floatingText>
+<p>The SPEAKER. The Clerk will read the communication from the Secretary of the Interior.
+The Clerk read as follows:</p>
+  <floatingText><body>
+<opener>
+DEPARTMENT OF THE INTERIOR,
+<dateline>Washington, February 2, 1876.</dateline>
+</opener>
+<p>SIR : I acknowledge the receipt of your communication of the 29th ultimo, transmitting H. R. bill No. 1561 and requesting this Department to report whether any objections to its becoming a law are known to exist. In reply I have the honor to state that I am fearful tho act is not sufficiently definite in terms to accomplish the end desired, namely, the mere transfer of the custody of said trust fund, enabling this Department to receive the interest from the custodian and apply it as hereto-fore without the intervention of Congress.</p>
+<p>The nature of the guardianship and control over the Indians exercised by me as Secretary and trustee is such as to require this Department to keep an account of the funds to their credit or held in trust for them, and to receive this interest on their trust funds promptly when due. I am fearful that this bill may not allow
+me to do so; and to guard against any danger of embarrassment in the transaction
+of this business I inclose a draught, of a bill which, if substituted for the one already passed, will, it is believed, obviate the difficulties which may arise if the present bill should become a law.</p>
+<closer><signed>Very respectfully, your obedient servant,
+Z. CHANDLER, Secretary.</signed></closer>
+  </body>
+   </floatingText> 
+<p>Mr. RANDALL. I move that the message and accompanying documents be printed and referred to the Committee on Appropriations. I desire to say that the bill which has been returned by the President was reported from Committee on Appropriations at the suggestion of the Department of the Interior. A subcommittee of that committee, as I understand, waited upon the Secretary of the Interior, who suggested an amendment thereto, which was incorporated in the bill as passed.</p>
+<p>Mr. GARFIELD. Lot it be referred to the Committee on Appropriations, and they can examine and report upon it.</p>
+<p>Mr. RANDALL. I only meant to place the committee right.</p>
+<p>Mr. GARFIELD. If it has been ascertained that there is some inaccuracy of expression in the bill&#8212;</p>
+<p>Mr. RANDALL. It is a very strange thing that we should pass a bill at the instance of the Department, and that very Department should cause it to be vetoed.</p>
+<p>Mr. HOLMAN. A bill prepared at the instance of the Department itself?</p>
+<p>Mr. RANDALL. Yes.</p>
+<p>Mr. GARFIELD. Let it go to the committee.</p>
+<p>Mr. RANDALL. That is my motion.</p>
+<p>The motion of Mr. RANDALL was then agreed to.</p>
+  </div1>
+
+ <div1>
+<head>LEAVE OF ABSENCE.</head>
+<p>Mr. Davis was granted leave of absence for five days, on account of important business.
+Mr. WELLS, of Mississippi, was granted leave of absence from the 4th to the 16th instant.
+Mr. HOLMAN. I move that the House now adjourn.</p>
+<p>The motion was agreed to; and accordingly (at four o'clock and thirty minutes p. m.) the House adjourned.</p>
+ </div1>
+ <div1>
+<head>PETITIONS, ETC.</head>
+<p>The following memorials, petitions, and other papers were presented at the Clerk's desk under the rule, and referred as stated: By the SPEAKER: The petition of the Grand Lodge of Good Templars of Indiana, signed by the officers thereof, representing 13,000 members, for a commission of inquiry concerning the alcoholic liquor traffic, to the Committee on the Judiciary.</p>
+<p>By Mr. BARNUM : The petition of citizens of Wilmington, Delaware, for the repeal of the check-stamp tax, to the Committee of Ways and Means.</p>
+<p>By Mr. BELL: The remonstrance of Merrimack River Grange No. 4, Patrons of Husbandry, of Canterbury, New Hampshire, against granting subsidies to railroads, to the Committee on Appropriations.</p>
+<p>By Mr. CASON: The petition of citizens of Lafayette and of James-town, Indiana, for the repeal of the stamp-tax on safety matches, to the Committee of Ways and Means.</p>
+<p>By Mr. GUNTER: Papers relating to the petition of James Lind-say, for pay for a battery of three guns furnished the United States, to the Committee on War Claims.</p>
+<p>By Mr. HATHORN: The petition of citizens of New York, for the repeal of the check-stamp tax, to the Committee of Ways and Means. </p>
+<p>By Mr. HAYMOND : The petition of citizens of White County, Indiana, for the repeal of the resumption act, to the Committee on Banking and Currency.</p>
+<p>By Mr. HOLMAN : Papers relating to the petition of Emmett Long-atoll, for a pension, to the Committee on Invalid Pensions. By Mr. HOUSE : Papers relating to the claim of Mrs. Martha A. Stevens, for pay for stores and supplies taken by the United States Army, to the Committee on War Claims.</p>
+<p>By Mr. JONES, of New Hampshire: The petition of the Woman's Temperance League of Portsmouth, New Hampshire, for a commission of inquiry concerning the alcoholic liquor traffic, to the Committee of Ways and Means.</p>
+<p>By Mr. KING: Papers relating to the petition of Henry D. O'Brien, late postmaster at Saint Anthony Falls, Minnesota, for relief, to the Committee on the Post-Office and Post-Roads.</p>
+<p>By Mr. LANDERS, of Connecticut : The petition of A. B. Cranell and others, for a signal station to be established at Block Island, Connecticut, to the Committee on Appropriations.</p>
+<p>Also, the petition of William Montgomery and 18 others, of Rockville, Connecticut, for the abolition of the office of President of the United States, to the Committee on the Judiciary. </p>
+<p>Also the petition of William Montgomery and 18 others, of Rockville, Connecticut," concerning the revocability of the people's legislative representatives and the ratification by the people's vote of all important legislative enactments," to the same committee.</p>
+<p>By Mr. LANDERS, of Indiana : The petition of John Thomas, to have a patent renewed for an improvement in piling railroad bars for rerolling, to the Committee on Patents.</p>
+<p>By Mr. LANE: The petition of Ladd &amp; Tilton and 100 other citizens of Oregon, for the repeal of the check&#8211;stamp tax, to the Committee of Ways and Means.</p>
+ </div1>
+ </body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV0163.03.pdf">Veto messages of the Presidents of the United States, with the action of Congress thereon</ref>.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53, p. 391 (<title>Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw>49TH CONGRESS,  2d Session.
+SENATE.
+Mrs. Doc.
+No. 53.</fw>
+<head>VETO MESSAGES
+OF THE
+PRESIDENTS OF THE UNITED STATES,</head>
+<milestone unit="rule" />
+<head>WITH
+THE ACTION OF CONGRESS THEREON.</head>
+<head>COMPILED BY ORDER OF THE SENATE,
+BY BEN: PERLEY POORE,CLERK OF PRINTING RECORDS.</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+S. Mts. 2-7	1886.</head>
+<fw> VETO MESSAGES.	,91 </fw>
+<div1>
+<p>is Louis Heinlig, and, as there were several soldiers in the company and regiment named in the act whose names are similar to that specified therein, a correction appears to be necessary, in order that the beneficiary of the act may be properly identified should the bill become a law.</p>
+<closer><signed>I have the honor to be, very respectfully, your obedient servant,
+C. DELANO,
+Secretary.</signed></closer>
+
+<note>The veto message was read on the 16th of February, and was, with the accompanying documents, referred to the House Committee on Invalid Pensions and ordered to be printed.</note>
+</div1>
+ 
+ <div1>
+<head>ULYSSES S. GRANT.&#8212;XXI.</head>
+<opener>
+<dateline>February 3, 1876.</dateline>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I have the honor to return herewith, without my approval, House bill No. 1561, entitled "An act transferring the custody of certain Indian trust funds from the Secretary of the Interior to the Treasurer of the United States," for the reasons set forth in the accompanying communication from the Secretary of the Interior.</p>
+<signed>U. S. GRANT.</signed>
+  </div1>
+<milestone unit="rule" />
+ <div1>
+<opener><dateline>DEPARTMENT OF THE INTERIOR,
+Washington, February 2, 1876.</dateline></opener>
+<p>SIR: I acknowledge the receipt of your communication of the 29th ultimo, transmitting H. R. bill No. 1561, and requesting this Department to report whether any objections to its becoming a law are known to exist. in reply I have the honor to state that I am fearful the act is not sufficiently definite in terms to accomplish the end desired, namely, the mere transfer of the custody of said trust fund, enabling this Department to receive the interest from the custodian and apply it as heretofore without the intervention of Congress. </p>
+<p>The nature of the guardianship and control over the Indians exercised by me as Secretary and trustee is such as to require this Department to keep an account of the funds to their credit or held in trust for them, and to receive this interest on their trust funds promptly when due. I am fearful that this bill may not allow me to do so; and to guard against any danger of embarrassment in the transaction of this business I inclose a draught of a bill which, if substituted for the one already passed, will, it is believed, obviate the difficulties which may arise if the present bill should become a law.</p>
+<signed>Very respectfully, your obedient servant,
+Z. CHANDLER, Secretary.</signed>
+<note> The veto message was read and referred, with the accompanying documents, to the Committee on Appropriations and ordered to be printed. </note>
+ </div1>
+ </body>
+</floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

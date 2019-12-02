@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0355">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">355	H.R. 7648 (Forty-ninth Congress, Second Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0355</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-ninth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>355	H.R. 7648 (Forty-ninth Congress, Second Session &#8212; Cleveland)</head>
+
+
+<p>For the relief of the estate of John How, Indian agent, and his sureties.</p>
+
+<p>Vetoed February 24, 1887.  The veto message was laid before the House, referred to the Committee on Claims, and printed as H.R. Ex. Doc. No. 194 (18 <title>Cong. Rec.</title> 2281).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 92.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0355.01.pdf">John How, Indian agent.  Message from the President of the United States, returning House Bill No. 7648, with his objections thereto</ref>.  (1887).  House of Representatives.  49th Congress, 2nd session.  House Executive Document No. 194 (<title>Serial Set</title> 2484).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 49TH CONGRESS, } HOUSE OF REPRESENTATIVES.  2d Session.	 Ex. Doc.  No. 194. </fw>
+<head>JOHN HOW, INDIAN AGENT.</head>
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+House bill No. 7648, with his objections thereto.</head>
+<milestone unit="rule" />
+<note>FEBRUARY 25,1887.-Referred to the Committee on Claims and ordered to be printed.</note>
+<milestone unit="rule" />
+<opener>
+<salute><hi rend="italic">To the House of Representatives:</hi></salute>
+</opener>
+<p>I herewith return without approval House bill number seventy-six hundred and forty-eight, entitled "An act for the relief of the estate of the late John How, Indian agent, and his sureties."</p>
+<p>John How was appointed Indian agent in July, 1878, and upon such appointment gave a bond to the Government in the penal sum of ten thousand dollars conditioned for the faithful performance of his duties as such agent, and to protect the Government from loss by mismanagement or malfeasance in his official conduct. The parties named in the bill were his sureties on said bond.</p>
+<p>On the 23d day of December, 1881, upon a report of inspectors connected with the Indian Bureau, suggesting frauds and mismanagement in the conduct of this agency, Mr. How was suspended from his office, which suspension was approved by the President in January, 1882.
+After such suspension the accounts of the agent were examined, and various explanations offered by him in relation thereto. It is stated, however, in a report from the Indian Office now before me, that such explanations were deemed by that office sufficient to remove only a small part of the items in the accounts which were questioned. The matter was thereupon referred to the Treasury Department for further examination and adjustment.</p>
+<p>The Second Comptroller reports that the final settlement of this agent's accounts was pending before the accounting officers for up-wards of eighteen months, affording ample opportunity for any explanation which might be deemed necessary and proper, and that on the 21st <pb n="2" />
+<fw> 44	JOHN HOW, INDIAN AGENT. </fw>
+day of July, 1885, a final adjustment was made of the said accounts, by which a sum very much in excess of the penalty of his bond was found due from said agent to the Government.
+A suit was afterwards instituted against the agent and his sureties to recover the amount thus found due, so far as the bond covered the same.</p>
+<p>This suit is still pending.</p>
+<p>The object of the bill now under consideration is to wholly release and discharge these sureties from any liability upon said bond.</p>
+<p>It seems to be the opinion of all the officers of the Government who have examined the matter at all that a debt exists in favor of the Government upon this bond. It is reported that a large amount of evidence has been taken and that in the opinion of these officers the amount due the Government cannot be reduced to a less amount than the penalty of the bond.
+The Second Comptroller states, as results of examinations made in his office, and by the Second Auditor, that it appears that many of the vouchers presented by the agent were fictitious, the persons in whose names they were given testifying that services and supplies therein mentioned were never rendered or furnished; that in other cases parties denied the genuineness of vouchers purporting to be made by them ; that a large voucher apparently given for cattle was actually given for money loaned, and that supplies bought with Govern ment funds were appropriated for the agent's personal benefit.</p>
+<p>I do not suppose that it was intended by the Congress to entirely relieve these sureties, if a condition exists such as is above set out, which results in an indebtedness to the Government. The proposed legislation, judging from the report of the House Committee on Claims, seems rather to proceed upon the theory that no sum is due the Government in the premises.</p>
+<p>I think it will hardly be claimed that the patient investigation of the accounting officers should be lightly discredited in this case; and it seems to me that justness to the Government and fairness to the sureties seeking relief, will presumably be secured by the further prosecution of the suit already instituted, in which the truth of all matters involved
+can be thoroughly tested.</p>	
+<closer><signed>GROVER CLEVELAND.</signed>
+<dateline>EXECUTIVE MANSION,
+Washington, February 24, 1887.</dateline></closer>
+<note>[H. It. 7648. Forty-ninth Congress, second session.;
+An act for the relief of the estate of the late John How, Indian agent, and his sureties.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That Samuel T. Glover, James O. Broadhead, and Gerard B. Allen, sureties of the late John How, formerly Indian agent at the Western Shoshone Agency.
+JOHN HOW, INDIAN AGENT.	3
+Nevada, on the official bond of said John How, be, and they are hereby, released from any and all liabilities of every kind and nature on or growing out of said bond; that no action shall be brought, maintained, prosecuted, or enforced against said sureties, or either of them, their executors, administrators, or heirs, in any court.
+JOHN G. CARLISLE,
+Speaker of the House of Representatives.
+JOHN SHERMAN,
+President of the Senate pro tempore.
+I certify that this act originated in the House of Representatives.
+Attest:	JNO. B. CLARK, Jr., Clerk.</note>
+ </body>
+</floatingText> -->
+ </div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0355.02.pdf"><title>Congressional Record</title> 18, 2281</ref> (1887).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1887.	CONGRESSIONAL RECORD- HOUSE.	2281 </fw>
+<div1>
+ <p>
+
+Mr. PLUMB. The President of the United States when he came to consider this question for the purpose of communicating his views thereupon to Congress in his last annual message says what I will read:</p>
+<quote>The Secretary of the Interior suggests a change in the plan for the payment of the indebtedness of the Pacific subsidized roads to the Government. His suggestion has the unanimous indorsement of the persons selected by the Government to act as directors of these roads and protect the interests of the United States in the board of direction. In considering the plan proposed the sole matters which should be taken into account, in my opinion, are the situation of the Government as a creditor and the surest way to secure the payment of the principal and interest of its debt. </quote>
+
+<p>I read that for the purpose of saying that the President has totally misconceived, in my judgment, the situation, and in fact the most important part of the situation relating to these Pacific railroads, and to say further that when this question comes to be settled I have perfect confidence that those who represent the communities which are served by these railroads will have something to say from the standpoint of the self-interest of the communities which are directly interested in the questions of transportation, and so on, as a matter of as much importance and to some extent apart from the mere interest of the Government as a creditor of these companies.</p>
+<p>I do not desire to detain the Senate at this late hour, nor to do any-thing which will impede the passage of the resolution, but I wanted to call attention briefly to this matter for the purpose of saying that while the Government might well say under certain circumstances that it has had a large return in the way of cheapened transportation for its Indian suppplies, for its mails, for its munitions of war, and so on, which might induce it to forego something of its legal right in determining what it could claim, or the method of its claim against these companies for money payments, the people who live along the line of these roads are entitled to be taken into account in this settlement, and the Government ought to take into account whether the settlemen that it makes, or proposes to make, will put unusual and unnecessary burdens upon them.</p>
+<p>I think that is a matter of a great deal more consequence than the mere question of obtaining the debt which these companies owe, and justly owe, to the Government, either at the time of maturity or at any other time, and for the purpose of getting this matter properly before Congress in connection with the report of the commission, I move the amendment which has been read.</p>
+<p>Mr. HOAR. There is no objection to the amendment.</p>
+<p>Mr. RIDDLEBERGER. I should like to know what is the necessity for that amendment? Under the interstate&#8211;commerce act which has been passed, commissioners are to be appointed, and I should like to know whether they are not to take charge of the interests of the people living along the lines of the roads? What is the necessity to put a provision on the pending measure which looks to the protection of the people living along the line of the road when the object of the bill, if the truth has been told on this floor, is to secure the debt that is due to the Government of the United States, or will be due in 1892, 1895, and 1897?</p>
+<p>The interstate-commerce act protects the people, if there shall be protection for. them at all, and this but verifies what I said before, that this is not a bill designed here so many years in advance to collect what will be due the Government of the United States, but to make records for men who expect to meet their political graves before the debt that the railroad companies owe the Government shall fall due.</p>
+<p>The PRESIDING OFFICER. The question is on agreeing to the
+amendment proposed by the Senator from Kansas [Mr. PLUMB]. The amendment was agreed to.
+The amendments were ordered to be engrossed, and the joint resolution to be read a third time.</p>
+<p>The joint resolution was read the third time, and passed.</p>
+<p>The PRESIDING OFFICER. The Committee on the Judiciary re-port to amend the title. The amendment to the title will be stated.</p>
+<p>The CHIEF CLERK. It is proposed to amend the title so as to read "A bill (H. R. &#8212;) authorizing an investigation of the books, accounts, and methods of railroads which have received aid from the United States, and for other purposes."</p>
+<p>The PRESIDING OFFICER. The title will be so amended, there being no objection.</p>
+<p>MR. HOAR. I move that the Senate insist on its amendments, and
+request a conference with the House of Representatives on the disagreeing votes of the two Houses.</p>
+<p>The motion was agreed to.</p>
+<p>By unanimous consent the Presiding Officer was authorized to appoint the conferees on the part of the Senate; and Mr. HOAR, Mr. EVARTS, and Mr. PUGh were appointed.</p>
+<p>Mr. McMILLAN. I move that the Senate adjourn.</p>
+<p>The motion was agreed to; and (at 1 o'clock and 55 minutes a.m., Saturday, February 26) the Senate adjourned until Saturday, February 28, at 12 o'clock m.</p>
+</div1>
+ <div1>
+<head>HOUSE OF REPRESENTATIVES.</head> 
+<head>FRIDAY, February 25, 1887.</head>
+<p>The House met at 11 o'clock a. m.  Prayer by the Chaplain, Rev. W.
+H. MILBURN, D. D.</p>
+<p>The Journal of yesterday's proceedings was read and approved.</p>
+</div1>
+
+ <div1>
+
+<head>JOHN HOW.</head>
+
+<p>The SPEAKER laid before the House the following message from the President of the United States; which was read:</p>
+<p>To the House of Representatives:</p>
+<p>I herewith return without approval House bill number seventy-six hundred and forty-eight, entitled "An act for the relief of the estate of the late John How, Indian agent, and his sureties."</p>
+<p>John How was appointed Indian agent in July, 1878, and upon such appointment gave a bond to the Government in the penal sum of ten thousand dollars conditioned for the faithful performance of his duties as such agent, and to protect the Government from loss by mismanagement or malfeasance in his official conduct. The parties named in the bill were his sureties on said bond.</p>
+<p>On the 23d day of December, 1881, upon a report of inspectors connected with the Indian Bureau, suggesting frauds and mismanagement in the conduct of this agency, Mr. How was suspended from his office, which suspension was approved by the President in January, 1882.
+After such suspension the accounts of the agent were examined, and various explanations offered by him in relation thereto. It is stated, however, in a report from the Indian Office now before me, that such explanations were deemed by that office sufficient to remove only a small part of the items in the accounts which were questioned. The matter was thereupon referred to the Treasury Department for further examination and adjustment.</p>
+<p>The Second Comptroller reports that the final settlement of this agent's accounts was pending before the accounting officers for upwards of eighteen months, affording ample opportunity for any explanation which might be deemed necessary and proper, and that on the 21st <pb n="2" />
+day of July, 1885, a final adjustment was made of the said accounts, by which a sum very much in excess of the penalty of his bond was found due from said agent to the Government.
+A suit was afterwards instituted against the agent and his sureties to recover the amount thus found due, so far as the bond covered the same.</p>
+<p>This suit is still pending.</p>
+<p>The object of the bill now under consideration is to wholly release and discharge these sureties from any liability upon said bond.</p>
+<p>It seems to be the opinion of all the officers of the Government who have examined the matter at all that a debt exists in favor of the Government upon this bond. It is reported that a large amount of evidence has been taken and that in the opinion of these officers the amount due the Government cannot be reduced to a less amount than the penalty of the bond.
+The Second Comptroller states, as results of examinations made in his office, and by the Second Auditor, that it appears that many of the vouchers presented by the agent were fictitious, the persons in whose names they were given testifying that services and supplies therein mentioned were never rendered or furnished; that in other cases parties denied the genuineness of vouchers purporting to be made by them; that a large voucher apparently given for cattle was actually given for money loaned, and that supplies bought with Govern ment funds were appropriated for the agent's personal benefit.</p>
+<p>I do not suppose that it was intended by the Congress to entirely relieve these sureties, if a condition exists such as is above set out, which results in an indebtedness to the Government. The proposed legislation, judging from the report of the House Committee on Claims, seems rather to proceed upon the theory that no sum is due the Government in the premises.</p>
+<p>I think it will hardly be claimed that the patient investigation of the accounting officers should be lightly discredited in this case; and it seems to me that justness to the Government and fairness to the sureties seeking relief, will presumably be secured by the further prosecution of the suit already instituted, in which the truth of all matters involved
+can be thoroughly tested.</p>	
+
+<closer><signed>GROVER CLEVELAND.</signed>
+<dateline>EXECUTIVE MANSION, Washington, February 24, 1887.</dateline></closer>
+<note><p>Mr. SPRINGER. I move that the bill and accompanying message
+be referred to the Committee on Claims. </p>
+<p>The motion was agreed to.</p>
+</note>
+</div1>
+
+<div1>
+<head>PRESIDENTIAL VETO&#8212;THOMAS S. HOPKINS.</head>
+<p>
+The SPEAKER also laid before the House the following message from the Senate; which was read:
+IN TEE SENATE of THE UNITED STATES, February 23, 1887. The President of the United States having returned to the Senate, in which it originated, the bill entitled "An act for the relief of Thomas S. Hopkins, late of Company C, Sixteenth Maine Volunteers." with his objections thereto, the Senate proceeded, in pursuance of the Constitution, to reconsider the same, and resolved that the said bill be passed, two-thirds of the Senate agreeing to pass the same.</p>
+<p>Mr. MATSON. This bill originated in the Senate, and has been
+passed there, notwithstanding the objections of the President. I think it unnecessary to refer it.</p>
+<p>Mr. SPRINGER. I move to refer the bill and accompanying message to the Committee on Invalid Pensions.</p>
+<p>The motion to refer was agreed to.</p>
+</div1>
+ <div1>
+<head>DEFICIENCY FOR PRINTING SILVER CERTIFICATES.</head>
+<p>The SPEAKER also laid before the House a letter from the acting
+Secretary of the Treasury, transmitting a letter from the Treasurer recommending an appropriation in the deficiency bill for printing silver certificates for the fiscal years 1887 and 1888.</p>
+ </div1>
+ <div1>
+<head>PETER KEMP AND OTHERS.</head>
+<p>The SPEAKER also laid before the House a letter from the Secretary
+of the Treasury, transmitting an estimate from the Secretary of War to pay demands of Peter Kemp, I. Bassett, and Michael Olt against the
+Soldiers' Home for Disabled Volunteer Soldiers; which was referred to the Committee on Appropriations.</p>
+ </div1>
+ </body>
+</floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

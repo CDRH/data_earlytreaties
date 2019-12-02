@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0629">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">629	H.R. 5974 (Fifty-first Congress, First Session &#8212; Harrison)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0629</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Harrison</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-first Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>629	H.R. 5974 (Fifty-first Congress, First Session &#8212; Harrison)</head>
+
+<p>To extend time of payment to purchasers of land of the Omaha Tribe of Indians in Nebraska, and for other purposes.</p>
+
+<p>Vetoed July 9, 1890.  The veto message was laid before House, referred to the Committee on Indian Affairs (21 <title>Cong. Rec.</title> 7131).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 139.</bibl>
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV0629.01.pdf"><title>Congressional Record</title> 21, 7131</ref> (1889).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1890.	CONGRESSIONAL RECORD-HOUSE.	7131 </fw>
+<p>beautiful picture of the iron band across the continent over the great Rocky Mountains, carrying civilization with it. It is so pretty a picture that it is almost sacrilege to touch it, and my great respect for my friend's talents and ability and my friendship for him make me hesitate about even differing with him. But the picture is not literally accurate. The railroads crossing this continent did not take all the civilization. The bleaching bones of the emigrants, the lonely unmarked graves, the wheel tires off the old wagons, the skeletons of their cattle and horses, mark the death trail of those brave and hardy men and women who carried civilization into that country Iong before the echoes of the Rocky Mountains were awakened by the screech of the locomotive. And when these very roads had gotten this grant of almost imperial power from Congress which virtually gave up to them the government of that country itself, when they gave this imperial heritage of our people for a mess of pottage, long before they had got-ten the grant and long after they had gotten it on the statute-book, these brave men and women, with their children and their little all, surrounded by hostile savages, in the midst of a strange and unknown country, plodded their way, and painfully walked, staining their path-way with their blood, marking it with their graves, and made fertility and beauty blossom oat of the wilderness long before the locomotive of the land-grant railroad had reached the West.</p>
+<p>The land speculator goes out in his palace-car, but the weary emigrant, who made him possible, dared the restless savage in his war, paint, thirsting for tortures and revenge; looked up to the relentless, blazing sun, with parched lips blistered with alkali dust, starved, toiled, struggled, and suffered that these new pioneers of "civilization " might follow him, and never dreamed that in 1890 less than 5,000,000 acres of really arable public land would remain. In 1884 the Government had about 561, 000, 000 acres of public land, but mostly mountain ranges and barren lands unfit for settlement. The temporary halt called by the late Land Commissioner, General Sparks, delayed for a short time the wholesale disappearance of the public domain, now evidently disappearing in its entirety.</p>
+<p>I say that was the cause of the delay. They had gotten from the Representatives of the people the people's land to build a road. They waited until the toil, and the tears, and the sacrifices, and the struggles of American manhood and womanhood had made the land for them to go to. That was why they did not earn their grants immediately. But when this blood, and tears, and struggles, and money, and industry, and indomitable American pluck had made the land, then they began to creep slowly on the trail of the "prairie schooner" which had preceded them. That was the cause of their failure to build these roads and earn these lands. So that these grants of land did not make the civilization of the West, and there is no reason why it should not now be discontinued.</p>
+<p>These roads will not be built or destroyed whether you pass this bill or not; but we owe it to ourselves, we owe it to posterity, we owe it to the millions of this land, we owe it to the millions in other lands, that we shall stand and tell the truth about this land-grant history, and that we should be consistent as honest men, and say to the people of the United States that this bill is a delusion, and that it does not forfeit their lands; that it does not do them justice, and that we will see justice done to them whatever may come. [Applause.]</p>
+<p>Mr. HOOKER. Will my friend from New Jersey permit me to ask him a question before he takes his seat?</p>
+<p>Mr. McADOO. Certainly.</p>
+<p>Mr. HOOKER. Do you believe the people living along the lines of these railroads would be willing to see the tracks torn up and the rail-roads abandoned and the lands ceded back to the Government of the United States?</p>
+<p>Mr. McADOO. I admire the faith which my friend has in the talk of the railroads that they would tear up their lines. If you should take back every acre that is mentioned in this bill there would still re-main more than enough to pay for all their road. They would not take up a single spike, nor would they take up a single rail. You can not get them to do it; and, therefore, I say there is not the slightest danger by our failure to pass this bill that they will tear up their roads.</p>
+<p>Mr. HOOKER. It seems to me that my friend has evaded the most pertinent part of my inquiry, which was whether the people along the lines would he willing to see the railroads abandoned in order that the Government might recover possession of the lands.</p>
+<p>Mr. MCAD00. My friend makes the common mistake of those who advocate this policy of land grants to railroads. It is not a local question. There is not a man to-night who is earning a living by his daily toil in the great city of New York or the great city of Chicago, who has not just as much right in this question and is just as much an owner of every acre of those lands as the people living along these tracks.</p>
+<p>Mr. HOOKER. The gentleman avoids the point of my inquiry.</p>
+<p>Mr. McADOO. I can not see it, then.</p>
+<p>Mr. HOLMAN. Mr. Speaker, the hour is so late, it being now half past five, that perhaps the gentleman from Illinois [Mr. PAYSON] will consent that the committee rise.</p>
+<p>Mr. PAYSON. I should be very glad to do so, if that will meet with the approval of the gentleman from Indiana and he will yield to me for that purpose. Mr. Chairman, I move that <p>the committee do now rise.</p>
+The motion was agreed to.</p>
+<p>The committee accordingly rose; and the Speaker having resumed the chair, Mr. PETERS reported that the Committee of the Whole House had had under consideration the bill (S. 2781) to forfeit certain lands heretofore granted for the purpose of aiding in the construction of railroads and for other purposes, and had come to no resolution thereon.</p>
+<p>Mr. PAYSON. My purpose was to move that the House do now adjourn; but before doing that I will yield to my colleague from Illinois [Mr. ADAMS] to make a request for unanimous consent.</p>
+<head>REPRINT 0F REPORT ON ORIGINAL-PACKAGE BILL.</head>
+<p>
+Mr. ADAMS. Mr. Speaker, I ask unanimous consent that a thousand more copies may be printed of the report of the Committee on the Judiciary on what is known as the original-package bill. The edition has been exhausted, and there is a great demand for it.</p>
+<p>The SPEAKER. Is there objection? The Chair hears none, and it is so ordered.</p>
+<head>ENROLLED BILL SIGNED.</head>
+<p>Mr. KENNEDY, from the Committee on Enrolled Bills, reported that they had examined and found truly enrolled the bill (H. R. 3538) for the relief of Albert H. Emery; when the Speaker signed the same.</p>
+<head>
+OMAHA INDIAN LANDS.</head>
+<p>The Speaker laid before the House the following message from the President of the United States.</p>
+<note>The Clerk read as follows:</note>
+<quote><opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith, without my approval, the hill (H. R. 5974) entitled "An act
+extending the time of payment to purchasers of land of the Omaha tribe of Indians in Nebraska, and for other purposes."</p>
+<p>The United States holds the legal title of these lands, which have been sold for the benefit of the Omaha Indians to secure the unpaid purchase-money, the time of payment of which it is proposed by this act to extend. There is no objection that I know of, either on the part of the United States or of the Indians, to the extension of the unpaid installments due from purchaser. This relief is probably due to the purchasers. The bill, however, contains the following provision:</p>
+<p>"That all the lands the payment for which is hereby extended shall be subject to taxation in all respects by and in the State of Nebraska as if fully paid for and patents issued."</p>
+<p>Now, while it is entirely proper that the interest of the purchasers in these lands should share the burdens of the communities in which the lands are located, the title of the United States-and the beneficial interest of the Indians in the lands should not be subjected to sale for the delinquency of the purchasers in paying tax assessments levied upon the lands. The effect of the pro-vision which has been quoted would, in my opinion, give to the purchaser at a tax-sale a title superior to the lien of the Government for purchase-money. The bill should have contained a proviso that only the interest of the purchasers from the Government could be sold for taxes, and that the tax-sale should be
+subject to the lien of the United States for unpaid purchase-money.</p>
+<closer><signed>BENJ. HARRISON.</signed>
+<dateline>ExEcUTIVE MANSION. July 9, 1890.</dateline></closer>
+<p>Mr. PERKINS. I move that the message and bill be referred to the Committee on Indian Affairs.</p>
+<p>The SPEAKER. Without objection, the motion will be agreed to. The Chair hears no objection.</p>
+
+<head>LEASE OF PIER BY VESSEL-OWNERS OF CHICAGO, ILL.</head>
+<p>The SPEAKER. The Chair desires to announce as conferees on the disagreeing votes of the two Houses on the joint resolution (H. Res. 104) to permit the Secretary of War to lease pier, as petitioned by vessel-owners of Chicago, Ill., Mr. MASON, Mr. SWENEY, and Mr. CAMPBELL.</p>
+<head>RECALL OF BILL FROM THE SENATE.</head>
+<p>The SPEAKER. The Chair desires to lay before the House the following request for the return of a bill from the Senate on which a motion to reconsider the vote by which the bill was passed has been entered.</p>
+<note>The Clerk read as follows:</note>
+<p><hi rend="italic">Resolved.</hi> That the CIerk of the House be directed to request the Senate to return the bill (S. 3907) to adopt regulations for preventing collisions at sea.</p>
+<p>The SPEAKER  Without objection, the resolution will be agreed to.</p> <p>There was no objection.</p>
+<head>LEAVE OF ABSENCE.</head>
+<p>The SPEAKER. The Chair also desires to lay before the House the following personal requests of members:</p>
+<note>The Clerk read as follows:</note>
+<p>Mr. CRAIG desires leave of absence for four days, on account of important
+business.</p>
+<p>Mr. BLANCHARD, indefinitely, on account of illness.</p>
+<p>Mr. OUTHWAITE, for four days, on account of business.</p>
+<p>Mr. SPRINGER, indefinitely, on account of indisposition.</p>
+<p>Mr. McCoMAS, until Monday next, on account of sickness.</p>
+<p>MR. MUDD, for Thursday, July 10, on account of important business.</p>
+<p>Mr. MCKINDEY, on account of sickness in his family.</p>
+<p>Mr. KILGORE, indefinitely, on account of sickness in his family and important business.</p>
+<p>Mr. WADE, for fifteen days.</p>
+<p>The SPEAKER. Without objection, these several leaves will be granted.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0030">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">30	H.J. Res. 37 (Twenty-eighth Congress, First Session &#8212; Tyler)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0030</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Tyler</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Twenty-eighth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Cherokee</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-16</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>30 H.J. Res. 37 (Twenty-eighth Congress, First Session &#8212; Tyler)</head>
+<p>Directing payment of the certificates or awards issued by the commissioners under the treaty with the Cherokee Indians.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 27th Congress had adjourned sine die on March 3, 1843.  A Presidential message was received by the 1st session of the 28th Congress on December 18, 1843 (December 18, 1843, H. Jour., pp. 69-70; <hi rend="italics">see</hi> also H.R. Doc. 493, 70th Cong., 2nd sess., pp. 9-10; S. Misc. Doc, No. 53, 49th Cong., 2nd sess., pp. 180-181).
+</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title level="m">Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 17.</bibl>
+</div1>
+
+
+<div1 type="source_citation">
+<bibl>Article 17 of the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0439.htm"><title>Treaty with the Cherokee, 1835</title></ref>.  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  (1904).  Senate.  58th Congress, 2nd session.  Senate Document No. 319, part 2, pp. 439-449 (<title level="m">Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0030.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1844). 28th Congress, 1st session, pp. 69-70 (<title level="m">Serial Set</title> 438).  Washington, DC: Blair and Rives.</bibl>
+<fw> 
+<!-- <floatingText>
+<body>
+<hi rend="center"><head>JOURNAL OF THE HOUSE OF REPRESENTATIVES OF
+THE UNITED STATES;</head></hi>
+<head type="sub"><hi rend="center">THE FIRST SESSION OF THE TWENTY-EIGHTH CONGRESS;
+BEGUN 
+AT THE CITY OF WASHINGTON,
+DECEMBER 4, 1843,
+IN THE SIXTY-EIGHTH YEAR Of THE INDEPENDENCE Of THE UNITED STATES
+WASHINGTON:
+PRINTED BY BLAIR AND RIVES.  1844</hi></head>
+
+<fw>Dec. 19, 1843	House of Representatives</fw>
+<p>Mr. John Quincy Adams presented additional documents in the case of John M. Botts, who contests the right of John W. Jones to a seat as a member of the twenty&#8211;eighth Congress.</p>
+<p>Mr. Newton also presented additional documents in the same case. The Speaker <foreign>pro tem.</foreign> also presented an additional document in the same case.</p>
+<p><hi rend="italic">Ordered,</hi> That the said documents be referred to the Committee of Elections.</p>
+<p>The House proceeded to the consideration of the resolution moved by Mr. Garrett Davis, on the 13th instant, instructing the Committee Elections to inquire and report whether the members front the States New Hampshire, Georgia, Mississippi, and Missouri, were elected in conformity to law; the question being on the amendment moved by Mr. Jameson to strike out the words "Committee of Elections," and insert in lieu thereof "Committee of the Whole House on the state of the Union:' which amendment was pending on that day when the House passed to other business.</p>
+<p>Mr. Jameson withdrew his said amendment; when</p>
+<p>A motion was made by Mr. Kennedy to amend the said resolution, by striking out all after the word "Resolved," and inserting the following, to wit: "that the members of this House from the States of New Hampshire, Missouri, Mississippi, and Georgia, are properly and constitutionally elected by a general ticket, and are as :much entitled to seats on this floor as the members from any other of the States of this Union;" when</p>
+<p>Mr. G. Davis, at the suggestion of Mr. Elmer, modified his resolution to read as follows:</p>
+<p><emph>Resolved,</emph> that the Committee of Elections be directed to examine and rereport upon the certificates of election, or the credentials of the members returned to serve in this House; and that they inquire and report whether the several in members of this House have been elected in conformity with the Constitution and law."</p>
+<p>The pending amendments fell.</p>
+<p>And the question recurred on agreeing to the resolution of Mr. G. Da. vis, as modified; when, by unanimous consent, the House passed to other business.</p>
+<p>A message, in writing, was received from the President of the United States, by Mr. John Tyler, jr., his private secretary: which was read, and. is as follows:</p>
+<p><hi rend="italic">To the House of Representatives</hi></p>
+<p>I received, within a few hours of the adjournment of the last Congress, a resolution "directing payment of the certificates or awards issued by the commissioners under the treaty with the Cherokee Indians." Its provisions involved principles of great importance, in reference to which it required more time to obtain the necessary information than was al-lowed.</p>
+<p>The balance of the fund provided by Congress for satisfying claims under the seventeenth article of the Cherokee treaty, referred to in the resolution, is wholly insufficient to meet the claims still pending. To direct the payment, therefore. of the whole amount of those claims which happened to be first adjudicated, would prevent a ratable distribution of the fund among those equally entitled to its benefits. Such a violation of the individual rights of the claimants would impose upon the Govern<pb n="70" /><fw> 70 Journal of the 	Dec. 18, 1843 </fw>ment the obligation of making further appropriations to indemnify them; and thus Congress would be obliged to enlarge a provision liberal and equitable, which it had made for the satisfaction of all the demands of the Cherokees. I was unwilling to sanction a measure which would thus indirectly overturn the adjustment of our differences with the Cherokees, accomplished with so much difficulty, and to which time is reconciling those Indians.</p>
+<p>If no such indemnity should be provided, then a palpable and very gross
+wrong would be inflicted upon the claimants who had not been so
+nunate as to have their claims taken up in preference to others. Besides, the fund having been appropriated by law to a specific purpose, in fulfilment of the treaty, it belongs to the Cherokees; and the authority of this Government to direct its application to particular claims is more than questionable.</p>
+<p>The direction in the joint resolution, therefore, to pay the awards of the commissioners, to the amount of one hundred thousand dollars; seemed to me quite objectionable, and could not be approved.</p>
+<p>The further direction, that the certificates required to be issued by the treaty, and in conformity with the practice of the board heretofore, shall be proper and sufficient vouchers upon which payments shall be made at the treasury, is a departure from the system established soon after the adoption of the Constitution, and maintained ever since. That system requires that payments, under the authority of any department, shall be made upon its requisition, countersigned by the proper Auditor and Comptroller. The greatest irregularity would ensue from the mode of payment prescribed by the resolution.</p>
+<p>I have deemed it respectful and proper to lay before the House of Representatives these reasons for having withheld my approval of the above-mentioned joint resolution.</p>
+<hi rend="right"><signed>JOHN TYLER </signed></hi>
+<p>WASHINGTON, December 18, 1843.</p>
+<p><hi rend="italic">Ordered</hi>, That the said message do lie on the table.</p>
+<p>Under the 24th rule of the House, petitions and memorials were handed to the Clerk, as follows:</p>
+<p>By Mr. Tyler: The petition of Joseph P. Peters&#8212;presented heretofore February 10,1843: which petition was referred to the Committee on Revolutionary Pensions.</p>
+<p>Also, the petition of Gervis Foote&#8212;presented heretofore January 7,1843: which petition was referred to the Committee of Claims.</p>
+<p>By Mr. Steenrod: The petition of Daniel Steenrod&#8212;presented heretofore December 22, 1841: which petition was referred to the Committee of Claims.</p>
+<p>By Mr. Stetson: The petition of John McLaughlin&#8212;heretofore presented March 30, 1840: which petition was referred to the Committee on Private Land Claims.</p>
+<p>By Mr. Stetson: The petition of Benjamin S. Roberts&#8212;presented heretofore July 18, 1842: which petition was referred to the Committee on the Judiciary.</p>
+<p>By Mr. Stetson: The petition of Solomon Fitch and others<signed>-</signed>presented heretofore January 7, 1843: which petitions was referred to the Committee of Claims.</p>
+<p>By Mr. Stetson: The petition of William Bailey and Elizabeth Sweet&#8212;</p>
+</body>
+</floatingText> --> </fw>
+
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0030.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928). House of Representatives.  70th Congress, 2nd session.  House Document No. 493, pp. 9-10 (<title level="m"><hi rend="italic">Serial Set</hi></title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<fw> 
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  2d Session	HOUSE OF REPRESENTATIVES  	DOCUMENT No. 493 </fw>
+<head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING</head>
+
+<hi rend="center"><head>A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM
+DECEMBER 22, 1928.<signed>-</signed>Referred to the Committee on the Judiciary and ordered
+to be printed</head></hi>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<p><emph>To the Congress of the United States:</emph></p>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<hi rend="right"><signed>CALVIN COOLIDGE.</signed></hi>
+
+<hi rend="right"><dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline></hi>
+<head><hi rend="center">MEMORANDUM FOR THE ATTORNEY GENERAL</hi></head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?
+</p>
+Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); <pb n="9" />
+<fw> REPORT ON POCKET VETO	9 </fw>
+<p>The joint resolution was adopted unanimously by both Houses on February 8, 1843 (Congressional Globe, vol. 12, pp. 255, 256) and Congress adjourned on the legislative day of March 3d. (Same volume, pp. 394, 400)</p>
+<p>Among the manuscripts at the Library of Congress is the following
+message and with it a copy of a letter:</p>
+<salute><hi rend="italic"><p>To the House of Representatives:-</p></hi></salute>
+<p>The two Houses of Congress, at their last Session, passed a joint resolution, which originated in the House of Representatives "presenting the thanks of Congress to Samuel T. Washington for the service sword of George Washington, and the staff of Benjamin Franklin presented by him to Congress." This resolution in consequence doubtless of a merely accidental omission, did not reach me until after the adjournment of Congress, and therefore did not receive my approval and signature, which it would otherwise promptly have received. I nevertheless felt myself at liberty, and deemed it entirely proper to communicate a copy of the resolution to Mr. Washington as is manifested by the accompanying copy of the letter which I addressed to him. The joint resolution, together with a copy of the letter, is deposited in the Department of State, and can be withdrawn and communicated to the House, if it see cause to require them.</p>
+<closer><signed>JOHN TYLER </signed>
+<hi rend="right"><dateline>WASHINGTON <hi rend="italic">Dec 16. 1844</hi> (Copy)</dateline></hi></closer>
+
+<opener>
+<dateline><hi rend="right">WASHINGTON April 27th. 1848.</hi></dateline>
+<salute>DEAR SIR,</salute>
+</opener>
+<p>I send you a copy of a joint resolution of the two Houses of Congress, as expressive of the estimate which they place upon the presents which you recently made to the united States of the sword used by your illustrious relative, George Washington, in the Military Career of his early youth in the seven years' war, and throughout the War of our National Independence; and of the staff bequeathed by the Patriot, Statesman and Sage, Benjamin Franklin, to the same leader of the Armies of Freedom in the Revolutionary War, George Washington.
+These precious relics have been accepted in the name of the Nation, and have been deposited among its Archives.</p>
+<p>I avail myself of the opportunity afforded me in the performance of this pleasing task, to tender your assurances of my high respect and esteem.</p>
+<closer><hi rend="right"><signed>(Signed)	JOHN TYLER</signed></hi></closer>
+
+<p><hi rend="smallcaps">SAMUEL T. WASHINGTON,</hi> Esqr</p>
+<p>Among the manuscripts in the Library of Congress is the following message concerning another resolution of the 27th Congress, third session. There is no resolution with the message. I quote the manuscript.</p>
+<hi rend="italic"><salute>To the House of Representatives</salute></hi>
+<p>I received within a few hours of the adjournment of the last Congress, a resolution "directing payment of the Certificates or awards issued by the Commissioners under the Treaty with the Cherokee Indians." Its provisions involved principles of great importance, in reference to which, it required more time to obtain the necessary information than was allowed.</p>
+<p>The balance of the fund provided by Congress for satisfying claims under the 17th article of the Cherokee Treaty, referred to in the resolution, is wholly insufficient to meet the claims still pending. To direct the payment, therefore, of the whole amount of those claims which happened to be first adjudicated, would prevent a ratable distribution of the fund among those equally entitled to its benefits. Such a violation of the individual rights of the claimants, would impose upon the government the obligation of making further appropriations to indemnify them<signed>-</signed>and thus Congress would be obliged to enlarge a provision, liberal and equitable, which it had made for the satisfaction of all the demands of the Cherokees. I was unwilling to sanction a measure which would thus indirectly overturn the adjustment of our differences with the Cherokees, accomplished with so much difficulty, and to which time is reconciling those Indians.</p>
+<p>If no such indemnity should be provided, then a palpable and very gross wrong would be inflicted upon the claimants who had not been so fortunate as to have their claims taken up in preference to others. Besides, the fund having been <pb n="10" /><fw> 10	REPORT ON POCKET VETO </fw>
+appropriated by law to a specific purpose, in fulfilment of the Treaty, it belongs to the Cherokees, and the authority of this government to direct its application to particular claims is more than questionable.</p>
+<p>The direction in the joint resolution, therefore, to pay the awards of the Commissioners to the amount of one hundred thousand dollars, seemed to me quite objectionable, and could not be approved.</p>
+<p>The further direction that the certificates required to be issued by the Treaty, and in conformity with the practice of the Board heretofore, shall he proper and sufficient vouchers upon which payments shall he made at the Treasury is a departure from the system established soon after the adoption of the Constitution, and maintained ever since. That system requires that payments under the authority of any Department shall be made upon its requisition, countersigned by the proper Auditor and Comptroller. The greatest irregularity would ensue from the mode of payment prescribed by the resolution.</p>
+<p>I have deemed it respectful and proper to lay before the House of Representatives these reasons for having withheld my approval of the above&#8211;mentioned joint resolution.</p>
+<closer><hi rend="right"><signed>JOHN TYLER</signed></hi></closer>
+
+<dateline><hi rend="smallcaps">WASHINGTON </hi>December 18th 1848</dateline>
+<p>As to the engrossed bill itself, the following passage in Van Tyne and Leland, Guide to the Archives of the Government of the United States in Washington, p. 1, may furnish an explanation:</p>
+<lb/>
+<p>The custom which has prevailed for retiring Presidents to take with them as personal property all the letters, papers, and other records of their respective administrations, has resulted in scattering abroad much historical material of the utmost value.</p>
+<lb/>
+<p>In the volume of unsigned bills at the State Department is a bill of the 28th Congress, second session, "Making appropriations for the improvement of certain harbors and rivers." There are no marks on the bill; simply an attached slip reading:</p><lb/>
+<p>Acts and Resolutions of Congress that have not been approved by the President.</p><lb/>
+<p>But there is no other act or resolution of this session in this volume of unsigned bills. The bill passed the House of Representatives on February 28, 1845 (Cong. Globe, vol. 14, p. 369) and the Senate on March 3. (Same volume, p. 393) Both Houses adjourned on the legislative day of March 3. (Same volume, 393, 397)</p>
+<p>The 29th Congress, second session, adjourned on March 3, 1847. (Cong. Globe, vol. 17, pp. 572, 574) Early in the 30th Congress, first session, President Polk sent to the House of Representatives a message which is now in the manuscript room of the Library of Congress. With the message is a bill of the 29th Congress, second session, "to provide for continuing a certain public work in the Territory of Wisconsin, and for other purposes." There is no mark on the bill itself except "47." The message is as follows:</p>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+<p>On the last day of the last session of Congress a Bill, entitled "An act to provide for continuing certain works in the Territory of Wisconsin and for other purposes," which had passed both houses, was presented to me for my approval. I entertained insuperable objections to its becoming a law; but the short period of the session, which remained, afforded me no sufficient opportunity, to prepare my objections and communicate them, with the Bill, to the House of Representatives, in which it originated. For this reason the Bill was retained, and I deem it proper now to state my objections to it.</p>
+</body>
+</floatingText> --> </fw>
+
+
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0030.03.pdf">Veto messages of the Presidents of the United States, with the action of Congress thereon</ref>.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53, pp. 180-181 (<title level="m">Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<fw> 
+<!-- <floatingText>
+<body>
+<opener><dateline><date>December 18, 1843.</date></dateline>
+<salute>To the House of Representatives of the United States:</salute></opener>
+<p>I received, within a few hours of the adjournment of the last Congress, a resolution "directing payment of the certificates or awards issued by the commissioners, under the treaty with the Cherokee Indians." Its provisions involved principles of great importance, in reference to which, it required more time to obtain the necessary information than was allowed.</p>
+<p>The balance of the fund provided by Congress for satisfying claims under the seventeenth article of the Cherokee treaty, referred to in the
+resolution, is wholly insufficient to meet the claims still pending. To direct the payment, therefore, of the whole amount of those claims which happened to be first adjudicated, would prevent a ratable distribution of the fund among those equally entitled to its benefits. Such a violation of the individual rights of the claimants would impose upon the Government the obligation of making further appropriations to indemnify them; and thus Congress would be obliged to enlarge a provision liberal and equitable, which it had made for the satisfaction of all the demands of the Cherokees. I was unwilling to sanction a measure which would thus indirectly overturn the adjustment of our differences with the Cherokees, accomplished with so much difficulty, and to which time is reconciling those Indians.</p>
+<p>If no such indemnity should be provided, then a palpable and very gross wrong would be inflicted upon the claimants who had not been so fortunate as to have their claims taken up in preference to others. Besides, the fund having been appropriated by law to a specific purpose, in fulfilment of the treaty, it belongs to the Cherokees, and the authority of this Government to direct its application to particular claims is more than questionable.</p>
+<p>The direction in the joint resolution, therefore, to pay the awards of the commissioners, to the amount of $100,000, seems to me quite objectionable and could not be approved.</p>
+<p>The further direction, that the certificates required to be issued by the treaty, and in conformity with the practice of the board heretofore, shall be proper and sufficient vouchers, upon which payments shall be made at the Treasury, is a departure from the system established soon after the adoption of the Constitution, and maintained ever since. That system requires that payments, under the authority of any Department, shall be made upon its requisition, countersigned by the proper Auditor and Comptroller. The greatest irregularity would ensue from the mode of payment prescribed by the resolution.</p>
+<p>I have deemed it respectful and proper to lay before the House of Representatives these reasons for having withheld my approval of the above-mentioned joint resolution.</p>
+<closer><signed>JOHN TYLER.</signed></closer>
+</body>
+</floatingText> -->
+</fw>
+</div1>
+
+</body>
+</text>
+</TEI>

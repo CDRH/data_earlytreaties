@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0555">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">555	H.R. 8074 (Fiftieth Congress, First Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0555</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fiftieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>United Peorias and Miamies</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>555	H.R. 8074 (Fiftieth Congress, First Session &#8212; Cleveland)</head>
+
+<p>To provide for allotment of land in severalty to United Peorias and Miamies in Indian Territory.</p>
+
+<p>Pocket veto occurred after the 1st session of the 50th Congress had adjourned sine die on October 20, 1888.  The bill was presented to the President on October 20, 1888 (October 20, 1888, H. Jour., p. 2950; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 31).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 126.</bibl>
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV0555.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1888).  50th Congress, 1st session, p. 2950 (<hi rend="italic">Serial Set</hi> 2530).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES
+OF THE
+UNITED STATES,
+BEING THE
+FIRST SESSION OF THE FIFTIETH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON,</head>
+<head>DECEMBER 5, 1887,
+IN THE ONE HUNDRED AND TWELFTH YEAR OF THE INDEPENDENCE
+OF THE UNITED STATES.</head>
+<milestone unit="rule" />
+<head>IN THREE VOLUMES.
+VOLUME II.
+-APRIL 13, to OCTOBER 20, 1888 (INCLUSIVE),
+AND APPENDIX.</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1888.</head>
+<fw> 2950	JOURNAL OF THE	[Oct. 20, 1888. </fw>
+<p>did, on the dates named below, approve bills and joint resolutions of the Senate of the following titles, viz:</p>
+<p>On the 19th instant:</p>
+<p>S. 45. An act for the relief of Colonel James C. Duane;</p>
+<p>S. 1190. An act for the relief of the estate of Joseph Fenno, deceased; </p>
+<p>S. 1137. An act for the relief of Adam L. Epley;</p>
+<p>S. 307. An act for the relief of Margaret Kennedy;</p>
+<p>S. 1482. An act granting a pension to Sarah C. Taylor;</p>
+<p>S. 2663. An act granting an increase of pension to Mrs. Mary M. Ord;</p>
+<p>S. 2110. An act granting the right of way for the construction of a railroad through the Hot Springs reservation, State of Arkansas;</p>
+<p>S. 1494. An act to secure to the Cherokee freedmen and others their proportion of certain proceeds of lands under the act of March 3,1883;</p>
+<p>S. 3597. An act to provide for the disposal of the Fort Wallace military reservation in Kansas;</p>
+<p>S. 2802. An act to fix the number of unbound and bound Journals of the Senate and House of Representatives and to provide for their distribution;</p>
+<p>S. 3620. An act supplementary to the act approved February 3, 1887, entitled "An act to fix the day for the meeting of the electors of President and Vice-President, and to provide for and regulate the counting of the votes for President and Vice-President and the decision of questions arising thereon;"</p>
+<p>S. 3433. An act authorizing the Secretary of the Interior to accept the surrender of and cancel land patents to Indians in certain cases;</p>
+<p>S. R. 59. Joint resolution authorizing Brigadier General Absalom Baird, United States Army, to accept from the President of the French Republic a diploma conferring the decoration of' commander of the National Order of the Legion of Honor;</p>
+<p>S. R. 112. Joint resolution authorizing the Secretary of War to receive for instruction at the Military Academy at West Point Henry Lecomte, of Switzerland; and</p>
+<p>S. R. 116. Joint resolution authorizing the Secretary of War to protect the Washington Aqueduct tunnel.</p>
+<p>Mr. Kilgore, from the Committee on Enrolled Bills, reported that the committee had examined and found duly enrolled the joint resolution of the House (H. Res. 233) authorizing the exhibits made by the Government at the centennial exposition of the Ohio Valley and Central States, at Cincinnati, Ohio, to remain at said exposition until and including the 15th day of November, 1888;</p>
+<p>When
+The Speaker signed the same.</p>
+<p>Mr. Kilgore, from the Committee on Enrolled Bills, reported that he did, on the 19th instant, present to the President of the United States bills and joint resolutions of the House numbered, respectively, H. R.
+7964, H. R. 8074, H. E. 10735,H. Res. 229, H. Res. 231, and H. Res.
+232.</p>
+<p>Mr. Farquhar, by unanimous consent, submitted the following resolution; which was read, considered, and agreed to, viz:</p>
+<p>Resolved by the House of Representatives, That the Doorkeeper be authorized to retain in his employment for the month of November Richard E. Rhea, mail-page of the House, at the same rate of compensation he now receives; and the Clerk of the House be authorized to pay said sum out of the contingent fund of the House.</p>
+<p>Mr. Farquhar moved to reconsider the vote last taken, and also moved</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0555.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 31 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS 2d Session/ HOUSE OF REPRESENTATIVES DOCUMENT 	No. 493 </fw>
+<head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<p>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</p>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+
+<hi rend="right">DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<quote>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</quote> 
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO	31 </fw><pb n="31" />
+<p>greater than the sum thus sought to be released to him, I am not willing to agree to his release from the consequences of his failure to perform his contract.</p>
+<p>I do not find unsigned bills in the archives of the State Department bearing any date between August, 1886, and December, 1892. Three bills of a later period were sent to that Department. With those three exceptions, all such unsigned bills after August, 1886, were retained by the President and are now at the Executive Offices.</p>
+<p>The 49th Congress, second session, adjourned March 4, 1887. President Cleveland retained unsigned seven Senate and forty House bills. These bills have on them no markings except such as were made by the enrolling and comparing clerks of Congress, notations showing to what Department each bill was referred, the stamp showing when the bill was received at the Executive Mansion and in some instances an X in blue pencil. I shall give the number of the bill and the date on which it was received at the Executive Mansion.</p>
+<table>
+<row>
+<cell>H. R. 2208-Feb. 22, 1887</cell><cell>H. R. 8437-Mar. 2</cell>
+</row>
+<row>
+<cell>H. R. 7819-Feb. 22</cell><cell>	H. R. 8828-Mar. 2</cell>
+</row>
+<row>
+<cell>H. R. 9119-Feb. 22</cell><cell>H. R. 9170-Mar. 2</cell>
+</row>
+<row>
+<cell>S. 1326-Feb. 23</cell>	  <cell>H. R. 9213-Mar. 2</cell>
+</row>
+<row>
+<cell>S. 1930-Feb. 23</cell>	  <cell>H. R. 9301-Mar. 2</cell>
+</row>
+<row>
+<cell>H. R. 306-Feb.</cell><cell> 26	H. R. 10419-Mar. 2</cell>
+</row>
+<row>
+<cell>H. R. 6188-Feb. 26</cell><cell>H. R. 10421-Mar. 2</cell>
+</row>
+<row>
+<cell>H. R. 7504-Feb. 26</cell>	<cell>. 130-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 9377-Feb. 26	</cell><cell>S. 175-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 5541-Mar. 1	</cell><cell>S. 929-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 7479-Mar. 1	</cell><cell>S. 1033-Mar. 3</cell>
+</row>
+<row>
+<cell>H. Res. 125-Mar. 2</cell><cell>	S. 2725-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 731-Mar. 2</cell><cell>	H. R. 38-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 942-Mar. 2</cell><cell>	H. Res. 82-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 2889-Mar. 2	</cell><cell>H. Res. 222-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 3930-Mar. 2	</cell><cell>H. Res. 243-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 3931-Mar. 2</cell><cell>	H. R. 679-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 4585-Mar. 2	</cell><cell>H. R. 1753-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 4678-Mar. 2	</cell><cell>H. R. 3642-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 4745-Mar. 2	</cell><cell>H. R. 9860-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 7221-Mar. 2</cell><cell>	H. R. 9921-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 7643-Mar. 2	</cell><cell>H. R. 10040-Mar. 3</cell>
+</row>
+<row>
+<cell>H. R. 8067-Mar. 2</cell><cell>	H. R. 10514-Mar. 3 </cell>
+</row>
+<row>H. R. 8384-Mar. 2 </row>
+</table>
+<p>The 50th Congress, first session, adjourned October 20, 1888. (<title>Cong. Rec.</title>, vol. 19, pt. 10, pp. 9614, 9616) President Cleveland retained unsigned 13 Senate and 10 House bills. They are now at the Executive Offices. The following bills are stamped as received at the Executive Mansion on the dates given below:</p>
+<table>
+<row>
+<cell>S.	664-Oct. 10, 1888</cell><cell>	H. R.	7547-Oct. 17</cell>
+</row>
+<row>
+<cell>S.	869-Oct.	9</cell><cell>	H. R.	1239-Oct. 17</cell>
+</row>
+<row>
+<cell>S.	889-Oct. 10</cell><cell>	H. R.	3300-Oct. 10</cell>
+</row>
+<row>
+<cell>S. 1614-Oct. 10	</cell><cell>H. R.	7964-Oct. 19</cell>
+</row>
+<row>
+<cell>S. 1926-Oct. 10	</cell><cell>H. R.	8074-Oct. 17</cell>
+</row>
+<row>
+<cell>S. 2567-Oct. 10	</cell><cell>H. R.	8674-Oct. 17 </cell>
+</row>
+<row>
+<cell>S. 3030-Oct. 10	</cell><cell>H. R.	8855-Oct. 17</cell>
+</row>
+<row>
+<cell>S. 3083-Oct. 10	</cell><cell>H. R.	7447-Oct. 12</cell>
+</row>
+<row>
+<cell>S. 3234-Oct.	9</cell><cell>	H. R. 10183-Oct. 17</cell>
+</row>
+<row>
+<cell>S. 3241-Oct. 10</cell><cell>	H. R. 11107-Oct. 17</cell>
+</row>
+<row>
+<cell>S. 3390-Oct.	9	</cell>
+</row>
+<row>
+<cell>S. 3559-Oct. 17	</cell>
+</row>
+<row>
+<cell>S. 3573-Oct. 9</cell>
+</row>
+</table>
+<p>The 50th Congress, second session, adjourned March 4, 1889. President Cleveland retained at the White House 12 Senate and 19 House bills. Committee reports are usually attached to the bills.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

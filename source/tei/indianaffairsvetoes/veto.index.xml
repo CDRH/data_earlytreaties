@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.index">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Presidential Vetoes</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Karin Dalziel</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.index</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2010-03-16</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<body>
+    <head>Presidential vetoes, between 1789 and 2000, that concerned Indian Affairs.  <hi rend="highlight">Highlighted</hi>  numbers identify pocket vetoes.
+    </head>
+<table>
+<row><cell><hi rend="bold">President</hi></cell><cell><hi rend="bold">Veto #</hi></cell></row>
+<row><cell>Tyler</cell><cell><ref target="veto.pv0030"><hi rend="highlight">30</hi></ref></cell></row>
+<row><cell>Grant</cell><cell><ref target="veto.pv0127"><hi rend="highlight">127</hi></ref><ref target="veto.pv0129"><hi rend="highlight">129</hi></ref><ref target="veto.pv0139">139</ref><ref target="veto.pv0158">158</ref><ref target="veto.pv0163">163</ref></cell></row>
+<row><cell>Cleveland</cell><cell><ref target="veto.pv0245">245</ref><ref target="veto.pv0355">355</ref><ref target="veto.pv0443">443</ref><ref target="veto.pv0466">466</ref><ref target="veto.pv0553"><hi rend="highlight">553</hi></ref><ref target="veto.pv0554"><hi rend="highlight">554</hi></ref><ref target="veto.pv0555"><hi rend="highlight">555</hi></ref><ref target="veto.pv0612"><hi rend="highlight">612</hi></ref><ref target="veto.pv0615"><hi rend="highlight">615</hi></ref></cell></row>
+<row><cell>Harrison</cell><cell><ref target="veto.pv0624">624</ref><ref target="veto.pv0629">629</ref><ref target="veto.pv0649"><hi rend="highlight">649</hi></ref></cell></row>
+<row><cell>Cleveland</cell><cell><ref target="veto.pv0674"><hi rend="highlight">674</hi></ref><ref target="veto.pv0679">679</ref><ref target="veto.pv0683">683</ref><ref target="veto.pv0688">688</ref><ref target="veto.pv0689">689</ref><ref target="veto.pv0726"><hi rend="highlight">726</hi></ref><ref target="veto.pv0738"><hi rend="highlight">738</hi></ref><ref target="veto.pv0742"><hi rend="highlight">742</hi></ref><ref target="veto.pv0778"><hi rend="highlight">778</hi></ref><ref target="veto.pv0825"><hi rend="highlight">825</hi></ref><ref target="veto.pv0830"><hi rend="highlight">830</hi></ref></cell></row>
+<row><cell>McKinley</cell><cell><ref target="veto.pv0844">844</ref><ref target="veto.pv0848">848</ref></cell></row>
+<row><cell>T.&#160;Roosevelt</cell><cell><ref target="veto.pv0900"><hi rend="highlight">900</hi></ref><ref target="veto.pv0906">906</ref><ref target="veto.pv0908">908</ref><ref target="veto.pv0916"><hi rend="highlight">916</hi></ref><ref target="veto.pv0926"><hi rend="highlight">926</hi></ref><ref target="veto.pv0951"><hi rend="highlight">951</hi></ref><ref target="veto.pv0955"><hi rend="highlight">955</hi></ref></cell></row>
+<row><cell>Taft</cell><cell><ref target="veto.pv0964"><hi rend="highlight">964</hi></ref><ref target="veto.pv0972"><hi rend="highlight">972</hi></ref><ref target="veto.pv0978">978</ref><ref target="veto.pv0979">979</ref></cell></row>
+<row><cell>Wilson</cell><cell><ref target="veto.pv1032">1032</ref></cell></row>
+<row><cell>Coolidge</cell><cell><ref target="veto.pv1052"><hi rend="highlight">1052</hi></ref><ref target="veto.pv1054"><hi rend="highlight">1054</hi></ref><ref target="veto.pv1055"><hi rend="highlight">1055</hi></ref><ref target="veto.pv1057">1057</ref><ref target="veto.pv1058"><hi rend="highlight">1058</hi></ref><ref target="veto.pv1061"><hi rend="highlight">1061</hi></ref><ref target="veto.pv1063">1063</ref><ref target="veto.pv1069">1069</ref><ref target="veto.pv1072">1072</ref><ref target="veto.pv1097"><hi rend="highlight">1097</hi></ref></cell></row>
+<row><cell>Hoover</cell><cell><ref target="veto.pv1106">1106</ref><ref target="veto.pv1111">1111</ref><ref target="veto.pv1118">1118</ref><ref target="veto.pv1126">1126</ref></cell></row>
+<row><cell>F.&#160;Roosevelt</cell><cell><ref target="veto.pv1137">1137</ref><ref target="veto.pv1163"><hi rend="highlight">1163</hi></ref><ref target="veto.pv1172"><hi rend="highlight">1172</hi></ref><ref target="veto.pv1180"><hi rend="highlight">1180</hi></ref><ref target="veto.pv1197"><hi rend="highlight">1197</hi></ref><ref target="veto.pv1220">1220</ref><ref target="veto.pv1221">1221</ref><ref target="veto.pv1240">1240</ref><ref target="veto.pv1241">1241</ref><ref target="veto.pv1247"><hi rend="highlight">1247</hi></ref><ref target="veto.pv1259"><hi rend="highlight">1259</hi></ref>
+<ref target="veto.pv1270"><hi rend="highlight">1270</hi></ref><ref target="veto.pv1271"><hi rend="highlight">1271</hi></ref><ref target="veto.pv1324"><hi rend="highlight">1324</hi></ref><ref target="veto.pv1384"><hi rend="highlight">1384</hi></ref><ref target="veto.pv1391"><hi rend="highlight">1391</hi></ref><ref target="veto.pv1392"><hi rend="highlight">1392</hi></ref><ref target="veto.pv1393"><hi rend="highlight">1393</hi></ref><ref target="veto.pv1407">1407</ref><ref target="veto.pv1419"><hi rend="highlight">1419</hi></ref><ref target="veto.pv1474">1474</ref><ref target="veto.pv1478">1478</ref>
+<ref target="veto.pv1485">1485</ref><ref target="veto.pv1510"><hi rend="highlight">1510</hi></ref><ref target="veto.pv1515"><hi rend="highlight">1515</hi></ref><ref target="veto.pv1518"><hi rend="highlight">1518</hi></ref><ref target="veto.pv1567">1567</ref><ref target="veto.pv1607">1607</ref><ref target="veto.pv1756"><hi rend="highlight">1756</hi></ref></cell></row>
+<row><cell>Truman</cell><cell><ref target="veto.pv1814">1814</ref><ref target="veto.pv1854">1854</ref><ref target="veto.pv1864"><hi rend="highlight">1864</hi></ref><ref target="veto.pv1879">1879</ref><ref target="veto.pv1880">1880</ref><ref target="veto.pv1899">1899</ref><ref target="veto.pv1926">1926</ref><ref target="veto.pv1957">1957</ref><ref target="veto.pv1960">1960</ref></cell></row>
+<row><cell>Eisenhower</cell><cell><ref target="veto.pv2086">2086</ref><ref target="veto.pv2201"><hi rend="highlight">2201</hi></ref></cell></row>
+<row><cell>Ford</cell><cell><ref target="veto.pv2345">2345</ref></cell></row>
+<row><cell>Carter</cell><cell><ref target="veto.pv2375"><hi rend="highlight">2375</hi></ref><ref target="veto.pv2382">2382</ref><ref target="veto.pv2383">2383</ref></cell></row>
+<row><cell>Reagan</cell><cell><ref target="veto.pv2398">2398</ref><ref target="veto.pv2403"><hi rend="highlight">2403</hi></ref><ref target="veto.pv2409">2409</ref><ref target="veto.pv2410">2410</ref><ref target="veto.pv2421"><hi rend="highlight">2421</hi></ref><ref target="veto.pv2422"><hi rend="highlight">2422</hi></ref><ref target="veto.pv2430"><hi rend="highlight">2430</hi></ref><ref target="veto.pv2442">2442</ref><ref target="veto.pv2465"><hi rend="highlight">2465</hi></ref></cell></row>
+<row><cell>G.H.W.&#160;Bush</cell><cell><ref target="veto.pv2486"><hi rend="highlight">2486</hi></ref><ref target="veto.pv2499">2499</ref><ref target="veto.pv2505"><hi rend="highlight">2505</hi></ref></cell></row>
+<row><cell>Clinton</cell><cell><ref target="veto.pv2521">2521</ref></cell></row>
+</table>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0624">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">624	S. 1762 (Twenty-seventh Congress, Third Session &#8212; Harrison)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0624</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Harrison</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Twenty-seventh Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>624	S. 1762 (Twenty-seventh Congress, Third Session &#8212; Harrison)</head>
+<p>To change the boundaries of the Uncompahgre Reservation.</p>
+
+<p>Vetoed June 19, 1890.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Ex. Doc. No. 157 (21 <title>Cong. Rec.</title> 6256).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 138.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0624.01.pdf">Message from the President of the United States, returning Senate Bill No. 1762, to change the boundaries of the Uncompahgre Reservation, with his objections thereto</ref>.  (1890).  Senate.  Fifty-first Congress, first session.  Senate Executive Document No. 157 (<title>Serial Set</title> 2688).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+51ST CONGRESS, / 1st Session.
+SENATE.
+Ex. Doe.
+No. 157.
+MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+Senate bill No. 1762, to change the boundaries of the Uncompahgre Reser-
+vation, with his objections thereto.
+JUNE 19, 1890.—Read and referred to the Committee on Indian Affairs, and ordered
+to be printed.
+To the Senate of the United States :
+I return without my approval the bill (S. 1762) " to change the boundaries of the Uncompahgre Reservation."
+This bill proposes to separate from the Ute Indian Reservation in Utah and restore to the public domain two ranges of townships along the east side of the reservation and bordering the Uolorado State line. It is said that these lands are wholly worthless to the Indians for cultivation or for grazing purposes, and it must follow, I think, that they are equally worthless for such purposes to white men.
+The object, then, of this legislation is to be sought not in any public demand for these lands for the use of settlers—for if they are susceptible of that use, the Indians have a clear equity to take allotments Upon them—but in that part of the bill which confirms the mineral entries, or entries for mineral uses, which have been unlawfully made " or attempted to be made on said lands." It is evidently a private and not a public end that is to be promoted. It does not follow of course that this private end may not be wholly meritorious, and the relief sought on behalf of these persons altogether just and proper. The facts, as I am advised, are that upon these lands there are veins or beds of asphaltum or Gilsonite, supposed to be of very great value.
+Entries have been made in that vicinity, but upon public lands, which lands have been re-sold for very large amounts. It is not important perhaps that the United States should in parting with these lands realize their value, but it is essential, I think, that favoritism should have no part in connection with the sales. The bill confirms all attempted entries of these mineral lands at the price of twenty dollars per acre (a price that is suggestive of something unusual) without requiring evidence of the expenditure of any money upon the claim, or even proof that the claimant was the discoverer of the deposits.
+The bill requires " good faith," but it will be next to impossible for the officers of the Interior Department to show actual knowledge on the part of the claimant of the lines of the reservation. The case will practicably be, as to this matter, in the hands of the claimant. But why
+2	BOUNDARIES OF THE UNCOMPAHGRE RESERVATION..
+should good faith at the moment of attempting the entry, without any requirement of expenditure, and followed, it may be, within twenty-four hours by actual notice that he was upon a reservation, give an advantage in the sale of these lands that may represent a very large sum of money l
+In the second place, I do not think it wise, without notice even to the Indians, to segregate these lands from their reservation. It is true, I think, that they hold these lands by an Executive order, with a contract right to take allotments upon them, and that the lands in question are not likely to be sought as an allotment by any Indian. But the Indians have been placed on this reservation and its boundaries explained to them, and to take these lands in this manner is calculated to excite their distrust and fears, and possibly to create serious trouble.
+BENJ. HARRISON.
+EXECUTIVE MANSION,
+June 17, 1890.
+[Fifty first Congress of the 'United States of America, at the first session, begun and held at the city
+of Washington, on Monday, the second day of December, 1890.]
+AN ACT to change the boundaries of the Uncompahgre Reservation.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That so much of the Uncompahgre Ute Indian Reservation, in the Territory of Utah, as is contained within the following description, namely : The two ranges of townships on the east side of said reservation adjoining the Colorado State line, being ranges twenty-four and twenty-five east, Salt Lake meridian, be, and the same is hereby, declared to be public lands of the United States, and restored to the public domains : Provided, That any mineral location heretofore made or attempted to be made on said lands, or any part thereof, by any qualified person, who shall have made the same in good faith, shall bear date and be allowed the same as if said lands had been public lands at the time of said attempted location or institution of said proceedings, but said mineral location shall not be completed except upon the payment of twenty dollars an acre, or at that rate for the amount taken up by the claim ; but no claim shall contain more than one hundred and sixty acres.
+THOMAS B. REED, Speaker of the House of Representatives.
+JOHN J. INGALLS, President of the Senate pro tempore.
+I certify that this act originated in the Senate.
+ANSON G. McCooK,
+Secretary.
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0624.02.pdf"><title>Congressional Record</title> 21, 6256</ref> (1889).</bibl>
+<!-- <floatingText>
+</body>
+
+<fw> 6256	CONGRESSIONAL RECORD-SENATE.	July 19, </fw>
+
+<p>Mr. MANDERSON. No, I do not think it is, within the meaning of per annum, and I venture the assertion that when that board gets under the Senate rules.</p>
+<p>Mr. HARRIS. That is the test. If it be the subject of general legislation, then, of course, it is prohibited by the third clause of Rule XVI upon this bill. If it is not general legislation, then that clause does not affect it. I think myself this is a subject of general legislation.</p>
+<p>Mr. MANDERSON. I do not think it is within the provisions of Rule XVI, I will come to that in one moment.</p>
+<p>I am simply now trying to show the numerous precedents that Congress has established in the direction of this proposed change in the salary of this officer. They are numerous and beyond question, and I suggest, as I submitted before, that the Committee on Appropriations has itself repeatedly and again upon this very bill done the same thing. By the confession of the chairman there are some two hundred instances in this bill where salaries have been either raised or lowered.</p>
+<p>Mr. ALLISON. I say two hundred instances where they have been reduced, not in this bill, but in former bills, below the statutory compensation.</p>
+<p>Mr. MANDERSON. Well, in other appropriation bills besides this, which, it seems to me, is the very principle I am advocating, and that is, that the Committee on Appropriations have thought it within their power and within the power of the Senate of the United States to change salaries by annual appropriation bills, and either to raise or to lower them above or below the figure established by general law.</p>
+<p>Now, Mr. President, one word as to Rule XVI. It seems to me that this case comes rather under section 2 of this rule, which reads:</p>
+<quote>2. All amendments to general appropriation bills moved by direction of a standing or select committee of the Senate, proposing to increase an appropriation already,contained in the bill,</quote>
+<p>That, I think, is this case. We propose to increase the appropriation for the pay of this officer for the next fiscal year from $4,000 to $5,000. Has that proposition gone through the process prescribed by Rule XVI? Has it been referred to a regular committee of the Senate? I understand that this amendment was referred to the Committee on Public Lands and that committee reported in favor of the change and within the time limited by this rule, and then had it referred to the Commit-tee on Appropriations.</p>
+<p>Now, I submit to the chairman of the Committee on Appropriations that in no instance has he known a Presiding Office of this body to rule otherwise than as suggested. I do not think the Senator from Ohio [Mr. SHERMAN] when he occupied the position of Presiding Officer, or the Senator from Vermont [Mr. EDMUNDS], or the Senator from Kansas [Mr. INGALLS] ever ruled that a change of salary, either lowering it or raising it, has been in the nature of general legislation and came within this language of section 3 of Rule XVI:</p>
+<quote>3. No amendment which proposes general legislation shall be received to any general appropriation bill, nor shall any amendment not germane or relevant to the subject-matter contained in the bill be received. </quote>
+<p>As suggested by the Senator from Connecticut [Mr. PLATT], while there have been no adverse rulings by any Presiding Officer of this body, in no instance where the question has been presented for the decision of the Senate by the Presiding Officer has it been held that we were limited in this regard, and that we could not change the appropriation for the fiscal year the expenditures of which were the subject-matter of the bill.</p>
+<p>One word, Mr. President, in response to the Senator from Missouri [Mr, COCKRELL]. I do not understand from him that he holds the
+present head of the General Land Office as responsible for any of the alleged inefficiencies in the clerical force of that office?</p>
+<p>Mr. COCKRELL, Certainly not.</p>
+<p>Mr. MANDERSON. As to whether there is inefficiency there or not, I do not know. I simply know that the head of that office is as hard-worked a man as there is in the employ of this Government. I know
+that he brings to the performance of his duties an ability of such character that it has challenged the respect, and the admiration even, of
+those who differ with him in politics. I submit that no man goes there to transact his business with the Government who does not come away with increased respect for the efficiency and the ability of this man. He works early and late. You compare his work with that of those officers who are better paid, the Railroad Commissioner, for instance. I hardly know what the duties of that office are, but it seems to me an
+office that is rather ornamental than useful, and yet he is paid higher than this most important officer&#8212;</p>
+<p>Mr. TELLER. If the Senator will allow me, I would say there is about as mnch difference between the duties of the Commissioner of Railroads and those of the Commissioner of the General Land Office as there is between the duties of the Commissioner of the General Land
+Office and those of the head of one of his divisions, just about.</p>
+<p>Mr. MANDERSON. I think that would be about a parallel.</p>
+<p>Mr. President, on this question of high salaries, I do not believe
+that the people of the United States desire that their public servants shall be poorly paid. Poor pay means poor work; it means inefficient service; and certainly the people of this country do not desire that.
+At this session of Congress we have passed through both Houses what is known as the customs administrative bill. We created by that bill nine appraisers, I think they are called, with salaries of $7,000 each per annum and I venture the assertion that when the board gets under 
+full headway, and in the performance of the duties that will devolve
+upon it, no man of the board will have one-half of the labor incident to his well paid office that the Commissioner of the General Land Office has to-day.</p>
+<p>I think it is no more than fair, as Congress has seen fit to raise the salaries of these other heads of bureaus, that this efficient and bard-worked officer should receive the compensation that his ability and his labor certainly entitle him to.</p>
+<p>Mr. BERRY. Will the Senator permit me to ask him a question? </p>
+<p>Mr. MANDERSON. Certainly.</p>
+<p>Mr. BERRY. The Senator spoke about the Commissioner of Indian
+Affairs and about his salary being raised by an appropriation bill. I find that by this bill only $4,000 is appropriated for the salary of the
+Commissioner of Indian Affairs, and I think that is the amount which the law specifies. Now, why should not the Commissioner of Indian Affairs receive $5,000 as well as the Commissioner of the General Land Office?</p>
+<p>Mr. MANDERSON. I will answer that in a word. It is because I
+do not think the office of Commissioner of Indian Affairs has one-half the labor, one-half the responsibility, and does not require as high a degree of professional talent as that of the Commissioner of the General Land Office.</p>
+
+<head>BOUNDARIES OF UNCOMPAHGRE RESERVATION-VETO MESSAGE.</head>
+<p>The VICE-PRESIDENT. The hour of 4 o'clock has arrived, the hour set apart for memorial exercises. The Chair will first lay before the Senate a message from the President of the United States, which will be read.</p>
+<note>The Chief Clerk read as follows:</note>
+<quote><hi rend="italic">To the Senate of the United Slates:</hi>
+<p>I return without my approval the bill (S. 1762) to change the boundaries of the Uncompahgre reservation.</p>
+<p>This bill proposes to separate from the Ute Indian reservation in Utah and restore to the public domain two ranges of townships along the east side of the reservation and bordering the Colorado State line, It is said that these lands are wholly worthless to the Indians for cultivation or for grazing purposes, and it must follow, I think, that they are equally worthless for such purposes to white men.</p>
+<p>The object, then, of this legislation is to be sought, not in any public demand for these lands for the use of settlers&#8212;for if they are susceptible of that use the Indians have a clear equity to take allotments upon them&#8212;but in that part of the bill which confirms the mineral entries, or entries for mineral uses, which have been unlawfully made "or attempted to be made on said lands." It is evidently a private and not a public end that is to be promoted. It does not follow, of course, that this private end may not be wholly meritorious and tho relief sought on behalf of these persons altogether just and proper. The facts, as I am advised, are that upon these lands there are veins or beds of asphaltum or gilsonite, supposed to be of very great value.</p>
+<p>Entries have been made in that vicinity, but upon public lands, which lands have been resold for very large amounts. It is not important, perhaps, that the United States should, in parting with these lands, realize their value, but it is essential, I think, that favoritism should have no part in connection with the sales. The bill confirms all attempted entries of these mineral lands at the price of $20 per acre (a price that is suggestive of something unusual) without requiring evidence of the expenditure of any money upon the claim or even proof that the claimant was the discoverer of the deposits.</p>
+<p>The bill requires "good faith," but It will be next to impossible for the officers of the Interior Department to show actual knowledge on the part of the claim-ant of the lines of the reservation. The case will practically be, as to this matter, in the hands of the claimant. But why should good faith, at the moment
+of attempting the entry, without any requirement of expenditure, and followed, it may be within twenty-four hours, by actual notice that be was upon a reservation, give an advantage in the sale of these lands that may represent a Very large sum of money?</p>
+<p>In the second place, I do not think it wise without notice even to the Indians to segregate these lands from their reservation. It is true, I think, that they hold these lands by an Executive order,with a contract right to take allotments upon them, and that the lands in question are not likely to be sought as an allotment by any Indian. But the Indians have been placed on this reservation and its boundaries explained to them, and to take these lands in this manner is calculated to excite their distrust and fears and possibly to create serious trouble.</p>
+<closer><signed>BENJ. HARRISON. </signed>
+<dateline>EXECUTIVE MANSION, June 19, 1890.</dateline></closer> </quote>
+<p>The VICE-PRESIDENT. The question is, Shall the bill pass, the
+objections of the President of the United States to the contrary not-withstanding?</p>
+<p>Mr. TELLER. I suggest that the message be referred to the Committee on Indian Affairs.</p>
+<p>The VICE-PRESIDENT. The message will be so referred and printed, in the absence of objection.</p>
+
+<head>RECIPROCITY TREATIES WITH THE LATIN-AMERICAN STATES.</head>
+<p>The VICE-PRESIDENT laid before the Senate the following message from the President of the United States; which was read:</p>
+<p>To the senate and House of Representatives:</p>
+<p>I transmit herewith for your information a letter from the Secretary of State, inclosing a report of the International American Conference, which recommends that reciprocal commercial treaties be entered Into between the United States and the several other Republics of this hemisphere.</p>
+<p>It has been so often and so persistently stated that our tariff laws offered an insurmountable barrier to a large exchange of products with the Latin-American nations that I deemed proper to call especial attention to tho fact that more than 87 per cent. of the products of those nations sent to our ports are now admitted freo. If sugar is placed upon the free-list, practically every important article exported from those states will be given untaxed access to our markets except wool. Therealdiffleultyin the way of negotiating profitable reciprocity
+treaties is that we have given freely so much that would have had value in the
+mutual concessions Which such treaties imply. I can not doubt, howeter, that the present advantages which the products of these near and friendly states enjoy in our markets—though they are not by law exclusive—will, with other </p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

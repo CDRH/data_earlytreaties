@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0127">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">127	S. 1480 (Forty-second Congress, Third Session &#8212; Grant)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0127</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Grant</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-second Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>127	S. 1480 (Forty-second Congress, Third Session – Grant)</head>
+<p>For the relief of W.W. Elliott.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 42nd Congress had adjourned sine die on March 3, 1873.  The bill was presented to the President on March 3, 1873 (March 3, 1873, S. Jour., p. 585; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., pp. 18-19).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988.</title>  (1992). Washington, DC: Government Printing Office, 46.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0127.01.pdf">Journal of the Senate of the United States</ref>.  (1873).  42nd Congress, 3rd session, p. 585 (<title>Serial Set</title> 1544).  Washington, DC: Government Printing Office.</bibl>
+
+<!-- <floatingText>
+<body>
+<hi rend="center"><head>JOURNAL
+OE THE
+SENATE OF THE UNITED STATES
+OF AMERICA,
+BEING THE
+THIRD SESSION OF THE FORTY-SECOND CONGRESS;</head></hi>
+<milestone unit="rule">
+<hi rend="center"><head>BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 2, 1872,
+IN THE NINETY-SEVENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head></hi>
+<milestone unit="rule">
+<hi rend="center"><p>WASHINGTON: GOVERNMENT PRINTING OFFICE. 1873.</p></hi><pb n="585" />
+<fw> MARCH 3, 1873.] JOURNAL OF THE SENATE.	585 </fw>
+<milestone unit="rule">
+<p>S. 1380. An act granting a pension to Eliza J. Humphrey, widow of James R. Humphrey.</p>
+<p>S. 1384. An act authorizing the Secretary of War to have a monument erected at Salisbury, North Carolina, to the memory of soldiers who died in prison and are there buried.</p>
+<p>S. 1399. An act permitting Lieutenant Theodore B. M. Mason, of the Navy, to accept a decoration from the emperor of Brazil.</p>
+<p>S. 1425. An act supplemental to an act entitled "An act to incorporate the Texas Pacific Railroad Company, and to aid in the construction of its road, and for other purposes," approved March 3, 1871.</p>
+<p>S. 1427. An act to establish the custom-house value of the sovereign or pound sterling of Great Britain, and to fix the par of exchange.</p>
+<p>S. 1429. An act to provide for the care and preservation of the cemetery near the city of Mexico, purchased in accordance with the act of September 28, 1850.</p>
+<p>S. 1434. An act to authorize pre-emptors or settlers upon homesteads on the public land to alienate portions of their pre-emptions or home-steads for certain purposes.</p>
+<p>S. 1438. An act to provide for the payment, in gold, of certain wages to seamen in foreign countries.</p>
+<p>S. 1443. An act for the relief of the heirs of Thomas Lawson, deceased.</p> 
+<p>S. 1464. An act to amend the charter of the Gr&uuml;tli Verein Association.</p>
+<p>S. 1471. An act for the relief of Josiah George Jennings.</p>
+<p>S. 1480. An act for the relief of W. W. Elliott.</p>
+<p>S. 1453. An act to create the collection-district of southern Oregon.</p>
+<p>S. 1497. An act fixing the time of holding the fall term of the United States district court for the district of Nebraska.</p>
+<p>S. 1514. An act for the temporary relief of the Indians at Camp McDermit, in Humboldt County, Nevada.</p>
+<p>S. 1524. An act for the relief of John L. Pendery, surviving partner of Pendery & Gamble, attorneys.</p>
+<p>1525. An act for the relief of Grace B. Peck.</p>
+<p>S. 1527. An act to amend an act entitled "An act to provide for the redemption and sale of lauds held by the United States under the several acts levying direct taxes," and for other purposes.</p>
+<p>S. 1539. An act to remove the political disabilities of James Halyburton, of Virginia, and Thomas G. Williams, of San Antonio, in the State of Texas.</p>
+<p>S. 1551. An act to amend an act entitled "An act granting a pension to Captain Henry M. Scott," approved April 9, 1872.</p>
+<p>S. 1572. An act for the suppression of trade in, and circulation of, obscene literature and articles of immoral use.</p>
+<p>S. 1580. An act to authorize the continued employment of an agent and counsel of the United States.</p>
+<p>S. 1588. An act granting a pension to Ann E. Boyle, widow of Commander Junius J. Boyle.</p>
+<p>S. 1630. An act to remove the political disabilities of David Coleman, of Buncombe County, North Carolina.</p>
+<p>S. 14. Joint resolution authorizing the President to invite the Inter-national Statistical Congress to hold its next session in the United States.</p>
+<p>Mr. Anthony, from the Committee on Printing, to whom was referred the resolution of the House of Representatives to print additional copies of the report of the Commissioner of Agriculture, for the year 1S72, re-ported it with amendments.</p>
+<p>The Senate proceeded to consider the said resolution; and the reported</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0127.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, pp. 18-19 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<fw>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d Session	HOUSE OF REPRESENTATIVES 	DOCUMENT No. 493 </fw>
+<hi rend="center"><head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING</head></hi>
+<milestone unit="rule">
+<hi rend="center"><head>A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM <milestone unit="rule"></head>
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head></hi>
+<opener>
+<dateline><hi rend="right">THE WHITE HOUSE, December 22, 1928.</hi></dateline> 
+<hi rend="italic"><salute>To the Congress of the United States:</salute></hi>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<hi rend="right"><signed>CALVIN COOLIDGE.</signed></hi>
+
+<dateline><hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi></dateline>
+<hi rend="center"><salute>MEMORANDUM FOR THE ATTORNEY GENERAL</salute></hi>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>
+Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited);</p>
+<fw> 18	REPORT ON POCKET VETO </fw>
+<p>The paper is written in pencil and reads:</p>
+<quote><p><hi rend="center">Pocketed
+March 3d, 1871</hi></p></quote>
+<p>S. 799-An Act for the relief of Anna M. Howard-</p>
+<p>H. R. 2334&#8212;An Act granting a pension to Adam Correll&#8212;></p>
+<p>S. 762. An Act for the relief of Joseph Ormsby&#8212;</p>
+<p>S. 943&#8212;An Act for the relief of George Wright</p>
+<p>S. 1213&#8212;An Act for the relief of Mary M. Clarke, widow of Leonard Clark, deceased&#8212;</p>
+<p>S. 995&#8212;An Act for the relief of purchasers of lands sold for direct taxes in the insurrectionary States</p>
+<p>S. 109-An Act in relation to the Selma, Rome & Dalton Railroad Company, Alabama.</p>
+<p>H. R. 2591&#8212;An Act relating to telegraphic communication between the United States & foreign countries&#8212;</p>
+<p>S. R. 295. A Resolution relating to rights of actual settlers upon certain lands&#8212;</p>
+<p>H. R. 1831&#8212;An Act to confirm the title to the Rancho del Rio Grande, in New Mexico, to the heirs & legal representatives of the original grantees thereof&#8212;</p>
+<p>With the paper is this letter:</p>
+<opener>
+<hi rend="right"><dateline>	EXECUTIVE MANSION
+Washington April 12, 1877.</dateline></hi>
+<salute>MY DEAR Mr. BROWN:</salute>
+</opener>
+<p>In making some changes in this office the accompanying bills &#8211; marked "Pocketed March 3d 1871" &#8212; came to light.</p>
+<p>I forward them for such disposition as you think best.</p>
+<closer>Very truly <signed> <hi rend="right">O. L. PRUDEN <hi rend="italic">Asst. Secty</hi></hi></signed></closer>
+
+<opener>
+<salute>Mr. S. A. BROWN
+<hi rend="italic">Chief Clerk
+Dept of State</hi></salute> 
+</opener>
+<p>Then follow all the bills in the above list except "H. R. 2591, An act relating to telegraph communication between the United States and foreign countries," the position of which is stated above.</p>
+<p>The 42d Congress, second session, which adjourned on June 10, 1872, the legislative day of June 8 (Cong. Globe, vol. 104, pp. 4461, 4504) passed a bill "to reimburse John E. Woodward for certain moneys paid by him." It is stamped "Department of State Received Jun. 11, 1872." Attached to it is a slip of paper reading:</p>
+<p><hi rend="right">Bills H. R. 1424)</hi> Presented to the President June 10, 1872, which he de clined to approve.
+<hi rend="right">H. R. 2622)</hi>	clined to approve.</p>
+<p><hi rend="right">Woodward</hi>	<hi rend="center">Recd. at Dept. of State June 11, 1872.</hi></p>
+<p>De Long</p>
+<p>At the same Congress and same session was a bill for the relief of James De Long. It is stamped:</p>
+<p>Department of State Received Jun. 11, 1872. Attached to it is a slip reading:</p>
+<hi rend="right"><p>H. R. 1424 </p>
+<p>H. R. 2622</p></hi>
+<hi rend="right"><p>Presented to the President June 10th, 1872, and which he declined to approve.</p></hi>
+<p>The 42d Congress, third session, which ended on March 4, 1873, the legislative day of March 3 (Cong. Globe, vol. 109, pp. 2138, 2211) passed a bill for the relief of W. W. Elliott. In pencil are "S. 1480. Pocket." In ink appears "W. W." It is stamped:</p>
+<p>Department of State </p>
+<p>Received Mar. 12, 1873.</p>
+<pb n="19" />
+<fw> REPORT ON POCKET VETO	19 </fw>
+<p>Under this stamp is written in ink "at 2.50 P. M." On the left margin in red penciling is the word "War." At the bottom is written in pencil:</p>
+<quote><p>Pocketed 3857</p> 
+<p>1480 </p>
+<p>See War</p></quote>
+<p>There are fifteen other unsigned bills of the same session in this volume at the State Department and each of them bears the same stamp of the State Department as on the bill for the relief of W. W. Elliott and the same addition in ink: "at 2.50 P. M."</p>
+<p>The next bill of the same session is for the relief of Samuel S. Potter. On it is penciled:</p>
+<quote><p>H. R. 2803 Pocket</p></quote>
+<p>Another bill of that session is for the relief of Edward Berry, John McFall and William H. Judd. In ink are the letters "W. W." In pencil on the bill are the notations "S. 1109" and</p>
+<quote><p>This bill should <emph>not</emph> be signed</p></quote>
+<p><hi rend="center">G. S. B.</hi></p>
+<p>Another bill of that session is for the relief of J. George Harris. On the top margin is written in pencil:</p>
+<p><p>H. R. 3857.  C. W. B.  Pocket.</p></p>
+<p>The word "War" was also on the margin.</p>
+<p>There is a bill for the relief of David Braden, marked "S. 166." There is a bill for the relief of Mrs. Louisa Eldis. It is marked:</p>
+<quote>H. R. 3878. C. W. B. War</quote>
+<p>On the back in blue pencil is written faintly the word</p>
+<quote>Pocketed.</quote>
+<p>The same session also passed "An act amendatory of an act authorizing the construction of a bridge across the Arkansas River." In ink on the margin are</p>
+<quote>S. 245. J. K. K.</quote>
+<quote>The next bill in the book is one for the relief of Elias C. Boudinot. It is marked in pencil "H. R. 1868" and in ink "C. W. B." On the back, in pencil, are the words:</quote>
+<quote>Not to be signed H. R. 1868
+<signed>JUDGE RICHARDSON</signed></quote>
+<p>The same session passed "An act to confirm certain land-titles in the State of Missouri." The margin contains the marks</p>
+<quote>H. R. #3731 C. W. B.</quote>
+On the back of the bill in red pencil is the notation:
+<quote><p>H. R. 3731 </p>
+<p>Pocket.</p></quote>
+<p>Then follows "An act for the relief of George S. Custin." In pencil on the margin is the notation "H. R. 3369." There is also this stamp:</p>
+<quote><p>War</p>
+<p>1896 3 1878 </p>
+<p>Dept</p></quote>
+</body></floatingText> -->
+</fw>
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

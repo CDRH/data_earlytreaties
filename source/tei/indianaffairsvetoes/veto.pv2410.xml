@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2410">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2410	S. 973 (Ninety-eighth Congress, First Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2410</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-eighth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2410	S. 973 (Ninety-eighth Congress, First Session &#8212; Reagan)</head>
+
+<p>Technical amendments to the Indian Self-Determination and Education Assistance Act.</p>
+
+<p>Vetoed on June 17, 1983.  The veto message was laid before the Senate and printed as S. Doc. 98-8 (129 <title>Cong. Rec.</title> 16312).</p>
+
+<p>Veto unchallenged.</p>
+
+<p>(Similar legislation enacted in 98 <title>Stat.</title> 118; Public Law 98-250).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 496.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2410.01.pdf">Veto &#8212; S. 973.  Message from the President of the United States returning without my approval S. 973, an act to make technical amendments to the Indian Self-Determination and Education Assistance Act and other acts.</ref>  (1983).  Senate.  98th Congress, 1st session.  Senate   Document No. 98-8 (<title>Serial Set</title> 13499).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+98th Congress, 1st Session	- Senate Document No. 98-8
+VETO-S. 973 MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT MY APPROVAL S. 973, AN ACT TO MAKE TECHNICAL
+AMENDMENTS TO THE INDIAN SELF-DETERMINATION AND
+EDUCATION ASSISTANCE ACT AND OTHER ACTS
+JUNE 18, 1983.-Ordered to be printed
+U.S. GOVERNMENT PRINTING OFFICE 11-011 0	WASHINGTON : 1983
+To the Senate of the United States:
+I am returning, without my approval, S. 973, "an Act to make technical amendments to the Indian Self-Determination and Education Assistance Act and other Acts." I have no objection to these technical amendments.
+However, section 5 of the bill, added by an amendment on the Senate floor, would allow a particular school to transfer to taxable investors tax benefits attributable to a building that it refurbished with Federal funds. Without this legislation, the proposed transaction would result in the school being required to repay the Federal funds used to re-furbish the building.
+Recently there has been a great deal of concern about the sale of tax benefits by tax-exempt entities through leasing transactions. Leasing transactions similar to the one contemplated by this legislation present tremendous potential for abuse and could result in billions of dollars of revenue loss to the Federal Government. The transaction that this legislation would condone would permit a school that has already received tax deductible contributions and Federal grant money to sell certain tax benefits to outside investors. This case is particularly offensive in that the tax benefits being sold are attributable to property that was paid for with Federal grant money. In addition to receiving money for selling tax benefits, the school, as a tax-exempt entity, would be able to invest the proceeds of the sale and receive the income from such investment tax-free.
+The propriety of leasing transactions involving the sale by tax-exempt organizations of tax benefits needs to be scrutinized very care-fully. 'Where the tax benefits being sold are attributable to expenditures of Federal funds, the transaction becomes totally unjustifiable. We cannot condone the sale by a tax-exempt entity of tax benefits produced through the use of Federal funds.
+As I have noted, the Indian-related amendments contained in this bill are not objectionable. Accordingly, I urge the Congress to reenact sections 1-4 of S. 973 without delay.
+RONALD REAGAN. THE WHITE HOUSE, June 17,1983.
+(1)
+S. 973
+Ninety-eighth Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Monday, the third day of January,
+one thousand nine hundred and eighty-three
+an as
+To make technical amendments to the Indian Self-Determination and Education
+Assistance Act and other Acts.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Indian Self-Determination and Education Assistance Act (Public Law 93-638; 88 <title>Stat.</title> 2203) is amended by inserting after section 8 the following new section:
+"Sec. 9. The provisions of this Act shall not be subject to the requirements of the Federal Grant and Cooperative Agreement Act of 1977 (Public Law 95-224; 92 <title>Stat.</title> 3).".
+Sec. 2. The Act of October 15, 1982 (Public Law 97-344; 96 <title>Stat.</title> 1645), relating to certain restricted land in Kansas, is amended by striking out "the southeast quarter northwest quarter" in paragraph (2) and inserting in lieu thereof "the south 20 acres of the east 60 0 acres of the northwest quarter".
+Sec. 3. The first section of Public Law 97-386, relating to the reservation of the Pascua Yaqui Tribe of Arizona, is amended by inserting "located in township 15 south, range 12 east, Gila and Salt River Meridian," after "tracts of lands".
+Sec. 4. (a) Subsections (a) and (b) of section 2415 of title 28, United States Code, are amended by striking out "Indian Claims Act of 1982" each place it appears and inserting in lieu thereof "Indian Claims Limitation Act of 1982".
+(b) The last proviso in the first paragraph under the heading "Administrative Provisions", relating to the Bureau of Indian Affairs, of title I of Public Law 97-394 is amended by striking out "The following" and inserting in lieu thereof "Sections 2 through 6 of this Act".
+Sec. 5. Upon request of the North Carolina School of the Arts, Winston-Salem, North Carolina, the Secretary of Commerce shall authorize such school to lease to any person the Stevens Center for the Performing Arts building, without affecting the Federal assistance provided by a grant under the Public Works and Economic Development Act of 1965, if such transfer documents provide for the operation of such facility as a performing arts center.
+Speaker of the House of Representatives. President of the Senate
+(2)
+I certify that this Act originated in the Senate.
+(Signed) WILLIAM F. HILDENBRAND,
+Secretary. (3)
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2410.02.pdf"><title>Congressional Record</title> 129, 16312</ref> (1983).</bibl>
+<!-- <floatingText>
+<body>
+16312	CONGRESSIONAL RECORD—SENATE	June 20, 1983
+given a certain, let us say, legitimacy, to whatever nit-picking questions have been raised.
+Since our difference of opinion 120 years ago, the States of Virginia and West Virginia have been good neighbors. It is obvious from the comments of our two Governors, Jay Rockefeller and Chuck Robb. Chuck Robb's father was born in the State of West Virginia, in the town of Elkins, where I am a resident.
+These two Governors have no problems. Because West Virginians have given not only Senators by birth but also Governors of Virginia and other officials serving in Virginia but born in West Virginia.
+So there is a joy of friendship and understanding and faith between the peoples of our two States.
+We are quite satisfied, both of us.
+So, legality aside, West Virginians and Virginians will live together, as we have lived most of these 120 years, not only as neighbors but also as goods friends.
+Mr. President, I ask unanimous con-sent to have printed in the RECORD the article by Jack Eisen and my letter to him, dated June 20, 1983.
+There being no objection, the material was ordered to be printed in the RECORD, as follows:
+(From the Washington Post, June 9, 1983]
+SETTING THINGS STRAIGHT
+(By Jack Eisen)
+There is little doubt in my mind that West Virginia was created illegally—or, if one wants to draw a distinction, extralegally - during the Civil War. Whether, as the license tags claim, the state is "almost heaven," West Virginia's split from parental Virginia in 1863 was—as I read history—constitutionality flawed. And, let's admit, I'm philosophically on the Yankee side.
+But West Virginia's sovereign existence has become a habit, not subject to reverse. Or is it?
+Eben Barnette, president of the West Virginia Taxpayers Association, wrote Virginia Gov. Charles S. Robb in March promoting reunification. Not only that, but suggesting Staunton, a charming small Virginia city in the Shenandoah Valley, as the capital of the reunified state. Staunton Mayor Thomas E. Roberts, picking up the cue, wrote Robb and the governor of West Virginia asserting the city's cause.
+The replies:
+From West Virginia Gov. John D. (Jay) Rockefeller IV—West Virginians "would never give up the statehood that they have justifiably earned." (Earned? They stole it!).
+From Virginia Gov. Robb—"You make a very strong case for Staunton and I share your high regard for the 'Queen City of the Shenandoah Valley.' I don't expect the Capitol to be moving, however." (The Capitol sure isn't going to be moved. But the capital, maybe?)
+Robb also wrote to Barnette that reunification "does not appear to me to be a practical possibility." (Not even practicable?)
+JUNE 20, 1983. Mr. JACK EISEN,
+The Washington Post,
+Washington, D. C.
+DEAR JACK: Today, June 20, is West Virginia Day, the 120th anniversary of state-hood. I thought it appropriate to comment on your column of June 9 and the question of the legality of the process by which we became a state.
+I do not concede that West Virginia's separation from Virginia was "constitutionally flawed". That ill conceived logic has been suggested over the years but has never been tested in courts. The question of legality is moot after all these years.
+Since our difference of opinion 120 years ago, the States of Virginia and West Virginia have been good neighbors. It is obvious from their comments that our two governors. Rockefeller and Robb, are quite satisfied with the present arrangement and feel no need to remerge into one state.
+I can understand why Virginia might want us back. The people of our mountains have made many contributions to the welfare of the Old Dominion in the past century or so. The legendary Senator Harry F. Byrd, Sr. was born in West Virginia as was Governor Robb's father. Their West Virginia roots have served them well as leaders of Virginia. So, the status quo seems to be quite satisfactory to both states. Legality aside we will continue to live together as friends and neighbors.
+I enjoy your writing on all subjects.
+Truly,
+JENNINGS RANDOLPH,
+Ranking Minority Member.
+COMMUNICATION TO THE SENATE—VETO MESSAGE ON S. 973
+The PRESIDING OFFICER. The clerk will read a communication to the Senate.
+The assistant legislative clerk read as follows:
+JUNE 20, 1983 Hon. GEORGE H. W. BUSH,
+President of the Senate,
+Washington, D.C.
+MY DEAR MR. PRESIDENT: On Saturday. June 18, 1983, the President of the United States sent by messenger a message ad-dressed to the Senate, dated June 18, 1983, giving his reasons for not approving S. 973. an Act to make technical amendments to the Indian Self-Determination and Education Assistance Act and other Acts. The Senate not being in session on the last day which the President had for the return of this bill under the provisions of the Constitution of the United States. in order to protect the interests of the Senate so that it might have the opportunity to reconsider the bill, I accepted the message, and I now present to you the-President's veto message. with the accompanying papers, for disposition by the Senate.
+Respectfully,
+WILLIAM F. HILDENBRAND, Secretary of the Senate.
+ORDER FOR VETO MESSAGE ON S. 973 TO BE HELD
+AT THE DESK
+Mr. TOWER. Mr. President, I ask unanimous consent that the veto message on S. 973, together with the accompanying bill, be held at the desk and be called up by the majorityleader after consultation with the minority leader.
+Mr. BYRD. Mr. President, there is no objection on this side. If there were an objection, it would cause the message to be immediately put before the Senate and a vote to be taken.
+It should be the majority leader's decision as to when to bring it up. The order is for his doing so after consultation with the minority leader, and there is no objection.
+The PRESIDING OFFICER. With-out objection, it is so ordered.
+The veto message is as follows:
+To the Senate of the United States:
+I am returning, without my approval, S. 973, "an Act to make technical amendments to the Indian Self-Determination and Education Assistance Act and other Acts." I have no objection to these technical amendments.
+However, section 5 of the bill, added by an amendment on the Senate floor, would allow a particular school to transfer to taxable investors tax benefits attributable to a building that it refurbished with Federal funds. With-out this legislation, the proposed transaction would result in the school being required to repay the Federal funds used to refurbish the building.
+Recently there has been a great deal of concern about the sale of tax benefits by tax-exempt entities through leasing transactions. Leasing transactions similar to the one contemplated by this legislation present tremendous potential for abuse and could result in billions of dollars of revenue loss to the Federal Government. The transaction that this legislation would con-done would permit a school that has already received tax deductible contributions and Federal grant money to sell certain tax benefits to outside investors. This case is particularly offensive in that the tax benefits being sold are attributable to property that was paid for with Federal grant money. In addition to receiving money for selling tax benefits, the school, as a tax-exempt entity, would be able to invest the proceeds of the sale and receive the income from such investment tax-free.
+The propriety of leasing transactions involving the sale by tax-exempt organizations of tax benefits needs to be scrutinized very carefully. Where the tax benefits being sold are attributable to expenditures of Federal funds, the transaction becomes totally unjustifiable. We cannot condone the sale by a tax-exempt entity of tax benefits produced through the use of Federal funds.
+As I have noted, the Indian-related amendments contained in this bill are not objectionable. Accordingly, I urge the Congress to reenact sections 1-4 of S. 973 without delay.
+RONALD REAGAN. THE WHITE HOUSE, June 17, 1983.
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV2410.03.pdf">An act to make technical amendments to the Indian Self-Determination and Education Assistance Act and other Acts,</ref> 98 <title>Stat.</title> 118 (1984).</bibl>
+<!-- <floatingText>
+<body>
+
+98 <title>Stat.</title> 118	PUBLIC LAW 98-250-APR. 3, 1984
+Public Law 98-250 98th Congress
+An Act
+Apr. 3, 1984	To make technical amendments to the Indian Self-Determination and Education
+[S. 1530]	Assistance Act and other Acts.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Indian Self Determination and Education Assistance Act (Public Law 93-638; 88 <title>Stat.</title> 2203) is amended by inserting after section 8 the following new section:
+"SEc. 9. The provisions of this Act shall not be subject to the requirements of the Federal Grant and Cooperative Agreement Act of 1977 (Public Law 95-224; 92 <title>Stat.</title> 3): Provided, That a grant agreement or a cooperative agreement may be utilized in lieu of a contract under sections 102 and 103 of this Act when mutually agreed to by the appropriate Secretary and the tribal organization involved.".
+SEC. 2. The Act of October 15, 1982 (Public Law 97-344; 96 <title>Stat.</title> 1645), relating to certain restricted land in Kansas, is amended by striking out "the southeast quarter northwest quarter" in paragraph (2) and inserting in lieu thereof "the south 20 acres of the east 60 acres of the northwest quarter".
+SEc. 3. The first section of Public Law 97-386, relating to the reservation of the Pascua Yaqui Tribe of Arizona, is amended by inserting "located in township 15 south, range 12 east, Gila and Salt River Meridian," after "tracts of lands".
+SEC. 4. (a) Subsections (a) and (b) of section 2415 of title 28, United States Code, is amended by striking out "Indian Claims Act of 1982" each place it appears and inserting in lieu thereof "Indian Claims Limitation Act of 1982".
+25 USC 450 note. 25 USC 450e-1. 31 USC 3601 note.
+25 USC 450f, 450g.
+96 <title>Stat.</title> 1946.
+HeinOnline- 98 <title>Stat.</title> 118 1984
+PUBLIC LAW 98-250-APR. 3, 1984	98 <title>Stat.</title> 119
+(b) The last proviso in the first paragraph under the heading "Administrative Provisions", relating to the Bureau of Indian Affairs, of title I of Public Law 97-394 is amended by striking out "The following" and inserting in lieu thereof "Sections 2 through 6 of this Act".
+Approved April 3, 1984.
+28 USC 2415 note.
+96 <title>Stat.</title> 1976.
+LEGISLATIVE HISTORY—S. 1530 (S. 973):
+HOUSE REPORT No. 98-611 (Comm. on Interior and Insular Affairs). CONGRESSIONAL RECORD:
+Vol. 129 (1983): Sept. 30, considered and passed Senate. Vol. 130 (1984): Mar. 20, considered and passed House.
+HeinOnline- 98 <title>Stat.</title> 119 1984
+98 <title>Stat.</title> 120	PUBLIC LAW 98-251-APR. 6, 1984
+Apr. 6, 1984 [H.J. Res. 271]
+Public Law 98-251 98th Congress
+Joint Resolution
+Designating February 11, 1984, "National Inventors' Day".
+Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That, in honor of the important role played by inventors in promoting progress in the useful arts and in recognition of the invaluable contribution of inventors to the welfare of our people, February 11, 1984, is hereby designated "National Inventors' Day". The President is authorized and requested to issue a proclamation calling upon the people of the United States to celebrate such day with appropriate ceremonies and activities.
+Approved April 6, 1984.
+LEGISLATIVE HISTORY—H.J. Res. 271:
+CONGRESSIONAL RECORD, Vol. 130 (1984): Feb. 8, considered and passed House. Mar. 26, considered and passed Senate.
+
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1106">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1106	S. 3165 (Seventy-first Congress, Third Session &#8212; Hoover)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1106</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Hoover</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-first Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1106	S. 3165 (Seventy-first Congress, Third Session &#8212; Hoover)</head>
+
+<p>Conferring jurisdiction upon the Court of Claims to hear, consider, and report upon a claim of the Choctaw and Chickasaw Indian Nations or Tribes for fair and just compensation for the remainder of the leased district lands.</p>
+
+<p>Vetoed February 18, 1931.  The veto message was laid before the Senate on February 20, 1931, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 280 (74 <title>Cong. Rec.</title> 5467).</p>
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 240.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1106.01.pdf">Veto message relating to claims of Choctaw and Chickasaw Indians.  Message from the President of the United States, returning without approval the Bill (S. 3165) entitled “An Act Conferring Jurisdiction upon the Court of Claims to Hear, Consider, and Report upon a Claim of the Choctaw and Chickasaw Indian Nations or Tribes for Fair and Just Compensation for the Remainder of the Leased District Lands.”</ref>  (1931).  Senate.  71st Congress, 3rd session.  Senate Document No. 280 (<title>Serial Set</title> 9347).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>71ST CONGRESS	SENATE 3d Session
+DOCUMENT No. 280</head>
+<head>VETO MESSAGE RELATING TO CLAIMS OF CHOCTAW AND CHICKASAW INDIANS</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT APPROVAL THE BILL (S. 3165) ENTITLED "AN ACT CONFERRING JURISDICTION UPON THE COURT OF CLAIMS TO HEAR, CONSIDER, AND REPORT UPON A CLAIM OF THE CHOCTAW AND CHICKASAW INDIAN NATIONS OR TRIBES FOR FAIR AND JUST COMPENSATION FOR THE REMAINDER OF THE LEASED DISTRICT LANDS</head>
+<milestone unit="rule" />
+<p>FEBRUARY 17 (calendar day, FEBRUARY 20), 1931.&#8212;Read, referred to the Committee on Indian Affairs, and ordered to be printed</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith without my approval the bill S. 3165, entitled "An act conferring jurisdiction upon the Court of Claims to hear, consider, and report upon a claim of the Choctaw and Chickasaw Indian Nations or Tribes for fair and just compensation for the remainder of the Leased District lands."</p>
+<p>This act undertakes, by indirection, to revive the claims of the Choctaw and Chickasaw Nations for compensation for parts of the so-called "Leased District."</p>
+<p>The "Leased Districts" lands of these Indians comprised approximately 7,000,000 acres, lying between the ninety-eighth and one-hundredth degrees of west longitude in the State of Oklahoma. By treaty of June 22, 1855, the United States paid the Choctaws $600,000 and the Chickasaws $200,000 for the lease of this land to the United States in perpetuity, as well as for the cession to the United States of their land west of the one-hundredth degree of west longitude. By treaty of April 28, 1866, involving an additional payment of $300,000 the Choctaws and Chickasaws ceded the Leased District land to the United States, thereby parting with all rights of any kind in that land.</p><pb n="2" />
+<fw>2	CLAIMS OP CHOCTAW AND CHICKASAW INDIANS </fw>
+<p>In 1891 Congress appropriated $2,991,450 to pay the Choctaws and Chickasaws for approximately 2,293,000 acres of the Leased District land granted by Congress to the Cheyennes and the Arapahoes. In signing the general appropriation bill containing this item President Harrison protested at paying for land that already belonged to the Federal Government, saying in a message to Congress that he would have disapproved the bill because of this item were it not for the disastrous consequences that would result from the defeat of the entire appropriation bill. In December, 1892, Congress passed a resolution containing the following provisions:</p>
+<p><hi rend="italic">Provided, however,</hi> That neither the passage of the original act of appropriation to pay the Choctaw tribes of Indians for their interest in the lands of the Cheyenne and Arapahoe Reservation, dated March 3, 1891, nor of this resolution shall be held in any way to commit the Government to the payment of any further sum to the Choctaw and Chickasaw Indians for any alleged interest in the remainder of the lands situated in what is commonly known and called the "Leased District."</p>
+<p>In 1899 the Court of Claims decided that the title to the remaining acreage of Leased District land was in the United States in trust for the Choctaw and Chickasaw Indians. However, the United States Supreme Court, in its decision of December 10, 1890, reversed the Court of Claims, and held that the treaty of 1866 vested in the United States complete title to the Leased District land.</p>
+<p>The present claim of the Choctaw and Chickasaw Indians is for 5,224,346 acres at $1.25 per acre.</p>
+<p>The bill does not send this claim to the Court of Claims for adjudication and settlement, as is normally the case with respect to Indian claims. That would, indeed, be futile, since the Supreme Court has ruled that neither it nor the Court of Claims has jurisdiction to decide that the United States shall pay for lands that it already owns. The result of the bill would seem to be, through a report to Congress from the Court of Claims, to create a lawful aspect to a claim which has no present legal standing.</p>
+<p>This case raises a very wide issue of whether we are to undertake revision of treaties entered into in the acquiring of Indian lands during the past 150 years. The values of such lands have obviously increased, and the undertakings entered into at the time the agreements were made may naturally look small in after years. But the increased values have been the result of the efforts of our citizens in building this Nation.</p>
+<p>This case would I feel, create a dangerous precedent which could conceivably involve the Government in very large liabilities.</p>
+<p>If it is the thought of Congress that justice requires the revision of Indian treaties in the light of subsequent events, then the whole of these treaties should be considered together not by incidental creation of precedents</p>.
+<p>It is the purpose of the United States Government to do justice by the Indians and assist them to citizenship and participation in the benefits of our civilization. And in the case of these tribes the Government has during the past 18 years expended a total of approximately $3,500,000 out of the taxpayers' money and they will in a few years exceed the totals of these claims.</p>
+<closer><signed>HERBERT HOOVER. </signed>
+<dateline>THE WHITE HOUSE, February 18, 1931.</dateline></closer><pb n="3" />
+<fw> CLAIMS OF CHOCTAW AND CHICKASAW INDIANS	3 </fw>
+<p>[S. 3185. Seventy-first Congress of the United States of America; at the third session, begun and held at the city of Washington on Monday, the first day of December, one thousand nine hundred and thirty]</p>
+<hi rend="italic"><p>An act conferring jurisdiction upon the Court of Claims to hear, consider, and report upon a claim of the Choctaw and Chickersaw Indian Nations or Tribes for fair and just compensation for the remainder of the Leased District lands</p></hi>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Court of Claims is hereby authorized and directed to hear and inquire into the claims of the Choctaw and Chickasaw Indian Nations for compensation for the remainder of their "Leased District" land acquired by the United States under article 3 of the treaty of 1866 (14 <title>Stat.</title> L. 769) not including the Cheyenne and Arapahoe lands for which compensation was made to the Choctaw and Chickasaw Nations by the Act of Congress approved March 3, 1891 (26 <title>Stat.</title> L. 989), and to report its findings to Congress notwithstanding the lapse of time or the statute of limitations and irrespective of any former adjudication upon title and ownership, as to whether the consideration paid or agreed to he paid for said remainder of said lands was fair and just, and if not, whether the United States should pay to the Choctaw and Chickasaw Nations additional compensation therefor, and if so, what amount should be so paid. The court shall also hear, examine, and report upon any claims which the United States may have as an offset against said Indian nations but any payment which may have been made by the United States upon such claims against the United States shall not operate as an estoppel but may be pleaded as an offset.</p>
+<p>SEC. 2. The claim of the Choctaw and Chickasaw Indian Nations or Tribes shall be forever barred unless presented, as herein provided, within one year after the passage and approval of this act. Said tribes shall be the claimants and the United States shall be the defendant; and said claim shall be verified and filed by the attorneys employed to prosecute the same, under contracts to be approved by the Commissioner of Indian Affairs and the Secretary of the Interior, and said contracts with such Indian tribes shall be executed by the principal chief of the Choctaw Nation and the governor of the Chickasaw Nation, respectively; and the attorneys employed, as herein provided, may be assisted by the regular tribal attorneys employed under existing law, under the direction of the Secretary of the Interior. The Court of Claims shall include in its report to Congress a finding as to what compensation should be paid the attorneys employed as herein provided, other than the regular tribal attorneys employed under existing law, and such compensation shall not exceed 5 per centum of any amount which may be received by the said Choctaw and Chickasaw Indian Nations or Tribes in payment of such claim.</p>
+<p>SEC. 3. There is hereby authorized to be expended, out of any money or moneys now standing to the credit of the Choctaw and Chickasaw Indian Nations or Tribes, in the Treasury of the United States, such sums as may be necessary, not exceeding in the aggregate $5,000, to be paid, in the discretion of the Secretary of the Interior, for the reimbursement of said attorneys for all proper and necessary expenses incurred by them in the investigation of records and in the preparation, institution, and prosecution of said claim: Provided, That the accounts of such attorneys for such expenses shall be submitted to, and approved by, the Secretary of the Interior, and paid under rules and regulations to be prescribed by him: And provided further, That any sum so allowed and paid such special attorneys for expenses under this act shall be reimbursable to the credit of the Choctaw and Chickasaw Indian Nations or Tribes, out of any sum of money that may hereafter be paid to such attorneys for legal services rendered in connection with said claim.</p>
+<p>SEC. 4. Official letters, papers, documents, and records, or certified copies thereof, may be used in evidence; and the departments of the Government shall give access to the attorneys of said Indian nations or tribes to such treaties, papers, correspondence, or records, as may be needed in the preparation, presentation, and conduct of such claim.</p>
+<p>SEC. 5. A copy of the petition shall be served upon the Attorney General of the United States and he, or some attorney from the Department of Justice to be designated by him, is hereby directed to appear and defend the interests of the United States.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1106.02.pdf"><title>Congressional Record</title> 74, 5467-5468</ref> (1931).</bibl>
+<!-- <floatingText>
+<body>
+
+<fw> 1931	CONGRESSIONAL RECORD SENATE	5467 </fw>
+<p>concerning property upon which the Government of the United States has or claims to have a lien. The Judiciary Committee, after quite full debate and discussion on the question, were unanimous, as I remember, in support of the amended bill as they reported it.</p>
+<p>I met with the House conferees on a similar bill in a prior Congress, and I am not sure but I was one of the conferees at that time ; but we were unable to secure any kind of an agreement on the proposition we advocated. Finally it was agreed that the Attorney General should draw a substitute ; he drew it, and that constitutes the report now before the Senate.</p>
+<p>I think it is an improvement over existing law, perhaps, but it still provides a cumbersome method. It means drawn-out litigation and considerable expense to litigants. Cases may be referred back and forth between State to Federal courts, incurring a great deal of delay. While, in my judgment, it is the best we are able to get under the circumstances, it does not accomplish such a simplification of methods of judicial procedure as we might have a right to demand or expect. I merely wanted to say this much be-cause I feel that we are not getting what we ought to have in this legislation, although we are probably getting a slight improvement over the existing law.</p>
+<p>The VICE PRESIDENT. The question is on agreeing to the conference report.</p>
+<p>The report was agreed to.</p>
+
+<head>CLAIM OF THE CHOCTAW AND CHICKASAW INDIAN NATIONS&#8212;VETO
+MESSAGE (S. DOC. NO. 280)</head>
+<p>The VICE PRESIDENT. The Chair lays before the Senate a veto message from the President of the United States on a bill in which the Senator from Oklahoma [Mr. THOMAS] is interested.</p>
+<p>Mr. THOMAS of Oklahoma. Mr. President, I ask unanimous consent that the veto message, with the accompanying enrolled bill, may be printed as a document and printed in the RECORD without being read and that it may be referred to the Committee on Indian Affairs:</p>
+<p>There being no objection, the veto message, with the accompanying enrolled bill, was referred to the Committee on Indian Affairs and ordered to be printed, and printed in the RECORD, as follows:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith without my approval the bill S. 3165, entitled "An act conferring jurisdiction upon the Court of Claims to hear, consider, and report upon a claim of the Choctaw and Chickasaw Indian Nations or Tribes for fair and just compensation for the remainder of the Leased District lands."</p>
+<p>This act undertakes, by indirection, to revive the claims of the Choctaw and Chickasaw Nations for compensation for parts of the so-called "Leased District."</p>
+<p>The "Leased Districts" lands of these Indians comprised approximately 7,000,000 acres, lying between the ninety-eighth and one-hundredth degrees of west longitude in the State of Oklahoma. By treaty of June 22, 1855, the United States paid the Choctaws $600,000 and the Chickasaws $200,000 for the lease of this land to the United States in perpetuity, as well as for the cession to the United States of their land west of the one-hundredth degree of west longitude. By treaty of April 28, 1866, involving an additional payment of $300,000 the Choctaws and Chickasaws ceded the Leased District land to the United States, thereby parting with all rights of any kind in that land.</p><pb n="2" />
+<fw>2	CLAIMS OP CHOCTAW AND CHICKASAW INDIANS </fw>
+<p>In 1891 Congress appropriated $2,991,450 to pay the Choctaws and Chickasaws for approximately 2,293,000 acres of the Leased District land granted by Congress to the Cheyennes and the Arapahoes. In signing the general appropriation bill containing this item President Harrison protested at paying for land that already belonged to the Federal Government, saying in a message to Congress that he would have disapproved the bill because of this item were it not for the disastrous consequences that would result from the defeat of the entire appropriation bill. In December, 1892, Congress passed a resolution containing the following provisions:</p>
+<p><hi rend="italic">Provided, however,</hi> That neither the passage of the original act of appropriation to pay the Choctaw tribes of Indians for their interest in the lands of the Cheyenne and Arapahoe Reservation, dated March 3, 1891, nor of this resolution shall be held in any way to commit the Government to the payment of any further sum to the Choctaw and Chickasaw Indians for any alleged interest in the remainder of the lands situated in what is commonly known and called the "Leased District."</p>
+<p>In 1899 the Court of Claims decided that the title to the remaining acreage of Leased District land was in the United States in trust for the Choctaw and Chickasaw Indians. However, the United States Supreme Court, in its decision of December 10, 1890, reversed the Court of Claims, and held that the treaty of 1866 vested in the United States complete title to the Leased District land.</p>
+<p>The present claim of the Choctaw and Chickasaw Indians is for 5,224,346 acres at $1.25 per acre.</p>
+<p>The bill does not send this claim to the Court of Claims for adjudication and settlement, as is normally the case with respect to Indian claims. That would, indeed, be futile, since the Supreme Court has ruled that neither it nor the Court of Claims has jurisdiction to decide that the United States shall pay for lands that it already owns. The result of the bill would seem to be, through a report to Congress from the Court of Claims, to create a lawful aspect to a claim which has no present legal standing.</p>
+<p>This case raises a very wide issue of whether we are to undertake revision of treaties entered into in the acquiring of Indian lands during the past 150 years. The values of such lands have obviously increased, and the undertakings entered into at the time the agreements were made may naturally look small in after years. But the increased values have been the result of the efforts of our citizens in building this Nation.</p>
+<p>This case would I feel, create a dangerous precedent which could conceivably involve the Government in very large liabilities.</p>
+<p>If it is the thought of Congress that justice requires the revision of Indian treaties in the light of subsequent events, then the whole of these treaties should be considered together not by incidental creation of precedents</p>.
+<p>It is the purpose of the United States Government to do justice by the Indians and assist them to citizenship and participation in the benefits of our civilization. And in the case of these tribes the Government has during the past 18 years expended a total of approximately $3,500,000 out of the taxpayers' money and they will in a few years exceed the totals of these claims.</p>
+<closer><signed>HERBERT HOOVER. </signed>
+<dateline>THE WHITE HOUSE, February 18, 1931.</dateline></closer>
+
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Court of Claims is hereby authorized and directed to hear and inquire into the claims of the Choctaw and Chickasaw Indian Nations for compensation for the remainder of their "Leased District" land acquired by the United States under article 3 of the treaty of 1866 (14 <title>Stat.</title> L. 769) not including the Cheyenne and Arapahoe lands for which compensation was made to the Choctaw and Chickasaw Nations by the Act of Congress approved March 3, 1891 (26 <title>Stat.</title> L. 989), and to report its findings to Congress notwithstanding the lapse of time or the statute of limitations and irrespective of any former adjudication upon title and ownership, as to whether the consideration paid or agreed to he paid for said remainder of said lands was fair and just, and if not, whether the United States should pay to the Choctaw and Chickasaw Nations additional compensation therefor, and if so, what amount should be so paid. The court shall also hear, examine, and report upon any claims which the United States may have as an offset against said Indian nations but any payment which may have been made by the United States upon such claims against the United States shall not operate as an estoppel but may be pleaded as an offset.</p>
+<p>SEC. 2. The claim of the Choctaw and Chickasaw Indian Nations or Tribes shall be forever barred unless presented, as herein provided, within one year after the passage and approval of this act. Said tribes shall be the claimants and the United States shall be the defendant; and said claim shall be verified and filed by the attorneys employed to prosecute the same, under contracts to be approved by the Commissioner of Indian Affairs and the Secretary of the Interior, and said contracts with such Indian tribes shall be executed by the principal chief of the Choctaw Nation and the governor of the Chickasaw Nation, respectively; and the attorneys employed, as herein provided, may be assisted by the regular tribal attorneys employed under existing law, under the direction of the Secretary of the Interior. The Court of Claims shall include in its report to Congress a finding as to what compensation should be paid the attorneys employed as herein provided, other than the regular tribal attorneys employed under existing law, and such compensation shall not exceed 5 per centum of any amount which may be received by the said Choctaw and Chickasaw Indian Nations or Tribes in payment of such claim.</p>
+<p>SEC. 3. There is hereby authorized to be expended, out of any money or moneys now standing to the credit of the Choctaw and Chickasaw Indian Nations or Tribes, in the Treasury of the United States, such sums as may be necessary, not exceeding in the aggregate $5,000, to be paid, in the discretion of the Secretary of the Interior, for the reimbursement of said attorneys for all proper and necessary expenses incurred by them in the investigation of records and in the preparation, institution, and prosecution of said claim: Provided, That the accounts of such attorneys for such expenses shall be submitted to, and approved by, the Secretary of the Interior, and paid under rules and regulations to be prescribed by him: And provided further, That any sum so allowed and paid such special attorneys for expenses under this act shall be reimbursable to the credit of the Choctaw and Chickasaw Indian Nations or Tribes, out of any sum of money that may hereafter be paid to such attorneys for legal services rendered in connection with said claim.</p>
+<p>SEC. 4. Official letters, papers, documents, and records, or certified copies thereof, may be used in evidence; and the departments of the Government shall give access to the attorneys of said Indian nations or tribes to such treaties, papers, correspondence, or records, as may be needed in the preparation, presentation, and conduct of such claim.</p>
+<p>SEC. 5. A copy of the petition shall be served upon the Attorney General of the United States and he, or some attorney from the Department of Justice to be designated by him, is hereby directed to appear and defend the interests of the United States.</p>
+
+<head>UNFINISHED BUSINESS OF CONGRESS</head>
+<p>Mr. BORAH. Mr. President, I ask unanimous consent to have printed in the RECORD an article published in the New Republic of February 18, 1931, entitled " Unfinished Business."</p>
+<p>There being no objection, the article was ordered to be printed in the RECORD, as follows:</p>
+<note>[From the New Republic, February 18, 1931]</note>
+<head>UNFINISHED BUSINESS</head>
+<p>Now that a compromise has been reached on drought relief and another is in sight on the cashing of bonus certificates, administration and other conservative forces are beginning to heave sighs of relief because the chances of an extra session of Congress look slimmer. All that remains for Congress to do, it is argued, is to provide in some way the minimum of funds necessary to carry on the Government until next December and then disperse. Why is it assumed that the country wants nothing from its legislative body except inaction? Are national affairs in such perfect order that we should seek as little change as possible for another year?</p>
+<p>There has been a vigorous propaganda to the effect that the prime necessity of the moment is to leave business alone, so that it will revive. Anything Congress is likely to do, it is argued, will disturb business, or at least arouse the fears of business men, and this may postpone revival. " This is not the time " to consider new measures, investigations, advances, or changes in policy. In so far as Congress plays a part in Government, a moratorium on Government is demanded. Every question of policy is, for the time being, to be left to the limited powers and vision of the White House.</p>
+<p>Just what are the things which Congress might do if an extra session of that body, as it was constituted by the election of last November, were to come into session on March I? How would these things disturb business and postpone revival? The most prominent pieces of unfinished business now on the calendar are easily identified. There is the proposal to appropriate a greatly enlarged sum for public works and thus to enable the Federal Government to help the relief of unemployment and the revival of business to a degree somewhere commensurate with the need. This measure is supported by a large group of the Nation's most prominent and scholarly economists. There is Senator WAGNER'S program to begin the establishment of a permanent system of dealing with unemployment. Only two of his measures&#8212;and the most elementary&#8212;have been adopted, those calling for better statistical information and advance planning of public works. There remain a nationally coordinated system of employment exchanges and Federal encouragement for State unemployment insurance. This program also has the almost unanimous support of the experts. Senator NORRIS'S plan for public operation of Muscle Shoals, repeatedly adopted by the Senate, languishes because the House will not agree&#8212;the principal obstacles being raised by a lame-duck member of the House committee, defeated in the last elections because of his friendship to the power interests&#8212;Mr. REECE, of Tennessee. Senator NORRIS'S constitutional amendment to avoid the absurdity of such lame-duck activities, long approved by all intelligent commentators, is suspended in the House. The Senate Judiciary Committee's bill to remove the abuse of antilabor injunctions, supported by the weight of expert authority in this field awaits action. The Interstate Commerce
+Commission has asked for power to deal with railroad holding companies and to pursue a more intelligent policy of valuation and rate regulation, which would be made possible by repeal of the recapture clause. The proposal for Federal regulation of the interstate activities of the electric utilities is under consideration. And the investigation of banking policy and its effect on speculation, now under way, might lead to action.</p>
+<p>There is not the slightest excuse for delay in any of these matters. Those projects which have not already had the benefit of long consideration are supported by the best nonpolitical authority in the Nation. They are not half-baked nostrums proceeding from temporary excitement or from demagogic desire to play politics and win votes. Not one should injure any legitimate business. Some, indeed, are not only urgent but have been far too long delayed. If they are not passed during a depression they are not likely ever to be passed. These are the measures for temporary and permanent relief of unemployment. There is barely a trace of reality in the plea that for Congress to act during the next 10 months would tend to delay revival of business.</p>
+<p>The only reality there is in this plea is created by the very propaganda against an extra session. Business men have been told so emphatically and so frequently that prosperity and congressional activity are mutually incompatible that they have come to believe it, and this belief itself may undermine any confidence they might otherwise feel, if the Capitol at Washington remains busy. And why have they been told this? A combination of two types of influence has been brought to bear for this purpose.</p>
+<p>One consists of predatory, profiteering, and reactionary private interests which are opposed to specific pieces of legislation now under consideration. The power companies are afraid of public operation of Muscle Shoals because they think it may succeed and reveal how much they are overcharging the public. The anti-union employers want to block the injunction bill, labor ex-changes, and unemployment insurance. The railroad holding companies want complete freedom for financial and trading profits. The big taxpayers want to avoid increased expenditures for public works. These interests have done their best to scare the public by pretending that their interests are identical with the public interest. They think that if action can only be postponed long enough, revival may come and the public will be less ready to support progressive measures. Or some new obstacle may be devised.</p>
+<p>The other influence is self-seeking politics. The administration, dominated by Mr. Hoover's desire for renomination and reelection, wants on the one hand to avoid offending the powerful interests mentioned above by sanctioning anything they dislike, and on the other hand to avoid issues which a fight with Congress on these measures would sharpen, and which would make the President still more unpopular with large groups of voters. Wheel-horse politicians and newspapers find it natural to support him and the interests which his position protects. This fear on the administration's side finds its counterpart in a fear among conservative Democrats. They also do not want to offend private interests which are capable of financing campaigns and influencing opinion. And they are afraid that, if they did insist on an extra session and support progressive measures, business might not revive and they would be the scapegoats. They want to enhance their chances of winning the next election by avoiding any responsibility for what happens in the meantime. They want to win, not on their merits, but by the default of their opponents.</p>
+<p>Fear is the dominant motive of the bipartisan coalition which is stifling action in a national emergency, which is preventing the American Nation from taking even the most elementary measures to make its business order behave in a barely endurable way. The President, the great Republican and Democratic newspapers, and the sinister forces behind them, are really "trading in human misery." They are telling the country that it can not have relief from depression unless reaction is allowed to have its way. But those among them who are capable of disinterested thought should reflect on the long-time risks they are taking. How long can our civilization continue to creak along with a governmental machine which is so nearly prevented from functioning?</p>
+<head>
+NOMINATIONS OF ASSOCIATE JUSTICES OF PHILIPPINE SUPREME
+COURT
+</head>
+<p>Mr. BINGHAM. Mr. President, yesterday the President sent to the Senate the nominations of six associate justices of the Supreme Court of the Philippine Islands. The message came at the end of the afternoon.  In accordance with conferences which I had had with the Senator from Nebraska, the chairman of the Judiciary Committee, I had
+previously asked the clerk at the desk to refer the nominations to the Committee on Territories and Insular Affairs</p>.
+<p>On previous occasions when nominations of associate justices of the Supreme Court of the Philippine Islands have come to the Senate there has been about an equal division of the precedents, sometimes the nominations having been referred to the Judiciary Committee and sometimes the Committee on Territories and Insular Affairs. Since these justices are not paid out of Federal funds and are not Federal judges,
+and it is a matter which concerns not the Department of Justice but the War Department and the Philippine government, I had thought that that was the proper course to</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2409">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2409	S. 366 (Ninety-eighth Congress, First Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2409</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-eighth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2409	S. 366 (Ninety-eighth Congress, First Session &#8212; Reagan)</head>
+
+<p>Mashantucket Pequot Indian Claims Settlement Act.</p>
+
+<p>Vetoed on April 5, 1983.  The veto message was laid before the Senate and printed as S. Doc. 98-4 (129 <title>Cong. Rec.</title> 7586).</p>
+
+<p>Veto unchallenged</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 495-496.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2409.01.pdf">Veto &#8212; S. 366.  Message from the President of the United States returning without my approval S. 366, a bill to settle claims of the Mashantucket Band of the Western Pequot Indian Tribe to approximately 800 acres of land in the town of Ledyard, Conn.</ref>  (1983).   Senate.  98th Congress, 1st session.  Senate   Document No. 98-4 (<title>Serial Set</title> 13497).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+98th Congress, 1st Session	- Senate Document No. 98-4
+VETO-S. 366 MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT MY APPROVAL S. 366, A BILL TO SETTLE CLAIMS
+OF THE MASHANTUCKET BAND OF THE WESTERN PEQUOT
+INDIAN TRIBE TO APPROXIMATELY 800 ACRES OF LAND IN
+THE TOWN OF LEDYARD, CONN.
+APRIL 5, 1983.-Ordered to be printed
+D.S. GOVERNMENT PRINTING OFFICE 11-011 0	WASHINGTON: 1983
+52-002 0-84-1 (Pt. 1) BLR
+To the Senate:
+I am returning, without my approval, S. 366, the "Mashantucket Pequot Indian Claims Settlement Act."
+This bill would settle claims of the Mashantucket Band of the West-ern Pequot Indian Tribe to approximately 800 acres of land in the town of Ledyard, Connecticut. In settling the claims, the legislation would generally : (1) extinguish any aboriginal title and any tribal claims for damages or possession of the land and natural resources;
+g) establish a $900,000 Federal claims settlement fund to compensate the Indians for extinguishment of the claims; and (3) extend Federal recognition, with all attendant benefits and services, to the Western Pequot Indian Tribe.
+The claim that would be settled by this bill is not against the Federal Government, but against the State of Connecticut, which sold the Indian land, and against the present owners of the lands concerned. However, the costs of the settlement provided in this bill would be borne almost entirely by the Federal Government.
+Given the concerted effort that has already been made to develop a mutually satisfactory settlement for the Western Pequot's land claims, I agree that the most desirable approach to resolution and extinguishment of these claims is through agreements negotiated among the par-ties concerned and ultimately ratified by the Federal Government. However, this process must recognize certain principles if equity and fairness to all parties are to be achieved. Unfortunately, I find S. 366 violates several of these principles.
+First, even if Federal participation in this settlement is warranted, sufficient information does not exist to determine the validity of the claim or the appropriateness of the proposed $900,000 settlement. This settlement is not based on the formula for Eastern Indian land claims settlements supported by my Administration. The Administration formula is based on the difference between land value and compensation received at the time of the land transfer (in this case 1855), plus interest. If the type of valuation for land claims settlements contemplated by this bill were applied across the board to all potential claims of this nature, it could require payment by the tax-payers of billions of dollars.
+Second, S. 366 provides for an unacceptably low level of State contribution to the settlement-only 20 acres of State land with an estimated value of about $50,000. The Administration has urged that an affected State should pay for at least one-half of settlement costs in claims such as this, which are not against the Federal Government but against the State and private parties who would be the primary beneficiaries of any settlement.
+Finally, the Tribe may not meet the standard requirements for Federal recognition or services that are required of other tribes. The Federal Government has never entered into treaties with this Tribe, and the Bureau of Indian Affairs has never provided services to them
+(1)
+2
+or exercised jurisdiction over any Indian lands in Connecticut. The government-to-government relationship between the Western Pequot Tribe and the Federal Government that would be established by this bill is not warranted at this time, pending further study by Interior. Extending Federal recognition to the Tribe would bypass the Department of the Interior's administrative procedures that apply a consistent set of eligibility standards in determining whether or not Federal recognition should be extended to Indian groups.
+I am convinced that a satisfactory resolution of the Western Pequot's land claims can be achieved. However, this will require (1) verification of the claim, including the amount of any monetary settlement based on the formula I have outlined above, (2) completion by Interior of its administrative procedure for determining whether or not Federal recognition of the Tribe is appropriate, and (3) payment by the State of Connecticut of at least one-half of any settlement costs.
+I am directing the Secretary of the Interior to enter negotiations with the parties at interest in this case to determine an acceptable settlement, consistent with the Administration's principles, and report his recommendations to me and to the Congress.
+RONALD REAGAN. THE WHITE HOUSE, April 5,1983.
+S.366
+Ninety-eighth Congress of the United States of America
+AT THE FIRST SESSION
+Begun and held at the City of Washington on Monday, the third day of January,
+one thousand nine hundred and eighty-three
+To settle certain claims of the Mashantucket Pequot Indians.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That this Act may be cited as the "Mashantucket Pequot Indian Claims Settlement Act".
+CONGRESSIONAL FINDINGS
+Sac. 2. The Congress finds that-
+(a) there is pending before the United States District Court for the District of Connecticut a civil action entitled Western Pequot Tribe of Indians against Holdridge Enterprises Incorporated, et al., Civil Action Numbered H76-193 (D. Conn.), which involves Indian claims to certain public and private lands within the town of Ledyard, Connecticut;
+(b) the pendency of this lawsuit has placed a cloud on the titles to much of the land in the town of Ledyard, including lands not involved in the lawsuit, which has resulted in severe economic hardships for the residents of the town;
+(c) the Congress shares with the State of Connecticut and the parties to the lawsuit a desire to remove all clouds on titles resulting from such Indian land claims;
+(d) the parties to the lawsuit and others interested in the settlement of Indian land claims within the State of Connecticut have reached an agreement which requires implementing legislation by the Congress of the United States and the Legislature of the State of Connecticut;
+(e) the Western Pequot Tribe, as represented as of the time of the passage of this Act by the Mashantucket Pequot Tribal Council, is the sole successor in interest to the aboriginal entity generally known as the Western Pequot Tribe which years ago claimed aboriginal title to certain lands in the State of Connecticut; and
+(f) the State of Connecticut is contributing twenty acres of land owned by the State of Connecticut to fulfill this Act. The State of Connecticut has provided special services to the members of the Western Pequot Tribe residing within its borders. The United States has provided few, if any, special services to the Western Pequot Tribe and has denied that it had jurisdiction over or responsibility for said Tribe. In view of the provision of land by the State of Connecticut and the provision of special services by the State of Connecticut without being required to do so by Federal law, it is the intent of Congress that the State of Connecticut not be required to further contribute directly to this claims settlement.
+(3)
+4
+DEFINITIONS
+
+SEc. 3. For the purposes of this Act-
+(1) The term "Tribe" means the Mashantucket Pequot Tribe (also known as the Western Pequot Tribe) as identified by chapter 832 of the Connecticut General Statutes and all its predecessors and successors in interest. The Mashantucket Pequot Tribe is represented, as of the date of the enactment of this Act, by the Mashantucket Pequot Tribal Council.
+(2) The term "land or natural resources" means any real property or natural resources, or any interest in or right involving any real property or natural resources, including without limitation minerals and mineral rights, timber and timber rights, water and water rights, and hunting and fishing rights.
+(3) The term "private settlement lands" means-
+(A) the eight hundred acres, more or less, of privately held land which are identified by a red outline on a map filed with the Secretary of the State of Connecticut in accordance with the agreement referred to in section 2(d) of this Act, and
+(B) the lands known as the Cedar Swamp which are adjacent to the Mashantucket Pequot Reservation as it exists on the date of the enactment of this Act. Within thirty days of the enactment of this Act, the Secretary of the State of Connecticut shall transmit to the Secretary a certified copy of said map.
+(4) The term settlement lands" means-
+(A) the lands described in sections 2(a) and 3 of the Act to Implement the Settlement of the Mashantucket Pequot Indian Land Claims as enacted by the State of Connecticut and approved on June 9, 1982, and
+(B) the private settlement lands.
+(5) The term "Secretary" means the Secretary of the Interior.
+(6) The term "transfer" means any transaction involving, or any transaction the purpose of which was to effect, a change in title to or control of any land or natural resources, and any act, event, or circumstance that resulted in a change in title to, possession of, dominion over, or control of land or natural resources, including any sale, grant, lease, allotment, partition, or conveyance, whether pursuant to a treaty, compact or statute of a State or otherwise.
+(7) The term "reservation" means the existing reservation of the Tribe as defined by chapter 824 of the Connecticut General Statutes and any settlement lands taken in trust by the United States for the Tribe.
+APPROVAL OF PRIOR TRANSFERS; EXTINGUISHMENT OF ABORIGINAL
+TITLES AND INDIAN CLAIMS
+
+SEc. 4. (a) Any transfer before the date of enactment of this Act from, by, or on behalf of the Tribe or any of its members of land or natural resources located anywhere within the United States, and any transfer before the date of enactment of this Act from, by, or on behalf of any Indian, Indian nation, or tribe or band of Indians of land or natural resources located anywhere within the town of Ledyard, Connecticut, shall be deemed to have been made in accordance with the Constitution and all laws of the United States,
+5
+including without limitation the Trade and Intercourse Act of 1790, Act of July 22, 1790 (ch. 33, Sec. 4, 1 <title>Stat.</title> 137, 138), and all amendments thereto and all subsequent reenactments and versions thereof, and Congress hereby does approve and ratify any such transfer effective as of the date of said transfer. -
+(b) By virtue of the approval and ratification of a transfer of land or natural resources effected by subsection (a), any aboriginal title held by the Tribe or any member of the Tribe, or any other Indian, Indian nation, or tribe or band of Indians, to any land or natural resources the transfer of which was approved and ratified by subsection (a) shall be regarded as extinguished as of the date of such transfer.
+(c) By virtue of the approval and ratification of a transfer of land or natural resources effected by this section, or the extinguishment of aboriginal title effected thereby, any claim (including any claim for damages for trespass or for use and occupancy) by, or on behalf of, the Tribe or any member of the Tribe or by any other Indian, Indian nation, or tribe or band of Indians, against the United States, any State or subdivision thereof or any other person which is based on-
+(1) any interest in or right involving any land or natural resources the transfer of which was approved and ratified by subsection (a), or
+(2) any aboriginal title to land or natural resources the extinguishment of which was effected by subsection (b),
+shall be regarded as extinguished as of the date of any such transfer.
+(d) Nothing in this section shall be construed to affect or eliminate the personal claim of any individual Indian (except for Federal common law fraud claim) which is pursued under any law of general applicability that protects non-Indians as well as Indians.
+(e)(1) This section shall take effect upon the appropriation of $900,000 as authorized under section 5(e) of this Act.
+(2) The Secretary shall publish notice of such appropriation in the Federal Register when the funds are deposited in the fund established under section 5(a) of this Act.
+MASHANTUCKET PEQUOT SETTLEMENT FUND
+Ssc. 5. (a) There is hereby established in the United States Treasury an account to be known as the Mashantucket Pequot Settlement Fund (hereinafter referred to in this section as the "Fund"). The Fund shall be held in trust by the Secretary for the benefit of the Tribe and administered in accordance with this Act.
+(bXl) The Secretary is authorized and directed to expend, at the request of the Tribe, the Fund together with any and all income accruing to such Fund in accordance with this subsection.
+(2) Not less than $600,000 of the Fund shall be available until January 1, 1985, for the acquisition by the Secretary of private settlement lands. Subsequent to January 1, 1985, the Secretary shall determine whether and to what extent an amount less than $600,000 has been expended to acquire private settlement lands and shall make that amount available to the Tribe to be used in accordance with the economic development plan approved pursuant to paragraph (3).
+(3)(A) The Secretary shall disburse all or part of the Fund together with any and all income accruing to such Fund (excepting the
+6
+amount reserved in paragraph (2)) according to a plan to promote the economic development of the Tribe.
+(B) The Tribe s	11 submit an economic development plan to the Secretary and the Secretary shall approve such plan within sixty days of its submission if he finds that it is reasonably related to the economic development of the Tribe. If the Secretary does not approve such plan, he shall, at the time of his decision, set forth in writing and with particularity, the reasons for his disapproval.
+(C) The Secretary may not agree to terms which provide for the investment of the Fund in a manner inconsistent with the first section of the Act of June 24, 1938 (52 <title>Stat.</title> 1037), unless the Tribe first submits a specific waiver of liability on the part of the United States for an loss which may result from such an investment
+(D) The Tribe may, with the approval of the Secretary, alter the economic development plan subject to the conditions set forth in subparagraph B).
+(4) Under no circumstances shall any part of the Fund be distributed to any member of the Tribe unless pursuant to the economic development plan approved by the Secretary under paragraph (3).
+(5) As the Fund or any portion thereof is disbursed by the Secretary in accordance with this section, the United States shall have no further trust responsibility to the Tribe or its members with respect to the sums paid, any subsequent expenditures of these sums, or any property other than private settlement lands or services purchased i with these sums. -
+(6) Until the Tribe has submitted and the Secretary has approved; the terms of the use of the Fund, the Secretary shall fix the terms for the administration of the portion of the Fund as to which there is no agreement.
+(7) Lands or natural resources acquired under this subsection which are located within the settlement lands shall be held in trust by the United States for the benefit of the Tribe.
+(8) Land or natural resources acquired under this subsection which are located outside of the settlement lands shall be held in fee by the Mashantucket Pequot Tribe, and the United States shall have no further trust responsibility with respect to such land and natural resources. Such land and natural resources shall not be subject to any restriction against alienation under the laws of the United States.
+(9) Notwithstanding the provisions of the first section of the Act of August 1, 1888 (25 <title>Stat.</title> 357, chapter 728), as amended, and the first section of the Act of February 26, 1931 (46 <title>Stat.</title> 1421, chapter 307), the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
+(c) For the purpose of subtitle A of the Internal Revenue Code of 1954, any transfer of private settlement lands to which subsection (b) applies shall be deemed to be an involuntary conversion within the meaning of section 1033 of such Code.
+(d) The Secretary may not expend on behalf of the Tribe any sums deposited in the	d established pursuant to subsection (a) of this
+7
+section unless and until he finds that authorized officials of the Tribe have executed appropriate documents relinquishing all claims to the extent provided by sections 4 and 10 of this Act, including stipulations to the final judicial dismissal with prejudice of its claims.
+(e) There is authorized to be appropriated $900,000 for the fiscal year beginning October 1, 1983, to be deposited in the Fund.
+k
+
+
+SEC. 6. Notwithstanding the provision relating to a special election in section 406 of the Act of April 11, 1968 (82 <title>Stat.</title> 80; 25 U.S.C. 1326), the reservation of the Tribe is declared to be Indian country subject to State jurisdiction to the maximum extent provided in title IV of such Act.
+LIMITATION OF ACTIONS: FEDERAL COURT JURISDICTION
+SEC. 7. (a) Notwithstanding any other provision of law, the constitutionality of this Act may not be drawn into question in any action unless such question has been raised in-
+(1) a pleading contained in a complaint filed before the end of the one-hundred-and-eighty-day period beginning on the date of the enactment of this Act, or
+(2) an answer contained in a reply to a complaint before the end of such period.
+(b) Notwithstanding any other provision of law, exclusive jurisdiction of any action in which the constitutionality of this Act is drawn into question is vested in the United States District Court for the District of Connecticut.
+(c) Any action to which subsection (a) applies and which is brought in the court of any State may be removed by the defendant to the United States District Court for the District of Connecticut.
+(d) Except as provided in this Act, no provision of this Act shall be construed to constitute a jurisdictional act, to confer jurisdiction to sue, or to grant implied consent to any Indian, Indian nation, or tribe or band of Indians to sue the United States or any of its officers with respect to the claims extinguished by the operation of this Act.
+RESTRICTION AGAINST ALIENATION
+SEC. 8. (a) Subject to subsection (b), lands within the reservation which are held in trust by the Secretary for the benefit of the Tribe or which are subject to a Federal restraint against alienation at any time after the date of the enactment of this Act shall be subject to the laws of the United States relating to Indian lands, including section 2116 of the Revised Statutes (25 U.S.C. 177).
+(b) Notwithstanding subsection (a), the Tribe may lease lands for any term of years to the Mashantucket Pequot Housing Authority, or any successor in interest to such Authority.
+
+EXTENSION OF FEDERAL RECOGNITION AND PRIVILEGES
+SEC. 9. (a) Notwithstanding any other provision of law, Federal recognition is extended to the Tribe. Except as otherwise provided in this Act, all laws and regulations of the United States of general application to Indians or Indian nations, tribes or bands of Indians
+JURISDICTION OVER RESERVATION
+8
+which are not inconsistent with any specific provision of this Act shall be applicable to the Tribe.
+(b) The Tribe shall file with the Secretary a copy of its organic governing document and any amendments thereto. Such instrument must be consistent with the terms of this Act and the Act To Implement the Settlement of the Mashantucket Pequot Indian Land Claim as enacted by the State of Connecticut and approved June 9, 1982.
+(c) Notwithstanding any other provision of law, the Tribe and members of the Tribe shall be eligible for all Federal services and benefits furnished to federally recognized Indian tribes as of the date of enactment of this Act.
+Sac. 10. Except as expressly provided herein, this Act shall constitute a general discharge and release of all obligations of the State of Connecticut and all of its political subdivisions, agencies, departments, and all of the officers or employees thereof arising from any treaty or agreement with, or on behalf of the Tribe or the United States as trustee therefor.
+Sec. 11. In the event that any provision of section 4 of this Act is held invalid, it is the intent of Congress that the entire Act be invalidated. In the event that any other section or provision of this Act is held invalid, it is the intent of Congress that the remaining sections of this Act shall continue in full force and effect.
+V Speaker of the House of Representatives.
+9
+certify that this Act originated in the Senate.
+Secretary.
+
+</body></floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2409.02.pdf"><title>Congressional Record</title> 129, 7586</ref> (1983).</bibl>
+<!-- <floatingText>
+<body>
+7586	CONGRESSIONAL RECORD-SENATE	April 5, 1983
+my will be enormous. We will enjoy prosperity once again. Business profits will increase and so will tax revenues. Perhaps most important, it will preserve our way of life by retaining the cornerstone of our society—the American dream of home ownership.
+ORDER FOR THE RECOGNITION OF CERTAIN SENATORS ON TOMORROW
+Mr. STEVENS. Mr. President, I ask unanimous consent that there be special orders entered for Wednesday, April 6, for Senators HATCH, BAUCUS, and MCCLURE, for not to exceed 15 minutes each.
+The PRESIDING OFFICER. With-out objection, it is so ordered.
+-VETO-OF -S. -366-MESSAGE FROM THE PRESIDENT-PM 35
+The PRESIDING OFFICER laid before the Senate a message from the President of the United States, together with accompanying papers.
+Mr. STEVENS. Mr. President, it is my understanding that the message we just received from the President is a veto message on S. 366, the Indian Claims Settlement Act.
+I ask unanimous consent that that be temporarily laid aside, to be made the pending business upon the majority leader's request, after consultation with the minority leader and I further ask unanimous consent that the veto message be considered as having been read and that it be printed in the RECORD and spread in full upon the Journal.
+The PRESIDING OFFICER. With-out objection, it is so ordered.
+The message is as follows:
+To the Senate:
+I am returning, without my approval, S. 366, the "Mashantucket Pequot Indian Claims Settlement Act."
+This bill would settle claims in the Mashantucket Band of the Western Pequot Indian Tribe to approximately 800 acres of land in the town of Ledyard, Connecticut. In settling the claims, the legislation would generally: (1) extinguish any aboriginal title and any tribal claims for damages or possession of the land and natural re-sources; (2) establish a $900,000 Feder-al claims settlement fund to compensate the Indians for extinguishment of the claims; and (3) extend Federal recognition, with all attendant benefits and services, to the Western Pequot Indian Tribe.
+The claim that would be settled by this bill is not against the Federal Government, but against the State of Connecticut, which sold the Indian land, and against the present owners of the lands concerned. However, the costs of the settlement provided in this bill would be borne almost entirely by the Federal Government.
+Given the concerted effort that has already been made to develop a mutu-
+ally satisfactory settlement for the Western Pequot's land claims, I agree that the most desirable approach to resolution and extinguishment of these claims is through agreements negotiated among the parties concerned and ultimately ratified by the Federal Government. However, this process must recognize certain principles if equity and fairness to all par-ties are to be achieved. Unfortunately, I find S. 366 violates several of these principles.
+First, even if Federal participation in this settlement is warranted, sufficient information does not exist to deter-mine the validity of the claim or the appropriateness of the proposed $900,000 settlement. This settlement is not based on the formula for Eastern -Indian - -land-claims- -settlements-supported by my Administration. The Ad-ministration formula is based on the difference between land value and compensation received at the time of the land transfer (in this case 1855), plus interest. If the type of valuation for land claims settlements contemplated by this bill were applied across the board to all potential claims of this nature, it could require payment by the taxpayers of billions of dollars.
+Second, S. 366 provides for an unacceptably low level of State contribution to the settlement-only 20 acres of State land with an estimated value of about $50,000. The Administration has urged that an affected State should pay for at least one-half of settlement costs in claims such as this, which are not against the Federal Government but against the State and private parties who would be the primary beneficiaries of any settlement.
+Finally, the Tribe may not meet the standard requirements for Federal recognition or services that are required of other tribes. The Federal Government has never entered into treaties with this Tribe, and the Bureau of Indian Affairs has never provided services to them or exercised jurisdiction over any Indian lands in Connecticut. The government-to-government relationship between the Western Pequot Tribe and the Federal Government that would be established by this bill is not warranted at this time, pending further study by Interior. Extending Federal recognition to the Tribe would bypass the Department of the Interior's administrative procedures that apply a consistent set of eligibility standards in determining whether or not Federal recognition should be ex-tended to Indian groups.
+I am convinced that a satisfactory resolution of the Western Pequot's land claims can be achieved. However, this will require (1) verification of the claim, including the amount of any monetary settlement based on the formula I have outlined above, (2) completion by Interior of its administrative procedure for determining wheth-er or not Federal recognition of the Tribe is appropriate, and (3) payment by the State of Connecticut of at least one-half of any settlement costs.
+I am directing the Secretary of the Interior to enter negotiations with the parties at interest in this case to deter-mine an acceptable settlement, consistent with the Administration's principles, and report his recommendation to me and to the Congress.
+RONALD REAGAN. THE WHITE HOUSE, April 5, 1983.
+USE OF FEDERAL LAND MAN-AGED BY THE BUREAU OF LAND MANAGEMENT
+The bill (S. 612) to amend the Feder-al Land Policy and Management Act of 1976 (43 U.S.C. 1701) to permit temporary use by Federal departments and agencies of public lands controlled by the Bureau of Land Management, Department of the Interior, was considered, ordered to be engrossed for a third reading, read the third time, and passed, as follows:
+S. 612
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Federal Land Policy and Management Act of 1976 is amended as follows:
+(1) by inserting in section 302(b) the phrase "temporary use permits under section 319 of this Act," between the comma following the words "section 204 of this Act," and the word "and", in the first proviso;
+(2) by adding the following new section 319:
+"TEMPORARY USE PERMITS FOR FEDERAL
+AGENCIES
+"Sec. 319. The Secretary is authorized to issue temporary use permits to Federal departments and agencies to use, occupy, and develop public lands. Such permits may be issued for a term not to exceed three years and may be renewed once for an additional term not to exceed three years."; and
+(3) by adding the following new heading to the table of contents after section 318:
+"Sec. 319. Temporary use permits for Feder-al agencies.".
+Mr. STEVENS. Mr. President, I ask unanimous consent to reconsider the vote by which the bill was passed.
+THE CALENDAR
+Mr. STEVENS. Mr. President, I would like to take up several calendar items at this time.
+	-Mr.-BYRD. - Mr.-President, will-the- - distinguished acting majority leader indicate those calendar items he wishes to call up?
+Mr. STEVENS. Mr. President, it is my intention to ask the Chair to lay before the Senate Calendar Order No. 29, S. 612; Calendar Order No. 58, S. 126; and Calendar Order No. 66, S. 89.
+Mr. BYRD. Mr. President, there is no objection on this side of the aisle.
+
+</body></floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

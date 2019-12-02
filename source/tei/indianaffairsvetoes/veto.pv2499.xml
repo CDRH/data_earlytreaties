@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2499">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2499	S. 2342 (One hundred second Congress, Second Session &#8212; G.H.W. Bush)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2499</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>G.H.W. Bush</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>One hundred second Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Sioux</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2499	S. 2342 (One hundred second Congress, Second Session &#8212; G.H.W. Bush)</head>
+
+<p>To waive the six-year statute of limitations allowing three Sioux Indian Tribes to challenge the 1972 Mississippi Sioux Indian Judgment Fund Act.</p>
+
+<p>Vetoed on June 16, 1992.  The veto message was laid before the Senate and printed as S. Doc. 102–22 (138 <title>Cong. Rec.</title> 14913).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1989-2000</title>.  (2001). Washington, DC: Government Printing Office, 9.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2499.01.pdf">Veto – S.2342.  Message from the President of the United States returning without my approval S. 2342, a bill which would waive the six-year statute of limitations allowing three Sioux Indian tribes to bring an otherwise time-barred challenge to the 1972 Mississippi Sioux Indian Judgment Fund Act.</ref>  (1992).  Senate.  102nd Congress, 2nd session.  Senate   Document No. 102-22 (<title>Serial Set</title> 14089).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+102d Congress, 2d Session 	Senate Document 102-22
+VETO-S. 2342
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT MY APPROVAL S. 2342, A BILL WHICH WOULD WANE THE SIX-YEAR STATUTE OF LIMITATIONS ALLOWING THREE SIOUX INDIAN TRIBES TO BRING AN OTHERWISE TIME-BARRED CHALLENGE TO THE 1972 MISSISSIPPI SIOUX INDIAN JUDGMENT FUND ACT
+JUNE 16, 1992-Ordered to be printed
+U.S. GOVERNMENT PRINTING OFFICE 59-011	WASHINGTON : 1992
+To the Senate of the United States:
+I am returning herewith without my approval S. 2342. This bill would waive the 6-year statute of limitations, allowing three Sioux Indian tribes-the Sisseton-Wahpeton Sioux Tribe, the Devils Lake Sioux Tribe, and the Sisseton-Wahpeton Council of the Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation-to bring an otherwise time-barred challenge to the 1972 Mississippi Sioux Indian Judgment Fund Act.
+The 1972 Act apportioned to each of the three Tribes, and to a then-undetermined class of Sioux Indians who are not members of those Tribes, a percentage share of the proceeds from a 1967 judgment against the United States. The judgment rested on a finding that the United States had not paid adequate compensation to the Tribes in the 1860's for lands ceded to the United States. The non-member Indians are persons who are not now eligible for member-ship in any of the three Tribes, but who can trace their lineal ancestry to someone who was once a tribal member.
+The Tribes were active participants in the administrative and legislative process leading to the 1972 Act, and they endorsed the Act and its distribution of the judgment. Nonetheless, in 1987, 15 years after enactment and 9 years after the statute of limitations had run, the Tribes sued the United States, challenging the Act's distribution to the nonmembers. The U.S. Court of Appeals for the Ninth Circuit affirmed a lower court's decision to dismiss the case, finding no excuse-legal, equitable, or otherwise-for the Tribes' failure to challenge the 1972 Act in a timely fashion, and the U.S. Supreme Court declined to review the Ninth Circuit's decision. Sisseton-Wahpeton Sioux Tribe, et al. v. United States, 895 F.2d 588 (9th Cir. 1990), cert. denied,	U.S.	, 11 S. Ct. 75 (1990).
+I find no extraordinary circumstances or equities to justify an exception to the long-standing policy of the executive branch, which my Administration fully embraces, against ad hoc statute of limitations waivers and similar special relief bills. Also, there must be some definite, limited time during which the Government must be prepared to defend itself, and some finality to the pronouncements of the courts, the Congress, and the agencies.
+Moreover, a waiver for the Tribes in this case would mean the waste of the considerable judicial and litigation resources that were expended in bringing the case to final resolution, and would re-quire additional litigation that would otherwise be avoided. Thus, enactment of this bill would be inconsistent with Executive Order No. 12778 of October 23, 1991, which embodies my resolve to eliminate unnecessary, wasteful litigation.
+In addition, I am concerned that enactment of this bill would be unfair to other tribes, and would serve as a highly undesirable and potentially expensive precedent. Many other tribes were the recipients of settlement fund distributions, and many distributions, like
+(1)
+2
+
+the one challenged by the Tribes here, included payments to non-member Indians. Some of those tribes doubtless are dissatisfied with the terms of their distribution, but they are barred from a challenge by the statute of limitations. Numerous other Indian claims, totaling hundreds of millions of dollars, have been dismissed on statute of limitations or other jurisdictional grounds. In both categories of cases, tribes could rightfully claim that for purposes of fair treatment, they, too, should be allowed by the Congress to litigate the merits of their claims.
+I note that S. 2342 received little, if any, consideration by the House of Representatives prior to its passage by that body. Instead, the bill was discharged from committee without hearings and brought immediately to the House floor. Had there been a full review of this proposal, I am confident that the outcome would have been different.
+For these reasons, I cannot approve S. 2342.
+GEORGE BUSH.
+THE WHITE HOUSE, June 16, 1992.
+President of the Senate pro tempore.
+One hundred Second Congress of the United States of America
+
+
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Friday, the third day of January,
+one thousand nine hundred and ninety-two
+an Act
+To amend the Act entitled 'An Act to provide for the disposition of funds appropriated to pay judgment in favor of the Mississippi Sioux Indians in Indian Claims Commission dockets numbered 142, 369, 366, 361, 362, and 363, and for other purposes , approved October 26, 1972 (86 Stat, 1166 et seq.).
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. AMENDMENT TO ACT OP OCTOBER 26,1972.
+The Act of October 25, 1972 (86 <title>Stat.</title> 1168), is amended by adding at the end thereof the following new sections:
+'SEC. 306. AUTHORITY TO BRING ACTION.
+'Notwithstanding any other provision .of law, any action of the Sisseton-Wahpeton Sioux Tribe of South Dakota, the Devils Lake Sioux Tribe of North Dakota, or the Sisseton-Wahpeton Sioux Council of the Assiniboine and Sioux Tribes of Montana filed in the United States District Court for the District of Montana to contest the constitutionality or validity under law of this Act shall not be barred by any statute of limitations, lapse of time, or bar of lathes, if the complaint is filed no later than April 1,1993. Exclusive original jurisdiction over any such action filed on or before such date is hereby vested in the United States District Court for the District of Montana. Nothing in this section or section 307 shall be construed as an inference of liability on the part of the United States.
+'SEC,307. AUTHORITY to SETTLE ACTION
+'Notwithstanding any provision of this Act or any other provision of law, the Attorney General is authorized to settle any action that may be brought pursuant to section 306 of this Act".
+President of the Senate pro tempore
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2499.02.pdf"><title>Congressional Record</title> 138, 14913-14914</ref> (1992).</bibl>
+<!-- <floatingText>
+<body>
+June 16, 1992	CONGRESSIONAL RECORD—SENATE	14913
+If you do not accept the premise that we are either going to have to increase taxes or control entitlement programs in order to deal with the budget deficit, then you should vote against this amendment.
+I believe that many candidates for public office have been going to their constituents saying all we have to do is pass the balanced budget amendment, and I have supported that concept my-self. I believe that people have gone to their constituents and said all we have to do is cut out waste, fraud, and abuse and everybody is for cutting out waste, fraud, and abuse. But I think people have said that that is all we have to do.
+What this resolution says—and will put Senators on record as saying—is that we are not going to get the job done without including either or, taxes or control of entitlement programs. It is just not going to be possible, mathematically not possible, unless we do one of those two things or a combination of the two.
+So I welcome the postponement of this vote, and the modification has been sent to the desk, and all Senators are on notice. It will be printed in the RECORD. All the interest groups are welcome to look at it. All the organizations that say do not cut my group, all of them will have the opportunity to look at this, and then to weigh-in to-morrow. Maybe they will.
+Then we will vote on it tomorrow and decide where we go from here.
+I would simply say in closing that this is not the first time that this issue has been raised on the floor of the Senate, and it sure is not the last time be-cause between now and the election there are going to be Senators on both sides of this aisle who are going to continue to harass the Presidential nominees on the question of the budget deficit, and say to the Presidential nominees why do you not tell it to us straight? Maybe if we do enough harassment and enough hounding, they will do just that.
+Mr. LEVIN. Mr. President, I am wondering if the Senator from Missouri understands there would be an additional period of debate on our resolution be-fore the vote tomorrow? Has that been worked out?
+Mr. DANFORTH. Yes. That is my understanding. I do not know how many Senators will want to use it, and maybe no Senator will want to use that period tomorrow. But I do want there to be an opportunity for people to think about it and to address it, and if they want to change it, if people want to come to the floor and say we do not have to deal with entitlements or we do not have to deal with taxes, let them offer their amendments. And if they do not want to offer their amendments, then vote for it one way or another.
+Mr. LEVIN. I hope if we are not voting on this tonight-that is the deci-sion of leadership-that there not be a vote on this resolution tonight, that prior to the vote on it tomorrow after-noon, that there be an opportunity for us to debate it because I happen to agree with my friend from Missouri.
+This represents a commitment, not only on our part. We are asking the Presidential candidates to commit themselves to seriously address an issue, and it is not going to stop with the adoption of this resolution. This resolution will be thrust in front of the Presidential candidates regularly in this campaign until they agree to ad-dress in a serious and formal way the issues of this deficit.
+My friend from Missouri has put his finger on a very important point. The language of this resolution is tough. Let no one vote for it misunderstanding what it says. It says that the existing reckless Federal policy cannot be addressed in a meaningful way without including consideration of restraining entitlements and increasing taxes, as well as reducing defense and domestic spending.
+So we have a very straightforward, tough agenda that we have committed ourselves to on a bipartisan basis. The adoption of this resolution tomorrow hopefully will force this issue in a Presidential campaign because without Presidential leadership, without this being an issue in the campaign, and without there being a mandate from the public to do this, it is not going to get done,
+So I thank my friend from Missouri and our colleague from Florida.
+
+
+APPROPRIATED FUNDS FOR THE MISSISSIPPI SIOUX INDIANS—VETO MESSAGE
+Mr. MITCHELL. Mr. President, I ask unanimous consent that the veto message on S. 2342 be considered as having been read and that it be printed in the RECORD and spread in full upon the Journal and laid aside, and that the majority leader, after consultation with the Republican leader, may turn to its consideration at any time.
+The PRESIDING OFFICER. Without objection, it is so ordered.
+The message of the President is as follows:
+To the Senate of the United States:
+I am returning herewith without my approval S. 2342. This bill would waive the 6-year statute of limitations, al-lowing three Sioux Indian tribes—the Sisseton-Wahpeton Sioux Tribe, the Devils Lake Sioux Tribe, and the Sisseton-Wahpoton Council of the Assiniboine and Sioux Tribes of the Fort Peck Indian Reservation—to bring an otherwise time-barred challenge to the 1972 Mississippi Sioux Indian Judgment Fund Act.
+The 1972 Act apportioned to each of the three Tribes, and to a then-undo-termined class of Sioux Indians who are not members of those Tribes, a percentage share of the proceeds from a 1967 judgment against the United States. The judgment rested on a finding that the United States had not paid adequate compensation to the Tribes in the 1860's for lands ceded to the United States. The nonmember Indians are persons who are not now eligible for membership in any of the three Tribes, but who can trace their lineal ancestry to someone who was once a tribal member.
+The Tribes were active participants in the administrative and legislative process leading to the 1972 Act, and they endorsed the Act and its distribution of the judgment. Nonetheless, in 1987, 15 years after enactment and 9 years after the statute of limitations had run, the Tribes sued the United States, challenging the Act's distribution to the nonmembers. The U.S. Court of Appeals for the Ninth Circuit affirmed a lower court's decision to dismiss the case, finding no excuse—legal, equitable, or otherwise—for the Tribes' failure to challenge the 1972 Act in a timely fashion, and the U.S. Supreme Court declined to review the Ninth Circuit's decision. Sisseton-Wahpeton Sioux Tribe, et al. v. United States, 895 F.2d 588 (9th Cir. 1990), cert. denied, - U.S. -, 11 S. Ct. 75 (1990).
+I find no extraordinary circumstances or equities to justify an exception to the long-standing policy of the executive branch, which my Ad-ministration fully embraces, against ad hoc statute of limitations waivers and similar special relief bills. Also, there must be some definite, limited time during which the Government must be prepared to defend itself, and some finality to the pronouncements of the courts, the Congress, and the agencies.
+Moreover, a waiver for the Tribes in this case would mean the waste of the considerable judicial and litigation re-sources that were expended in bringing the cake to final resolution, and would require additional litigation that would otherwise be avoided. Thus, enactment of this bill would be inconsistent with Executive Order No. 12778 of October 23, 1991, which embodies my re-solve to eliminate unnecessary, wasteful litigation.
+In addition, I am concerned that enactment of this bill would be unfair to other tribes, and would serve as a highly undesirable and potentially expensive precedent. Many other tribes were the recipients of settlement fund distributions, and many distributions, like the one challenged by the Tribes here, included payments to nonmember Indians. Some of those tribes doubtless are dissatisfied with the terms of their distribution, but they are barred from a challenge by the statute of limitations. Numerous other Indian claims. totaling hundreds of millions of del-
+HeinOnline- 138 <title>Cong. Rec.</title> 14913 1992
+14914	CONGRESSIONAL RECORD—SENATE	June 16, 1992
+lars, have been dismissed on statute of limitations or other jurisdictional grounds. In both categories of cases, tribes could rightfully claim that for purposes of fair treatment, they, too, should be allowed by the Congress to litigate the merits of their claims.
+I note that S. 2342 received little, if any, consideration by the House of Representatives prior to its passage by that body. Instead, the bill was discharged from committee without hearings and brought Immediately to the House floor. Had there been a full re-view of this proposal, I am confident that the outcome would have been different.
+For these reasons, I cannot approve S. 2342.
+GEORGE BUSH. THE WHITE HOUSE, June 16, 1992.
+NATIONAL BANKRUPTCY REVIEW
+COMMISSION ACT
+The Senate continued with the consideration of the bill.
+Mr. MITCHELL. Mr. President, I see that the Republican leader is on the floor. I heard the comment of the Senator from Michigan saying that if we are going to vote on this amendment this evening—which I assume is based upon a statement by the Senator from Missouri that we are not going to vote on this amendment this evening; that is the first I heard of it. I do not know why we cannot vote on this amendment this evening.
+Mr. DANFORTH. Mr. President, I was asked by our Cloakroom—in fact, I was told by our Cloakroom there was a problem on this side in voting on it to-night, and I was asked whether I would agree to putting it off until tomorrow afternoon, and my response was, yes, I would agree to that; and then, on reflection, it seems to me that it is a good idea to vote on it tomorrow, to give Senators a chance to reflect on it. This is a serious matter—the budget deficit.
+Obviously, the Presidential candidates do not want to talk about it. This is tough language in this particular resolution, and I think that Senators are going to be on the spot if they vote for it. They are going to be criticized by opponents in the election, because this talks about entitlements and about raising taxes.
+So when I was asked by our Cloak-room whether I would agree to put it off until tomorrow, I said, sure, not only to accommodate the Senator who was not able to be here, but also for the sake of giving Senators the opportunity to reflect on it, so that they could not claim that somehow they were blindsided by something that they considered to be a minor matter.
+Mr. MITCHELL. Well, Mr. President, I appreciate the Senator's consideration of the request of his Cloakroom. But [ have the responsibility for man-aging the affairs of the Senate, and we cannot have 100 Senators deciding when a vote may or may not occur. I appreciate the importance of this Senator's amendment. He recognizes that it has nothing to do with the bill, and we are trying to pass this bill. Any Senator can offer an amendment at any time he or she wants, and any Senator can delay proceedings so as to make it not possible to get to a vote. But I request of the Senator the courtesy, henceforth, before making public announcements of when votes may or may not occur, and to at least do me the courtesy of notifying me or giving me some notice so that I have some awareness of what is occurring.
+Mr. DANFORTH. Mr. President, may I ask the majority leader, does he believe that the Senator from Missouri was in any way discourteous to him?
+Mr. MITCHELL. Not at all.
+Mr. DANFORTH. What announcement does the majority leader think the Senator from Missouri made?
+Mr. MITCHELL. The Senator from Missouri just indicated that he announced that the vote on his amendment would occur tomorrow.
+Mr. DANFORTH. I did not say any such thing. I said the inquiry was made to me by my Cloakroom, would I agree that the vote take place tomorrow, not today, and my response to that was, yes, I would agree to that. It is not the business of the Senator from Missouri to take over the majority leader's vote, and I have never intended to do that. And the Senator from Missouri is hardly a Senator who stands on the floor of the Senate and tries to obstruct business, or tries to impede the work of the Senate, or of the majority leader.
+When I am asked a question as to what my preference is for a vote and I say I am perfectly happy to accommodate anybody, and then further say if that is the position of the Senate, that we are going to be voting tomorrow afternoon, that was not my decision. But what I did say was I think that is a splendid idea if that is the view of the Senate, if people want to put off the vote. My understanding is that that was the leadership's view.
+Mr. MITCHELL. Mr. President, I will say that I am the majority leader, and it was not my view. The first I heard about it was after the Senator from Missouri had stated it.
+Mr. DANFORTH. Mr. President, I did not state that. I did not state that. I stated exactly what I have represented in the Senate.
+Mr. MITCHELL. The record will speak for itself.
+Mr. DANFORTH. I was approached by the Republican Cloakroom and asked what my view was about the scheduling of the vote. I said I did not have any problem with putting the vote off until tomorrow. That Is my view.
+Mr. COATS addressed the Chair.
+Mr. MITCHELL. The record will speak for itself, Mr. President. I yield to the Senator from Indiana.
+Mr. COATS. Mr. President, perhaps I can shed a little light on this. I, earlier today—actually yesterday, I contacted the Republican Cloakroom, indicating that the Indiana State Republican Convention was tomorrow, and I was designated to be the keynote speaker for that convention tomorrow morning, I indicated to the Cloakroom that if it was possible not to have votes until 3 o'clock, I would appreciate it. That is when I scheduled the very first plane back that I could.
+I did not ask that the Senate adjust its schedule simply to accommodate this Senator from Indiana. I will be traveling to Indiana early tomorrow morning, and I will be back as soon as possible. I made a request that Senators from time to time make, that, if it is possible, a vote be scheduled after a certain reasonable time; and frequently we do not vote here until late in the afternoon or early evening, and that I would appreciate that if that could be accommodated. I appreciate the Senator from Missouri taking up that request and simply indicating that it would be his preference that the vote on this matter be after 3 o'clock.
+Having said that, I simply want to say that I think whenever the will of the body is that the votes be scheduled, they ought to be scheduled. I have been one of those who complain that we do nothing all day and sit around at night and postpone all of our votes. I do not think the Senate should be held up to accommodate this Senator. I had to make a decision about my travel plans. If the vote fell after a certain time, fine; if it did not, I would accept the consequences.
+Having said that, however, the Senator from Missouri has raised a very important amendment, and I, for one, as a Senator, do not feel this is some-thing that I should, with no time to ex-amine the amendment, to reflect on the amendment, rush down here and vote on the amendment, which has enormous consequences, both political and from a policy standpoint, without some adequate time to debate this.
+I assume that many other Senators feel very much the same way. So if we are going to go forward with this amendment that has been offered, this Senator, for one, would like to speak on that amendment. I will stay here as late as necessary this evening to do it. Obviously, I cannot during the day to-morrow.
+But I think the amendment the Senator has offered is a very, very significant amendment, and I think it would be wrong for us to simply rush this to a vote. Most Senators probably are not even aware at this particular point that this amendment is on the floor. If they are, they certainly are not aware of the details of the amendment.
+The PRESIDING OFFICER. The majority leader has the floor.
+</body>
+</floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

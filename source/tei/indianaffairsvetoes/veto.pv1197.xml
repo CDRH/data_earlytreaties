@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1197">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1197	H.R. 5864 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1197</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-third Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Yakima</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1197	H.R. 5864 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>To authorize the payment of expenses of delegates of the Yakima Confederated Tribes of Indians while on a mission to represent such tribes before Congress and the executive departments at the seat of government, and for other purposes.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 73rd Congress had adjourned sine die on June 18, 1934.  The bill was presented to the President on June 16, 1934 (78 <title>Cong. Rec.</title> 12258; <hi rend="italics">see also</hi> 78 <title>Cong. Rec.</title> 12456).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 258.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><title><ref target="PV1197.01.pdf">Congressional Record</ref></title> 78, 12258 (1934).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 12258	CONGRESSIONAL RECORD HOUSE	JUNE 16 </fw>
+<p>H.R. 3243. An act for the relief of Harry E. Good, administrator de bonis non of the estate of Ephraim N. Good, deceased;</p>
+<p>H.R. 3295. An act for the relief of the estate of White B. Miller;</p>
+<p>H.R. 3296. An act for the relief of Carl F. Castleberry; </p>
+<p>H.R. 3318. An act to reimburse Earl V. Larkin for injuries
+sustained by the accidental discharge of a pistol in the
+hands of a soldier in the United States Army;</p>
+<p>H.R. 3595. An act for the relief of St. Ludgers Catholic Church of Germantown, Henry County, Mo.;</p>
+<p>H.R. 3606. An act for the relief of William Sheldon; </p>
+<p>H.R. 3705. An act for the relief of Julia E. Smith; </p>
+<p>H.R. 3748. An act for the relief of Mary Orinski;</p>
+<p>H.R. 3791. An act for the relief of Gustav Welhoelter;</p> 
+<p>H.R. 3793. An act for the relief of Anthony Hogue. </p>
+<p>H.R. 3912. An act for the relief of Roland Zolesky.</p>
+<p>H.R. 4082. An act for the relief of John J. Corcoran</p>;
+<p>H.R. 4224. An act to authorize the Postmaster General to
+hire vehicles from postal employees;</p>
+<p>H.R. 4387. An act for the relief of Mary A. Rockwell; </p>
+<p>H.R. 4446. An act for the relief of E. E. Hall;</p>
+<p>H.R. 4579. An act for the relief of Dr. Charles T. Granger;</p> 
+<p>H.R. 4659. An act for the relief of Carleton-Mace Engineering Corporation;</p>
+<p>H.R. 4666. An act for the relief of Jerry O'Shea;</p>
+<p>H.R. 4670. An act for the relief of Lyman D. Drake, Jr.;</p>
+<p>H.R. 4838. An act for the relief of the Massachusetts Bonding and Insurance Co., a corporation organized and existing under the laws of the State of Massachusetts;</p>
+<p>H.R. 4952. An act for the relief of Theodore W. Beland; </p>
+<p>H.R. 4957. An act for the relief of F. M. Peters and J. T. Akers;</p>
+<p>H.R. 5018. An act to correct the naval records of former members of the crews of the revenue cutters Algonquin and Onondaga;</p>
+<p>H.R. 5031. An act for the relief of Edith L. Peeps;</p>
+<p>H.R. 5344. An act granting a franking privilege to Grace G. Coolidge;</p>	
+<p>H.R. 5357. An act for the relief of Alice M. A. Damn; </p>
+<p>H.R. 5584. An act for the relief of William J. Kenely; </p>
+<p>H.R. 5606. An act for the relief of W. R. McLeod;</p>
+<p>H.R. 5809. An act to provide compensation for Robert
+Rayford Wilcoxson for injuries received in citizens' military
+training camp;</p>
+<p>H.R. 5864. An act to authorize the payment of expenses of delegates of the Yakima Confederated Tribes of Indians while en a mission to represent such tribes before Congress and the executive departments at the seat of government, and for other purposes;</p>
+<p>H.R. 5947. An act authorizing adjustment of the claim of the Western Union Telegraph Co.;</p>
+<p>H.R. 6037. An act to exempt from taxation certain property of the National Society of the Sons of the American Revolution;</p>
+<p>H.R. 6238. An act for the relief of M. R. Welty;</p>
+<p>H.R. 6284. An act for the relief of John R. Novak; </p>
+<p>H.R. 6324. An act for the relief of Mabel Carver; </p>
+<p>H.R. 6350. An act for the relief of Arthur Smith;</p>
+<p>H.R. 6366. An act making appropriation to restore water
+of high mineral content on land owned and controlled by
+the Federal Government;</p>
+<p>H.R. 6497. An act for the relief of James Henry Green; </p>
+<p>H.R. 6622. An act authorizing the Secretary of Commerce
+to lease certain Government land at Woods Hole, Mass.; </p>
+<p>H.R. 6625. An act for the relief of Charles Farr; </p>
+<p>H.R. 6696. An act for the relief of William T. Roche;</p>
+<p>H.R. 6898. An act authorizing the city of Atchison, Kans.,
+and the county of Buchanan, Mo., or either of them, or the
+States of Kansas and Missouri, or either of them, or the
+highway departments of such States, acting jointly or severally, to construct, maintain, and operate a free highway
+bridge across the Missouri River at or near Atchison, Kans.; </p>
+<p>H.R. 6998. An act for the relief of Capt. Frank J. McCormack;</p>
+<p>H.R. 7067. An not for the relief of Saint Anthony's Hospital at Michigan City, Ind.; Dr. Russel A. Gilmore; Emily Molzen; and the Hummer Mortuary;</p>
+<p>H.R. 7107. An act for the relief of Frank Baglione;</p>
+<p>H.R. 7121. An act authorizing the Secretary of the Treasury to pay Dr. A. W. Pearson, of Peever, S.Dak., and the Peabody Hospital at Webster, S.Dak., for medical services and supplies furnished to Indians;</p>
+<p>HR. 7161. An act to provide for the refund or abatement of the customs duty on altar candlesticks and cross imported for the Church of the Good Shepherd, Memphis, Tenn.; </p>
+<p>H.R. 7230. An act for the relief of J. B. Hudson;</p>
+<p>H.R. 7264. An act for the relief of M. N. Lipinski; </p>
+<p>H.R. 7272. An act for the relief of John W. Adair;</p>
+<p>H.R. 7348. An act to amend section 3937 of the Revised
+Statutes;</p>	
+<p>HR. 7372. An act for the relief of Donald K. Warner; </p>
+<p>H.R. 7387. An act for the relief of Royce Wells;</p> 
+<p>H.R. 7428. An act providing for the transfer of certain
+lands from the United States to the city of Wilmington, Del.,
+and from the city of Wilmington, Del., to the United States;</p> 
+<p>H.R. 7631. An act for the relief of Arthur A. Burn, Sr.,
+and J. K. Ryland;</p>
+<p>H.R. 7670. An Act relating to conveyance of letters by private hands without compensation, or by special messenger employed for the particular occasion only;</p>
+<p>H.R. 7697. An act for the relief of William Chinsky;</p>
+<p>H.R. 7781. An act for the relief of Rosemund Pauline Lowry;</p>
+<p>H.R. 7816. An act for the relief of Oswald H. Halford, Hunter M. Henry, William C. Horne, Rupert R. Johnson, David L. Lacey, William Z: Lee, Fenton F. Rodgers, Henry Freeman Seale, Felix M. Smith, Edwin C. Smith, Robert S. Sutherland, and Charles G. Ventress;</p>
+<p>H.R. 7893. An act for the relief of Ralph LaVern Walker; </p>
+<p>H.R. 7953. An' act for the relief of the Dallas County chapter of the American Red Cross;</p>
+<p>H.R. 8108. An act for the relief of Jeannette Weir;</p>
+<p>HR. 8115. An act for the relief of May L. Marshall, administratrix of the estate of Jerry A. Litchfield;</p>
+<p>H.R.8328. An act for the relief of the heirs of C. K. Bowen, deceased;</p>
+<p>H.R. 8460. An act to amend section 392 of title 5 of the United States Code;</p>
+<p>H.R.8513. An act to authorize the coinage of 50-cent pieces in commemoration of the boyhood home of Gen. Thomas J. (Stonewall) Jackson;</p>
+<p>H.R. 8514. An act authorizing the Secretary of the Treasury to convey a part of the post-office site in San Antonio, Tex., to the city of San Antonio, Tex., for street purposes, in exchange for land for the benefit of the Government property;</p>
+<p>H.R. 8587. An act to extend the benefits of the Employees' Compensation Act of September 7, 1916, to William Thomas;</p>
+<p>H.R. 8644. An act to provide warrant officers of the Coast Guard parity of promotion with warrant officers of the Navy;</p>
+<p>H.R. 8650. An act for the relief of B. J. Sample;</p>
+<p>H.R. 8688. An act for the relief of Stella E. Whitmore; </p>
+<p>H.R. 8727. An act for the relief of the First State Bank
+& Trust Co., of Mission, Tex.;</p>
+<p>H.R. 8728. An act authorizing the Secretary of War to lease or sell certain lands and buildings, known as " Camp Eagle Pass, Tex.", to the city of Eagle Pass, Tex.;</p>
+<p>H.R. 8833. An act to authorize the coinage of 50-cent pieces in commemoration of the three hundredth anniversary of the founding of the colony of Connecticut;</p>
+<p>H.R. 8909. An act to authorize the Secretary of the Treasury to amend the contract for, sale of post-office building and site at Findlay, Ohio;</p>
+<p>H.R. 8930. An act to provide for the construction and operation of a vessel for use in research work with respect to ocean fisheries;</p>
+<p>H.R. 9007. An act to amend section 11 of the District of Columbia Alcoholic Beverage Control Act;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1197.02.pdf"><title>Congressional Record</title> 78, 12456</ref> (1934).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 12456	CONGRESSIONAL RECORD SENATE	JUNE 18 </fw>
+<p>abilities directly incurred in or aggravated by active military or naval service in the World War.</p>
+<head>DISAPPROVALS OF BILLS AND JOINT RESOLUTIONS</head>
+<p>The President of the United States, on June 26, 1934, issued the following statement for the press, a copy of which he transmitted to the Secretary of the Senate</p>:
+<p>The Constitution of the United States, with reference to bills presented to the President by the Congress, provides:</p>
+<p>"If any bill shall not be returned by the President within 10 days (Sundays excepted) after it shall have been presented to him, the same shall be a law, in like manner as if he had signed it, unless the Congress by their adjournment prevent its return, in which case it shall not be a law."</p>
+<p>In the past it has been customary in most cases involving vetoes for the President to withhold his signature, thereby, in effect, allowing the bill to die without becoming a law.
+The President has desired, however, to take a more affirmative position than this, feeling that in the case of most legislation reasons for definite disapproval should be given. Therefore, he has written on the copy of each bill the words " Disapproved and signature withheld ", and has appended in every case a brief statement giving the reason or reasons for disapproval.</p>
+<p>The bills identified below have been vetoed by the President, and the reasons which lead to their disapproval are contained in the following statements:</p>
+<p>H.R. 7711. " I disapprove H.R. 7711, entitled `An act to permit postmasters to act as disbursing officers for the payment of traveling expenses of officers and employees of the Postal Service.'</p>
+<p>"Section 4 of Executive order of June 10, 1933, No. 6168, relating to the organization of executive agencies, provides in part:</p>
+<p>"`The function of disbursement of moneys of the United States exercised by any agency is transferred to the Treasury Department and, together with the office of disbursing clerk of that Department, is consolidated in a Division of Disbursement, at the head of which shall be a chief disbursing officer.'</p>
+<p>"That consolidation of disbursing functions is now being perfected, subject to the provisions contained in Executive Orders Nos. 6727 and 6728, of May 29, 1934, and I am therefore not in favor of this bill, which would apparently in-validate, to the extent therein set forth, the consolidation of disbursing functions as provided in said Executive order of June 10, 1933."</p>
+<p>S. 1358. "I disapprove Senate bill 1358 entitled `An act to provide for the improvement of approaches to the National Cemetery and the Confederate Cemetery at Fayetteville, Ark.'</p>
+<p>"This bill would require the Highway Department of the State of Arkansas to expend not to exceed $12,800 out of Public Works allocations, in the construction of an 18-foot concrete pavement on approaches to the National Cemetery and to the Confederate Cemetery at Fayetteville, Ark.</p>
+<p>"The Government-owned approach road to the National Cemetery was conveyed to the city of Fayetteville by the Secretary of War on July 7, 1926, pursuant to the act of March 3, 1925 (43 <title>Stat.</title> 1104), and the city assumed the obligation to maintain that road.</p>
+<p>"This bill would divert Public Works funds granted to the Highway Department of the State of Arkansas, which are required to be expended under the provisions of the Federal Highway Act, to the construction of streets in a city that are not part of the Federal highway system.</p>
+<p>"The improvement of any particular road and the type of improvements which shall be made are engineering matters to be determined in the light of traffic conditions and the availability and suitability of materials. The policy of determining these matters and what roads shall be so improved under our Federal aid highway system has been wisely vested in the Secretary of Agriculture, and I am not in favor of departing from that policy as proposed in this bill."</p>
+<p>H.R. 8587. An act to extend the benefits of the Employees' Compensation Act of September 7, 1916, to William Thomas.</p>
+<p>"This bill is defectively drawn; and in addition the War Department has no record of the injury alleged."</p>
+<p>H.R. 4957. An act for the relief of F. M. Peters and J. T. Akers.</p>
+<p>"I cannot agree that reasonable care was exercised by these postmasters, and must, therefore, approve the recommendation of the Post Office Department."</p>
+<p>H.R. 8728. An act authorizing the Secretary of War to lease or sell certain lands or buildings known as "Camp Eagle Pass, Tex.", to the city of Eagle Pass, Tex.</p>
+<p>"I cannot approve this bill in its present form. The object is worthy, but the Government's rights are not sufficiently protected."</p>
+<p>H.R. 363. An act for the relief of James Moffitt.</p>
+<p>"It does not seem reasonable to believe that malaria and large doses of quinine prevented this man from knowing he was deserting, in view of the fact that he thereafter stayed in Chicago for a year and then went home without apparently trying in any way to clear his record."</p>
+<p>H.R. 3161. "I disapprove House bill no. 3161, entitled `An act for the relief of Henry Harrison Griffith.'</p>
+<p>"The bill authorizes and directs the Employees' Compensation Commission to extend the benefits of the Employees' Compensation Act of September 7, 1916, to a former civil employee of the United States in the same manner and to the same extent as if application for such benefits had been made within the 1-year period required by sections 17 and 20 of the Compensation Act.</p>
+<p>"The bill is objectionable because it does not limit the benefits to the date of the approval of the bill, and further, the bill as drawn does not authorize the Commission to examine into the merits of the claim."</p>
+<p>H.R. 2632. An act for the relief of Wilson G. Bingham.</p>
+"Because this officer voluntarily resigned 4 years after the close of the World War, he should <p>not now be reinstated and retired as a captain.</p>
+<p>"I would approve a bill to extend to him the benefits of the Emergency Officers' Retirement Act."</p>
+<p>H.R. 8517. An act to provide for needy blind persons of the District of Columbia.</p>
+<p>"I am compelled to agree with the adverse reports on this bill made by the Commissioners of the District of Columbia and the Director of the Budget.</p>
+<p>"I therefore reluctantly disapprove the bill."</p>
+<p>S. 3446. An act to authorize the Postmaster General to receive, operate, and maintain for official purposes motor vehicles seized for violations of the customs laws.</p>
+<p>"Disapproved because I do not wish to establish the habit of providing passenger automobiles for postal employees."</p>
+<p>H.R. 3054. An act for the relief of Christopher Cott.</p>
+<p>"Nothing in this record extenuates the circumstance of desertion except his service during the actual war period. The bill is therefore disapproved."</p>
+<p>H.R. 5018. An act to correct the naval records of former employees of the crews of the revenue cutters Algonquin and Onondaga.</p>
+<p>"This bill is disapproved because it stretches the imagination to declare men on a revenue cutter for 17 days on the Great Lakes in August 1898 to be entitled to all the privileges of Spanish War veterans."</p>
+<p>H.R. 1766. An act to provide medical services after retirement on annuity to former employees of the United States disabled by injuries sustained in the performance of their duties.</p>
+<p>"I am disapproving this bill because I fear that if this principle is established it will grow and grow like war pensions, and that would be a pity for our children and grand-children."</p>
+<p>H.R. 5864. An act to authorize the payment of expenses of delegates of the Yakima Confederated Tribes of Indians while on a mission to represent such tribes before Congress and the executive departments at the seat of government, and for other purposes.</p>
+<p>"I understand the established policy is to charge expenses of this character to tribal funds instead of to the Treasury. The bill is therefore disapproved."</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

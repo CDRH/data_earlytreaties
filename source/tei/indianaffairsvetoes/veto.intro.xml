@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.intro">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">I Forbid: Presidential Vetoes and American Indian Affairs, 1789-2000</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<author>Karin Dalziel</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<authority>I Forbid: Presidential Vetoes and American Indian Affairs, 1789-2000</authority>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.intro</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2010-08-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<front>
+<div1>
+<head type="heading">I Forbid: Presidential Vetoes and American Indian Affairs, 1789-2000</head>
+
+<docAuthor>Charles D. Bernholz<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+
+<docAuthor>Laura K. Weakly, Brian L. Pytlik Zillig, and Karin Dalziel<lb/> 
+Electronic Text Center<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<ref n="**" target="f02"/>
+</docAuthor>
+
+</div1>
+
+<milestone unit="crosses"/>
+
+<div1>
+<head>Abstract</head>
+
+<p>Nineteen Presidents of the United States, between the years 1789 and 2000, vetoed 114 bills or resolutions that pivoted upon matters related to Indian affairs.  These actions are enumerated here, supplemented by access to supporting Congressional documents, and accompanied by a brief history of Presidential veto power and activities.</p>
+</div1>
+ </front>
+<!-- I Forbid:
+Presidential Vetoes and American Indian Affairs, 1789-2000
+
++++ -->
+
+<body>
+<div1>
+<milestone unit="crosses"/>
+<epigraph><quote>“A certain amount of the time of every President every week, from George Washington down, has had to be devoted to ‘Indian Affairs.’”</quote>
+
+<bibl>Herbert Hoover (1952, p. 318)</bibl>
+</epigraph>
+<milestone unit="crosses"/>
+
+<div2>
+
+ <p>George Washington, as the first President of the United States, was always cautious of the long-term effects of any form of precedent-setting behavior in the new government.  The veto power provided by The Constitution presented one such concern, where a balance of power between the legislature and the executive might be resolved through the rules adhering to a President’s veto power.  <ref target="http://www.usconstitution.net/const.html#A1Sec7">Article I, section 7, clause 2 of the U.S. Constitution</ref> states:</p>
+	
+<p>“Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it.  If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.  But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively.  If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, <emph>unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law</emph>” (The Constitution of the United States: Analysis and interpretation, 2004, p. 143; emphasis added).  The italicized portion refers to the condition under which a so-called pocket veto &#8212; as opposed to the regular form &#8212; may take effect (see Pope, 1986, for more on this specific tool).</p>
+    
+<p>The two worlds of constitutionality and expediency have offered the substrates upon which United States Presidents may exercise their power, wherein the first consideration propelled decisions of early administrations, while the second issue evolved within later ones (Mason, 1891, pp. 129-130).  Washington, during four Congresses, vetoed two House resolutions.<ref n="1" target="n01"></ref>   The first one occurred during the first session of the second Congress and was related to reapportionment,<ref n="2" target="n02"></ref>  while the second arose during the second session of the fourth Congress in response to an attempt to adjust a previous act concerning military affairs.<ref n="3" target="n03"></ref>   The President’s former decision was based on constitutional grounds, while the latter was rooted in expediency; the House failed to override either of these through their subsequent constitutionally mandated legislative opportunities.  In this process, Washington relied upon both critical aspects of the fresh federal government: he used the directions inherent in the words of the Constitution, and he deployed a President’s prerogative to exercise policy judgments.</p>
+</div2>
+
+<div2>
+<head>The veto in America</head>
+<p>In his classic presentation on veto power, Edward Campbell Mason (1864-1937) compiled a history of presidential vetoes between the years 1789 and 1889 (1891).  The volume &#8212; developed during his undergraduate and graduate studies at Harvard &#8212; was the initial entry in the Harvard Historical Monographs series.  The editor, Albert Bushnell Hart (1854-1943), declared that “[a]mong the many subjects in the constitutional development of the United States on which no formal treatise has been written, none seems more to deserve the attention of a scholar than that chosen by Mr. Mason and here presented as the first number of the Harvard Historical Monographs.  The veto power is the most important of the institutions connecting the national executive with the legislature; the provision for a revision by an enlarged majority of the legislature is original, to the United States; the vetoes have appertained to some of the most interesting episodes of American history; the power is in frequent exercise, yet has of late been somewhat disputed” (1891, p. 3).  An early brief yet encouraging review of Mason’s tome &#8212; and of the onset of the Historical Monographs endeavor itself &#8212; was published in <title>Science</title> in October 1890 (Harvard Historical Monographs, 1890).  Both W. P. Trent (1862-1939) and Woodrow Wilson (1856-1924) penned upbeat assessments: Trent spoke of Mason’s “freedom from political bias” when discussing Presidents who had made ample use of their veto power (1890, p. 695), and Wilson remarked that the assemblage was “indispensable” (1891, p. 697).<ref n="4" target="n04"></ref>   Mason’s “Bibliography of veto power” (pp. 219-221) usefully identified relevant publications from the nineteenth century, including the views of Long (1887), Benton (1888), and Conkling (1890).</p>
+    
+<p>Hart noted, however, that there had been a previous effort to collate vetoes.  In 1886, the Senate composed Veto messages of the Presidents of the United States, with the action of Congress thereon (1886).<ref n="5" target="n05"></ref>   To the vetoes listed in that Senate Miscellaneous Report, Mason appended ten additional events, subtracted a few items recorded there in error, and supplemented these adjustments with 186 subsequent parallel decisions delivered by Grover Cleveland through the end of his administration in March, 1889.<ref n="6" target="n06"></ref>   In the end, 433 separate transactions were collected.  Ordinal identifiers and labels were added for easy indexing: Washington’s two vetoes were thus denoted as “1.  Apportionment of representatives” and “2.  Reduction of the Army,” while the last entry for Cleveland was “433.  Refunding the Direct Tax” (Mason, 1891, pp. 142 and 207, respectively).</p>
+    
+<p>It is from this beginning under George Washington that the veto evolved within each subsequent President’s arsenal.  The Declaration of Independence had protested, among other things, that the King had “refused his Assent to Laws, the most wholesome and necessary for the common good” (Nelson, 1989, p. 2).  The residual fear of revisiting such British administrative behavior during colonial times,<ref n="7" target="n07"></ref>  that had struck down almost 400 colonial laws between 1696 and 1765, was mitigated somewhat by a growing interest in the application of the gubernatorial veto process as defined under two different models in the state constitutions of Massachusetts and New York.  Balancing all these concerns led to the incorporation during the Constitutional Convention of veto capabilities within the new role set for the country’s President, but this path was traversed only after much debate.  The delegates settled upon implementing the Massachusetts model in which the President exercised veto power alone, instead of in combination with the judiciary as proposed in the New York version.  Further, the projected regular veto was a qualified one that allowed for, through strict rules, later Congressional intercession, and was not therefore an absolute power as held by British monarchs.  The new, “pocket” veto process, however, maintained the absolute advantage of old (Goldsmith, 1974, p. 329; Watson, 1987).  This modern approach to the deployment of the will of the Roman tribunes &#8212; in their own words, to <emph>forbid</emph> a proposal<ref n="8" target="n08"></ref> &#8212; carried much weight and led to many controversies, especially as political rationales emerged following the Civil War that were based upon expediency rather than upon an understanding of the Constitution.</p>
+    
+<p>Mason (1891, pp. 126-127) identified only seven Presidents during more than two centuries of American politics who chose not to affect a veto: John Adams, Thomas Jefferson, John Quincy Adams, Martin Van Buren, William Henry Harrison, Zachary Taylor, and James Garfield.  He concluded that this inactivity was due to Congresses that were by their political nature in strong agreement with these first four Presidents, and to the brief administrations of the remaining three, who died while in office.  However, a more recent compilation of this executive behavior has identified one veto performed by Van Buren and modified this brief list with the addition of Millard Fillmore; such corrections do not, however, diminish the basic grounds of Mason’s conclusions (<title><title>Presidential Vetoes, 1789-1988</title></title>, 1992).<ref n="9" target="n09"></ref>   The research applied to the development of this collation also led to a marked increase in the overall total number of vetoes linked to Presidents through the end of the first Cleveland administration in 1889.  Mason had noted 433 determinations over this period, but the Office of the Secretary of the Senate located 621 such transactions.  Thus, the replacement of Van Buren by Fillmore is lost to a certain extent in the flood of these “new” veto data.  In addition, Mason might have missed Van Buren’s sole veto for a justifiable reason.  <title><title>Presidential Vetoes, 1789-1988</title></title> observed that “[t]he Presidential message dated March 5, 1839 was never sent to Congress, but deposited in the Department of State on March 11, 1839” (p. 13).<ref n="10" target="n10"></ref></p>
+
+<p><title><title>Presidential Vetoes, 1789-1988</title></title> was developed for the use of the Office of the Secretary of the Senate by the Senate Library as “a comprehensive listing of the Presidential vetoes of legislation enacted by the Congress from the First through the One Hundredth Congresses, 1789-1988” (1992, p. iii).  The Preface remarked that “[t]his publication has been issued in several earlier editions, the first of which appeared in 1935.  The 1992 edition represents a revision and updating of the most recent supplement which was published in 1985, and supersedes all previous editions” (p. v).  The eighty-five page Index spells out an almost bewildering array of consequences under which the President felt compelled to issue his veto, ranging from a pocket veto to defer an attempt to remove a charge of desertion from the military record of one Jonas Albert (p. 191), to deflecting efforts to reduce duties on wool and manufactures of wool (pp. 208 and 210).  An additional manual was furnished in 1992, and then again in 1994, in 1997, and in 2001 (see the <title>Presidential Vetoes</title> sequence in the References below) that together brought the collation up to the twenty-first century.</p>
+    
+<p>The development of such Senate reference resources has been paralleled by reports created specifically for Congressional education.  Beginning in 1914 and through legislation “to enable the Librarian of Congress to employ competent persons to prepare such indexes, digests, and compilations of law as may be required by Congress” (38 <title><title>Stat.</title></title> 454, 463), the Legislative Reference Service grew to become in 1970 the current Congressional Research Service.  The subject of vetoes is just one topic of interest to Congressional members addressed by the Congressional Research Service, and their recent series has included updates regarding aspects of Presidential vetoes (Galemore, 2000a); Congressional procedures applied under these conditions (Galemore, 2000b); overrides of such Presidential decisions (Galemore, 2000c; Rybicki, 2007); overviews of pocket vetoes (Fisher, 2001) and of both regular and pocket examples (Koser, 2008); and of House procedures for private bills (Beth, 2004).</p>
+    
+<p>Collectively, these materials illuminate the universe of forty-one men who served as President forty-two times between the years of 1789 and 2000.  Their veto count for all federal issues reached beyond 2,500 by the end of William J. Clinton’s years in office (<title><title>Presidential Vetoes, 1789-1988</title></title>, 1992 and <title>Presidential Vetoes, 1989-2000</title>, 2001).  Even though seven early Chief Executives failed to deliver one such conclusion during their terms, Grover Cleveland (as the sole two-time President) performed 584 vetoes consisting of 346 regular and 238 pocket examples, while Franklin D. Roosevelt responded with 372 regular and 263 pocket varieties for a total of 635 vetoes.  Thus, fully 47% of all federal vetoes through the year 2000 were due to these two men (<title>Presidential Vetoes, 1789-2000</title>, 2001, p. ix).</p>
+    
+<p>Note, however, that even the exact total number of events is contested.  A footnote to the same cumulative table in <title>Presidential Vetoes</title> observed that “[t]he total number of vetoes tabulated is 2,550.  This figure does not correspond to the total number of vetoes in the text (which is 2,551), because a pocket veto of President Grant is uncounted in this table on the grounds that the bill was not placed before him for his signature” (2001, p. ix).<ref n="11" target="n11"></ref>   In this presentation, the ordinal identifiers used were derived from that full 2,551 array, and the total pocket veto count among the following statistics has been increased by one for Grant’s pseudo-pocket veto, even though that specific transaction did not concern Indian Affairs.  Thus, these Presidents generated 1,484 regular and 1,067 pocket vetoes.</p>
+</div2>
+<div2>
+<head>Vetoes and the realm of Indian affairs</head>
+<p>As noted in his memoirs, Hoover reiterated that Indian Affairs have been an ever-present component of Presidential responsibilities since the beginning of the United States.  Indeed, each President between George Washington and Ulysses S. Grant &#8212; save for William H. Harrison and for Zachary Taylor, who both died while in office &#8212; proclaimed at least one treaty formed with American Indians (Bernholz, 2002), so Hoover’s conclusion was well substantiated.  As President, he struggled with memories of his youth on the Osage reservation in Indian Territory and then later on in the Pacific Northwest, and endured the less-than-smooth transition in America from the outdated 19th century perspectives on Indians to the changes demanded in the new century that centered upon assimilation (Britten, 1999).  These perceptions led Britten to observe that “Hoover’s childhood experiences provide important clues that help explain the nature and direction of federal Indian policy during his presidency” (p. 522).  Clearly, the other Presidents, in one way or another, had their own forms of exposure to the indigenous peoples of America, and to their histories and difficulties.  It is particularly poignant that the founding fathers of this nation may have used the Iroquois’s Great Law of Peace as a model for our Constitution, and took from that standard the concept of the veto (Grinde, 1977; Miller, 1993).</p> 
+    
+<p>At a rate of less than 5% of the total number of 2,251 transactions, the effect of the 114 such vetoes focusing specifically upon American Indian matters might be easily underestimated.  Yet it was <title>The Okanogan, Methow, San Poeils (or San Poil), Nespelem, Colville, and Lake Indian Tribes or Bands of the State of Washington v. United States</title> proceedings before the United States Court of Claims (1928) that led to a pivotal Supreme Court appearance later referenced as <title>The Pocket Veto Case</title> (1929).  The tribes had brought their case to the Court of Claims, alleging that the original jurisdictional bill gave them authority to do so.<ref n="12" target="n12"></ref>   The Claims Court however found that the bill had been pocket vetoed by Calvin Coolidge (see veto # 1058) during an adjournment, regardless of when that specific interruption occurred during a Congress, and so the tribes’ claims petition was dismissed.  This decision was affirmed the following year before the Supreme Court.  A fundamental cause of these difficulties pivoted upon Congress’s tendency to employ long, inter-sessional adjournments prior to the Twentieth Amendment in 1933 that adjusted the federal government’s traditional calendar.  Fisher (2001, p. 3) highlighted the Court’s conclusion that the real issue at hand was that the adjournment impaired the President’s ability to return the bill to Congress “while it is in session and capable of legislative work.”</p>
+    
+<p>These 114 vetoes are the subject of this presentation, and the tables below attach each relevant veto description found in <title><title>Presidential Vetoes, 1789-1988</title></title> (1992) and <title>Presidential Vetoes, 1989-2000</title> (2001) to the cited supporting documents.  These latter materials are located in the <title>Congressional Record</title>, the Senate and House <title>Journals</title>, the <title>Statutes at Large</title>, the <title>United States Congressional Serial Set</title>, and &#8212; for vetoes # 30 and 1061 &#8212; Charles J. Kappler’s <title>Indian Affairs: Laws and Treaties</title> (1904).  The sketches have been supplemented with a “Sources” list to provide bibliographic data on all relevant resources.  The absence, from the individual <title>Presidential Vetoes</title> examples, of any citation to the specific pertinent bill text is a direct Senate admission of what Wilhelm (1999, p. 489) has described as the “elusive” nature of these legislative documents.  In her useful article on navigating such materials, she determined that “[w]hile the <title>Congressional Record</title> is invaluable as the definitive text of floor debate and its “History of Bills and Resolutions” section is an excellent resource for tracking a bill, the <title>Record</title> is inconsistent as the source of bill text,” and that bills evolve during the lawmaking process.  On occasion, the actual bill text was supplied as part of a veto message submitted by a President.  Referring to Calvin Coolidge once more, it is evident from the attendant files that he submitted four regular vetoes, three of which included the text of the original bill in his veto message (see vetoes # 1057, 1063, and 1069), and one &#8212; # 1072 &#8212; that did not.</p>
+</div2>
+<div2>
+<head>Some observations</head>
+<list>
+<item>The <ref target="veto.index.html">Presidents’ table</ref> offers links to the individual vetoes amassed by each of these men; selecting a single President’s name will provide access to all noted responses for that executive.  Highlighted numbers indicate pocket vetoes;</item>
+<item>The <ref target="veto.table.html">cumulative index table</ref> employs the same entries found in the two <title>Presidential Vetoes, 1789-1988</title> (1992) and <title>Presidential Vetoes, 1989-2000</title> (2001) publications under the collective “Native Americans,” and these refer to the corresponding ordinal numbers used to distinguish vetoes.  Several tribes &#8212; the Chippewa, Navajo, Sioux, and Ute, for example &#8212; were the subject of many actions, and so warranted an additional tribal indicator as part of the indexed item.  Consolidation of identical terms has reduced the number of final entries, e.g., the original “Choctaw Tribe, 972, 1106, 1419” (1992, p. 563) and “Choctaw Tribe, 2505” (2001, p. 37) options from the two volumes have been maintained as “Choctaw Tribe, 972, 1106, 1419, 2505;”</item>
+<item>There is an equal number &#8212; 57 &#8212; of regular and pocket vetoes in this Indian Affairs ensemble, a convergence that is absent from the universe of 1,484 regular and 1,067 pocket vetoes imposed between 1789 and 2000 (<title>Presidential Vetoes, 1989-2000</title>, 2001, p. ix);</item>
+<item>Fifty-three of these 57 regular vetoes went unchallenged when returned to Congress by the President;</item>
+<item>Two of the remaining four actions were sustained (# 978 and 2521).  The first referred to a request for relief for subcontractors who supplied labor and materials for the construction of the Corbett Tunnel of the Shoshone irrigation project in Wyoming.  The Senate overrode that veto &#8212; the first such outcome in William Howard Taft’s administration &#8212; but the House subsequently sustained it.  A similar resolution became law in 1912 (see Joint resolution: Appropriating money for the payment of certain claims on account of labor, supplies, materials, and cash furnished in the construction of the Corbett tunnel; 37 <title>Stat.</title> 643).  The second event identifies a Clinton veto of appropriations for the Department of the Interior and related agencies for the fiscal year ending September 30, 1996.  That decision was sustained in the House, but components of the bill appeared in subsequent legislation (see An act making continuing appropriations for the fiscal year 1996, and for other purposes; 109 <title><title>Stat.</title></title> 278 [1995], and An act making appropriations for fiscal year 1996 to make a further downpayment toward a balanced budget, and for other purposes; 110 <title><title>Stat.</title></title> 1321 [1996]);</item>
+<item>The other two measures in this Indian Affairs series of 57 vetoes &#8212; # 158 by Ulysses S. Grant and # 1032 by Woodrow Wilson &#8212; were a pair of those rare occurrences involving vetoes: these vetoes were overridden by Congress.  They are members of a suite of just 106 regular vetoes, out of the 1,484 placed between 1789 and 2000, that were overruled in this manner (<title>Presidential Vetoes, 1989-2000</title>, 2001, p. ix).  The first regarded the sale of reserved lands within Kansas and Nebraska that belonged to the Confederated Otoe and Missouria and the Sac and Fox of the Missouri.  President Grant had initially vetoed this bill, but then promptly requested an opportunity to apply his signature confirming that request.  Congress refused to return it and acted instead as defined by the Constitution.  With this apparent Presidential support for the legislation now available, the Senate easily voted 36 to zero, and the House 120 to 18, to pass the measure, resulting in An act to provide for the sale of a portion of the reservation of the Confederated Otoe and Missouria and the Sac and Foxes of the Missouri Tribes of Indians in the States of Kansas and Nebraska (19 <title><title>Stat.</title></title> 208 [1876]).  This law required the Secretary of the Interior &#8212; after receiving “the consent of the . . . tribes expressed in open council” &#8212; to survey and sell tribal lands, and to place in the Treasury accounts for each group the proceeds of such transactions.  The second override involved a modest adjustment to a previous act that affected drainage projects on the lands of the Five Civilized Tribes in Oklahoma.  The Senate voted 67 to 5, along with a House count of 323 to 18, to create An act amending an act to provide for drainage of Indian allotments of the Five Civilized Tribes (41 <title><title>Stat.</title></title> 1204 [1921]).  Both overrides revealed broad Congressional support, as reflected in the overwhelming positive votes, and in particular in the discussion recorded on the floors of the House and the Senate in the latter instance (60 <title>Congressional Record</title> 3791-3792 and 4222-4223 [1921], respectively);</item>
+ <item>Fourteen vetoes were devoted to bills requesting railroad rights of way, succinctly illustrating the collision between the tribes and manifestations of westward expansion.  Here, the series began with an unchallenged regular veto (# 245) by Grover Cleveland of a bill seeking railroad access through reserved lands in Northern Montana that the President found “would affect so seriously the rights and interests of the Indians occupying the reservation” (Message from the President of the United States, returning Senate Bill 2281, granting to railroads right of way through the Indian reservation in northern Montana, with his objections thereto, 1886, p. 1), a reservation that was established originally in the <title><ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/bla0736.htm">Treaty with the Blackfeet, 1855</ref></title> (Kappler, 1904, pp. 736-740).  The array ended during Cleveland’s second administration, with a pocket veto (# 825) in 1897 of similar proposed access rights in Indian Territory;</item>
+<item>Four other decisions turned on aspects of treaties or agreements (# 30, 830, 1061, and 1259), and, as another indication of economic change within the United States, oil and gas leasing issues emerged as well (# 1057);</item>
+<item>Grover Cleveland and Franklin D. Roosevelt administered 49, or 43%, of these 114 executive responses to Indian Affairs topics, closely approximating their collective overall veto proportion of 47% of all federal vetoes through the year 2000; and</item>
+<item>The vetoes made in response to a number of health care, education, and claims requests may be viewed as gauges of the broad cross-section of Indian Affairs difficulties that the federal government has faced, and to which it then chose in these specific instances to reject.</item>
+</list>
+</div2>
+<div2>
+<head>Conclusions</head>
+ <p>Hoover’s declaration referred to the endless presence of the subject of Indian Affairs within the role of the President of the United States, and this is very much an acknowledgment of the continuation of the American Indian policies that were created at the very beginning of this nation.  There was an abrupt transition from Indian Affairs administered by the British to one serviced by a new federal government, traversed by a path that was blessed &#8212; and cursed &#8212; by the dynamics of political decisions and changes to the underlying approaches employed by these two governments.  Felix S. Cohen (1947, p. 42) pronounced that “[t]he purchase of more than two million square miles of land from the Indian tribes represents what is probably the largest real estate transaction in the history of the world.”  The federal decision to address these negotiations through the implementation of treaties was a commitment that, while offering contract-like instruments to expedite such transfers efficaciously, directly validated the sovereignty of the participating American Indian tribes.  These transactions became the supreme law of the land, on an equal footing with all other federal legislation.  Such a status was confirmed in <ref target="http://www.usconstitution.net/xconst_A6.html"></ref>Article VI, clause 2 of the U.S. Constitution: “This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and <emph>all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land</emph>; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding” (The Constitution of the United States: Analysis and interpretation, 2004, p. 958; emphasis added).</p>
+    
+<p>While not every bill or resolution and subsequent veto presented here made direct reference to an entry in the <title>Statutes at Large</title>, the questions of railroad rights of way through reserved lands, of tribal redress sought through the Court of Claims, of educational needs, of gathering rights, of heath care, and of employment preference arose precisely because of the contents of those treaty documents.  Hoover’s observation that Indian Affairs demanded attention within the weekly scope of a President’s vocation should be understood as a statement of an important <emph>responsibility</emph>.  This demand for consideration did not terminate with his own administration or with the completion of his memoirs.  Hoover was just the eleventh in a series of nineteen Presidents between 1789 and 2000 who chose to veto Congressional proposals that involved Indian Affairs, but there were also the administrations of John F. Kennedy, Lyndon B. Johnson, and Richard M. Nixon that decided not to negate such legislative opportunities.  Whatever the precise basis or outcome of each event, this small collection of 114 brief political statements &#8212; representing less than 5% of the total number of Presidential vetoes over the last two centuries &#8212; provides evidence that may be used to determine whether those nineteen men fulfilled their commitments to those supreme laws of the land and to those indigenous peoples.</p>
+ <milestone unit="crosses"/>
+</div2>
+</div1>
+</body>
+<back>
+<div1>
+<head>References</head>
+<bibl>Abbott, F. F.  (1901).  <title>A History and Description of Roman Political Institutions</title>.  Boston, MA: Ginn &amp; Co.</bibl>
+<bibl>Benton, J. H.  (1888).  <title>The Veto Power in the United States: What is it?</title>  Boston, MA: Addison C. Gethchell.</bibl>
+<bibl>Bernholz, C. D.  (2002).  American Indian treaties and the Presidents: A guide to the treaties proclaimed by each administration.  <title>The Social Studies</title> 93, 218-227.</bibl>
+<bibl>Beth, R. S.  (2004).  Private bills: Procedure in the House.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Britten, T. A.  (1999).  Hoover and the Indians: The case for continuity in federal Indian policy, 1900-1933.  <title>The Historian</title> 61, 518-538.</bibl>
+<bibl>Cohen, F. S. (1947).  Original Indian title.  <title>Minnesota Law Review</title> 32, 28-59.</bibl>
+<bibl>Conkling, A.  (1890).  Abuses of the veto power.  <title>Forum</title> 8, 555-565.</bibl>
+<bibl>Fisher, L.  (2001).  The pocket veto: Its current status.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Galemore, G. L.  (2000a).  Presidential vetoes, 1789-present: A summary overview.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Galemore, G. L.  (2000b).  The Presidential veto and Congressional procedure.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Galemore, G. L.  (2001).  Congressional overrides of Presidential vetoes.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Goldsmith, W. M.  (1974).  <title>The Growth of Presidential Power: A Documented History</title>, vol. 1.  New York: Chelsea House.</bibl>
+<bibl>Gregg, E.  (1980).  <title>Queen Anne</title>.  Boston, MA: Routledge &amp; Kegan Paul.</bibl>
+<bibl>Grinde, D. A.  (1977).  <title>The Iroquois and the Founding of the American Nation</title>.  San Francisco, CA: Indian Historian Press.</bibl>
+<bibl>Harvard Historical Monographs.  (1890).  <title>Science</title> 16, 235.</bibl>
+<bibl>Hoover, H.  (1952).  <title>The Memoirs of Herbert Hoover: The Cabinet and Presidency, 1920-1933</title>.  New York: Macmillan.</bibl>
+<bibl>Indian tribes to present claims to the Court of Claims.  (1926).  Senate.  69th Congress, 1st session.  Senate Report No. 984 (<title>Serial Set</title> 8526).  Washington, DC: Government Printing Office.</bibl>
+<bibl><title>Journal of the House of Representatives of the United States</title>.  (1826).  Washington, DC: Gales and Seaton.</bibl>
+<bibl>Kappler, C. J.  (1904).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  58th Congress, 2nd session.  Senate Document No. 319, part 2 (<title>Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Koser, K. R.  (2008).  Regular vetoes and pocket vetoes: An overview.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Long, J. D. (1887).  The use and abuse of the veto power.  <title>Forum</title> 4, 253-267.</bibl>
+<bibl>Major O. L. Pruden Dead.  (1902).  <title>New York Times</title>, 20 April 1902, 7.</bibl>
+<bibl>Mason, E. C.  (1891).  <title>The Veto Power: Its Origin, Development and Function in the Government of the United States (1789-1889)</title> (2nd ed.).  Boston, MA: Ginn &amp; Co.</bibl>
+<bibl>Message from the President of the United States, returning Senate Bill 2281, granting to railroads right of way through the Indian reservation in northern Montana, with his objections thereto.  (1886).  Senate.  49th Congress, 1st session.  Senate Executive Document No. 204 (<title>Serial Set</title> 2341).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Miller, R. J.  (1993).  American Indian influence on the United States Constitution and its framers.  <title>American Indian Law Review</title> 18, 133-160.</bibl>
+<bibl>Moe, R. C.  (1987).  The founders and their experience with the executive veto.  <title>Presidential Studies Quarterly</title> 17, 413-432.</bibl>
+<bibl>Nelson, M.  (1989).  <title>Historic Documents on the Presidency: 1776-1989</title>.  Washington, DC: Congressional Quarterly.</bibl>
+<bibl>Objections of the President of the United States to an act to reorganize the Army.  (1859).  <title>American State Papers: Military Affairs</title>, vol. 1 (p. 117).  Washington, DC: Gales &amp; Seaton.</bibl>
+<bibl>Pope, J. H.  (1986).  The pocket veto reconsidered.  <title>Iowa Law Review</title> 72, 163–214.</bibl>
+<bibl>Presidential vetoes.  (1886).  <title>Congressional Record</title> 17, 7429.</bibl>
+ <bibl><title><title>Presidential Vetoes, 1789-1988</title></title>.  (1992).  Senate.  Senate Publication 102-12.  Washington, DC: Government Printing Office.  Available at <ref target="http://www.senate.gov/reference/resources/pdf/presvetoes17891988.pdf">http://www.senate.gov/reference/resources/pdf/presvetoes17891988.pdf</ref>.</bibl>
+<bibl><title>Presidential Vetoes, 1989-1991</title>.  (1992).  Senate.  Senate Publication 102-13.  Washington, DC: Government Printing Office.</bibl>
+<bibl><title>Presidential Vetoes, 1989-1994</title>.  (1994).  Senate.  Senate Publication 103-13.  Washington, DC: Government Printing Office.</bibl>
+<bibl><title>Presidential Vetoes, 1989-1996</title>.  (1997).  Senate.  Senate Publication 105-22.  Washington, DC: Government Printing Office.</bibl>
+ <bibl><title>Presidential Vetoes, 1989-2000</title>.  (2001).  Senate.  Senate Publication 107-10.  Washington, DC: Government Printing Office.  Available at <ref target="http://www.senate.gov/reference/resources/pdf/presvetoes.pdf">http://www.senate.gov/reference/resources/pdf/presvetoes.pdf</ref>.</bibl>
+<bibl>Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him.  (1928).  House of Representatives.  70th Congress, 2nd session.  House Document No. 493 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Representation Bill &#8212; 1792.  Opinions of the Secretaries of State, Treasury, and War, and Attorney General, respecting the Representation Bill, negatived by the President of the United States.  (1832).  House of Representatives.  22nd Congress, 1st session.  House Document No. 234 (<title>Serial Set</title> 220).  Washington, DC: Duff Green.</bibl>
+<bibl>Ringelstein, A. C.  (1985).  Presidential vetoes: Motivations and classification.  <title>Congress &amp; The Presidency</title> 12, 43–55.</bibl>
+<bibl>Rybicki, E.  (2007).  Veto override procedure in the House and Senate.  Washington, DC: Congressional Research Service.</bibl>
+<bibl>Spitzer, R. J.  (1988).  <title>The Presidential Veto: Touchstone of the American Presidency</title>.  Albany, NY: State University of New York Press.</bibl>
+<bibl>The Constitution of the United States: Analysis and interpretation.  (2004).  Senate.  108th Congress, 2nd session.  Senate Document No. 108-17 (<title>Serial Set</title> 14866).  Washington, DC: Government Printing Office.</bibl>
+<bibl><title>The Okanogan, Methow, San Poeils (or San Poil), Nespelem, Colville, and Lake Indian Tribes or Bands of the State of Washington v. United States</title>, 66 Ct. Cl. 26 (1928).</bibl>
+<bibl><title>The Oxford English Dictionary</title> (2nd ed.)  (1989).  Oxford: Clarendon Press.</bibl>
+<bibl><title>The Pocket Veto Case</title>, 279 U.S. 655 (1929).</bibl>
+<bibl>Trent, W. P.  (1890).  The veto power.  <title>Political Science Quarterly</title> 5, 695-696.</bibl>
+<bibl>Veto messages of the Presidents of the United States, with the action of Congress thereon.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53 (<title>Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Von Holst, H.  (1881).  <title>The Constitutional and Political History of the United States 1846-1850.  Annexation of Texas-Compromise of 1850</title>, vol. 3.  Chicago, IL: Callaghan.</bibl>
+<bibl>Watson, R. A.  (1987).   Origins and early development of the veto power.  <title>Presidential Studies Quarterly</title> 17, 401–412.</bibl>
+<bibl>Wilhelm, K.  (1999).  Making history: Tracing retrospective U.S. legislative histories.  <title>Journal of Government Information</title> 26, 485-499.</bibl>
+<bibl>Wilson, W.  (1885).  <title>Congressional Government: A Study in American Politics</title>.  Boston, MA: Houghton Mifflin.</bibl>
+<bibl>Wilson, W.  (1891).  Mason’s Veto Power.  <title>Annals of the American Academy of Political and Social Science</title> 1, 694-697.</bibl>
+</div1>
+<milestone unit="crosses"/>
+
+<div1>
+<head>Acknowledgements</head>
+<p>We thank Erin Pedigo and Rhiannon Root, our colleagues at the Center for Digital Research in the Humanities at the University of Nebraska&#8211;Lincoln, and Connor Mullin for their assistance during this project.</p>
+<milestone unit="crosses"/>
+</div1>
+
+<div1>
+<head>Notes</head>
+<note xml:id="f01">
+*Phone: 402-472-4473<lb/>
+Fax: 402-472-5181<lb/>
+E-mail: cbernholz2@unl.edu</note>
+ 
+<note xml:id="f02">**Phone: 402-472-4547<lb/> 
+Fax: 402-472-5181<lb/>
+E-mail: etcenter@unl.edu</note>
+ 
+<note xml:id="n01">1. Mason (1891, p. 142) recorded the sequence of House and Senate Journal entries for these two vetoes.</note>
+<note xml:id="n02">2. This was An act for the apportionment of Representatives among the several States according to the first enumeration (<title>Journal of the House of Representatives of the United States</title>, 1826, vol. 1, p. 565).  Washington’s veto message is located on pp. 563-564, stressing constitutional issues (Spitzer, 1988, p. 28).  The discussion among Washington’s colleagues was referenced again in the 1830s, requested by then Representative from Tennessee, James Polk (Representation Bill – 1792.  Opinions of the Secretaries of State, Treasury, and War, and Attorney General, respecting the Representation Bill, negatived by the President of the United States, 1832).  Note the use of the term “negatived,” a residual perception adhering to this power from the days of the British Board of Trade and Plantations; see Moe (1987).</note>
+<note xml:id="n03">3.  The President’s veto message rejecting An act to alter and amend an act entitled, “An act to ascertain and fix the military establishment of the United States” may be found in the House <title>Journal</title> (1826, vol. 2, pp. 726-727), as well as in the first volume of Military Affairs of the <title>American State Papers</title> (Objections of the President of the United States to an act to reorganize the Army, 1859, p. 117).  The text of the resolution appears on p. 728, while the original act is available at 1 <title>Stat.</title> 483.  In this instance, Washington’s concern for military preparedness drove him to reject a provision that would have reduced the army’s size.  Congress revised and passed a new bill that excluded that troop reduction and Washington signed it into law (1 <title>Stat.</title> 507) (Spitzer, 1988, pp. 28-29).</note>
+<note xml:id="n04">4.  Wilson, as a Fellow in History at Johns Hopkins University, had already remarked on this tool  in his <title>Congressional Government: A Study in American Politics</title> (1885, p. 52): “For in the exercise of his power of veto, which is of course, beyond all comparison, his most formidable prerogative, the President acts not as an executive but as a third branch of the legislature.”  Ringelstein followed up on this declaration and concluded that (1985, pp. 52-53) “[a]mong all presidents, the relative number of vetoes in the area of foreign policy is low, and conversely, higher in domestic areas.  This finding reinforces the notion of Congress and the President contesting for dominance in domestic policy while, excepting a few high profile foreign policy disputes, finding ways to cooperate in international affairs,” and that ultimately, “the categories of and reasons for presidential vetoes are remarkably similar from president to president.”</note>
+<note xml:id="n05">5.  The Senate resolution for this publication may be found in Presidential vetoes (1886).</note>
+<note xml:id="n06">6.  Excluding the inaugural dates for those presidents taking office after the death of the previous president and for George Washington’s initial administration, March 4 was the inaugural date until the adoption of the <ref target="http://www.usconstitution.net/xconst_Am20.html">Twentieth Amendment</ref> in 1933.  Section 1 states: “The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.”  See the “Commencement of the terms of officials” section in The Constitution of the United States: Analysis and interpretation (2004, pp. 2087-2090) for the complete text.</note>
+<note xml:id="n07">7.  The last time a British monarch made use of the veto was in March 1708 when Queen Anne responded to An act for settling the militia of that part of Great Britain called Scotland.  Gregg (1980 p. 144) proposed that the disappearance of the implementation of the monarchial veto was due to “the growing success of the queen’s ministers in controlling the Parliament,” demonstrating in part that the development of interaction between the Crown and Members expedited legislative achievement. </note>
+<note xml:id="n08">8.  See volume 19 of <title>The Oxford English Dictionary</title> (1989, pp. 583-584).  Abbott (1901, p. 135) stated that Julius Caesar was given tribunal power in 48 BC, which “enabled him to interpose a veto and to convoke the plebeian assembly, and made his person inviolable.”</note>
+<note xml:id="n09">9.  While Van Buren is absent from Mason’s enumerated veto list, Fillmore is as well.  Mason (p. 127) further remarked that “[i]t was almost certain that President Taylor would have vetoed the compromise of 1850 had he lived.”  He cited the work of Hermann von Holst to substantiate this claim.  Von Holst described Taylor’s reluctance to support the Compromise of 1850 by conveying that Taylor was approached by Representatives Charles Magill Conrad (LA), Humphrey Marshall (KY), and Robert Augustus Toombs (GA) the week before he died, who collectively “informed him [i.e., Taylor] that the Southern Whigs would be forced to abjure their allegiance to him unless he would assume a more well disposed attitude towards Texas, and would give up recommending the immediate admission of New Mexico as a state.  He roundly refused to make even the slightest concession on either of the points…” (1881, p. 541).  Goldsmith (1974, pp. 329-330) listed all eight men, including Van Buren as well as Fillmore, as Presidents who did not administer a veto.</note>
+<note xml:id="n10">10.  The text of Van Buren’s pocket veto message is available in a later House study (Report on pocket veto, 1928, p. 7) that was prepared during the preparations of the 1929 <title>Pocket Veto</title> case before the Supreme Court (279 U.S. 655).</note>
+<note xml:id="n11">11.  See Report on pocket veto (1928, p. 24) for a notation to this effect by Major Octavius L. Pruden, an assistant secretary at the White House.  Pruden’s obituary in the <title>New York Times</title> enumerates his many deeds in Washington (Major O. L. Pruden Dead, 1902).</note>
+<note xml:id="n12">12.  See Indian tribes to present claims to the Court of Claims (1926).</note>
+
+        
+</div1>
+</back>
+</text>
+</TEI>

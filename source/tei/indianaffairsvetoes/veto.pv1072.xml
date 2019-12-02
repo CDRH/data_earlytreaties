@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1072">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1072	H.R. 167 (Seventieth Congress, First Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1072</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1072	H.R. 167 (Seventieth Congress, First Session &#8212; Coolidge)</head>
+
+<p>To amend the act of February 12, 1925 (Public Law No. 402, 68th Cong.), so as to permit the Cowlitz Tribe of Indians to file suit in the Court of Claims under said act.</p>
+
+<p>Vetoed May 18, 1928.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 319 (69 <title>Cong. Rec.</title> 9233).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 232.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1072.01.pdf"><title>Congressional Record</title> 69, 9233</ref> (1928).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1928	CONGRESSIONAL RECORD HOUSE	9233 </fw>
+<p>sleepless nights than all else if I did not feel that it would not be fair for my entire record here to be misunderstood because of a wrong impression of me.</p>
+<p>It is being urged that I should not be given full credit for my services here and am not entitled to future confidence of my people, because I have not been able since I came to Congress to pay all I owed when I was first elected. Let me frankly confess I still owe part of what I owed 10 years ago. I have paid court cost, attorneys' fees, interest, taxes, and loan commissions and cut the principal down to less than one-fifth of the original amount. In spite of more hospital and doctor bills than ever in all my life before, and thousands of dollars spent keeping my wife and three children in the West for the last three years on account of my sun's illness, I have averaged paying about half my salary on my debts every month. Many Congressmen say they can not live on their salary. My family and I get along on one-half of mine, and I pay the other half to my creditors. I have not owned an automobile since I came here. I do not intend to spend money I can possibly avoid while I am owing money that is justly due and unpaid.</p>
+<p>I have always arranged for all rents of properties in which I am interested to be collected by some agent and go directly to those holding liens against the property. Four or five hundred dollars per month is now going on my debts, and if God gives- me life and strength, I hope to get out in less than three years more. I have not paid out since I came to Congress simply because I have not had time with my present income. Before I was first elected I lost some money on corporate stocks and built an office building costing $32,000 of borrowed money. That building alone has cost me over $15,000 out of my salary since I came to Congress. I have never received one Cent net out of it. I hope, though, in the near future to get it where it will pay me a profit each month. Even though it has been a burden to me, this building has yielded to my city, county, and State over $10,000 in taxes since it was built.</p>
+<p>A large part of what I now owe is practically unsecured, but I hope to pay every dollar of it, nevertheless. I have paid all my indebtedness over and over in embarrassment and remorse of conscience, but I want to see the happy day when once again I can know that I do not owe a dollar that is past due and unpaid. My people trusted me and elected me when I owed five times what I now owe. I have done my best to prove worthy of that trust in service and in a serious effort to pay what I owe. I have had no income except my salary and a small amount in rents. I could have gone into bankruptcy, but that would not have paid what I owe. I am struggling to, pay out, and feel I should not be condemned for not being quite out yet.</p>
+<p>Some have criticized me for buying a home and a little other property here. When I came here I was determined not to buy anything, as I already owed too much. I soon found though that it would cost me much more to rent than it would to buy with a small cash payment and monthly installments. In fact, I gave up an undesirable apartment at $145 a month, paid $500 cash on a house and began to pay $125 a month installment. I rented the upstairs at $65, so I was actually saving $80 a month by buying and getting a little paid on a piece of property. That piece of property is still paying for itself. In brief, the property I bought here is paying for itself, and I have been able to pay more on my debts down in Georgia than I could have paid if I had kept on paying big rents rather than buying.</p>
+<p>I heard the other day that some one said I owned some property in California. That is good news to me. I did not know of my good fortune. Honestly, I do not own any land anywhere. I am trying to pay for some. I never at any time bought any land anywhere except down home and here.</p>
+<p>I apologize again for this diversion. I felt I owed it to my people to advise them of the facts.</p>
+<p>Mr. Speaker, I feel that my hardships in life have not disqualified me to represent my people. In my heart I know that I owe everything I am or ever hope to be to the common people, of my district. I can never repay them. No man who has not lived with them and suffered with them knows the agonies of mind and body that they have endured. No man who is not in fullest accord with my people can truly represent them. On every hand, every hour, I am reminded of the unfair economic systems and discriminatory laws which deprive the people of my section of a just return for their efforts. I know how these systems and laws enslave them and their children, and still I remember my people's fortitude, patience, and patriotism.</p>
+<p>It is my humble prayer as their Representative and as one who is in sympathy with their every heart throb that, they having endured all and suffered all, receive all that is justly theirs.</p>
+<signed>EDMUND F. HUBBARD</signed>
+<p>The SPEAKER laid before the House a message from the President of the United States, which was read, as follows: </p>
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>H. R. 10139, entitled "An act for the relief of Edmund F. Hubbard," is hereby returned without my approval. Attached hereto is a letter from the Secretary of War giving reasons why the bill ought not to become a law. If this bill stood alone it might not be of enough importance to warrant adverse action on the part of the President. It is one of a considerable number of bills which have been passed, two of which have already reached inc. These cases for reinstatement involve the review of very careful action which is always taken when men are retired or discharged from the Army, and I can see no reason for passing special bills for relief of this kind.</p>
+<closer><signed>CALVIN COOLIDGE. </signed>
+<dateline>THE WHITE HOUSE, May 18, 1928.</dateline></closer></quote>
+<p>Mr. TILSON. Mr. Speaker, I do not see a member of the Military Committee here, and I move that the message be referred to the Committee on Military Affairs.</p>
+<p>The motion was agreed to.</p>
+<p>The objections of the President were ordered to be spread upon the Journal.</p>
+<head>
+GEORGE R. ARMSTRONG</head>
+<p>The SPEAKER laid before the House another message from the President of the United States, which was read, as follows:</p> 
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>H. R. 4664, entitled "An act for the relief of Capt. George R. Armstrong,&#8212; United States Army, retired," is hereby returned without my approval. Attached hereto is a letter from the Secretary of War setting out reasons why this bill ought not to become a law. If it stood by itself it might not be important enough to warrant a veto. It is a bill, however, of a series which have been passed, two of which have already reached me, and taken in its connection with others of a like nature &#8212; I am unable to give it my approval.</p>
+<closer><signed>CALVIN COOLIDGE, </signed><dateline>THE WHITE HOUSE, May 18, 1928.</dateline></closer>
+<p>Mr. TILSON. Mr. Speaker, I move that the message be referred to the Committee on Military Affairs.</p>
+<p>The motion was agreed to.</p>
+<p>The objections of the President were ordered to be spread upon the Journal.</p>
+<head>COWLITZ TRIBE OF INDIANS</head>
+<p>The SPEAKER laid before the House another message from the President of the United States, which was read, as follows:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning herewith H. R. 167, "An act to amend the act of February 12, 1925 (Public, No. 402, 68th Gong.), so as to permit the Cowlitz Tribe of Indians to file suit in the Court of Claims under said act," without my approval.</p>
+<p>These claims amount to approximately $1,584,800, which represents the value, at $1.25 per acre, of 1,267,840 acres of land in the aboriginal possession of the Indians.</p>
+<p>In returning S. 1480, without my approval, I said:</p>
+<p>These claims arc not based upon any treaty or agreement between the United States and these Indians, nor does it appear to me that they are predicated upon such other grounds as should obligate the Government at this late day to defend a suit of this character. The Government should not be required to adjudicate these claims of ancient origin unless there be such evidence of unmistakable merit in the claims as would create an obligation on the part of the Government to admit them to adjudication. It seems to me that such evidence is lacking.</p>
+<p>The same objections apply to this bill&#8212;H. R. 167. I am compelled, therefore, to withhold my approval of this bill.</p>
+<closer><signed>CALVIN COOLIDGE. </signed>
+<dateline>THE WHITE HOUSE, May 18, 1928.</dateline></closer>
+<p>The objections of the President were ordered to be spread upon the Journal.</p>
+<p>Mr. LEAVITT. Mr. Speaker, I move that the message be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+<p><head>COORDINATION OF PUBLIC-HEALTH ACTIVITIES IN THE GOVERNMENT</head>
+The SPEAKER laid before the House another message from the President of the United States, which was read, as follows: </p>
+<p>To the house of Representatives:</p>
+<p>Herewith is returned without approval H. R. 11026, a bill to provide for the coordination of the public-health activities of the Government, and for other purposes.</p>
+</body></floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1072.02.pdf">	Veto message relating to Cowlitz tribe of Indians.  Message from the President of the United States, transmitting without his approval H.R. 167, "An Act To Amend the Act of February 12, 1925 (Public, No. 402, 68th Cong.), So as To Permit the Cowlitz Tribe of Indians To File Suit in the Court of Claims under Said Act."  (1928)</ref>.  House of Representatives.  70th Congress, 1st session.  House Document No. 319 (<title>Serial Set</title> 8898).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS 1st Session
+HOUSE OF REPRESENTATIVES DOCUMENT	No. 319 </fw>
+<head>VETO MESSAGE RELATING TO COWLITZ TRIBE OF
+INDIANS</head>
+<milestone unit="rule" />
+<head>MESSAGE
+from
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+WITHOUT HIS APPROVAL, H. R. 167, "AN ACT TO AMEND THE ACT
+OF FEBRUARY 12, 1925 (PUBLIC, NO. 402, 68TH CONG.), SO AS
+TO PERMIT THE COWLITZ TRIBE OF INDIANS TO FILE SUIT
+IN THE COURT OF CLAIMS UNDER SAID ACT"</head>
+<milestone unit="rule" />
+<p>MAY 19, 1928.&#8212;Referred to the Committee on Indian Affairs</p>
+<p>MAY 22, 1928.&#8212;Ordered to be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning herewith H. R. 167, "An act to amend the act of February 12, 1925 (Public, No. 402, 68th Cong.), so as to permit the Cowlitz Tribe of Indians to file suit in the Court of Claims under said act," without my approval.</p>
+<p>These claims amount do approximately $1,584,800, which represents the value, at $1.25 per acre, of 1,267,840 acres of land in the aboriginal possession of the Indians.</p>
+<p>In returning S. 1480, without my approval, I said:</p>
+<quote>
+These claims are not based upon any treaty or agreement between the United States and these Indians, nor does it appear to me that they are predicated upon such other grounds as should obligate the Government at this late day to defend a suit of this character. The Government should not be required to adjudicate these claims of ancient origin unless there be such evidence of unmistakable merit in the claims as would create an obligation on the part of the Government to admit them to adjudication. It seems to me that such evidence is lacking.</quote>
+<p>The same objections apply to this bill (H. R. 167). I am compelled, therefore, to withhold my approval of this bill.</p>
+<hi rend="right"><signed>CALVIN COOLIDGE.</signed>
+O
+<dateline>THE WHITE HOUSE,
+May 18, 1928.</dateline></hi>
+
+</body></floatingText> -->
+</div1>
+ 
+</body>
+</text>
+</TEI>

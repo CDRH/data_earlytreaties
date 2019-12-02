@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="lexicon_stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::CDRH//DTD TEI.dtd (Nebraska)//EN" "TEI.dtd" [
+
+]>
+
+
+<TEI.2 id="treaty.tfl.003">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">In the Most Friendly &amp; Conciliatory Manner:
+A Proposed Final Version of the 
+<title>Treaty of Fort Laramie with Sioux, etc., 1851</title>
+</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Karin Dalziel</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital
+Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno/>
+<availability>
+<p><!-- ? (copyright) --></p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-10-27</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+<front>
+<div1>
+<head rend="center">In the Most Friendly &amp; Conciliatory Manner:
+A Proposed Final Version of the 
+<title>Treaty of Fort Laramie with Sioux, etc., 1851</title></head>
+
+
+<milestone unit="crosses"/>
+
+<docAuthor>Charles D. Bernholz, Love Memorial Library, University of
+Nebraska, Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+<docAuthor>Brian L. Pytlik Zillig, Center for Digital Research in the Humanities, Love Memorial Library, University of Nebraska, Lincoln, NE 68588<ref n="**" target="f02"/>
+</docAuthor>
+<p/>
+</div1>
+<milestone unit="crosses"/>
+<div1>
+<head>Abstract</head>
+
+
+<p>The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> was one of the most important contracts formed between the federal government and the Indian tribes of the Great Plains.  It served as more than just a continuation of federal Indian policy, initiated by the Lewis and Clark Expedition at the beginning of the nineteenth century.  Rather, it was an attempt to protect those involved in the ever-increasing American expansion into the West by eliminating intertribal animosities and by setting rigid territorial boundaries for the tribes.  Unfortunately, this document was never published in a correct final state.  A Web site &#8212; <ref n="http://treatyoffortlaramie1851.unl.edu">http://treatyoffortlaramie1851.unl.edu</ref> &#8212; has been created to describe and present a proposed text to fill that void, based on various earlier such federal materials, but especially upon the original 1851 treaty now kept at the National Archives.</p>
+</div1>
+
+<milestone unit="crosses"/>
+
+</front>
+<body>
+<div1>
+<head>In the Most Friendly &amp; Conciliatory Manner:
+A Proposed Final Version of the 
+<title>Treaty of Fort Laramie with Sioux, etc., 1851</title></head>
+
+<milestone unit="crosses"/>
+
+<p>In his letter of instructions to Captain Meriwether Lewis in June 1803, President Thomas Jefferson reminded his Secretary that, in his forthcoming travels into the western areas of the country, Lewis should "[i]n all [his] intercourse with the natives, treat them in the most friendly &amp; conciliatory manner which their own conduct will admit."<ref n="1" target="n01"/>   The Lewis and Clark Expedition (1803-1806) was at that time on the verge of addressing Jefferson's decades-old interest in what might exist beyond the Mississippi River, and of assessing potential commercial endeavors that would help make the new nation stronger.  As he unfurled a litany of directives, Jefferson formed the operational climate for both Lewis and William Clark, particularly for their journey across the Great Plains and for their interactions with the tribes.  Clearly, the President had appointed Lewis as his Secretary in part because of the latter's "knolege of the Western country."<ref n="2" target="n02"/>   The status of the various indigenous groups remained obscure, though, especially when encased in a "mission. . . to explore the Missouri river, &amp; such principal stream of it, as, by it's course and communication with the waters of the Pacific Ocean, whether the Columbia, Oregan, Colorado and any other river may offer the most direct &amp; practicable water communication across this continent <emph>for the purposes of commerce</emph>."<ref n="3" target="n03"/></p>
+ 
+<p>Trade was definitely a major issue in the President's plans.  Moulton, in the introduction to his definitive series on the <title>Journals of the Lewis and Clark Expedition</title>, mentioned the influence of Alexander Mackenzie's extensive trip across Canada to the Pacific.  The latter's suggestions for the development of Canada by the British, and thereby the concomitant acquisition of furs and the vision of substantial commercial possibilities with Asia, expressed similar concerns that Jefferson had formed over the previous twenty years.  Appropriate contact with the western tribes was therefore imperative, since an expected effect of these interactions was to tie these peoples to American, and thus weaken their link with British, suppliers of goods.<ref n="4" target="n04"/>   One goal of such an effort would be tribal unification under a coordinated policy, proposed by Jefferson to Congress in 1803 to include "conferences with the natives on the subject of commercial intercourse, [to] get admission among them for our traders as others are admitted, [and to] agree on convenient deposits for an interchange of articles."<ref n="5" target="n05"/>   In Moulton's words, "[t]he captains were to open a highway for the American fur trade,"<ref n="6" target="n06"/>  and that specific term &#8212; expressed in <title>The Oxford English Dictionary</title> as "a course of conduct leading directly to some end or result"<ref n="7" target="n07"/>  &#8212; was very apropos to Jefferson's perspective, forethought, and estimated outcome of such an endeavor.</p>
+
+<p>Thus, in an early yet inadequate cost estimate of such an enterprise, Lewis proposed a $2,500 inventory of required supplies, including $696 for "Indian presents" to make the best possible impression.<ref n="8" target="n08"/>   A later, better-rounded compilation itemized these gifts, along with identifying blue glass beads that were understood to be "far more valued than the white beads of the same manufacture" and which tackled "all the purposes of money, being counted by the fathom."<ref n="9" target="n09"/>   In the field, the Corps learned quickly that they were facing able Indian businessmen, and this realization affected the tactics, as well as the prices, of subsequent commerce with them, reflected most fully later in the exploits of "mountain men" who flooded into western regions.<ref n="10" target="n10"/>   Indeed, John Colter was one of these individuals who, as a private in the Expedition, had requested and was granted early discharge so that he could depart on a venture with two experienced fur trappers instead of returning in 1806 to St. Louis with the rest of the Corps.<ref n="11" target="n11"/>   His personal observations were typical examples of those uniquely made by such adventurers,<ref n="12" target="n12"/>  yet these activities clearly demonstrated the distinct commercial advantage derived from the Expedition and from the evolution of parallel business interests.<ref n="13" target="n13"/>   The proposal to explore the west was a resounding success and by promptly stepping into a trading career, Colter, Clark, and many of their colleagues did nothing less than validate those prospects afforded by their journey.<ref n="14" target="n14"/></p> 
+
+<div2>
+<head>Treaty making with American Indians</head>
+
+<p>The history of North America, before and after Independence, is saturated with exchanges involving its indigenous peoples, and the Doctrine of Discovery, applicable to exploration long before Lewis and Clark set out, was considered the legal foundation of exploring, and thereby taking possession of, the lands and the occupants of the New World.<ref n="15" target="n15"/>   The British, during their period of control, had administered Indian affairs in a way that caused seven treaties to be concluded with American tribes, contracts that are still recognized today by the federal government.  These associations were founded upon discussions, frequently occurring over many days, which viewed shared friendship and trust as those platforms most appropriate to developing better relationships.<ref n="16" target="n16"/>   Later, American officials leaned towards a more formal approach, with contract-like documents reflecting this orientation.  These instruments certainly expressed the developing needs of a young nation searching for a more certain future, but these materials were adjusted following the departure of the British after the War of 1812 to present a more self-focused and dismissive perspective to Indian dealings.  As the nineteenth century unfolded, appetites grew for more land and for the removal of tribes, especially as Manifest Destiny became in the 1840s a major driving force and psychological canon for western expansion.<ref n="17" target="n17"/>   The evolution of this national agenda was coupled with the very aggressive actions taken by Jefferson subsequent to the Louisiana Purchase, and with the immediate consequence of the development of a removal policy as a means to reshuffle the tribes.<ref n="18" target="n18"/></p>
+
+<p>However, within that evolving political environment, no formal treaties were developed during the Lewis and Clark mission, even though successful negotiations regarding amity and exchange had been accomplished.  The term <term>treaty</term> does not appear as an independent entry in Moulton's <title>Comprehensive Index</title> for the <title>Journals</title>,<ref n="19" target="n19"/>  but it does emerge two dozen times in the text.  In general, the word was employed to describe meetings, as in the phrases "come to a treaty," "have a treaty," "hold a treaty," and "on their way to a treaty."  Clark, in just two places, employed treaty as a document descriptor.  First, in December 1803, he reported that "Several Deleaways pass, a chief whome I saw at Greenville Treaty,"<ref n="20" target="n20"/>  i.e., at the <title>Treaty with the Wyandot, etc., 1795</title>.<ref n="21" target="n21"/>   The second occurrence appeared in a collection of writings created in the winter of 1804-1805, when Clark remarked that "I have never herd of any Treaty haveing been entered into betwen Spain and the Indian for a boundery or Lands."<ref n="22" target="n22"/>   Thus, the noun was used more frequently in the <title>Journals</title> to identify joint communications, rather than to convey strict diplomatic byproducts that emerged during the period.<ref n="23" target="n23"/></p>
+
+<p>In many situations prior to the nineteenth century, negotiations had been expedited by similar "Indian presents" and by the granting of annuities.<ref n="24" target="n24"/>   Care was always taken to secure cooperation, as demonstrated in the <title>Treaty with the Delawares, 1778</title>.<ref n="25" target="n25"/>   This instrument &#8212; the first entry in a compilation of recognized Indian treaties authorized by the Senate at the turn of the twentieth century &#8212; specified in Article 2 that "a perpetual peace and friendship shall from henceforth take place, and subsist between the contracting parties aforesaid, through all succeeding generations."<ref n="26" target="n26"/>   Annuities appeared quickly as well: Article 4 of the <title>Treaty with the Cherokee, 1791</title> stated that "the said United States will also cause the sum of one thousand dollars to be paid annually to the said Cherokee nation," an amount which was modified, seven months later in Philadelphia, to a "mutually agreed" amount of $1500.<ref n="27" target="n27"/>   The model then, of bearing adequate gifts in whatever form, had been well established before Lewis and Clark departed in August 1803.  Later, Clark served as a Commissioner during the negotiations of several formal treaties within his role as the first Indian Superintendent in St. Louis between 1822 and 1828.<ref n="28" target="n28"/>   Among the tribes he administered were the Cheyenne, Arapaho, Crow, Assiniboine, Gros Ventre, Mandan, and Arikara, until their transfer to the Upper Missouri Agency.<ref n="29" target="n29"/></p>  
+</div2>
+
+<div2>
+<head>The <title>Treaty of Fort Laramie with Sioux, etc, 1851</title></head>
+
+<p>By concluding the <title>Treaty with the Sioux, etc., 1825</title>,<ref n="30" target="n30"/>  Commissioner Clark solidified a relationship with the Sioux that had been initiated during the War of 1812.  Part of this groundwork was to neutralize the animosity among the participating tribes, a goal that had been a fundamental component of the overall Lewis and Clark mandate with those groups.<ref n="31" target="n31"/>   In particular, Article 1 of that document declared "[t]here shall be a firm and perpetual peace between the Sioux and the Chippewa; between the Sioux and the confederated tribes of Sacs and Foxes; and between the Ioways and the Sioux."<ref n="32" target="n32"/>   In this event, the universe that had faced the earlier Expedition was revisited.  It freshly signaled the contemporary power of the Sioux, the only tribe for which Jefferson had given specific orders to Lewis regarding his duties: "Although you will pass through no settlements of the Sioux (except seceders) yet you will probably meet with parties of them.  On that nation we wish most particularly to make a friendly impression, because of their immense power, and because we learn they are very desirous of being on the most friendly terms with us."<ref n="33" target="n33"/></p>
+
+<p>Twenty-five years later, the expansion into the western and particularly into the northwestern portions of the country had intensified.  Gold had propelled many to California, but with a diminution in gold fever, settlers began travelling in greater numbers to the Pacific Northwest.  The Oregon Trail, reconnoitered in 1812 by fur traders returning to St. Louis from there,<ref n="34" target="n34"/>  snaked its way right through the Fort Laramie settlement in today's eastern Wyoming.<ref n="35" target="n35"/>   The regional tribes suffered as resources dwindled under the increased traffic, and so collisions occurred with these groups along the route, sometimes when travelers misunderstood trade-seeking attempts by Indians.<ref n="36" target="n36"/></p> 
+
+<p>Within this scenario of ever diminishing natural assets, the need for a coordinated treaty became increasingly clear to the federal government, especially for defusing the conflicts among some of the tribes themselves.  To address some of these difficulties, the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (henceforth <title>Fort Laramie</title>)<ref n="37" target="n37"/>  took place in what is today western Nebraska in September of that year, at a site moved not far from the Fort to provide better pasturage.  This transaction too was concerned with peace, now among every one of those entities with whom William Clark had dealt in the mid-1820s, and Article 1 began with the same refrain: "The aforesaid nations, parties to this treaty, having assembled for the purpose of establishing and confirming peaceful relations amongst themselves, do hereby covenant and agree to abstain in future from all hostilities whatever against each other, to maintain good faith and friendship in all their mutual intercourse, and to make an effective and lasting peace."<ref n="38" target="n38"/>   The objective must have been perceived as quite a challenge, for the Commissioner of Indian Affairs, Luke Lea, remarked in his Annual Report to the President in late 1851 that preparations had led to "the grand council recently held at Fort Laramie <emph>with the wild tribes of the prairies</emph>."<ref n="39" target="n39"/></p>
+
+<p>Unfortunately, and due in part to carelessness at the Department of the Interior, the complete text of this matter was never published in the <title>Statutes at Large</title>, as is appropriate for such laws of the land.   From a legal perspective, this instrument was only recognized as valid at the very start of the twentieth century, following the outcomes of two Indian depredation cases before the United States Court of Claims in 1897 and 1910, M<title>oore v. United States</title>, and <title>Roy v. United States and the Ogallala Tribe of Sioux Indians</title>. <ref n="40" target="n40"/>  Even though the pertinent Statutes volume had been printed in 1859, it had enclosed only a treaty stub &#8212; at 11 <title>Stat.</title> 749 &#8212; that stated "This treaty was concluded September 17, 1851.  When it was before the Senate for ratification, certain amendments were made which require the assent of the Tribes, parties to it, before it can be considered a complete instrument.  This assent of all the Tribes has not been obtained, and, consequently, although Congress appropriates money for the fulfillment of its stipulations, it is not yet in a proper form for publication.  This note is added for the purpose of making the references from the Public Laws complete, and as an explanation why the Treaty is not published."</p>
+
+<p>At virtually the same moment as these two critical proceedings, Charles J. Kappler, as Clerk for the Senate Committee on Indian Affairs, compiled in 1903 various American Indian treaty materials into a two-volume set entitled <title>Indian Affairs: Laws and Treaties</title> and then republished this the following year with format changes to the second volume,<ref n="41" target="n41"/>  thereby providing Congress with the final versions of these treaty transactions.  In part, this program was undertaken because previous congressionally authorized attempts to consolidate this legislation had been unsuccessful, with abundant textual dissimilarities among these endeavors.  Kappler's focus on the outcome of each negotiated document may be regarded as an unequivocal demonstration that he consulted the <title>Statutes at Large</title> for these instruments.  Nevertheless, given the absence of this specific <title>Fort Laramie</title> instrument from the Statutes, the wording found in Kappler's suite &#8212; no matter how derived &#8212; has served for over a century as the main source for this document.<ref n="42" target="n42"/></p>
+</div2>
+
+<div2>
+<head>The physical characteristics of the 1851 and the 1904 treaty texts</head>
+
+<p>The present analysis revolved around the original 1851 document concluded with the tribes, and that provided by Kappler in 1904.  A comparison of these two versions was considered important because of the latter's extensive use during the last century as the primary source for the text of that event.  The instrument is in comparison to other Indian treaties a relatively short presentation consisting of a preamble, eight articles, and a testimonium that preceded the signatures of the participants.  The preamble, at about 100 words, was longer than every article except numbers 5 and 7 and was one indication of the document's tight focus.  Sequentially, the individual articles addressed the issues of peace among the tribes; the right of the federal government to create roads and military posts within the defined areas; a federal promise to protect the tribes from depredations; a pledge by the tribes that they will desist from depredating; the boundary parameters of the respective tribal territories; the acknowledgment by the tribes that chiefs have been appointed to represent them in these and in future negotiations; the amount and duration specifications of annuities for the tribes; and the conditions under which such annuities may be suspended.</p>
+
+<p>Article 5 contained eight paragraphs: an introduction, six land area specifications for the Sioux; the Gros Ventre, Mandan, and Arikara; the Assiniboin; the Blackfoot; the Crow; and the Cheyenne and Arapaho; and a final paragraph reserving the tribes' rights to their existing potential claims to other lands, and for gathering and transit.  The seventh Article was employed to provide for an annuity, the parameters of which were subsequently tailored by the Senate.</p>
+</div2>
+
+<div2>
+<head>Treaty text discrepancies</head>
+
+<p>Text variability is not a novel question with regard to such critical documents, and this is especially the case for <title>Fort Laramie</title>, with its wide range of sources.  Seven essential accounts exist, some as part of federally requested collations:</p>
+<list>
+<item>The original 1851 <title>Fort Laramie</title> treaty that is now held at the National Archives;</item>
+<item><title>Articles of a treaty</title> &#8212; dated February 17, 1852 &#8212; was the Senate Confidential Executive Document that contained the detailed text from <title>Fort Laramie</title>.  It most certainly had to be taken from the manuscript created in the field;<ref n="43" target="n43"/></item> 
+<item><title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> from 1873  was created through an act of Congress (17 <title>Stat.</title> 579) as part of a general request for a consolidation of laws relating to post-roads, for a code regulating military offenses, and for "a revision of all the Indian treaties now in force as law;"</item>
+<item>The 1884 <title>Laws of the United States Relating to Indian Affairs</title> relayed the <title>Fort Laramie</title> text in an appendix that was reserved for "unpublished treaties and agreements;"<ref n="45" target="n45"/>  and</item>
+<item>The three versions of <title>Fort Laramie</title> presented by Kappler in 1903, 1904, and 1929.<ref n="46" target="n46"/></item>
+</list>
+
+<p>The undertaking was made complicated and more confusing in part by the behavior of the Senate which, during their deliberations of the treaty, rejected the original annuity promised in Article 7 that advised that "the United States bind themselves to deliver to the said Indian nations the sum of fifty thousand dollars per annum, for fifty years, in provisions, merchandise, domestic animals and agricultural implements."<ref n="47" target="n47"/>  The instrument was ratified on May 24, 1852, after the original allowance duration was adjusted to a "term of ten years, with the right to continue the same, at the discretion of the President of the United States, for a period not exceeding five years thereafter."<ref n="48" target="n48"/>   Thus, such decisions guaranteed that different instrument versions existed: there were the original 1851 document and the Senate's working version of it, followed by those resulting from the Senate's modification during the ratification process.  However, when the seven assorted federal documents were examined &#8212; including digital images of the original 1851 treaty &#8212; there was no chronological consistency.  Instead, the new annuity passage appeared in the 1873 <title>Compilation</title> rendition; then it disappeared from the 1884 <title>Laws of the United States Relating to Indian Affairs</title> copy; but later it reappeared in the three Kappler presentations from 1903, 1904, and 1929.  As a result, a true final statement of the matter was never published.</p>
+</div2>
+
+<div2>
+
+<head>Creation of a new treaty text</head>
+
+<p>Spelling or technical errors are inherent to such old materials, and <title>Fort Laramie</title> was no exception, regardless of which account was considered.  The initial 1851 wording included the term <term>Superintent</term>, instead of <term>Superintendent</term>, in the first line of the preamble; tribe names were misspelled, sometimes within the same report; words were replaced with alternatives &#8212; e.g., <term>hereinbefore</term> becoming <term>heretofore</term>; or exclusions occurred that generated differences in the boundary specifications of Article 5.  Taken together, these variations demanded attention, and a new corrected text, more strongly based upon the original 1851 accord, was crafted to offer a more accurate rendition of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>.</p>
+
+<p>The style engaged for the proposed text &#8212; available at <ref n="http://treatyoffortlaramie1851.unl.edu">http://treatyoffortlaramie1851.unl.edu</ref> &#8212; attempted to form a document that would have blended with similar instruments that can be found in the <title>Statutes of Large</title>.<ref n="49" target="n49"/>   The full title used by Kappler for <title>Fort Laramie</title> was maintained, since apparently no other official name was fashioned:  the original 1851 handwritten form had no document title; the 1852 Senate copy selected the first three words of the preamble for a main title, i.e., <title>Articles of a treaty</title>; the 1873 <title>Compilation</title> employed <title>Treaty of Fort Laramie</title>; and the 1884 Laws chose <title>Fort Laramie Treaty, September 17, 1851</title>.  Kappler's more tribe-oriented and chronologically clearer title <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>, no matter how unfortunately attenuated by the use of the etc., was selected to gain, rather than to lose, information about the event.  Further, a related transaction, frequently called the <title>Treaty of Fort Laramie</title> as well, occurred in 1868 and revamped the terms of this 1851 pact.<ref n="50" target="n50"/>   Thus, this proposed rendition of <title>Fort Laramie</title> yielded an exaggerated prototype of a <title>Statutes at Large</title> entry that very well might have been published if the Department of the Interior had not errored.  This form then is analogous to those documents that Kappler would have considered under his final text approach for deriving his <title>Indian Affairs</title> volumes, since the updated annuity clause has been added to the text.  The digital presentation format is ideal to expedite access to this critical document and to its record.  Overall, the composite <title>Fort Laramie</title> Web manuscript is just one element in a much more extensive presentation on the treaty itself, on the comparison among the various text versions and the observed discrepancies, and on the processes used to develop this new rendering.  A brief history of treaty making, with special attention to Kappler's work, and a description of the previous endeavors to publish <title>Fort Laramie</title> are described at the site as well, accompanied by a special table that offers the vocabulary of all eight examples &#8212; from the original 1851 material through this new proposed one &#8212; in a vertically aligned format to facilitate comparison.  The table includes highlighted line numbers that point to the 183 errors found across these analyses, and links are provided for each <title>Fort Laramie</title> edition.</p>
+</div2>
+
+<div2>
+<head>Conclusions</head>
+
+<p>The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> was a major transaction involving nine American Indian tribes and the federal government.  Yet, neither the 1852 copy used by the Senate during the ratification procedure, the 1873 <title>Compilation</title> example, nor any of the three Kappler ones was error-free.  The 1884 <title>Laws</title> text in fact adhered to the original wording and thereby failed to include the allowance alteration imposed by the Senate in 1852, and the original document is now almost inaccessible at the National Archives in its parchment state.  The digital text offered at <ref n="http://treatyoffortlaramie1851.unl.edu">http://treatyoffortlaramie1851.unl.edu</ref> overcomes some of the difficulties adhering to those earlier representations, but more with an eye to maintaining the aura of that unique event in 1851.  As perhaps the last great transaction between American Indian tribes and the federal government before the end of treaty making in 1871, it served not only as a stage for promises made by both sides, but it also echoed in its own way the very climate on the Plains during an important era of settler migration.  Without this contract, there is no doubt that the federal government would have been forced to negotiate an array of others to stitch together a more secure path to the Pacific.  Further, if nothing less, the presence of so many Indians at this meeting &#8212; more than 10,000, according to some estimates<ref n="51" target="n51"/> &#8212; must have driven home to federal officials the worth of mediating peace among all participants.  There were in the future almost two decades of treaty negotiations facing all parties, yet <title>Fort Laramie</title> served as a model of coordinated actions that might alleviate some of the difficulties associated with those dealings.</p>
+
+<p>Such significance deserved a more accurate rendering than the federal ones provided during the last century and a half.  Indeed, this effort is a reflection of the responsibilities adhering to the new world of text analysis, where it is imperative that access is provided to true accounts of such old, critical instruments as <title>Fort Laramie</title>.  This accountability, though, is even more so due to the tribes that signed and gave their assent to this specific transaction, regardless of subsequent disappointments.</p>
+</div2>
+</div1>
+</body>
+
+<milestone unit="crosses"/>
+
+<back>
+<div1>
+    <note id="f01">* Phone: 402-472-4473<lb/> Fax: 402-472-5131<lb/> E-mail: cbernholz2@unl.edu</note>
+    <note id="f02">** Phone: 402-472-4547<lb/> Fax: 402-472-5131<lb/> E-mail: bzillig1@unl.edu</note>
+<note id="n01">Donald Dean Jackson, <title>Letters of the Lewis and Clark Expedition, with Related Documents: 1783-1854</title>, 2nd ed. (Urbana, IL: University of Illinois Press, 1978), 64.</note>
+<note id="n02">Ibid., 2.</note>
+<note id="n03">Ibid., 61, emphasis added.  James P. Ronda (<title>Lewis &amp; Clark Among the Indians</title> [Lincoln, NE: University of Nebraska Press, 1984], 141) reiterated that the Expedition's members were the first Americans to cross the Continental Divide during their exploits.</note>
+<note id="n04">Gary E. Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 2, August 30, 1803-August 24, 1804</title> (Lincoln, NE: University of Nebraska Press, 1986), 3.</note>
+<note id="n05">Jackson, <title>Letters of the Lewis and Clark Expedition</title>, 13.</note>
+<note id="n06">Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 2</title>, 5.</note>
+<note id="n07"><title>The Oxford English Dictionary</title>, volume 7, 2nd ed. (Oxford: Clarendon Press, 1989), 233.</note>
+<note id="n08">Jackson, <title>Letters of the Lewis and Clark Expedition</title>, 8-9.</note>
+<note id="n09">Following the success of the expedition, Jefferson wrote in 1807 to Henry Dearborn, the Secretary of War, passing on Lewis' remarks about "articles in the highest value" to the tribes in the west.  These relayed comments reiterated that the blue beads were very well-accepted and that Lewis would make sure, if sent out again, that "one half or 2/3 of his stores <emph>in value</emph>, should be of these" (Jackson, <title>Letters of the Lewis and Clark Expedition</title>, 69-75, emphasis original).  As one demonstration of their past success, these beads were distributed on August 13, 1805 at the first critical meeting with the Shoshoni.  Lewis remarked "they seemed much pleased particularly with the blue beads and vermillion" (Gary E. Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 5, July-November 1, 1805</title> [Lincoln, NE: University of Nebraska Press, 1988], 79).  George Gibbs identified the former as <term>tyee kamosuk</term>, chief beads (<title>A Dictionary of the Chinook Jargon, or, Trade Language of Oregon</title> [New York:  Cramoisy Press, 1863], 7).</note>
+<note id="n10">Robert Marshall Utley, <title>After Lewis and Clark: Mountain Men and the Paths to the Pacific</title> (Lincoln, NE: University of Nebraska Press, 1997).</note>
+<note id="n11">Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 2</title>, 515.</note>
+<note id="n12">Burton Harris, <title>John Colter: His Years in the Rockies</title> (New York: Charles Scribner's Sons, 1952), 109-112.</note>
+<note id="n13">David Wishart, "Cultures in co-operation and conflict: Indians in the fur trade on the northern Great Plains, 1807-1840," <title>Journal of Historical Geography</title> 2 (1976): 328.  Wishart has a robust analysis of the fur trade on the northern Plains following the completion of the Lewis and Clark Expedition.  He concluded that "[u]nintentionally, the trader was the harbinger of a settlement process that would eventually result in the dispossession of the Indians' lands and in the shattering of Indian culture."</note>
+<note id="n14">Jay H. Buckley, <title>William Clark: Indian Diplomat</title> (Norman, OK: University of Oklahoma Press, 2008), 80.</note>
+<note id="n15">Robert J. Miller, <title>Native America, Discovered and Conquered: Thomas Jefferson, Lewis and Clark, and Manifest Destiny</title> (Lincoln, NE: University of Nebraska Press, 2008), 110.  It is noteworthy that Alexander Mackenzie, whose writings had stimulated Jefferson to launch the Expedition, later prompted the British government to move quickly into the Pacific Northwest to circumvent occupation &#8212; and therefore ownership &#8212; by the United States.  Mackenzie had kept a sharp eye on the Lewis and Clark results, and in his remarks of March 1808 to Viscount Castlereagh, the Secretary of State for War and the Colonies, he proposed securing the Pacific coast and trade with the Orient.  He further urged that "no time should be lost to put the Plan, if advisable, in Execution; it being evident from the exertions of the American Government, that it is their intention to claim under the right of the Discoveries of Captains Lewis and Clark, who, it is said, have traversed the Country by Land and Water from the Missisipi to the Pacific Ocean exclusive Privileges to the intermediate Country, as well as to the Coast Northward from the Spanish Boundary to the Latitude of 50" (W. Kaye Lamb, <hi rend="italic">The Journals and Letters of Sir Alexander Mackenzie</hi> (Cambridge: Cambridge University Press, 1970), 516-519).</note>
+<note id="n16">See Charles D. Bernholz, Brian L. Pytlik Zillig, Laura K. Weakly, and Zacharia A. Bajaber, "The last few American Indian treaties - An extension of the Charles J. Kappler <title>Indian Affairs: Laws and Treaties</title> Internet site at the Oklahoma State University," <title>Library Collections, Acquisitions, and Technical Services</title> 30 (2006): 47-54 for more on these acknowledged transactions.  Lawrence C. Wroth has an informative article on treaties as a literary genre ("The Indian treaty as literature," <title>Yale Review</title> 17 (1928): 749-766).</note>
+<note id="n17">Reginald Horsman, <title>Race and Manifest Destiny: The Origins of American Racial Anglo-Saxonism</title> (Cambridge, MA: Harvard University Press, 1981); pages 189-207 pertain to American Indians.</note>
+<note id="n18">See Anne H. Abel, "The history of events resulting in Indian consolidation west of the Mississippi," <title>Annual Report of the American Historical Association for the Year 1906</title> (Washington, DC: Government Printing Office, 1908), 241-249.  The preparations for the journey were underway before the Louisiana Purchase was finalized.  Moulton placed Lewis in Philadelphia during the spring of 1803 (<title>The Journals of the Lewis &amp; Clark Expedition, Volume 2</title>, 5).  Jefferson wrote to Lewis in mid-July to announce the Purchase, stating that "[l]ast night also we received the treaty from Paris ceding Louisiana according to the bounds to which France had a right" (Jackson, <title>Letters of the Lewis and Clark Expedition</title>, 109-110).</note>
+<note id="n19">Gary E. Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 13, Comprehensive Index</title> (Lincoln, NE: University of Nebraska Press, 2001).</note>
+<note id="n20">Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 2</title>, 140.</note>
+<note id="n21">U.S. Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 58th Cong., 2nd sess., 1904b, S. Doc. 319, pt. 2, serial 4624, 39-45 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/wya0039.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/wya0039.htm</ref>.</note>
+<note id="n22">Gary E. Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 3, August 25, 1804-April 6, 1805</title> (Lincoln, NE: University of Nebraska Press, 1987), 483.</note>
+<note id="n23">All treaty-making with American Indians concluded on March 3, 1871 (16 <title>Stat.</title> 544, 566), well after the Pacific coast was under development and the site of substantial growth, but this closure was induced more by political squabbling than by the absence of any residual need for tribal interaction.</note>
+<note id="n24">These amounts were substantial.  For the years 1776 through 1819, the Indian Department spent almost $1.1 million on "presents in money" and "presents in goods," including $218,854.80 for the latter in 1776 alone.  In addition, more than $1.2 million was spent on "annuities which became payable in each year."  Taken together, this was 19% of the total expenditure by the Department for these years.  See "Expenditures for the Indian Department since the Declaration of Independence," <title>American State Papers: Indian Affairs, vol. 2</title> (Washington, DC: Gales and Seaton, 1834), 212.</note>
+<note id="n25">Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 3-5 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/del0003.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/del0003.htm</ref>.</note>
+<note id="n26">Ibid., 3.</note>
+<note id="n27">Ibid., 29-32 and 32-33, respectively, and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0029.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/che0029.htm</ref>.  This annuity revision is an early demonstration of the tribes' assertiveness and their business sense to argue for healthier treaty parameters, as well as of their willingness to venture beyond their homelands to consummate such transactions.</note>
+<note id="n28">Buckley, <title>William Clark: Indian Diplomat</title>, 147-148.</note>
+<note id="n29">Edward E. Hill, <title>The Office of Indian Affairs, 1824-1880: Historical Sketches</title> (New York: Clearwater Publishing, 1974), 184-187.</note>
+<note id="n30">Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 250-255 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0250.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0250.htm</ref>.</note>
+<note id="n31">Ronda called the Indian policy of the Expedition "both humane and rational" (<title>Lewis &amp; Clark Among the Indians</title>, 93).</note>
+<note id="n32">Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 250.</note>
+<note id="n33">Jackson, <title>Letters of the Lewis and Clark Expedition</title>, 166.</note>
+<note id="n34">Robert Stuart was a famous member of John Jacob Astor's organization, the American Fur Company.  His name appears in payment schedules in which tribal debt was paid by the federal government as part of a cession transaction.  See the $1,000 transfer to Stuart in Schedule A, and the $17,000 one in Schedule B under the misspelled name "Robert Stewart," of the <title>Treaty with the Chippewa, etc., 1833</title> (Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 402-415 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/chi0402.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/chi0402.htm</ref>).  Stuart also represented the United States as Commissioner for the <title>Treaty with the Chippewa, 1842</title> (Ibid., 542-545 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/chi0542.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/chi0542.htm</ref>), while serving as Superintendent of Indian Affairs in Michigan between 1841 and 1845 (Hill, <title>The Office of Indian Affairs</title>, 94-96).  See Rollins' biographical notes on him (Philip Ashton Rollins, <title>The Discovery of the Oregon Trail: Robert Stuart's Narratives</title> (New York: Charles Scribner's Sons, 1935), xxxv-lxii).  Almost within sight of St. Louis on the journey home in September 1806, William Clark made a journal entry regarding the Robidoux fur traders, passed on their way upriver "to trade with the Panias Mahars and ottoes" (Gary E. Moulton, <title>The Journals of the Lewis &amp; Clark Expedition, Volume 8, June 10-September 26, 1806</title> (Lincoln, NE: University of Nebraska Press, 1993), 362), i.e., with the Pawnee, Omaha, and the Otoe (Douglas R. Parks, "Pawnee," in <title>Handbook of North American Indians, vol. 13, part 1: Plains</title>, ed. W. C. Sturtevant and R. J. DeMallie, 515-547 (Washington, DC: Smithsonian Institution, 2001); Margot P. Liberty, W. Raymond Wood, and Lee Irwin, "Omaha," ibid., 399-415; and Marjorie M. Schweitzer, "Otoe and Missouria," ibid., 447-461.  Their trading post at St. Joseph, Missouri, later became part of the American Fur Company complex.</note>
+<note id="n35">Wilbur L. Schramm, "A New Englander on the road to Oregon," <title>The New England Quarterly</title> 13 (1940): 49-64.</note>
+<note id="n36">David  Dary, <title>The Oregon Trail: An American Saga</title> (New York: Alfred A. Knopf, 2004).</note>
+<note id="n37">Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 594-596 and  <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0594.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0594.htm</ref>.</note>
+<note id="n38">Ibid., 594.</note>
+<note id="n39">U.S. Senate, <title>Message from the President of the United States, to the two Houses of Congress, at the commencement of the first session of the Thirty-second Congress</title>, 32nd Cong., 1st sess., 1851, S. Exec. Doc. 1, pt. 3, serial 613, emphasis added.</note>
+<note id="n40"><title>Moore v. United States</title>, 32 Ct. Cl. 593 (1897) and R<title>oy v. United States and the Ogallala Tribe of Sioux Indians</title>, 45 Ct. Cl. 177 (1910).</note>
+<note id="n41">U.S. Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 1, 57th Cong., 1st sess., 1903a, S. Doc. 452, pt. 1, serial 4253; <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 57th Cong., 1st sess., 1903b, S. Doc. 452, pt. 2, serial 4254; <title>Indian Affairs: Laws and Treaties</title>, vol. 1, 58th Cong., 2nd sess., 1904a, S. Doc. 319, pt. 1, serial 4623; and <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b.</note>
+<note id="n42">Charles D. Bernholz and Robert J. Weiner, "The world of Charles J. Kappler: A digital portrait," <title>Legal Reference Services Quarterly</title> 27 (2008): 377-383.</note>
+<note id="n43">U.S. Senate, <title>Articles of a treaty</title>, 32nd Cong., 1st sess., 1852, S. Conf. Exec. Doc. 11.</note>
+<note id="n44"><title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> (Washington, DC: Government Printing Office, 1873), 1047-1050.</note>
+<note id="n45">L<title>aws of the United States Relating to Indian Affairs: Compiled from the Revised Statutes of the United States enacted June 22, 1874, and from <title>Statutes at Large</title> from that date to March 4, 1883: Also, Special Acts and Resolutions Previous to the Enactment of the Revised Statutes, not Embraced in or Repealed by the Revision: Also, List of all Ratified Treaties and Agreements Made with the Several Indian Tribes</title>, 3rd ed. (Washington, DC: Government Printing Office, 1884), 317-322.</note>
+<note id="n46">Senate, <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1903b, 440-442; <title>Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 594-595; and <title>Indian Affairs: Laws and Treaties</title>, vol. 4, 70th Cong., 1st sess., 1929, S. Doc. 53, serial 8849, 1065-1067.</note>
+<note id="n47">Senate, <title>Articles of a treaty</title>, 3.</note>
+<note id="n48">U.S. Senate, <title>Journal of the Senate of the United States of America, being the first session of the Thirty-second Congress; begun and held in the City of Washington, December 1, 1851, in the seventy-sixth year of the independence of the United States</title>, 32nd Cong., 1st sess., 1852, serial 610.</note>
+<note id="n49">This interpretation of <title>Fort Laramie</title> is one option at the American Indian Treaties Portal (<ref n="http://treatiesportal.unl.edu/">http://treatiesportal.unl.edu/</ref>), created by the Center for Digital Research in the Humanities at the University of Nebraska-Lincoln to expedite access to the texts of American Indian treaties and to other relevant materials.</note>
+<note id="n50">See <title>Treaty with the Sioux &#8212; Brul&#233;, Oglala, Miniconjou, Yanktonai, Hunkpapa, Blackfeet, Cuthead, Two Kettle, Sans Arc, and Santee &#8212; and Arapaho, 1868</title> (<title>Senate, Indian Affairs: Laws and Treaties</title>, vol. 2, 1904b, 998-1007 and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0998.htm">http://digital.library.okstate.edu/kappler/Vol2/treaties/sio0998.htm</ref>).</note>
+<note id="n51">LeRoy R. Hafen and Francis Marion Young, <title>Fort Laramie and the Pageant of the West, 1834-1890</title> (Glendale, CA: Arthur H. Clark, 1938), 183.</note>
+</div1>
+</back>
+</text>
+</TEI.2>

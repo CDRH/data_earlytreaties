@@ -1,0 +1,2021 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2 id="treaty.00001">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author/>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"/>
+<availability><p><!-- ? (copyright) -->
+</p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 1</note>
+<note type="project">
+The Great Treaty of 1722 Between the Five Nations, the Mahicans, and the Colonies of New York, Virginia, and Pennsylvania.</note>
+<note type="source">O'Callaghan, E. B. (Ed.). (1855). <hi rend="italics">Documents Relative to the Colonial History
+of the State of New York, vol. 5</hi>. Albany, NY: Weed, Parsons, and Co.,
+657–681.</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl><monogr>
+<editor>O'Callaghan, E. B. (Ed.)</editor>
+<title level="m" type="main">Documents Relative to the Colonial History of the State of New York,</title>
+<imprint>
+<date value="1855">  (1855).</date>
+<biblScope type="volume"> vol. 5</biblScope>
+<pubPlace>Albany, NY:</pubPlace>
+<publisher>Weed, Parsons, and Co.,</publisher>
+<biblScope>657–681</biblScope>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-12-22</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-13-09</date>
+<respStmt>
+<resp/>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<pb n="657"/>
+<p>
+
+<milestone unit="horbar"/>
+
+
+
+
+<hi rend="center"><hi rend="bold">Conference between Governor Burnet and the Indians.</hi></hi><lb/>
+
+<hi rend="center">[New-York Papers, Cc., 97–101.]</hi><lb/>
+
+Propositions  made  by  His  Excellency  William  Burnet  <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> Captain General &amp; Governor in  Chief  of  the Provinces  of  New  York,  New  Jerseys  &amp;  Territories thereon depending in America &amp; Vice Admiral of the  same  &amp;c  to  the five Nations to wit the Mohogs,  Oneydes  Onondages,  Cayauges  &amp; Sinnekees in Albany 27 day of August 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His  Excellency   William   Burnet <abbr expan="Esquire">Esq<hi rend="super">re</hi></abbr> <abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> General &amp; <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr>   in   Cheif   &amp;c   Of   His   <abbr expan="Matys">Mat<hi rend="super">ys</hi></abbr> Council of <orig reg="ye">y<hi rend="super">e</hi></orig> Province of New York<lb/>
+
+Rip Van Dam<lb/> James Alexander<lb/>  John  Barbary<lb/>  Lewis
+Morris<lb/> Cadwallader Colden<lb/><lb/>
+
+Commissioners of the Indian Affairs<lb/>
+<abbr expan="Col">Col </abbr> <abbr expan="Pr">P<hi rend="super">r</hi></abbr>  Schuijler<lb/>  John  Collins<lb/>
+Johannes Cuyler<lb/> Ph: Livingstone<lb/> <abbr expan="Pr">P<hi rend="super">r</hi></abbr>
+V Brugh<lb/> <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr> Wendel<lb/> Evert Banker<lb/> <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr> Becker<lb/><lb/>
+
+Interpreted by Lawrence Claese being first translated into Dutch by Robert Livingstone<lb/><lb/>
+
+Brethren<lb/>
+
+
+Our last meeting ended with so happy an Agreement &amp; such firm
+assurances and hearty resolutions on both sides,  that  if  they  are
+faithfully <orig reg="observed">observ<hi rend="super">d</hi> </orig> we shall  always  meet  with joyful countenances<lb/><lb/> 
+</p>
+
+<p>
+You then promised me solemnly not to have any correspondence with the
+French, but to depend entirely on the English &amp; cleave  close  to
+them<lb/><lb/>
+</p>
+
+<p>
+That you would keep the Path open for the Farr  Indians  to  come  to
+trade with this Province<lb/><lb/>
+</p>
+
+<p>
+That you would never molest Virginia  nor  any  other  of  the  Kings
+Provinces for the future &amp; that you allowed it  was  in  vain  to
+promise any thing unless you resolve to perform [it]<lb/><lb/>
+</p>
+
+<p>
+I begin therefore by demanding of you a  solemn  assurance  that  you
+will continue firm to what you then engaged, that you will inform  me
+truly of your principal late Transactions &amp;
+
+<pb n="658"/>
+
+designs &amp; advice with me upon them so that  I  may  be  convinced
+that you have an entire confidence  in  me  &amp;  observe  an  exact
+Sincerity in  your  whole  Conduct  towards  me  which  will  be  the
+strongest Tyes of a lasting Friendship between us — Give  a  Belt of Wampum<lb/><lb/>
+</p>
+
+<p>
+I must now particularly thank the Brethren, for their refusing to  go
+out a fighting in Company with some French Indians, who invited  them
+lately to it, this a very promising token of your  good  disposition,
+&amp; makes me hope that you will satisfie me that  the  preparations
+you are making for going out to War are not contrary to your  Promise
+made last year, give a Belt of Wampum<lb/><lb/>
+</p>
+
+<p>
+Because the renewing the Covenant Chain with you in the  name  of  my
+great &amp;  good  Master  <orig reg="ye">y<hi rend="super">e</hi></orig>  King  of  Great Britain &amp; your loving Father in the  behalf  of  all  His  <abbr expan="Matys">Mat<hi rend="super">ys</hi></abbr> Provinces in North America, is the  most  solemn Act which we have together, I think it proper that it  may  be  first
+diligently searched that there may be no spots or  stains  left  upon
+it<lb/><lb/>
+</p>
+
+<p>
+For that Purpose I have first desired the Brethren to let me know how
+clean it has been kept with regard to this Province, and to the  same
+end the Governors of Virginia &amp; Pensilvania are  come  hither  at
+the desire of the Brethren and with the advice and  consent  of  this
+Government to treat of some matters on the behalf of their  Provinces
+that may remove all spotts that may remain on the Covenant Chain with
+Relation to them &amp; as they are one nation and under the same King
+with us I doubt not but  the  Brethren  will  hear  them  with  great
+attention and answer them with that regard which is their  due  &amp;
+when these particular Points are firmly settled, the General Covenant
+Chain will then be made so clean &amp; bright that I  shall  then  be
+able to renew it with the greatest Satisfaction &amp; with  a  Strong
+confidence that it will shine with new Lustre  as  long  as  the  sun
+&amp; moon shall endure<lb/><lb/>
+</p>
+
+<p>
+A  True  Copy,  examined  <lb/>   <abbr expan="Pr">P<hi rend="super">r</hi></abbr>   <abbr expan="Philip"> P<hi rend="smallCaps">H</hi></abbr> <orig reg="Livingston"/> L<hi rend="smallCaps">IVINGSTON</hi>,  <abbr expan="Secretary">Sec<hi rend="super">y</hi></abbr><lb/>
+for the Indian Affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+Answer made by the five Nations of Indians viz. the Maquase, Oneydes,
+Onnondages,   Cayouges   &amp;    Sinnekees    to    His    <orig reg="Excellency">Excell<hi rend="super">cy</hi> </orig>  William  Burnet   <abbr expan="Esquire">Esq<hi rend="super">re</hi></abbr>
+<abbr expan="Captain"> Cap<hi rend="super">n</hi></abbr> General &amp; Governor  in  Cheif  of  the
+Provinces of New York, New Jerseys, and Territories thereon depending
+in America &amp; Viceadmiral  of  <orig reg="ye"><orig reg="ye">y<hi rend="super">e</hi></orig> </orig>  same  in
+Albany   <orig reg="ye">y<hi rend="super">e</hi></orig>    first    day    of    Sept<hi rend="super">r</hi> 1722<lb/><lb/>
+</p>
+
+<p>
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi> </orig>— His         <abbr expan="Excellency">Excell<hi rend="super">cy</hi></abbr>  William  Burnet   <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>
+<abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> <abbr expan="General"> Gen<hi rend="super">l</hi></abbr>  &amp;  <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> in Cheif &amp;c<lb/>
+</p>
+
+<p>  
+Of  His  Majestys  Council<lb/>  Rip  Van  Dam<lb/>   James
+Alexander<lb/>  John  Barbery<lb/>   Coll   Lewis   Morris   <abbr expan="Junior">J<hi rend="super">r</hi></abbr><lb/> <abbr expan="Doctor">D<hi rend="super">r</hi></abbr> Colden<lb/><lb/>
+</p>
+
+<p>
+Commissioners of Indian Affairs<lb/> Peter Van  Brugh<lb/>  Philip
+Livingston<lb/> Johannes  Cuyler<lb/>  <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>
+Wendel<lb/> Evert Banker.<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Lawrence Claese into Dutch &amp; rendred into  English
+by <abbr expan="Robert">Rob<hi rend="super">t</hi></abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You made Propositions to us some days ago, which we are now  some  to
+answer, but since divers of our Sachims are not yet arrived, we shall
+not be able to answer so well as if those
+
+<pb n="659"/>
+
+wise men were present with us and that we had consulted with them  so
+that we hope your <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> will excuse us if we
+answer not so fully &amp; distinctly as otherwise we would if we  had
+their assistance<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You told us that we in our last  conference  about  a  year  ago  had
+renewed the Covenant Chain &amp; was desirous to know  how  the  same
+has been kept by us in respect to this  Province,  it  is  so  lately
+since that was done that the Sun is scarcely gone down since so  that
+the Renovation is fresh in our Memory &amp; we can assure you that we
+have kept the Covenant Chain inviolable on our Parts according to our
+Promise &amp; engage to continue to do the same  faithfully<lb/><lb/>
+
+It is now a year ago since you forbid us to have  any  correspondence
+with the French but to cleave to the English and we did then  promise
+to obey your commands in that matter as we have actually  done  &amp;
+do further promise solemnly that [henceforth] we will not  correspond
+with the French of Canada but adhere &amp;  cleave  strongly  to  the
+English<lb/><lb/>
+
+You told us the same time that we should give a free Passage  to  the
+Far Indians to come to this Place to Trade which we have  done  &amp;
+give them all the encouragement &amp; assistance  that  lays  in  our
+Power, &amp; not only so but sent Agents to  those  Far  Indians  who
+trade with the French to invite them to come here to Albany, but  our
+Agents are not yet returned &amp; as soon as  they  come  back  shall
+give your Excellency an account of their answer<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+We  have  told  you  that   we   have   not   only   permitted   <orig reg="ye">y<hi rend="super">e</hi> </orig> Farr Indians to come through our Country to trade
+in this Town but  sent  our  agents  thither  to  invite  them  &amp;
+required them to tell the Far Indians that  they  should  have  goods
+very cheap. We therefore desire that the Traders may  be  ordered  to
+let the Far Indians have good Penny worths, rather cheaper than we of
+the 5 Nations have it ourselves, which will be the only means to draw
+them and to induce them to come hither<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You did last year likewise charge  &amp;  command  us  not  to  go  a
+fighting towards Virginia, not  to  pass  over  the  great  River  of
+Patawmack, nor the Ridge of High Mountains that surround Virginia  we
+have observed your commands to the best  of  our  knowledge  in  that
+Particular Some of our People have been out  a  Warring  against  the
+Flatheads which of old have been our enemies, but they  live  to  the
+Westward &amp; Southward of Virginia &amp; have not passed the  Ridge
+of the Mountains nor the said River, we remember  you  also  told  us
+then, that it was in vain to make any  promise,  except  we  resolved
+firmly to keep it, which we  have  punctually  done  in  this  affair
+hitherto<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You likewise told us that if any matter of moment happened among  us,
+that we should acquaint you therewith  and  take  your  advice  which
+would be a sure token to show that we put our Trust &amp;  confidence
+in you which would be the strongest  Tyes  of  a  lasting  Friendship
+between us, which we will do sincerely &amp; truly  &amp;  repeat  to
+your <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> again that we will communicate to
+you all the Principal late Transactions &amp; matters of  consequence
+that we are privy to both good &amp; bad &amp; thereupon gave a  Belt
+of Wampum<lb/>
+</p>
+
+<pb n="660"/>
+
+<p>
+Brother Corlaer<lb/>
+
+We take notice that you thanked us  for  not  suffering  any  of  our
+Indians to go a Warring with the French Indians of Canada, we resolve
+to do the same for the future &amp; disuade any of our People to join
+with the French Indians to go to War, &amp;  if  any  of  the  French
+Indians should happen to come through our Country to go a warring  we
+will endeavor to stop them, <sic corr="but">bnt</sic> if they  cannot  be  persuaded
+then we will warn them not to go over the Great  Ridge  of  Mountains
+that surround Virginia, nor to  pass  over  the  Great  River  called
+Potowmack<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You say that you are informed that there was  a  warlike  Preparation
+making among the Five Nations which we acknowledge to be true but  we
+know not as yet ourselves where they intend to go. Two years ago  Two
+Tuskarores brought a Belt of Wampum from the Governor of Virginia (as
+they said) and thereby in  the  name  of  the  Governor  of  Virginia
+desired  the  five  Nations   to   make   War   &amp;   destroy   the
+Tadirighrones,<ref n="1" target="n660.01"/> but  being  informed  that  the
+Governor of Virginia was to be at Albany we deferred  any  resolution
+about that affair, till we had spoken with him ourselves<lb/><lb/>
+
+Here they stopped, being late and growing dark desired that they  may
+make their further answer on  Munday  which  was  agreed  to  but  it
+happened to rain all Munday so that they did not meet  together  till
+Tuesday the <orig reg="4th">4<hi rend="super">th</hi> </orig> of  September  1722,  when  the
+Sachims of the Five Nations proceeded  to  make  their  answer  &amp;
+said<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You have told us since our last conference on Saturday that  you  was
+informed some of our Sachims had been at Canada  &amp;  treated  with
+the Governor there, true it  is  that  some  of  those  Sachims  <orig reg="yet">y<hi rend="super">t</hi></orig> are now dayly expected  with  the  Blawbek  Cheif
+Sachim of <orig reg="ye">y<hi rend="super">e</hi></orig> Sinnekees have been there &amp; we
+will discover to you the contents of their conference which they  had
+with the Governor of Canada as soon as they arrive<lb/><lb/>
+
+We inform you also that 3 companies of our People  are  gone  out  to
+fight against the Flatheads that have been our enemies of a long time
+there are also two French Indians that live at Cadarachqui that  went
+out a fighting 2 years ago towards Virginia by the  way  of  Cayouge,
+&amp; have their abode among the Tuskarores that live  near  Virginia
+&amp; go backwards and Forwards<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+We  will  now  tell  you  the  Resolution  &amp;  Opinion   of   <orig reg="ye">y<hi rend="super">e</hi></orig> 5 Nations that although diverse  have  endeavored
+to raise jealousies &amp; evil Reports among us, &amp; so perswade us
+to have a bad opinion of our Brethren the English yet we never  would
+give ear nor hearken to them but have had from the  first  making  of
+the Covenant Chain a firm Resolution  to  keep  the  same  inviolable
+&amp; we are resolved to persist in that Resolution  always<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You have sent for us Sachims of the five nations to come  here  &amp;
+told us that the Governors of Virginia &amp; Pensilvania would be  at
+Albany for which Message we are thankful &amp; in  your  Propositions
+you acquaint us that they are come to treat  of  matters  of  Publick
+concern relating
+
+<note id="n660.01" n="1">Called by the English, sometimes Catawbas, <hi rend="italics">ante</hi>,     491;     sometimes     Saponies,     <hi rend="italics">post</hi>, p. 673; also <hi rend="italics">Pennsylvania
+Colonial     Records</hi>,      III,      210.      —      <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<pb n="661"/>
+
+to Peace and Concord, we are come for the same purpose and  have  the
+same Intentions and put away all evil things and embrace  that  which
+is good &amp; amicable did give Belt of Wampum<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+We desire you not to be impatient because of the long stay of some of
+the Principal of the Sachims of the five  Nations,  which  we  hourly
+expect, but to be easy they are your bosom friend &amp; we would fain
+have them here present before we give our final  answer  because  the
+matters are of importance &amp; we would gladly have their advice and
+Council do give 3 Skins<lb/><lb/>
+
+As we have earnestly desired your <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>  to
+have a  little  Patience  so  we  beg  the  Honorable  <abbr expan="Coll:">Coll: </abbr>  <abbr expan="Alex.">Alex.</abbr>
+Spotswood, Governor of Virginia and  the  <abbr expan="Honorable">Hônble</abbr>  <abbr expan="Sr"> S<hi rend="super">r </hi></abbr> William Keith Bart Governor of  Pensilvania  that they would be pleased to be easy &amp; patient likewise,  till  these Cheif Sachims arrive being well assured that they will  be  extreamly
+glad to see you &amp; the said two Governors. Gave 3 Skins to each of
+the Governors of Virginia &amp; Pensilvania <lb/><lb/>
+
+His Excellency told them he had staid a  long  time  for  them  &amp;
+desired to know if they had any advice  whereabouts  they  were,  who
+answered that they had certain advice that five days ago the Blawbeck
+&amp; his Company arrived at Oneyde<lb/><lb/>
+
+His Excellency ordered them to send an express immediately for  them,
+since his affairs required him to be at New York &amp; could not stay
+above 3 or 4 days more which the Sachims did accordingly<lb/><lb/>
+</p>
+
+<p>
+A True Copy, examined <abbr expan="Pr">P<hi rend="super">r</hi></abbr><lb/>
+
+<abbr expan="Phillip">P<hi rend="smallCaps">H</hi>: </abbr>  <orig reg="Livingston">L<hi rend="smallCaps">IVINGSTON</hi></orig>
+<abbr expan="Secretary"> Sec</abbr><lb/>
+
+for Indian Affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+Propositions made to the River Indians as well the Skaghhook  Indians
+as those that live below Albany by His <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>
+William     Burnet      <abbr expan="Esquire">Esq<hi rend="super">re</hi></abbr>      <abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> <abbr expan="General"> Gen<hi rend="super">l</hi></abbr> and commander in cheif
+&amp;c  in  Albany  the  <orig reg="30th">30<hi rend="super">th</hi></orig>  day  of  <abbr expan="August">Aug<hi rend="super">t</hi></abbr> 1722<lb/><lb/>
+
+</p>
+
+<p>
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His Excellency William Burnet
+<abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> <abbr expan="Captain"> Cap<hi rend="super">n</hi></abbr>  General  &amp;
+<abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> in Cheif &amp;c<lb/><lb/>
+</p>
+
+<p>
+Of  His   Majestys   Council<lb/>   Rip   Van   Dam<lb/>   <abbr expan="Doctor">D<hi rend="super">r</hi></abbr>  Colden<lb/>   John   Barberie<lb/>   James
+Alexander<lb/> <abbr expan="Coll">Coll</abbr> Morris <abbr expan="Junior">Jun<hi rend="super">r</hi></abbr><lb/><lb/>
+</p>
+
+<p>
+Commissioners of  Indian  Affairs<lb/>  <abbr expan="Coll">Coll</abbr>  Schuyler<lb/>  John
+Collins<lb/>   <abbr expan="Peter">Pet<hi rend="super">r</hi></abbr>   Van   Brugh   <abbr expan="Mayr">May<hi rend="super">r</hi></abbr><lb/>   Phillip   Livingston<lb/>    <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>   Cuyler<lb/>    <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>
+Bleecker<lb/> Evert Banker<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Johannes Kickerbacker<lb/><lb/>
+</p>
+
+<p>
+Children<lb/> As often as we come to  see  <orig reg="ye">y<hi rend="super">e</hi></orig>
+Frontiers, and to treat with the Indians, I send for my children  the
+Mahikanders to assure them of my fatherly care and affection &amp;  I
+am glad to have this opportunity of  renewing  the  ancient  Covenant
+Chain which I do in a solemn manner in the name of the Great King  my
+Master in the behalf of all His Subjects of North America, Which
+
+<pb n="662"/>
+
+Chain of Friendship I am informed by the Inhabitants of  this  Place
+has been kept inviolable by your Ancestors from the first  time  that
+Christians settled here in this River &amp;  since  you  have  always
+been obedient children &amp; observed the commands of my Predecessors
+&amp; been protected by this Government, I do assure you of the  same
+Protection of the Great King, so long as you prove obedient children,
+which I do not in the least doubt, since you will always find  it  to
+be your Interest &amp; Advantage<lb/><lb/>
+
+I need not tell you how destructive your Intemperence has proved  and
+how much your people  are  <orig reg="diminished">diminish<hi rend="super">d</hi></orig>  by  your
+excessive drinking of Rum the Women as well as the men  being  guilty
+of being often drunck, let me advise you to be  more  sober  for  the
+future, and not to spend what you get by Hunting on strong drink, but
+lay it out on clothing and other necessaries for your  support  &amp;
+above all not squander your Indian Corn for Rum which  you  ought  to
+keep for your subsistence all the year<lb/><lb/>
+
+I shall conclude by telling you as long as you keep firm to your duty
+at all times to come, as you have in times past, you may rest assured
+not only of Protection but of all other good offices in the Power  of
+those that are in Authority under the King our  common  Father  &amp;
+Protector, give a Belt<lb/><lb/>
+
+As soon as you have made your answer I will make  you  a  Present  of
+such things as are of use to you<lb/><lb/>
+</p>
+
+<p>
+Answer  of  the  Mahikanders  or  River  Indians  to  His   <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>  William  Burnet   <orig reg="Esquire">Esq<hi rend="super">re</hi></orig>
+<orig reg="Captain"> Capt<hi rend="super">n</hi></orig> <orig reg="General"> Gen<hi rend="super">l</hi></orig> &amp; Governor
+in  Cheif  of  New  York   New   Jersey   &amp;c   in   Albany   y<hi rend="super">e </hi> <orig reg="31st">31<hi rend="super">st</hi></orig> Aug 1722<lb/><lb/>
+</p>
+
+<p>
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His Excellency William Burnet
+<orig reg="Esquire"> Esq<hi rend="super">re</hi></orig>   <orig reg="Captain"> Capt<hi rend="super">n</hi></orig>   <orig reg="General"> Gen<hi rend="super">l</hi></orig> &amp; Governor in Cheif &amp;c<lb/><lb/>
+</p>
+
+<p>
+Of  His   Majestys   Council<lb/>   Rip   Van   Dam<lb/>   <abbr expan="Doctor">D<hi rend="super">r</hi></abbr>  Colden<lb/>   John   Barberie<lb/>   James
+Alexander<lb/> <abbr expan="Coll"> Coll</abbr> Morris <abbr expan="Junior">J<hi rend="super">r</hi></abbr><lb/><lb/>
+</p>
+
+<p>
+Commissioners of the Indian Affairs<lb/>  Peter  Van  Brugh  <abbr expan="Mayor">May<hi rend="super">r</hi></abbr><lb/>  John  Collins<lb/>  John  Cuyler<lb/>
+Phillip    Livingston<lb/>    Evert    Banker<lb/>     <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr> Bleecker<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Johannes Knickerbacker in Dutch  &amp;  rendered  into
+English by <abbr expan="Robert">R<hi rend="super">t</hi></abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+We are glad to see our in Health and that he is come to  see  us.  We
+are come pursuant to your commands to hear what you  are  pleased  to
+require of us, we rejoice to  hear  that  the  Great  King  of  Great
+Britain both think of us &amp; remember such a mean people as we  are
+to renew the Covenant Chain with us<lb/><lb/>
+
+We are come now to renew the Covenant Chain  that  has  been  of  old
+between the Christians of this Government &amp; us, At first it was a
+Tye with our hands joined together, but afterwards we were joined  by
+a Covenant Chain which we now brighten &amp; make clear &amp;  clean,
+so y<hi rend="super">t</hi> it can never be broken, Give  a  Belt  of
+Wampum<lb/>
+
+<pb n="663"/>
+
+We now renewed &amp;  <orig reg="brightened">brighten<hi rend="super">d</hi></orig>  the  Covenant
+Chain, but since a Chain is apt to  rust,  if  it  be  not  oiled  or
+greased  we  will  grease  it  with  Beavers  grease  or  Fatt   <orig reg="yet">y<hi rend="super">t</hi></orig> the smell thereof will endure for a whole year do
+give 2 Beaver Skins<lb/><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+We look upon you as a great Tree under whose Branches  we  desire  to
+shelter, and if there should happen any  sudden  Tempest  or  Thunder
+Shower we hope we shall  be  admitted  to  take  shelter  under  <orig reg="yt">y<hi rend="super">t</hi></orig> great  Tree  &amp;  be  shadowed  by  the  leaves
+thereof, that no drops may fall on us but <orig reg="vt">y<hi rend="super">t</hi></orig> we
+may live in Peace and safety, Give a Belt of Wampum<lb/><lb/>
+
+We take you as a loving &amp; tender Father &amp; beg leave to inform
+you that some of our people that have been  out  a  hunting  to  <orig reg="ye">y<hi rend="super">e</hi></orig>  Eastward  have  been  taken  Prisoners  by  <orig reg="ye">y<hi rend="super">e</hi></orig> English of New England, but since his  Excellency
+our  Fathers  arrival  here,  we  have   <orig reg="received">rec<hi rend="super">d</hi></orig>
+intelligence that they are released. We know not whether that account
+be true but hope &amp; wish it may be so, Gave 3 Beavers<lb/><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+As you have been an affectionate  &amp;  loving  Father  to  us  your
+Children, so we hope if any  mischeif  should  befall  us,  you  will
+resent it &amp; protect your children, and  not  suffer  them  to  be
+injured we will not be rash to attempt any thing or too credulous  to
+beleive   any   stories   but   first   acquaint    your    <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> our father &amp; follow your advice  &amp;  obey
+your orders Give 3 Beavers<lb/><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+We are sensible that you are much in the right, that Rum does a great
+deal of Harm, we approve of all that you said on that Point, but  the
+matter is this, When our people come from  Hunting  to  the  Town  or
+Plantations and acquaint the Traders &amp; People that we want Powder
+and Shot &amp; Clothing, they first give us a large cup of  Rum,  and
+after we get the Taste of it crave for more so that in fine  all  the
+Beaver &amp; Peltry we have hunted goes for drink, and  we  are  left
+destitute either of Clothing or Ammunition, Therefore we  desire  our
+father to order the Tap or Crane to be shut &amp;  to  prohibit  <orig reg="ye">y<hi rend="super">e</hi></orig> selling of Rum, for as  long  as  the  Christians
+will sell Rum, our People will drink it, do give 3  Beavers<lb/><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+We acknowledge that our Father is very much in the right to  tell  us
+that we squander away our Indian Corn which should subsist our  Wives
+&amp; Children but one great cause of it is <orig reg="yet">y<hi rend="super">t</hi></orig>
+many of our People are obliged to hire Land of the  Christians  at  a
+very dear Rate, to give half the Corn for Rent &amp; the  other  half
+they are tempted by Rum  to  sell,  &amp;  so  the  Corn  goes,  <orig reg="yet">y<hi rend="super">t </hi></orig>  <orig reg="ye">y<hi rend="super">e</hi></orig>   Poor   women   &amp;
+children are left to shift as well as the can do  give  3  Beavers<lb/><lb/>
+</p>
+
+<p>
+<hi rend="center">(Ampamit Speaker.)</hi><lb/>
+</p>
+
+<p>
+Father<lb/>
+
+We have no more Land the Christians when they buy  a  small  spot  of
+Land of us, ask us if we have no more Land &amp; when we say yes they
+enquire the name of the Land &amp; take in a greater Bounds than  was
+intended to be sold them &amp; the Indians not understanding what  is
+writ in the Deed or Bill of Sale sign it and are so deprived of  Part
+of their Lands — Give 3 Beavers<lb/>
+</p>
+
+<pb n="664"/>
+
+<p>
+Father<lb/>
+
+In former days when the Christians came to settle this  Country  they
+came with a ship &amp; desired to fasten their  Cable  to  the  Hills
+near Hosak above Albany, which we readily granted &amp; ever since we
+have lived in Friendship &amp; Amity together,  which  we  hope  will
+continue so long as Sun &amp; Moon endure Gave 3 Beavers<lb/><lb/>
+
+His Excellency told the River Indians that he was well satisfied with
+their renewing the Covenant Chain  &amp;  charged  them  to  keep  it
+inviolable to all the Subjects in North America &amp; assured them if
+they behaved themselves well &amp; did no injuries to the Christians,
+they needed not fear any harm done to them &amp; if they suffered any
+Damage by any private  Person  they  should  complain  &amp;  justice
+should be done to them as well as to the Christians<lb/><lb/>
+
+The Governor sees that they look better  &amp;  are  better  cloathed
+than the other Indians that do not live among  the  Christians  &amp;
+therefore that they do well to stay among them He beleives they  live
+better since the Christians bought &amp; improved  their  Lands  than
+they did before for then the Land lay  waste  &amp;  unimproved.  His
+Excellency <orig reg="ordered">order<hi rend="super">d</hi></orig> them to divide  the  Presents
+that shall now be given them One half for the Indians that live above
+Albany &amp; the other half for those that live below Albany<lb/><lb/>
+</p>
+
+<p>
+A     true     Copy,     <orig reg="examined">examin<hi rend="super">d</hi></orig>      <abbr expan="Pr"> P<hi rend="super">r</hi></abbr><lb/>
+</p>
+
+<p>
+<orig reg="">P<hi rend="smallCaps">HILIP </hi></orig> <orig reg="Livingston">L<hi rend="smallCaps">IVINGSTON</hi></orig>, <abbr expan="Secretary">Sec<hi rend="super">y</hi></abbr><lb/> for
+the Indian Affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+Further Propositions of His  <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>  William
+Burnet <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr> <abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> <abbr expan="General"> Gen<hi rend="super">ll</hi></abbr> &amp; Governor in Cheif of the Province  of  New
+York &amp;c to the 5 Nations of Indians,  viz  The  Mohogs,  Oneydes,
+Onnondages Cayouges &amp; Sinnekees in Albany the 13 day of September
+1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— <orig reg="His">His</orig>
+Excellency  William  Burnet   <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>   <abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> General &amp; <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> in Cheif
+&amp;c<lb/>  The  <abbr expan="Honorable">Honble</abbr>  <abbr expan="Coll"> Coll</abbr>  Alexander  Spotswood  Governor   of
+Virginia<lb/>  The   <abbr expan="Honorable">Honble</abbr>   Sir   William   Keith   Governor   of
+Pensylvania<lb/><lb/>
+</p>
+
+<p>
+Of His Majestys Council<lb/> Rip Van Dam<lb/> John  Barberie<lb/>
+Cadwallader Colden<lb/><lb/>
+</p>
+
+<p>
+Commissioners of the Indian Affairs<lb/> <abbr expan="Peter">Pet<hi rend="super">r</hi></abbr>
+Schuyler<lb/>  Evert  Bancker<lb/>  <abbr expan="Hendr">Hend<hi rend="super">r</hi></abbr>
+Hanse<lb/>  <abbr expan="Philip">Ph: </abbr>  Livingston<lb/>   <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>
+Cuyler<lb/> John Collins<lb/> <abbr expan="Pr">P<hi rend="super">r</hi></abbr> Van Brugh<lb/> <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr> Blecker<lb/><lb/>
+</p>
+
+<p>
+Brethren<lb/>
+
+The hearty concurrance with which you have  received  what  I  lately
+proposed to you in the  behalf  of  this  Province  as  well  as  the
+Propositions  made  to  you  by  the  Governors  of  Virginia   &amp;
+Pensilvania has given us all so  entire  satisfaction,  that  we  now
+appear together in the name of all the British Colonies, to shew  you
+that as we are all subjects of the Great &amp; Good King  George,  so
+we have all one heart &amp; one mind, &amp; that we are  all  jointly
+concerned in every thing that relates to one anothers security  &amp;
+happiness<lb/>
+
+<pb n="665"/>
+
+This brotherly love it is that is the peculiar distinguishing mark by
+which Men may know us to be Christians &amp; by many expressions from
+you of the same strain I am inclined to hope you  will  deserve  that
+honorable name, if you act up to your Promises, but  since  you  have
+acknowledged that  there  is  a  God  who  will  judge  us  <abbr expan="according">accord<hi rend="super">g</hi></abbr> to our Actions remember that he  will  punish  us
+severely if we say one thing &amp; do the contrary,  &amp;  that  not
+only in another life but in this we may expect that  they  who  break
+their Faith will have the Frowns of Heaven upon them &amp;  they  who
+keep it shall prosper and flourish &amp; now  since  all  Stains  are
+entirely wiped off from the Covenant Chain and that you have resolved
+to be sincere for the time to come which is the only way to  keep  it
+bright &amp; clean in conjunction  with  these  Governors  I  do  now
+solemnly  renew  it  with  you  in  the  name  of  all   his   <abbr expan="Matys">Mat<hi rend="super">ys</hi></abbr> Provinces in North America, Give a Belt<lb/><lb/>
+</p>
+
+<p>
+Brethren<lb/>
+
+Since you tell me that you are determined to cleave close to all  the
+English I doubt not of your being  thoroughly  incensed  against  the
+Eastern Indians who have lately  attacked  your  Brethren  under  the
+Government of Boston and contrary to all their repeated [and]  solemn
+Treaties and Engagements &amp;  their  frequent  submission  to  that
+Government  have  lately   destroyed   several   of   their   Eastern
+Settlements, by taking their vessels, burning  their  Houses  Killing
+their   Cattle   &amp;   cruelly   murdering    several    of    <orig reg="ye">y<hi rend="super">e</hi></orig>  Inhabitants  which   Insults   were   grown   so
+intolerable, that that Government has at last been obliged to declare
+Warr against them as Traitors &amp; Rebells<lb/><lb/>
+
+The Governor of Boston  did  some  time  ago  acquaint  me  with  the
+Injuries they  had  received  from  those  Indians  &amp;  then  sent
+Commissioners with a noble Present which is still  in  this  Town  to
+inform you of it &amp; desire you to interpose your good advice  with
+those Indians in order to prevent a War. But as there was then no War
+actually declared, it was hoped that it would not come to that height
+as to require your interposing, and it was thought necessary  that  I
+should meet you first myself &amp; know your  intentions  before  any
+proposalls of that kind should be made to you &amp; now that  I  find
+by conferences with some of you that you  have  no  Engagements  with
+those Indians &amp; that you resent the outrage done to your Brethren
+the Christians as you ought to do, and since a War  is  now  actually
+<orig reg="declared">declar<hi rend="super">d</hi></orig>  I  think  it  necessary  that  without
+waiting for Commissioners from Boston, or any other delay you send  a
+few Deputys from the 5 Nations to the Eastern  Nations  to  let  them
+know that you have heard with indignation how perfidiously they  have
+treated your Brethren <orig reg="ye">y<hi rend="super">e</hi></orig> English &amp; that you
+require them forthwith to beg a cessation of arms of  the  Government
+of Boston in order to treat of a Peace which will be the only way for
+them to avoid the Anger and resentment  of  <orig reg="ye">y<hi rend="super">e</hi></orig>
+five Nations who cannot look on unconcerned when their  Brethren  the
+English receive such barbarous Treatment, &amp; because there is  now
+war between them I have thought it the securest way for you to go  by
+the way of Boston with a Christian to accompany you who shall carry a
+letter from me to the Governor of Boston &amp;  have  a  Passport  to
+shew upon the road thither The Governor of Boston will  then  send  a
+party to conduct you safely to the Eastern Indians by which means you
+will be secure from any ill accident either through Malice or Mistake
+throughout your whole journey, And I do engage  for  that  Government
+that they will give a handsome reward to  the  Messengers  besides  a
+noble Present to the 5 Nations when the Service is  effected  gave  a
+Belt<lb/>
+</p>
+
+<pb n="666"/>
+<p>
+Brethren<lb/>
+
+We have made a new Law severer than that which was made last year  to
+put an effectual Stop to the Trade from Canada for  Indian  Goods  If
+any Indian can discover such Goods carrying to Canada  he  may  seize
+and bring them to the Commissioners &amp; if he can inform who is the
+owner of them, that Owner may by this last Law be obliged to discover
+the truth himself, and then the Indian will be entituled  to  receive
+one  Hundred  Pounds  besides  the  goods — so  that   there   is
+sufficient encouragement to you to stop that Path yourselves  as  far
+as relates to Indian Goods which is all that is prejudicial to you in
+the Canada Trade<lb/><lb/>
+
+I have for your further Encouragement and to carry on the Trade  with
+the Farr  Indians  through  your  Country  despatched  Major  Abraham
+Schuyler<ref n="1" target="n666.01"/>
+ your old  Friend  to  reside  in  the
+Sinnekees Country whom I dont doubt you will embrace as a brother and
+receive him in all your counsels  especially  when  any  French  come
+among you that he may be ready to detect any false reports which they
+would endeavor to infuse into your people<lb/><lb/>
+
+I do not insist on your telling me  particularly  who  have  been  in
+Canada contrary to your promises last year, but I am willing to  draw
+a cover over your Past faults of every sort But if for the future any
+of your people go to Canada I will not look on  those  offenders  any
+more as Brethren and I forbid them possitively to come hither  for  I
+hate to see any such double hearted Persons, &amp; I expect that they
+never have any share of my presents but if the will be Frenchmen, let
+them go &amp; be French men entirely, for they will but  deceive  and
+corrupt the good Brethren of the 5 Nations, by living with them &amp;
+now before I part with you I must  observe  the  ill  consequence  of
+bringing such  a  number  of  your  young  people  hither  whom  you
+acknowledge that you cannot govern &amp; who do great injuries to the
+Inhabitants,  which  has  occasioned  quarrels  &amp;  mischeif,  and
+obliges me to order some soldiers to walk round the Town,  to  hinder
+any injury to be committed by the Indians on the  Inhabitants  or  by
+the Inhabitants on the Indians and that nothing like these  desorders
+may happen for the future I do positively command you  not  to  bring
+above 60 or 70 persons in all including Sachims  Warriors  young  men
+&amp; women when I send for you to meet at this Place I shall then be
+able to provide you plentifully with Provisions and such young people
+may be found to come along with you for whose good behaviour you  may
+answer &amp; upon this I give a Belt<lb/><lb/>
+
+This has been is great &amp; solemn meeting and I hope it will  never
+be forgott &amp; that the Covenant Chain will now endure as  long  as
+the Rocks &amp; mountains to which it is fastened<lb/><lb/>
+
+I now lay down my present that you may have no further  occasion  to
+keep your young men whom I will not permitt to stay longer here since
+they were guilty of such insolent Practises last night  and  herewith
+command them to begin their  march  directly  out  of  Town  that  no
+further disorder may happen &amp; I expect you will send some of your
+wise men with them, leaving a sufficient number to answer me<lb/><lb/>
+</p>
+
+<p>
+A    true    Copy    <abbr expan="Examined">Exam<hi rend="super">d</hi></abbr><lb/>     <abbr expan="Pr">P<hi rend="super">r</hi></abbr>     <orig reg="Philip"> P<hi rend="smallCaps">HILIP</hi></orig>     <orig reg="Livingston"> L<hi rend="smallCaps">IVINGSTON</hi></orig><lb/> <abbr expan="Secretary">Sec<hi rend="super">y</hi></abbr>  for
+the Indian Affairs<lb/>
+</p><lb/>
+
+
+<note id="n666.01" n="1">The   instructions   in   <hi rend="italics">New-York   Council
+Minutes</hi>,   XIIL,   350,   are   the   same   as    those,    <hi rend="italics">ante</hi> p. 641, to Captain Peter Schuyler,  Jr.,  who
+had built a Trading House and  passed  a  year  at  Caniaterundequat.
+— <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note><lb/>
+
+
+
+<milestone unit="horbar"/>
+
+<pb n="667"/>
+
+<p> The Second Answer of the five Nations of Indians viz the Maquase,
+Oneydes,  Onnondagues  Cayouges  and  Sinnekees,  to  His  Excellency
+William Burnet <abbr expan="Esquire"> Esq<hi rend="super">r</hi></abbr> <abbr expan="Captain"> Cap<hi rend="super">n</hi></abbr> General &amp; Governor in Cheif of the  Provinces  of  New  York  New
+Jerseys &amp; Territories thereon depending  in  America  &amp;  Vice
+Admiral of the same in Albany the <orig reg="14th">14<hi rend="super">th </hi></orig>  <abbr expan="September">Sept<hi rend="super">r</hi></abbr> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His         <abbr expan="Excellency">Excell<hi rend="super">cy</hi></abbr>  William  Burnet   <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>
+<abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> General &amp; Governor in Cheif &amp;c<lb/> The <orig reg="Honorable">Hônble</orig> <abbr expan="Coll"> Coll</abbr> Alexander Spotswood Governor of Virginia<lb/> The
+<orig reg="Honorable">Hônble</orig>  <abbr expan="Sr"> S<hi rend="super">r</hi></abbr>  William  Keith  Bart  Governor  of
+Pensilvania<lb/><lb/>
+
+Of His Majesty's Council<lb/> Rip Van Dam<lb/> John  Barbery<lb/>
+<abbr expan="Doctor">D<hi rend="super">r</hi></abbr> Colden<lb/><lb/> </p>
+
+<p>
+Commissioners of the Indian Affairs<lb/> <abbr expan="Coll"> Coll</abbr> Peter  Schuyler<lb/>
+Evert Banker<lb/> Peter Van Brugh<lb/> John  Collins<lb/>  <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>   Cuyler<lb/>    <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>
+Bleeker<lb/> Hend Hanse<lb/> <abbr expan="Philip">Ph</abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Lawrence Claese into Dutch and rendered  into  English
+by <abbr expan="Robert">Rob<hi rend="super">t</hi></abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You have made Proposals to us yesterday which we will now  answer  as
+well as we are able you told us that this  has  been  a  great  &amp;
+solemn meeting, which we own having  been  made  with  Your  <orig reg="Excellency">Exell<hi rend="super">cy</hi></orig> the  Governors  of  Virginia  &amp;  Pensilvania
+&amp; we acknowledge that if these Treaties now  concluded,  be  well
+observed by both parties it will be a great Happiness to our children
+&amp; Childrens Children as for our parts we  are  resolved  to  keep
+&amp; maintain whatever has  been  concluded  now,  &amp;  stipulated
+between us all &amp; shall imprint it on our Posterity to be by  them
+kept inviolable for ever<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+We will answer the Principal Heads of your Propositions  made  to  us
+yesterday you renewed the Covenant Chain in Conjunction with the  two
+other   Governors   of   Virginia   &amp;   Pensilvania,   in    <orig reg="ye">y<hi rend="super">e</hi></orig> behalf of  all  the  English  Colonies  of  North
+America all which we do in like manner in  the  behalf  of  the  five
+Nations &amp; do resolve to keep and maintain the same for  ever  and
+if there be any spots or Stains thereon or any Rust come upon it  [we
+do now wipe off the same and brighten it that] it may  be  clear  and
+lasting to all future ages<lb/><lb/>
+</p>
+
+<p>Brother Corlaer<lb/>
+
+When the Christians first came to this Country our Ancestors fastened
+the ship that brought them behind a Great Mountain with  a  Chain  in
+order to secure the same which mountain  lyes  behind  the  Sinnekees
+Country, so that the one end of the Chain, being fastened  there  and
+the other end at <orig reg="ye">y<hi rend="super">e</hi></orig> Ship,  if  any  body  would
+steal away &amp; molest this ship the chain will jingle &amp; make  a
+noise &amp; so alarm all the 5 Nations who  are  bound  to  defend
+this ship &amp; this is the foundation &amp; original of the Covenant
+Chain among the 5 Nations, which our ancestors  made,  which  was  to
+preserve this ship from any harm gave a Belt of  Wampum
+</p>
+
+<pb n="668"/>
+
+<p id="n668">Brother Corlaer<lb/>
+
+You acquainted us yesterday how  villanously  &amp;  barbarously  the
+Eastern Indians had fallen upon  our  Brethren  the  English  of  New
+England &amp; murdered <orig reg="ye">y<hi rend="super">e</hi></orig> people for  which  we
+are much concerned and sorrowfull and according  as  you  require  in
+your Proposition we have <orig reg="pitched">pitch<hi rend="super">d</hi></orig> upon an  Indian
+of each nation to go to Boston  &amp;  so  to  be  conducted  to  the
+Eastward &amp; acquaint those Indians with what indignation we  heard
+of their base Treatment of our Brethren &amp;  command  them  to  beg
+peace of the English of New England and since we have not a  Belt  to
+give in return for that Belt you gave us upon  this  Proposition,  we
+intend to make use of that Belt you gave us yesterday to the  Eastern
+Indians when we communicate to them our Intentions that  we  can  not
+look unconcerned when  our  Brethren  of  New  England  receive  such
+barbarous Treatment<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+You told us yesterday that we were not to go to Canada  or  have  any
+correspondence with them, but those that would go thither, they might
+stay there for altogether, and not return to deceive and corrupt  the
+5 Nations, but we remember it has been recommended to us formerly  to
+have Peace &amp; amity with all People, even the  farr  Indians  that
+are in Friendship with the French &amp; to draw them  to  come  &amp;
+Trade in this Government and accordingly we have followed that advice
+&amp; the French being in Alliance with the English &amp; in Peace we
+hope it may not be of any ill consequence if at any time some of  our
+People  went  thither  to  retain  that   good   understanding   <orig reg="yet">y<hi rend="super">t</hi></orig> is among us. As long  as  none  goes  thither  to
+betray their country nor their Allies, since it is Common &amp;  the
+Practice every where when Nations are in Peace &amp; Amity  with  one
+another to go &amp; visit each other for if we should wholly  refrain
+from going thither, would it not be of bad  consequence  to  us  some
+time or other therefore we hope it will not be ill taken if sometimes
+some of our People should go thither<lb/><lb/>
+</p>
+
+<p>
+Brother Corlaer<lb/>
+
+As to your Excellency's Proposals yesterday relating  to  the  severe
+Law made prohibiting the sending Indian goods to Canada,  &amp;  what
+encouragement is given to any person whatever who should discover the
+same, in answer to which we say, that we will not  concern  ourselves
+any ways in <orig reg="yt">y<hi rend="super">t</hi></orig> affair. We are peaceable People
+&amp; inclined to Peace &amp; if we should intermeddle  in  any  such
+matter, we should but create ourselves a  great  many  enemies  &amp;
+therefore desire to be excused<lb/><lb/>
+
+As to the Proposition relating to our People  coming  in  such  great
+numbers here, when any publick affairs are to be transacted,  we  own
+it is of bad consequence, as we find by experience, by mischeif  done
+by our ungovernable young men,  both  in  Town  &amp;  Country  &amp;
+therefore we accept very kindly &amp; approve of what you propose  of
+sending no more in the whole but 60 or 70 Persons or such a number as
+the Messenger shall acquaint us withall, when he comes to  call  down
+the 5 Nations to treat here at Albany &amp; thereupon gave a Belt  of
+Wampum<lb/><lb/>
+</p>
+
+<p>Lastly say Brother Corlaer<lb/>
+
+We have told you at large the first settlement of the Christians here
+&amp; how at first we  traded  together  &amp;  afterwards  made  the
+Covenant Chain &amp; how cheap we had goods at first &amp;  how  much
+dearer we pay for the same sort of Goods now &amp; moreover that  the
+Powder is not only dear but bad <orig reg="yet">y<hi rend="super">t</hi></orig>  we  cannot
+kill the Peltry with [it] which is the Christians Dammage as well  as
+ours — We have heard that our Great King George is  a  very  good
+Man &amp; our friend and sends
+
+<pb n="669"/>
+
+that which is good but we are afraid that our Brethren the Christians
+that live here do abuse us when they Trade with us, hope there may be
+some method found out to prevent it<lb/><lb/>
+
+His Excellency the Governor made them a short Answer viz<lb/><lb/>
+</p>
+
+<p>Brethren<lb/>
+
+There is occasion to answer some things that you have said to me tho'
+the most Part is what I like very well<lb/><lb/>
+
+The reason why I have advised you against trading with the French  is
+because they cheat you always &amp; take advantages in time of  Peace
+in order to weaken you by advising you to warr  against  the  English
+Indians, that when a war breaks out  you  may  be  an  easy  prey  to
+them<lb/><lb/>
+
+It is the Handlers or Traders that furnish you  with  Goods,  and  if
+they give you too little the Government can't help it, but  you  know
+that the French are still harder upon you, and sell goods much dearer
+&amp; if you don't stop the Path to Canada as I  advised  you  it  is
+your own faults that Goods are not  cheaper  for  if  that  Trade  be
+stopped there will be more goods to  be  sold  to  you  and  at  more
+reasonable Rates<lb/><lb/>
+
+I insist upon it that those who go to Canada do not  come  hither  or
+receive any part of my Presents to you for  <orig reg="ye">y<hi rend="super">e</hi></orig>
+future<lb/><lb/>
+
+<orig reg="Note">N<hi rend="smallCaps">OTE</hi></orig> The words in the preceding  Conference
+within  [  ]  are  added  from  <hi rend="italics">New-York   Council
+Minutes</hi>,  XIII. — <orig reg="Ed.">E<hi rend="smallCaps">D</hi>.</orig><lb/>  <lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+<hi rend="center"><hi rend="italics"><hi rend="bold">Conference   between   Governor
+Spotswood and the Five Nations.</hi></hi></hi><lb/> 
+
+<hi rend="center">[New-York Papers., Cc., 102–104.]</hi><lb/>
+
+Propositions made to the Five Nations of Indians to wit the  Maquase,
+Oneydes,  Onnondages  Cayouges  &amp;  Sinnekees,  by  His  <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>  <abbr expan="Alex:"> Alex:</abbr>  Spotswood  <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>
+Governor of His <abbr expan="Matys">Maty<hi rend="super">s</hi></abbr> Dominion of  Virginia  in
+Albany <orig reg="ye">y<hi rend="super">e</hi></orig> 29 <abbr expan="August">Aug</abbr> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig>  <abbr expan="Alex:"> Alex:</abbr>  Spotswood  <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr> Governor  of  Virginia<lb/>   <abbr expan="Coll"> Coll</abbr>   Nathaniel   Harrison   <abbr expan="Esquire">Esq<hi rend="super">re</hi></abbr> of His Majestys Council of Virginia<lb/>  <abbr expan="Coll"> Coll</abbr>
+William Robinson <abbr expan="Esquire">Esq<hi rend="super">re</hi></abbr> a Member of the House of
+Burgesses of Virginia<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Lawrence Claese after it was translated into Dutch  by
+<abbr expan="Robert">Rob<hi rend="super">t</hi></abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Sachims &amp; Warriors of <orig reg="ye">y<hi rend="super">e</hi></orig>  5  Nations<lb/><lb/>
+
+You often say that your Covenant Chain with Virginia is grown  rusty,
+&amp; have urged of late years, that  some  Commissioners  from  that
+Colony should be sent to this Place to brighten the same<lb/><lb/>
+
+This is an old Story which the People of Virginia  remember  to  have
+been continually rung in their ears &amp; are sensible that  none  of
+the many Treaties which they have made for near fifty years past have
+ever been long observed on the Part of the 5 Nations Wherefore  I  am
+now come hither as Governor of Virginia accompanied by  some  members
+of that Government in order to try if our Covenant Chain cannot be so
+polished  as  never  more  to  grow  rusty  &amp;  to   endeavor   at
+establishing an  everlasting  Peace  between  your  People  and  ours
+comprehending not only the Christian Inhabitants of Virginia but also
+the several Nations of Indians belonging to and
+
+<pb n="670"/>
+
+subject to that Government &amp; according  to  the  custom  of  this
+Place, I signify to you this Proposition by giving 2 Belts of Wampum,
+<orig reg="ye">y<hi rend="super">e</hi></orig> one for the Government of Virginia &amp; the
+other for all its tributary Indians<lb/><lb/>
+
+Nothing but your assuredly promising (as you did here  last  year  to
+your Governor) that you  would  agree  to  the  Preliminary  Articles
+offered by Virginia could have  perswaded  that  Government  to  send
+hither to treat with you and therefore before I enter upon any  other
+matter, I expect you to ratify &amp; confirm that principle  article
+which you have declared that you will faithfully observe  If  I  take
+care that our Indians perform the same on their Part  Viz  "That  the
+great River of Potowmak &amp;  the  High  Ridge  of  Mountains  which
+extend all along the Frontiers of Virginia to  the  Westward  of  the
+present Settlements of that Colony shall be for ever the  established
+Boundaries between the Indians subject to the  Dominion  of  Virginia
+&amp; the Indians belonging to and depending on  the  5  Nations:  So
+that neither our Indians shall on any pretence whatsoever pass to the
+Northward or Westward  of  the  said  Boundaries  without  having  to
+produce a Passport, under the  Hand  and  Seal  of  the  Governor  or
+<orig reg="Commander">Command<hi rend="super">r</hi></orig> in Cheif of Virginia nor your  Indians
+pass to the Southward or Eastward of the said  Boundaries  without  a
+Passport in like Manner from the Governor or Commander  in  Cheif  of
+New York"<lb/><lb/>
+
+Now not only our Indians have given us  solemn  assurances  of  their
+keeping within the prescribed Limits but we have also by this act  of
+Assembly taken such measures for their due performance  of  the  same
+that the Government of Virginia  undertakes  and  engages  for  their
+nations in this Particular, so that nothing remains but  that  the  5
+Nations ratifie &amp; confirm the said Article, which I expect should
+be done in a Solemn manner not only by their Sachims but also by  all
+their  Warriors   here   present   &amp;   for   that   purpose   <hi rend="italics">I offer you this fine Coronet</hi> as a singular  Token
+to be held up in the Presence of  all  who  are  upon  this  occasion
+assembled, by that Person whom  you  shall  appoint  to  declare  the
+General Assent of the 5 Nations to this Proposition and let all  your
+People Present at the same time give a shout to be taken as a  Signal
+Testimony of their Concurrence besides I will have it signed by  your
+Sachims &amp; myself before I will either propose or present you with
+any thing further on the part of Virginia<lb/><lb/> 
+</p>
+
+<p>
+A  True  Copy  examined<lb/>  <abbr expan="Pr">P<hi rend="super">r</hi></abbr>   <abbr expan="Philip"> P: </abbr>   <orig reg="Livingston">L<hi rend="smallCaps">IVINGSTON</hi></orig><lb/> Secretary for the<lb/>  Indian
+affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p> 
+Answer of the five Nations of Indians viz  the  Maquase  Oneydes,
+Onnondages,   Cayouges    &amp;    Sinnekes    to    His    <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> <orig reg="Alexander"> Alex<hi rend="super">r</hi></orig>  Spotswood  Governor
+of His <abbr expan="Matys">Mat<hi rend="super">ys</hi></abbr> Dominion of  Virginia,  in  Albany
+<orig reg="ye">y<hi rend="super">e</hi></orig> <orig reg="6th"> 6<hi rend="super">th</hi></orig>  day  of  <abbr expan="September">Sept<hi rend="super">r</hi></abbr> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His   Excellency   Alexander
+Spotswood <abbr expan="Esquire"> Esq<hi rend="super">r</hi></abbr> Governor of Virginia<lb/> <abbr expan="Coll:"> Coll: </abbr>
+Nathaniel Harrison  a  Member  of  His  Maty'<hi rend="super">s</hi>
+Council of Virginia<lb/> <abbr expan="Coll"> Coll</abbr> William Robinson a Member of the House
+of Burgesses of Virginia<lb/><lb/> 
+</p>
+
+<p>
+Interpreted by Lawrence Claese into  <orig reg="ye">y<hi rend="super">e</hi></orig>  Dutch
+language &amp; rendered into English by Robert Livingston<lb/><lb/>
+</p>
+
+<p>
+<orig reg="Brother">B<hi rend="smallCaps">ROTHER</hi></orig> <orig reg="Assarigoe"> A<hi rend="smallCaps">SSARIGOE</hi></orig>
+the name of the Governors of Virginia, which signifys  a  Simeter  or
+Cutlas which was given to the Lord Howard, anno 1684. from the  dutch
+word Hower, a Cutlas<lb/>
+
+<pb n="671"/>
+
+We the Sachims of the five Nations, The Mohogs,  Oneydes,  Onnondages
+Cayouges &amp; Sinnekees, together with the Tuscarores are come  here
+upon His <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> the  Governor  of  New  Yorks
+message<lb/><lb/>
+
+We have heard the Proposition of the Governor of Virginia with  great
+attention &amp; considered it very maturely, but before we answer  we
+must impart what  our  ancestors  have  done  with  respect  to  this
+Government<lb/><lb/>
+
+When the Christians first came here, they came in a great ship, &amp;
+we were glad of their coming &amp; fastened the Ship behind  a  great
+Tree &amp; our business then was trading and Merchandize<lb/><lb/>
+
+And considering the benefit thereof &amp; that the Tree to which  the
+Ship was <orig reg="fastened">fastn<hi rend="super">d</hi></orig> might  rot,  &amp; so  let  the
+Ship go we carried the Anchor behind a great  Mountain,  that  so  we
+might keep it forever, and it was we that desired the  Christians  to
+come to settle among us &amp; not they<lb/><lb/>
+
+The third thing that was done by the Christians &amp; our  Ancestors,
+after they understood one an other was to enter into  a  Covenant  of
+Friendship which they called the Covenant Chain &amp; to the best of
+our Knowledge that Covenant has been kept by both parties  from  that
+time to this, And both  our  Ancestors  were  so  prudent  that  they
+stipulated and agreed that if any bad accidents  or  mischeif  should
+happen on either side it should be forgot &amp; forgiven and not make
+a Breach in <orig reg="ye">y<hi rend="super">e</hi></orig> Covenant Chain<lb/><lb/>
+
+Brother Assarigoe<lb/> When the neighbouring Governments of Virginia
+&amp; Pensilvania and New England found how well we agreed they  were
+glad to link their Hands in the same Covenant Chain &amp; there  were
+two Places Viz Albany &amp; Onnoudague appointed to meet at &amp;  to
+settle a right understanding in case any mischief  should  happen  of
+either side<lb/><lb/>
+</p>
+
+<p>
+Brother Assarigoe<lb/>
+
+We will not make any further mention of these old Stories of what Our
+Ancestors did but will now  come  to  the  Point  &amp;  answer  your
+Propositions &amp; the hope if our answer should not be  given  with
+that respect &amp; regard which is your due  you  will  excuse  us<lb/><lb/>
+</p>
+
+<p>
+Brother Assarigoe<lb/>
+
+You told us some days ago  that  the  five  Nations  say  that  <orig reg="ye">y<hi rend="super">e</hi></orig> Covenant Chain which was made betwixt  us,  &amp;
+Virginia fifty years ago is grown rusty &amp; that we  did  not  long
+keep or observe the Condition of it &amp; you have forbid us to  pass
+the Southside  of  the  Great  River  Kahongoronton  which  you  call
+Potowmack or to the East side of the great Ridge of  Mountains  which
+extend all along the Frontiers of Virginia<lb/><lb/>
+
+In the first place we agree to this Article &amp; faithfully  promise
+not to pass over the great River  Kahongoronton  which  the  English
+call Potowmack nor the great Rid[g]e of Mountains which extend  along
+your Frontiers we are glad to find you are come  here  to  renew  the
+Peace  as  well  in  the   behalf   of   the   Christians   as   <orig reg="ye">y<hi rend="super">e</hi></orig> Indians of Virginia We wish you had brought  some
+of <orig reg="ye">y<hi rend="super">e</hi></orig> Sachims of your Indians that  they  might
+have spoke to us face to face &amp; have put  their  hands  into  the
+Covenant Chain, but since you are come here we agree to accept  what
+you offer in their behalf in the same manner as if they were present,
+and tho' there is a Nation amongst you, the Toderechrones  (Christian
+Indians<ref n="1" target="n671.01"/>)  against  whom  we   have   had   so
+inveterate an enmity, that we  thought  it  impossible  it  could  be
+extinguished, but by a total
+
+<note id="n671.01" n="1">Christanna   Indians.    <hi rend="italics">New-York    Council
+Minutes</hi>, XIII., 367. — <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note><lb/>
+
+<pb n="672"/>
+
+Extirpation of them, yet since  you  desire  it  we  are  willing  to
+receive them into this Peace &amp; to forgive  all  that  is  past<lb/><lb/>
+
+It has pleased God to make you Christians &amp; us  Heathens  but  we
+hope we shall both act according to our capacities &amp; be  faithful
+to our respîve Promises &amp; engagements, Some are  placed  in  High
+Stations &amp; some in low, but there is  one  above  who  rules  and
+Governs all &amp; will judge us according to our Actions<lb/><lb/>
+
+We hope you will observe that your Indians  which  you  have  engaged
+for, perform what you have promised for them That they shall not pass
+to the Norward of the River Kahongaronton, nor to the Westward of the
+Great Ridge of Mountains &amp; as you gave us two Belts one from  the
+Christians &amp; the other from the Indians of Virginia  so  we  give
+you two Belts one for  your  Christians  &amp;  the  other  for  your
+Indians<lb/><lb/>
+
+It is some time agoe since you made this Proposition to us &amp;  you
+must not take it amiss that we have not answered you before, It was a
+thing of great importance &amp; fit to be well considered, and it  is
+now agreed not only by all our Sachims, but also by all our  Warriors
+as well those which are absent as those which are present<lb/><lb/>
+
+You have told us that we may pass the great River Kahongoronton &amp;
+the Great Ridge of Mountains provided we have  a  Passport  from  the
+Governor of New York and we promise you again, not  to  pass  to  the
+Southward  or  Eastward  of  the  said  Boundaries  without  such   a
+Passport<lb/><lb/>
+
+You told us after this you had something further to propose, relating
+to the General Peace which we  hope  you  will  now  speak  sincerely
+without Dissimulation<lb/><lb/>
+
+You told us you had a Coronet, which you would have held  up  by  our
+speaker &amp; that at the same time we should make a shout as a token
+of our consent to this Article which we are now ready to do<lb/><lb/>
+
+And we are now ready since you told us you were  not  satisfied  with
+our words in this matter of consequence to sign your Propositions  in
+the most publick manner<lb/><lb/>
+
+All which was performed accordingly &amp; the  Speaker  of  the  Five
+Nations holding up the Coronet they gave six Shouts five for the five
+Nations &amp; one for a castle of Tuscarores  lately  seated  between
+Oneyde &amp; Onnondage<lb/><lb/>
+
+And a Memorandum was made under the Propositions of the  Governor  of
+Virginia importing that one the  sixth  day  of  September  1722  the
+Sachims &amp; Warriors of  the  five  Nations  together  with  divers
+cheifs of the Tuscarores made their answer by Ondaghsighte  a  Sachim
+of Oneyde their Speaker Chosen for that purpose  &amp;  did  solemnly
+declare the assent of the whole 5 Nations  including  the  Tuscarores
+&amp; fully agreed to the said Propositions  relating  to  the  Peace
+&amp; Boundaries &amp; that in Testimony thereof  they  held  up  the
+Coronet &amp; signed these Propositions<lb/><lb/>
+</p>
+
+<p>
+A  True   Copy   Examined<lb/>   <abbr expan="Pr">P<hi rend="super">r</hi></abbr>   <abbr expan="Philip"> P<hi rend="smallCaps">H</hi>: </abbr> <orig reg="Livingston"> L<hi rend="smallCaps">IVINGSTON</hi></orig>  <abbr expan="Secretary"> Sec<hi rend="super">y</hi></abbr> for<lb/> the Indian Affairs<lb/></p>
+
+<milestone unit="horbar"/>
+
+<pb n="673"/>
+
+<p>
+The Further Propositions of the Governor of Virginia made to the five
+Nations on the <orig reg="10th">10<hi rend="super">th </hi></orig> <abbr expan="September">Sept<hi rend="super">r</hi></abbr>
+1723 immediately after the Indians had  ended  their  answer  to  Sir
+William Keith Bart Governor of Pensylvania<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His <orig reg="Excellency">Excell<hi rend="super">cy</hi></orig> Alexander Spotswood <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>
+Governor of Virginia<lb/> <abbr expan="Coll"> Coll</abbr> Nathaniel Harrison one of His  Maty's
+Council of Virginia<lb/> <abbr expan="Coll"> Coll</abbr> William Robinson a member of the House
+of Burgesses of Virginia<lb/><lb/>
+</p>
+
+<p>
+Commissioners of the Indian Affairs<lb/> <abbr expan="Coll"> Coll</abbr> Peter  Schuyler<lb/>
+<orig reg="Hendr">Hend<hi rend="super">r</hi></orig> Hansen<lb/> Peter Van Brugh<lb/>  John
+Collins<lb/> <abbr expan="Philip">Ph: </abbr> Livingston<lb/><lb/>
+</p>
+
+<p>
+Sachims &amp; Warriors<lb/>
+
+Since the Bounds between your Indians &amp; ours  are  firmly  agreed
+upon tis necessary now to declare the names of the several Nations of
+Indians which the Government of Virginia engages for, &amp; those are
+the Nottoways, Meherins, Nanemonds,<ref n="1" target="n673.01"/>
+Pamunkeys,  Chichominys,  &amp; the  Christanna  Indians  whom  you  call  Todirichroones   that   we
+comprehend under the name,<ref n="2" target="n673.02"/> the Saponies,  Ochineeches,  Stenkenocks,
+Meipontskys &amp; Toteroes, all the forenamed  Indians  having  their
+present Settlements on the East Side of the high Ridge  of  Mountains
+&amp; between the two Great Rivers of Potomack &amp;  Roanoke,  which
+you call Kahongaronton &amp; Konentcheneke &amp; on the other hand it
+is fit at this time that you declare <orig reg="ye">y<hi rend="super">e</hi></orig>  names
+of all those Indians whom you comprehend in the present Treaty  &amp;
+for whose Performance the five Nations will answer<lb/><lb/>
+
+And to mind you of this Proposition I lay down for our ten Nations of
+Indians ten Guns<lb/><lb/>
+
+I have already told you <orig reg="yt">y<hi rend="super">t</hi></orig> we have made  a  Law
+in Virginia to oblige a due performance of  <orig reg="yt">y<hi rend="super">t</hi></orig>
+Article of the Boundaries which you have ratified &amp; it is  highly
+expedient that I now particularly inform you thereof<lb/><lb/>
+
+If any Indians of the aforenamed Nations  belonging  to  Virginia  or
+those whom you declare to be dependent on  your  five  Nations  shall
+hereafter transgress the said Boundaries without  having  the  proper
+Passeports already mentioned every such Indian is by that Law  liable
+to be put to death or transported &amp; sold for a slave &amp; as the
+Government of Virginia will not demand satisfaction for whatever  you
+shall do to any of their Indians whom you shall  take  on  the  North
+Side of Potowmack River &amp; on the West Side of the high  Ridge  of
+Mountains so your people must not look upon it as any Breach  of  the
+Peace &amp; Friendship which Virginia desires to  preserve  with  the
+five Nations, if that Government shall hang or transport any of  your
+Indians who shall hereafter be taken without a proper Passport on the
+South Side of the said River &amp; on  the  east  Side  of  the  said
+Ridge, And I cannot but think that the wiser  sort  of  your  People
+must  approve  of  a  Law  that  will  oblige  your   foolish   &amp;
+ungovernable young men to hearken (better than they always have done)
+to the sage Council of the Elders &amp; to observe more punctually a
+Treaty which their Sachims have thought fit to make for them  and  in
+Token of your five Nations as well as  our  Ten  Nations  of  Indians
+being bound by this Law <hi rend="italics">I  give  fifteen  Guns</hi>
+&amp; that you &amp; your children May at all  times  to  come  truly
+understand what is contained in it, I have brought it  hither,  under
+the Seal of the Colony of Virginia &amp; now lodge it in the hands of
+this Government<lb/>
+</p>
+
+<note id="n673.01" n="1">Nansemonda. <hi rend="italics">New-York Council Minutes</hi>, XIII.,
+354. — <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n673.02" n="2"><hi rend="italics">that</hi> name. <hi rend="italics">Ibid.</hi></note>
+
+
+<milestone unit="horbar"/>
+
+<pb n="674"/>
+
+<p>
+Further Propositions of the <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr> of Virginia made to the five Nations of Indians, <abbr expan="September">Sept<hi rend="super">r</hi></abbr> 11. 1722<lb/><lb/>
+ 
+Sachims &amp; Warriors<lb/>
+
+It appears to be a method agreed upon by your five Nations to receive
+no proposalls, nor have any manner of Treaty with any of the  English
+Provinces, than through the Government  of  New  York  to  which  you
+belong, wherefore Virginia expects you should observe the  same  Rule
+with Respect to that Government &amp; that you should not at any time
+offer to treat with the Indians belonging to that Colony but through
+the Government there &amp; if you should come  to  Virginia  with  an
+intent to treat with our Indians in  any  other  manner,  though  you
+should have Passport from the Government of New York, you must expect
+it will be held void, &amp; you  will  be  treated  as  if  you  came
+without it &amp; with this Proposition I give you a Belt<lb/><lb/>
+
+You sent me last year a  Belt  of  Wampum  as  a  Testimony  of  your
+Promise, that you would seize and  carry  to  Virginia  some  Runaway
+Negroes, belonging to that Colony, whenever you did discover and meet
+with them in the woods, Now I make a general Proposition  to  you  on
+account of Runnaways &amp; Slaves belonging to Virginia viz  that  if
+any such Negroe or Slave shall hereafter fall  into  your  hands  you
+shall straigtway  conduct  them  to  <abbr expan="Coll:"> Coll: </abbr>  George  Masons  House  on
+Potowmack River &amp; I do in behalf of that Colony engage  that  you
+shall there receive immediately  upon  the  delivery  of  every  such
+Runaway one good Gun &amp; two Blankets, or the value thereof,  &amp;
+in Token of this Proposition and Engagement <hi rend="italics">I  lay
+down 5 Guns &amp; 500 flints</hi><lb/><lb/>
+
+You sent this year to demand of  Virginia  four  Indian  boys  to  be
+delivered up to you for four of your Messengers  which  you  alledged
+our  Indians  had  poisoned  Whereupon  I  must  tell  you  that  the
+Government has absolutely rejected your demands &amp; is  too  strong
+&amp; powerful to be scared by <orig reg="ye">y<hi rend="super">e</hi></orig>  threats  of
+the five Nations into any unjust compliance &amp; I am here ready  to
+justify not only our Indians against this charge, but also to  answer
+for the Colony of Virginia &amp; give all due satisfaction if you can
+make it appear that the<ref n="1" target="n674.01"/>
+ people have ever broke  the  Covenant  Chain with any of the 5 Nations<lb/><lb/>
+
+And to put you in mind of what I say on this Head  I  lay  down  five
+bundles of Beds<ref n="2" target="n674.02"/>
+<lb/><lb/>
+
+On the other hand I came here  to  accuse  the  People  of  the  five
+Nations of divers hostilities, Robberies &amp; Repeated  Breeches  of
+their Treaties but since you have declared your desire that all  past
+offences should be forgiven &amp; forgott &amp; have now on your part
+readily  passed  over  an  injury  received  from  a   Christian   in
+Pensylvania &amp; more especially seeing you have so fully  concurred
+in my Propositions of the Boundaries, which  if  duly  observed  must
+effectually prevent all future disorders &amp; Injuries to Virginia I
+shall at this Juncture forbear all particular  Charges  against  you,
+except only that I must say you have so greatly  wronged  the  person
+(<abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> Robert Hicks) when you killed his  Negro
+with  about  seventy  of  his  horses  &amp;  plundered  him   of   a
+considerable cargoe of Goods, that to shew the five nations have  any
+sense  of  Justice  they  cannot  but  make  him  some  amends  &amp;
+Reparation for his losses<lb/><lb/>
+
+And in Token of Virginia now burying all  revenge  &amp;  enmity  for
+your past misdeeds, <hi rend="italics">I lay down a Belt</hi><lb/><lb/>
+
+Above Six hundred miles have we from Virginia come  hither  to  treat
+with you nine days after the appointed time of  our  meeting  did  we
+wait before I could have an opportunity of speaking  with  you  &amp;
+nine days longer before you answered my  first  Proposition  so  that
+seeing a Treaty at Albany occasions so much  trouble  &amp;  expense,
+you must not expect that the<lb/>
+
+<note id="n674.01" n="1"><hi rend="italics">our</hi>  people.  <hi rend="italics">New-York
+Council Minutes</hi>, XIIL, 356. — <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n674.02" n="2">Beads. <hi rend="italics">Ibid</hi>.</note><lb/>
+
+<pb n="675"/>
+
+Government of Virginia will again agree to the renewing it after this
+manner, in this place  wherefore  let  not  your  young  Warriors  be
+possessed with  the  foolish  expectation  of  provoking  (by  their
+Incursions) a Governor of Virginia to come hither again  to  persuade
+you to observe this Treaty, for  be  assured  the  people  there  are
+resolved henceforth to compell an observance thereof. And I hope your
+firm Intentions are to behave themselves so towards Virginia, as that
+we may for ever acknowledge the five Nations to be our friends  &amp;
+allies<lb/><lb/>
+
+And in Testimony of our Understanding this present Treaty to be  made
+upon the footing of what I have  already  declared  in  my  foregoing
+Propositions I shall so soon as I have <abbr expan="received">rec<hi rend="super">d</hi></abbr>  your  Answer,  <hi rend="italics">lay  down such a considerable Token as that not only  <abbr expan="your">y<hi rend="super">r</hi></abbr> Sachims &amp; Warriours but also your Women &amp; Children bear  some Remembrance of this Treaty</hi><lb/><lb/>
+</p>
+
+<p>
+A    true    Copy     <abbr expan="Examined">Exam<hi rend="super">d</hi></abbr>     <abbr expan="P."> P.</abbr>     <abbr expan="Philip"> P<hi rend="smallCaps">H</hi></abbr>: <orig reg="Livingston"> L<hi rend="smallCaps">IVINGSTON</hi></orig><lb/>
+
+<abbr expan="Secretary">Sec<hi rend="super">y</hi></abbr>  for  <orig reg="ye">y<hi rend="super">e</hi></orig>   Indian
+affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+Further Answer  of  <orig reg="ye">y<hi rend="super">e</hi></orig>  five  Nations  to  His
+Excellency <abbr expan="Alexander">Alex:</abbr> Spotswood <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr>  Governor  of Virginia. in Albany 12 <abbr expan="September">Sept<hi rend="super">r</hi></abbr> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— His    Excellency    <abbr expan="Alexander">Alex: </abbr>
+Spotswood <abbr expan="Esquire"> Esq<hi rend="super">re</hi></abbr> Governor of Virginia<lb/> Coll
+Nathaniel Harrison one of His <abbr expan="Matys">Matys</abbr> Council of  Virginia<lb/>  <abbr expan="Coll"> Coll</abbr>
+William Robinson a Member of the assembly of Burgesses of Virginia<lb/><lb/>
+</p>
+
+<p>
+Commissioners of the Indian Affairs<lb/> <abbr expan="Coll"> Coll</abbr> Peter  Schuyler<lb/>
+Peter V Brugh<lb/>  <abbr expan="Henr">Hend<hi rend="super">r</hi></abbr>  Hanse<lb/>  <abbr expan="Philip">Ph: </abbr>
+Livingston<lb/>  <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>  Cuyler<lb/>   John
+Collins<lb/> <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr> Bleeker<lb/><lb/>
+</p>
+
+<p>
+Brother Assarigoe<lb/>
+
+You are come six hundred miles to treat with us &amp; we are glad  to
+see you You have made your Propositions to us  wherein  you  call  us
+Sachims &amp; Warriors of the five Nations, &amp; acquainted us since
+we had agreed not to pass the  River  Kahongoronton,  nor  the  great
+Ridge of Mountains, that there is a Law in Virginia prohibiting us to
+pass that River  or  those  Mountains  under  the  Penalty  of  being
+transported or sold for Slaves, or put to death We do assure  you  we
+are very well  satisfied  with  that  Law  &amp;  desire  that  those
+Boundaries may be for ever observed, You have also told us  that  you
+will engage for ten Nations of Indians in Virginia, that  they  shall
+not Pass to the North side of the  River  Kahongoronton  nor  to  the
+Westward of the Great Ridge of Mountains &amp; that if we should meet
+with any of them without those Boundaries, we might use  them  as  we
+thought fit, without Breaking this  Peace  notwithstanding  which  we
+assure you if any of your Indians shall happen in our way we will not
+hurt them, but treat them as friends &amp;  give  them  victuals,  so
+desirous we are of being at Peace with them<lb/><lb/>
+</p>
+
+<p>
+Brother Assarigoe<lb/>
+
+As you engaged for Ten nations so do we  viz  for  the  five  Nations
+[and]    for     the     Tuskarores,     Conestogoes,<ref n="1" target="n675.01"/>
+Chuanoes,<ref n="2" target="n675.02"/>
+Ochtaghquanawicroones,<ref n="3" target="n675.03"/>
+&amp; Ostanghaes,<ref n="4" target="n675.04"/>
+which live upon Susquehana<lb/>
+
+<note id="n675.01" n="1">Iroquois at Conestoga, Lancaster county, Pa.</note>
+
+<note id="n675.02" n="2">Shawanese.</note>
+
+<note id="n675.03" n="3">Iroquois, chiefly  Mohawks,  settled  at  Ochquaqua,  now  Windsor,
+Broome county, N. Y.</note>
+
+<note id="n675.04" n="4">Occupying,   probably,   the   Otstonwackin   of   Loskiel,   <hi rend="italics">Indian Missions</hi>, II., 32, near the Ostonage, which
+falls into the west branch of the Susquehannah, in  Lycoming  county,
+Pa., and is now called the Loyalsock creek. The locality derives its
+Indian name from <hi rend="italics">Ostenra</hi>, a rock, which Conrad
+Weiser says was  a  prominent  object,  opposite  that  village.  <hi rend="italics"> Collections of Historical Society of Pennsylvania</hi>,
+I., 8. — <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note><lb/>
+
+<pb n="676"/>
+
+River you likewise told us, that we had made it a Rule not  to  treat
+with any of the  Neighbouring  Governments  but  at  Albany,  so  you
+expected we should not treat  with  your  Indians  but  through  <orig reg="ye">y<hi rend="super">e </hi></orig> <abbr expan="Government">Goverm<hi rend="super">t</hi></abbr> of  Virginia  &amp;
+that tho' we should come with a Pass we  must  not  treat  separately
+with those Indians for <orig reg="ye">y<hi rend="super">e</hi></orig> Pass would be  looked
+upon as void if we should We agree to  this  Proposition  &amp;  promise that we will not at any  time  make  any  Treaty  with  the  Virginia Indians  without  first  acquainting  the  Governor  therewith  &amp; hereupon we give a Belt<lb/><lb/>
+</p>
+
+<p>Brother Assarigoe<lb/>
+
+You told us yesterday that you would not sum up  any  of  our  former
+Misdeeds but would forgive all that  is  passed  We  acknowledge  our
+People have been guilty of a great many bad  actions  &amp;  heartily
+thank you that you are so good as to forgive them &amp;  as  to  that
+honest man <abbr expan="Captain"> Capt<hi rend="super">n</hi></abbr> Hicks we own  our  people  did
+rob him of a very considerable booty &amp; did him a  great  deal  of
+Mischeif, but by an accident that befel us afterwards it happened  we
+got very little by it for the woods being very dry by the  negligence
+of some of our own people took fire &amp; thereby we  lost  the  most
+part of what we had taken:  Nevertheless  when  we  are  able  we  do
+promise to make that poor man some reparation for his  loss,  but  at
+this juncture we are not in a capacity of doing it We have now made a
+Peace with you &amp; we  hope  it  will  be  kept  by  us  &amp;  our
+Children's Children for ever &amp; thereupon we give a Belt<lb/><lb/>
+</p>
+
+<p>Brother Assarigoe<lb/>
+
+As to the Proposition you made relating to Negroes We promise that if
+any Runaway Negroes or slaves shall happen to fall into our hands  we
+will  carry  them  to  <abbr expan="Coll:"> Coll: </abbr>  Masons  on  Potowmack  River  for  <orig reg="ye">y<hi rend="super">e</hi></orig> reward you proposed: But  as  to  those  Negroes
+which you said we promised last year to send home we  hope  you  will
+excuse us because they lye very much out of our way &amp; may be  had
+more easily by other Indians Yet if we  can  serve  Virginia  in  any
+other thing we shall be glad of an opportunity of doing  it<lb/><lb/>
+</p>
+
+<p>Now Brother Assarigoe<lb/>
+
+Since we are resolved in case we should find  any  of  your  Virginia
+Indians  on  the  Westside   of   the   Great   Mountains   or   <orig reg="ye">y<hi rend="super">e</hi></orig> North side of the River Kahongoronton not  to  do
+them any hurt, we desire that you would  tell  them  when  they  make
+fires beyond any of those Boundaries, to lay a  stone  in  them  when
+they leave their quarters &amp; we will do  <orig reg="ye">y<hi rend="super">e</hi></orig>
+same, which will be a sign to us both  <orig reg="yet">y<hi rend="super">t</hi></orig>  our
+friends have passed<lb/><lb/>
+
+And lastly we desire that this Peace may be  kept  by  us  &amp;  our
+Childrens Children who will rejoice for  the  making  and  concluding
+thereof We have a small Present to  make  you  &amp;  hope  you  will
+accept of it tho' it is a small one &amp; excuse us that we  are  not
+able to give more — And then  they  gave  some  furs  &amp;  Dear
+Skins<lb/><lb/>
+
+The Governor told them they had taken no notice of  that  Proposition
+wherein he mentioned their demand of four Indian boys to be delivered
+up to them for four of their Messengers which they  had  charged  the
+Virginia Indians with Poisoning and desired to know whether they were
+satisfied that that accusation was  not  just —  To  which  they
+answered that they were well assured it was not so that  one  of  the
+Persons who went with those Indians to  Virginia,  was  then  present
+&amp; they were satisfied they died natural deaths &amp; had  nothing
+to accuse Virginia of<lb/><lb/>
+
+The Governor thanked them for their Present, &amp; said  he  did  not
+look upon it according to its value, but accepted it  as  if  it  had
+been much more. He said he wished it had been greater
+
+<pb n="677"/>
+
+only on account of Captain Hicks to  whom  he  gave  it  as  a  small
+Satisfaction of the damage he had sustained by the five Nations. Then
+they wished him a good voyage whom &amp; told him they should be glad
+to hear of his safe arrival<lb/><lb/>
+
+Then the Governor told them he must take particular notice  of  their
+speaker &amp; <hi rend="italics">gave him  a  golden  Horse  Shoe</hi>
+which he wore at his Breast &amp; bid the Interpreter tell him  there
+was an inscription upon [it] which signified that it  would  help  to
+pass over the mountains &amp; that when any of  their  People  should
+come to Virginia with a Pass they should bring it with them<lb/><lb/>
+
+And then the <abbr expan="Governor">Gov<hi rend="super">r</hi></abbr>  Gave them His Presents<lb/>
+</p><lb/>
+
+<p>
+A True Copy examined<lb/>
+
+<abbr expan="Pr">P<hi rend="super">r</hi></abbr>  <abbr expan="Philip">PH: </abbr>  <orig reg="Livingston">L<hi rend="smallCaps">IVINGSTON</hi></orig>
+<abbr expan="Secretary">Sec<hi rend="super">y</hi></abbr><lb/>
+
+for Indian Affairs<lb/>
+</p><lb/>
+
+<milestone unit="horbar"/>
+
+<p>
+<hi rend="center"><hi rend="bold">Conference between the  Governor
+of Pennsylvania and the Five Nations.</hi></hi><lb/>
+
+
+<hi rend="center">[New-York Papers, Cc, 105.]</hi>
+</p><lb/>
+
+
+<p>
+Propositions made to the five  Nations,  viz  the  Maquase,  Oneydes,
+Onnondages Cayouges &amp; Sinnekees by the <orig reg="Honorable">Hônble</orig> Sir  William  Keith
+Bart Governor of the Province  of  Pensilvania  in  Albany  the  <orig reg="7th">7<hi rend="super">th</hi></orig> day of <abbr expan="September">Sep<hi rend="super">br</hi></abbr> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— The <orig reg="Honorable">Hônble</orig> Sir William  Keith Bart Governor of Pensylvania<lb/><lb/>
+</p>
+
+<p>
+Members of the Council of Pensilvania<lb/> Richard Hill<lb/>  Isaac
+Norris<lb/> <abbr expan="Coll"> Coll</abbr> John French<lb/><lb/>
+</p>
+
+<p>
+Commissioners of the Indian Affairs<lb/> Peter Van Brugh<lb/>  <abbr expan="Philip">Ph: </abbr>
+Livingston<lb/>  <abbr expan="Hendr">Hend<hi rend="super">r</hi></abbr>  Hanse<lb/>   John
+Collins<lb/><lb/>
+</p>
+
+<p>
+Interpreted by James Latort into the Delaware Indian Language  to  an
+Indian called Captain Smith, &amp; by him into the  Maquase  Language
+to the 5 Nations, Lawrence Claese Interpreter being present<lb/><lb/>
+</p>
+
+<p>
+Brethren<lb/>
+
+I have travelled a great way to see you &amp; to hold some  Discourse
+with you the people of Pensylvania have always been  friends  to  the
+five Nations they have punctually observed all their former  Treaties
+<abbr expan="with">w<hi rend="super">t</hi></abbr> you. They expect that you do not forget them
+&amp; therefore I am come to brighten the chain between us, you  sent
+me word that you desired to see me and I have obtained  leave  of  my
+brother, the Governor of New York to renew our former Treaties  [with
+you] at this Place &amp; I am glad he is  present  with  us  to  hear
+&amp; observe all that is spoken, Some of your ancient  men  can  yet
+remember the first Settlement of  the  Province  of  Pensylvania,  by
+William Penn, he was a good man &amp; had a great affection  for  all
+Indians, he entered into Leagues of Friendship with them as  Brethren
+&amp; he gave it in charge to his Governors whom he left in his Place
+&amp; to all his people that they should continue  to  do  the  same,
+Divers great men from the five  Nations  have  on  several  occasions
+visited us at Philadelphia and Conestogoe we were always glad to  see
+them and treated them kindly like Brethren they made firm
+
+<pb n="678"/>
+
+leagues of friendship with us and frequently renewed and strengthened
+them we became as one People and hope always to continue  so  and  as
+often as the five Nations renewed their League with our  great  &amp;
+good friends the Governors of New York it still  united  them  more
+nearly to us as being subjects of one and the same great  King.  Last
+summer that wise and good man  Ghesaont  with  some  others  of  your
+people came in the name of all  the  five  Nations  to  visit  us  at
+Conestogoe we received them with joy and opened our  hearts  to  each
+other he rejoiced to see us and our Indians live  in  so  much  Peace
+together We brightened the Chain that it might be  clear  strong  and
+lasting as the Sun &amp; Stars, but when we heard that Ghesaont  died
+in Virginia we were very sorry, yet I hope the five Nations  received
+my Words of Love &amp; Friendship to their Sachims &amp; to all  your
+people with the Golden Medal &amp; the Presents then delivered it was
+then stipulated and agreed between us  that  we  should  all  be  one
+people <abbr expan="yet">y<hi rend="super">t</hi></abbr> the five Nations  should  not  do  an
+injury to any of us more than to themselves &amp; that we should  not
+do an injury to any of the five Nations more than to our  own  people
+or if any person did such injury, they should be punished for  it  in
+the same manner as if done to an Englishman<lb/><lb/>
+
+Since that time a very unhappy accident has fallen out which gave  us
+great greif Last winter we heard that one of  the  five  Nations  had
+lost his Life by means of some of our People &amp; the very next  day
+after the news came to me at Philadelphia, I sent two of  my  Council
+to Conestogoe to enquire into [the matter and bring me]<ref n="1" target="n678.01"/>
+  the  truth,
+they found that the quarrel arose about Rum between a Brother of  the
+five Nations who hunted near Potowmack &amp; two of our  Traders  the
+Indian was angry &amp; went hastely &amp; took his Gun  to  kill  the
+Englishmen, they in defence of themselves seized the Indian &amp;  in
+struggling gave him some blows &amp; left him, We  heard  our  Indian
+friend and brother died the next day the men who did this action were
+brought to Philadelphia &amp; put in prison &amp; they will be  tried
+according to our Laws, in <orig reg="ye">y<hi rend="super">e</hi></orig> same manner as  if
+they had killed an Englishman &amp; to prevent such mischeifs for the
+future we have made a severe law against selling Rum to the  Indians.
+Though this misfortune gave us great greif yet we are  perswaded  the
+Cheif Sachims of the five  Nations  are  so  wise  as  to  know  such
+accidents may  happen  without  any  ill  design  among  the  nearest
+Brethren &amp; by this they will see how strictly we keep our Leagues
+&amp; Treaties in punishing those who  shall  dare  to  offend  &amp;
+injure them or any of their people, I made haste to send a message to
+<orig reg="ye">y<hi rend="super">e</hi></orig> five nations by  Sachichoe  to  express  our
+Sorrow &amp; received their kind answer by the  return  of  the  same
+Messenger, you received our message like true Brethren desiring us to
+wipe  away  our  Tears  &amp;  invited  me  to  come  &amp;  see  you
+immediately I sent Sachiloe back with this answer that I  would  meet
+you at Albany with my good friend [s] the  Governor[s]  of  New  York
+&amp; Virginia &amp; I sent some tokens to your Sachims which I  hope
+they received  with  a  mourning  Gold  Ring  of  my  own  finger  to
+Sacaunkehaute, Sahichoe returned speedily &amp;  said  you  would  be
+glad to see me at Albany he  also  told  me  you  desired  that  John
+Cartright<ref n="2" target="n678.02"/>
+   might   be   released   out   of   prison   &amp;   <abbr expan="yet">y<hi rend="super">t</hi></abbr> the injury done to your kinsman may  be  forgott.
+But Sachichoe brought no Belt nor other token to  confirm  his  words
+&amp; therefore I have brought him along with me that  you  may  know
+and tell me if he spoke Truth. Brethren you see I am come  here  with
+four of my Councells to visit you I have left my family &amp;  People
+&amp; have travelled a great way to take you  by  the  hand  to  join
+hearts &amp; to rejoice in seeing each others faces  for  all  clouds
+&amp; darkness must be done  away,  that  the  flame  of  Love  &amp;
+Affection may burn clear in our Breasts. I have<lb/>
+
+<note id="n678.01" n="1">The  words  within  [  ]  in  this  paper  are  added   from   <hi rend="italics">New-York  Colonial  Manuscripts</hi>,  XIII.,  and  <hi rend="italics">Pennsylvania Colonial Records</hi>, III.</note>
+
+<note id="n678.02" n="2">J<hi rend="smallCaps">OHN</hi> C<hi rend="smallCaps">ARTLIDGE</hi>.
+<hi rend="italics">New York Council Minutes</hi>,  XIII.,  343;  <hi rend="italics">Pennsylvania   Colonial   Records</hi>,    III,    198.
+ — <orig reg="Ed.">E<hi rend="smallCaps">D.</hi></orig></note><lb/>
+
+<pb n="679"/>
+
+brought  these  goods  with  me  to  bind  my  words  viz —  <hi rend="italics">five pieces of Strouds  for  clothing,  five  Casks  of
+Powder &amp; 500 <abbr expan="weight">wg<hi rend="super">t</hi></abbr> of Lead</hi>, to encourage
+your hunting that you may grow rich &amp; strong, &amp; I desire that
+you will receive them as a pledge of our firm Resolution to  live  in
+perpetual Peace &amp; under the strongest Tyes of friendship with the
+five Nations, that  you  will  ever  remember  us  as  your  Brethren
+&amp; not suffer any of your young men when the Travel to hurt any  of
+our Inhabitants, no more than they would  their  own  or  kill  their
+cattle &amp; stock, &amp; that this visit &amp;  the  Covenant  Chain
+which  is  hereby  renewed  &amp;  brightened  may  be  recorded   in
+everlasting remembrance to be sent down to your  &amp;  our  children
+&amp; to our Childrens Children, to last as  long  as  the  mountains
+&amp;  Rivers  &amp;  the   sun   &amp;   moon   shall   endure   <hi rend="italics">I also gave you these two pieces  of  Blankets</hi>  to
+wipe away &amp; dry up the blood that has been spilt &amp;  to  cover
+it so as that it may never be seen or heard of more<lb/><lb/>
+
+I live at a great distance from the Brethren &amp; perhaps may  never
+see so many of your grave ancient  men  together  again — I  will
+therefore like a true brother leave with you my best advice  for  the
+happiness &amp; welfare of your people &amp;  as  often  as  you  <hi rend="italics">look upon these two Belts</hi> Remember that  this  one
+signifies the strength which a wise nation acquires &amp; secures  to
+its People, by peaceable counsells &amp; increasing the number of its
+friends &amp; this other Belt represents to you  a  bold  firm  true
+heart that abhors falsehood but is ever faithful to its friends &amp;
+punctually observes whatsoever it promises<lb/><lb/></p>
+
+
+<p>
+A true Copy <abbr expan="Examined">Exam<hi rend="super">d</hi></abbr><lb/>
+
+<abbr expan="Pr">P<hi rend="super">r</hi></abbr>   <abbr expan="Philip"> P<hi rend="smallCaps">H</hi>: </abbr>    <orig reg="Livingston"> L<hi rend="smallCaps">IVINGSTON</hi></orig> <abbr expan="Secretary"> Sec<hi rend="super">y</hi></abbr><lb/>
+for the Indian Affairs<lb/><lb/>
+</p>
+
+<milestone unit="horbar"/>
+
+<p>
+Answer made by the Indians  of  the  five  Nations  viz  the  Maquase
+Oneydes, Onnondages, Cayouges &amp; Sinnekes to the Propositions made
+by the <orig reg="Honorable">Hônble</orig> Sir William Keith  Bart  Governor  of  Pensilvania,  in
+Albany <orig reg="ye">y<hi rend="super">e</hi></orig> 10 day <abbr expan="September">Sept<hi rend="super">r</hi></abbr> <orig reg="Ao"> A<hi rend="super">o</hi></orig> 1722<lb/><lb/>
+
+<orig reg="Present">P<hi rend="smallCaps">RESENT </hi></orig>— The <orig reg="Honorable">Hônble</orig> Sir William  Keith
+Bart Governor of Pensylvania<lb/><lb/>
+</p>
+
+<p>
+Members of the Council of Pensilvania<lb/> Richard Hill<lb/>  <abbr expan="Coll"> Coll</abbr>
+John French<lb/>  Isaac  Norris<lb/>  <abbr expan="Andr">And<hi rend="super">r</hi></abbr>
+Hamilton<lb/><lb/>
+</p>
+
+<p>
+Commissioners of Indian Affairs<lb/>  <abbr expan="Coll"> Coll</abbr>  Peter  Schuijler<lb/>
+Evert Banker<lb/> Peter V Brugh<lb/> <abbr expan="Philip">Ph.</abbr>  Livingston<lb/>  <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>   Cuyler<lb/>   <abbr expan="Johs">Joh<hi rend="super">s</hi></abbr>
+Bleeker<lb/> <abbr expan="Hendr">Hend<hi rend="super">r</hi></abbr> Hanse<lb/> John Collins<lb/><lb/>
+</p>
+
+<p>
+Interpreted by Lawrence Claese into Dutch &amp; rendered into English
+by Robert Livingston<lb/><lb/>
+</p>
+
+<p>
+Brother Onas,<lb/>
+
+which signifies a Pen in the Language of the 5 Nations by which  name
+the call all the Governors of Pensylvania since it was first  settled
+by William Penn<lb/><lb/>
+
+You told us in your Propositions some days agoe that you was come  a
+great way to see us of <orig reg="ye">y<hi rend="super">e</hi></orig> 5 Nations  We  thank
+you for your good Will to us &amp; are very glad to see you  here  in
+good health &amp; we hope a good understanding &amp;  agreement  will
+be made &amp; concluded between us<lb/>
+
+<pb n="680"/>
+
+You told us also that you was come to renew the Covenant  Chain  that
+has been made between us so long agoe even at the first  settling  of
+the Province of Pensylvania &amp; to brighten the  Chain  and  remove
+&amp; do away any Spott or Rust that may be grown upon it  since  our
+last meeting and Conference at Conestogoe.<lb/><lb/>
+</p>
+
+<p>
+Brother Onas<lb/>
+
+You have told us <abbr expan="yet">y<hi rend="super">t</hi></abbr> at that time you brightened
+the Covenant Chain between us, that it might be clear  &amp;  lasting
+as <orig reg="ye">y<hi rend="super">e</hi></orig> Sun &amp; Stars in Heaven, for  which  we
+thank  you,  &amp;  we   being   now   all   present   do   in   <orig reg="ye">y<hi rend="super">e</hi></orig> most  solemn  &amp;  publick  manner  renew  <orig reg="ye">y<hi rend="super">e</hi></orig> Covenant &amp; brighten the  Chain  made  between
+us, that the lustre thereof may never be obscured by  any  clouds  or
+darkness, but may  shine  as  clear,  &amp;  last  as  long  as  <orig reg="ye">y<hi rend="super">e</hi></orig> Sun in the Firmament<lb/><lb/>
+</p>
+
+<p>
+Brother Onas<lb/>
+
+You have likewise told us how William Penn who was a good man did  at
+his first Settlement of the Province of Pensylvania make  leagues  of
+friendship with the Indians &amp; treated them  like  Brethren  &amp;
+that like the same good  man  he  left  it  in  charge  to  all  his
+Governors  who  should  succeed  him  &amp;  to  all  the  People  of
+Pensylvania that they should always keep the Covenant and treaties he
+had made with <orig reg="ye">y<hi rend="super">e</hi></orig> five Nations  and  treat  them
+with love &amp; kindness we  acknowledge  that  his  Governors  &amp;
+People have always kept the same honestly &amp; truly unto this  day,
+so we on our parts always have kept &amp; for ever  shall  keep  firm
+Peace &amp; Friendship with  a  good  Heart  to  all  the  people  of
+Pensylvania, We thankfully receive &amp; approve of all the  articles
+in your Proposition to us &amp; acknowledge them  to  be  good  &amp;
+full of Love we receive &amp; approve of  the  same  with  our  whole
+hearts because we are not only made one People by the Covenant Chain,
+but we also are People united in one head one body &amp; one Heart by
+the strongest Tyes of Love &amp; friendship<lb/><lb/>
+</p>
+
+<p>Brother Onas<lb/>
+
+You desire there may be a perpetual Peace  &amp;  friendship  between
+you &amp; the five  Nations  and  between  your  children  &amp;  our
+children &amp; that the same may be kept as  long  as  the  mountains
+&amp; Rivers endure; all which we like well and on  our  Part  desire
+that the Covenant &amp; Union made with  a  clean  &amp;  true  Heart
+between you and us may last as long  as  the  sun  &amp;  moon  shall
+continue to give light &amp; we will deliver this in  charge  to  our
+children that it may be kept in Remembrance with their  children  and
+childrens children to the latest ages and we desire  that  the  Peace
+and Tranquillity that is now established between us, may be as  clear
+as the sun shining in its Lustre without any cloud or darkness  &amp;
+that the same may continue for ever<lb/><lb/>
+</p>
+
+<p>Brother Onas<lb/>
+
+We have well considered all that you have spoken &amp; like it  well,
+because it is only renewing the former leagues  &amp;  Treaties  made
+between the Government of Pensylvania &amp; us of  the  five  Nations
+which we always beleived we were obliged  to  keep,  And  as  to  the
+accident of one of our friends being killed by some  of  your  people
+which has happened by Misfortune, &amp; against your Will we say that
+as we are all in Peace we think it hard the  Person  who  killed  our
+friend and brother should suffer &amp; we do in the name of  all  the
+five nations forgive that offence  &amp;  desire  you  will  likewise
+forgive it &amp; that the men who did it may be released from  Prison
+&amp; set a[t] liberty to go  whither  they  please  &amp;  we  shall
+esteem that as a mark of your regard &amp;  friendship  for  ye  live
+Nations &amp; as a further confirmation of this Treaty<lb/>
+</p>
+
+<pb n="681"/>
+
+<p>Brother Onas<lb/>
+
+We say further we are glad to hear the former Treaties we  have  made
+with William Penn repeated to us again and renewed by you,  &amp;  we
+esteem &amp; love you as if you were William Penn himself we are glad
+you have wiped away and covered<orig reg="ye"> y<hi rend="super">e</hi></orig> blood of our
+dead friend &amp; brother &amp; we desire the same may be forgott  so
+as it may never be more mentioned or remembered<lb/><lb/>
+
+It is needless for us to answer every particular of your Proposition,
+because we acknowledge the whole to be good  and  acceptable  to  us,
+Especially your good advice which we  will  always  remember  and  in
+Testimony thereof and as a full confirmation of our agreement consent
+&amp; approbation &amp; all that you have proposed &amp; we have here
+said and promised we lay down a few  Beaver  Bear  &amp;  drest  Deer
+Skins and so concluded<lb/><lb/>
+
+Then the Governor expressd his Satisfaction with their  answer  &amp;
+gave them thanks for their good will &amp; love to him and <orig reg="ye">y<hi rend="super">e</hi></orig>  People of Pensylvania<lb/><lb/>
+
+The Indians then desired to know of the Governor if the men who  were
+in Prison for killing their friend &amp; brother were  discharged  to
+which the Governor answered that they were let out  upon  Bails  they
+then desired that the men might be discharged to which  the  Governor
+answered that as soon as he returned to Philadelphia  he  would  give
+such orders in that affair as should fully answer the request of  the
+five nations in order to confirm the Friendship that  is  so  happily
+renewed &amp; established by this Treaty.<lb/><lb/>
+</p>
+
+<p>
+A True Copy, <orig reg="Examined">Examin<hi rend="super">d</hi></orig><lb/>
+
+<abbr expan="Pr">P<hi rend="super">r</hi></abbr>   <orig reg="Philip"> P<hi rend="smallCaps">HILIP</hi></orig>   <orig reg="Livingston"> L<hi rend="smallCaps">IVINGSTON</hi></orig> <abbr expan="Secretary"> Sec<hi rend="super">y</hi></abbr>  for  <orig reg="ye">y<hi rend="super">e</hi></orig> Indian Affairs<!-- <ref target="n681.00" n=""></ref> -->
+
+<lb/><lb/>
+</p>
+
+</body>
+<!--<back>
+<div1 type="notes">
+
+
+
+
+Footnotes moved - 13 February 2006 - CB 
+
+<note id="n660.01" n="1">Called by the English, sometimes Catawbas, <hi
+rend="italics">ante</hi>,     491;     sometimes     Saponies,     <hi
+rend="italics">post</hi>, p. 673; also <hi  rend="italics">Pennsylvania
+Colonial     Records</hi>,      III,      210.      &#8212;      <orig reg="Ed">E<hi
+rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n666.01" n="1">The   instructions   in   <hi  rend="italics">New-York   Council
+Minutes</hi>,   XIIL,   350,   are   the   same   as    those,    <hi
+rend="italics">ante</hi> p. 641, to Captain Peter Schuyler,  Jr.,  who
+had built a Trading House and  passed  a  year  at  Caniaterundequat.
+ &#8212; <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n671.01" n="1">Christanna   Indians.    <hi rend="italics">New-York    Council
+Minutes</hi>, XIII., 367. &#8212; <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n673.01" n="1">Nansemonda. <hi rend="italics">New-York Council Minutes</hi>, XIII.,
+354. &#8212; <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n673.02" n="2"><hi rend="italics">that</hi> name. <hi rend="italics">Ibid.</hi></note>
+
+
+<note id="n674.01" n="1"><hi  rend="italics">our</hi>  people.  <hi   rend="italics">New-York
+Council Minutes</hi>, XIIL, 356. &#8212; <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n674.02" n="2">Beads. <hi rend="italics">Ibid</hi>.</note>
+
+<note id="n675.01" n="1">Iroquois at Conestoga, Lancaster county, Pa.</note>
+
+<note id="n675.02" n="2">Shawanese.</note>
+
+<note id="n675.03" n="3">Iroquois, chiefly  Mohawks,  settled  at  Ochquaqua,  now  Windsor,
+Broome county, N. Y.</note>
+
+<note id="n675.04" n="4">Occupying,   probably,   the   Otstonwackin   of   Loskiel,   <hi
+rend="italics">Indian Missions</hi>, II., 32, near the Ostonage, which
+falls into the west branch of the Susquehannah, in  Lycoming  county,
+Pa., and is now called the Loyalsock creek. The locality derives its
+Indian name from <hi rend="italics">Ostenra</hi>, a rock, which Conrad
+Weiser says was  a  prominent  object,  opposite  that  village.  <hi
+rend="italics"> Collections of Historical Society of Pennsylvania</hi>,
+I., 8. &#8212; <orig reg="Ed">E<hi rend="smallCaps">D</hi></orig>.</note>
+
+<note id="n678.01" n="1">The  words  within  [  ]  in  this  paper  are  added   from   <hi
+rend="italics">New-York  Colonial  Manuscripts</hi>,  XIII.,  and  <hi
+rend="italics">Pennsylvania Colonial Records</hi>, III.</note>
+
+<note id="n678.02" n="2">J<hi rend="smallCaps">OHN</hi> C<hi rend="smallCaps">ARTLIDGE</hi>.
+<hi rend="italics">New York Council Minutes</hi>,  XIII.,  343;  <hi
+rend="italics">Pennsylvania   Colonial   Records</hi>,    III,    198. &#8212; <orig reg="Ed.">E<hi rend="smallCaps">D.</hi></orig></note>
+
+ -->
+
+
+<!-- There is a footnote in this paragraph, after  the final line of text.  I think that it will be unnecessary to include it.
+
+And this is the footnote:
+
+[Here follows the Fourth day's Conference between  the  Five  Nations
+and Lieutenant Governor Nanfan, dated the 19th  July,  1701,  already
+printed     in      Vol.      IV.,      904-906.      q.v. &#8212; <orig reg="Ed">E<hi
+rend="smallCaps">D</hi></orig>.]
+
+
+
+</div1>
+</back>
+-->
+
+</text>
+</TEI.2>

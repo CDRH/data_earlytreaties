@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0844">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">844	H.R. 4001 (Fifty-sixth Congress, First Session &#8212; McKinley)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0844</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>McKinley</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>844	H.R. 4001 (Fifty-sixth Congress, First Session &#8212; McKinley)</head>
+
+<p>Authorizing the adjustment of rights of settlers on the Navajo Indian Reservation, Territory of Arizona.</p>
+
+<p>Vetoed May 3, 1900.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 657 (33 <title>Cong. Rec.</title> 5132).</p>
+
+<p>Veto unchallenged.</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 181.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0844.01.pdf">Settlers on the Navajo Indian Reservation.  Message from the President of the United States, returning, without approval, H.R. 4001, entitled “An Act Authorizing the Adjustment of Rights of Settlers on the Navajo Indian Reservation, Territory of Arizona.”</ref>  (1900).   House of Representatives.  56th Congress, 1st session.  House Document No. 657 (<title>Serial Set</title> 3997).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 56TH CONGRESS, HOUSE OF REPRESENTATIVES.  DOCUMENT 1st Session.	No. 657. </fw>
+<head>SETTLERS ON THE NAVAJO INDIAN RESERVATION.</head>
+<milestone unit="rule />
+<p>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING,
+WITHOUT APPROVAL, H. R. 4001, ENTITLED "AN ACT AUTHORIZING THE ADJUSTMENT OF RIGHTS OF SETTLERS ON THE NAVAJO INDIAN RESERVATION, TERRITORY OF ARIZONA."</p>
+<head type="sub">MAY 4,1900.&#8212;Referred to the Committee on Indian Affairs and ordered to be printed.</head>
+<opener>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I herewith return without approval H. R. 4001, entitled "An act authorizing the adjustment of rights of settlers on the Navajo Indian Reservation, Territory of Arizona." My objections to the bill are embodied in the following statement:</p>
+<p>This tribe has a population of about 20,500 souls, of whom 1,000 dress in the manner of white men, 250 can read, and 500 use enough English for ordinary conversation. Last year they cultivated 8,000 acres, and possessed, approximately, 1,000,000 sheep, 250,000 goats, 100,500 cattle, 1,200 swine, and very considerable herds of horses and ponies. Prior to January last the reservation, which is in the extreme northeastern portion of the Territory of Arizona, consisted of lands set apart for the use of these Indians under the treaty of June 1, 1863 (15 <title>Stat.</title>, 667), and subsequent Executive orders. On account of the conditions naturally prevailing in that section the reservation as then constituted was altogether inadequate for the purposes for which it was set apart. There was not a sufficient supply of grass or water within its borders for the flocks and herds of the tribe, and in consequence more than one-third of the Indians were habitually off the reservation with their flocks and herds, and were in frequent contention and strife with whites over pasturage and water. After most careful inquiry and inspection of the reservation as it then existed, and of adjacent lands, by efficient officers in the Indian service, the Commissioner of Indian Affairs, with the concurrence of the Secretary of the Interior, recommended that the limits of the reservation be extended westward so as to embrace the lands lying between the Navajo and Moqui Indian reservations on the east and the Colorado and Little<pb n="2" />
+<fw> 2	SETTLERS ON THE NAVAJO INDIAN RESERVATION. </fw>
+Colorado rivers and the Grand Canyon Forest Reserve on the west. This recommendation was supported by a very numerously signed petition from the white residents of that section, and also by a letter from the governor of the Territory of Arizona, in which it was said:</p>
+<quote>
+<p>I understand that a petition has been forwarded asking that the western limit be fixed at the Little Colorado River as being better for all concerned and less liable to cause friction between the Indians and the whites. I earnestly hope that the prayer of the petitioners be granted, for the reason that the Little Colorado could be made a natural dividing line, distinct and well defined, and would extend the grazing territory of the Navajoes to a very considerable extent without seriously encroaching upon the interests of white settlers who have their property in that neighborhood.</p>
+<p>I think great care should be exercised in questions of this nature, because of possible serious friction which may occur if the interests of all concerned are not carefully protected</p>.
+</quote>
+<p>The investigation which preceded this recommendation, and upon which it was in part based, showed that with the boundaries of the reservation thus extended the Indians would be able to obtain within the limits of the reservation sufficient grass and water for their flocks and herds, and the Government would therefore be justified in confining them to the reservation, thus avoiding the prior contention and friction between them and the whites.</p>
+<p>It appearing that but little aid had been extended to these Indians by the Government for many years, that they had taken on habits of industry and husbandry which entitled them to encouragement, and that it was neither just nor possible to confine them to the limits of a reservation which would not sustain their flocks and herds, an order was issued by me January 8 last extending the reservation boundaries as recommended. The Indians have accepted this as an evidence of the good faith of the Government toward them, and it is now the belief of those charged with the administration of Indian affairs that further contention and friction between the Indians and whites will be avoided if this arrangement is not disturbed.</p>
+<p>The present bill proposes to open to miners and prospectors and to the operation of the mining laws a substantial portion of this reservation, including a part of the lands covered by the recent order. There has been no effort to obtain from the Indians a concession of this character, nor has any reason been presented why, if these lands are to be taken from the&#8212;for that will practically result from this bill if it becomes a law, even though not so intended&#8212;it should not be done in pursuance of negotiations had with the Indians as in other instances. The Indians could not understand how lands given to them in January as necessary for their use should be taken away without previous notice in May of the same year. While the Indians are the wards of the Government, and must submit to that which is deemed for their best interests by the sovereign guardian, they should, nevertheless, be dealt with in a manner calculated to give them confidence in the Government and to assist them in passing through the inevitable transition to a state of civilization and full citizenship. Believing that due consideration has not been given to the status and interests of the Indians, I withhold my approval from the bill.</p>
+<closer><signed>WILLIAM MCKINLEY. </signed>
+<dateline>EXECUTIVE MANSION, May 3, 1900.</dateline></closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0844.02.pdf"><title>Congressional Record 33</title>, 5132</ref> (1900).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 5132	CONGRESSIONAL RECORD HOUSE.	MAY 4;  </fw>
+<p>to be a first lieutenant in the Revenue-Cutter Service of the United States, to succeed William C. De Hart, promoted.</p>
+<p>Third Lieut. Charles W. Cairnes, of Maryland, to be a second lieutenant 'in the Revenue-Cutter Service of the United States, to succeed Andrew J. Henderson, promoted.</p>
+<head>GOVERNOR OF HAWAII.</head>
+<p>Sanford B. Dole, of Hawaii, to be governor of the Territory of
+an original appointment under the provisions of the act of Congress entitled "An act to provide a government for the Territory of Hawaii," approved April 30, 1900.</p>
+<head>SECRETARY OF HAWAII.</head>
+Henry E. Cooper, of Hawaii, to he secretary of the Territory of Hawaii, an original appointment under the provisions of the act of Congress entitled "An act to provide a government for the Territory of Hawaii," approved April 30, 1900.
+<milestone unit="rule />
+<head>CONFIRMATIONS.</head>
+<p>Executive nominations confirmed by the Senate May 4, 1900,</p>
+<head>SECRETARY OF LEGATION.</head>
+<p>Sidney B. Everett, of Massachusetts, now consul at Batavia, to be secretary of the legation of the United States at Guatemala City, Guatemala.</p>
+<head>PROMOTION IN THE ARMY.</head>
+<hi rend="center"><hi rend="italic"><p>Infantry arm.</p></hi></hi>
+<p>Second Lieut. Frederick S. L. Price, Sixth Infantry, to be first lieutenant, March 11, 1900.</p>
+<head>APPOINTMENTS IN THE VOLUNTEER ARMY.</head>
+<hi rend="italic"><hi rend="center"><p>Eleventh Cavalry.</p></hi></hi>
+<p>First Sergt. George Sutherland, Troop M, Eleventh Cavalry, United States Volunteers, to be second lieutenant, April 27, 1900.</p>
+<p>First Sergt. Edward S. Luthi, Troop C, Eleventh Cavalry, United States Volunteers, to be second lieutenant, April 27, 1900</p>
+<hi rend="italic"><hi rend="center"><p>Thirty-seventh Infantry.</p></hi></hi>
+<p>First Sergt. Thomas W. Gunn, Company K, Thirty-seventh Infantry, United States Volunteers, to be second lieutenant, April 27, 1900.</p>
+<hi rend="italic"><hi rend="center"><p>Thirty-ninth Infantry.</p></hi></hi>
+<p>Battalion Sergt. Maj. Henry R. Casey, Thirty-ninth Infantry, United States Volunteers, to be second lieutenant, April 27, 1900.</p>
+<p>Sergt. Maj. Archer W. Davis, Thirty-ninth Infantry, United States Volunteers, to be second lieutenant, April 27, 1900.</p>
+<head>PROMOTION IN THE VOLUNTEER ARMY.</head>
+<hi rend="center"><hi rend="italic"><p>Thirty-third Infantry.</p></hi></hi>
+<p>Second Lieut. Arthur N. Pickel, Thirty-third Infantry, United States Volunteers, to be first lieutenant, April 10, 1900.</p>
+<head>POSTMASTERS.</head>
+<p>Caroline B. Andrews, to be postmaster at Presidio, in the county of San Francisco and State of California,</p>
+<p>Leander N. Turner, to be postmaster at Wall Lake, in the county of Sac and State of Iowa.</p>
+<p>Ralph M. Potter, to be postmaster at Rockford, in the county of Floyd and State of Iowa.</p>
+<p>David James, to be postmaster at Loveland, in the county of Larimer and State of Colorado.</p>
+<p>Edward A. Cowles, to be postmaster at Patchogue, in the county of Suffolk and State of New York.</p>
+<p>Clarence M. Alvord, to be postmaster at Livonia, in the county. of Livingston and State of New York.</p>
+<p>Henry Wood, to be postmaster at Loogootee, in the county of Martin and State of Indiana,</p>
+<p>Anna V. T. Smith, to be postmaster at Bronxville, in the county of Westchester and State of New York,</p>
+<p>James S. Merritt, to be postmaster at Port Chester, in the county of Westchester and State of New York,</p>
+<p>John H. McGrath, to be postmaster at New Lebanon, in the county of Columbia and State of New York</p>.
+<p>Thomas G. Moore, to be postmaster at Barnesville, in the county of Belmont and State of Ohio.</p>
+<p>Peter Hensel, to be postmaster at Shreve, in the county of Wayne and State of Ohio.</p>
+<p>Francis Worden, to be postmaster at Coxsackie, in the county of Greene and State of New York,</p>
+<p>Harry C. Budge, to be postmaster at Miami, in the county of Dade and State of Florida.</p>
+<p>Joseph Kubler, to be postmaster at Custer, in the county of Custer and State of South Dakota.</p>
+<p>Fred Schansle, jr., to be postmaster at Elmwood Place, in the county of Hamilton and State of Ohio.</p>
+<head>HOUSE OF REPRESENTATIVES. FRIDAY, May 4, 1900.</head>
+
+<p>The House met at 12 o'clock m.. Prayer by the Chaplain, Rev. HENRY N. COUDEN, D. D.</p>
+<p>The Journal of yesterday's proceedings was read and approved.</p>
+<head>VETO MESSAGE OF THE PRESIDENT.</head>
+<note>The SPEAKER laid before the House the following message of the President of the United States; which was read:</note>
+<quote>
+<hi rend="italic"><p>To the House of Representatives:</p></hi>	.
+<p>I herewith return without approval H. R. 4001, entitled "An act authorizing the adjustment of rights of settlers on the Navajo Indian Reservation, Territory of Arizona." My objections to the bill are embodied in the following statement:</p>
+<p>This tribe has a population of about 20,500 souls, of whom 7,000 dress in the manner of white men, 250 can read, and 500 use enough English for ordinary conversation. Last year they cultivated 8,000 acres, and possessed, approximately, 1,000,000 sheep, 250,000 goats, 100,500 cattle, 1,200 swine, and very considerable herds of horses and ponies.</p>
+<p>Prior to January last the reservation, which is in the extreme northeastern portion of the Territory of Arizona, consisted of lands set apart for the use. of these Indians under the treaty of June 1. 18M (15 <title>Stat.</title>, 667), and subsequent Executive orders. On account of the conditions naturally prevailing in that section the reservation as then constituted was altogether inadequate for the purposes for which it was set apart. There was not a sufficient supply of grass or water within its borders for the flocks and herds of the tribe. and in consequence more than one-third of the Indians were habitually off the reservation with their flocks and herds, and were in frequent contention and strife with whites over pasturage and water.</p>
+<p>After most careful inquiry and inspection of the reservation as it then existed, and of adjacent lands, by efficient officers in the Indian service, the Commissioner of Indian Affairs, with .the concurrence of the Secretary of the Interior, recommended that the limits of the reservation be extended westward so as to embrace the lands lying between the Navajo and Moqui Indian reservations on the east and the Colorado and Little Colorado rivers and the Grand Canyon Forest Reserve on the west. This recommendation was supported by a very numerously signed petition from the white residents of that section, and also by a letter from the governor of the Territory of Arizona, in which it was said:</p>
+<p>" I understand that a petition has been forwarded asking that the western limit be fixed at the Little Colorado River, as being better for all concerned and less liable to cause friction between the Indians and the whites. I earnestly hope that the prayer of the petitioners be granted, for the reason that the Little Colorado could be made a natural dividing line, distinct and well defined, and would extend the grazing territory of the Navajoes to a very considerable extent without seriously encroaching upon the interests of white settlers who have their property in that neighborhood.</p>
+<p>"I think great care should-be exercised in questions of this nature, because of possible serious friction which may occur if the interests of all concerned are not carefully protected."</p>
+<p>The investigation which preceded this recommendation, and upon which it was in part based, showed that with the boundaries of the reservation thus extended the Indians would be able to obtain within the limits of the reservation sufficient grass and water for their flocks and herds, and the Government would therefore be justified in confining them to the reservation, thus avoiding the prior contention and friction between them and the whites.</p>
+<p>It appearing that but little aid had been extended to these Indians by the Government for many years, that they had taken on habits of industry and husbandry which entitled them to encouragement, and that it was neither just nor possible to confine them to the limits of a reservation which would not sustain their flocks and herds, an order was issued by me January 8 last extending the reservation boundaries as recommended. The Indians have. accepted this as an evidence of the good faith of the Government toward them, and it is now the belief of those charged with the administration of Indian affairs that further contention and friction between the Indians and whites will be avoided if this arrangement is not disturbed.</p>
+<p>The present bill proposes to open to miners and prospectors and to the operation of the mining laws a substantial portion of this reservation, including a part of the lands covered by the recent order. There has been no effort to obtain from the Indians a concession of this character, nor has any reason been presented why, if these lands are to be taken from them—for that will practically result from this bill if it becomes a law, even though not so intended&#8212;it should not be done in pursuance of negotiations had with the Indians as in other instances.</p>
+<p>The Indians could not understand how lands given to them in January as necessary for their use should be taken away without previous notice in May of the same year. While the Indians are the wards of the Government, and must submit to that which is deemed for their best interests by the sovereign guardian, they should, nevertheless, be dealt with in a manner calculated to give them confidence in the Government and to assist them in passing through the inevitable transition to a state of civilization and full citizenship. Believing that due consideration has not been given to the status and interests of the Indians, I withhold my approval from the bill.</p>
+<closer><signed>WILLIAM McKINLEY. </signed>
+<dateline>EXECUTIVE MANSION, May 3, 1900.</dateline></closer>
+</quote>
+<p>The SPEAKER. The Clerk will read the bill by its title. The Clerk read as follows:</p>
+<p>A bill (H. R. 4001) authorizing the adjustment of rights of settlers on the Navajo Indian Reservation, Territory of Arizona.</p>
+<p>Mr. SHERMAN. Mr. Speaker, I move that the message of the President and the bill be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+<head>REPRINT OF BILL.</head>
+<p>By unanimous consent, a reprint was ordered of the bill (S. 1477) in amendment of sections 2 and 3 of an act entitled "An act granting pensions to soldiers and sailors who are incapacitated for the performance of manual labor, and providing for pensions to widows, minor children, and dependent parents," approved June 27, 1890, and the accompanying report.</p>
+<head>ORDER OF BUSINESS.</head>
+<p>Mr. CANNON. Mr. Speaker, I move that the House resolve</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

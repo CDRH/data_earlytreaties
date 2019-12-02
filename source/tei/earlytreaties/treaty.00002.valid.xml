@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="treaty.00002">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified Treaty # 2</note>
+<note type="project">Deed in Trust from Three of the Five Nations of Indians to the King, 1726.</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>Documents Relative to the Colonial History of the State of New York,</title>
+<editor>O'Callaghan, E. B. (Ed.)</editor>
+</analytic>
+<monogr>
+<title></title>
+<imprint>
+<biblScope type="volume"> vol. 5</biblScope>
+<date value="1855">  (1855).</date>
+<biblScope type="pages"> 800&#8211;801</biblScope>
+<pubPlace>Albany, NY:</pubPlace>
+<publisher>Weed, Parsons, and Co.,</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Made Charlie's proofing changes</item> 
+</change>
+
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-12-23</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-13-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+<body>
+<div1>
+<!--O'Callaghan,  E.B.  (Ed.)  Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France, V, pp. 800&#8211;801. Albany, NY: Weed, Parsons and Co. 1855.-->
+
+
+<pb n="800" />
+
+<p><hi rend="center"><hi rend="bold"><hi rend="italic">Deed in Trust from three of the Five Nations of Indians to the King.</hi></hi></hi><lb/></p>
+
+<p><hi rend="center">[From the Original Roll In the Secretary of State's Office, Albany, N. Y.]</hi></p>
+
+<p>
+<orig reg="To">T<hi rend="smallcaps">O</hi></orig> <hi rend="smallcaps"><orig reg="all">ALL</orig></hi> <orig reg="People">P<hi rend="smallcaps">EOPLE</hi></orig> to whom this present Instrument of Writing shall Come <orig reg="Whereas">W<hi rend="smallcaps">HEREAS</hi></orig> the Sachims of the five Nations did (on the <orig reg="19th">19<hi rend="super">th</hi></orig> Day of July in the year of Our Lord one Thousand Seven hundred And one in a Conference held at Albany Between John Nanfan <abbr expan="Esquire">Esq<hi rend="super">r</hi></abbr> late <abbr expan="Lieutenant">Liev<hi rend="super">t</hi></abbr> <orig reg="Governor">Govern<hi rend="super">r</hi></orig> of the Province of New York) Give and Render up all their Land where the Beaver Hunting is which they won With the Sword then Eighty Years ago to <orig reg="Corachkoo">C<hi rend="smallcaps">ORACHKOO</hi></orig> our Great King Praying that he might be their Protector and Defender there. For which they desired that their Secretary might then draw an Instrument for them to Sign &amp; Seal That it might be Carried to the King as by the minutes thereof now in Custody of the Secretary for Indian Affairs at Albany may more fully and at Large appear. 
+<orig reg="We">W<hi rend="smallcaps">E</hi></orig> Kanakarighton &amp; Thanintsaronwee Sinneke Sachims, Ottsoghkoree Dekanissoree &amp; Aenjeweeratt Cayouge Sachims, Kachjahadorodon &amp; Sadegeenaghtie Onnondage Sachims of our own Accord free and Voluntary will Do hereby Ratify Confirm Submit and Grant and by these Presents do (for our Selves our heirs and Successors and in behalf of the whole nations of Sinnekes Cayouges &amp; onnondages) Ratify Confirme Submit and Grant unto Our Most Sovereign Lord <orig reg="George">G<hi rend="smallcaps">EORGE</hi></orig> by the grace of God King of great Brittain France and Ireland Defender of the Faith &amp;c his heirs and Successors for Ever all the Said Land and Beaver hunting to be Protected &amp; Defended by his Said Majesty his heirs &amp; Successors to and for the use of us our heirs &amp; successors and the said Three nations. 
+<orig reg="And">A<hi rend="smallcaps">ND</hi></orig> we Do allso of our own Accord free and Voluntary will Give Render Submit and Grant and by these presents do for our Selves our heirs &amp; Successors Give Render Submit and Grant unto Our Said Sovereign Lord King <orig reg="George">G<hi rend="smallcaps">EORGE</hi></orig> his heirs and Successors for Ever all that Land Lying and being Sixty miles distance taken Directly from the water into the Country Beginning from a Creek Call'd Canahogue on the Lake Osweego, all along the said lake and all along the narrow passage from the said Lake to the Falls of Oniagara Called Cahaquaraghe and all along the River of Oniagara and all along the Lake Cadarackquis to the Creek Called Sodoms belonging to the Senekes and from Sodoms to the hill Called Tegerhunkserode Belonging to the Cayouges, and from Tegerhunckseroda to the Creek Called Cayhunghage Belonging to the Onnondages all the Said Land being of the Breadth of Sixty English miles as aforesaid all the way from the aforesaid Lakes or Rivers Directly into the Country and thereby Including all the Castles of the aforesaid Three Nations with all the Rivers Creeks and Lakes within the Said Limits to be protected &amp; Defended by his said Majesty his heirs and Successors for <orig reg="Ever">Ever</orig> <orig reg="To">To</orig> and for Our <hi rend="smallcaps"><orig reg="use">USE</orig></hi> our heirs &amp; Successors and 
+
+<pb n="801" />
+
+the Said Three Nations <orig reg="In">I<hi rend="smallcaps">N</hi></orig> <orig reg="Testimony">T<hi rend="smallcaps">ESTIMONY</hi></orig> whereof We have hereunto Sett our Marks and Affixed our Seales in the city of Albany this fourteenth Day of September in The thirteenth year of his Majestys Reign <orig reg="Annoqe">Annoq<hi rend="super">e</hi></orig> Domini 1726
+</p>
+
+<p>
+The Mark of <orig reg="Kachjakadorodon">K<hi rend="smallcaps">ACHJAKADORODON</hi></orig><lb/>
+a Sachim of the onnondage <ref target="n801.01" n="1"></ref> [<hi rend="smallcaps">L.S.</hi>]
+</p>
+
+<p>
+The Mark of <orig reg="Sadegeenaghtie">S<hi rend="smallcaps">ADEGEENAGHTIE</hi></orig><lb/>
+A Sachim of onnondage <ref target="n801.02" n="2"></ref>[<hi rend="smallcaps">L.S.</hi>]
+</p>
+
+<p>
+The Mark <orig reg="Ottsogheoree">O<hi rend="smallcaps">TTSOGHEOREE</hi></orig><lb/>
+Sachim of the Cayouges <ref target="n801.03" n="3"></ref> [<hi rend="smallcaps">L.S.</hi>]
+</p>
+
+<p>
+The Mark of <orig reg="Dekanisoree">D<hi rend="smallcaps">EKANISOREE</hi></orig>-<lb/>
+Sachim of the Cayouges <ref target="n801.04" n="4"></ref> [<hi rend="smallcaps">L. S.</hi>]
+</p>
+
+<p>
+The Mark of <orig reg="Aenjeweeratt">A<hi rend="smallcaps">ENJEWEERATT</hi></orig><lb/>
+A Sachim of the Cayouges <ref target="n801.05" n="5"></ref> [<hi rend="smallcaps">L. S.</hi>]
+</p>
+
+<p>
+The Mark of <orig reg="Kanakrighton">K<hi rend="smallcaps">ANAKRIGHTON</hi></orig><lb/>
+a Sachim of the Sinnekes <ref target="n801.06" n="6"></ref> [<hi rend="smallcaps">L.S.</hi>]
+</p>
+
+<p>
+The Mark of <orig reg="Thanintsaronwer">T<hi rend="smallcaps">HANINTSARONWER</hi></orig><lb/>
+a Sachim of the Sennekes <ref target="n801.07" n="7"></ref> [<hi rend="smallcaps">L.S.</hi>]
+</p>
+
+<p>
+<orig reg="Signed">Signd</orig> <orig reg="Sealed">Seald</orig> and <orig reg="Delivered">Deliverd</orig> in the Presence of us.
+</p>
+
+<p>
+<orig reg="Philip">P<hi rend="smallcaps">HILIP</hi></orig> <orig reg="Livingston">L<hi rend="smallcaps">IVINGSTON</hi></orig>
+</p>
+
+<p>
+<orig reg="Pieter">P<hi rend="smallcaps">IETER</hi></orig> <orig reg="Van">V<hi rend="smallcaps">AN</hi></orig> <orig reg="Brugh">B<hi rend="smallcaps">RUGH</hi></orig>
+</p>
+
+<p>
+<orig reg="Myndert">M<hi rend="smallcaps">YNDERT</hi></orig> <orig reg="Schuyler">S<hi rend="smallcaps">CHUYLER</hi></orig>
+</p>
+
+<p>
+<orig reg="Lourens">L<hi rend="smallcaps">OURENS</hi></orig> <orig reg="Claesen">C<hi rend="smallcaps">LAESEN</hi></orig>
+</p>
+
+<p>
+Endorsed - <lb/>
+</p>
+
+<p>
+<orig reg="Recorded">R<hi rend="smallcaps">ECORDED</hi></orig> in the Secretarys Office of the Province of New York this Ninth day of November One Thousand Seven hundred and Twenty Six in a Book of patents <abbr expan="Number">N<hi rend="super">o</hi></abbr> 13. In Testimony whereof I have hereunto Set my hand the day and Year abovesaid
+
+</p>
+
+<p>
+<abbr expan="">Is.</abbr> <orig reg="Bobin">B<hi rend="smallcaps">OBIN</hi></orig> <abbr expan="">D.</abbr> <abbr expan="Secretary">Secry</abbr>
+</p>
+</div1>
+</body>
+
+<back>
+<div1 type="notes">
+
+<note id="n801.01" n="1">
+Of the Tribe of the Deer.
+</note>
+
+<note id="n801.02" n="2">
+Of the tribe of the Wolf.
+</note>
+
+<note id="n801.03" n="3">
+Of the tribe of the Bear.
+</note>
+
+<note id="n801.04" n="4">
+Of the tribe of the Wolf.
+</note>
+
+<note id="n801.05" n="5">
+Of the tribe of the Turtle.
+</note>
+
+<note id="n801.06" n="6">
+Of the tribe of the Plover.
+</note>
+
+<note id="n801.07" n="7">
+Of the tribe of the Beaver. The above Deed included the country East from Cleveland, Ohio, to Salmon River, in Oswego county, N. Y. - <orig reg="Ed">E<hi rend="smallcaps">D</hi></orig>.
+</note>
+
+
+</div1>
+</back>
+</text>
+</TEI.2>

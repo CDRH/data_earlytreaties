@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1259">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1259	H.R. 4324 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1259</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1259	H.R. 4324 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+<p>To carry out certain obligations under certain tribal agreements.</p>
+
+<p>Pocket veto occurred after the 1st session of the 74th Congress had adjourned sine die on August 26, 1935.  The bill was presented to the President on August 24, 1935 (79 <title>Cong. Rec.</title> 14672).</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title level="j"><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 270.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1259.01.pdf"><title>Congressional Record</title> 79, 14672</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 14672	CONGRESSIONAL RECORD HOUSE	AUGUST 24 </fw>
+<p>for the registration and licensing of persons engaged in the business of manufacturing, exporting, or importing arms, ammunition, or implements of war; and restricting travel by American citizens on belligerent ships during war.</p>
+<head>BILLS PRESENTED TO THE PRESIDENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on this day present to the President, for his approval, bills and joint resolutions of the House of the following titles:</p>
+<p>H. R. 531. An act granting compensation to Walter F. Northrop;</p>
+<p>H. R. 921. An act for the relief of Edgar Sampson; </p>
+<p>H. R. 996. An act for the relief of Joe Reno;</p>
+<p>H. R. 1286. An act for the relief of James H. Bell (or James Bell) ;</p>
+<p>H. R. 1871. An act for the relief of the Medical College of Virginia, and others, of Richmond, Va.;</p>
+<p>H. R. 1965. An act for the relief of William E. Fossett; </p>
+<p>H. R. 2325. An act for the relief of James P. Whalan;</p>
+<p> H. R. 2620. An act for the relief of Sadie Wilkinson; </p>
+<p>H. R. 2621. An act for the relief of Tom L. Griffith;</p>
+<p>H. R. 2702. An act for the relief of Emanuel Lieberman; H. R. 3003. An act to provide for the commemoration of
+the two hundredth anniversary of the Battle of Ackia, Mississipppi, and the establishment of the Ackia Battleground
+National Monument, and for other purposes;</p>
+<p>H. R. 3408. An act for the relief of Rufus Jones, a minor; </p>
+<p>H. R. 4226. An act for the relief of Floyd Hull;</p>
+<p>H. R. 4324. An act to carry out certain obligations under certain tribal agreements;</p>
+<p>H. R. 4339. An act to facilitate the control of soil erosion and/or flood damage originating upon lands within the exterior boundaries of the Uinta and Wasatch National Forests, Utah;</p>
+<p>H. R. 4428. An act for the relief of Caroline (Stever) Dykstra;</p>
+<p>H. R. 4570. An act for the relief of Amy McLaurin;</p>
+<p>H. R. 4601. An act for the relief of the heirs of Gladys Picklesimer;</p>
+<p>H. R. 4784. An act for the relief of J. T. Slayback;</p>
+<p>H. R. 4848. An act for the relief of Charles E. Moister,
+disbursing clerk, Department of Commerce, and Dr. Louis
+H. Bauer, a former employee;</p>
+<p>H. R. 4852. An act to authorize the settlement of individual claims of military personnel for damages to and loss of private property incident to the training, practice, operation, or maintenance of the Army;</p>
+<p>H. R. 5049. An act providing punishment for forging or counterfeiting any postmarking stamp;</p>
+<p>H. R. 5162. An act providing for punishment for attempts to obtain mail by fraud or by deception;</p>
+<p>H. R. 5245. An act for the relief of Elizabeth Leiding; </p>
+<p>H. R. 5351. An act for the relief of Rose Teiermeyer;</p>
+<p>H. R. 5360. An act providing for punishment for the crime
+of robbing or attempting to rob custodians of Government
+moneys or property;</p>
+<p>H. R. 5475. An act for the relief of Henry Irving Riley;</p>
+<p>H. R. 5516. An act authorizing the President to issue a posthumous commission as second lieutenant, Air Corps Reserve, to Archie Joseph Evans, deceased, and to present the same to Maj. Argess M. Evans, father of the said Archie Joseph Evans, deceased;</p>
+<p>H. R. 5540. An act extending the period during which no demurrage is charged on collect-on-delivery parcels and excepting the imposition of demurrage charged on collect-on-delivery parcels exchanged between the continental and island possessions;</p>
+<p>H. R. 5558. An act for the relief of Clarence F. Jobson;</p>
+<p>H. R. 5634. An act for the relief of the Baltimore Renovating Co.;</p>
+<p>H. R. 5781. An act for the relief of the widow and next of kin of James J. Curran;</p>
+<p>H. R. 5790. An act for the relief of certain creditors of J. R. and J. A. Whelan, Inc.;</p>
+<p>H. R. 5811. An act for the relief of Michael A. McHugh;</p>
+<p>H. R. 5905. An act for the relief of Cal Settles and Rhoda Settles;</p>
+<p>H. R. 6057. An act for the relief of Joe Brumit;</p>
+<p>H. R. 6168. An act for the relief of Charles K. Shade; </p>
+<p>H. R. 6394. An act for the relief of William K. Caley;</p>
+<p>H. R. 6889. An act for the relief of A. Zappone and W. R. Fuchs;</p>
+<p>H. R. 6892. An act for the relief of certain Indians on the Cheyenne River Reservation;</p>
+<p>H. R. 7076. An act for the relief of the heirs of John Schrodl;</p>
+<p>H. R. 7137. An act for the relief of Cassie M. Lyne;</p>
+<p>H. R. 7592. An act to extend the times for commencing and completing the construction of a bridge across the Ohio River at Sistersville, W. Va.;</p>
+<p>H. R. 7678. An act to authorize the Director of the Mint to supplement the approved design of the 50-cent piece commemorating the two hundredth anniversary of the birth of Daniel Boone,, the coinage of which was authorized by act of the Seventy-third Congress (Public, No. 258, S. 3355);</p>
+<p>H. R. 7740. An act granting the consent of Congress to the State Highway Commission of Missouri to construct, maintain, and operate a free highway bridge across the Black River at or near the north line of section 2, township 24 north, range 6 east, near Poplar Bluff, Mo.;</p>
+<p>H. R. 7897. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Monongahela River, at or near Elizabeth, in the county of Allegheny, Commonwealth of Pennsylvania;</p>
+<p>H. R. 7924. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Allegheny River, at or near Port Allegany, in the county of McKean, State of Pennsylvania;</p>
+<p>H. R. 7928. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Allegheny River, at or near Ford City, Pa.;</p>
+<p>H. R. 7932. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Susquehanna River, at or near Wyalusing, in the county of Bradford, Commonwealth of Pennsylvania;</p>
+<p>H. R. 7979. An act to extend the times for commencing and completing the construction of a bridge across Puget Sound at or near a point commonly known as "The Narrows" in the State of Washington;</p>
+<p>H. R. 8020. An act for the relief of Jose R. Redihammer; H. R. 8098. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Mahoning River at or near Edinburg, in the county of Lawrence, Commonwealth of Pennsylvania;</p>
+<p>H. R. 8131. An act to extend the times for commencing and completing the construction of a bridge across the Ohio River at or near Owensboro, Ky.;</p>
+<p>H. R. 8183. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Allegheny River at or near Emlenton, in the county of Venango, Commonwealth of Pennsylvania;</p>
+<p>H. R. 8187. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Allegheny River, at or near Tionesta, in Tionesta Township, and in the county of Forest, and in the Commonwealth of Pennsylvania;</p>
+<p>H. R. 8189. An act granting the consent of Congress to the Commonwealth of Pennsylvania to construct, maintain, and operate a free highway bridge across the Allegheny River, at or near East Brady, in the counties of Clarion and Armstrong, and in the Commonwealth of Pennsylvania;</p>
+<p>H. R. 8345. An act authorizing the Secretary of the Navy to accept, without cost to the United States, certain lands in Duval County, State of Florida;</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

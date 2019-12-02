@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="treaty.00006">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 6</note>
+<note type="project">
+At a Conference Held By The Honourable Brigadier General Moncton with the Western Nations of Indians, at the Camp before Pittsburgh, 12th Day of August 1760
+</note>
+<note type="source">Hazard, S. (Ed.). (1852). <hi rend="italics">Pennsylvania  Archives</hi> (1st Series), <hi rend="italics">vol. 3</hi>. Philadelphia, PA: Joseph Severns, 744&#8211;751.</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>Pennsylvania Archives,</title>
+<editor>Hazard, S.</editor>
+</analytic>
+<monogr>
+<title></title>
+<imprint>
+<biblScope type="volume"> (1st Series), vol. 3</biblScope>
+<date value="1852"> (1852).</date>
+<biblScope type="pages"> 744&#8211;751.</biblScope>
+<pubPlace>Philadelphia, PA:</pubPlace>
+<publisher>Joseph Severns,</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Made Charlie's proofing changes</item> 
+</change>
+
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-20</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-12-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+<body>
+<div1>
+<pb n="744" />
+
+<p>
+<hi rend="bold"><hi rend="center">At a Conference held by The Honourable Brigadier General Moncton with the Western Nation of Indians, at the Camp before Pittsburgh, 12th day of August, 1760.
+</hi></hi><lb/>
+</p>
+
+<p><hi rend="center"><hi rend="italics">Present</hi>:</hi><lb/>
+The Honourable Brigadier General <orig reg="Monckton">M<hi rend="smallCaps">ONCKTON</hi></orig>, Commander of His Majesty's Forces in The Southern District of North America. 
+<lb/>
+</p> 
+
+<p>Colonel Sir <orig reg="John St. Clair">J<hi rend="smallCaps">OHN</hi> S<hi rend="smallCaps">T.</hi> C<hi rend="smallCaps">LAIR</hi></orig>, Deputy Quarter Master General. 
+<lb/>
+</p> 
+
+<p>Colonel <orig reg="James Burd">J<hi rend="smallCaps">AMES</hi> B<hi rend="smallCaps">URD</hi></orig>, Commanding the Pensa Regiment.
+<lb/>
+</p>  
+
+<p>Captain <orig reg="Richard Mather">R<hi rend="smallCaps">ICHARD</hi> M<hi rend="smallCaps">ATHER</hi></orig>, of the Royal American Regiment. 
+<lb/>
+</p> 
+
+<p>Captain <orig reg="Harry Gordon">H<hi rend="smallCaps">ARRY</hi>  G<hi rend="smallCaps">ORDON</hi></orig>, Chief Engineer at Fort Pitt.
+<lb/>
+</p>
+
+<p>Captain <orig reg="Barnsley">B<hi rend="smallCaps">ARNSLEY</hi></orig> &amp; Captain <orig reg="Campbell">C<hi rend="smallCaps">AMPBELL</hi></orig>, with a number of Officers of all the Corps, &amp;c.
+<lb/>
+</p>
+
+<p><orig reg="George Croghan">G<hi rend="smallCaps">EORGE</hi> C<hi rend="smallCaps">ROGHAN</hi></orig>, <abbr expan="Esquire">Esq.</abbr>, Deputy Agent for Indian Affairs. 
+<lb/>
+</p> 
+
+<p>Captain <orig reg="Thomas Maghee">T<hi rend="smallCaps">HOMAS</hi> M<hi rend="smallCaps">AGHEE</hi></orig> &amp; Mr. <orig reg="Thomas Hutchins">T<hi rend="smallCaps">HOMAS</hi> H<hi rend="smallCaps">UTCHINS</hi></orig>, Assistants to the Deputy Agents.
+<lb/>
+</p>
+
+<p>Captain <orig reg="Andrew Montour">A<hi rend="smallCaps">NDREW</hi> M<hi rend="smallCaps">ONTOUR</hi></orig>, Interpreter.<lb/>
+</p><lb/>
+
+
+<p><hi rend="center"><hi rend="smallCaps"><orig reg="Indians">INDIANS</orig></hi>.</hi>
+<lb/>
+<hi rend="italics">Six Nations.</hi>
+<lb/>
+</p>
+
+<p>Chiefs: <orig reg="Touisgourawa">T<hi rend="smallCaps">OUISGOURAWA</hi></orig>, <orig reg="Connoodguyatt">C<hi rend="smallCaps">ONNOODGUYATT</hi></orig>, <orig reg="Osseredungas">O<hi rend="smallCaps">SSEREDUNGAS</hi></orig>, <orig reg="Oroadedecha">O<hi rend="smallCaps">ROADEDECHA</hi></orig>
+<lb/>
+</p>
+
+<p>72 Warriors, 48 Women, 38 Children.
+
+
+</p>          
+
+<pb n="745" />
+
+<p><hi rend="italics">Twightwees.</hi>
+<lb/>
+</p>
+
+<p>Chief: <orig reg="Mechennock">M<hi rend="smallCaps">ECHENNOCK</hi></orig>
+<lb/>
+</p>
+
+
+<p>11 Warriors, 6 Women, 14 Children.<lb/>
+
+
+</p><lb/>
+
+ 
+<p><hi rend="italics">Delewars.</hi>
+<lb/>
+</p>
+
+<p>Chiefs: <orig reg="The Beaver">T<hi rend="smallCaps">HE</hi> B<hi rend="smallCaps">EAVER</hi></orig>, <orig reg="Delaware George">D<hi rend="smallCaps">ELAWARE</hi> G<hi rend="smallCaps">EORGE</hi></orig>, <orig reg="Nettwellhuss">N<hi rend="smallCaps">ETTWELLHUSS</hi></orig>, <orig reg="Teedyuscung">T<hi rend="smallCaps">EEDYUSCUNG</hi></orig>
+<lb/>
+</p>
+
+<p>202 Warriors, 168 Women, 191 Children.<lb/>
+</p><lb/>
+
+
+<p><hi rend="italics">Ottowas.</hi>
+<lb/>
+</p>
+
+<p>Chief: <orig reg="Missiango">M<hi rend="smallCaps">ISSIANGO</hi></orig>
+<lb/>
+</p>
+
+<p>9 Warriors, 4 Women, 16 Children.<lb/>
+</p><lb/>
+
+
+<p><hi rend="italics">Shawanesse.</hi>
+<lb/>
+</p>
+
+<p>Chiefs: <orig reg="Buckshinutha">B<hi rend="smallCaps">UCKSHINUTHA</hi></orig>, <orig reg="Kethecomey">K<hi rend="smallCaps">ETHECOMEY</hi></orig><lb/>
+</p>
+
+<p>26 Warriors, 18 Women, 26 Children.<lb/>
+</p><lb/>
+
+
+<p><hi rend="italics">Wyandotts.</hi>
+<lb/>
+</p>
+
+<p>Chiefs: <orig reg="Sonnequehana">S<hi rend="smallCaps">ONNEQUEHANA</hi></orig>, <orig reg="Sonendesha">S<hi rend="smallCaps">ONENDESHA</hi></orig>
+<lb/>
+</p>
+
+<p>42 Warriors, 22 Women, 10 Children.<lb/>
+</p><lb/>
+
+
+<p><hi rend="italics">Pottowatimies.</hi>
+<lb/>
+</p>
+
+<p>Chief: <orig reg="Weaponahan">W<hi rend="smallCaps">EAPONAHAN</hi></orig>
+<lb/>
+</p>
+
+<p>5 Warriors.<lb/>
+</p><lb/>
+
+
+<p>
+The General Open'd The Conference with The Following Speech:
+<lb/>
+</p><lb/>
+
+
+<p>Brethren, Kings, Captains &amp; Warriors of The many Nations, Take 
+Notice of what I am going to say to you in the Name of the Chief 
+Commander of all His Majesty's Forces on This Continent.<lb/>
+</p><lb/>
+
+
+<p>Brethren, I let you know that our Great King has sent me into 
+this Country to lead and Command all His Warriors, and He has 
+given me a Sword to Protect &amp; Defend His Subjects, &amp; to Act 
+against his Enemies.<lb/>
+</p><lb/>
+
+
+<p>As I have nothing more at Heart than the Good &amp; Welfare of 
+The whole Community, I do assure all The Indian Nations, that 
+His Majesty has not sent me to deprive any of you of your Lands 
+and Property; on the Contrary, so long as you adhere to His Interest, and by your Behaviour give proofs of the Sincerity of your 
+Attachment to His Royal Person &amp; Cause, I will defend &amp; Maintain you in your Just Rights, and give you all the Aid &amp; Assistance you may Stand in need of to repress the Dangers you may be liable to through your Attachments to Us.<lb/>
+</p><lb/>
+
+
+<p>This I firmly mean to adhere to as long as you behave like Good 
+&amp; Faithful Allies. But on the other Hand, if any of you should 
+Commit any Act of Hostility, or do any Injury to any of His Majesty's Subjects, you are Sensible I must resent it, and retaliate upon them, and you know that I have the might so to do, Ten-fold for 
+every Breach of Treaty or Outrage you could be guilty of; and if 
+any of His Majesty's Subjects under my Command should Kill or 
+Injure any of Our Indian Brethren, they shall upon due proof 
+Thereof, receive equal Punishment. As a proof of the Truth and 
+Sincerity of what I have said, I give you this Belt.<lb/>
+</p>
+
+<pb n="746" />
+
+<p>Brethren, Kings, Captains &amp; Warriors, I mean not to Take any 
+of your Lands but as the necessity of His Majesty's Service Obliges 
+me to Take Post, &amp; Build Forts in some parts of your Country, to 
+protect our Trade with you, and prevent the Enemy from taking 
+possession of your Lands, and Hurting both you &amp; Us; &amp; you are 
+Sensible that if we don't Build Forts the French will. In that case 
+I assure you that no part whatever of your Lands Joining the said 
+Forts shall be taken from you, nor any of Our people be permitted 
+to Hunt or Settle upon them, But they shall remain your Absolute 
+property, and I will even promise you some present as a Consideration 
+for the Lands where such Trade &amp; Trading Houses are, or may 
+be Built upon; and as it is expensive &amp; inconvenient for us to Carry Provisions for our Warriors from our Settlements to these Forts, &amp; also to Supply Our Brethren, the Indians, when they come to see 
+us, if you will lay out a Space of Ground adjoining every Fort to 
+raise Corn, In that Case fix yourselves the Limits of that part of 
+your Lands so Appropriated to Us, and you will receive such a Consideration for it as will be agreed between you and us, to your Satisfaction. As a proof of the Truth and Sincerity of what I have said, 
+I give you this Belt.<lb/>
+</p><lb/>
+
+
+<p>Brethren, Kings, Captains &amp; Warriors of the many Indian Nations, Those who will Join His Majesty's Arms, and be Aiding &amp; 
+Assisting in Subduing the Common Enemy, shall be well rewarded, 
+and those that may not choose to Act in Conjunction with the Forces 
+shall be Equally protected, provided they do not Join in any Act of 
+Hostility with the Enemy, or Carry them Intelligence which might 
+prove prejudicial to the Publick Good. Upon these Terms you shall 
+find me your Fast Friend, But on a Breach of them you would Force 
+me to Treat you as Our Enemies, the Consequence of which would 
+be Fatal to you &amp; very disagreeable to the King, my Master; I say 
+this out of the Tender regard I have for the Lives and Welfare of 
+Our Brethren, the Indians, and I choose you should know what you 
+have to Trust to, since I intend to be as good as my Word.<lb/>
+</p><lb/>
+
+
+<p>Given under my hand &amp; Seal of Arms at Head Quarters at Fort George, in the City of New York, this 22d day of April, 1760.
+<lb/>
+</p><lb/>
+
+
+<p>(Signed,) <hi rend="smallCaps"><orig reg="Jeff. Amherst">JEFF. AMHERST</orig></hi>, [<hi rend="smallCaps">L. S.</hi>] 
+</p><lb/>
+
+
+<p>(Countersign'd.) By His Excellency's Command, <orig reg="J. Appy">J. A<hi rend="smallCaps">PPY</hi></orig>.<lb/>
+</p><lb/>
+
+
+<p>
+The General having done Speaking, the Chief of the Six Nation Indians got up and Spoke as follows:<lb/>
+</p><lb/>
+
+
+<p>Nephews, The Delawares, and Brethren of all Other Nations, Listen to what 
+I am going to say to you, You have heard what our Brethren, the 
+English, have said to you, and you all know that We, the Six Nations, and Our Brethren, the English, have but One Head &amp; One Heart, &amp; whatever hurts Them Hurts Us, we feel the Pain equal
+
+<pb n="747" />
+
+with Them, we desire that you may Harbour nothing that is Evil  
+in your minds, nor listen to any bad reports that may be spread  
+thro' the instigation of the Evil Spirit, but Act as we do, who are  
+Determined to Live &amp; Dye with our Brethren, the English; let all  
+Nations take Notice what I say to them in Behalf of the Six Nations, with this String I Bury all that is past, and take away all Evil Thoughts from your remembrance. Gave a String of Wampum.<lb/>
+</p><lb/>
+
+
+<p>And then the Chief Warrior of the Six Nations Spoke as follows: <lb/>
+</p><lb/>
+
+ 
+<p>Brethren, You have heard what has been said to you by Our Brethren, the  
+English, and Our Chiefs, we desire you may Lodge it in your Hearts,  
+and not Open your Ears to any Evil Reports for the Future, but  
+Act as our Brethren, the English, have desired you, which will prevent any disputes Arising amongst Us, for we Assure you by this String, we will support the English in every Thing they Undertake. Gave a String.<lb/>
+</p><lb/>
+
+
+<p>
+<hi rend="bold"><hi rend="center">August 14th, 1760. &#8212; The Conference being Open'd, the Beaver King of the Delawares Spoke as follows:
+</hi></hi><lb/>
+</p>
+
+<p>Uncles of the Six Nations, and Grandchildren, The Shawanesse,  
+Wyandotts, Twightwees, Ottowas &amp; Pottowattemies, listen to what I  
+am going to Say to Our Brethren, the English, then addressing him  
+self to the General said,<lb/>
+</p><lb/>
+
+
+<p>Brother, with this String of Wampum I clear your Ears, that you  
+may Hear what is Going to be said to you in behalf of all Nations  
+now present. Gave a String.<lb/>
+</p><lb/>
+
+ 
+<p>Delaware George then Spoke as follows:<lb/>
+</p><lb/>
+
+
+<p>Brother, We have heard what you said to us from the Great King; when  
+we look towards him we think that God is His Councillor, as we  
+never Hear any thing from Him but what is Good, and what we  
+Hear we lay close to Our Hearts, as his Speeches allways gives us  
+pleasure, &amp; makes Our Hearts Glad. Brother, take pitty on Our  
+Women, Children &amp; Warriors, we are a poor people, and cannot  
+Live without your Assistance; let a Fair &amp; Open Trade be continued  
+to be Carry'd on by your People amongst Us. Delivered a Belt Nine Rows, all White Wampum.<lb/>
+</p><lb/>
+
+
+<p>Beaver King of the Delawares got up &amp; said:<lb/>
+</p><lb/>
+
+ 
+<p>Brother, By this Belt I Inform you that the Governour of Pensilvania has  
+sent us an invitation to go to Philadelphia, to the Old Council Fire  
+made there By Our Brethren, the English, and our Grandfathers  
+with this Invitation I am well pleased, but at present I have a grea[t]
+ 
+
+<pb n="748" />
+
+deal of Business to do. I must go and acquaint all Nations with what has passed at this Treaty, therefore cannot go down at This Time, but Early next Summer I intend to go down &amp; Visit it. Gave a Belt of Eight Rows.<lb/>
+</p><lb/>
+
+
+<p>Brother, (the Beaver still Speaker,) By the Speeches you made 
+us Two days ago, you took Fast Hold of all Nations in Friendship, 
+from the Sun Rising to the Sun Setting, it gives us all great pleasure. Brother, be strong, don't let them Slip, hold fast. They are all Our Friends, we are as One People. As soon as possible all Nations  shall be Acquainted that you have taken them by the Hand in Friendship. Gave a Belt.<lb/>
+</p><lb/>
+
+
+<p>(The Beaver still Speaker.) Brother, as to laying Out a piece 
+ of Ground for you to plant Corn, for the Support of yourselves &amp; 
+ us living amongst you, we can give no answer to it, you must apply 
+ to our Uncles, the Six Nations, for the very Ground we live on belongs to them.<lb/>
+</p><lb/>
+
+
+<p> Brother, I have not done Speaking to you at present, when every
+ thing you have said to us is considered by all the Nations to the 
+ Sun's Setting, you shall hear what we have all to Say to you next 
+ Spring, perhaps in Philadelphia.<lb/>
+</p><lb/>
+
+
+<p>The Beaver then Spoke to the Wyandotts as follows:<lb/>
+</p><lb/>
+
+
+<p> Uncles, when the Deputys from all Nations met here last Year 
+ from the Sun Setting, they sent Messages to me to all the Nations 
+ to the Sun rising. I now acquaint you that Answers are Come to 
+ the Several Messages they sent by me, and I will go soon to your 
+ Country myself and deliver the Answers, and I desire they may 
+ Sett still until I come there, as it will not be long.<lb/>
+</p><lb/>
+
+
+  <p> The Beaver then Spoke to the Ottowas, Cheepowees &amp; Pottowattimies:<lb/>
+
+  
+  </p><lb/>
+
+
+  <p>Grandchildren, your Nations sent Messages at the same Time Our 
+  Uncles the Wyandotts did, I desire your Nations may be acquainted 
+  that I am coming with Answers to their Messages from the Nations
+  living this way. Gave a Belt.<lb/>
+
+  
+  </p><lb/>
+
+
+  <p>The Beaver then addressing himself to the Twightwees said:<lb/>
+
+  
+  </p><lb/>
+
+
+  <p>Grandchildren, I desire all your Tribes may be Acquainted that 
+  I will likewise Visit them &amp; deliver their Answers in their Own 
+  Country. Gave a Belt, and then the Beaver acquainted the Six 
+  Nations he had done Speaking.<lb/>
+
+  
+  </p><lb/>
+
+
+   <p>
+<hi rend="bold"><hi rend="center">August 15th. The Conference being Open'd the Chief of the Six Nations got up &amp; Spoke as follows:</hi></hi>
+   </p><lb/>
+
+                                                                        
+<p>Brethren the Wyandotts, &amp; Nephews of all the Other Nations,             
+Listen to what I am going to say to you.
+<lb/>
+</p>
+
+<pb n="749" />
+
+<p>You all know that the French at D'Troit has some of Our Flesh 
+and Blood in Prison there; we have been here Strengthening and 
+Brightening the Chain of Friendship with our Brethren. We expected to have heard of His being released, but as we have heard
+nothing of it, I now acquaint you we will go for Him, and if the 
+French refuse to deliver Him, we will Dye with Him.<lb/>
+ </p><lb/>
+
+ 
+<p>The Principal Warrior of the Delewars then got up &amp; desired all 
+the Nations to give Attention to what he was going to say in behalf
+of the Warriors of His Nation, &amp; then Spoke as follows, directing 
+his Speech to the General.<lb/>
+
+
+</p><lb/>
+
+
+<p>Brother, You are the Chief Warrior of our Brethren here, and I speak in 
+Behalf of all our Warriors what has been Transacted between you &amp; 
+our Councillors, we Confirm, and we assure you, when our Chiefs
+meet at the Old Council Fire, we will agree to every thing they transact there with our Brethren for keeping the Chain of Friendship
+from Contracting any Rust for the Future, as we have thrown 
+from our remembrance every thing that is Evil, we desire you will
+do the same; in confirmation of what we have said I give you this 
+Belt. Gave a Belt of Seven Rows.<lb/>
+
+
+</p><lb/>
+
+
+ <p>And then Addressing Himself to the General, Spoke again as 
+follows:<lb/>
+
+
+ </p><lb/>
+
+
+ <p>Brother, we have renew'd our Antient Friendship, the Evil Weapon 
+which bread the Difference between us, we hope that God will hide
+forever from our Sight; You have Often desired to see some of your 
+Flesh &amp; Blood, we now Open our Hands and deliver you some of 
+them; don't press us on that Head, God will Direct us, and you will
+see them all as we are now Brethren again; let us not enter into any 
+more Disputes, Delivered up Seven Prisoners.<lb/>
+
+ 
+ </p><lb/>
+
+
+<p>Brethren, (Addressing Himself to the General &amp; Officers,) as the 
+Antient Chain of Friendship subsisting between you and our Ancestors is now Renew'd and made as Strong as it is in our Power to 
+make it, I again assure you, nothing can give us greater pleasure; we 
+have now nothing to do but to return to our former Employment of 
+Hunting to get Skins to Exchange with our Brethren for Goods for
+our Families, and we hope you will Order Ammunition to be Sold 
+us at a reasonable Price. Gave a Belt of Eight Rows.<lb/>
+
+
+</p><lb/>
+
+
+<p>He then acquainted the General he had done Speaking in behalf 
+of the Warriors.<lb/>
+
+
+</p><lb/>
+
+
+<p>
+<hi rend="bold"><hi rend="center">August the 17th. &#8212; The Conference being Open'd, the General Spoke as follows:</hi></hi>
+</p><lb/>
+
+
+<p>Friends &amp; Brethren that live over the Lake, 
+
+<pb n="750" />
+
+With this String of Wampum I desire you to Consider what was
+ said to you Yesterday by your Brother the Chief, the Six Nations, 
+ concerning a Chief of theirs detain'd in Prison by the French, it is 
+ equally your Concern, &amp; you ought unanimously &amp; without Delay, to insist on His enlargement, and on an Acknowledgement for so Great an Insult.<lb/>
+ 
+ 
+ </p><lb/>
+
+                                                           
+<p>Friends &amp; Brethren, Chiefs &amp; Warriors of the many Nations here            
+present, it rejoices me to find you all so Hearty in the Renewal of 
+ our Antient Friendship, may it continue as long as Sun &amp; Moon 
+ endures. Your giving up the Prisoners is a proof of your Sincerity; I 
+ did not intend to press you for them, being Convinced that seeing 
+ the Generosity of Our Behaviour to You, your own Hearts would 
+ Dictate to you what you ought to do upon that Occasion.<lb/>
+
+
+</p><lb/>
+
+   
+<p>Friends, Brethren, Chiefs and Warriors, I cannot help mentioning 
+ to you the Loss of some of our Brethren lately near the Lake, the 
+ more so, as the party that Committed the murdur, were disguised as 
+ Indians, a Stratagem used by the French to Try to Break the Antient Chain of Friendship Subsisting between us and our Brethren, 
+ the Indians. By this Belt I expect you will keep the Road Clear. 
+ Our proceedings are Open to you, and for the Good &amp; Welfare of your several Nations, I will now Order that you may have Powder &amp; Lead, &amp; will at all Times contribute as far as I can to relieve your necessities, but I expect you will not suffer your young Men to Take our Horses as they have done. The Goods the King has sent in a present to your several Nations are equally divided for you. Gave a Belt.<lb/>
+
+
+</p><lb/>
+
+
+   <p>Then one of the Wyandotts Spoke in Behalf of the rest as follows:<lb/>
+
+   
+   </p><lb/>
+
+
+ <p>Brethren of all Nations, I have heard what the Warriors of the Six Nations said to us Yesterday, and also what our Brethren, the English, has said to us on 
+ the same Subject today; I now Acquaint all the Warriors of the 
+ several Nations here, that we are One Flesh and Blood with the Six 
+ Nations, and we are Determined to go with them to release their 
+ Flesh &amp; Blood out of the Hands of the French, and are ready to 
+ resent the insult put on the Six Nations, and with this String we 
+ assure our Brother, the General, that we will do as he has desired us. Gave a String.<lb/>
+
+  
+  </p><lb/>
+
+
+   <p>Then the Chief of the Ottawas Spoke in Behalf of themselves and 
+ Pottowattimies, &amp; Addressing Himself to the General, said:<lb/>
+
+   
+   </p><lb/>
+
+
+<p> Brother, We have heard what our Grandfathers, the Delawares, said Yesterday to you, that they have taken fast hold of the Chain of Friendship you Offer'd them, and that all past Offences are now forgot I 
+  assure you in behalf of our Nations, that we have likewise taken fast 
+  hold of it, and shall never let it Slip out of our Hands, and we desire
+  you to be Strong ; You may depend on our Nations to be your real
+
+
+
+<pb n="751" />
+
+Brethren; Tho' we live amongst your Enemies we shall never Assist 
+them, but on the Contrary, we will Assist you if you want Us. Gave a Large Bunch of Wampum.<lb/>
+
+ 
+ </p><lb/>
+
+
+<p>And then the Conference Ended, when His Majesty's Presents 
+were delivered to all the Indians, in the presence of the General &amp; most of the Officers of the Army, &amp; a multitude of others.<lb/>
+
+
+</p><lb/>
+
+</div1>
+</body>
+</text>
+</TEI.2>
+

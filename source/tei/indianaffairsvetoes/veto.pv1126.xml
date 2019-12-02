@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1126">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1126	S. 4340 (Seventy-second Congress, Second Session &#8212; Hoover)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1126</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Hoover</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-second Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Seminole</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1126	S. 4340 (Seventy-second Congress, Second Session &#8212; Hoover)</head>
+
+<p>Authorizing the District Court of the United States for the Eastern District of Oklahoma to hear and determine certain claims of the Seminole Nation or Tribe of Indians.</p>
+
+<p>Vetoed January 30, 1933.  The veto message was laid before the Senate and printed as S. Doc. No. 177 (76 <title>Cong. Rec.</title> 2881).</p>
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 244.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1126.01.pdf">Veto message relating to claims of the Seminole Nation or Tribe of Indians.  Message from the President of the United States, returning without approval the Bill (S. 4340) entitled “An Act Authorizing the District Court of the United States for the Eastern District of Oklahoma To Hear and Determine Certain Claims of the Seminole Nation or Tribe of Indians."</ref>  (1933).  Senate.  72nd Congress, 2nd session.  Senate Document No. 177 (<title>Serial Set</title> 9665).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> SENATE
+72D CONGRESS
+2d Session
+DOCUMENT
+No. 177 </fw>
+<head>VETO MESSAGE RELATING TO CLAIMS OF THE SEMINOLE NATION OR TRIBE OF INDIANS</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT APPROVAL THE BILL (S. 4340) ENTITLED "AN ACT AUTHORIZING THE DISTRICT COURT OF THE UNITED STATES FOR THE EASTERN DISTRICT OF OKLAHOMA TO HEAR AND DETERMINE CERTAIN CLAIMS OF THE SEMINOLE NATION OR TRIBE OF INDIANS"</head>
+<milestone unit="rule" />
+<p>JANUARY 10 (calendar day, JANUARY 30), 1933. Read; ordered to lie on the table and be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith without approval Senate 4340, an act authorizing the District Court of the United States for the Eastern District
+of Oklahoma to hear and determine certain claims of the Seminole
+Nation or Tribe of Indians.</p>
+<p>The tract of land therein described was formerly owned by the
+Seminole Tribe of Indians in Oklahoma. It was appraised and sold
+at public auction as provided by law. The full consideration was
+paid and title to the land has passed into the hands of a bona fide
+purchaser through transactions with the Government had in the utmost
+good faith. There is no substantial basis for thinking that Congress
+was without power to grant authority to the Secretary of the Interior
+to make the sale. There would seem to be no justification for now
+authorizing a committee of the tribe to bring a harassing suit against
+a private owner who bought and paid for this property in good faith
+many years ago. Moreover this legislation might prove to be a precedent for private litigation affecting many other titles and large sums
+of money through other than the regular procedure. The rights
+of the Indians, if any, can be presented and adjudicated by the Court
+<fw> 2	VETO MESSAGE RELATING TO SEMINOLE INDIANS </fw>
+of Claims in the litigation pending before it under the act of May
+20, 1924.</p>
+<p>I attach hereto a letter from the Secretary of the Interior setting
+forth the views of the department on the bill.</p>
+<closer><signed>HERBERT HOOVER. </signed>
+<dateline>THE WHITE HOUSE, January 30, 1933.</dateline></closer>
+<milestone unit="rule" />
+
+<opener>
+<dateline>DEPARTMENT OF THE INTERIOR,
+Washington, January 26, 1933.</dateline>
+<salute>The PRESIDENT,
+The White House.</salute>
+</opener>
+<p>MY DEAR MR. PRESIDENT: I have the honor to return herewith
+enrolled bill S. 4340, which was sent to me for my views as to whether
+there is objection to approving it.</p>
+<p>I recommend that the bill be not given favorable consideration for
+the following reasons:</p>
+<p>The tract of land therein described was formerly owned by the
+Seminole Tribe of Indians in Oklahoma. It consisted of approxi-
+mately 320 acres; was never allotted in severalty to members of the
+tribe, but was used for school purposes in connection with the
+Imahaka Seminole Mission School. That school was discontinued
+and subsequently the land being no longer needed for school purposes
+was appraised and sold at public auction as provided by law. The
+price at which the land was sold was considerably more than the
+total appraised value of the tract. The full consideration has been
+paid and title to the land has passed into the hands of a bona fide
+purchaser through transactions with the Government had in the
+utmost good faith.</p>
+<p>The basis for the bill is probably the fact that the Secretary of the
+Interior approved the deed of conveyance as authorized by section
+6 of the act of April 26, 1906 (34 <title>Stat.</title> L. 137), notwithstanding the
+Seminole chief had refused to execute the deed. The said section 6
+provides as follows:</p>
+<quote>
+* * * If any such executive (tribal chief) shall fail, refuse, or neglect, for 30 days after notice that any instrument is ready for his signature, to appear at a place to be designated by the Secretary of the Interior and execute the same, such instrument may be approved by the Secretary of the Interior without such execution, and when so approved and recorded shall convey legal title, and such approval shall be conclusive evidence that such executive or chief refused or neglected after notice to execute such instrument.
+</quote>
+<p>If the enactment of said section 6 was a violation of the constitutional rights of the Indians, the burden should not fall upon innocent
+persons.</p>
+<p>The Seminole Tribe has heretofore been authorized to bring suits
+against the Government in the Court of Claims for adjudication of
+any alleged claims against the Government, not heretofore determined by the courts, by the act of May 20, 1924 (43 Stats. 133).</p>
+<p>Besides a number of petitions filed in the court by the Seminole
+Tribe or Nation involving specific claims, it has pending in the said
+court a petition in the nature of a claim for a general accounting in
+case No. 1-262. It is believed therefore that ample remedy already
+exists for the Seminole Tribe to obtain full redress of any grievances
+
+<fw> VETO MESSAGE RELATING TO SEMINOLE INDIANS	3 </fw>
+they may have in connection with the disposal of the tract of tribal
+school land involved.</p>
+<p>In view of the circumstances it would be manifestly unfair to
+authorize the Indians to bring suit in the United States Courts, now
+or at any time in the future without regard to lapse of time as provided in the bill, to question the title of owners of the land and to
+attempt to recover the same.</p>
+<closer>Very truly yours,
+<signed>RAY LYMAN WILBUR,</signed> Secretary.</closer>
+<milestone unit="rule" >
+
+<head>[S.4340)</head>
+<p>AN ACT Authorizing the District Court of the United States for the Eastern District of Oklahoma to
+hear and determine certain claims of the Seminole Nation or Tribe of Indians</p>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That jurisdiction is hereby conferred upon the District Court of the United States for the Eastern District of Oklahoma, not-withstanding the lapse of time or statutes of limitation, to hear and determine any suits heretofore or hereafter instituted by the Seminole Nation or Tribe of Indians, or on their behalf, or by any committee selected by the Seminole Indian Protective Association to represent such Indians, with respect to the title to the following-described lands in Seminole County, Oklahoma, or any clouds thereon, to wit : The south half northeast quarter and the southeast quarter, section 7; the south fifteen and seventy-eight one-hundredths acres of lot 3, and lots 6 and 7, section 8, all in township 7 north, range 8 east, Indian meridian, containing three hundred and twenty acres, more or less.</p>
+<p>SEC. 2. The District Court of the United States for the Eastern District of Oklahoma shall have full authority, by proper orders and process, to bring in and make a party to the proceedings any person deemed by it necessary or proper to the final determination of the matter in controversy. The judgment or decree of such court shall be subject to review in accordance with the law governing like cases.</p>
+<closer><signed>JNO. N. GARNER,</signed>
+Speaker of the House of Representatives,
+<signed>CHARLES CURTIS,</signed>
+Vice President of the United States and President of the Senate.</closer>
+
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1126.02.pdf"><title>Congressional Record</title> 76, 2881</ref> (1933).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1933	CONGRESSIONAL RECORD SENATE	2881' </fw>
+<p>The PRESIDENT pro tempore. Is there objection? The Chair hears none, and it is so ordered.</p>
+<head>CLAIMS OF THE SEMINOLE NATION OR TRIBE OF INDIANS&#8212;VETO
+MESSAGE (S. DOC. NO. 177)</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States, which was read, as follows:</p>
+<p>To the Senate:</p>
+<p>I return herewith without approval S. 4340, an act authorizing the District Court of the United States for the Eastern District of Oklahoma to hear and determine certain claims of the Seminole Nation or Tribe of Indians.</p>
+<p>The tract of land therein described was formerly owned by the Seminole Tribe of Indians in Oklahoma. It was appraised and sold at public auction as provided by law. The full consideration was paid and title to the land has passed into the hands of a bona fide purchaser through transactions with the Government had in the utmost good faith. There is no substantial basis for thinking that Congress was without power to grant authority to the Secretary of the Interior to make the sale. There would seem to be no justification for now authorizing a committee of the tribe to bring a harassing suit against a private owner who bought and paid for this property in good faith many years ago. Moreover, this legislation might prove to be a precedent for private litigation affecting many other titles and large sums of money through other than the regular procedure. The rights of the Indians, if any, can be presented and adjudicated by the Court of Claims in the litigation pending before it under the act of May 20, 1924.</p>
+<p>I attach hereto a letter from the Secretary of the Interior setting forth the views of the department on the bill.</p> 
+<closer><signed>HERBERT HOOVER.</signed>
+<dateline>THE WHITE HousE, January 30, 1933.</dateline></closer>
+<p>Mr. THOMAS of Oklahoma. Mr. President, just a word in explanation of the bill. In the Seminole Indian Nation in Oklahoma for years we had a school for the benefit of the Indian children of such tribe of Indians. Some years ago oil was discovered in that section of the State. The land upon which the school was located was desired by some of the large oil companies. The Seminole Tribe did not de-sire to dispose of the land.</p>
+<p>The Secretary of the Interior tried to get the Seminole Tribe to enter into an arrangement for the sale of the property. The Indians refused to consider the sale of the property, and the chief refused to execute the deed. Whereupon the chief was removed and another chief appointed. The second chief likewise refused to sign the deed. And when it was discovered that no Indian could be secured to assume the role of chief who would sign the deed the Secretary of the Interior proceeded to sell the land himself and signed the deed as the guardian of the Indians. The land was sold, the deed was signed and approved by the Secretary of the Interior, and it has since proved to be oil property.</p>
+<p>The Indians have never been satisfied with the transaction. Some time ago, as a representative in part of the tribe of Indians, I introduced a bill authorizing the tribe to go into the Federal court of the eastern district of Oklahoma and present their claims against the oil company, in the hope, of course, that the deed might be set aside and the property restored to the Seminole Tribe of Indians.</p>
+<p>The Congress passed the bill and now the President has seen fit to veto the measure asked for by the wards of the Government. Not having the time now to go into the matter fully and thoroughly, I ask unanimous consent that the bill, with the message, lie upon the table for future consideration by the Senate.</p>
+<p>The PRESIDENT pro tempore. Is there objection? The Chair hears none, and it is so ordered.</p>
+
+<head>RELIEF OF AGRICULTURAL INDEBTEDNESS</head>
+<p>Mr. SHIPSTEAD. I ask unanimous consent to introduce a bill, and, in order to save time, I ask that a short explanatory statement may be printed in the RECORD as a part of my remarks.</p>
+<p>The PRESIDENT pro tempore. Is the Senator desirous that it be printed, together with the text of the bill? </p>
+<p>Mr. SHIPSTEAD. The bill is quite extensive; but I should like, if there is no objection, to have the text of the bill printed.</p>
+<p>The PRESIDENT pro tempore. Is there objection? The Chair hears none, and it is so ordered.</p>
+<p>The bill (S. 5562) to relieve agricultural distress through the consolidation and adjustment of indebtedness and the reduction of the rate of interest thereon, to release frozen credits and stimulate the recovery of business, to create in the Department of Agriculture an administration of agricultural loans with which will be consolidated, in the interest of economy and efficiency, all agencies of the Federal Government concerned with agricultural credit, and for other purposes, was read twice by its title, referred to the Committee on Agriculture and. Forestry, and ordered to be printed in the RECORD, as follows:</p>
+<p>Be it enacted, etc., That this act may be cited as the "Agricultural loan administration act of 1933."</p>
+<p>Sec. 2. It is hereby declared to be the policy of Congress that the loaning of money to persons engaged in the production and distribution of agricultural products, and all undertakings relating, directly or indirectly, to agricultural credit in any of its phases, are affected with a public interest and that the proper regulation of the conditions under which the business of loaning money and of extending credit to persons engaged in producing and distributing agricultural products shall be carried on should be considered as an integral and inseparable part of the power of Congress to regulate commerce among the several States.</p>
+<p>SEC. 3. The purposes of this act are hereby declared to be as follows:</p>
+<p>(a) The consolidation of agricultural indebtedness;</p>
+<p>(b) The relief of agriculture from onerous charges upon indebtedness to the Federal Government and to private lenders;</p>
+<p>(c) The orderly facilitation of credit to agriculture for the seasonal movements of commodities and livestock;</p>
+<p>(d) The stabilization, to a reasonable and practicable extent, of the range of prices obtainable by agricultural producers for, what they produce, with reference to trustworthy indices of general price levels;</p>
+<p>(e) The encouragement of all dependable marketing cooperative processes and devices calculated to cheapen the cost of distribution of agricultural products and their derivatives among consumers thereof at home and abroad;</p>
+<p>(f) The reinforcement of buying-power among all elements of the population of the United States through the restoration and preservation of equilibrium between consuming demand and reasonable costs of producing and distributing agricultural products;</p>
+<p>(g) The consolidation in the Department of Agriculture in an administration of agricultural loans, in the interest of economy and efficiency, of all the powers, duties, and functions of the governmental agencies heretofore established by the Federal Government; and</p>
+<p>(h) The improvement of the standard of living of the people of the United States.</p>
+<p>SEC. 4. (a) There is hereby created in the Department of Agriculture an administration of agricultural loans, hereinafter referred to as the administration. The President, by Executive order, shall, within 60 days from the date of enactment of this act, consolidate and coordinate in the administration all executive and administrative bureaus, agencies, offices, or corporations (except those in the Department of Agriculture), especially created for or concerned in the administration of laws relating to agricultural credit in any of its phases, including the Federal Farm Loan Board, the Federal land banks, the Federal intermediate credit banks, the regional agricultural credit corporations of the Reconstruction Finance Corporation, and the Federal Farm Board and all agencies subject to its jurisdiction, and the President shall likewise transfer to the administration the duties, powers, and functions now vested in the bureaus, agencies, offices, or corporations so consolidated and coordinated, and the whole or any part of the records or public property belonging thereto. The Secretary of Agriculture shall, within 10 days from the date of enactment of this act, transfer to the administration all bureaus, agencies, offices, or corporations in the Department of Agriculture which are concerned with agricultural credit in any of its phases, together with the duties, powers, and functions now vested by law in such bureaus, agencies, offices, or corporations, including the whole or any part of the records and public property belonging thereto. The personnel of any bureaus, agencies, eflices, or corporations so consolidated and coordinated in or transferred to the administration, may, in the discretion of the commissioner of agricultural loans, be transferred to and given employment in the administration, subject to such change in designation and organization as the commissioner may deem necessary.</p>
+<p>(b) Upon the completion of the transfers to the administration provided for in this section the Federal Farm Board and the</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

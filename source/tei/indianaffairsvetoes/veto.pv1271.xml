@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1271">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1271	H.R. 8516 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1271</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1271	H.R. 8516 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>To provide funds for cooperation with Porcupine School District, Sioux City, North Dakota, for extension of public-school buildings to be available for Indian children.</p>
+ 
+<p>Pocket veto occurred after the 1st session of the 74th Congress had adjourned sine die on August 26, 1935.  The bill was presented to the President on August 26, 1935 (79 <title>Cong. Rec.</title> 14768).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 272.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1271.01.pdf"><title>Congressional Record</title> 79, 14768</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<p>14768	CONGRESSIONAL RECORD HOUSE	AUGUST 26 </fw>
+<p>H. R. 7140. An act for the relief of the Bell Oil & Gas Co.; </p>
+<p>H. R. 7858. An act to amend an act entitled "An act to establish a uniform system of bankruptcy throughout the United States ", approved July 1, 1898, and acts amendatory thereof and supplementary thereto;</p>
+<p>H. R. 7974. An act to withdraw and restore to their previous status under the control of the Territory of Hawaii certain Hawaiian homes lands now in use as an airplane landing field;</p>
+<p>H. R. 8133. An act to authorize certain homestead entry-men who are disabled World War veterans to make final proof of their entries, and for other purposes;</p>
+<p>H. R. 8444. An act to authorize the transfer of a certain military reservation to the Department of the Interior;</p>
+<p>H. R. 8511. An act to provide funds for cooperation with Cannon Ball school district, Sioux County, N. Dak., for extension of public-school buildings to be available for Indian children;</p>
+<p>H. R. 8512. An act to provide funds for cooperation with Fort Yates school district, Sioux County, N. Dak., for extension of public-school buildings to be available for Indian children;</p>
+<p>H. H. 8513. An act to provide funds for cooperation with Trenton school district, Williams County, N. Dak., for extension of public-school buildings to be available for Indian children;</p>
+<p>H. R. 8516. An act to provide funds for cooperation with Porcupine school district, Sioux County, N. Dak., for extension of public-school buildings to be available for Indian children;</p>
+<p>H. R. 8870. An act to further protect the revenue, derived from distilled spirits, wine, and malt beverages, to regulate interstate and foreign commerce and enforce the postal laws with respect thereto, to enforce the twenty-first amendment, and for other purposes;</p>
+<p>H. R. 8974. An act, to provide revenue, equalize taxation, and for other purposes;</p>
+<p>H. R. 9070. An act to authorize the construction of certain bridges and to extend the times for commencing and/or completing the construction of other bridges over the navigable waters of the United States, and for other purposes; and</p>
+<p>H. J. Res. 407. Joint resolution consenting to an interstate oil compact to conserve oil and gas.</p>
+<head>MESSAGE FROM THE PRESIDENT</head>
+<p>A message from the President of the United States announced that on the following dates he approved and signed bills and joint resolutions of the House of the following titles:</p>
+<p>On August 22, 1935:</p>
+<p>H. R. 2476. An act to grant a patent to Albert M. Johnson and Walter Scott;</p>
+<p>H. R. 7955. An act to establish a new division of the northern district of Georgia with terms of court to be held at Newnan, Ga.;</p>
+<p>H. R.8580. An act to amend the law with respect to the time for jury service in the police court of the District of Columbia;</p>
+<p>H. R. 8581. An act to amend the law providing for exemptions from jury service in the District of Columbia;</p>
+<p>H. H. 8668. An act providing for. the establishment of a term of the District Court of the United States for the Southern District of Florida at Fort Pierce, Fla.; and</p>
+<p>H. H. 8710. An act to authorize the Secretary of War to lend to the reunion committee of the United Confederate Veterans 3,000 blankets, olive drab, no. 4, and 3,000 canvas cots, to be used at their annual encampment to be held at Amarillo, Tex., in September 1935.</p>
+<p>On August 23, 1935:</p>
+<p>H. R. 1880. An act for the relief of Ivan H. McCormack; </p>
+<p>H. R. 3509. An act for the relief of the legal guardian of Nick Vasilzevic;</p>
+<p>H. R. 3546. An act for the relief of Sarah Elizabeth Ballentyne;</p>
+<p>H. R. 3967. An act for the relief of Raymond Parramore; </p>
+<p>H. R. 4513. An act to authorize payment of claims for
+unauthorized emergency treatment of World War veterans; </p>
+<p>H. R. 4827. An act for the relief of Don C. Fees.</p>
+
+<p>H. R. 4860. An act for the relief of Judson Stokes;</p>
+<p>H. R. 5375. An act relating to the compensation of certain charwomen;</p>
+<p>H. R. 5492. An act for the relief of Henry Scipper;</p>
+<p> H. R. 7099. An act for the relief of Rocco D'Amato;</p>
+<p>H. R. 7617. An act to provide for the sound, effective, and uninterrupted operation of the banking system, and for other purposes;</p>
+<p>H. R. 8026. An act to establish and promote the use of standards of classification for tobacco, to provide and maintain an official tobacco-inspection service, and for other purposes; and</p>
+<p>H. R. 8991. An act to authorize the Administrator of Veterans' Affairs to exchange certain property rights now vested in the United States at Veterans' Administration facility, Perry Point, Md., for certain property and rights of the Pennsylvania Railroad Co. in that vicinity.</p>
+<p>On August 24, 1935:</p>
+<p>H. R. 258. An act for the relief of Emma B. Hine; </p>
+<p>H. R. 607. An act for the relief of Florence Overly; </p>
+<p>H. R. 704. An act for the relief of Thelbert Davis; </p>
+<p>H. R. 760. An act for the relief of John L. Hoffman;</p>
+<p>H. R. 830. An act for the relief of Sanford Madison Strange;</p>
+<p>H. R. 1437. An act for the relief of August A. Carminati; </p>
+<p>H. R. 2118. An act for the relief of John P. Seabrook; </p>
+<p>H. R. 2126. An act for the relief of Hugh G. Lisk;</p>
+<p>H. R. 2319. An act for the relief of Oswald Orlando; </p>
+<p>H. R. 2411. An act for the relief of E. F. Purvis;</p>
+<p>H. R. 2432. An act for the relief of the Weis-Patterson Lumber Co., Inc.;</p>
+<p>H. R. 2443. An act for the relief of Milton Hatch;</p>
+<p>H. R. 2555. An act to extend to Sgt. Maj. Edmund S. Sayer, United States Marine Corps (retired), the benefits of the act of May 7, 1932, providing highest World War rank to retired enlisted men;</p>
+<p>H. R. 2690. An act for the relief of John B. Grayson; </p>
+<p>H. R. 2970. An act for the relief of Jose Munden;</p>
+<p>H. R. 3147. An act for the relief of Will A. Helmer; </p>
+<p>H. R. 3202. An act for the relief of W. H. Greene; </p>
+<p>H. R. 3282. An act for the relief of Nina Drips;</p>
+<p>H. R. 3759. An act for the relief of E. H. Jennings; </p>
+<p>H. R. 4568. An act for the relief of Forrest D. Stout;</p>
+<p>H. R. 4923. An act for the relief of Maj. E. Leslie Medford,
+United States property and disbursing officer for Maryland; </p>
+<p>H. H. 5159. An act to authorize the Postmaster General to
+contract for air-mail service in Alaska;</p>
+<p>H. R. 5099. An act for the relief of Albert Henry George;</p>
+<p>H. R. 5347. An act for the relief of Bertha Mosely Bottoms; </p>
+<p>H. R. 5550. An act for the relief of Malachy Ryan;</p>
+<p>H. R. 5711. An act to provide aid for needy blind persons
+of the District of Columbia and authorizing appropriations
+therefor;</p>
+<p>H. R. 5816. An act for the relief of May C. Gustin;</p>
+<p>H. R. 6177. An act for the relief of Brooker T. Wilkins; </p>
+<p>H. R. 6267. An act for the relief of Wint Rowland; </p>
+<p><p>H. R. 6268. An act for the relief of W. C. Wright;</p>
+H. R. 6269. An act for the relief of W. H. Keyes;</p>
+<p>H. R. 6623. An act to amend the Code of Laws for the District of Columbia in relation to providing assistance against old-age want;</p>
+<p>H. R. 7520. An act for the relief of David A. Trousdale;</p>
+<p>H. R. 7577. An act for the relief of Mrs. William E. Smith and Clara Smith;</p>
+<p>H. R. 7938. An act to authorize the transfer of the Otter Cliffs radio station on Mount Desert Island in the State of Maine as an addition to the Acadia National Park, and for other purposes;</p>
+<p>H. R. 8345. An act authorizing the Secretary of the Navy to accept without cost to the United States certain lands in Duval County, State of Florida;</p>
+<p>H. R. 8492. An act to amend the Agricultural Adjustment Act, and for other purposes;</p>
+<p>H. R. 8519. An act requiring contracts for the construction, alteration, and repair of any public building or public work of the United States to be accompanied by a perform&#8212;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

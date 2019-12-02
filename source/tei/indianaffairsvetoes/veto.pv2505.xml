@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2505">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2505	S. 3095 (One hundred second Congress, Second Session &#8212; G.H.W. Bush)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2505</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>G.H.W. Bush</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>One hundred second Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Choctaw</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2505	S. 3095 (One hundred second Congress, Second Session &#8212; G.H.W. Bush)</head>
+
+<p>To restore and clarify the Federal relationship with the Jena Band of Choctaws of Louisiana.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 102nd Congress adjourned sine die on October 9, 1992.  The bill was presented to the President on October 9, 1992 (138 <title>Cong. Rec.</title> 34687).  A Memorandum of Disapproval was printed at 28 <title>Weekly Comp. of Pres. Doc.</title> 2036-2037, October 26, 1992.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl>Presidential Vetoes, 1989-2000.  (2001). Washington, DC: Government Printing Office, 11.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2505.01.pdf"><title>Congressional Record</title> 138, 34687</ref> (1992).</bibl>
+<!-- <floatingText>
+<body>
+October 8, 1992	CONGRESSIONAL RECORD—SENATE	34687
+terior to designate the Nez Perce National Historical Park in the State of Idaho, and for other purposes;
+H.R. 2152. An act to enhance the effectiveness of the United Nations international driftnet fishery conservation program;
+H.R. 5193. An act to amend title 38, United States Code, to improve health care services for women veterans, to expand authority for health care sharing agreements between the Department of Veterans Affairs and the Department of Defense, to revise certain pay authorities that apply to Department of Veterans Affairs nurses, to improve preventive health services for veterans, to establish discounts on pharmaceuticals purchased by the Department of Veterans Affairs, to provide for a Persian Gulf War Veterans Health Registry, and to make other improvements in the delivery and administration of health care by the Department of Veterans Affairs;
+H.R. 5194. An act to amend the Juvenile Justice and Delinquency Prevention Act of 1974 to authorize appropriations for fiscal years 1993, 1994, 1995, and 1996, and for other purposes;
+H.R. 5617. An act to provide Congressional approval of a Governing International Fishery Agreement, and for other purposes; H.R. 6135. An act to authorize appropriations to the National Aeronautics and Space Administration for research and development, space flight, control and data communications, construction of facilities, research and program management, and Inspector General, and for other purposes;
+H.R. 6168. An act to amend the Airport and Airway Improvement Act of 1982 to authorize appropriations, and for other purposes;
+H.R. 6187. An act to amend the Foreign Assistance Act of 1961 with respect to inter-national narcotics control programs and activities, and for other purposes; and
+H.J. Res. 422. Joint resolution designating November 1992 as "Neurofibromatosis Awareness Month".
+Under the authority of the order of the Senate of January 3, 1991, the en-rolled bills and joint resolution were signed on October 23, 1992, subsequent to the sine die adjournment of the Congress by the President pro tempore [Mr. BYRD].
+ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED
+The Secretary of the Senate reported that he had presented to the President of the United States the following en-rolled bills and joint resolutions:
+On October 9, 1992:
+8. 1880. An act to amend the District of Columbia Spouse Equity Act of 1988.
+S. 3007. An act to authorize financial assistance for the construction and maintenance of the Mary McLeod Bethune Memorial Arts Center.
+S. 3095. An act to restore and clarify the Federal relationship with the Jena Band of Choctaws of Louisiana.
+S.J. Res. 287. Joint resolution to designate the week of October 4, 1992, through October 10, 1992, as "Mental Illness Awareness Week."
+On October 15, 1992:
+S. 1145, An act to amend the Ethics in Government Act of 1978 to remove the limitation on the authorization of appropriations for the Office of Government Ethics.
+S. 1146. An act to establish a national advanced technician training program, utiliz-
+60-069 0—07 Vol. 138 (Pt. 23) 39ing the resources of the Nation's 2-year associate-granting colleges to expand the pool of skilled technicians in strategic advanced-technology fields, to increase the productivity of the Nation's industries, and to improve the competitiveness of the United States in international trade, and for other purposes.
+S. 1181. An act for the relief of Christy Carl Hallien of Arlington, Texas.
+8. 1530. An act to authorize the integration of employment, training, and related services by Indian tribal governments.
+S. 1583. An act to increase the safety to humans and the environment from the transportation by pipeline of natural gas and hazardous liquids, and for other purposes.
+S. 2044. An act to assist native Americans in assuring the survival and continuing vitality of their languages.
+S. 2201. An act to authorize the admission to the United States of certain scientists of the Commonwealth of Independent States and the Baltic States as employment-based immigrants under the Immigration and Nationality Act, and for other purposes.
+S. 2322. An act to amend title 38, United States Code, to increase, effective as of December 1, 1992, the rates of disability compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for survivors of such veterans.
+S. 2625. An act to designate the United States courthouse being constructed at 400 Cooper Street in Camden, New Jersey, as the "Mitchell H. Cohen United States Court-house."
+S. 2661. An act to authorize the striking of a medal commemorating the 250th anniversary of the founding of the American Philosophical Society and the birth of Thomas Jefferson.
+S. 2834. An act to designate the United States Post Office building located at 100 Main Street, Millsboro, Delaware, as the "John J. Williams Post Office Building."
+S. 2875. An act to amend the National School Lunch Act and the Child Nutrition Act of 1966 to better assist children in home-less shelters, to enhance competition among infant formula manufacturers and to reduce the per unit costs of infant formula for the special supplemental food program for women, infants, and children (WIC], and for other purposes.
+8. 3006. An act to provide for the expeditious disclosure of records relevant to the assassination of President John F. Kennedy.
+S.J. Res. 218. Joint resolution designating the calendar year, 1993, as the "Year of American Craft: A Celebration of the Creative Work of the Hand."
+S.J. Res. 252. Joint resolution designating the week of April 18 through 25, 1993, as "National Credit Education Week."
+S.J. Res. 305. Joint resolution to designate October 1992 as "Polish-American Heritage Month."
+S.J. Rea. 319. Joint resolution to designate the second Sunday in October of 1992 as "National Children's Day,"
+S. 225. An act to expand the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park, Virginia.
+On October 16, 1992:
+S. 2532. An act to support freedom and open markets in the independent states of the former Soviet Union, and for other purposes,
+On October 19, 1992:
+S. 758. An act to clarify that Staten, instrumentalities of States, and officers and employees of States acting in their official ca-pacity, are subject to suit in Federal court by any person for infringement of patents and plant variety protections, and that all the remedies can be obtained in such suit that can be obtained in a suit against a private entity.
+On October 20, 1992:
+8. 347. An act to amend the Defense Production Act of 1950 to revitalize the defense industrial base of the United States, and for other purposes,
+S. 474. An act to prohibit sports gambling under State law.
+S. 759. An act to amend certain trademark laws to clarify that States, instrumentalities of States, and officers and employees of States acting in their official capacity, are subject to suit in Federal court by any per-son for infringement of trademarks, and that all the remedies can be obtained in such suit that can be obtained in a suit against a private entity.
+S. 775. An act to improve the compensation of certain veterans for exposure to ionizing radiation, to improve the administration of veterans benefits programs, and for other purposes.
+S. 893. An act to amend title 18, United States Code, to impose criminal sanctions for violation of software copyright.
+S. 1002. An act to impose a criminal penalty for flight to avoid payments of arrearages in child support.
+S. 1439. An act to authorize and direct the Secretary of the Interior to convey certain lands in Livingston Parish, Louisiana.
+S. 1569. An act to implement the recommendations of the Federal Courts Study Committee, and for other purposes.
+8. 1577. An act to amend the Alzheimer's Disease and Related Dementias Services Re-search Act of 1988 to reauthorize the act, and for other purposes.
+B. 1623. An act to amend title 17, United States Code, to implement a royalty payment system and a serial copy management system for digital audio recording, to prohibit certain copyright infringement actions, and for other purposes.
+S. 1664. An act to establish the Keweenaw National Historical Park, and for other purposes.
+S. 1671. An act to withdraw certain public lands and to otherwise provide for the operation of the Waste Isolation Pilot Plant in Eddy County, New Mexico, and for other pur-
+p0808.
+S. 2418. An act to amend the Indian Health Care Improvement Act to authorize appropriations for Indian health programs, and for other purposes,
+S. 2679. An act to promote the recovery of Hawaii tropical forests, and for other purposes.
+S. 2890. An act to provide for the establishment of the Brown v. Board of Education National Historic Site in the State of Kansas, and for other purposes.
+8. 2941. An act to provide the Administrator of the Small Business Administration continued authority to administer the Small Business Innovation Research Program, and for other purposes.
+S. 3134. An act to expand the production and distribution of educational and instructional video programming and supporting educational materials for preschool and elementary school children as a tool to improve school readiness, to develop and distribute educational and instructional video programming and support materials for parents, child care providers, and educators of young children, to expand services provided by Head Start programs, and for other purposes.
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2505.02.pdf"><title>Weekly Compilation of Presidential Documents</title> 28, 2036-2037</ref> (1992).</bibl>
+<!-- <floatingText>
+<body>
+through 12, and what I want to do is this: give the parents the choice between private, public, and religious schools. Give them a break. That's going to help the public schools as well as the others.
+On crime, we've got to be a little tougher on the criminals and have a little more sympathy for the victims of crime. I might say I was very proud to have been endorsed by the Fraternal Order of Police from Little Rock, Arkansas.
+You know, they talk a lot over there on the other side about getting the deficit down. But here's three ideas for you. Let's pass a balanced budget amendment and make the Congress get it down. Here's another idea: Give the taxpayer a check-off on his income, 10 percent to go to reduce spending. Make them reduce that spending. Then give them a line-item veto. Let the President cut right through that waste. Three good ideas.
+My biggest problem with Governor Clinton is that he's on one side of the issue one day and on the other, the other day. We can-not let the White House turn into the waffle house. We can't do that. He'll take one position on right to work in the right-to-work State, and in the other States he says he's against it. On term limits, which I am in favor of, he is for it in one State and against it in another.
+On the Persian Gulf war, where the sons and daughters of North Carolina served with such distinction, here's what Governor Clinton said. Think of this in terms of the Commander in Chief of the Armed Forces. He said, "Well, I agree with the minority, but I guess I would have voted with the majority." What kind of leadership is that?
+Audience members. Boo-o-o!
+The President. You cannot lead the American people by misleading them. No-body is perfect. If you make a mistake, admit it. That's the American way. Then go on about Ieading the country. But do not try to be all things to all people.
+Let me tell you this: I'm very sorry Barbara is not here because I think we've got the best First Lady we can possibly have. But she and I have tried very hard to uphold the public trust. The White House is your house. The Presidency is your Presidency. We have tried to keep that place decent and honorable so
+Oct. 21 / Administration of George Bush, 1992
+
+all the American people can look up to the White House.
+Let me just say that sometimes that telephone rings there at night, and you have to make a decision. You can't wait. You can't procrastinate. You can't take a poll or have a town meeting or have a referendum. You've got to make a decision. That's what being President is all about.
+I am very proud to have served my country in war. I put on a uniform and fought for the United States, and I am honored and proud to be President of the United States. I want to succeed in this campaign not that I need the job, but I want to lift up these kids here today. We are in a global recession, a global slowdown. The United States economy is doing better than most of the European countries, Japan, Germany, Canada, you name it. But with my program, the one I have proposed, and with 150 new Members of Congress, we are going to lift this country up. We are going to help these kids here to-night. We are going to lead the way out of this—in the economic recovery.
+Thank you very much. And may God bless the United States of America. And may God bless the wonderful people of the State of North Carolina. Thank you very much.
+Note: The President spoke at 9 p.m. at the State Fair Grounds. A tape was not available for verification of the content of these re-marks.
+Memorandum of Disapproval for the Jena Band of Choctaws of Louisiana Restoration Act
+October 21, 1992
+I am withholding my approval of S. 3095, entitled the "Jena Band of Choctaws of Louisiana Restoration Act."
+S. 3095 would establish the Jena Band of Choctaw Indians in Louisiana as a distinct, federally recognized Indian tribe.
+It is important that all groups seeking Federal recognition as an Indian tribe should go
+HeinOnline- 28 Weekly Comp. Pres. Docs. 2036 1992
+Administration of George Bush, 1992 / Oct. 21	2037
+through the established Federal acknowledgment process. The process was established with the encouragement and support of the Indian tribes and the Congress to deal uniformly and consistently with requests for acknowledgment. The acknowledgment process is objective, applies fair criteria, and provides each petitioning group the opportunity for an unbiased, detailed evaluation of its documented petition.
+S. 3095 would circumvent the standard Federal acknowledgment process, establish a precedent that would weaken the Department of the Interior's acknowledgment process, and encourage other groups to seek statutory recognition outside this well-established process. Further, it would be inequitable to other groups seeking Federal acknowledgment. Finally, it is inconsistent with the standard practice of "restoring" Federal recognition to only those tribes that have been previously recognized and legislatively terminated.
+S. 3095, in using the term "restore," automatically assumes the Band was formerly recognized as the Band claims. This claim is based on the fact that, for a few years in the 1930's, the United States funded a school for Indians at Jena, Louisiana, and, in 1938, considered relocating Jena families to Mississippi, but did not do so. The limited provision of funds for education and the consideration to relocate Jena families were actions based on the identification of members of the group as Indians, not on identification of the group as a tribe. There is a distinction between identifying individuals as Indians versus Federal recognition of a tribe, which establishes a perpetual government-to-government relationship.
+Enactment of S. 3095 would circumvent and weaken the Federal acknowledgment process and be unfair to other groups similarly situated. For these reasons, I am with-holding my approval of S. 3095.
+George Bush
+The White House, October 21, 1992.
+Executive Order 12817—Transfer of Certain Iraqi Government Assets Held by Domestic Banks
+October 21, 1992
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Inter-national Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), the National Emergencies Act (50 U.S.C. 1601 et seq.), section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), and section 301 of title 3 of the United States Code, in order to apply in the United States measures adopted in United Nations Security Council Resolution No. 778 of October 2, 1992, and in order to take additional steps with respect to the actions and policies of the Government of Iraq and the national emergency described and declared in Executive Order No. 12722,
+
+I, George Bush, President of the United States of America, hereby order:
+
+Section 1. The Secretary of the Treasury is authorized and directed to take all actions necessary to carry out the provisions of United Nations Security Council Resolution No. 778 with respect to blocked funds and other assets described in section 2 of this order, or funds and other assets received from the United Nations in repayment of funds and assets transferred pursuant to section 2 of this order. For this purpose, the Secretary of the Treasury is delegated and authorized to exercise all authorities vested in the President by sections 203 and 205 of the Inter-national Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) and section 5 of the United Nations Participation Act (22 U.S.C. 287c).
+
+Sec. 2. Upon a determination by the Secretary of the Treasury that funds or other assets in which the Government of Iraq or its agencies, instrumentalities, or controlled entities have an interest represent the proceeds of the sale of Iraqi petroleum or petroleum products, paid for by or on behalf of
+
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

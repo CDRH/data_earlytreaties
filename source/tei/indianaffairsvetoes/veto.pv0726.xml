@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0726">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">726	H.R. 5062 (Fifty-third Congress, Third Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0726</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-third Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>726	H.R. 5062 (Fifty-third Congress, Third Session &#8212; Cleveland)</head>
+
+<p>To grant the Gainsville, McAlister &amp; St. Louis Railway Company the right to build two branch lines and grant the right-of-way thereof through the Indian Territory, and for other purposes.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 53rd Congress had adjourned sine die on March 3, 1895.  The bill was presented to the President on March 1, 1895 (March 1, 1895, H. Jour., p. 175; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 35).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 158.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0726.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1895).  53rd Congress, 3rd session, p. 175 (<title>Serial Set</title> 3291).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES,
+BEING THE
+THIRD SESSION OF THE FIFTY-THIRD CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 3, 1894,
+IN THE ONE HUNDRED AND NINETEENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1895.</head>
+<fw> 1895.	HOUSE OF REPRESENTATIVES.	175 </fw>
+
+<p>Will the House suspend the rules and pass said joint resolution?</p>
+<p>Yeas....157</p>
+<p>Nays....72</p>
+<p>Answering "present"..1</p>
+<p>Not answering....119 </p>
+<p>The yeas and nays being desired by one-fifth of the members present, The Speaker appointed Messrs. Terry and Ray tellers.</p>
+<p>Those who voted in the affirmative are&#8212;</p>
+<list>
+<item>Abbott, </item>
+<item>Alderson, </item>
+<item>Allen,</item>
+<item>Apsley, </item>
+<item>Arnold, </item>
+<item>Bailey, </item>
+<item>Baker, N. H.</item>
+<item>Bartlett, </item>
+<item>Beckner, </item>
+<item>Bell, Tex. </item>
+<item>Berry,</item>
+<item>Black,</item>
+<item>Blair,</item>
+<item>Boatner, </item>
+<item>Brauch,</item>
+<item>Breckinridge, </item>
+<item>Bretz,</item>
+<item>Brookshire, </item>
+<item>Bryan, </item>
+<item>Bunn,</item>
+<item>Bynum, </item>
+<item>Cabauiss, </item>
+<item>Cadmus, </item>
+<item>Caminetti, </item>
+<item>Campbell, </item>
+<item>Cannon, Cal.</item>
+ <item>Capehart, </item>
+<item>Carath,</item>
+ <item>Catchings, </item>
+<item>Clancy, </item>
+<item>Clark, Mo.</item>
+<item>Clarke, Ala. </item>
+<item>Cobb, Mo.</item>
+<item>Coffeen, Wyo. </item>
+<item>Cooper, Ind. </item>
+<item>Cooper, Tex. </item>
+<item>Cornish,</item>
+<item>Cox, </item>
+<item>Culberson,</item>
+<item>Davey, </item>
+<item>De Armond,</item>
+<item>Dinsmore, </item>
+<item>Draper,</item>
+<item>Dunphy, </item>
+<item>Edmunds, </item>
+<item>English, Cal.</item>
+<item>Enloe,</item>
+<item>Epes,</item>
+<item>Erdman, </item>
+<item>Everett, </item>
+<item>Fielder, </item>
+<item>Fyan,</item>
+<item>Geary, </item>
+<item>Geissenhainer,</item> 
+<item>Goldzier,</item>
+<item>Grady, </item>
+<item>Graham, </item>
+<item>Gresham,</item>
+<item>Haines, </item>
+<item>Hall, Minn.</item>
+<item>Hall, Mo.</item>
+<item>Harris, </item>
+<item>Harrison,</item>
+<item>Hayes, </item>
+<item>Heard,</item>
+<item>Henderson, N. C.</item> 
+<item>Hines,</item>
+<item>Hooker, Miss.</item> 
+<item>Houk,</item>
+<item>Hunter, </item>
+<item>Ikirt,</item>
+<item>Izlar,</item>
+<item>Jones, </item>
+<item>Rein,</item>
+<item>Kilgore, </item>
+<item>Kribbs,</item>
+<item>Kyle,</item>
+<item>Lane,</item>
+<item>Lapham,</item>
+<item>Latimer, </item>
+<item>Lawson, </item>
+<item>Layton, </item>
+<item>Lester, </item>
+<item>Little, </item>
+<item>Livingston, </item>
+<item>Lynch, </item>
+<item>Maddox, </item>
+<item>Maguire, </item>
+<item>Mallory, </item>
+<item>Marshall, </item>
+<item>Martin, Ind.</item>
+<item>McCulloch, </item>
+<item>McDearmo,</item>
+<item>McEttrick,</item>
+<item>McGann, </item>
+<item>McKaig, </item>
+<item>McKeighan </item>
+<item>McLaurin,</item>
+<item>Meredith, </item>
+<item>Meyer, </item>
+<item>Money, </item>
+<item>Montgomery, </item>
+<item>Moore, </item>
+<item>Morgan, </item>
+<item>Moses, </item>
+<item>Neill, </item>
+<item>Ogden,</item>
+<item>O'Neill, Mo. </item>
+<item>Outhwaite,</item>
+<item>Page, </item>
+<item>Patterson, </item>
+<item>Pearson, </item>
+<item>Pence, </item>
+<item>Pendleton, Tex</item>.
+<item>Pendleton, W. Va.</item>
+<item>Pigott, </item>
+<item>Powers, </item>
+<item>Price, </item>
+<item>Reilly,</item>
+<item>Richardson, Tenn. </item>
+<item>Robbins,</item>
+<item>Rusk,</item>
+<item>Ryan,</item>
+<item>Sayers,</item>
+<item>Shell,</item>
+<item>Somers, </item>
+<item>Sorg,</item>
+<item>Sperry,</item>
+<item>Springer, </item>
+<item>Stallings, </item>
+<item>Stevens, </item>
+<item>Stockdale, </item>
+<item>Stone, Ky. </item>
+<item>Strait,</item>
+<item>Straus,</item>
+<item>Swanson, </item>
+<item>Talbott., Md. </item>
+<item>Tarsney, Tate,</item>
+<item>Taylor, Ind.</item>
+<item>Terry,</item>
+<item>Tucker, </item>
+<item>Turner, Ga.</item>
+<item>Turpin, </item>
+<item>Tyler,</item>
+<item>Walker, </item>
+<item>Warner, </item>
+<item>Washington, </item>
+<item>Weadock, </item>
+<item>Wheeler, Ala. </item>
+<item>Whiting, </item>
+<item>Williams, Miss. </item>
+<item>Wilson, W. Va. </item>
+<item>Wise.</item>
+<item>Woodard, </item>
+<item>Wright.</item>
+</list>
+
+<p>Those who voted in the negative are-</p>
+<list>
+<item>Aldrich, </item>
+<item>Avery, </item>
+<item>Baker, Kans. </item>
+<item>Barnes,</item> 
+<item>Bartholdt, </item>
+<item>Boutelle, </item>
+<item>Bronmwell, </item>
+<item>Cannon, Ill. </item>
+<item>Chickering, </item>
+<item>Childs, </item>
+<item>Coffin, Md. </item>
+<item>Cooper, Wis. </item>
+<item>Cousins,</item>
+<item>Curtis, Kans. </item>
+<item>Dalzell,</item>
+<item>Davis,</item>
+<item>Dingley, </item>
+<item>Dockery,</item>
+<item>Doolittle, </item>
+<item>Fletcher,</item> 
+<item>Funk, </item>
+<item>Gardner,</item>
+<item> Gillet, N. Y.</item>
+<item> Griffin, Wis.</item> 
+<item>Grosvenor, </item>
+<item>Grout,</item>
+<item>Hager,</item>
+<item> Hartman, </item>
+<item>Haugen, </item>
+<item>Hepburn,</item>
+<item>Hicks,</item>
+<item>Hooker, N. Y. </item>
+<item>Hopkins, Ill. </item>
+<item>Hudson, </item>
+<item>Hulick,</item>
+<item>Hull,</item>
+<item>Johnson, N. Dak. </item>
+<item>Jorden,</item>
+<item>Kiefer, </item>
+<item>Loud,</item>
+<item>Londenslager, </item>
+<item>Lucas,</item>
+<item>McCall, </item>
+<item>McCleary, Minn. </item>
+<item>McDowell, </item>
+<item>Meiklejohn, </item>
+<item>Mercer,</item>
+<item>Moon, </item>
+<item>Payne, </item>
+<item>Perkins,</item> 
+<item>Quigg, </item>
+<item>Ray,</item>
+<item>Reed,</item>
+<item>Russell, Conn.</item>
+<item>Scranton,</item>
+<item>Sherman,</item>
+<item>Smith,</item>
+<item>Stone, C. W. </item>
+<item>Stone, W. A.</item> 
+<item>Storer,</item>
+<item>Strong,</item>
+<item>Talbert, S. C. </item>
+<item>Tawney,</item>
+<item>Thomas,</item>
+<item>Updegraff,</item>
+<item>Van Voorhis, N. Y. </item>
+<item>Van Voorhis, Ohio </item>
+<item>Weyer,</item>
+<item>Wheeler, Ill. </item>
+<item>White,</item>
+<item>Williams,</item>
+<item>Woomer.</item>
+</list>
+
+<p>Mr. Pickier answered "present." Those not answering are&#8212;</p>
+<list>
+<item>Adams, Ky. </item><item>Adams, Pa.</item> <item>Aitken,</item> <item>Alexander, </item>
+<item>Babcock, </item>
+<item>Baldwin,</item> 
+<item>Barwig, </item>
+<item>Belden,</item>
+<item>Bell. Colo.</item> 
+<item>Beltzboover, </item>
+<item>Bingham,</item> <item>Bland,</item>
+<item>Been,</item>
+<item>Bower, N. C. </item>
+<item>Bowers, Cal. </item>
+<item>Brickner, </item>
+<item>Broderick, </item>
+<item>Brosius,</item> 
+<item>Brown,</item>
+<item>Bundy,</item> <item>Burnes,</item> <item>Causey,</item><item> Cobb, Ala. </item>
+<item>Cockran,</item> <item>Cockrell,</item> <item>Cogswell, Conn.
+Coombe, Cooper, Fla. Covert,</item>
+<item>Crain,</item>
+<item>Crawford,</item>
+<item>Curtis. N. Y. </item>
+<item>Daniels,</item>
+<item>De Forest, </item>
+<item>Denson,</item>
+<item>Dolliver,</item> 
+<item>Donovan,</item>
+<item>Dunn,</item>
+<item>Durborow,</item>
+<item>Ellis, Ky.</item>
+<item>Ellis, Oreg.</item>
+<item> English, N. J. </item>
+<item>Fithian,</item>
+<item>Forman,</item>
+<item>Gear,</item>
+<item>Gillett, Mass.</item> 
+<item>Goodnight, </item>
+<item>Gorman,</item>
+<item>Griffin, Mich.</item>
+<item> Grow,</item>
+<item>Heiner,</item>
+<item> Hammond,</item>
+<item>Hare,</item>
+<item>Harmer, </item>
+<item>Harter, </item>
+<item>Hatch, </item>
+<item>Heiner,</item>
+<item>Henderson, ILL. </item>
+<item>Henderson, Iowa</item>
+<item>Hendrix,</item> 
+<item>Henry,</item> 
+<item>Hermann,</item>
+<item> Hitt,</item>
+<item>Holman,</item> 
+<item>Hopkins, Pa.</item> <item>Hutcheson,</item> 
+<item>Johnson, Ind.</item> <item>Johnson, Ohio </item>
+<item>Lacey,</item>
+
+<item>Lefever,</item> <item>Linton,</item><item> Lockwood,</item> 
+<item>Magner,</item>
+<item> Mahon,</item>
+<item>Marsh,</item>
+<item>Marvin, N. Y. </item>
+<item>McAleer, </item>
+<item>McCreary, Ky. </item>
+<item>Mc Dannold, </item>
+<item>McMillin,</item>
+<item> McNagny,</item> 
+<item>McRae, </item>
+<item>Milliken</item>, 
+<item>Morse,</item>
+<item>Murray,</item>
+<item>Mutchler, </item>
+<item>Newlands,</item> <item>Northway,</item> 
+<item>O'Neil, Mass.</item>
+</list>
+<p>So, two-thirds voting in favor thereof, the rules were suspended and said joint resolution was passed.</p>
+<p>Ordered, That the Clerk request the concurrence of the Senate therein.</p>
+<p>Leave of absence was granted to Mr. Morse, for this day.</p>
+<p>Mr. Pearson, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills and a joint resolution of the following titles; which were thereupon slotted by the Speaker, to wit :</p>
+<p>H. R. 5062. An act to grant the Gainesvillle, McAlester and St. Louis Railway Company the right to build two branch lines and to grant the right of way therefor through the Indian Territory, and for other purposes;</p>
+<p>H. R. 5580. An act to protect the insignia and the name of the Red Cross;</p>
+<p>H.R.6078. An act to authorize the Pittsburg and Mansfield Railroad Company to construct and maintain a bridge across the Monongahela River; </p>
+<p>H. R. 6956. An act to grant to railroad companies in the Indian Territory additional powers to secure right of way, depot grounds, and so forth;</p>
+<p>H. R. 7177. An act for the relief of Barzilla C. Hudson;</p>
+<p>H. R. 8604. An act for the relief of the heirs and devisees of Jonathan Kirkwood, deceased;</p>
+<p>H. R. 8698. An act to authorize the Washington and Marlboro Electric Railway Company of Maryland to extend its line of road into and within the District of Columbia;</p>
+<p>S. 328. An act granting an increase of pension to Mrs. Martha
+Curtis Carter, widow of the late Rear-Admiral S. P. Carter; </p>
+<p>S. 1535. An act to correct the naval history of John C. Dull;</p>
+<p>S. 1539. An act granting a pension to Josephine Foote Fairfax;</p>
+ <p>S. 2032. An act to grant a pension to Ida C. Martin;</p>
+<p>S. 2173. An act to amend an act entitled "An act to establish a United States court in the Indian Territory, and for other purposes," approved March first, eighteen hundred and eighty-nine, and an act entitled "Au act to provide a temporary government for the Territory of Oklahoma, to enlarge the jurisdiction of the United States court in the Indian Territory, and for other purposes," approved May second, eighteen hundred and ninety ; to provide for the redistricting of the Indian Territory for judicial purposes, for an additional judge and more United States commissioners, and to prescribe the jurisdiction, duties, and authority of such judges and commissioners, and for other purposes.</p>
+<p>S. 2351. An act granting a pension to Charles E. Jones;</p>
+<p>S. 2790. An act to amend section 1 of chapter 398 of the laws of 1882, entitled "An act to provide for deducting from the gross tonnage of vessels of .the United States;"</p>
+<p>S. R. 140. Joint resolution authorizing Second Lieut. F. C. Rockenbach, of the Tenth Cavalry, United States Army, to accept the position of commandant of cadets at the Virginia <p>Military Academy, Lexington, Va.</p>
+On motion of Mr. Martin, by unanimous consent,</p>
+<p>Ordered, That the House take a recess until 7.45 p.m. for the consideration of business pursuant to clause 3 of Rule XXVI, and that said rule be suspended so far as to permit the evening session to commence at 7.45 p. m. and to extend to 11 o'clock p. m.</p>
+<p>The Speaker designated Mr. Dockery to preside as Speaker <foreign>pro tempore</foreign>, at the evening session.</p>
+<p>The House then took a recess until 7.45 p. m.</p>
+
+<head>AFTER THE RECESS.</head>
+<p>On motion of Mr. Martin, the House resolved itself into Committee of the Whole House and after sonic time spent therein, the Speaker pro tempore (Mr. Dockery) resumed the chair, and Mr. Bretz reported that the committee having had under consideration the following bills had recommended that they do pass, to wit:</p>
+<p>S. 1656. An act granting an increase of pension to Mary A. L. Eastman;</p>
+<p>S. 2275. An act granting a pension to Elizabeth New, widow of Jethrow New;</p>
+<p>S. 1189. An act for the relief of Capt. Henry C. Seaman.</p>
+<p>Also, that the committee having had under consideration the following bills had recommended that they do pass, with amendments, to wit:</p>
+<p>H. R. 1310. A bill for the relief of John H. Willis;</p>
+<p>S. 2199. An act granting a pension to Charles F. Holly;</p>
+<p>S. 2511. An act granting an increase of pension to Eugenia R. Sweeney;</p>
+<p>S.1692. An act granting a pension to William J. Murray; </p>
+<p>H.R.7562. A bill granting a pension to Tenderson Smith; </p>
+<p>H. R. 7002. A bill to pension Mrs. Martha Frank;</p>
+<p>H. R. 4637. A bill granting a pension to Elizabeth Deshler Whiting, widow of Lieut. Henry Whiting;</p>
+<p>S. 577. An act granting all increase of pension to Thomas M. Chill;</p> 
+<p>H. R. 8245. A bill granting a pension to Annie J. Corbett, of Providence, R. I.;</p>
+<p>H. R. 6305. A bill for the relief of Henry H. Schrawder;</p>
+<p>H. R. 7761. A bill for the relief' of Mrs. Elizabeth R. Strother.</p> 
+<p>On motion of Mr. Martin, by unanimous consent,</p>
+<p>Ordered, That the previous question be ordered on the aforesaid bills to the passage thereof, thirty minutes being allowed for del late on each of said bills, this order not to interfere with the consideration of general appropriation bills or conference reports.</p>
+<p>A message from the Senate, by Mr. Platt, one of its secretaries, announced that the Senate had passed, without amendments, bills of the following titles:</p>
+<p>H. R. 6901. An act to increase the pension of Maj. Gen. Julius H. Stahel;</p>
+
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0726.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 35 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES JDOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<signed>CALVIN COOLIDGE.</signed>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO	35 </fw> <pb n="35" />
+<p>S. 305—stamped received at the Executive Mansion Feb. 23, 1895. On an attached typewritten memorandum is penciled in the President's handwriting:</p>
+<p>Soldier's application for pension under general disability laws was rejected on ground injury not result of service. Widow's claim now pending and awaiting proof. Entitled under law of 1890 but no proof of his death.</p>
+<p>Senate bills 333, 707, 1009, 1066 have no dates of receipt stamped on them and no marks by President on bills or attached papers.</p>
+<p>S. 1189 is stamped as received Mar. 2, 1895. S. 1252 is undated. So is S. 1483. On an attached committee report is penciled in President's handwriting, "Hold."</p>
+<p>S. 1535 is stamped Mar. 1. On an attached letter from the Secretary of the Navy the President has penciled this unsigned memorandum:</p>
+<quote>
+I do not see why the records of the Navy should state that this doctor was honorably discharged for the evident purpose of giving him a pension to which he is not entitled. There seems to have been no excuse for his desertion and he says himself he would not have complained of the harshness of his punishment if he had not lost his fingers in 1866.</quote>
+<p>S. 1639 and S. 1692 are stamped as received Mar. 2. On a committee report attached to the latter the President penciled:</p><quote>
+Not in the service and no satisfactory proof that his present condition has any relation to his employment in aid of military operations 30 years ago.</quote>
+<p>No dates of receipt are stamped on the following bills: S. 2362; S. 2721; H. R. 995; H. R. 1310; H. R. 4162; H. R. 4704; H. R. 6565; H. R. 6816; H. R. 6831; H. R. 7603; H. R. 7645; H. R. 8659; H. R. 8873.</p>
+<p>S. 2243 is stamped as received Feb. 28; S. 2351, Mar. 1; S. 2275, S. 2364, S. 2799 and H. R. 684, Mar. 2. Attached to H. R. 684 is a committee report on which the President penciled:</p>
+<quote>
+This bill is not in the form recommended by the Senate Comm. I don't think there is much merit in it in any view.</quote>
+<p>H. R. 840 was received Mar. 2. On an attached report the President penciled:</p>
+<p>He w'd be 2d Lieut. from Aug 29, 1863, to June 14, 1864.</p>
+<p>H. R. 3150 and H. R. 4479 were stamped as received Feb. 27; H. R. 952, H. R. 1581, H. R. 1819, H. R. 2130, H. R. 3128, H. R. 3147, H. R. 3194, H. R. 4724 were stamped as received Mar. 2.</p>
+<p>H. R. 4935&#8212;received Feb. 27. On attached typewritten memo-randum the President penciled:</p>
+<quote>Pension was granted to widow Sept. 10, 1892. </quote>
+<p>It is now alleged that she married Aug 1 or Aug. 6 (See report) 1892.</p>
+<p>There is no proof that her pension has been stopped. How could it have been granted to her after her marriage?</p>
+<p>H. R. 5062—received Mar. 1. On attached report the President penciled:</p>
+<quote>
+<p>1. No approval of route by Secretary of Interior.</p>
+<p>2. Courts of Texas, Arkansas & Kansas given jurisdiction of controversies. (Courts in Indian Territory are soon to be organized.)</p>
+<p>3. No consent of Indians to be obtained except as to allottees.</p>
+<p>H. R. 5224, is stamped as received Feb. 23, 1895. H. R. 7259 was received Feb. 27.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

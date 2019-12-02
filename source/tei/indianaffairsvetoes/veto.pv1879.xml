@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1879">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1879	S.499 (Eightieth Congress, Second Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1879</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eightieth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1879	S.499 (Eightieth Congress, Second Session &#8212; Truman)</head>
+
+<p>Authorizing the issuance of a patent in fee to Mrs. Bessie Two Elk-Poor Bear.</p>
+
+<p>Vetoed February 28, 1948.  The veto message was laid before the Senate, referred to the Committee on Interior and Insular Affairs, and printed as S. Doc. No. 123 (94 <title>Cong. Rec.</title> 1921).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 383.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1879.01.pdf">Patent in fee to Mrs. Bessie Two Elk-Poor Bear &#8212; veto message.  Message from the President of the United States returning without approval the Bill (S. 499) entitled “An Act Authorizing the Issuance of a Patent in Fee to Mrs. Bessie Two Elk-Poor Bear.”</ref>  (1948).   Senate.  80th Congress, 2nd session.  Senate   Document No. 123 (<title level="j">Serial Set </title>11221).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> SENATE 2d Session
+80TH CONGRESS 
+Document
+No. 123 </fw>
+<head>PATENT IN FEE TO MRS. BESSIE TWO ELK&#8211;POOR BEAR&#8212;VETO MESSAGE</head>
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 499) ENTITLED "AN ACT AUTHORIZING THE ISSUANCE OF A PATENT IN FEE TO MRS. BESSIE TWO ELK-POOR BEAR"</head>
+<p>MARCH 1 (legislative day, FEBRUARY 2), 1948.&#8212;Read; referred to the Committee on Interior and Insular Affairs and ordered to be printed</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 499, authorizing the issuance of a patent in fee to Mrs. Bessie Two Elk-Poor Pear.</p>
+<p>The effect of this measure would be to enable Mrs. Poor Bear to terminate at will the trust under which the United States now holds the lands allotted to her on the Pine Ridge Indian Reservation and to permit her to demand a conveyance of the lands free from the restrictions on alienation now imposed by law.</p>
+<p>The situation here presented is one which involves the performance of trust agreements that the United States is bound faithfully to execute, as distinguished from the continuance of a personal disability. Mrs. Poor Bear, in common with other Indians, is entirely free to purchase lands or other property and to sell the same as she pleases. What is here in question is land that forms a part of the ancestral tribal holdings of the Oglala Sioux Indians and a part of an area which, pursuant to various arrangements with these Indians, has been divided among the individual members of the Oglala Sioux Tribe. Mrs. Poor Bear obtained a share in this division of the tribal patrimony solely because of her membership in the Oglala Sioux Tribe. Under the terms of the allotment arrangements, and the implementing statutes, she has no right to alienate the lands allotted to her without the consent of the United States, acting in its capacity as trustee of the lands. Such approval may now be granted by the Secretary of the Interior should it be found that Mrs. Poor Bear is competent to manage her affairs.</p>
+<p>In the performance of the existing trust obligations consideration must be given to the question of whether a sale of the lands would promote the best interests of all concerned. These include Mrs. Poor<pb n="2" />
+<fw> 2 PATENT TO MRS. BESSIE TWO ELK-POOR BEAR-VETO MESSAGE </fw>
+Bear, as the beneficiary of the trust, and the Oglala Sioux Tribe, as a party to its creation and maintenance.</p>
+<p>The record in the present case clearly indicates that termination of the trust would be contrary to the best interests of Mrs. Poor Bear. The factors of her advanced age, business inexperience, nomadic habits, and lack of interest in agricultural or grazing pursuits, and the similar factors which exist with respect to her husband, combine to impel a conclusion that Mrs. Poor Bear is not competent to handle property transactions. Since she is dependent upon the land here involved, from which she now obtains a lease income, for a portion of her livelihood, loss of the value of the land through an imprudent sale, or through the improvident use of the proceeds of a sale, would adversely affect her future security. Yet the discharge of her property from restrictions would invite the sale of the land and the dissipation of its proceeds, by eliminating the safeguards which existing laws afford the Indians against short-sightedness on their own part or over-reaching on the part of others. Particularly in the situation here involved, I believe it would be most unwise to abrogate these safeguards.</p>
+<p>In addition, the approval of this bill might result in Mrs. Poor Bear being forced to accept whatever price is offered her for the land in order to avoid losing it through tax sale, since issuance of a patent in fee would terminate the present tax exemption.</p>
+<p>In these circumstances it seems to me that the responsibilities of the United States for the faithful discharge of its trust obligations preclude the granting to Mrs. Poor Bear of the right to terminate at will the existing trust of the lands allotted to her.</p>
+<p>I also wish to point out that the Congress has established, by general law, procedures under which cases such as the present may be adjusted in ways both equitable and practical, should a sale of part of the capital assets of Mrs. Poor Bear become essential for her support or for the better use of her other property. The procedures so established do not entail the disregard of Indian interests, and of Federal responsibilities for their protection, that is inherent in the present bill, however well-intentioned.</p>
+<p>For these reasons, I am constrained to withhold my approval from S. 499.</p>
+<closer><signed>HARRY S. TRUMAN. </signed><dateline>THE WHITE HOUSE, February 28, 1948.</dateline></closer>
+<p>S. 499</p>
+<head>EIGHTIETH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE SIXTH DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY-EIGHT</head>
+<head type="sub">AN ACT Authorizing the issuance of a patent in fee to Mrs. Bessie Two Elk-Poor Bear</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That, upon application in writing, the Secretary of the Interior is authorized and directed to issue to Mrs. Bessie Two Elk-Poor Bear, of Allen, South Dakota, a patent in fee to the northeast quarter of section 19, township 41, range 34 west, of the sixth principal meridian, South Dakota.</p>
+<closer><signed>JOSEPH W. MARTIN, JR.,</signed> Speaker of the House of Representatives <signed>A. H. VANDENBERG,</signed>
+President of the Senate pro tempore. [Endorsement on back of bill
+I certify that this Act originated in the Senate.
+<signed>CARL A. LOEFFLER,</signed> Secretary.</closer>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1879.02.pdf"><title>Congressional Record</title> 94, 1921</ref> (1948).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1948	CONGRESSIONAL RECORD-SENATE	1921 </fw>
+<p>Mr. CONNALLY. Mr. President, will the Senator yield?</p>
+<p>Mr. WHERRY. I am glad to yield.</p>
+<p>Mr. CONNALLY. Mr. President, the Senator from Michigan has delivered a very admirable address upon this subject, and has adequately covered it. I expect to speak on the bill, but I shall defer my remarks until the debate somewhat develops. During the course of that development, I shall address the Senate with respect to the pending measure.</p>
+<p>Mr. VANDENBERG. Mr. President, will the Senator yield to me for just a moment?</p>
+<p>Mr, WHERRY. I yield.</p>
+<p>Mr. VANDENBERG. Mr. President, with the indulgence of the Senator from Nebraska, I should like to make this suggestion to my colleagues: I am sure that despite any disagreements among us in respect to the terms of the act or the act itself, all of us are in agreement that the time has come for action, and I am sure we can have general cooperation to that end. To that end, therefore, Mr: President, I am taking the liberty of suggesting that it will tremendously facilitate events if those who contemplate offering amendments to the bill will have them promptly presented and printed, so that they may be before us for the earliest possible action when the debate lulls.</p>
+<p>Mr. WHERRY. Mr. President, I wish to concur in the statement just made by the distinguished Senator from Michigan that time is of the essence, and therefore I humbly suggest that Members who may' have amendments to offer, offer them as quickly as possible.</p>	
+<p>I feel that this bill is of such importance and is so momentous that we possibly would make time by now taking a recess until tomorrow. Unless there is some business which Members would like to have transacted at this time, I suggest that the Senate take a recess until to-morrow, if that meets with the approval of Senators.</p>
+<p>In the meantime, let me state that it is the present plan, if it meets with the approval of the Senate, to have the Senate meet daily until the pending legislation is disposed of.</p>
+<p>Mr. BARKLEY. Mr. President&#8212; Mr. WHERRY. I yield to the distinguished minority leader.</p>
+<p>Mr. BARKLEY. I would suggest that we have an executive session at this time, for the consideration of the nominations on the Executive Calendar.</p>
+<head>MESSAGE FROM THE HOUSE</head>
+<p>A message from the House of Representatives, by Mr. Swanson, one of its reading clerks, announced that the House had agreed to the report of the committee of conference on the disagreeing votes of the two Houses on the amendment of the House to the bill (S. 1796) to provide for the preservation of the frigate Constellation and to authorize the disposition of certain replaced parts of such vessel as souvenirs, and for other purposes.</p>
+<p>The message also announced that the House had agreed to the report of the committee of conference on the disagreeing votes of the two Houses on the amendments of the Senate to the bill(H. R. 5525) making appropriations to supply urgent deficiencies in certain appropriations for the fiscal year ending June 30, 1948, and for other purposes.</p>
+
+<head>EXTENSION OF RECIPROCAL TRADE AGREEMENTS&#8212;MESSAGE FROM THE PRESIDENT (H. DOC. NO. 551)</head>
+<p>The PRESIDING OFFICER (Mr. CAIN in the chair) laid before the Senate a message from the President of the United States, which was read by the Chief Clerk and referred to the Committee on Finance.</p>
+<p>(For President's message, see today's proceedings of the House of Representatives on p. 1934.)	</p>
+<head>MRS. BESSIE TWO ELK-POOR BEAR&#8212;
+VETO MESSAGE</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read by the Chief Clerk, and, with the accompanying bill, referred to the Committee on Interior and Insular Affairs:</p>
+<opener>
+<salute>
+To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 499, authorizing the issuance of a patent in fee to Mrs. Bessie Two Elk-Poor Bear.</p>
+<p>The effect of this measure would be to enable Mrs. Poor Bear to terminate at will the trust under which the United States now holds the lands allotted to her on the Pine Ridge Indian Reservation, and to permit her to demand a conveyance of the lands free from the restrictions on alienation now imposed by law. </p>
+<p>The situation here presented is one which involves the performance of trust agreements that the United States is bound faithfully to execute, as distinguished from the continuance of a personal disability. Mrs. Poor Bear, in common with other Indians, is entirely free to purchase lands or other property, and to sell the same as she pleases. What is here in question is land that forms a part of the ancestral tribal holdings of the Oglala Sioux Indians, and a part of an area which, pursuant to various arrangements with these Indians, has been divided among the individual members of the Oglala Sioux Tribe. Mrs. Poor Bear obtained a share in this division of the tribal patrimony solely because of her membership in the Oglala Sioux Tribe. Under the terms of the allotment arrangements, and the implementing statutes, she has no right to alienate the lands allotted to her without the consent of the United States, acting in its capacity as trustee of the lands. Such approval may now be granted by the Secretary of the Interior should it be found that Mrs. Poor Bear is competent to manage her affairs.</p>
+<p>In the performance of the existing trust obligations, consideration must be given to the question of whether a sale of the lands would promote the best interests of all concerned. These include Mrs. Poor Bear, as the beneficiary of the trust, and the Oglala Sioux Tribe, as a party to its creation and maintenance.</p>
+<p>The record in the present case clearly indicates that termination of the trust would be contrary to the best interests of
+Mrs. Poor Bear. The factors of her advanced age, business inexperience, nomadic habits, and lack of interest in agricultural or grazing pursuits, and the similar factors which exist with respect to her husband, combine to impel a conclusion that Mrs. Poor Bear is not competent to handle property transactions. Since she is dependent upon the land here involved, from which she now obtains a lease income, for a portion of her livelihood, loss of the value of the land through an imprudent sale, or through the improvident use of the proceeds of a sale, would adversely affect her future security. Yet, the discharge of her property from restrictions would invite the sale of the land and the dissipation of its proceeds by eliminating the safeguards which existing laws afford the Indians against short-sightedness on their own part or overreaching on the part of others. Particularly  in the situation here involved, I believe it would be most unwise to abrogate these safeguards.</p>
+<p>In addition, the approval of this bill might result in Mrs. Poor Bear being forced to accept whatever price is offered her for the land in order to avoid losing it through tax sale, since issuance of a patent in fee would terminate the present tax exemption.</p>
+<p>In these circumstances it seems to me that the responsibilities of the United States for the faithful discharge of its trust obligations preclude the granting to Mrs. Poor Bear of the right to terminate at will the existing trust of the lands allotted to her.</p>
+<p>I also wish to point out that the Congress has established, by general Iaw, procedures under which cases such as the present may be adjusted in ways both equitable and practical, should a sale of part of the capital assets of Mrs. Poor Bear become essential for her support or for the better use of her other property. The procedures so established do not entail the disregard of Indian interests, and of Federal responsibilities for their 'protection, that is inherent in the present bill, however well-intentioned.</p>
+<p><p>For these reasons, I am constrained to withhold my approval from S. 499.</p></p>
+<closer><signed>HARRY S. TRUMAN.</signed> <dateline>THE WHITE HOUSE, February 28, 1948.</dateline></closer>
+<head>MRS. ELLA WHITE BULL&#8212;VETO MESSAGE</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read by the Chief Clerk, and, with the accompanying bill, referred to the Committee on Interior and Insular Affairs:</p>
+
+<p>To the Senate:</p>
+<p>I return herewith without my approval S. 542, authorizing the issuance of a patent in fee to Mrs. Ella White Bull.</p>
+<p>The effect of this measure would be to enable Mrs. White Bull to terminate at will the trust under which the United States now holds the lands inherited by, her on the Pine Ridge Indian Reservation, and to permit her to demand a conveyance of the lands free from the restrictions on alienation now imposed by law.</p>
+<p>The situation here presented is one which involves the performance of trust</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

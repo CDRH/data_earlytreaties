@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0916">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">916	H.R. 12080 (Fifty-ninth Congress, First Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0916</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-ninth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>916	H.R. 12080 (Fifty-ninth Congress, First Session &#8212; T. Roosevelt)</head>
+
+<p>Granting to the Siletz Power and Manufacturing Co. a right-of-way for water ditch or canal through the Siletz Indian Reservation, in Oregon.</p>
+
+<p>Pocket veto occurred after the 1st session of the 59th Congress had adjourned sine die on June 30, 1906.  The bill was presented to the President on June 29, 1906 (June 29, 1906, H. Jour., p. 1288; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 39).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 195.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0916.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1906).  59th Congress, 1st session, p. 1288 (<title>Serial Set</title> 4903).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+<head>OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES</head>
+BEING THE
+FIRST SESSION OF THE FIFTY-NINTH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 4, 1905,
+IN THE ONE HUNDRED AND THIRTIETH YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE. 1906.</head>
+<pb n="1288" />
+<fw> 1288	JOURNAL OF THE	JUNE 29, </fw>
+<p>12,000 copies of the Report on the Progress of the Beet Sugar Industry;</p>
+<p>H. R. 18537. An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1907;</p>
+<p>H. J. Res. 157. A joint resolution authorizing the purchase of the manuscript of a digest of the United States laws and decisions;</p>
+<p>H. J. Res. 1S3. A joint resolution providing for the printing of reports ordered by the river and harbor act of March 3, 1905;</p>
+<p>H. R. 8825. An act for the relief of Thomas H. Kent;</p>
+<p>H. J. Res. 17 7. A joint resolution authorizing the Secretary of War to furnish a bronze cannon, with its carriage, limber, and accessories. to Junction City Post, No. 132, Grand Army of the Republic, Department of Kansas;</p>
+<p>H. R. 17972. An act to extend the time for the construction of a bridge and approaches thereto across the Missouri River at or near South Omaha, Nebr.;</p>
+<p>H. R. 19926. An act granting an increase of pension to Andrew Leopold;</p>
+<p>H. R. 19241. An act granting an increase of pension to Henry A. Conant;</p>
+<p>H. R. 18545. An act granting an increase of pension to David Upham;</p>
+<p>H. R. 19163. An act granting an increase of pension to Margaret Munson;</p>
+<p>H. J. Res. 188. Joint resolution making an additional appropriation for expenses under the Interstate Commerce Commission;</p>
+<p>H. J. Res. 189. Joint resolution to correct an error in enrollment of. and repealing a certain provision in the bill (H. R. 19844) making appropriations for the sundry civil expenses for the fiscal year ending June 30, 1907, and for other purposes, approved June 30, 1906; and</p>
+<p>H. R. 20511. An act making appropriations for certain public buildings authorized by the act approved June 30, 1906, and for other purposes.</p>
+<p>And then,</p>
+<p>On motion of Mr. Payne, at 2 o'clock and 12 minutes p. m., the House took a recess until 5 o'clock p. m.</p>
+<head>AFTER THE RECESS&#8212;5 O'CLOCK P. M.</head>
+<p>The House resumed its session.</p>
+<p>A further message from the Senate, by Mr. Parkinson, one of its secretaries, announced that the Senate had passed bills of the following titles ; in which the concurrence of the House of Representatives was requested:</p>
+<p>S.318. An net to provide for the purchase of a site and the erection of a public building thereon at Huron, in the State of South Dakota;</p>
+<p>S. 744. An act for the relief of Edward H. Ozmun ; S. GIGO. An act for the relief of Edwin S. Hall;</p>
+<p>S. 4926. An act for the relief of Etienne De P. Bujac; and S.4421. An act for the relief of S. W. Langhorne and H. S. Howell.</p>
+<p>The Speaker announced the appointment of the following Commission in pursuance of a bill authorizing appropriation for a public building, approved June 30, 1900: Mr. Bartholdt, Mr. Burleigh, and Mr. Bankhead.</p>
+<p>And then,</p>
+<p>On motion of Mr. Payne, at 5 o'clock and 45 minutes p. m., the House took a recess until 7 o'clock p. m.</p>
+<head>AFTER THE RECESS&#8212;7 O'CLOCK P. M.</head>
+<p>The House resumed its session.</p>
+<p>A further message from the Senate. by Mr. Platt, one of its secretaries, announced that the Senate had passed without amendment bill of the following title:</p>
+<p>H. R. 20511. An act making appropriations for certain public buildings, authorized by the act approved June 30, 1900, and for other purposes.</p>
+<p>And then,</p>
+<p>On motion of Mr. Tawney, at 7 o'clock and 7 minutes p. au. the House took a recess until 7 o'clock and 12 minutes p. m.</p>
+<head>AFTER THE RECESS&#8212;7 O'CLOCK AND 12 MINUTES P. M.</head>
+<p>The House resumed its session.</p>
+<p>Bills of the Senate of the following titles were taken from the Speaker's table. and, under the rule, referred as follows:</p>
+<p>S.318. An act to provide for the purchase of a site and the erection of a public building thereon at Huron, in the State of South Dakota-to the Committee on Public Buildings and Grounds.</p>
+<p>5.744. An act for the relief of Edward H. Ozmun&#8212;to the Committee on Claims.</p>
+<p>5.6166. An act for the relief of Edwin S. Hall&#8212;to the Committee on Claims.</p>
+<p>S. 4926. An act for the relief of Etienne De P. Bujac-to the Committee on Claims,</p>
+<p>5.4421. An act for the relief of S. W: Langhorne and H. S, Howell-to the Committee on Claims.</p>
+<p>S. 1473. An act for the relief of Malinda S. Gray-to the Committee on Claims.</p>
+<p>S. 5119. An act authorizing the extension of W and Adams streets NW.-to the Committee on the District of Columbia.</p>
+<p>S.5221. An act to regulate the practice of osteopathy, to license osteopathic physicians, and to punish persons violating the provisions thereof in the District of Columbia-to the Committee on the District of Columbia.</p>
+<p>The Speaker announced his signature to enrolled bills and joint resolution of the Senate of the following titles:</p>
+<p>S.88. An act for preventing the manufacture, sale, or transportation of adulterated or misbranded or poisonous or deleterious food, drugs, medicines, liquors, and for other purposes;</p>
+<p>5.5901. An act to extend the time for completion of the Alaska Central Railway, and for other purposes;</p>
+<p>S.1812. An act for the relief of Lieut. James M. Pickrell, United States Navy, retired;</p>
+<p>S. 4774. An act relating to the movements and anchorage of vessels in Hampton Roads and harbors of Norfolk and Newport News, and adjacent waters in the State of Virginia;</p>
+<p>5.2188. An act granting to the city of Durango, in the State of Colorado, certain lands therein described for water reservoirs;</p>
+<p>S. H. 72. Joint resolution fixing the date upon which the act to amend an act entitled "An act to regulate commerce," approved February 4, 1887, and all acts amendatory thereof, and to enlarge the powers of the Interstate Commerce Commission, approved June &#8212;, 1896, shall go into effect;</p>
+<p>S. 6283. An act granting an increase of pension to Clara A. R. Devereux;</p>
+<p>S. 4169. An act to authorize the sale of certain real estate in the District of Columbia belonging to the United States; and</p>
+<p>S.6523. An act to authorize the Alaska Pacific Railway and Terminal Company to construct a bridge across the Copper River in the Territory of Alaska.</p>
+<p>Mr. Wachter, from the Committee on Enrolled Bills, reported that that committee did this day present to the President for his approval bills and joint resolutions of the House of the following titles:</p>
+<p>H. R. 19241. An act granting an increase of pension to Henry A. Conant;</p>
+<p>H. R. 19163. An act granting an increase of pension to Margaret Munson;</p>
+<p>H. R. 18545. An act granting an increase of pension to David Upham;</p>
+<p>H. R. 19926. An act granting an increase of pension to Andrew Leopold;	</p>
+<p>H.R. 17972.  An act to extend the time for the construction of a bridge and approaches thereto across the Missouri River at or, near South Omaha, Nebr.;</p>
+<p>H. J. Res. 183. Joint resolution providing for the printing of reports ordered by the river and harbor act of March 3, 1905;</p>
+<p>H. J. Res. 177. Joint resolution authorizing the Secretary of War to furnish a bronze cannon, with its carriage, limber, and accessories, to Junction City Post, No. 132, Grand Army of the Republic, Department of Kansas:</p>
+<p>H. R.8825. An act for the relief of Thomas H. Kent;</p>
+<p>H.R. 18537. An act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1907;</p>
+<p>H. J. Res. 187. Joint resolution authorizing the purchase of the manuscript of a digest of the United States laws and decisions;</p>
+<p>H. R.3933. An act granting a pension to James P. Flewellen;</p>
+<p>H. R. 19755. An act to authorize the Secretary of the Navy to loan temporarily to the Philippine government a vessel of the United States Navy for use in connection with nautical schools of the Philippine Islands;</p>
+<p>H. H. 8867. An act granting an increase of pension to George Stillman:</p>
+<p>H. R. 7235. An act granting an increase of pension to Abel W. Payne;</p>
+<p>H. J. Res. 186. A joint resolution relative to the printing of 12,000 copies of the report on the progress of the beet&#8211;sugar industry;</p>
+<p>H. H. 12080. An act granting to the Siletz Power and Manufacturing Company a right of way for a water ditch or canal through the Siletz Indian Reservation, in Oregon;</p>
+<p>H. R. 15673. An act for the relief of Harry A. Young;</p>
+<p>H. R. 17842. An act granting a pension to Josephine V. Sparks: H. R. 20403. An act making appropriations to supply deficiencies in the appropriations for the fiscal year ending June 30,
+1906, and for prior years, and for other purposes: and</p>
+<p>H. R, 19844. An act making appropriations for sundry civil</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0916.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 39 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	 2d Session	HOUSE OF REPRESENTATIVES   DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head type="sub">DECEMBER 22, 1928.-Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> 70TH CONGRESS  2d Session	HOUSE OF REPRESENTATIVES J DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO	39 </fw><pb n="39" />
+<p>H. R. 15573&#8212;received Feb. 28. On bill is written in ink:</p>
+<p> Veto</p>
+<p>H. R. 16361&#8212;received Feb. 28. On bill is written in ink: </p>
+<p>Not sign</p>
+<p>H. R. 16445&#8212;received Feb. 28. No marks by the President, but attached to the bill is a report of the Commissioner of Pensions that the beneficiary had died.</p>
+<p>The 58th Congress, third session, adjourned March 4, 1905, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 39, pt. 4, pp. 4028, 4041) President Roosevelt retained unsigned S. 5108, which is stamped:</p>
+<p>White House received Mar 3, 1905</p>
+<p>and H. R. 11204, which has no date of receipt stamped on it. Both bills are now at the Executive Offices.</p>
+<p>The 59th Congress, first session, adjourned June 30, 1906. (<title>Cong. Rec.</title>, vol. 40, pt. 10, pp. 9802, 9817) President Roosevelt retained unsigned six Senate and three House bills. They are now at the Executive Offices.</p>
+<p>S. 1812, S. 2188, S. 4774, H. R. 12080 and H. R. 15673 are undated.</p> 
+<p>S. 4197 is stamped:</p>
+<p>The White House received Jun. 29, 1906 On the bill is penciled: </p>
+<p>Pocket Veto.</p>
+<p>S. 4965 is undated. Attached to the bill is a slip on which is written:</p>
+<p>Pocket Veto.</p>
+<p>S. 6355 was received June 29. Attached to it is a slip of paper on which is written:</p>
+<p>Let it die.</p>
+<p>H. R. 7226 was received June 28. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket Veto.</p>
+<p>The 59th Congress, second session, adjourned March 4, 1907, the Senate and House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 41, pt. '5, pp. 4658, 4672) President Roosevelt retained unsigned two Senate and four House bills, which are now at the Executive Offices.</p>
+<p>S. 4964 was received Mar. 2. On the bill itself, in ink, in the President's handwriting, is word "Veto."</p>
+<p>S. 8540 was received Mar. 2. On the bill, in ink, in the President's handwriting, are the words "Pocket veto."</p>
+<p>H. R. 3498 was received February 28, 1907.</p>
+<p>H. R. 17415 is not stamped with date of receipt. On the bill itself, in ink, in the President's handwriting, are the words "Pocket veto." H. R. 18854 was received February 22.
+H. R. 19500 is undated.</p>
+<p>The 60th Congress, second session, adjourned March 4, 1909, the Senate legislative day of March 3 and the House legislative day of February 23. (Cong Rec., vol. 43, pt. 4, pp. 3825, 3837) President Roosevelt retained unsigned ten Senate and seven House bills. They</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

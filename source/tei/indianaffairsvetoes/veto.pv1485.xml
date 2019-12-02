@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1485">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1485	H.R. 3248 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1485</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Chippewa</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1485	H.R. 3248 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>Authorizing a per capita payment of $15 each to the members of the Red Lake Band of Chippewa Indians from the proceeds of the sale of timber and lumber on the Red Lake Reservation.</p>
+
+<p>Vetoed August 1, 1939.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 459 (84 <title>Cong. Rec.</title> 10720).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 310-311.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1485.01.pdf">Payment to each member of the Red Lake Band of Chippewa Indians.  Message from the President of the United States returning without approval the Bill (H.R. 3248) authorizing a payment of $15 to each member of the Red Lake Band of Chippewa Indians.</ref> (1939).   House of Representatives.  76th Congress, 1st session.  House   Document No. 459 (<title>Serial Set</title> 10349).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 76TH CONGRESS  1st Session HOUSE OF REPRESENTATIVES DOCUMENT
+	No. 459 </fw>
+<head>PAYMENT TO EACH MEMBER OF THE RED LAKE BAND
+OF CHIPPEWA INDIANS</head>
+<milestone unit="rule" />
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (H. R. 3248) AUTHORIZING A PAYMENT OF $15 TO EACH MEMBER OF THE RED LAKE BAND OF CHIPPEWA INDIANS</head>
+<head type="sub">AUGUST 1, 1939.&#8212;Referred to the Committee on Indian Affairs and ordered to be
+printed</head>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval, enrolled H. R. 3248, which would authorize a payment of $15 to each member of the Red Lake Band of Chippewa Indians of Minnesota.</p>
+<p>The proposed payment would be made from a tribal fund derived from the sale of timber products which are manufactured at the tribal sawmill from stumpage cut on the Red Lake Reservation. The cost of operating the sawmill is defrayed from this fund. While I would have no objection to the distribution of any profits derived from this enterprise, I am informed that no part of the present balance in the operating fund represents an excess of operating income over operating cost. On the contrary, it appears that the mill is in debt to the Red Lake Tribe for stumpage in an amount which is far in excess of the difference between the balance in the tribal fund and the amount that will be required to operate the enterprise during the current fiscal year. In view of this and the fact that certain transportation problems have arisen recently which may result in a higher production cost, I believe that it would be unwise to deplete the mill fund at this time by the disbursement therefrom of some $30,000 for per capita distribution among the Red Lake Indians.</p>
+<p>Furthermore, there appears to be little justification at present for a per capita payment to these Indians from the standpoint of economic need. Many of them have an income from the fishing industry, while
+<fw> 2 PER CAPITA PAYMENT TO RED LAKE BAND OF INDIANS </fw>
+others are employed on Civilian Conservation Corps work, on Indian Service road work, on Works Progress Administration projects, and in the timber and lumber operations on the reservation. In fact, employment opportunities exceed the requirements of the Indians, making it necessary to employ whites and Indians of other tribes to meet the demand for labor at the Red Lake Agency. I am informed that the needs of many of the unemployables are being met by the operation of the Social Security Act.</p>
+<p>There is now under consideration a land-use program for the Red Lake Reservation which, if inaugurated, will require for its success the use of such tribal capital as may then be available. It is certain that the expenditure of the tribal funds for such a purpose will result in greater benefits to the members of the tribe than could possibly flow from a per capita distribution of tribal assets.</p>
+<p>For the foregoing reasons, I am compelled to withhold approval of the bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HousE, August 1, 1939. </dateline></closer>
+<p>H. R. 3248</p>
+<head>SEVENTY-SIXTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-NINE</head>
+<p>AN ACT Authorizing a per capita payment of $15 each to the members of the Red Lake Band of Chippewa
+Indians from the proceeds of the sale of timber and lumber on the Red Lake Reservation.</p>
+
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the Interior be, and he is hereby, authorized to withdraw as much as may be necessary from the fund in the Treasury of the United States arising from the proceeds of the sale of timber and lumber within the Red Lake Reservation in Minnesota, according to the provisions of the Act of May 18, 1916 (39 <title>Stat.</title> L. 137), and to make therefrom a per capita payment or distribution of $15 to each of the living members of the Red Lake Band of Chippewa Indians of the State of Minnesota, immediately payable upon the passage of this Act, under such rules and regulations as the said Secretary may prescribe: Provided, That the money paid to the Indians as authorized herein shall not be subject to any lien or claim of attorneys or other parties: Provided, further, That before any payment is made hereunder, the Red Lake Band of Chippewa Indians in Minnesota shall, in such manner as may be prescribed by the Secretary of the Interior, ratify the provisions of this Act and accept same.</p>
+<closer><signed>WM. B. BANKHEAD,</signed>
+Speaker of the House of Representatives.<signed> JNO. N. GARNER,</signed>
+Vice President of the United States and President of the Senate. [Endorsement on back of bill.]
+I certify that this bill originated in the House of Representatives.
+<signed>SOUTH TRIMBLE,</signed> Clerk.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1485.02.pdf"><title>Congressional Record</title> 84, 10720</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 10720	CONGRESSIONAL RECORD HOUSE	AUGUST 1 </fw>
+<p>RED LAKE BAND OF CHIPPEWA INDIANS OF MINNESOTA&#8212;VETO
+MESSAGE (H. DOC. NO. 459)</p>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States, which was read by the Clerk:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval enrolled H. R. 3248, which would authorize a payment of $15 to each member of the Red Lake Band of Chippewa Indians of Minnesota.</p>
+<p>The proposed payment would be made from a tribal fund derived from the sale of timber products which are manufactured at the tribal sawmill from stumpage cut on the Red Lake Reservation. The cost of operating the sawmill is defrayed from this fund. While I would have no objection to the distribution of any profits derived from this enter-prise, I am informed that no part of the present balance in the operating fund represents an excess of operating income over operating cost. On the contrary, it appears that the mill is in debt to the Red Lake Tribe for stumpage in an amount which is far in excess of the difference between the balance in the tribal fund and the amount that will be required to operate the enterprise during the current fiscal year. In view of this and the fact that certain transportation problems have arisen recently which may result in a higher production cost, I believe that it would be unwise to deplete the mill fund at this time by the disbursement therefrom of some $30,000 for per capita distribution among the Red Lake Indians.</p>
+<p>Furthermore, there appears to be little justification at present for a per capita payment to these Indians from the standpoint of economic need. Many of them have an income from the fishing industry, while others are employed on C. C. C. work, on Indian Service road work, on W. P. A. projects, and in the timber and lumber operations on the reservation. In fact, employment opportunities exceed the requirements of the Indians, making it necessary to employ whites and Indians of other tribes to meet the demand for labor at the Red Lake Agency. I am informed that the needs of many of the unemployables are being met by the operation of the Social Security Act.</p>
+<p>There is now under consideration a land-use program for the Red Lake Reservation which, if inaugurated, will require for its success the use of such tribal capital as may then be available. It is certain that the expenditure of the tribal funds for such a purpose will result in greater benefits to the members of the tribe than could possibly flow from a per capita distribution of tribal assets.</p>
+<p>For the foregoing reasons I am compelled to withhold approval of the bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 1, 1939.</dateline></closer>
+
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal.</p>
+<p>Mr. ROGERS of Oklahoma. Mr. Speaker, I move that the message and the accompanying bill be referred to the Committee on Indian Affairs, and ordered printed.</p>
+<p>The motion was agreed to.</p>
+<head>AMENDMENT OF PACKERS AND STOCKYARDS ACT OF 1921</head>
+<p>Mr. DOXEY submitted a conference report and statement on the bill (H. R. 4998) to amend the packers and Stockyards Act of 1921.</p>
+<head>EXTENSION OF REMARKS</head>
+<p>By unanimous consent Mr. VOORHIS of California and Mr. MAPES were granted permission to revise and extend their own remarks.</p>
+<p>Mr. MANSFIELD. Mr. Speaker, an hour or so ago I received unanimous consent to extend my remarks to include a speech delivered in honor of the Goliad battle by Judge Davenport. The speech is of unusual length, and I inadvertently failed to state that I had submitted it to the Government Printing Office for an estimate of the cost. I did so, and I have a letter from the Printer, stating that it is estimated it will cost $270.</p>
+<p>I desire to ask unanimous consent to vacate the first request I made and renew the request now, notwithstanding the estimate of the Printer.</p>
+<p>The SPEAKER. Without objection the request will be granted.</p>
+<p>There was no objection.</p>
+<p>Mr. CARTWRIGHT. Mr. Speaker, I ask unanimous consent to extend my own remarks and include a short letter from the Chickasaw Indians of Oklahoma.</p>
+<p>The SPEAKER. Without objection it is so ordered. There was no objection.</p>
+<p>Mr. WOOD. Mr. Speaker, I ask unanimous consent to revise and extend my remarks and include therein a resolution passed by the Missouri State Federation of Labor on May 24; also a resolution passed by the Central Labor Union of Kansas City.</p>
+<p>The SPEAKER. Is there objection?</p>
+<p>There was no objection.</p>
+<head>
+CONSTRUCTION OF ADDITIONAL FACILITIES IN THE PANAMA CANAL
+ZONE</head>
+<p>Mr. SABATH. Mr. Speaker, I call up House Resolution 203.</p>	
+<note>The Clerk read as follows:</note>
+<p>House Resolution 203</p>
+<p><hi rend="italic">Resolved,</hi> That upon the adoption of this resolution it. shall be in order to move that the House resolve itself into the Committee of the Whole House on the state of the Union for the consideration of H. R. 5129, a bill authorizing and providing for the construction of additional facilities on the Canal Zone for the purposes of more adequately providing for the defense of the Panama Canal and for increasing its capacity for the future needs of interoceanic shipping. That after general debate, which shall be confined to the bill and continue not to exceed 2 hours, to be equally divided and controlled between the chairman and ranking minority member of the Committee on Merchant Marine and Fisheries, the bill shall be read for amendment under the 5-minute rule. At the conclusion of the consideration of the bill for amendment the Committee shall rise and report the same to the House with such amendments as may have been adopted, and the previous question shall be considered as ordered on the bill and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions.</p>
+<p>Mr. SABATH. Mr. Speaker, in view of the fact that this is a unanimous report of the committee, I am wondering whether the gentleman from Illinois desires any time on
+the rule.</p>
+<p>Mr. ALLEN of Illinois. Yes; we do. Just a few minutes; but we are not opposed to the bill.</p>
+<p>Mr. SABATH. Mr. Speaker, this rule makes in order the bill (H. R. 5129) authorizing and providing for the construction of additional facilities on the Canal Zone for the purposes of more adequately providing for the defense of the Panama Canal and for increasing its capacity for the future needs of interoceanic shipping:</p>
+<p>The rule provides for 2 hours of general debate, and the bill will be considered under the 5-minute rule. I am informed that the Committee on Merchant Marine and Fisheries has reported this bill by a unanimous vote.</p>
+<p>Mr. Speaker, the Army engineers have recommended additional locks in the Panama Canal because the battle-ships we are now building will be much larger than any-thing expected at the time the Panama Canal was built. At that time we believed that the width, as well as the length, of the locks was sufficient to take care of any ship that might be built. I had .the honor and privilege of being at the Canal site when locks were being built, I was amazed then at the magnitude of these locks; and, therefore, it is surprising to me to realize how this country has advanced not only in the matter of the construction of battleships, but even in the construction of commercial vessels.</p>
+<p>Mr. RICH. Mr. Speaker, will the gentleman yield? </p>
+<p>Mr. SABATH. I yield.</p>
+<p>Mr. RICH. Does not the gentleman believe now that we were unwise in authorizing those three $115,000,000 battle-ships? They are causing us now to go beyond the building of battleships to the point where we have to change everything we own in order to operate them.</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1607">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1607	H.R. 5918 (Seventy-sixth Congress, Third Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1607</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1607	H.R. 5918 (Seventy-sixth Congress, Third Session &#8212; F. Roosevelt)</head>
+
+<p>Amending Public Law No. 96 of the Seventy-fifth Congress, being an act entitled "An act to relieve restricted Indians whose lands have been taxed or have been lost by failure to pay taxes."</p>
+
+<p>Vetoed June 11, 1940.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 832 (86 <title>Cong. Rec.</title> 8022).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 332.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1607.01.pdf">Restricted Indians.  Message from the President of the United States returning without approval the enrolled Bill (H.R. 5918) which would amend Public Law No. 96 of the Seventy-fifth Congress, being an act entitled “An act amending section 2 of Public Law No. 716 of the Seventy-fourth Congress, being an act entitled ‘An act to relieve restricted Indians whose lands have been taxed or have been lost by failure to pay taxes, and for other purposes.’”</ref>  (1940).  House of Representatives.  76th Congress, 3rd session.  House   Document No. 832 (<title>Serial Set</title> 10502).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1607.02.pdf"><title>Congressional Record</title> 86, 8022-8023</ref> (1940).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 76TH CONGRESS 3d Session  HOUSE OF REPRESENTATIVES  DOCUMENT 	No. 832 </fw>
+<head>RESTRICTED INDIANS</head>
+
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE ENROLLED BILL (H. R. 5918) WHICH WOULD AMEND PUBLIC LAW NO. 96 OF THE SEVENTY-FIFTH CONGRESS, BEING AN ACT ENTITLED "AN ACT AMENDING SECTION 2 OF PUBLIC LAW NO. 716 OF THE SEVENTY-FOURTH CONGRESS, BEING AN ACT ENTITLED 'AN ACT TO RELIEVE RESTRICTED INDIANS WHOSE LANDS HAVE BEEN TAXED OR HAVE BEEN LOST BY FAILURE TO PAY TAXES, AND FOR OTHER PURPOSES'"</head>
+<p>June 11, 1940.&#8212;Referred to the Committee on Indian Affairs and ordered to be
+printed</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith, without my approval, enrolled H. R. 5918, which would amend Public Law No. 96 of the Seventy-fifth Congress, being an act entitled "An act amending section 2 of Public Law No. 716 of the Seventy-fourth Congress, being an act entitled 'An act to relieve restricted Indians whose lands have been taxed or have been lost by failure to pay taxes and for other purposes'."</p>
+<p>The effect of this act, if approved, would be to subject to taxation by State, county, and municipal authorities from and after June 6, 1936, certain Indian lands that were made tax exempt by the act of June 20, 1936 (49 <title>Stat.</title> 1542), and which continued in that status until the passage of the act of May 19, 1937 (50 <title>Stat.</title> 188). It appears that the scope of the act of June 20, 1936, supra, developed to be greater than the Congress originally intended, and that the tax exemption granted thereby was subsequently limited by the passage of the act of May 19, 1937, supra, to lands falling within two specified classes. In the interim, however, certain lands which were subjected to taxation by the act last cited enjoyed freedom from taxation.</p><pb n="2" />
+<fw> 2	RESTRICTED INDIANS </fw>
+<p>In my opinion, it would be unjust at this late date to place the owners of the affected lands in the position of having to pay taxes for a period during which they had every right to believe that no such obligation would accrue against them. To impose this burden upon them now might result in undue hardship in some cases if not in the actual loss of their lands through tax sales.</p>
+<p>I do not discuss the question of the constitutionality of this retroactive enactment, but it is one worthy of serious consideration.</p>
+<closer><signed>FRANKLIN. D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, June 11, 1940.</dateline></closer>
+<p>H. R. 5918</p>
+
+<head>SEVENTY-SIXTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE THIRD SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON WEDNESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY</head>
+<head type="sub">AN ACT Amending Public Law Numbered 96 of the Seventy-fifth Congress, being an Act entitled "An Act amending section 2 of Public Law Numbered 716 of the Seventy-fourth Congress, being an Act en-titled An Act to relieve restricted Indians whose lands have been taxed or have been lost by failure to pay taxes and for other purposes'"</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That Public Law Numbered 96 of the Seventy-fifth Congress, being an Act entitled "An Act amending section 2 of Public Law Numbered 716 of the Seventy-fourth Congress, being an Act entitled 'An Act to relieve restricted Indians whose lands have been taxed or have been lost by ailure to pay taxes and for other purposes'" is hereby amended by adding the following sections:</p>
+<p>SEC. 3. This Act (Public Law Numbered 96 of the Seventy-fifth Congress) shall be effective as of June 6, 1936, and shall be declaratory of the intent of Congress and the meaning of section 2 of said Public Law Numbered 716 of the Seventy-fourth Congress.</p>
+<p>SEC. 4. All lands, other than those provided for in section 2 hereof, the title to which was held by an Indian on June 6, 1936, subject to restrictions against alienation or encumbrance except with the consent or approval of the Secretary of the Interior, and which was purchased before said June 6, 1936, out of trust or restricted funds of said Indian, shall be subject to tax as of June 6, 1936, but not subject to penalties, interest, and costs that may have accrued under the law of any State wherein said land is situate on the principal amount of the taxes levied on said land for the fiscal year beginning July 1, 1936, and ending June 30, 1937.</p>
+<closer><signed>WM. B. BANKHEAD,</signed> Speaker of the House of Representatives. <signed>JN0. N. GARNER,</signed>
+Vice President of the United States and President of the Senate.
+<note>[Endorsement on back of bill:]</note>
+I certify that this Act originated in the House of Representatives.
+<signed>SOUTH TRIMBLE, Clerk.</signed></closer>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

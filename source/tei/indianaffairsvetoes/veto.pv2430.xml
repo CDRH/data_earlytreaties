@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2430">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2430	H.R. 5768 (Ninety-eighth Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2430</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2430	H.R. 5768 (Ninety-eighth Congress, Second Session &#8212; Reagan)</head>
+
+<p>To declare that the United States holds in trust for the Cocopah Indian Tribe of Arizona certain land in Yuma County, Arizona.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 98th Congress adjourned sine die on October 12, 1984.  The bill was presented to the President on October 19, 1984 (130 <title>Cong. Rec.</title> 32345).  A Presidential message was received by Congress on November 14, 1985 (130 <title>Cong. Rec.</title> 32350).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 500.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2430.01.pdf"><title>Congressional Record</title> 130, 32345</ref> (1984).</bibl>
+<!-- <floatingText>
+<body>
+October 12, 1984	CONGRESSIONAL RECORD—HOUSE	32345
+H.R. 5358. An act to enable honey producers and handlers to finance a nationally co-ordinated research, promotion, and consumer information program designed to expand their markets for honey;
+H.R. 5402. An act to designated the U.S. Post Office and Courthouse in Utica, NY, as the "Alexander Pirnie Federal Building";
+H.R. 5716. An act providing for the conveyance of public lands, Seneca County, OH;
+H.R. 5728. An act to permit aliens lawfully admitted for permanent residence who are employed by the American University of Beirut to return to the United States as special immigrants after completion of such employment;
+H.R. 6000. An act to designate the Table Rock Lake Visitors Center building in the vicinity of Branson, MO, as the "Dewey J. Short Table Rock Lake Visitors Center";
+On October 19, 1984:
+H.R. 89. An act to permit the transportation of passengers between Puerto Rico and other U.S. ports on foreign-flag vessels when U.S.-flag service for such transportation is not available;
+H.R. 452. An act for the relief of Jerome J. Hartmann and Rita J. Hartmann;
+H.R. 597. An act to amend sections 2733, 2734, and 2736 of title 10, United States Code, and section 715 of title 32, United States Code, to increase the maximum amount of a claim against the United States that may be paid administratively under those sections and to allow increased delegation of authority to settle and pay certain of those claims, and for other purposes;
+H.R. 723. An act for the relief of Marsha D. Christopher;
+H.R. 999. An act to provide for the conservation, rehabilitation, and improvement of natural and cultural resources located on public or Indian lands, and for other purposes;
+H.R. 1880. An act to establish an inter-agency committee and a technical study group on cigarette safety;
+H.R. 2790. An act to amend the Colorado River Basin Salinity Control Act to authorize certain additional measures to assure accomplishment of the objectives of title II of such act, and for other purposes;
+H.R. 3150. An act to direct the Secretary of Agriculture to convey, for certain specified consideration, to the Sabine River Authority approximately 31,000 acres of land within the Sabine National Forest to be used for the purposes of the Toledo Bend project, Louisiana and Texas, and for other purposes'
+H.R. 4209. An act to amend the Small Business Act, the Federal Property and Administrative Services Act of 1949, and the Office of Federal Procurement Policy Act to enhance competition in Government procurement, and for other purposes;
+H.R. 4354. An act to designate the Federal Building and U.S. Courthouse in Ocala, FL, as the "Golden-Collum Memorial Federal Building and United States Courthouse";
+H.R. 4585. An act to authorize appropriations for the Office of Environmental Quality and the Council on Environmental Quality for fiscal years 1985 and 1986, and for other purposes;
+H.R. 3331. An act to authorize the ex-change of certain lands between the Bureau of Land Management and the city of Los Angeles for purposes of the Santa Monica Mountains National Recreation Area;
+H.R. 3788. An act to designate various areas as components of the national wilderness preservation system in the national forests in the State of Texas;
+H.R. 3942. An act to facilitate commercial space launches, and for other purposes; H.R. 3971. An act to provide that any Osage headright or restricted real estate or funds which is part of the estate of a de-ceased Osage Indian who did not possess a certificate of competency at the time of death shall be exempt from any estate or inheritance tax imposed by the State of Oklahoma;
+H.R. 4263. An act to designate certain lands in the Cherokee National Forest, TN, as wilderness areas, and to allow management of certain lands for uses other than wilderness;
+H.R. 4401. An act for the relief of Shu-Ahtsai Wei, her husband, Yen Wei, and their sons, Teh-fu Wei and Teh-hues Wei;
+H.R. 4473. An act to designate the Federal Archives and Records Center in San Bruno, CA, as the "Leo J. Ryan Memorial Federal Archives and Records Center";
+H.R. 4717. An act to designate the Federal Building and U.S. Courthouse in Las Vegas, NV, as the "Foley Federal Building and U.S. Courthouse";
+H.R. 4966. An act to recognize the organization known as the Women's Army Corps Veterans' Association;
+H.R. 4700. An act to designate the Federal Building and U.S. Courthouse at 1961 Stout Street, Denver, CO, as the "Byron G. Rogers Federal Building and U.S. Court-house";
+H.R. 5121. An act to designate certain national forest system lands in the State of Virginia as wilderness, and for other purposes;
+H.R. 5189. An act to amend section 3056 of title 18, United States Code, to update the authorities of the U.S. Secret Service, and for other purposes;
+H.R. 5688. An act to amend title 38. United States Code, to increase the rates of disability compensation for disabled veterans and of dependency and indemnity compensation for surviving spouses and children of veterans, to increase the rates of subsistence and educational assistance allowances for veterans pursuing vocational rehabilitation programs under chapter 31 of such title and for veterans and eligible persons pursuing programs of education or training under chapter 34, 35, or 36 of such title, to in-crease the opportunities for vocational rehabilitation of certain veterans receiving disability compensation, and to provide vocational training opportunities for certain veterans receiving pension; and for other purposes;
+H.R. 5747. An act to designate the Federal Building in Oak Ridge, TN, as the "Joe L. Evins Federal Building";
+H.R. 5760. An act to declare that the United States holds certain lands in trust for the Cocopah Indian Tribe of Arizona, and for other purposes;
+H.R. 5832. An act to authorize two additional Assistant Secretaries for the Department of the Treasury;
+H.R. 6007. An act to establish certain procedures regarding the judicial service of re-tired judges of District of Columbia courts, and for other purposes;
+H.R. 6027. An act to clarify the application of the Clayton Act to the official con-duct of local governments, and for other purposes;
+H.R. 6100. An act to clarify the intent of Congress with respect to the families eligible for a commemorative medal authorized for the families of Americans missing or otherwise unaccounted for in Southeast Asia;
+H.R. 6101. An act to amend the Panama Canal Act of 1979 to authorize quarters allowances for certain employees of the Department of Defense serving in the area formerly known as the Canal Zone;
+H.R. 6221. An act to provide for the use and distribution of certain funds awarded in the Wyandotte Tribe of Oklahoma and to restore certain mineral rights to the Three Affiliated Tribes of the Fort Berthold Reservation;
+H.R. 6257. An act to amend the Motor Vehicle and Information Cost Savings Act to impede those motor vehicle thefts which occur for purposes of dismantling the vehicles and reselling the major parts by requiring passenger motor vehicles and major re-placement parts to have identifying numbers or symbols, and for other purposes;
+H.R. 6296. An act entitled: "The San Juan Basin Wilderness Protection Act of 1984"; H.J. Res. 332. Joint resolution to designate the week beginning May 20, 1985. as "National Medical Transcriptionist Week"; H.J. Res. 594. Joint resolution designating the week beginning February 17, 1985, as a time to recognize volunteers who give their time to become Big Brothers and Big Sisters to youths in need of adult companionship; H.R. 6112. An act to amend the Tax Equity and Fiscal Responsibility Act of 1982 with respect to the effect of the 1985 in-crease in the Federal unemployment tax rate on certain small business provisions contained in State unemployment compensation laws;
+H.R. 6299. An act to amend the payment in 1985 of cost-of-living increases under the OASDI program in title II of the Social Security Act, and to provide for a study of certain changes which might be made in the provisions authorizing cost-of-living adjustments under that program;
+H.R. 6303. An act to make certain technical corrections in various acts relating to the Osage Tribe of Indians of Oklahoma; H.R. 6430. An act to amend the River and Harbor Act of 1946;
+H.R. 6438. An act for the relief of Joseph Karel Hasek;
+H.R. 6441. An act to eliminate restrictions with respect to the imposition and collection of tolls on the Richmond-Petersburg Turnpike upon repayment by the Common-wealth of Virginia of certain Federal-aid highway funds used on such turnpike;
+H.J. Res. 158. Joint resolution to make technical corrections in the act of January 12, 1983 (Public Law 97-458);
+H.R. 5833. An act to improve certain maritime programs of the Department of Transportation and the Department of Commerce;
+H.R. 440. An act for the relief of Frederick Francisco Akers;
+H.R. 1095. An act to grant a Federal char-ter to the 368th Veterans' Association; H.R. 1438. An act to provide for the restoration of the fish and wildlife in the Trinity River basin, California, and for other purposes;
+H.R. 1870. An act to require the Secretary of the Treasury to coin and sell a national medal in honor of the members and former members of the Armed Forces of the United States who served in the Vietnam conflict;
+H.R. 1961. An act to require the Administrator of Veterans' Affairs to prescribe regulations regarding the determination of service connection of certain disabilities of veterans who were exposed to dioxin in the Re-public of Vietnam while performing active military, naval, or air service or to radiation from nuclear detonations while performing
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2430.02.pdf"><title>Congressional Record</title> 131, 32350</ref> (1985).</bibl>
+<!-- <floatingText>
+<body>
+32350	CONGRESSIONAL RECORD—HOUSE	October 12, 1984
+The ACC, however, would be based on the discredited approach to youth unemployment that relies on artificial public sector employment, just as did the Public Service Employment pro-gram operated under the Comprehensive Employment and Training Act until it was terminated by Congress in 1981.
+Moreover, the ACC is not a necessary or effective way of managing Federal lands. The Federal Government currently spends over $4 billion annually on land management. This amount is adequate to fund all activities needed to ensure the preservation of these precious resources for this and future generations of Americans. Any conservation project that could be performed by the ACC could be done better and for less money under existing programs, because of less overhead for residential centers and the greater productivity of existing workers who are already well trained. In addition, I have recently signed S. 864, which would expand the National Park Service's volunteer program, and allow such a program to be established in the Bureau of Land Management. Under these worthwhile programs, including those administered by the Forest Service and the Fish and Wild-life Service, citizens offer valuable volunteer services to assist the Departments of Agriculture and the Interior in the management of Federal lands.
+Finally, while the three year, $225 million ACC authorization is itself unwarranted, it would almost certainly grow. The Youth Conservation Corps began in 1971 as a $1 million pilot pro-gram, and was subsequently given a permanent authorization of $60 mil-lion annually, notwithstanding its in-ability to provide enduring, meaningful benefits for the trainees or the public. Moreover, the proponents of the ACC have already served notice that they intend to attempt in the next Congress to increase the ACC authorization to $300 million annually.
+I believe that America's unemployed youth would be better served by reducing Federal spending so that more re-sources are available to the private sector of our economy to fuel a continuation of the current economic expansion that has added 6 million new jobs to the workforce over the last two years. If given the opportunity, the private sector is much more likely to offer young people promising career opportunities than temporary make-work Federal job programs such as the American Conservation Corps.
+RONALD REAGAN. THE WHITE HOUSE, October 30, 1984.
+H.R. 5172
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 5172, which includes the "Nation-al Bureau of Standards Authorization Act for Fiscal Year 1985" (Title I), clarifications of the role of the Nation-al Science Foundation in engineering research and education (Title II), and the "Manufacturing Sciences and Robotics Research and Development Act of 1984" (Title III). Title I would, among other things, authorize appropriations for certain Department of Commerce programs for fiscal year 1985, for which appropriations have already been enacted.
+Title III of H.R. 5172 would establish a new program providing Federal financial support for a variety of re-search, development, education, and training activities, whose purported purpose would be to improve manufacturing technologies, including robotics and automation. These activities would total $250 million during fiscal years 1985-1988, and represent an unwarranted role for the Federal government. The decisions on how to allocate investments for research on manufacturing technologies are best left to American industry. It is highly doubtful that this Act and resulting Federal expenditures would improve the competitiveness of U.S. manufacturing.
+The new role for the Federal government contemplated by Title III could also serve as the basis for a Federal industrial policy to influence our Nation's technological development. This Administration has steadfastly op-posed such a role for the Federal government.
+My Administration has fostered the development of a robust and improving economy, which will do more than anything to improve the growth and productivity of the industrial sector. We will continue our efforts to improve the general economy, the regulatory environment, and tax policies that are essential if U.S. industry is to remain competitive. I cannot, however, approve legislation that would result in significant Federal expenditures with little or no assurance that there are any benefits to be gained.
+I am, therefore, constrained to with-hold my approval from H.R. 5172.
+RONALD REAGAN.
+THE WHITE HOUSE, October 30, 1984.
+H.R. 5760
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 5760, a bill "To declare that the United States holds certain lands in trust for the Cocopah Indian Tribe of Arizona, and for other purposes."
+Title I of H.R. 5760 would declare that almost 4,000 acres of Federal land in Yuma County, Arizona, be held in trust by the United States for the benefit of the Cocopah Indian Tribe. I do not object to this provision.
+Title II of H.R. 5760 would allow the Navajo Tribe to reassert against the United States, vague and uncertain claims originally brought in July 1950, but voluntarily and legally withdrawn by their counsel in October 1969. The propriety and finality of counsel's action were subsequently given ex-haustive consideration. Navajo Tribe v. United States, 220 Ct. Cl. 350, 601 F. 2d 536 (1979), cert. denied, 444 U.S. 1072 (1980). In the meantime, some claims which might be affected by H.R. 5760 have been settled or litigated, and others have been placed on a detailed trial schedule. Enactment of H.R. 5760 could compel protracted re-negotiation, retrial or delay in the trial of these claims, based upon vague and speculative allegations.
+Absent a compelling showing that a substantial injustice would result from adherence to procedural norms, the limitations of the Indian Claims Act and the procedures adopted for the adjudication of claims under the Act should not be frustrated by special legislation, such as that contained in title II of H.R. 5760. No such showing has been made here.
+Title II would interfere with the fair and orderly adjudication of the claims of the Navajo Tribe and would constitute an affront to established rules, procedures, and principles for the resolution of Indian claims. It could serve to encourage other and future efforts to obtain by legislation that which has been unattainable through adjudication.
+For these reasons, I find that bill unacceptable. If Title I were presented as a separate bill, I would have no objection to its enactment.
+RONALD REAGAN. THE WHITE HOUSE, October 30, 1984.
+H.R. 5479
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 5479, a bill "to amend section 504 of title 5, United States Code, and section 2412 of title 28, United States Code, with respect to awards of expenses of . certain agency and court proceedings, and for other purposes."
+H.R. 5479 would permanently reauthorize and make a number of significant changes to the Equal Access to Justice Act. The Act allows the award of attorneys' fees to certain parties who successfully litigate against the government unless the government demonstrates that its position is substantially justified or that special circumstances exist that make a fee award unjust. Because the Equal Access to Justice Act expired on September 30, 1984, legislation is needed to reauthorize the Act.
+</body>I am firmly committed to the policies underlying the Equal Access to Justice Act and will make the permanent and retroactive reauthorization of the Act a high legislative priority of the Administration in the next Congress. Where the Federal government has taken a position in litigation that is not substantially justified, and thereby has caused a small business or individual to incur unnecessary attorneys' fees and legal costs, I believe it proper for the government to reim-
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

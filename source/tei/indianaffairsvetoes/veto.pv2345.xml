@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2345">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2345	H.R. 5465 (Eighty-fourth Congress, Second Session &#8212; Ford)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2345</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Ford</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eighty-fourth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2345	H.R. 5465 (Eighty-fourth Congress, Second Session &#8212; Ford)</head>
+
+<p>To allow federal employment preference to certain employees of the Bureau of Indian Affairs, and to certain employees of the Indian Health Service, who are not entitled to the benefits of, or who have been adversely affected by the application of, certain federal laws allowing employment preference to Indians.</p>
+
+<p>Vetoed September 24, 1976.  The veto message was laid before the House, referred to the Committee on Post Office and Civil Service, and printed as H. Doc. 94-624 (122 <title>Cong. Rec.</title> 32490).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 480.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2345.01.pdf">Veto of act providing special retirement benefits to certain non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service.  Message from the President of the United States vetoing H.R. 5465, An act to provide additional retirement benefits for certain employees of the Bureau of Indian Affairs and the Indian Health Service who are not entitled to Indian preference, to provide greater opportunity for advancement and employment of Indians, and for other purposes.</ref>  (1976).  Senate.  94th Congress, 2nd session.  Senate Document No. 624 (<title>Serial Set</title> 13145).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+94th Congress, 2d Session	- House Document No. 94-624
+VETO OF ACT PROVIDING SPECIAL RETIREMENT
+BENEFITS TO CERTAIN NON-INDIAN EMPLOYEES
+OF THE BUREAU OF INDIAN AFFAIRS AND THE
+INDIAN HEALTH SERVICE
+MESSAGE
+
+FROM
+THE PRESIDENT OF THE UNITED STATES
+VETOING
+H.R. 5465, AN ACT TO PROVIDE ADDITIONAL RETIREMENT BENEFITS FOR CERTAIN EMPLOYEES OF THE BUREAU OF INDIAN AFFAIRS AND THE INDIAN HEALTH SERVICE WHO ARE NOT ENTITLED TO INDIAN PREFERENCE, TO PRO-VIDE GREATER OPPORTUNITY FOR ADVANCEMENT AND EMPLOYMENT OF INDIANS, AND FOR OTHER PURPOSES
+SEPTEMBER 27, 1976.-Message and accompanying act referred to the Committee on Post Office and Civil Service and ordered to be printed
+
+
+U.S. GOVERNMENT PRINTING OFFICE 57-011 0	WASHINGTON : 1976
+To the House of Representatives:
+I am returning, without my approval, H.R. 5465, a bill which would provide special retirement benefits to certain non-Indian employees of the Bureau of Indian Affairs (BIA) and the Indian Health Service (IHS) who are adversely affected by Indian preference. requirements.
+I strongly support the objective of having Indians administer the Federal programs directly affecting them. I am familiar with and understand the concern of non-Indian employees of these agencies about their long-term career prospects because of Indian preference. But H.R. 5465 is the wrong way to deal with this problem.
+This bill is designed to increase employment opportunities for Indians by providing special compensation to non-Indian employees in BIA and IHS who retire early. It seeks to accomplish this purpose by authorizing payment of extraordinary retirement benefits under certain conditions to non-Indian employees of these agencies who re-tire before 1986-benefits more liberal than those available to any other group of Federal employees under the civil service retirement system. I believe that this approach will result in inequities and added costs that far exceed the problem it is attempting to solve-a problem which is already being addressed through administrative actions by the agencies involved.
+H.R. 5465 would provide windfall retirement benefits to a relatively small number of the non-Indian employees of these agencies. The Indian employees and other non-Indian employees in these same agencies would not receive these benefits. The eligible employees are not in danger of losing their jobs. Because they may face a limited outlook for promotion, the bill would pay these employees costly annuities even though they had completed substantially less than a full career. Payments could be made at age 50 after only 20 years of Federal service, of which as little as 11 years need be Indian-agency service. Their annuities would be equivalent to the benefits it would take the average Federal employee until age 60 and 27 years of service to earn.
+This would seriously distort and misuse the retirement system to solve a problem of personnel management for which there are far more appropriate administrative solutions. The Departments of the Interior and Health, Education, and Welfare have established special placement programs to help non-Indian employees who desire other jobs. I am asking the Chairman of the Civil Service Commission to make certain that those placement efforts are rigorously pursued with all agencies of the Federal Government.
+Further, these Departments assure me that many non-Indian employees continue to have ample opportunity for full careers with Indian agencies if they so desire. Accordingly, H.R. 5465 represents an excessive, although well-motivated, reaction to the situation. Indian preference does pose a problem in these agencies, but it can and should be redressed without resort to costly retirement benefits.
+I am not prepared, therefore, to accept the discriminatory and costly approach of H.R. 5465.
+GERALD R. FORD. The WHITE HousE, September 24, 1976.
+H. R. 5465
+Ninety-fourth Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Monday, the nineteenth day of January,
+one thousand nine hundred and seventy-six
+an act
+To provide additional retirement benefits for certain employees of the Bureau of
+Indian Affairs and the Indian Health Service who are not entitled to Indian preference, to provide greater opportunity for advancement and employment
+of Indians, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in. Congress assembled, That section 8336 of title 5, United States Code, is amended by redesignating subsections (g) and (h) as subsections (h) and (i), respectively, and inserting immediately after subsection (f) the following new subsection :
+"(g) An employee is entitled to an annuity if he-
+"(1) is separated from the service before December 31, 1985, after completing 25 years of service or after becoming 50 years of age and completing 20 years of service,
+"(2) was employed in the Bureau of Indian Affairs or the Indian Health Service continuously from June 17, 1974, to the date of his separation,
+"(3) is not entitled to an annuity under subsection (a), (b), (c), or (e) of this section or under section 8337 of this title,
+"(4) is not entitled to a preference under section 12 of the Act of June 18, 1934 (48 <title>Stat.</title> 986) or any other provision of law granting a preference to Indians in promotions or other personnel actions, and
+"(5) demonstrates to the satisfaction of the Commission that he has been passed over on at least two occasions for promotion, transfer, or reassignment to a position representing career advancement because of section 12 of the Act of June 18, 1934 (48 <title>Stat.</title> 986) or any other provision of law granting a preference to Indians in promotions or other personnel actions.".
+(1)
+2
+SEC. 2. (a) Section 8339 (d) of title 5, United States Code, is amended by striking out "8336(c)" and inserting in lieu thereof "8336(c) or (g)".
+(b) Section 8339(h) of title 5, United States Code, is amended by striking out "section 8336(g)" and inserting in lieu thereof "8336(h) ".
+SEC. 3. The amendments made by this Act shall take effect on October 1, 1976, or on the date of the enactment of this Act, whichever date is later, and shall only apply with respect to employees separated from the service after June 17, 1974.
+CARL ALBERT,
+Speaker of the House of Representatives.
+PATRICK J. LEARY,
+Acting President of the Senate Pro Tempore. I certify that this act originated in the House of Representatives.
+EDMUND L. HENSWAW, Jr.,
+Clerk.
+By W. RAYMOND COLLEY
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2345.02.pdf"><title>Congressional Record</title> 122, 32490</ref> (1976).</bibl>
+<!-- <floatingText>
+<body>
+32490	CONGRESSIONAL RECORD—HOUSE	September 27, 1976
+COMMUNICATION FROM THE CLERK
+OF THE HOUSE
+The SPEAKER laid before the House the following communication from the Clerk of the House of Representatives :
+WASHINGTON, D.C.,
+September 24, 1976. Hon. CARL ALBERT,
+The Speaker, House of Representatives, Washington, D.C.
+DEAR MR. SPEAKER: I have the honor to transmit herewith a sealed envelope from the White House, received in the Clerk's Office at 5:00 P.M. on Friday, September 24, 1976, and said to contain a message from the President wherein he transmits H.R. 5465, an Act to provide additional retirement benefits for certain employees of the Bureau of Indian Affairs and the Indian Health Service who are not entitled to Indian preference, to pro-vide greater opportunity for advancement and employment of Indians, and for other purposes, and a veto message thereon.
+With kind regards, I am,
+Sincerely,
+EDMUND L. HENSHAW, Jr.,
+Clerk, House of Representatives.
+ADDITIONAL RETIREMENT BENEFITS FOR CERTAIN EMPLOYEES OF BUREAU OF INDIAN AFFAIRS AND INDIAN HEALTH SERVICE-VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 94-624)
+The SPEAKER laid before the House the following veto message from the President of the United States:
+To the House of Representatives:
+I am returning, without my approval, H.R. 5465, a bill which would provide special retirement benefits to certain non-Indian employees of the Bureau of Indian Affairs (BIA) and the Indian Health Service (IHS) who are adversely affected by Indian preference requirements.
+I strongly support the objective of having Indians administer the Federal pro-grams directly affecting them. I am familiar with and understand the concern of non-Indian employees of these agencies about their long-term career prospects because of Indian preference. But H.R. 5465 is the wrong way to deal with this problem.
+This bill is designed to increase employment opportunities for Indians by providing special compensation to non-Indian employees in BIA and IRS who retire early. It seeks to accomplish this purpose by authorizing payment of extraordinary retirement benefits under certain conditions to non-Indian employees of these agencies who retire before 1986—benefits more liberal than those available to any other group of Federal employees under the civil service retirement system. I believe that this approach will result in inequities and added costs that far exceed the problem it is attempting to solve—a problem which is already being addressed through administrative actions by the agencies involved.
+H.R. 5465 would provide windfall retirement benefits to a relatively small number of the non-Indian employees of these agencies. The Indian employees and other non-Indian employees in these same agencies would not receive these benefits. The eligible employees are not indanger of losing their jobs. Because they may face a limited outlook for promotion, the bill would pay these employees costly annuities even though they had completed substantially less than a full career. Payments could be made at age 50 after only 20 years of Federal service, of which as little as 11 years need be Indian-agency service. Their annuities would be equivalent to the benefits it would take the average Federal employee until age 60 and 27 years of service to earn.
+This would seriously distort and misuse the retirement system to solve a problem of personnel management for which there are far more appropriate administrative solutions. The Departments of the Interior and Health, Education, and Welfare have established special placement programs to help non-Indian employees who desire other jobs. I am asking the Chairman of the Civil Service Commission to make certain that those placement efforts are rigorously pursued with all agencies of the Federal Government.
+Further, these Departments assure me that many non-Indian employees continue to have ample opportunity for full careers with Indian agencies if they so desire. Accordingly, H.R. 5465 represents an excessive, although well-motivated, reaction to the situation. Indian preference does pose a problem in these agencies, but it can and should be re-dressed without resort to costly retirement benefits.
+I am not prepared, therefore, to accept the discriminatory and costly approach of H.R. 5465.
+GERALD R. FORD.
+THE WHITE HOUSE, September 24, 1976.
+The SPEAKER. The objections of the President will be spread at large upon the Journal and the message and bill will be printed as a House document.
+Mr. HENDERSON. Mr. Speaker, I ask unanimous consent that the message, together with the accompanying bill, be referred to the Committee on Post Office and Civil Service.
+The SPEAKER. Is there objection to the request of the gentleman from North Carolina?
+There was no objection.
+COMMUNICATION FROM THE
+CLERK OF THE HOUSE
+The SPEAKER laid before the House the following communication from the Clerk of the House of Representatives:
+WASHINGTON, D.C.,
+September 27, 1976. Hon CARL ALBERT,
+The Speaker, House of Representatives, Washington, D.C.
+DEAR MR. SPEAKER: I have the honor to transmit herewith a sealed envelope from the White House, received in the Clerk's Office at 7:30 P.M. on Friday, September 24, 1976, and said to contain a message from the President wherein he transmits H.R. 13655, An Act to establish a five-year re-search and development program leading to advanced automobile propulsion systems, and for other purposes, and a veto message thereon.
+With kind regards, I am,
+Sincerely,
+EDMUND L. HENSHAw, Jr., Clerk, House of Representatives.
+AUTOMOTIVE TRANSPORT RE-SEARCH AND DEVELOPMENT ACT OF 1976—VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 94-625)
+The SPEAKER laid before the House the following veto message from the President of the United States :
+To the House of Representatives:
+I am returning, without my approval, H.R. 13655, the "Automotive Transport Research and Development Act of 1976."
+This bill would establish a five-year research and development program with-in the Energy Research and Development Administration (ERDA) leading to the development of advanced automobile propulsion systems, advanced automobilesubsystems, and integrated test vehicles to promote the development of advanced alternatives to existing automobiles. The major objective of the program would be the development and construction of integrated test vehicles which would incorporate advanced automobile engines into complete vehicles conforming to Federal requirements for safety, emissions, damageability, and fuel economy. Such development would unnecessarily duplicate existing authorities and extend into areas private industry is best equipped to pursue.
+Both ERDA and the Department of Transportation (DOT) , the two Federal agencies which would be most directly affected by this program, already have sufficient authority to accomplish the objectives of this bill. Under the authority of the Energy Reorganization Act of 1974 and the Federal Non-nuclear Energy Re-search and Development Act of 1974, ERDA's Highway Vehicle Systems Pro-gram is presently proceeding with the development of new automobile engine systems to the point where several prototype systems can be demonstrated in vehicles on the road. Under my fiscal year 1977 budget, ERDA will continue to emphasize the development of such advanced engines designed to meet higher levels of fuel economy and lower emissions.
+Ongoing DOT programs under the authority of the Department of Transportation * Act, the National Traffic and Motor Vehicle Safety Act of 1966, and the Motor Vehicle Information and Cost Savings Act are currently sponsoring advanced automobile' research that, except for advanced automobile engines, will achieve the purposes of this bill. Detailed design development for two versions of a Research Safety Vehicle should be completed before the end of this year. Under my fiscal year 1977 budget, DOT will have sufficient funds for its advanced automobile research and development activities.
+The Federal government, through ERDA and DOT, can play an important role in exploring the research areas that must be developed before advanced auto-mobiles are produced which meet the Nation's conservation goals-especially in the critical area of new engine re-search. However, it must be recognized that private industry has substantial expertise and interest in the development and production of advanced automobiles.
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

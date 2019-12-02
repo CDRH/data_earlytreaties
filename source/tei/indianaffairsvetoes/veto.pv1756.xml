@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1756">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1756	S. 1602 (Seventy-eighth Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1756</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1756	S. 1602 (Seventy-eighth Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>Authorizing and directing the Secretary of the Interior to issue to Winnie Left Her Behind, a patent in fee to certain land.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 78th Congress had adjourned sine die on December 19, 1944.  The bill was presented to the President on December 18, 1944 (90 <title>Cong. Rec.</title> 9676; <hi rend="italics">see also</hi> 90 <title>Cong. Rec.</title> 9780).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 359-360.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1756.01.pdf"><title>Congressional Record</title> 86, 9676</ref> (1940).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9676	CONGRESSIONAL RECORD-SENATE	DECEMBER 19 </fw>
+<p>lifted for the establishment of grazing districts and for similar purposes.</p>
+<p>Early in 1935, opinions were obtained from the Socilitor of the Interior Department to the effect that the acreage limitation was not applicable to the areas withdrawn by the Executive order: that these lands were no longer unreserved, within the meaning of the act. Such an interpretation, if sustained, would have made a virtual nullity of the acreage limitation. However, the Attorney General, in October of 1935, ruled that such an interpretation would lead to an unreasonable result. The Attorney General pointed out that the Congress clearly itended the acreage limitation to apply to the public lands which were "vacant, unappropriated, and unreserved" at the time the Taylor Grazing Act was passed and did not exempt the lands withdrawn or reserved subsequent to that date.</p>
+<p>At about that same time the Grazing Service attempted to obtain approval of the Department of a proposed "public grazing withdrawal" of some 15,000,000 acres, which would have extended the acreage in grazing districts to about 10,000,000 acres in excess of the 80,000,000 acre limitation which was then still in effect. The proposed withdrawal did not rely upon the terms of the Taylor Grazing Act, but instead was premised upon what the Department called the "broad powers of the President to make withdrawals." However, the commissioner of the General Land Office declared himself opposed to "any action .such as is here contemplated that will directly or indirectly bring under Federal grazing control more than 80,000,000 acres of public land," and the proposed .withdrawal was not promulgated.</p>
+<p>When amendments to the Taylor Grazing Act were before it, the spokesman for the Department informed a committee of the Congress that, apart from that act, the President had the authority "to control grazing on the public domain as a conservation objective, and that he could withdraw the public domain for that purpose and impose, rules and regulations." It does not appear that the Department has yet had recourse to such authority, if it does in fact exist, which to my mind is highly questionable.</p>
+<p>During the succeeding years the Grazing Service and the Department have devised other interpretations of the act and of the alleged intent of the Congress, .which interpretations have been intended to exempt from the acreage limitation many millions of acres of public lands located within the grazing districts and administered by the Grazing Service. Apparently, the full range of the classes of such lands, which the Department considers to be not chargeable against the acreage limitation, has not yet been fully defined. The list, however, does include lands withdrawn or reserved under the following designations: Power-site reserves, public-water reserves, pro-posed monuments and parks, reclamation, rights-of-way, stock driveways, and withdrawals "for classification and in aid of legislation." Also, "thousands of unpatented mining claims" are included inthe exemptions. The category, "for classification and in aid of legislation" is particularly significant, and would open up almost limitless possibilities, if the Interior Department should prevail in its interpretations.</p>
+<p>Evidently the Department now claims exemption from the acreage limitation for all these classes of lands, whether withdrawn or reserved prior, or subsequent, to the passage of the Taylor Grazing Act. Such interpretations, if sustained, would remove any effect or meaning from the acreage limitation placed on grazing districts by the Congress. It is difficult to reconcile these Department rulings with the decision of the Attorney General, or with a sound common-sense interpretation of the intent of Congress, especially in the light of the report on the Taylor grazing bill by the Senate Committee on Public Lands and Surveys.</p>
+<p>During the course of the hearings on the amendments to the Taylor Grazing Act, the spokesman for the Department of the Interior assured the committees of the Congress that it was, and in the future would be, the policy of the Department to "place only such public lands in districts as the stockmen in the communities desire." This policy was repeatedly and consistently affirmed throughout the series of meetings of livestock men in the Western States when the bulk of the grazing districts were in the process of being established, and for several years thereafter. The policy was well understood in the public land States. As late as March 19, 1942, the Director of Grazing, in a letter replying to a petition of livestock men protesting the proposed extension of a grazing district, confirmed the policy in these words: "It has always been the policy of the Department not to create grazing districts or to make additions to grazing districts from areas where the majority of the people are opposed to such action. There has been no change in this policy."</p>
+<p>But more recently, a change in the policy has appeared, and the Department now asserts that it has what it calls a "mandate from Congress," under the terms of the Taylor Grazing Act, to place the public domain under grazing administration, regardless of the wishes of the livestock users of the land. This change of policy, at least on the part of a number of officials, is well exemplified in the records of the attempts of the Grazing Service to extend the grazing districts in Nevada. These attempts have ex-tended over several years, and have been resisted by the livestock users of the areas affected, in the central and southern parts of the State. The efforts have recently been redoubled, and have culminated,, to date, in a hearing conducted by the Grazing Service at Alamo, Nev., on June 30, 1944. At this hearing 42 live-stock men voted in opposition to the pro-posed extension of the grazing district area, and only 9 voted for it. But the records of the Grazing Service disclose a predetermined intention to proceed with the extension, regardless of the expressions evoked at the hearing. This wholematter is to be the subject of a hearing at an early date before the subcommittee of which the senior Senator from Nevada has the honor to be chairman.</p>
+<p>I call these matters to the attention of the Senate because I know many Members of this body are interested in the subject. I hope that Senators will read and study the report which I have just submitted so that they may be fully in-formed. We have not heard the last of this matter by any means.</p>
+<p>Mr. President, I have sent forward to the desk the partial report of the sub-committee of the Committee on Public Lands and Surveys, and by reason of the widespread interest in the report, and the subject matter contained in it, I ask unanimous consent that it be printed, with illustrations.</p>
+<p>The VICE PRESIDENT. Without objection, it is so ordered.</p>
+<head>ENROLLED BILLS PRESENTED</head>
+<p>Mrs. CARAWAY, from the Committee on Enrolled Bills, reported that on December 18, 1944, that committee presented to the President of the United States the following enrolled bills:</p>
+<p>S. 1602. An act authorizing and directing the Secretary of the Interior to issue to Winnie Left Her Behind a patent in fee to certain land;</p>
+<p>S.1746. An act authorizing and directing the Secretary of the Interior to issue to Peter A. Condelario a patent in fee to certain land;</p>
+<p>S. 1925. An act to authorize and direct the Secretary of the Interior to issue to Charles F. White a patent in fee to certain land;</p>
+<p>S. 2026. An act authorizing the issuance of a patent in fee to Richard Pickett;</p>
+<p>S. 2071. An act to eliminate as, uncollectible certain credits of the United States; and </p>
+<p>S.2208. An act providing for the transfer of certain property from the Home Owners' Loan Corporation to the United States for national-park purposes.</p>
+<head>FIRST REPORT BY TENNESSEE VALLEY AUTHORITY FOR PERIOD ENDED OCTOBER 31, 1944</head>
+<p>Mr. McKELLAR. Mr. President, under Public, No. 358, of the Seventy-eighth Congress, the Tennessee Valley Authority is required to make a report every 3 months to the two Appropriations Committees of the Congress. I ask unanimous consent to have the first report printed in the RECORD.</p>
+<p>There being no objection, the report was ordered to be printed in the RECORD, as follows:</p>
+<opener>
+<dateline>TENNESSEE VALLEY AUTHORITY, Knoxville, Tenn., November 25, 1944. The Honorable CARTER GLASS,
+Chairman, Appropriations Committee, The United States Senate, Washington, D. C.</dateline>
+ <salute>MY DEAR SENATOR GLASS:</salute>
+</opener>
+<p>Enclosed is a report of receipts and expenditures of the Tennessee Valley Authority for the 4 months ended October 31, 1944. This statement is required to be filed with the two Appropriations Committees of the Congress by the Independent Offices Appropriation Act for the fiscal year 1945 (Public Law 358, 78th Cong.),</p>
+<closer>Very truly yours,
+TENNESSEE VALLEY AUTHORITY, <signed>GORDON R. CLAPP,</signed>
+General Manager.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1756.02.pdf"><title>Congressional Record</title> 86, 9780</ref> (1940).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9780	CONGRESSIONAL RECORD-HOUSE	DECEMBER 19 </fw>
+
+<p>On December 22, 1944:</p>
+<p>S.1925. An act to authorize and direct the Secretary of the Interior to issue to Charles F. White a patent in fee to certain land;</p>
+<p>S. 1971. An act to provide for the disposal of certain mail matter condemned by the Director of Censorship;</p>
+<p>S. 2026. An act authorizing the issuance of a patent in fee to Richard Pickett; and </p>
+<p>S.2208. An act providing for the transfer of certain property from the Home Owners' Loan Corporation to the United States for national-park purposes.</p>
+On December 23, 1944:
+<p>S. 1481. An act to amend further the Civil Service Retirement Act, approved' May 29, 1930, as amended;</p>
+<p>S 1827. An act for the relief of Oliver N. Knight;</p>
+<p>S. 1979. An net to regulate in the District of Columbia the transfer of shares of stock in corporations and to make uniform the law with reference thereto; and</p>
+<p>S. 2071. An act to eliminate as uncollectable certain credits of the United States.</p>
+<head>POCKET VETOED</head>
+<p>On December 23, 1944:</p>
+<p>S.1602. An act authorizing and directing the Secretary of the Interior to issue to Winnie Left Her Behind, a patent in fee to certain land; and</p>
+<p>S.1746. An act authorizing and directing the Secretary of the. Interior to issue to Peter A. Condelario, a patent in fee to certain land.</p>
+<head>MEMORANDUM OF DISAPPROVAL</head>
+<p>I have withheld my approval from S. 1602, authorizing and directing. the Secretary of the Interior to issue to Winnie Left Her Behind, a patent in fee to certain land.</p>
+<p>The application for a patent in fee filed in 1943 by the restricted Indian named in this bill indicates that neither she nor her husband has had any practical business experience and, that they are not capable of handling their affairs competently. The available evidence is to the effect that the granting of a patent in fee would tend to the dissipation of an asset which now is a source of permanent revenue, even though small, and which should be preserved for the benefit of the present owner and her heirs.</p>
+<p>There is ample authority under existing law for the Secretary of the Interior to issue a patent in fee to the particular tract of land here involved. The Congress has authorized him to issue such patents when, in his judgment, the best interests of the Indian would be served by so doing. It has directed him not to issue such patents to an Indian whom he finds to be incompetent in business affairs. The only effect of this measure, therefore, would be to compel the Secretary to act contrary to his best judgment in a situation where his determination is amply supported by the facts.</p>
+<p>Since it is evident that the action directed by S. 1602 would work to the disadvantage of the Indian concerned, I do not feel that I would be justified in giving my approval to this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, December 23, 1944.</dateline></closer>
+<head>MEMORANDUM OF DISAPPROVAL</head>
+<p>I have withheld my approval from S. 1746, "Authorizing and directing the Secretary of the Interior to issue to Peter A.
+Condelario a patent in fee to certain land,"</p>
+<head>The passage of this measure would appear to have been predicated on the assumption that the restricted Indian named in the bill is entitled to a patent in fee because of the expiration of the 25-year-trust period referred to in the trust patent under which he now holds his lands. This assumption overlooks the fact that the Congress has enacted general legislation extending all such trust periods until their termination is deemed justified.</head>
+<p>It is the considered judgment of the Secretary of the Interior and of the officers of the local Indian Agency that the best interests of Mr. Condelario would not be served by the issuance of a patent in fee at the present time while Mr. Condelario is absent in military service. Should he still desire to dispose of his land when he returns, his application for a fee patent will be given every consideration.</p>
+<p>There is ample authority under existing law for the Secretary of the Interior &#8212; to issue a patent in fee to the particular tract of land here involved whenever he determines that the best interests of the Indian would be served by this action. The facts of the present case fail to reveal any reason for departing from the sound policy of the Congress to continue restrictions on Indian land until the owner is found competent to manage his affairs in accordance with the general procedure established for this purpose. Accordingly, I do not feel that I would be. justified in giving my approval to S. 1746.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, December 23, 1944.</dateline></closer>
+
+<head>HOUSE OF REPRESENTATIVES</head>
+
+<head type="sub">TUESDAY, DECEMBER 19, 1944</head>
+<p>The House met at 12 o'clock noon, and was called to order by 'Mr. Cox as Speaker pro tempore.</p>
+<p>Rev. Barnard Braskamp, D. D., pastor of Gunton Temple Memorial Presbyterian Church, Washington, D. C., offered the following prayer:</p>
+<p>Infinite and eternal God, who art the inspiration and strength of heroic spirits in every age, we pray that in these dark and difficult days we may be numbered among those who walk courageously the path of high idealism which alone leads to noble achievement.</p>
+<p>Grant unto us a clear and constant vision of the kingdom of righteousness and peace which nothing 'can dim and a determination to hasten its coming which nothing can daunt.
+We pray that Thou wilt emancipate our souls from that low visibility which comes from self-seeking and spiritual cowardice. Give us the guiding and sustaining presence of the Holy Spirit, for we humbly confess that we are frequently so bewildered and we doubt our own best judgment.</p>
+<p>When this Congress adjourns may all whom Thou hast entrusted with positions
+of leadership and service in the life of our Republic receive Thy benediction, "Well done, thou good and faithful servant." May the Christmas season be full of blessedness because the Christ of \ prophecy who became the Christ of history has become for all of us the Christ of experience. In His name we pray. Amen.</p>
+<p>The Journal of the proceedings of yesterday was read and approved.</p>
+<head>MESSAGE FROM THE SENATE</head>
+<p>A message from the Senate, by Mr. Frazier, its legislative clerk, announced that the Senate recedes from its amendment to the bill (H. R. 3429) entitled "An act to amend section 1 of an act entitled `An act authorizing the Secretary of the Interior to employ engineers and economists for consultation purposes on important reclamation work,' approved February 28, 1929 (45 <title>Stat.</title> 1406), as amended by the act of April 22, 1940 (54 <title>Stat.</title> 148)."</p>
+<p>The message also announced that the Senate agrees to the reports of the committees of conference on the disagreeing votes of the two Houses on the amendments of the Senate to bills of the House of the following titles:</p>
+<p>H. R. 2185. An act to authorize the Secretary of the Interior, in carrying out the purposes of the act of May. 18, 1916 (39 <title>Stat.</title> 137), to purchase logs, lumber, and other forest products: and</p>
+<p>H. R. 5587. An act making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1944, and for prior fiscal years, and to provide supplemental appropriations for the fiscal years ending June 30, 1945, and June 30, 1946, and for other purposes.</p>
+<head>DECLARATION OF RECESS OF THE HOUSE</head>
+<p>Mr. RAMSPECK. Mr. Speaker, I ask unanimous consent that it may be in order for the Speaker pro tempore to declare a recess at any time for the balance of this week, subject to the call of the Chair.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from Georgia?</p>
+<p>Mr. HOFFMAN. Mr. Speaker, reserving the right to object, will opportunity be given Members to speak during the day?</p>
+<p>The SPEAKER pro tempore. Ample opportunity will be given all Members to speak.</p>
+<p>Mr. HOFFMAN. Mr. Speaker, may I prefer an unanimous-consent request at this time?</p>
+<p>The SPEAKER pro tempore. As soon as the pending request is disposed of, the Chair will consider a request from the gentleman. Is there objection to the request of the gentleman from Georgia?</p> <p>There was no objection.</p>
+<head>PERMISSION TO ADDRESS THE HOUSE</head>
+<p>Mr. HOFFMAN. Mr. Speaker, I ask unanimous consent that upon conclusion of the legislative business for today, if any, and. any other special orders, I may be permitted to proceed for 20 minutes.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from Michigan?</p>
+<p>There was no objection.</p>
+
+</body></floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

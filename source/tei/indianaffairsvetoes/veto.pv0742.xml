@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0742">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">742	H.R. 7645 (Fifty-third Congress, Third Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0742</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-third Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>742	H.R. 7645 (Fifty-third Congress, Third Session &#8212; Cleveland)</head>
+
+<p>For the relief of Kate Eberle, an Indian woman.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 53rd Congress had adjourned sine die on March 2, 1895.  The bill was presented to the President on March 2, 1895 (March 2, 1895, H. Jour., p. 197; see also H.R. Doc. No. 393, 70th Cong., 2nd sess., p. 35).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>. (1992). Washington, DC: Government Printing Office, 160.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0742.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1895).  53rd Congress, 3rd session, p. 197 (<title>Serial Set</title> 3291).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES,
+BEING THE
+THIRD SESSION OF THE FIFTY-THIRD CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 3, 1894,
+IN THE ONE HUNDRED AND NINETEENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES
+</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1895.</head>
+<fw> HOUSE OF REPRESENTATIVES.	197 </fw>
+<p>provisions of all existing laws providing for the findings of fact by said court in cases so referred, and to report the same to Congress. After debate,</p>
+<p>Mr. Dockery submitted the following amendment : Add to the resolution the following proviso:
+Provided, That the court shall have no right to enter judgment against the United States.</p>
+<p>On motion of Mr. Reilly, the previous question was ordered, and said amendment was agreed to.</p>
+<p>As amended the said resolution was agreed to.</p>
+<p>A motion by Mr. Reilly to reconsider the vote last taken was, on his motion, laid on the table.</p>
+<p>Mr. Pearson, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills and joint resolutions of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>S. 333. An act for the relief of Margaret Kennedy ;</p>
+<p>S. 707. An act for the relief of Orin R. McDaniel;</p>
+<p>S. 1009. An act for the relief of telegraph operators during the war of the rebellion;</p>
+<p>S. 1201. An act to provide for the reimbursement of officers and seamen for property lost or destroyed in the naval service of the United States;</p>
+<p>S. 1620. An act for the suppression of lottery traffic through national and interstate commerce and the postal service, subject to the jurisdiction and laws of the United States;</p>
+<p>S. 1876. An act to provide for the payment of accrued pensions;</p>
+<p>S. 2362. An act to amend the act entitled "An act authorizing the Texarkana and Fort Smith Railway Company to bridge the Sulphur River in the State of Arkansas or in the State of Texas," approved April 21, 1894;</p>
+<p>S. 2503. An act for the relief of James Curran;</p>
+<p>S. 2721. An act to amend the river and harbor act of August 7, 1894, providing for improving the outer bar of Brunswick, Ga.;</p>
+<p>S. R. 19. Joint resolution authorizing the Secretary of War to correct the military record of Capt. Edward Wheeler, Fifty-sixth New York Volunteers;</p>
+<p>S. R. 134. Joint resolution calling on the President to take such measures as he may deem necessary to consummate the agreement between the Governments of Spain and the United States for the relief of Antonio Maximo Mora, a naturalized citizen of the United States;</p>
+<p>H. R. 995. An act for the relief of J. M. Billings;</p>
+<p>H. R. 1310. An act for the relief of John H. Willis;</p>
+<p>H. R. 4162. An act for the relief of John W. Kennedy; </p>
+<p>H. R. 4704. An act for the relief of Basil Moreland;</p>
+<p>H. R. 6565. An act granting a pension to Mary Jane Lynn, the daughter of John R. Lynn, who served, as a private soldier from Pennsylvania in the war of the Revolution;</p>
+<p>H. R. 6816. An act to amend the charter of the District of Columbia Suburban Railway Company;</p>
+<p>H. R. 6831. An act granting a pension to Mrs. Mary E. Wyse, widow of Lieut. Col. F. 0. Wyse;</p>
+<p>H. R. 7603. An act for the relief of Charles Deal;</p>
+<p>H. R. 7645. An act for the relief of Kate Eberle, an Indian woman;</p>
+<p>H. R. 8407. An act to amend section 4965, chapter 3, Title LX, of the Revised Statutes of the United States, relating to copyrights;</p>
+<p>H. R. 8479. An act making appropriations for current and contingent expenses of the Indian Department and fulfilling treaty stipulations with various Indian tribes for the fiscal year ending June 30, 1896, and for other purposes;</p>
+<p>H. R. 8518. An act making appropriations for sundry civil expenses of the Government for the fiscal year ending June 30, 1896, and for other purposes;</p>
+<p>H. R. 8659. An act to authorize the construction of bridges across the Emory and the Clinch rivers in the State of Tennessee;</p>
+<p>H. R. 8665. An act making appropriations for the naval service for the fiscal year ending June 30, 1896, and for other purposes;</p>
+<p>H. R. 8892. An act making appropriations to supply deficiencies
+in the appropriations for the fiscal year ending June 30, 1895, and
+for prior years, and for other purposes; and</p>
+<p>H. Res. 286. Joint resolution to extend time in which members of the Fifty-third Congress may distribute documents.</p>
+<p>And then,
+On motion of Mr. Dockery, at 10.15 a. m. (calendar day, March 4), the House took a recess until 11 o'clock a. m.</p>
+
+<head>AFTER THE RECESS.</head>
+<p>A message from the Senate, by Mr. Cox, its Secretary, announced that the Senate had passed the following resolution:</p>
+<p><hi rend="italic">Resolved by the Senate (the House of Representatives concurring),</hi> That the clerks of the House be authorized and directed to make such changes in the engrossed copy of the bill (H. R. 8873) entitled "An act authorizing the Dyersburg and Mississippi Railway and Improvement Company to bridge the Obion River in the State of Tennessee, and for other purposes," as will cause said engrossed copy to conform with said bill as it passed the House of Representatives.</p>
+<p>Also, that the Senate had passed joint resolution (S. R. 113) authorizing the Secretary of the Navy to deliver two pieces of condemned cannon to the First Regiment, North Carolina State Guards.</p>
+<p>Mr. Richardson, of Tennessee, submitted the following resolution; which was agreed to, to wit:</p>
+<p><hi rend="italic">Resolved,</hi> That a committee of three members he appointed on the part of the House to join such committee as has been appointed by the Senate to wait upon the President of the United States to inform him that Congress, having finished its business, is now ready to close its sessions by adjournment.</p>
+<p>The Speaker appointed as the committee to wait upon the President Messrs. Catchings, Outhwaite, and Reed.</p>
+<p>Ordered, That the Clerk notify the Senate thereof.</p>
+<p>The Speaker announced the appointment of Messrs. Rusk, Meredith, and Coffin as the Committee on Accounts to serve during the vacation of Congress pursuant to the provisions of the legislative, executive, and judicial appropriation act.</p>
+<p>Mr. Pearson, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>S. 1252. An act to amend an act entitled "An act to provide for the term of the United States courts in the State of Washington:"</p>
+<p>S. 1841. An act to provide that all persons employing female help in stores, shops, or manufactories in the District of Columbia shall provide seats for the same when not actually employed; and</p>
+<p>H. R. 8873. An act authorizing the Dyersburg-, and Mississippi Railway and Improvement Company to bridge the Obion River in the State of Tennessee, and for other purposes.</p>
+<p>Mr. Springer, by unanimous consent, submitted the following resolution; which was considered and agreed to, to wit:</p>
+<p><hi rend="italic">Resolved, </hi>That the Clerk of the House be, and he is hereby, authorized to pay, out of the contingent fund of the House, John W. Almarode, father of Ernest Almarode, deceased, late an employee of the House of Representatives, a sum equal to six months of the salary paid to him at the time of his death; and also to pay to him the amount of the expenses of the last illness and funeral of said Ernest Almarode, said expenses not to exceed $250, to be paid on bills of particulars as now required by law.</p>
+<p>A motion by Mr. Springer to reconsider the vote last taken was, on his motion, laid on the table.</p>
+<p>The Speaker made the following announcement:</p>
+<p>In compliance with a concurrent resolution of the two Houses, providing for the participation of Congress in the dedication of the Chickamaugua and Chattanooga National Military Park, the Speaker names as representatives of other armies than that engaged in the campaign for Chattanooga, and of the Navy, the following W. H. Hatch of Missouri, 1). B. Culberson of Texas, Thomas B. Reed of Maine, J. D. Sayers of Texas, .J. F. C. Talbot of Maryland, D. E. Sickles of New York, W. L. Wilson of West Virginia, S. R. Mallory of Florida' C. A. Boutello of Maine, S. B. Alexander of North Caro- lina, 'I'. J. Henderson of Illinois, C. E. Hooker of Mississippi, J. C. Tareney of Missouri, D. B. Henderson of Iowa, H. H. Bingham of Pennsylvania, W. F. Draper of Massachusetts, A. R. Kiefer of Minnesota, G. P. Harrison of Alabama, W. B. English of California, J. W. Marshall of Virginia, H. C. Van Voorhis of Ohio, Oscar Lapham of Rhode Island.</p>
+<p>On motion of Mr. Richardson, of Tennessee, the following concurrent resolution of the Senate was, by unanimous consent, considered and agreed to, to wit:</p>
+<p>Resolved by the Senate (the House of Representatives concurring), That the Clerk of the House be authorized and directed to make such changes in the engrossed copy of the bill (H. R. 8873) entitled "An act authorizing the Dyersburg and Mississippi Railway and Improvement Company to bridge the Obion River in the State of Tennessee, and for other purposes," as will cause said engrossed Copy to conform with said bill as it passed the House of Representatives.</p>
+<p>Ordered, That the Clerk notify the Senate thereof.</p>
+<p>Leave was granted to Mr. Morgan to withdraw from the files of the House, without leaving copies, the papers in the case of Joshua Bishop, Fifty-second Congress.</p>
+<p>Mr. Sayers, by unanimous consent, introduced the following joint resolution:</p>
+<p>H. Res. 287. Joint resolution authorizing the Secretary of the Senate and Clerk of the House of Representatives to pay to the officers and employees of the Senate and House of Representatives, borne on then annual rolls, their respective salaries for the month of March on the 9th day of said month.</p>
+<p>Said resolution was considered, was read twice, ordered to be engrossed, was read a third time, and passed.</p>
+<p><hi rend="italic">Ordered,</hi> That the Clerk request the concurrence of the Senate therein.
+Mr. Cannon, of Illinois, submitted the following resolution ; which was considered and agreed to, to wit:</p>
+<p>Resolved, That the Architect of the Capitol, under the direction of the Committee on Accounts, and in their discretion, be, and is hereby, authorized and directed to introduce a system of electric bells in the Hall of the House, connecting the desks of members</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0742.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 35 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES JDOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the
+R<p>S. 305&#8212;stamped received at the Executive Mansion Feb. 23, 1895. On an attached typewritten memorandum is penciled in the President's handwriting:</p>
+<p>Soldier's application for pension under general disability laws was rejected on ground injury not result of service. Widow's claim now pending and awaiting proof. Entitled under law of 1890 but no proof of his death.</p>
+<p>Senate bills 333, 707, 1009, 1066 have no dates of receipt stamped on them and no marks by President on bills or attached papers.</p>
+<p>S. 1189 is stamped as received Mar. 2, 1895. S. 1252 is undated. So is S. 1483. On an attached committee report is penciled in President's handwriting, "Hold."</p>
+<p>S. 1535 is stamped Mar. 1. On an attached letter from the Secretary of the Navy the President has penciled this unsigned memorandum:</p>
+<quote>
+I do not see why the records of the Navy should state that this doctor was honorably discharged for the evident purpose of giving him a pension to which he is not entitled. There seems to have been no excuse for his desertion and he says himself he would not have complained of the harshness of his punishment if he had not lost his fingers in 1866.</quote>
+<p>S. 1639 and S. 1692 are stamped as received Mar. 2. On a committee report attached to the latter the President penciled:</p><quote>
+Not in the service and no satisfactory proof that his present condition has any relation to his employment in aid of military operations 30 years ago.</quote>
+<p>No dates of receipt are stamped on the following bills: S. 2362; S. 2721; H. R. 995; H. R. 1310; H. R. 4162; H. R. 4704; H. R. 6565; H. R. 6816; H. R. 6831; H. R. 7603; H. R. 7645; H. R. 8659; H. R. 8873.</p>
+<p>S. 2243 is stamped as received Feb. 28; S. 2351, Mar. 1; S. 2275, S. 2364, S. 2799 and H. R. 684, Mar. 2. Attached to H. R. 684 is a committee report on which the President penciled:</p>
+<quote>
+This bill is not in the form recommended by the Senate Comm. I don't think there is much merit in it in any view.</quote>
+<p>H. R. 840 was received Mar. 2. On an attached report the President penciled:</p>
+<p>He w'd be 2d Lieut. from Aug 29, 1863, to June 14, 1864.</p>
+<p>H. R. 3150 and H. R. 4479 were stamped as received Feb. 27; H. R. 952, H. R. 1581, H. R. 1819, H. R. 2130, H. R. 3128, H. R. 3147, H. R. 3194, H. R. 4724 were stamped as received Mar. 2.</p>
+<p>H. R. 4935&#8212;received Feb. 27. On attached typewritten memo-randum the President penciled:</p>
+<quote>Pension was granted to widow Sept. 10, 1892. </quote>
+<p>It is now alleged that she married Aug 1 or Aug. 6 (See report) 1892.</p>
+<p>There is no proof that her pension has been stopped. How could it have been granted to her after her marriage?</p>
+<p>H. R. 5062&#8212;received Mar. 1. On attached report the President penciled:</p>
+<quote>
+<p>1. No approval of route by Secretary of Interior.</p>
+<p>2. Courts of Texas, Arkansas & Kansas given jurisdiction of controversies. (Courts in Indian Territory are soon to be organized.)</p>
+<p>3. No consent of Indians to be obtained except as to allottees.</p>
+<p>H. R. 5224, is stamped as received Feb. 23, 1895. H. R. 7259 was received Feb. 27.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

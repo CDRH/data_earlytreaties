@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1061">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1061	H.R. 5218 (Sixty-ninth Congress, First Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1061</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-ninth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1061	H.R. 5218 (Sixty-ninth Congress, First Session &#8212; Coolidge)</head>
+
+<p>To carry into effect the twelfth article of the treaty between the United States and the Shawnee Indians, proclaimed October 14, 1868.</p>
+
+<p>Pocket veto occurred after the 1st session of the 69th Congress had adjourned sine die on July 3, 1926.  The bill was presented to the President on July 3, 1926 (July 3, 1926, S. Jour., p. 568; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 43).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 230.</bibl>
+</div1>
+
+
+<div1 type="source_citation">
+<bibl>Article 12 of the <title><ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/sen0960.htm">Treaty with the Seneca, Mixed Seneca and Shawnee, Quapaw, etc., 1867</ref></title>.  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  (1904).  Senate.  58th Congress, 2nd session.  Senate Document No. 319, part 2, pp. 960-969 (<title>Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1061.01.pdf">Journal of the Senate of the United States.  (1926)</ref>.  69th Congress, 1st session, p. 568 (<title>Serial Set</title> 8522).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL OF THE SENATE
+OF THE
+UNITED STATES OF AMERICA</head>
+<head>FIRST SESSION
+OF THE
+SIXTY-NINTH CONGRESS</head>
+<head>BEGUN AND HELD AT THE CITY OF WASHINGTON DECEMBER 7, 1925, IN THE ONE HUNDRED AND FORTY-NINTH YEAR OF THE
+INDEPENDENCE OF THE
+UNITED STATES</head>
+<head type="sub">WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1926</head>
+568	JOURNAL OF THE SENATE	July 3
+<p>by a duly appointed executor, administrator, guardian, or committee, payment may be made, after the expiration of thirty days from dale of death or of separation from the service, as the case may be, to such person or persons as may appear in the judgment of the Commissioner of Pensions to be legally entitled thereto, and such payment shall be a bar to recovery by any other person.</p>
+<head type="sub">Payment of annuities and form of application</head>
+<p>Sec. 13. ,Annuities granted under the terms of this net shall be due and payable in 'monthly installments on the first business
+day of the month following the month or other period for which the annuity shall have accrued, and payment of all annuities, refunds, and allowances granted hereunder shall be made by checks drawn and issued by the disbursing clerk for the payment of pensions in such form and manner and with such safeguards as shall be prescribed by the Secretary of the Interior in accordance with the laws, rules, and regulations governing accounting that may be found applicable to such payments.</p>
+<p>Applications for annuity shall be in such form as the Commissioner of Pensions may prescribe, and ahall be supported by such certificates front the heads of departments, branches, or independent offices of the Government in which the applicant has been employed as may be necessary to the determination of the rights of the applicant. Upon receipt of satisfactory evidence the Commissioner of Pensions shall forthwith adjudicate the claim of the applicant, and if title to annuity lie established, a proper certificate shall be issued to the annuitant under the seal of the Department of the Interior.</p>
+<p>Annuities granted under this act for retirement under the provisions of section 1 of this act shall commence from the date of separation from the service and shall continue during the life of the annuitant. annuities granted under the provisions of sections 6 and 7 hereof shall be subject to the limitations specified in said sections.</p>
+<p>Sec. 14. Employees who have gone from employment within the purview of this act to other employment under the Government and hare returned to a position .under the purview of this act shall hare the time of such other service included in the computation for his retirement: Provided, That such employee shall contribute to the retirement fund upon reentering such employment within the purview- of this act an amount including interest, equivalent to that which would have been paid if such employee had continued in such employment.</p>
+<head type="sub">Duties of the Civil Service Commission</head>
+<p>Sec. 15. The Civil Service Commission shall keep a record of appointments, transfers, changes in grade, separations from the service, reinstatements, loss of pay, and such other information concerning individual service as may be deemed essential to a proper determination of rights ender this act; and shall furnish the Commissioner of Pensions such reports therefrom as he shall from time to time request as necessary to the proper adjustment of any claim for annuity hereunder; and shall prepare and keep all needful tables and records required for carrying out the provision of this art, including data showing the mortality experience of the employees in the service and the percentage of withdrawals from such service, and any other information. that may serve as a guide for future valuations and adjustments of the plan for the retirement of employees under this Act.</p>
+<head type="sub">Board of Actuaries</head>
+<p>Sec. 16. The Commissioner of Pensions, with the approval of the Secretary of the Interior, is hereby authorized and directed to select three actuaries, one of whom shall be the Government actuary, to be known as the Board of Actuaries, whose duty it shall be to annually report upon the actual operations of this act, with authority to recommend to the Commissioner of Pensions such. changes as in their judgment may be deemed necessary to protect the public interest and maintain the system upon o sound financial basis, and they shall make a valuation of the "civil-service retirement and disability fund" at intervals of five years, or oftener if deemed necessary by the Commissioner of Pensions; they shall also prepare such tables as may he required by the Commissioner of Pensions for the purpose of computing annuities under this act. The compensation of the members of the Board of Actuaries, exclusive of the Government actuary, shall be fired by the Commissioner of Pensions stitL the approval of the Secretary of the Interior.</p>
+<head type="sub">Administration</head>
+<p>Sec. 17. For the purpose of administration, except as otherwise provided herein, the Commissioner of Pensions, under the direction of the Secretary of the Interior, be, and is hereby, authorized and directed, to perform, or cause to be performed,anyand all acts and to make such rules and regulations as may be necessary and proper for the purpose of carrying the provisions of this net into full force and effect. An appeal to the Secretary of the Interior shall lie front the final action or order of the Commissioner of Pensions affecting the rights or interests of any person or of the United States under this act, the procedure on appeal to be as prescribed by the Commissioner of Pensions, with the approval of the Secretary of the Interior.</p>
+<p>The Commissioner of Pensions shall make a detailed comparative report annually showing all receipts and disbursements on account of annuities, refunds, and allowances, together with the total number of persons receiving annuities and the total amounts paid them, and he shall transmit to Congress, through the Secretary of the Interior, the reports and recommendations of the Board of Actuaries.</p>
+<p>The Secretary of the Interior shall submit annually to the Bureau of the Budget estimates of the appropriations necessary to finance the retirement and disability fund and to continue this act in full force and effect.</p>
+<head type="sub">Exemption from execution, etc.</head>
+<p>Sec. 18. None of the moneys mentioned in this act shall be assignable, tither in law or equity, or be subject to execution, levy, or attachment, garnishment, or other legal process.</p>
+<head>Effective date</head>
+<p>Sec. 19. This act shalt become effective as of July 1, 1926 and all laws or parts of laws inconsistent with the provisions of this act are hereby repealed as of said effective date.</p>
+<p>And the Senate agree to the same.</p>
+<closer><signed>ROBT. N. STANFIELD,</signed>
+<signed>KENNETH MCKELLAR.</signed>
+Managers on the part of the Senate. 
+<signed>FREDERICK R. LEHLBACH,</signed> <signed>ADDISON T. SMITH,</signed>
+<signed>EMANUEL CELLER,</signed>
+Managers on the part of the House. </closer>
+<p>The Senate proceeded, by unanimous consent, to consider the said report; and
+<hi rend="italic">Resolved,</hi> That the Senate agree thereto</p>.
+<p><hi rend="italic">Ordered, </hi>That the Secretary notify the House of Representatives thereof.</p>
+<head> MESSAGE From the house</head>
+<p>A message from the House of Representatives, by Mr. Chaffee, one of its clerks:</p>
+<p>Mr. President: The House of Representatives has agreed to the amendment of the Senate to each of the following bills of the House:</p>
+<p>H. R. 8048. An act to provide for the leasing of public lands in Alaska for fur farming, and for other purposes; and H. R. 8903. An act to authorize the sale and disposition of the abandoned tract or tracts of lands formerly used as a live-saving station in Florida, and for other purposes.</p>
+<p>The Speaker of the House having signed 13 enrolled bills, viz, S. 4320, H. R. 1252, H. R. 1257, H. R. 2042, H. R. 2676, H. R. 4677, H. R. 5218. H. R. 9234, H. R. 10446. H. R. 11713. H. R. 12211, H. R. 12264, and H. R. 12369, and an enrolled joint resolution, viz, S. J. Res. 47, I am directed to bring the same to the Senate for the signature of its President.</p>
+<head>ENROLLED BILLS AND JOINT RESOLUTION SIGNED</head>
+<p>Mr. Greene, from the Committee on Enrolled Bills, reported that they had examined and found truly enrolled the following bills and joint resolution:</p>
+<p>S. 4320. An act for the relief of the State of North Carolina: </p>
+<p>H. R. 1252. An act for the relief of John Regan:</p>
+<p>H. R. 1257. An act for the relief of Silas Overmire;</p>
+<p>H. R. 2042. An act for the relief of Joseph L. Keresey;</p>
+<p>H. R. 2670. An act to allow and credit the accounts of Maj. John D. Gould, Quartermaster Corps, with 81,646.86, representing various shortages and suspended vouchers in his accounts as disbursing officer during the late war;</p>
+<p>H. R. 4677. An act for the relief of the Carroll Motor Co.; </p>
+<p>H. R.5218. An act to carry into effect the twelfth article of the treaty between the United States and the Shawnee Indians proclaimed October 14. 1868;</p>
+<p>H. R. 9234. An net to change the military record of Thomas Dowling, alias James Murphy;</p>
+<p>H. R. 10446. An act validating the application for and entry of certain public lands by Myrtle Sullinger:</p>
+<p>H. R.11713. An act to provide for an examination and report on the condition and possible development and reclamation of the swamp lands on the Yazoo, Tallahatchie, and Coldwater Rivers in Mississippi:</p>
+<p>H. R. 12211. An act to amend section 4009 of the Revised Statutes;</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV1061.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him.  (1928)</ref>.   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 43 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<unclear>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</unclear>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="43" />
+<fw> REPORT ON POCKET VETO	43 </fw>
+<p>H. R. 5218. On margin is written in pencil:</p>
+<hi rend="center"><p>Received at the Capitol</p>
+<p>July 3, 1926</p></hi>
+<p>All of the bills cited above are now at the Executive Offices.</p>
+<p>At the end of the 69th Congress, second session, which adjourned March 4, 1927, the Senate legislative day of March 2 and the House legislative day of March 3, (<title>Cong. Rec.</title>, vol. 68, pt. 5, pp. 5922, 5967) President Coolidge retained unsigned H. R. 2849, stamped as received March 3, and H. R. 13450, on which no date is stamped. There are no other marks on the bills. On a letter attached to H. R. 13450 is written:</p>
+<p>Recommends disapproval</p>
+<p>The bills are now at the Executive Offices.</p>
+<p>At the end of the 70th Congress, first session, which adjourned May 29, 1928, (<title>Cong. Rec.</title>, vol. 69, pt. 10, pp. 10678, 10889) President Coolidge retained unsigned S. J. Res. 46, stamped as received May 26, H. J. Res. 238, on which no date is stamped, and H. R. 13383, stamped as received on May 26. The resolutions and bill are now at the Executive Offices. There are no marks on any of them except the stamps. Memoranda attached to each resolution and bill are marked in pencil:</p>
+<hi rend="center"><p>Pocketed 5/29/28</p></hi>
+<closer>Respectfully submitted,
+
+<signed>ROBERT P. REEDER.</signed></closer>
+</body></floatingText> -->
+
+
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

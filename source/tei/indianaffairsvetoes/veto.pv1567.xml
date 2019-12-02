@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1567">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1567	S. 3794 (Seventy-sixth Congress, Third Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1567</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1567	S. 3794 (Seventy-sixth Congress, Third Session &#8212; F. Roosevelt)</head>
+
+<p>For the relief of certain Navajo Indians.</p>
+
+<p>Vetoed July 16, 1940.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 262 (86 <title>Cong. Rec.</title> 9568).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title> (1992). Washington, DC: Government Printing Office, 325.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1567.01.pdf">Relief of certain Navajo Indians -- veto message.  Message from the President of the United States returning without approval the Bill (S. 3794) entitled, “An Act for the Relief of Certain Navajo Indians, and for Other Purposes.”</ref>  (1940).   Senate.  76th Congress, 3rd session.  Senate   Document No. 262 (<title>Serial Set</title> 10469).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 76TH CONGRESS 	3d Session 	SENATE
+DOCUMENT
+No. 262 </fw>
+<head>RELIEF OF CERTAIN NAVAJO INDIANS&#8212;VETO MESSAGE</head>
+<head>MESSAGE
+
+FROM
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 3794) ENTITLED, "AN ACT FOR THE RELIEF OF CERTAIN NAVAJO INDIANS, AND FOR OTHER PURPOSES"</head>
+<p>JULY 22, 1940.&#8212;Read; referred to the Committee on Indian Affairs, and ordered
+to be printed.</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 3794, for the relief of certain Navajo Indians, and for other purposes.</p>
+<p>This bill appropriates $30,000 as compensation to the heirs of six Navajo boys who were killed, and $3,000 as damages on account of injuries sustained by two boys, when the automobile in which they were riding was struck by a train near Wingate, N. Mex.</p>
+<p>While the record indicates negligence on the part of the driver, thereby warranting claims for compensation, it seems to me that the proposed payments in the death cases are somewhat excessive. The six children killed were between the ages of 10 and 15 years, and the two injured boys were 12 and 14 years of age. They were all wards of the Federal Government, and were being educated in schools maintained by the Government. They were not wage earners and those killed left no actual dependents. Those killed were buried at the expense of the United States, and those injured received medical attention and hospital care at Federal expense.
+It is stated that the two injured boys have fully recovered but, since the record fails to disclose the extent of their injuries, it is impossible to say whether the payments proposed are, or are not, excessive.</p><pb n="2" />
+<fw> 2	RELIEF OF CERTAIN NAVAJO INDIANS-VETO MESSAGE </fw>
+<p>I am withholding my approval of the bill in the belief that the Congress should, in the light of the above suggestions, and upon the basis of such additional information as it may obtain, give further consideration to these claims.</p>
+
+<closer><dateline>THE WHITE HOUSE, July 16, 1940.</dateline> 
+<signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<p>S. 3794</p>
+<p>SEVENTY-SIXTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE THIRD SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON WEDNESDAY. THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY</p>
+<p>AN ACT For the relief of certain Navajo Indians, and for other purposes</p>
+<p>
+<hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> That the Secretary of the Treasury be, and he is hereby, authorized and directed to pay, out of any money in the Treasury of the United States not otherwise appropriated, to the Secretary of the Interior the sum of $30,000, which amount shall be deposited as individual Indian money to the credit of the estates of the following-named deceased Navajo Indians, and in the respective amounts stated for distribution to the heirs of such deceased Indians as determined by the Secretary of the Interior in accordance with existing law: Wilson Platero, $5,000; Meguelius Sacatero, $5,000; Tom Wood, $5,000; John Apachite, $5,000; Roy Chavez, $5,000; and John Chavez, $5,000.</p>
+<p>SEC. 2. The Secretary of the Treasury is also authorized and directed to pay to the Secretary of the Interior the sum of $3,000, which amount shall be de-posited as individual Indian money to the credit of Dempsey Sacatero and Jose Mexicano, or their heirs, in the sum of $1,500 each.</p>
+<p>SEC. 3. The amounts herein appropriated shall be in full compensation for claims for deaths or injuries sustained in an accident occurring near Gallup, New Mexico, on December 6, 1936: Provided, That the amounts herein appropriated shall be expended in accordance with the regulations governing the handling of individual Indian money: Provided further, That no part of the amount herein appropriated shall be paid to or received by any agent or attorney on account of services rendered in connection with these claims, and any person violating the provisions of this Act shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any sum not exceeding $1,000</p>.
+<closer><signed>WM. B. BANKHEAD,</signed>
+Speaker of the House of Representatives.
+<signed>JNO. N. GARNER,</signed>
+Vice President of the United States and President of the Senate.
+<note>[Endorsement on back of bill:]</note>
+I certify that this Act originated in the Senate.
+<signed>EDw. A. HALSEY,</signed> Secretary.</closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1567.02.pdf"><title>Congressional Record</title> 86, 9568</ref> (1940).</bibl>
+<!-- <floatingText>
+<body>
+<head>9568	CONGRESSIONAL RECORD-SENATE	JuLY 22</head>
+<p>warranted in approving legislation which would extend preferential treatment to a single institution, while other financial institutions have been required to meet the obligations that the law imposes on them in such matters.</p>
+<p>In view of these considerations, I am impelled to withhold my approval from this bill. </p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed><dateline> THE WHITE HOUSE, July 16, 1940.</dateline></closer>
+<head>J. H.. CHURCHWELL WHOLESALE, CO.&#8212;VETO MESSAGE (S. DOC.
+NO. 259)</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying bill, referred to the Committee on Claims and ordered to be printed:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 2817, Seventy-sixth Congress, third session, entitled "An act for the relief of J. H. Churchwell Wholesale Co., of Jacksonville, Fla."
+This enactment would authorize and direct the Secretary of the Treasury to pay to J. H. Churchwell Wholesale Co., of Jacksonville, Fla., the sum of $1,100 in full satisfaction of the claim of such company against the United States for remission of liquidated damages assessed against such company under the provisions of contract numbered ER-W-647-eng-38 and unnumbered contract (Invitation numbered 647-36-33) entered into by such company with the War Department under dates of September 12, 1935, and September 18, 1935, respectively, for the delivery of a quantity of sheets and blankets to 'the United States District Engineers Office, Camp Roosevelt, Ocala, Fla.</p>
+<p>It appears that the contracts provided for the assessment of liquidated damages in the event of delays in delivery beyond the time specified therein; that there were delays in delivery of the articles; and that the sum here involved was properly and legally deducted from amounts otherwise due the claimant in accordance with the provisions of the contracts.</p>
+<p>It is not unusual for Government contracts to contain provisions with respect to liquidated damages similar to those contained in the contracts executed by the claimant; and the courts have held that such provisions are to be enforced in accordance with their terms. The contracts here involved were freely entered into by the claimant and the liquidated damages were withheld in accordance with the agreement of the parties. There is no authority under existing law for the allowance of claims of other contractors under similar circumstances and the allowance of this claim would, in my judgment, be entirely unjustified as according preferential, treatment to this claimant and as establishing an undesirable precedent.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, July 16, 1940.</dateline></closer>
+
+<head>I. M. COOK AND OTHERS&#8212;VETO MESSAGE (S. DOC. NO. 258)</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read and, with the accompanying bill, referred to the Committee on Claims and ordered to be printed:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 3351, "For the relief of I. M. Cook, J. J. <p>Allen, and the Radiator Specialty Company."</p>
+This bill proposes to provide for the payment of the sum of $10,890.54 to I. M. Cook, the sum of $9,275.34 to J. J. Allen, and the sum of $1,500 to the Radiator Specialty Co., all of Charlotte, N. C., as compensation for losses sustained by them by reason of a fire which destroyed a building near that city, which was owned by Mr. Cook.</p>
+<p>It appears that Mr. Cook had rented part of the space to the Works Progress Administration for use as a warehouse and offices. The available facts indicate that at the insistence of Mr. Cook the offices of the Works Progress Administration in the building were heated by portable heaters, as he objected to the installation of any stationary stoves, for reasons which he deemed proper.</p>
+<p>The building was set on fire on the night of December 9, 1938, by flames from a portable heater. It seems likely that if Mr. Cook had not insisted on the use of portable heaters and had permitted the installation of permanent stoves, the 'unfortunate occurrence would not have taken place. Under the circumstances I am unable to find any moral obligation on the part of the Government to reimburse Mr. Cook for his loss.</p>
+<p>It seems, however, to be claimed that the night watchman employed by the Works Progress Administration was not as prompt as he should have been in endeavoring to extinguish the flames. Assuming this to be the fact, it is entirely within the realm of speculation whether he could-have succeeded in subduing the fire under any circumstances. Moreover, the proximate cause of. the fire seems. to be the use of portable heaters, which were employed at Mr. Cook's insistence.</p>
+<p>The other two claimants appear to have been tenants in the same building, whose personal property was destroyed in the fire. While their losses are to be greatly regretted, the facts summarized above indicate that there is no reason why the Government. should recompense these two-claimants 'for their unfortunate losses. It may well be that the facts have not been fully developed. In such event it may be appropriate to permit the -claimants -to bring suit against the Government in the Court of Claims or the United States District Court. A different problem would be presented if the 'instant bill 'accorded such a remedy, instead of proposing a direct appropriation in payment of the claims.</p>
+<p>In the light of the foregoing statements I am constrained to 'disapprove the bill.</p>	
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed>
+<dateline>THE WHITE HOUSE, 'July 16, 1940.</dateline></closer>
+<head>CERTAIN NAVAJO INDIANS&#8212;VETO MESSAGE (S. DOC. NO. 262)</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying' bill, referred to the Committee on Indian Affairs and ordered to be printed:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 3794, "For the relief of certain Navajo Indians, and for other purposes."</p>
+<p>This bill appropriates $30,000 as compensation to the heirs of six Navajo boys who were killed, and $3,000 as damages on account of injuries sustained by two boys, when the automobile in which they were riding was struck by a train near Wingate, N. Mex.</p>
+<p>While the record indicates negligence on the part of the driver, thereby warranting claims for compensation; it seems to me that the proposed payments in the death cases are somewhat excessive. The six children killed were between the ages of 10 and 15 years, and the two injured boys were 12 and 14 years of age. They were all wards of the Federal Government and were being educated in schools maintained by the Government. They were not wage earners, and those killed left no actual dependents. Those killed were buried at the expense of the United States, and those injured received medical attention and hospital care at Federal expense.
+It is stated that the two injured boys have fully recovered, but since the record fails to disclose the extent of their injuries, it is impossible to say whether the payments proposed are, or are not, excessive.</p>
+<p>I am, withholding my approval of the bill in the belief that the Congress should, in the light of the above suggestions, and upon the basis of such additional information as it may obtain, give further consideration to these claims.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, July 16, 1940.</dateline></closer>
+
+<head>EXECUTIVE MESSAGES REFERRED</head>
+<p>The PRESIDING OFFICER (Mr. SCHWELLENBACH in the chair) as in executive. session, laid before the Senate messages from the President of the United States submitting sundry</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

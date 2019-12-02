@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="lexicon_stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::CDRH//DTD TEI.dtd (Nebraska)//EN" "TEI.dtd" [
+
+]>
+
+
+<TEI.2 id="treaty.tfl.laramie84">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Laramie84</title>
+
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Karin Dalziel</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital
+Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>treaty.tfl.laramie84</idno>
+<availability>
+<p><!-- ? (copyright) --></p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-11-02</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+
+<text><body>
+
+<head><title>Laramie84<ref n="*" target="f01"/></title></head>
+
+<p>Articles of a treaty made and concluded at Fort Laramie, in the Indian Territory, between D. D. Mitchell, superintendent of Indian Affairs, and Thomas Fitzpatrick, Indian agent, commissioners specially appointed and authorized by the President of the United States, of the first part, and the chiefs, headmen, and braves of the following Indian Nations, residing south of the Missouri River, east of the Rocky Mountains, and north of the lines of Texas and New Mexico, viz: The Sioux or Dahcotahs, Cheyennes, Arrapahoes, Crows, Assinaboines, Gros Ventres, Mandans, and Arickarees, parties of the second part, on the seventeenth day of September, A. D. one thousand eight hundred and fifty-one.</p> 
+<div1>
+<head>ARTICLE 1st.</head>
+<p>The aforesaid nations, parties to this treaty, having assembled for the purpose of establishing and confirming peaceful relations amongst themselves, do hereby covenant and agree to abstain in future from all hostilities whatever against each other, to maintain good faith and friendship in all their mutual intercourse, and to make an effective and lasting peace.</p> 
+</div1>
+<div1>
+<head>ARTICLE 2nd.</head>
+<p>The aforesaid nations do hereby recognize the right of the United States Government to establish roads, military and other posts, within their respective territories.</p> 
+</div1>
+<div1>
+<head>ARTICLE 3d.</head>
+<p>In consideration of the rights and privileges acknowledged in the preceding article, the United States bind themselves to protect the aforesaid Indian Nations against the commission of all depredations by the people of the said United States, after the ratification of this treaty.</p> 
+</div1>
+<div1>
+<head>ARTICLE 4th.</head>
+<p>The aforesaid Indian Nations do hereby agree and bind themselves to make restitution or satisfaction for any wrongs committed, after the ratification of this treaty, by any band or individual of their people, on the people of the United States, whilst lawfully residing in or passing through their respective territories.</p> 
+</div1>
+<div1>
+<head>ARTICLE 5th.</head>
+<p>The aforesaid Indian Nations do hereby recognize and acknowledge the following tracts of country, included within the metes and boundaries hereinafter designated, as their respective territories, viz:</p> 
+
+<p>The territory of the Sioux or Dahcotah Nation, commencing at the mouth of White Earth River, on the Missouri River; thence in a southwesterly direction to the forks of the Platte River; thence up the north fork of the Platte River to a point known as the Red Bute, or where the road leaves the river; thence along the range of mountains known as the Black Hills, to the head waters of Heart River; thence down Heart River to its mouth; and thence down the Missouri River to the place of beginning.</p> 
+
+<p>The territory of the Gros Ventre, Mandan, and Arickaree Nations, commencing at the mouth of Heart River; thence up the Missouri River to the mouth of the Yellowstone River; thence up the Yellowstone River to the mouth of Powder River; thence from the mouth of Powder River in a southeasterly direction, to the head waters of the Little Missouri River; thence along the Black Hills to the head of Heart River, and thence down Heart River to the place of beginning.</p> 
+
+<p>The territory of the Assiniboine Nation, commencing at the mouth of the Yellowstone River; thence up the Missouri River to the mouth of the Muscle Shell River; thence from the mouth of the Muscle Shell River in a southeasterly direction until it strikes the head waters of Big Dry Creek; thence down that creek to where it empties into the Yellowstone River, nearly opposite the mouth of Powder River, and thence down the Yellowstone River to the place of beginning.</p> 
+
+<p>The territory of the Blackfoot Nation, commencing at the mouth of the Muscle Shell River; thence up the Missouri River to its source; thence along the main range of the Rocky Mountains, in a southerly direction, to the head waters of the northern source of the Yellowstone River; thence down the Yellowstone River to the mouth of Twenty-five-yard Creek; thence across to the head waters of the Muscle Shell River, and thence down the Muscle Shell River to the place of beginning.</p> 
+
+<p>The territory of the Crow Nation, commencing at the mouth of Powder River on the Yellowstone; thence up Powder River to its source; thence along the main range of the Black Hills and Wind River Mountains to the head waters of the Yellowstone River; thence down the Yellowstone River to the mouth of Twenty-five-yard Creek; thence to the head waters of the Muscle Shell River; thence down the Muscle Shell River to its mouth; thence to the head waters of Big Dry Creek, and thence to its mouth.</p> 
+
+<p>The territory of the Cheyennes and Arrapahoes, commencing at the Red Bute, or the place where the road leaves the north fork of the Platte River; thence up the north fork of the Platte River to its source; thence along the main range of the Rocky Mountains to the head waters of the Arkansas River; thence down the Arkansas River to the crossing of the Santa F&#233; road; thence in a northwesterly direction to the forks of the Platte River, and thence up the Platte River to the place of beginning.</p> 
+
+<p>It is, however, understood that, in making this recognition and acknowledgment, the aforesaid Indian nations do not thereby abandon or prejudice any rights or claims they may have to other lands; and further, that they do not surrender the privilege of hunting, fishing, or passing over any of the tracts of country hereinbefore described.</p> 
+</div1>
+<div1>
+<head>ARTICLE 6th.</head>
+<p>The parties of the second part to this treaty having selected principals or head-chiefs for their respective nations, through whom all national business will hereafter be conducted, do hereby bind themselves to sustain said chiefs and their successors during good behavior.</p> 
+</div1>
+<div1>
+<head>ARTICLE 7th.</head>
+<p>In consideration of these treaty stipulations, and for the damages which have or may occur by reason thereof to the Indian nations, parties hereto, and for their maintenance and the improvement of their moral and social condition, the United States bind themselves to deliver to the said Indian nations the sum of fifty thousand dollars per annum for fifty years, in provisions, merchandise, domestic animals, and agricultural implements, in such proportion as may be deemed best adapted to their condition by the President of the United States, to be distributed in proportion to the population of the aforesaid Indian nations.</p> 
+</div1>
+<div1>
+<head>ARTICLE 8th.</head>
+<p>It is understood and agreed that should any of the Indian nations, parties to this treaty, violate any of the provisions thereof the United States may withhold the whole or a portion of the annuities mentioned in the preceding article from the nation so offending, until, in the opinion of the President of the United States, proper satisfaction shall have been made.</p> 
+
+<p>In testimony whereof the said D. D. Mitchell and Thomas Fitzpatrick, commissioners as aforesaid, and the chiefs, headmen, and braves, parties hereto, have set their hands and affixed their marks, on the day and at the place first above written.</p>
+</div1>
+</body>
+
+    <milestone unit="crosses"/>
+
+<back>
+<div1>
+<note id="f01"> * Source: <title>Laws of the United States Relating to Indian Affairs</title> (1884, pp. 317-319).</note>
+</div1>
+</back>
+</text>
+</TEI.2>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0466">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">466	H.R. 1406 (Fiftieth Congress, First Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0466</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fiftieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>466	H.R. 1406 (Fiftieth Congress, First Session &#8212; Cleveland)</head>
+
+<p>To provide for the sale of certain New York Indian lands in Kansas.</p>
+
+<p>Vetoed May 8 1888.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Ex. Doc. No. 298 (19 <title>Cong. Rec.</title> 3796-3797).</p>
+
+<p>Veto unchallenged.</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 111.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0466.01.pdf">New York Indian lands in Kansas. Message from the President of the United States, returning House Bill No. 1406 with his objections thereto</ref>.  (1888).  House of Representatives.  50th Congress, 1st session.  House Executive Document No. 298 (<title>Serial Set</title> 2561).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+
+<head>50TH CONGRESS, 1st Session.
+HOUSE OF REPRESENTATIVES.  Ex. Doc. No. 298.</head>  	
+<head>NEW YORK INDIAN LANDS IN KANSAS.
+MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+House bill No. 3406 with his objections thereto.</head>
+<milestone unit="rule" />
+<head>MAY 8, 1888.&#8212;Referred to the Committee on Indian Affairs and ordered to be printed.</head>
+
+ <div1>
+ <opener>
+<salute><hi rend="italic">To the House of Representatives:</hi></salute>
+</opener>
+<p>I return without approval House bill number fourteen hundred and six, entitled "An act to provide for the sale of certain New York Indian lands in Kansas."</p>
+<p>Prior to the year 1838 a number of bands and tribes of New York Indians had obtained five hundred thousand acres of land in the State of Wisconsin, upon which they proposed to reside. In the year above named a treaty was entered into between the United States and these Indians whereby they relinquished to the Government these Wisconsin lands. In consideration thereof, and as the treaty declares, "in order to manifest the deep interest of the United States in the future peace and prosperity of the New York Indians," it was agreed there should be set apart as a permanent home for all the New York Indians then residing in the State of New York or in Wisconsin or elsewhere in the United States, who had no permanent home, a tract of land amounting to one million eight hundred and twenty-four thousand acres, directly west of the State of Missouri and now included in the State of Kansas&#8212;being three hundred and twenty acres for each Indian, as their number was then computed&#8212;" to have and to hold the same in fee simple to the said tribes or nations of Indians by patent from the President of the United States."</p>
+<p>Full power and authority was also given to said Indians " to divide said lands among the different tribes, nations, or bands in severalty," with the right to sell and convey to and from each other, under such rules and regulations as should be adopted by said Indians in their respective tribes, or in general council.</p>
+<fw> 2	NEW YORK INDIAN LANDS IN KANSAS. </fw><pb n="2" />
+<p>The treaty further provided that such of the tribes of these Indians as did not accept said treaty and agree to remove to the country set apart for their new homes, within five years or such other time as the President might from time to time appoint, should forfeit all interest in the land so set apart to the United States; and the Government guarantied to protect and defend them in the peaceable possession and enjoyment of their new homes.</p>
+<p>I have no positive information that any considerable number of these Indians removed to the lands provided for them, within the five years limited by the treaty. Their omission to do so may have been owing to the failure of the Government to appropriate the money to pay the expense of such removal, as it agreed to do in the treaty.</p>
+<p>It is, however, stated in a letter of the Secretary of the Interior dated April 6, 1878, contained in the report of the Senate committee, to whom the bill under consideration was referred, that in the year 1842 some of these Indians settled upon the lands described in the treaty; and it is further alleged in said report that in 1846 about two hundred more of them were removed to said lands.</p>
+<p>The letter of the Secretary of the Interior above referred to contains the following statement concerning these Indian occupants:</p>
+<p>From death and the hostility of the settlers, who were drawn in that direction by the fertility of the soil and other advantages, all of the Indians gradually relinquished their selections, until of the Indians who had removed thither from the State of New York, only thirty-two remained in 1860.</p>
+<p>And the following further statement is made:</p>
+<p>The files of the Indian Office show abundant proof that they did not voluntarily relinquish their occupation.</p>
+<p>The proof thus referred to is indeed abundant, and is found in official reports and affidavits made as late as the year 1859. By these it appears that during that year, in repeated instances, Indian men and widows of deceased Indians were driven from their homes by the threats of armed men; that in one case at least the habitation of an Indian woman was burned, and that the kind of outrages were resorted to which too often follow the cupidity of whites and the possession of fertile lands by defenseless and unprotected Indians.</p>
+<p>An agent, in an official letter dated August 9, 1859, after detailing the cruel treatment of these occupants of the lands, which the Government had given them, writes:</p>
+<p>Since these Indians have been placed under my charge, which was, I think, in 1855, I have endeavored to protect them; but complaint after complaint has reached me, and I have reported their situation again and again; and I do hope that it will not be long when the Indians who are entitled to land under the decision of the Indian Office shall have it set apart to them.</p>
+<p>The same agent, under date of January 18, 1860, referring to these Indians, declares:</p>
+<quote>These Indians have been driven off their land and claims upon the New York tract by the whites, and they are now very much scattered and many of them are very destitute. </quote>
+<fw> NEW YORK INDIAN LANDS IN KANSAS.	3 </fw>
+
+<p>It was found in 1860 that of all the Indians who had prior to that date selected and occupied part of these lands but thirty-two remained, and it seems to have been deemed but justice to them to confirm their selections by some kind of Governmental grant or declaration, though it does not appear that any of them had been able to maintain actual possession of all their selected lands against white intrusion. Thus certain special commissioners appointed to examine this subject, under date of May 29, 1860, make the following statement:</p>
+<quote>In this connection it may be proper to remark that many of the tracts so selected were claimed by lawless men who had compelled the Indians to abandon them, under threats of violence; but we are confident that no serious injury will be done to any one, as the improvements are of but little value.</quote>
+<p>On the 14th day of September, 1860, certificates were issued to the thirty-two Indians who had made selections of lands and who still survived, with a view of securing to them such selections, and at the same time granting to them the number of acres which it was provided they should have by the treaty of 1838. These certificates were made by the Commissioner of Indian Affairs and declared that in conformity with the provisions of the treaty of 1838 there had been assigned and allotted, to the person named therein, three hundred and twenty acres of the land designated in said treaty, which land was particularly described in said certificates, which concluded as follows:</p>
+<quote>And the selection of said tract for the exclusive use and benefit of said reservee, having been approved by the Secretary of the Interior, is not subject to be alienated in fee, leased, or otherwise disposed of, except to the United States.</quote>
+<p>In a letter dated September 13, 1860, from the Indian Commissioner to the agent in the neighborhood of these lauds, reference is made to the conduct of white intruders upon the same and the following instructions were given to said agent:</p>
+<quote>In view of these representations and the fact that these white persons who are in possession of the land are intruders, I have to direct that you will visit the New York Reserve in Kansas at your earliest convenience, accompanied by those Indians living among the Osages to whom said lands have been allotted, with a view to place them in possession of the lands to which they are entitled, and if you should meet with any forcible resistance from white settlers, you will report their names to this office in order that appropriate action may be taken in the premises; and you will inform them that if they do not immediately abandon said lands they will be removed by force. When you shall have given the thirty-two Indians peaceable possession of their lands, or attempted to do so, and have been prevented by forcible resistance, you will make a report of your action to this Bureau.</quote>
+<p>The records of the Indian Bureau do not disclose that any report was ever made by the agent to whom these instructions were given.</p>
+<p>In 1861 and 1862 mention was made by the agents of the destitute condition of these Indians and of their being deprived of their lands; and iii these years petitions were presented in their behalf, asking that justice be done them on account of the failure of the Government to provide them with homes.</p>
+<fw> 4	NEW YORK INDIAN LANDS IN KANSAS </fw>
+<p>In the mean time, and in December, 1860, the remainder of the reserve not allotted to the thirty-two survivors was thrown open to settlement by Executive proclamation. Of course this was followed by increased conflict between the settlers and the Indians. It is presumed that it became dangerous for those to whom lauds had been allotted to attempt to gain possession of them. On the 4th day of December, 1865, Agent Snow returned twenty-seven of the certificates of allotment which had not been delivered, and wrote as follows to the Indian Bureau:</p>
+<quote>A few of these Indians were at one time put in possession of their lands. They were driven off by the whites; one Indian was killed, others wounded, and their houses burned. White men at this time have possession of these lands, and have valuable improvements on them. The Indians are deterred even asking for possession. I would earnestly ask, as agent for these wronged and destitute people, that some measure be adopted by the Government to give these Indians their rights.</quote>
+<p>An official report made to the Secretary of the Interior dated February 16, 1871, gives the history of these lands, and concludes as follows:</p>
+<quote>These lands are now all or nearly all occupied by white persons who have riven the Indians from their homes&#8212;in some instances with violence. There is great necessity that some relief should be afforded to them by legislation of Congress, authorizing the issue of patents to the allottees or giving them power to sell and convey.</quote>
+<quote>In this way they will be enabled to realize something from the land, and the occupants can secure titles for their homes.</quote>
+<p>Apparently in the line of this recommendation, and in an at-tempt to remedy the condition of affairs then existing, an act was passed on the 19th day of February, 1873, permitting heads of families and single persons over twenty-one years of age, who had made settlements and improvements upon and were bona fide claimants and occupants of the lands for which the thirty-two certificates of allotments were issued, to enter and purchase at the proper land-office, such lands so occupied by them, not exceeding one hundred and sixty acres, upon paying therefor the appraised value of said tracts respectively, to be ascertained by three disinterested and competent appraisers, to be appointed by the Secretary of the Interior, who should re-port the value of such lands exclusive of improvements, but that no sale should be made under said act for less than three dollars and seventy-five cents per acre.</p>
+<p>It was further provided that the entries allowed should be made within twelve months after the promulgation by the Secretary of the Interior of regulations to carry said act into effect, and that the money arising upon such sales should be paid into the Treasury of the United States, in trust for, and to be paid to, the Indians respectively to whom such certificates of allotment had been issued, or to their heirs, upon satisfactory proof of their identity, at any time within five years from the passage of the act, and that in default of such proof the money should become a part of the public moneys of the United States.</p>
+<p>It was also further provided that any Indian to whom any certificate
+<fw> NEW YORK INDIAN LANDS IN KANSAS.	5 </fw>
+of allotment had been issued, and who was then occupying the land allotted thereby, should be entitled to receive a patent therefor.</p>
+<p>Pursuant to this statute these lands were appraised. The lowest value per acre fixed by the appraisers was three dollars and seventy-five cents, and the highest was ten dollars&#8212;making the average for the whole four dollars and ninety cents per acre.</p>
+<p>It is reported that only eight pieces, containing 879.76 acres of land taken from six of these Indian allotments, were sold under this statute to the settlers thereon, producing the sum of $4,038.06, and that the price paid in no case was less than four dollars and fifty cents per acre.</p>
+<p>It is proposed by the bill under consideration to sell the remainder of this allotted land to those who failed to avail themselves of the law of 1873, for the sum of two dollars and fifty cents per acre.</p>
+<p>Whatever may be said of the effect of the action of the Indian Bureau in issuing certificates. of allotment to individual Indians, as it relates to the title of the lands described therein, it was the only way that the Government could perform its treaty obligation to furnish homes for any number of Indians less than a tribe or band; and if these allotments did not vest a title in these individual Indians, they secured to them such rights to the lands as the Government was bound to protect, and which it could not refuse to confirm if it became necessary, by the issuance of patents therefor.</p>
+<p>These rights are fully recognized by the statute of 1873, as well as by the bill under consideration.</p>
+<p>The right and power of the Government to divest these allottees of their interests under their certificates is so questionable that perhaps it could only be done under the plan proposed, through an estoppel arising from the acceptance of the price for which their allotted lands were sold.</p>
+<p>But whatever the effect of a compliance with the provisions of this bill would be upon the title of the settlers to these lands, I can see no fairness or justice in permitting them to enter and purchase such lands at a sum much less than their appraised value in 1873, and for hardly one-half the price paid by their neighbors under the law passed in that year.</p>
+<p>The occupancy upon these lands of the settlers seeking relief, and of their grantors, is based upon wrong, violence, and oppression. A continuation of the wrongful exclusion of these Indians from their lands should not inure to the benefit of the wrong-doers. The opportunities afforded by the law of 1873 were neglected, perhaps, in the hope and belief that death would remove the Indians, who by their appeals for justice annoyed those who had driven them from their homes; and perhaps in the expectation that the heedlessness of the Government concerning its obligations to the Indians would supply easier terms. The idea is too prevalent that, as against those who by emigration and settlement upon our frontier extend our civilization and prosperity,
+<fw> 6	NEW YORK INDIAN LANDS IN KANSAS. </fw>
+the rights of the Indians are of but little consequence. But it must be absolutely true that no development is genuine or valuable based upon the violence and cruelty of individuals or the faithlessness of a Government.</p>
+<p>While it might not result in exact justice or precisely rectify the wrongs committed, it may well be that in existing circumstances the interests of the allottees or their heirs demand an adjustment of the kind now proposed. But their lands certainly are worth much more than they were in 1873; and the settlers, if they are not subjected to a reappraisement, should at least pay the price at which the lands were appraised in that year.</p>
+<p>If the holders of the interests of the allottees have such a title as will give them a standing in the courts of Kansas, I do not think they need fear defeat by being charged with improvements under the occupying claimants act; for it has been decided in a case to be found in the 20th volume of Kansas Reports, at page 374, that&#8212;</p>
+<quote>Neither the title nor possession of the Indian owner secured by treaty with the United States Government can be disturbed by State legislation; and the occupying claimants' act has no application in this case.</quote>
+
+<p>And yet the delay, uncertainty, and expense of legal contests should be considered.</p>
+<p>I suggest that any bill which is passed to adjust the rights of these Indians by such a general plan as is embodied in the bill herewith returned, should provide for the payment by the settlers within a reasonable time of an appraised value, and that in ease the same is not paid by the respective occupants, that the lands be sold at public auction for a price not less than the appraisement.</p>
+<closer><signed><hi rend="right">GROVER CLEVELAND. </hi></signed>
+<dateline>EXECUTIVE MANSION, 
+May 7, 1888.</dateline></closer>
+
+</div1>
+
+<div1>
+<head>NEW YORK INDIAN LANDS IN KANSAS.</head>
+<head>AN ACT to provide for the sale of certain New York Indian lands in Kansas.</head>
+
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That those persons being heads of families or single persons over twenty-one years of age, who have made settlement and improvement upon, and are bona fide claimants and occupants of, either in person or by tenant, the lands in Kansas which were allotted to certain New York Indians, and for which certificates of allotment, dated the fourteenth day of September, eighteen hundred and sixty, for three hundred and twenty acres of land each, were issued to thirty-two of said Indians, shall be, and hereby are, authorized and permitted to enter and purchase at the proper land-office, at any time within one year from the passage of this act, said lands so occupied by them, in tracts not exceeding one hundred and sixty acres, according 10 the Government surveys, at two dollars and fifty cents per acre, payment to be made in cash at time of purchase; and the moneys arising from such sales shall be paid into the Treasury of the United States, in trust for and to be paid to said Indians, respectively, to whom said certificates were issued, or to their heirs, upon satisfactory proof of their identity to the Secretary of the Interior, at any time within five years from the passage of this act; and in case such proof is not made within the time specified, then the proceeds of such sale, or so much thereof as shall not have
+<fw> NEW YORK INDIAN LANDS IN KANSAS.	7 </fw>
+been paid under the provisions of this act, shall become a part of the public moneys of the United States.</p>
+<p>SEC. 2. That any lands not entered by such settlers at the expiration of twelve months from the passage of this act shall be offered at public sale, in the usual manner, at not less than three dollars per acre, notice of said sale to be given by public advertisement of not less than thirty days; and any tract or tracts not then sold shall be thereafter subject to private entry at three dollars per acre.</p>
+<p>SEC. 3. That all acts and parts of acts inconsistent herewith are hereby repealed.</p> 
+<closer><signed>JOHN G. CARLISLE,
+Speaker of the House of Representatives.</signed>
+<signed>JOHN J. INGALLS,
+President of the Senate pro tempore.</signed>
+I certify that this act originated in the House of Representatives.
+<signed>Attest:	JOHN B. CLARK,
+Clerk.</signed></closer>
+-->
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0466.02.pdf"><title>Congressional Record</title> 19, 3796-3797</ref> (1888).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 3796	CONGRESSIONAL RECord
+HOUSE.	MAY 7, </fw>
+<p>Houses on the amendment of the Senate to the bill (H. R. 7319) for the relief of Emory R. Seward.</p>
+<p>The message also announced that the Senate had agreed to the report of
+the committee of conference on the disagreeing votes of the two Houses
+on the amendment of the Senate to the bill (H. R. 7348) granting to
+the city of Grand Forks, Dak., the right to build two free bridges across Red River.</p>
+<div1>
+<head>VETO MESSAGE—NEW YORK INDIAN LANDS IN KANSAS.</head>
+<p>The SPEAKER. The Chair lays before the House a message from
+the President of the United States.</p>
+<p>The Clerk read the message, as follows:</p>
+<floatingText>
+  <body>
+<salute>To the House of Representatives:</salute>
+<p>I return without approval House bill No. 140G, entitled " An act to provide for the sale of certain New York Indian lands in Kansas."</p>
+<p>Prior to the year 1838, a number of bands and tribes of New York Indians had obtained 500,000 acres of land in the State of Wisconsin, upon which they pro-posed to reside. In the year above named a treaty was entered into between the United States and these Indians,whereby they relinquished to the Government these Wisconsin lands. In consideration thereof, and, as the treaty declares, "in order to manifest the deep interest of the United States in the future peace and prosperity of the New York Indians." it was agreed there should be set apart as a permanent home for all the New York Indians then residing in the State of New York or in Wisconsin or elsewhere in the United States, who had no permanent home, a tract of land amounting to 1,824,000 acres, directly west of the State of Missouri and now included in the State of Kansas, being 320 acres for each Indian, as their number was then computed, "to have and to hold the same in fee-simple to the said tribes or nations of Indians by patent from the President of the United States."</p>
+<p>Full power and authority was also given to said Indians "to divide said lands among the different tribes, nations, or bands in severalty," with the right to sell and convey to and from each other, under such rules and regulations as should be adopted by said Indians in their respective tribes, or in general council.</p>
+<p>The treaty further provided that such of the tribes of these Indians as did not accept said treaty and agree to remove to the country set apart for their new homes, within five years or such other time as the .president might from time to time appoint, should forfeit all interest in the land so set apart to the United States; and the Government guarantied to protect and defend them in the peaceable possession and enjoyment of their new homes.</p>
+<p>I have no positive information that any considerable number of these Indians removed to the lands provided for them within the live years limited by the treaty. Their omission to do so may have been owing to the failure of the Government to appropriate the money to pay the expense of such removal, as it agreed to do in the treaty.</p>
+<p>It is, however, stated in a letter of the Secretary of the Interior, dated April 6,
+1878, contained in the report of the Senate committee, to whom the bill under
+consideration was referred, that in the year 1812 some of these Indians settled upon the lands described in the treaty; and it is further alleged in said report that in 1816 about two hundred more of them were removed to said lands.</p>
+<p>The letter of the Secretary of the Interior above referred to contains the following statement concerning these Indian occupants:</p>
+<p>"From death and the hostility of the settlers, who were drawn in that direction by the fertility of the soil and other advantages, all of the Indians gradually relinquished their selections, until of the Indians who had removed thither from the State of New York, only thirty-two remained in 1860."</p>
+<p>And the following further statement is made:</p>
+<p>"The tiles of the Indian Office show abundant proof that they did not voluntarily relinquish their occupation."</p>
+<p>The proof thus referred to is indeed abundant, and is found in official reports and affidavits made as late as the year 1850. By these it appears that during that year, in repeated instances, Indian men and widows of deceased Indians, were driven from their homes by the threats of armed men; that in one case at least the habitation of an Indian woman was burned. and that the kind of out-rages were resorted to which too often follow the cupidity of whites, and the possession of fertile lands by defenseless and unprotected Indians.
+An agent, in an official letter dated August 9, 1859, after detailing the cruel treatment of these occupants of the lands, which the Government had given them, writes:</p>
+<p>"Since these Indians have been placed under my charge, which was, I think, in 1855, 1 have endeavored to protect them; but complaint after complaint has reached we, and I have reported their situation again and again ; and I hope that it will not be long when the Indians who are entitled to land under the decision of the Indian Office shall have it set apart to then)."</p>
+<p>The same agent, under date of January 18, 1860, referring to these Indians, declares:
+"These Indians have been driven off their land and claims upon th:New York tract by the whites, and they are now very much scattered and many of them are very destitute."</p>
+<p>It was found in I860 that of all the Indians who had prior to that date selected and occupied part of these lands but thirty-two remained, and it seems to have been deemed but justice to them to confirm their selections by some kind of governmental grantor declaration, though it does not appear that any of them had been able to maintain actual possession of all their selected lands against white intrusion. Thus certain special commissioners appointed to examine this subject, under date of May 29, 1860, make the following statement:</p>
+<p>"In this connection it may be proper to remark that many of the tracts so selected were claimed by lawless men who had compelled the Indians to abandon them under threats of violence; but we are confident that no serious injury will be done to any one, as the improvements are of but little value."</p>
+<p>On the 14th day of September, 1860, certificates were issued to the thirty-two Indians who had made selections of lands and who still survived, with a view of securing to them such selections and at the same time granting to them the number of acres which it was provided they should have by the treaty of 1838. These certificates were made by the Commissioner of Indian Affairs, and declared that in conformity with the provisions of the treaty of 1838 there had been assigned and allotted to the person named therein 320 acres of the land designated in said treaty, which land was particularly described in said certificates, which concluded as follows:</p>
+<p>"And the selection of said tract for the exclusive use and benefit of said re-
+serve, having been approved by the Secretary of the Interior, is not subject to be alienated in fee, leased, or otherwise disposed of, except to the United States." In a letter dated September 13, 1860, from the Indian Commissioner to the agent in the neighborhood of these lands, reference is made to the conduct of white intrudersupen the same and the following instructions were given to said agent:</p>
+<p>"In view of these representations, and the fact that these white persons who are in possession of the land are intruders, I have to direct that you will visit
+the New York reserve in Kansas at your earliest convenience, accompanied by those Indians living among the Osages to whom said lands have been allotted,
+with a view to place them in possession of the lands to which they are entitled, and if von should meet with any forcible resistance from white settlers, you will
+report their names to this office, in order that appropriate action may be taken in the premises; and you will inform them that if they do not immediately abandon said lands theywill be removed by force, When you shall have given the thirty-two Indians peaceable possession of their lands, or attempted to do so, and have been prevented by forcible resistance, you will make a report of your action to this bureau."</p>
+<p>The records of the Indian Bureau do not disclose that any report was ever made by the agent to whom these instructions were given.</p>
+<p>In 1861 and 1862 mention was made by the agents of the destitute condition of these Indians and of their being deprived of their lands, and in these years petitions were presented in their behalf, asking that justice be done them on account of the failure of the Government to provide them with homes.</p>
+<p>In the mean time, and its December, 1860, the remainder of the reserve not al-lotted to the thirty-two survivors was thrown) open to settlement by Executive proclamation. Of course this was followed by increased conflict between the settlers and the Indians. It is presumed that it became dangerous for those to whom lands had been allotted toattcnipt to gain possession of them. On the4th day of December, 1865, Agent Snow returned twenty-seven of the certificates of allotment which had not been delivered, and wrote as follows to the Indian Bureau:</p>
+<p>"A few of these Indians were at one time put in possession of their lands. They were driven off by the whites; one Indian was killed, others wounded, and their houses burned. White men at this time have possession of these lands and have valuable improvements on them. The Indians are deterred even asking for possession. I would earnestly ask, as agent for these wronged and destitute people, that some measure be adopted by the Government to give these Indians their rights."</p>
+<p>An official report made to the Secretary of the Interior, dated February 16, 1871, gives the history of these lands, and concludes as follows:</p>
+<p>"These lands are now all or nearly all occupied by white persons who have driven the Indians from their homes—in some instances with violence. There is great necessity that some relief should be afforded to them by legislation of Congress, authorizing the issue of patents to the allottees or giving them power to sell and convey.</p>
+<p>"In this way they will be enabled to realize something from the land, and the occupants can secure titles for their homes."</p>
+<p>Apparently in the line of this recommendation, and in an attempt to remedy the eondition of affairs then existing, an act was passed on the 19th day of February, 1873, permitting heads of families and single persons over twenty-ono years of age, who had made settlements and improvements upon and were bona fide claimants and occupants of the lands for which the thirty-two certificates of allotments were issued to enter and purchase at the proper land office, such lands so occupied by them, not exceeding 1G0 acres, upon paying therefor the appraised value of said tracts respectively, to be ascertained by three disinterested and competent appraisers, to beappointed by the Secretary of the Interior, who should report the value of such lands exclusive of improvements, but that no sale should be made under said act for less than $3.75 per acre.</p>
+<p>It was further provided that the entries allowed should be made within twelve months after the promulgation by the Secretary of the Interior of regulations to carry said act into effect, and that the money arising upon such sales should be paid into the Treasury of the United States, in trust for, and to be paid to, the Indians respectively to whom such certificates of allotment had been issued, or to their heirs, upon satisfactory proof of their identity, at any time within five years from the passage of the act, and that in default of such proof the money should become a part of the public moneys of the United States.</p>
+<p>It was also further provided that any Indian to whom any certificate of allotment had been issued, and who was then occupying the land allotted thereby, should be entitled to receive a patent therefor.</p>
+<p>Pursuant to this statute these lands were appraised. The lowest value per acre fixed by the appraisers was $3.75, and the highest was $10&#8212;making the average for the whole $1.90 per acre.</p>
+<p>It is reported that only eight pieces, containing 879.7 acres of land taken from six of these lndian allotments, were sold under this statute to the settlers thereon, producing the sum of $4,038.66, and that the price paid in no case was less than 1.50 per acre.</p>
+<p>it is proposed by the bill under consideration to sell the remainder of this al-lotted land to those who failed to avail themselves of the law of 1873 for the sum of $2.50 per acre.
+Whatever may be said of the effect of the action of the Indian Bureau in issuing certificates of allotment to individual Indians, as it relates to the title of the lands described therein, it was the only way that the Government could perform its treaty obligation to furnish homes for any number of Indians less than a tribe or band ; and if these allotments did not vest a title in these individual Indians, they secure to them such rights to the lands as the Government was bound to protect, and which it could not refuse to confirm, if it became necessary, by the issuance of patents therefor.</p>
+<p>These rights are fully recognized by the statute of 1873 as well as by the bill under consideration.</p>
+<p>The right and power of the Government to divest these allottees of their interests under their certificates is so questionable that perhaps it could only be done under the plan proposed, through an estoppel arising from the acceptance of the price for which their allotted lands were sold.</p>
+<p>But whatever the effect of a compliance with the provisions of this bill would be upon the title of the settlersto these lands, I can see no fairness or justice in permitting them to enter and purchase such lands at a sum much less than their appraised value in 1573, and for hardly one-half the price paid by their neighbors under the law passed in that year.</p>
+<p>The occupancy upon these lands of the settlers seeking relief, and of their grantors, is based upon wrong, violence, and oppression. A continuation of the wrongful exclusion of these Indians from their lands should not inure to the benefit of the wrongdoers. The opportunities afforded by the lawof 1873 were neglected, perhaps, in the hope and belief that death would remove the Indians, who, by their appeals for justice, annoyed those who had driven them from their homes, and perhaps in the expectation that the heedlessness of the Government concerning its obligations to the Indians would supply easier terms. The idea is too prevalent that, against those who by emigration and settlement upon our frontier extend our civilization and prosperity, time rights of the :Indians are of but little consequence. But it must be absolutely true that no development is genuine or valuable based upon the violence and cruelty of individuals or the faithlessness of a Government.</p>
+<p>While it might not result in exact justice or precisely rectify the wrongs committed, it may well be that in existing circumstances the interests of the allot-tees or their heirs demand an adjustment of the kind now proposed. But their lands certainly are worth much more than they were in 1873; and the settlers. if they are not subjected to a reappraisement, should at least pay the price at which the lands were appraised in that year.</p>
+<p>If the holders of the interests of the allottees have such a title as will give them a standing in the courts of Kansas, I do not think they need fear defeat by being charged with improvements under the occupying claimants' net; for it has been decided in a ease to befound in the 20th volume of Kansas Reports, at page 374, that
+"Neither the title nor possession of the Indian owner secured by treaty witlt the United States Government can be disturbed by State legislation; and the occupying claimants' act has no application in this case."</p>
+<fw> HeinOnline - 19 <title>Cong. Rec.</title> 3796 1888
+1888.	CONGRESSIONAL RECORD-HOUSE.	3197 </fw><pb n="2" />
+<p>And yet the delay, uncertainty, and expense of legal contests should be considered.
+I suggest that any bill which is passed to adjust the rights of these Indians by such a general plan as is embodied in the bill herewith returned should provide for the payment by the settlers within a reasonable time of an appraised value, and that in case the same is not paid by the respective occupants, that the lands be sold at public auction for a price not less than the appraisement.</p>
+<closer><signed>GROVER CLEVELAND.</signed> 
+<dateline>EXECUTIVE MANSION, May 7, 1888.</dateline></closer>
+  </body>
+ </floatingText>
+ 
+<p>Mr. PERKINS. I desire to make a parliamentary inquiry. </p>
+<p>The SPEAKER. The gentleman will state it.</p> 
+<p>Mr. PERKINS. Would it be in order to ask, instead of a reference of this message, or of its present consideration, that it lie on the Speaker's table to be called up at some future time?</p>
+<p>The SPEAKER. It would.</p>
+<p>Mr. HOLMAN. Let it go to the Committee on Indian Affairs.</p>
+<p>Mr. PERKINS. The bill has been carefully considered by the committee. I see no impropriety in referring the message to the committee; but that members may have an opportunity of reading it, I ask that it remain temporarily on the Speaker's table. This measure is important to settlers, not in my district, but in my State. I have no interest in the matter myself. But to a few settlers in Kansas it is important. I know that the Indians who are the beneficiaries are satisfied with this arrangement.</p>
+<p>1 claim that as a matter of justice to the settlers, as a matter of justice to the Indians, as a matter of equity to all, it ought to be passed by this House. And in order that the House may have an opportunity to examine the President's views before acting on the bill, I ask, that the bill and message be allowed to remain temporarily on the Speaker's table.</p>
+<p>Mr. McADOO. Mr. Speaker, the Chief Executive of the country has sent here a Very important message giving his reasons for not approving this measure. When the bill was before the House I took the liberty of opposing it as strongly as I could. It is the usual course for documents of this character to be referred to the committee from which the bill emanated, and respect for the Chief Executive demands that this message shall be referred in the usual manner. I therefore move that it be referred to the Committee on Indian Affairs and ordered to be printed, and on that I call for the previous question.</p>
+<p>The House divided on the motion of Mr. McADoo; and there were&#8212;ayes 51, noes 52.</p>
+<p>Mr. McADOO and Mr. NELSON. No quorum.</p>
+<p>The SPEAKER. The point being made that no quorum has voted, the Chair will appoint to act as tellers the gentleman from New Jersey, Mr. McADoo, and the gentleman from Kansas, Mr. PERKINS.</p>
+<p>The House divided; and the tellers reported&#8212;ayes 60, noes 30.</p>
+<p>The SPEAKER. No quorum has yet voted.</p>
+<p>Mr. BLOUNT. I move that the House do now adjourn.</p>
+<p>Mr. BINGHAM. Mr. Speaker, I rise to a parliamentary inquiry. </p>
+<p>The SPEAKER. The gentleman will state it.</p>
+<p>Mr. BINGHAM. Having been recognized by the Chair to move to proceed to the consideration of a Senate bill, I desire to be informed what the standing of that motion will be on suspension day four weeks hence?</p>
+<p>The SPEAKER. In case the motion is not now disposed of, it will be the pending motion on the next day for the suspension of the rules.</p>
+<p>Mr. BLOUNT. Mr. Speaker, I renew the motion that the House do now adjourn.</p>
+<p>The SPEAKER. No business has intervened since the last motion to adjourn was made, but as no point of order is made against the motion, the Chair will entertain it.</p>
+<p>The motion was agreed to; and the House accordingly (at 4 o'clock and 35 minutes p. m.) adjourned.</p>
+</div1>
+ <div1>
+<head>PRIVATE BILLS INTRODUCED AND REFERRED.</head>
+<p>Under the rule private bills of the following titles were introduced and referred as indicated. below:</p>
+<p>By Mr. C. H. ALLEN: A bill (H. R. 98G0) granting a pension to Adelia F. Homans, widow of Charles F. Homans&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. ARNOLD: A bill (H. R. 9861) granting an increase of pension to Waitie F. Harris&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. CAINE: A bill (H. R. 9862) granting a pension to Benjamin F. Bair&#8212;to the Committee on Invalid Pensions.</p>
+<p>Also, a bill (H. R. 9863) granting a pension to Louis M. Smith&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. CROUSE: A bill (H. R. 9864) for the relief of C. B. Chamberlain&#8212;to the Committee on War Claims.</p>
+<p>By Mr. DINGLEY: A bill (H. R. 9865) granting a pension to Francis K. House&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. HOLMAN: A bill (H. R. 9866) granting a pension to John B. Lynch&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. LAIRD (by request): A bill (H. R. 9867) for the relief of Catherine Millen&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. LEE: A bill (H. R. 9868) for the relief of John L. Moore&#8212;to the Committee on War Claims.</p>
+<p>By Mr. McCREARY: A bill (H. R. 9869) granting a pension to Agnes M. Ross&#8212;to the Committee on Invalid Pensions.</p>
+<p>Also, a bill (H. R. 9870) granting a pension to William Barnes&#8212;to the Committee on Invalid Pensions. </p>
+<p>Also, a bill (H. R. 9871) granting a pension to William Geer&#8212;to the Committee on Invalid Pensions.</p>
+<p>Also, a bill (H. R. 9872) for the relief of John Baughman&#8212;&#8212;to the Committee on War Claims.</p>
+<p>Also, a bill (H. R. 9873) for the benefit of Levi Lambert&#8212;to the Committee on War Claims.</p>
+<p>Also, a bill (H. R. 9874) for the relief of administrator of Alfred Alcorn&#8212;to the Committee on War Claims.</p>
+<p>Also, a bill (H. R. 9875) for the relief of S. J. Brown&#8212;to the Committee on War Claims.</p>
+<p>Also, a bill (H. R. 9876) for the relief of Jeremiah Davidson—to the Committee on War Claims.</p>
+<p>Also, a bill (H. R. 9877) granting an increase of pension to Mary L. Cleveland&#8212;to the Committee on Pensions.</p>
+<p>By Mr. MATSON: A bill (H. R. 9878) granting a pension to Moses T. Coffey&#8212;to the Committee on Invalid Pensions.</p>
+<p>Also, a bill (H. R. 9879) granting a pension to Lucina Stotsenbergto the Committee on Invalid Pensions.</p>
+<p>Also, a bill (H. R. 9880) for the relief of James F. Fee&#8212;to the Committee on War Claims.</p>
+<p>By Mr. CHARLES O'NEILL: A bill (H. R. 9881) for the relief of Henry and Angelo Myers&#8212;to the Committee on War Claims. By Mr. PATTON: A bill (H. R. 9882) to refer the claims of Lewis Rothernel and Stephen H. Myers to the Court; of Claims&#8212;to the Committee on War Claims.</p>
+<p>By Mr. PERKINS: A bill (H. R. 9883) granting a pension to Cyrus E. Pruett&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. ROGERS: A bill (H. R. 9884) for the relief of George W. Davis&#8212;to the Committee on War Claims.</p>
+<p>By Mr. J. D. STEWART: A bill (H. R. 9885) granting a pension to Frank W. Tubbesing—to the Committee on Invalid Pensions.</p>
+<p>By Mr. STONE, of Missouri: A bill (H. R. 9886) for the relief of Samuel Cones—to the Committee on War Claims.</p>
+<p>By Mr. E. B. TAYLOR: A bill (H. R. 9887) granting a pension to Mrs. Tamer Slater, mother of Lewis K. White, deceased&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. VOORHEES: A bill (H. R. 9888) for the relief of Maj. Gen. Robert H. Milroy&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. WHEELER: A bill (H. R. 9889) to refer the claim against the United States of Mary E. Reed for stores and supplies to the Court of Claims&#8212;to the Committee on War Claims.</p>
+<p>By Mr. WICKHAM: A bill (H. R. 9890) granting a pension to Catharine Baughman&#8212;to the Committee on Invalid Pensions.</p>
+<p>PETITIONS, ETC.</p>
+<p>The following petitions and papers were laid on the Clerk's desk, under the rule, and referred as follows:</p>
+<p>By Mr. C. S. BAKER: Petition of Belle S. Winslow and 23 other persons, of Henrietta, Monroe County, New York, for prohibition in the District of Columbia&#8212;to the Select Committee on the Alcoholic Liquor Traffic.</p>
+<p>By Mr. BAYNE: Papers relating to bill for relief of Benjamin M. Clarke&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. BLOUNT: Paper in the claim of Mary A. Washington&#8212;to the Committee on Private Land Claims.</p>
+<p>By Mr. BOUTELLE: Petition of 91 citizens of Westfield, Me., for prohibition in the District of Columbia&#8212;to the Select Committee on the Alcoholic Liquor Traffic.</p>
+<p>By Mr. J. R. BROWN: Petition of the council of Danville, Va., for continuing the grading and paving of the street to national cemetery at Danville, Va.&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. T. M. BROWNE: Memorial of Francis A. Field to accompany his bill&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. CROUSE: Petition of quicksilver manufacturers of California, against putting quicksilver on the free-list&#8212;to the Committee on Ways and Means.</p>
+<p>By Mr. ERMENTROUT: Memorial of C. T. Reynolds &amp; Co. and others, favoring the amendment to the Mills bill to retain the duty on whiting and Paris white as it is now levied-to the Committee on Ways and Means.</p>
+<p>Also, memorial of the quicksilver manufacturers of California, favoring a specific duty of 20 to 25 cents per pound on quicksilver—to the Committee on Ways and Means.</p>
+<p>By Mr. FORNEY: Petition of William B. Taylor, and of William B. Taylor, administrator of John E. Taylor, of be Kalb County, Alabama, for reference of their claims to the Court of Claims—to the Committee on War Claims.</p>
+<p>By Mr. GIFFORD: Petition of Albion Thorn, late postmaster at Dell, Minnehaha County, Dakota Territory, for relief&#8212;to the Committee on the Post-Office and Post-Roads.</p>
+<p>By Mr. GOFF: Petition of Erasmus L. Wentz, for a pension&#8212;to the Committee on Invalid Pensions.</p>
+ </div1>
+ </body>
+</floatingText>
+ </div1>
+</body>
+</floatingText> -->
+</div1>
+
+
+</body>
+</text>
+</TEI>

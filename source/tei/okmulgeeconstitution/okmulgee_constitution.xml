@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="okmulgee_constitution">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">"In order to organize the Government of the Indian Territory. . .":
+    Comparing variants of the 1870 <title>Okmulgee Constitution</title></title>
+<author>Charles D. Bernholz</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2011</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>okmulgee_constitution</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2011-06-06</date>  <name>Laura Weakly</name> Corrections</change>
+<change><date>2011-05-03</date>  <name>Laura Weakly</name> Encoding enrichment</change>
+<change><date>2011-05-01</date>  <name>Charles D. Bernholz</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+
+<text>
+<front>
+<div1>
+
+<head type="heading">"In order to organize the Government of the Indian Territory. . .":
+Comparing variants of the 1870 <title>Okmulgee Constitution</title></head>
+
+<docAuthor>Charles D. Bernholz<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+
+</div1>
+
+<milestone unit="crosses"/>
+
+<div1>
+                  
+<head>Abstract</head>                  
+                  
+<p>In 1870, the Five Civilized and other tribes within the Indian Territory initiated a series of council meetings to deal with seven federal stipulations presented at Fort Smith in 1865 and with new treaties established in 1866.  One result of these gatherings was the so-called <title>Okmulgee Constitution</title> that provided a model for a new full-fledged Indian state to replace the Territory.  Versions of that document and of a revised rendition were published, as part of the official and unofficial record of the sequence of proceedings.  This study examined fourteen variants of that instrument, in terms of their variability as quantified by Levenshtein's edit distance algorithm.</p>
+                
+</div1>
+</front>
+
+<body>
+    <head type="heading">"In order to organize the Government of the Indian Territory. . .":
+Comparing variants of the 1870 <title>Okmulgee Constitution</title></head>
+
+<milestone unit="crosses"/>
+
+<div1>
+
+    <epigraph><quote>“Knowledge is affected at the stage of reproduction by the errors that seem to inevitably creep in whenever a text is reproduced.  From the hand copyists of the ancient world to the latest computer composition techniques of today, the reproduction of texts has always involved the introduction of error.”</quote>
+
+        <bibl>Neavill (1975, p. 29)</bibl> 
+    </epigraph>
+    
+<milestone unit="crosses"/>
+
+<div2>
+
+
+<p>The creation of the <title>Okmulgee Constitution</title> is a little known but significant chapter in the history of American Indians, and especially for that of the Indian Territory and Oklahoma.  This instrument was fashioned in 1870, and contemplated at further annual joint tribal meetings mandated by the federal government following the Civil War.  The Five Civilized Tribes &#8212; i.e., the Cherokee, Chickasaw, Choctaw, Creek, and Seminole &#8212; had been removed from the southeastern United States in the first half of the nineteenth century to lands obtained through the Louisiana Purchase.  At the beginning of the American Civil War, these and other tribes of the Territory consummated <ref target="http://csaindiantreaties.unl.edu/">nine treaties</ref> with the Confederate States of America (CSA).  Following that conflict and those alliances, the tribes found themselves in a difficult position with the federal government: in a series of seven stipulations presented at Fort Smith in 1865 and in subsequent treaties in 1866, the federal government dictated the future for these peoples.  Proviso number six from 1865 stated that "[i]t is the policy of the government, unless other arrangements be made, that all the nations and tribes in Indian territory be formed into one consolidated government, after the plan proposed by the Senate of the United States, in a bill for organizing the Indian territory" (Message of the President of the United States, and accompanying documents, to the two Houses of Congress, at the commencement of the first session of the Thirty-ninth Congress, 1866, p. 503).</p> 
+
+<p>A model for tribal meetings to expedite the development of such a formalized government for the Indian Territory was outlined in the provisions of Article 12 of the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0942.htm"><title>Treaty with the Cherokee, 1866</title></ref> (Kappler, 1904, pp. 945-946): "The Cherokees agree that a general council, consisting of delegates elected by each nation or tribe lawfully residing within the Indian Territory, may be annually convened in said Territory, which council shall be organized in such manner and possess such powers as hereinafter prescribed."  Six separate provisions in that Article defined the expectations of the federal government, and a series between July 1870 and March 1875 of six modest appropriations bills for $61,500 was passed to fund these activities.<ref n="1" target="n1"></ref></p>  
+
+    <p>The tribes, after much delay, reacted to those 1865 and 1866 federal requests as one means to protect themselves against the impending avalanche of settlers and political changes (Burton, 1995, pp. 26-27).  Nine council meetings took place in the Creek capital of the Territory during September and December of 1870; June of 1871 and 1872; May and December of 1873; May 1874; and May and September of 1875.  Their task was to construct the basis of a single federal <emph>state</emph> from a number of sovereign Indian nations, an unprecedented opportunity.  <ref target="okmulgee_constitution_tableIa.htm" n="Okmulgee_Constitution_TableI.xls">Table IA</ref> displays the range of delegate tribes, taken from the <title>Journal</title> issues, in attendance at each of the nine sessions.  An additional column in <ref target="okmulgee_constitution_tableIa.htm" n="Okmulgee_Constitution_TableI.xls">Table IA</ref>  identifies, for reference, each tribe's page number in Wright's <title>A Guide to the Indian Tribes of Oklahoma</title> (1951).</p>
+
+<p>These few sessions were thus motivated by the tribes' desire to acquire a secure final homeland and by federal enthusiasm for these groups to postulate a constitution for a "Territory of Oklahoma" (see <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0918.htm"><title>Treaty with the Choctaw and Chickasaw, 1866</title></ref>; Kappler, 1904, p. 922) in preparation for that forthcoming Indian statehood.  The proposed entity's name reflected the tribes' total commitment to such an outcome: <emph>Oklahoma</emph> was derived from a "combination of two Choctaw words 'Okla' meaning people and 'Humma' red" (Origin of county names in Oklahoma, 1924, p. 80).  The name was suggested by Reverend Allen Wright of the Choctaw Nation, who acted as a Commissioner for the federal government during the negotiations of the <title>Treaty with the Choctaw and Chickasaw, 1866</title> that proposed that the Superintendent of Indian Affairs would serve as the Governor of this new Territory (Wright, 1936, p. 156).</p>
+
+<p>During the December 1870 event, a formal constitution was promptly created, with slight revisions implemented at the May 1875 gathering.  The document was crafted along the lines of other tribal constitutions, with direct or at least strong reference to the 1839 Cherokee, 1860 Choctaw, 1867 Creek, and 1867 Chickasaw constitutions in particular.<ref n="2" target="n2"></ref>   Altogether, there were 41 Chickasaw, 40 Choctaw, 38 Cherokee, and 18 Creek passages that were likely considered to direct the weaving of the final 1870 <emph>Okmulgee</emph> wording.  It is apparent that the federal and CSA <title>Constitutions</title> &#8212; which were highly correlated themselves &#8212; were consulted (see the Appendices in Bernholz, 2011 for more on these transfers).  Hill (1910, p. 487) called the <emph>Okmulgee</emph> instrument "the first practical plan for the government of the Indian Territory."</p>
+</div2>
+
+<div2>
+<head><title>Okmulgee Constitution</title> of 1870</head>
+
+    <p>The tribes collated their experiences to create the <title>Okmulgee Constitution</title> (see the text in <ref target="#appendix">Appendix I</ref>), but their own individual documents reflected intratribal awarenesses or concerns that were lost in the final fabric of <emph>Okmulgee</emph>.  Indeed, it would have been nothing short of negligence if the Okmulgee Council participants had disregarded previous constitutions &#8212; federal, state, <emph>or</emph> tribal &#8212; during their planning of their proposal.  Regardless of the contemporary newspaper reports in the mid-West and East that offered hyperbole when describing Indians beyond the Mississippi River, the <title>Okmulgee Constitution</title> established that the tribes took their task and responsibility very seriously (see Williams, 1879); that their constitutional product was a sound prototype, based on acceptable constitutional parameters; and that it clearly would be perceived as a manifestation of <emph>their</emph> needs and dreams for a better future.  Evidence of the influence of a previous <emph>state</emph> constitution, as Burton (1995, p. 74) had referenced with regard to the development of these four earlier Indian instruments, is readily available: Article 11 of the <ref target="http://www.tngenweb.org/law/constitution1796.html">1796 <title>Tennessee Constitution</title></ref>, for example, pertained to that instrument's Declaration of Rights and §6 stated a matching outcome to that found in <emph>Okmulgee</emph>: "That the right of trial by jury shall remain inviolate" (Poore, 1877, p. 1674).</p>
+
+<p>The administrative responsibilities to organize productive Okmulgee Council meetings were substantial, given the multiplicity of tribal differences and their histories.  The growing list of interpreters &#8212; from six to eleven members &#8212; between the December 1873 adjourned fourth and the May 1874 fifth Council sessions illuminated the ensuing complexity of these proceedings (<title>Journal of the [Adjourned Session of the] Fourth Annual Session of the General Council of the Indian Territory</title>, 1874, p. 3 and <title>Journal of the Fifth Annual Session of the General Council of the Indian Territory</title>, 1874, p. 4).  Further, the efforts made to include the "wild" tribes in the Territory's future considerations were clearly a combination of a manifestation of deeply felt tribal internationalism  with compliance with federal demands specified in the second Fort Smith stipulation &#8212; "Those settled in Indian territory must bind themselves, when called upon by the government, to aid in compelling the Indians of the plains to maintain peaceful relations with each other, with Indians in the territory, and with the United States" (Message of the President of the United States, and accompanying documents, to the two Houses of Congress, at the commencement of the first session of the Thirty-ninth Congress, 1866, p. 502).  The inclusion of remarks, made by a wide variety of delegates and found in the later <title>Journal</title>s for the fifth and the sixth annual sessions, was an expression of concern for enhanced participation by <emph>all</emph> tribes in the Indian Territory.</p>
+
+<p>This dream of an Indian state actually died slowly between 1866 and the turn of the twentieth century, absent all the efforts extended by the tribes of the Territory; Buck (1907) highlighted many of the difficulties that arose between those in favor of, and those against, Indian statehood.  Abel (1908, p. 101) provided statements, beginning in the year 1868, from the files of the Southern Superintendency that decried the delay in the formation of the General Council specified in the 1866 treaties,<ref n="3" target="n3"></ref>  the crucial organizational element that was assigned the responsibility of the eventual creation of the <title>Okmulgee Constitution</title>.</p>
+
+<p>Nevertheless, what is critical to an understanding of the <title>Okmulgee Constitution</title> is the boldness and aptitude with which the Cherokee, Chickasaw, Choctaw, and Creek tribes had initiated diplomacy, formulated pacts with neighboring tribes, created functional constitutions, and instigated progress well before the post-Civil War demands espoused by the federal government.  Indeed, in the case of the Cherokee, four decades separated their 1827 constitution &#8212; a document carefully modeled after the federal instrument &#8212; from the <emph>Okmulgee</emph> proceedings.  That initial Cherokee perspective had been formed in the very teeth of early yet intense removal activities, when the tribe was then fighting (and had been so since the first hints of potential removal in 1809) to remain in the Southeast.  This profound step by the Cherokee &#8212; and the inability of the other three tribes to make such a smooth transition over the next several decades &#8212; induced for these entities various delays in achieving badly needed institutional adaptations.  In fact, the Choctaw had prepared a constitution prior to that of the Cherokee, but no substantial adjustment in functional organization was accomplished (Champagne, 1992, p. 1).</p>
+
+<p>In the Message of the President of the United States communicating a copy of the proceedings of the council of Indian tribes held at Ocmulgee, in December, 1870 (1871, p. 1), President Grant declared his views on establishing for the tribes  "forms of territorial government compatible with the Constitution of the United States and with previous custom toward communities lying outside of State limits."  The supporting documents in that Senate Executive Report substantiated the efforts expended at the Okmulgee Council meeting, but the President's initial remark quickly indicated difficulties of situational perception.  As Applen (1971) correctly titled his article, the tribes were under the distinct impression (both psychological <emph>and</emph> legal) that there was to be a direct transition between the current Indian Territory and a full-blown <emph>state</emph> reserved to the tribes.  Undoubtedly, from the very beginning, the tribes operated under the idea that the federal government wanted them to fashion an entity devoted to the needs of the tribes, and that their council meetings, specified in no uncertain terms by the federal government after the Civil War and commencing with the June 1870 session, were to culminate in nothing less than that achievement.</p>  
+</div2>
+
+<div2>
+<head>Comparing text variants</head>
+
+<p>The universe of text analysis relies heavily upon the ability to discern differences among variants of selected text.  For some writers, constant tinkering with their material yields an abundance of evolving prototypes that propel such later analyses; the works of Walt Whitman may serve as an appropriate model of this behavior.<ref n="4" target="n4"></ref>   Bernard Cerquiglini's remark that "medieval writing does not produce variants; it <emph>is</emph> variance" (1999, pp. 77-78) should be declared the general motto underlying all text analyses that wish to ferret out the alleged isotopes (Higgins, 1997) of literature.  Variability, though, is not reserved exclusively to medieval texts, but rather it acts as an incentive, as well as a cause, for sustained mining of all forms of materials.  Even more mundane manuscripts &#8212; for treaties between sovereigns or for constitutions destined to guide such entities &#8212; will yield their own rewards, if tested.  It is the variance, not the rigidity, which give these texts a life of their own.  Additionally, their hidden richness makes an examination of the <title>Okmulgee Constitution</title> variants so much more attractive.  The forces of legal strictness; unknown futures; and social diversity all combined to saturate this instrument with its own special mix of psychosocial components.</p>
+</div2>
+
+<div2>
+<head>Text analysis tool selection</head>
+
+<p>There exists a particularly useful device with which to address these kinds of text analyses.  Vladimir Levenshtein, the  2006 Institute of Electrical and Electronics Engineers Richard W. Hamming Medal winner "for contributions to the theory of error-correcting codes and information theory," proposed in 1966 an algorithm to assess information transfer, where the three operations of deletion, insertion, and substitution may be engaged to correct errors contained in a transmitted string.  To demonstrate its applicability, Soukoreff and MacKenzie (2001) used the two string models <emph>quick brown fox</emph> and <emph>quixck brwn fox</emph> as prototypic examples of presented and transcribed texts in such a task.  While as many as six individual errors may be present in this communication &#8212; established by the failure of the <emph>xck br</emph> substring to accurately convey the initial <emph>ck bro</emph> material &#8212; the two most likely errors may be considered to be the insertion of the character <emph>x</emph> and the omission of the character <emph>o</emph>.  As a result, these discrepancies yield a computed Levenshtein's edit distance (LED) score of 2 for this test, or for the total number of correcting operations required to first delete the <emph>x</emph>, and then to accomplish the insertion of the <emph>o</emph>.  Identical strings &#8212; <emph>quick brown fox</emph> and <emph>quick brown fox</emph> &#8212; would require no corrective operations and would thereby produce a computed LED score of zero.  Further, any observed LED must be less than or equal to the maximum length of the two strings, since replacing an entirely missing sequence with one of length <emph>n</emph> would require no more than <emph>n</emph> operations: here, <emph>quick brown fox</emph> vs. _____ _____ ___.  The Levenshtein algorithm, thus, is very adaptable and has served in many diverse applications, including vehicle travel time measurement scenarios (Takahashi and Izumi, 2006) and the development of ontologies (Ginsca and Iftene, 2010), as well as the foundation of spell checking (Kukich, 1992) and plagiarism software (Zini, Fabbri, Moneglia, and Panunzi, 2006).  However, in text analyses, these LED scores are particularly intuitive, since any string comparison that supports an LED of zero means complete similarity between the elements in question, while any non-zero returned value immediately identifies disparities <emph>and</emph> the magnitude of such differences.</p>
+
+<p>These LED calculations may be made at two levels.  First, they may be computed at the token or element level.  Two relevant examples are apparent in the test involving the terms <emph>dog</emph> and <emph>dig</emph> with its LED score of 1, and in the cumulative score of 14 that is generated in an evaluation of just the first line of Walt Whitman's 1855 original and of his later 1891 revision of <title>I Sing the Body Electric</title>, i.e., for an assessment that evaluates the dissimilarity between "<ref target="http://whitmanarchive.org/published/LG/1855/whole.html">The <emph>bodies</emph> of <emph>men and women</emph> engirth me and I engirth them</ref>" and "<ref target="http://whitmanarchive.org/published/LG/1891/whole.html">The <emph>armies</emph> of <emph>those I love</emph> engirth me and I engirth them</ref>."  In this last scenario, the italicized words mark the four pairs of tokens that induce that LED score of 14 across these twelve elements.</p>  
+
+<p>A second option may be administered to ascertain disparities between entire documents.  In theory, this latter approach might facilitate an examination of various editions of a specific author's work, or of a collation of statutes, or of similar ensembles.  One advantage of such multiple comparisons occurs whenever the computed cumulative LED amount increases, decreases, or remains the same for later copies of the same material.  Hypotheses relative to these three possible outcomes may stimulate the formation of a simple set of assumptions of the provenance of the test materials.  Three possible suppositions for these three theoretical LED conditions suggest that they could be due to a) a lack of editing expertise across the suite of documents that grew worse over time, as evidenced by the accumulation of errors reflected in an increasing cumulative LED value; b) there might have been some degree of editorial intervention that corrected some resident errors and so the LED number automatically diminished over subsequent versions; or c) the constant LED quantity simply signaled that no apparent intercession occurred between the text of the first and the creation of the second (and/or later) rendition(s) and that the subsequent one(s) was a mere facsimile of the initial form.</p>
+
+<p>The flexibility found within the realm of Whitman's poetry, however, is absent &#8212; or is nearly so &#8212; from legal contracts and treaties.  Expressions of variability among alleged replications of these formats have led to endless bouts of litigation.<ref n="5" target="n5"></ref>   Indeed, in a previous analysis of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (Bernholz and Pytlik Zillig, 2009 and 2011), the published federal texts for that instrument were interrogated in order to produce a final, correct version of the transaction, incorporating both the original document's material and a later amendment made by the Senate to one of its articles.  As one consequence of that study, it was concluded that <title>Fort Laramie</title> had never been published in an entirely error-free state.<ref n="6" target="n6"></ref></p>
+</div2>
+
+<div2>
+<head>LED score sensitivity and the <title>Okmulgee Constitution</title> test suite</head>
+
+    <p>Just as in the <title>Fort Laramie</title> study, the test data in this <title>Okmulgee Constitution</title> examination consisted of a vertically aligned joint set of the various published texts, stripped of delimiters and constructed to a uniform length, where any single document's alignment was augmented if needed by blank pad elements to fill in any absent subsection(s) of that version.  As an example of this adaptation, two parallel texts might contain the terms <emph>two-thirds</emph> vs. <emph>two thirds</emph> which, when placed in these vertical arrays, would require that their element sequences occupy in the first instance just one location, but then two places for the second.  A blank pad in the former corresponds to the latter's <emph>thirds</emph> term and thereby aligns the two text segments.  The fundamental, or base, document &#8212; the <emph>two-thirds</emph> one here &#8212; may require padding in order to incorporate text styles from later interpretations, or vice versa.  The <title>Territory</title> variant induces this modification at line number 879 and 880 of the data in <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref>, relative to the <title>Council</title> standard text:</p>
+</div2>
+
+<div2>
+
+<table>
+<row>
+<cell></cell><cell><hi rend="bold_ital">Council</hi></cell><cell><hi rend="bold_ital">Territory</hi></cell></row>
+<row>
+<cell>879</cell><cell>two-thirds</cell><cell>two</cell></row>
+<row>
+<cell>880</cell><cell></cell><cell>thirds</cell></row>
+</table>
+
+<p>The application of the LED algorithm to these data would compute two edit distance scores, one for each of the <emph>two-thirds</emph> vs. <emph>two</emph> and of the [<emph>blank</emph>] vs. <emph>thirds</emph> rows, and would return individual values of 7 and 6, respectively, for a cumulative LED of 13.  Similarly, two variants with the terms <emph>to wit</emph> and <emph>to-wit</emph> (see 1041 and 1042 in Table IIA) would initiate an LED score composed of 4 plus 3 changes, or a cumulative score of 7.  Note that a contrast between <emph>two-thirds</emph> and <emph>two thirds</emph> (or <emph>to wit</emph> vs. <emph>to-wit</emph>) as two strings instead of two pairs of elements would generate in each instance a cumulative LED of just 1, i.e., through the single insertion cost of the hyphen separating the two words in each of the target pairs.  The vertical text distribution format employed here thus maximized these potential cumulative LED scores; the process was very sensitive to disparities.  In addition, Levenshtein's process as designed returns evidence of <emph>all</emph> text differences, including those of capitalization, but since the main objective of that earlier study was concerned with the contents of the <title>Fort Laramie</title> treaty rather than with their presentation or format, all materials were first normalized to lower case prior to similarity testing in order to reduce unnecessary background noise in these calculations.  These assessment conditions were replicated for the <title>Okmulgee</title> Constitutional data.  Document titles were included as part of each file's data.</p>
+
+    <p>For the assessment conducted here, fourteen documents &#8212; contained in thirteen publications &#8212; were considered.  These consisted of three primary documents, i.e., the <title>Okmulgee Constitution</title> created by the General Council in December 1870 and two versions of the revised instrument from September 1875; one Senate bill text that cited the material; five additional federal representations, three popular press reports, and one compendium example of the original <emph>Constitution</emph>; plus one other federal rendition of the revision.   They are listed below, and the bracketed names are used as brief identifiers within the remaining text and Tables.  The "1870 Constitution" worksheet in <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref> contains the first series of data, and the "1875 Revision" one in <ref target="okmulgee_constitution_tableIIb.htm" n="Okmulgee_Constitution_TableII.xls">Table IIB</ref> displays the later set.</p>
+</div2>
+
+<div2>
+<head>Texts providing the original December 1870 document (N = 11)</head>
+<list>
+  <item><title>Journal of the General Council of the Indian Territory</title> (1871) &#8212; 20 December 1870 &#8212; [<emph>Council</emph>];</item>
+
+  <item>Indian Territory, Oklahoma (1871) &#8212; 19 January 1871 &#8212; [<emph>Territory</emph>];</item>
+
+  <item>A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twenty, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States [20 and 25 January 1871] (1871c) &#8212; 25 January 1871 &#8212; [<emph>HarlanB</emph>].  Note that this is the <emph>amended</emph> version of Senate bill number 1237 that was introduced on 20 January 1871 by Senator James Harlan (R-IA).<ref n="7" target="n7"></ref>  That earlier document is denoted as <emph>HarlanA</emph> (A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twenty, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States [20 January 1871], 1871b).  A third bill was created on 9 March 1871 as Senate bill number 80 and is named <emph>HarlanC</emph> in a series of subtests within this analysis (A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twentieth, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States, 1871a).  The text of <emph>HarlanC</emph> is not presented with the other variants, but is used in a small inquiry comparing these legislative materials;</item>
+
+  <item>Message of the President of the United States, communicating a copy of the proceedings of the council of Indian tribes held at Ocmulgee, in December, 1870 (1871) &#8212; 30 January 1871 &#8212; [<emph>Ocmulgee</emph>];</item>
+
+  <item>Message of the President of the United States, communicating the second annual report of the Board of Indian Commissioners (1871) &#8212; 10 February 1871 &#8212; [<emph>Commissioners</emph>];</item>
+
+  <item>Investigation of Indian frauds (1873) &#8212; 3 March 1873 &#8212; [<emph>Frauds</emph>];</item>
+
+  <item>Constitution of the Indian Territory (1873a and b) &#8212; 21 and 28 June 1873 &#8212; [<emph>Vindicator</emph>];</item>
+
+  <item>In the Senate of the United States (1879, pp. 613-620) &#8212; 11 February 1879 &#8212; [<emph>SenateA</emph>];</item>
+
+  <item>Okmulgee Constitution (1925) &#8212; September 1925 &#8212; [<emph>Chronicles</emph>].  This text is available on the World Wide Web, through the Oklahoma State University Library's Electronic Publishing Center.  The document is prefaced by a useful introduction, but the deployment in the Oklahoma State text of the error notation [<emph>sic</emph>], to identify twelve alleged misspellings, was not implemented in this study;</item>
+
+  <item>Beckett (1930) &#8212; 1930 &#8212; [<emph>Beckett</emph>]; and</item>
+
+  <item>Wilkins (2009) &#8212; 2009 &#8212; [<emph>Wilkins</emph>].</item>
+</list>
+</div2>
+<div2>
+<head>Texts presenting the revised September 1875 document (N = 3)</head>
+
+<list>
+<item><title>Journal of the Sixth Session of the General Council of the Indian Territory</title> (1875) &#8212; 15 May 1875 &#8212; [<emph>Sixth</emph>];</item>
+
+<item><title>Journal of the Adjourned Session of the Sixth General Council of the Indian Territory</title> (1875) &#8212; 9 September 1875 &#8212; [<emph>Adjourned</emph>]; and</item>
+
+<item>In the Senate of the United States (1879, pp. 620-627) &#8212; 11 February 1879 &#8212; [<emph>SenateB</emph>].</item>
+</list>
+
+    <p>The chronological order of these materials is indicated, with the following provisos.  First, for the <title>Journal of the General Council of the Indian Territory</title>, the <title>Journal of the Sixth Session of the General Council of the Indian Territory</title>, and the <title>Journal of the Adjourned Session of the Sixth General Council of the Indian Territory</title> sessions, the final meeting date was selected for these conferences.  Second, it is now impossible to confirm that the initial <title>Okmulgee Constitution</title>, presented in the <title>Journal of the General Council of the Indian Territory</title> (1871), was printed prior to <emph>any</emph> of the other 1871 federal materials.  The same concern affected the three sources of the revised, September 1875 instrument (i.e., in the <title>Journal of the Sixth Session of the General Council of the Indian Territory</title>, the <title>Journal of the Adjourned Session of the Sixth General Council of the Indian Territory</title>, and the In the Senate of the United States publication), but in that case, the question of publishing order was mitigated by the range of dates.  Third, the <emph>Constitution</emph> article from the <title>Chronicles of Oklahoma</title> was assigned the publication date of the journal's issue that contained this piece.  Fourth, both the <emph>Beckett</emph> and the <emph>Wilkins</emph> entries were marked with their respective year of publication.  Finally, <emph>Wilkins</emph> was a special case that was purposely published in a shortened version.  LED analyses of this specific rendition will be discussed separately, since a clear provenance course may be proposed from the available text even though part of its full text was absent.  Each of the <emph>Wilkins</emph> element cells in the "1870 Constitution" sheet of <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref> beyond line number 3595 has an em dash (&#8212;) to indicate that no physical data &#8212; and therefore no potential error &#8212; existed at this point.  David Wilkins also included the apparent source for his <title>Okmulgee Constitution</title> rendition (2009, p. 134): the Message of the President of the United States, communicating a copy of the proceedings of the council of Indian tribes held at Ocmulgee, in December, 1870 (1871), i.e., the document that was identified in this study as <emph>Ocmulgee</emph>.</p>
+
+<p>The variant list immediately highlighted a substantial chronological break between the nineteenth century materials and those full texts created in the twentieth century: both <emph>Chronicles</emph> and <emph>Beckett</emph> were, respectively, popular press items from a journal and a book dedicated to the history of Oklahoma.  The <emph>Wilkins</emph> entry stood as an abbreviated entry in a recent compilation of pertinent documents that have affected the overall history of the tribes.  All three of these versions were included in this analysis because, in many ways, they are probably the most easily accessible and, therefore, most frequently read accounts of the <title>Okmulgee Constitution</title> since its initial publication, either as an official document within the federal government (see <emph>SenateA</emph> and <emph>SenateB</emph> for both the original and the revised <emph>Constitution</emph> texts), or within local Indian Territory media (see <emph>Vindicator</emph>, published in the Choctaw Nation's newspaper of that name).<ref n="8" target="n8"></ref>   These subsequent renditions signaled a sustained interest in these affairs, not only in terms of the evolution of Indian Territory into the current state of Oklahoma, but also as a representative instrument that helped form and power the history of American Indians.  Wilkins' Introduction statement made a particularly relevant observation regarding his overall compilation of these diverse documents.  He said that "[t]he startling diversity evident in native governing structures, along with the value systems that underlay them, indicates that native peoples were more than willing to embrace new legal traditions and institutions in an effort to adjust to the shifting political, economic, legal, cultural, and vastly changed territorial conditions.  At the same time, varying segments of many nations strove to maintain precontact sociocultural norms, institutions, and ceremonial traditions to distinguish themselves from other native nations and the inexorable tide of intruding powers" (2009, p. 2).  Thus, this single tribal constitution may be thought to distribute more than just the words describing a vision for Indian independence on the Plains.  It can reveal, as Wilkins proposed, the willingness of a number of tribes to adapt &#8212; almost without limits &#8212; and to form a meaningful confederation out of the chaos of removal, the Civil War, and the prospect of losing their lands, so that they as sovereign entities would not vanish.</p>
+</div2>
+
+<div2>
+<head>Levenshtein edit distance calculations for the <title>Okmulgee Constitution</title> variants</head>
+
+    <p>The perpendicular arrangement of the variants induced alignment across individual elements within these texts.  Introduced blank pads aided the rectangularization of the versions, since all of the presentations had disparate lengths (see the "Data characteristics" worksheet of <ref target="okmulgee_constitution_tableIb.htm" n="Okmulgee_Constitution_TableI.xls">Table IB</ref>); these blank pads are purposely highlighted in <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref> and <ref target="okmulgee_constitution_tableIIb.htm" n="Okmulgee_Constitution_TableII.xls">IIB</ref> for all alternative texts.  The use of such additions may be observed immediately in line number 1 of <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref>, where all renditions but <emph>Beckett</emph> required this intervention to address the sole appearance of the first element <emph>the</emph> in the latter's title.  Similarly, the insertion of blank elements in line number 50 through 52 in each variant except <emph>HarlanB</emph> balanced the almost total utilization of the term <emph>1866</emph> with <emph>HarlanB</emph>'s substitute application of <emph>eighteen hundred sixty-six</emph>.  This inclusive standardization was the first step towards uniformly calculating the LED scores required to index the inherent dissimilarities among these texts.</p>
+
+    <p>Comparisons between pairs of columns &#8212; where <emph>Council</emph> served as the exemplar &#8212; yielded 3,866 individual token LED scores for each set of evaluations.  The sum of these LEDs gave a cumulative score that expressed the magnitude of textual changes &#8212; here, calculated in bytes &#8212; necessary to bring that specific pair of vertical text arrays into register.  A pair of identical texts would return zero errors and, therefore, set the lower bound of any cumulative LED at zero.  The first two lines reported in <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">Table IIIA</ref> provide the number of errors observed and their cumulative byte value.  This Table, for example, specified that there were 52 pairs of non-matching elements consisting of 216 bytes in the comparison of the <title>Okmulgee Constitution</title> as published in <emph>Council</emph> and <emph>Territory</emph>, but only 18 differences totaling 73 bytes in a test of the terms found in <emph>Council</emph> and <emph>HarlanB</emph>.  The rectangular nature of these data allowed direct comparisons among the returned cumulative LED values, unencumbered by the need to readjust the findings based upon unequal text element totals.  Thus, the observed error counts of 18 for the <emph>Council</emph>-<emph>HarlanB</emph> and 15 for the <emph>Council</emph>-<emph>Commissioners</emph> trials suggested similar accuracy in reproducing the <emph>Council</emph> text by each of <emph>HarlanB</emph> and <emph>Commissioners</emph>.  The cumulative LED score of 73 vs. 46 bytes additionally proposed that, even with approximately the same number of faults, <emph>Commissioners</emph> was a marginally more accurate copy of <emph>Council</emph> than was <emph>HarlanB</emph>, based on byte accuracy.</p>
+
+    <p>The expected cost and expected benefit values assembled in <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">Table IIIA</ref> will be discussed below, but they may be understood as indicators of known textual problems and of known acceptable remedies, respectfully, that may be legitimately applied to diminish the overall net noise tally to create a true index of disparity between text arrays.  The initial results from these <emph>Council</emph> comparisons stimulated other tests, e.g., an examination of the <emph>HarlanA</emph> vs. <emph>HarlanB</emph> was calculated to study the <title>Okmulgee Constitution</title> text presented in Congress within a few days (i.e., on 20 and 25 January 1871, respectively) as part of an initial and then as an amended bill, and published on each occurrence by the same federal printers.  These special test outcomes were a window into that publishing domain.</p>
+
+    <p>The concatenation of all errors indicated that 299 individual text elements varied between one and ten times each across all variants, including the truncated <emph>Wilkins</emph> one.  Table <ref target="okmulgee_constitution_tableIIIb.htm" n="Okmulgee_Constitution_TableIII.xls">IIIB</ref> shows the number of inaccuracies and the frequency of their occurrences.  It also presents all individual discrepancies which, when multiplied by their error state counts, provides a grand total of 582 errors.</p>
+</div2>
+
+<div2>
+<head>Initial observations</head>
+
+<p>The <title>Fort Laramie</title> study indisputably set the foundation for this <title>Okmulgee Constitution</title> endeavor.  It was not only a test bed for an evaluation of the Levenshtein metric, but provided insight regarding outcome possibilities.  In general, two "families" of errors were observed that might be considered of major and of minor importance.</p>
+
+<p>In the major category, comparison errors appeared either as text incursions or as text exclusions.  In the <title>Fort Laramie</title> tests, the former shortfall was revealed in Kappler's 1929 version of the treaty, with a redundant section of sixteen words <emph>thence up the north fork of the Platte River to the forks of the Platte River</emph> in Article 5 (Kappler, 1929, p. 1066).  The latter, omission fault was evident by passages absent from the 1873, 1903, 1904, and 1929 versions of the treaty that failed to include a nine-word phrase in the Article 5's boundary description for the Gros Ventre, Mandan, and Arikara territory that had been a part of the 1851 original text.  The original document read <emph>thence up the Yellow Stone river to the mouth of Powder River; <hi rend="bold">thence from the mouth of Powder River</hi> in a South-easterly direction to the head waters of the Little Missouri river</emph>, where the seven bold words were not replicated in any of those later 1873, 1903, 1904, or 1929 compilations.  The surplus Platte River section may be seen in line number 353 through 368 of the 1929 rendition of the instrument, and the nonappearance of the Powder River sequence at line number 471 to 477 in the 1873, 1903, 1904, and 1929 documents in the <ref target="http://treatyoffortlaramie1851.unl.edu/Table1-LED.pdf">composite <title>Fort Laramie</title> data</ref>.  These significant departures from similarity provided guidance in determining the provenance of these various <title>Fort Laramie</title> presentations: the exclusion strongly tied together the 1873, 1903, 1904, and 1929 texts, while it simultaneously separated them from the set of 1851, 1852, and 1884 productions.  The historical sequence was thus reinforced by these observations.  The binding together of the 1903, 1904, and 1929 examples through these data was, in part, a reflection of their sequential production by Charles J, Kappler for successive second volumes in 1903 and 1904 of his <title>Indian Affairs: Laws and Treaties</title> ensemble that must have used as its primary source the material found in <title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> (1873).  The apparent linkage of the 1851, 1852, and 1884 texts was due to a certain extent by the Senate itself, which created the 1852 document as it considered the original, 1851 treaty transaction, while the 1884 became a relevant element in the third edition of a federal collection entitled <title>Laws of the United States Relating to Indian Affairs: Compiled from the Revised Statutes of the United States enacted June 22, 1874, and from Statutes at Large from that date to March 4, 1883: Also, Special Acts and Resolutions Previous to the Enactment of the Revised Statutes, not Embraced in or Repealed by the Revision: Also, List of all Ratified Treaties and Agreements Made with the Several Indian Tribes</title> (1884, pp. 317-319).</p>
+
+<p>The second, minor class of errors included spelling discrepancies and the replacement of words.  In <title>Fort Laramie</title>, the terms <emph>head chiefs</emph>, <emph>head men</emph>, <emph>fifty one</emph>, <emph>north westerly</emph>, <emph>south-easterly</emph> and <emph>south easterly</emph>, <emph>south-westerly</emph>, and <emph>Yellow Stone</emph> were part of the original treaty lexicon, while post-1851 documents delivered <emph>headmen</emph>, <emph>fifty-one</emph>, <emph>northwesterly</emph>, <emph>southeasterly</emph>, <emph>southwesterly</emph>, and <emph>Yellowstone</emph>.  As noted above, the vertical arrangement of the data maximized the LED for these comparisons.  In addition, the term <emph>alonge</emph> emerged in the 1873 reproduction (see line number 492 of the <ref target="http://treatyoffortlaramie1851.unl.edu/Table1-LED.pdf">data set</ref>), but in no other example.  Here, the concept of the Levenshtein edit distance score as a <emph>benefit</emph> indicator prevailed: it would require one byte to delete that terminal <emph>e</emph> from <emph>alonge</emph> to make the necessary adjustment to align the 1871 version with the original treaty text.  Such demonstrations were valuable for a more complete <title>Okmulgee</title> analysis.</p>
+</div2>
+
+<div2>
+<head>Assignable costs in the <title>Okmulgee Constitution</title></head>
+
+<p>There were four major textual problems within the comparisons of variants of the December 1870 <emph>Council</emph>.  Two had to do with individual nine word exclusions, one was the misspelling of the Council Secretary's surname, and the last was an instance of the complete absence of the text of the Schedule to the Constitution.</p>
+
+<p>The first thirty byte exclusion &#8212; <emph>and on the south by the state of Texas</emph> &#8212; was defined here as the nine item, Texas boundary exclusion, and it was absent from the first sentence of Article 1, §1 in the <emph>Commissioners</emph>, <emph>Frauds</emph>, and <emph>Wilkins</emph> versions.</p>
+
+<p>The second exclusion was forty-two bytes and nine elements in length &#8212; <emph>of having the witnesses to testify in his presence</emph> &#8212; and is referred to as the witness exclusion.  It was missing from §6 of the Declaration of Rights in the <emph>Territory</emph> and the <emph>SenateA</emph> accounts.</p>
+
+<p>At the end of the <emph>Council</emph> document, the surname for its Secretary, George Washington Grayson, appeared as <emph>Greyson</emph>.  Four later <title>Okmulgee</title> publications corrected this error &#8212; i.e., in the <emph>Ocmulgee</emph>, <emph>Frauds</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> alternatives &#8212; and even though this was but a single-byte disparity, its presence in the last name of such a prominent General Council participant was unfortunate.</p>
+
+<p>Finally, the <emph>Wilkins</emph> rendition of the <title>Okmulgee Constitution</title> did not include the 270 term (including three pad elements) 1,309 byte Schedule to the Constitution.<ref n="9" target="n9"></ref>   This absence was similar to one observed in Kappler's 1903 version of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (1903, pp. 440-42), in which the testimonium was removed as part of an effort to save space.<ref n="10" target="n10"></ref></p>
+
+    <p><ref target="okmulgee_constitution_tableIb.htm" n="Okmulgee_Constitution_TableI.xls">Table IB</ref> identifies the presence of these four specific text elements within the ten versions of the <title>Okmulgee Constitution</title> that were created subsequent to the initial General Council presentation; the latter is presented for reference.</p>
+</div2>
+
+<div2>
+<head>Assignable benefits in the <title>Okmulgee Constitution</title></head>
+
+    <p>This <title>Okmulgee Constitution</title> examination was founded in part upon a desire to learn the provenance of the original 1870 instrument, and the contents of the underlying text and its variants.  This meant that observed discrepancies were considered as valuable data; their occurrences were not blindly defined as a fault or an error but rather as a manifestation of some difference among the versions.  Such a perspective returned two series of observations: those that may be classified as denoting assignable costs, as mentioned above, and those that may be construed as assignable benefits.  These latter were, in general, unexpected but their presence was an aid to the understanding of the condition of the base <emph>Council</emph> material.  Here, the original 1870 instrument contained the terms <emph>formes</emph>, <emph>agains</emph>, <emph>thist</emph>, <emph>cammission</emph>, and <emph>organized</emph> (see line number 43, 1970, 1974, 1978, and 3604, respectively, in Table <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">IIA</ref>, instead of the likely elements <emph>forms</emph>, <emph>against</emph>, <emph>this</emph>, <emph>commission</emph>, and <emph>organize</emph> in the other ten renditions.  A comparative test between that 1870 <emph>Council</emph> base document and any other account thus created an LED score that was amplified by a total of five bytes that, through their service, would induce these corrections.  Indeed, the <emph>Territory</emph> text &#8212; written less than a month after the <emph>Constitution</emph> was created at the Council gathering at the Creek capital &#8212; appeared in the <title>Congressional Globe</title> with these five corrections already in place (Indian Territory, Oklahoma, 1871).  These findings suggested that textual interrogation through the LED metric may be a potential calculator of benefit as well as cost in such studies, and an avenue towards a better understanding of editorial/printer intervention(s).</p>
+
+<p>More specifically, these five spelling errors were distributed throughout all major portions of <emph>Council</emph>.  The term <emph>formes</emph> (line number 43) appeared in the preamble (<emph>Whereas the people of the nations of Indians inhabiting the Indian Territory have agreed by treaty with the Government of the United States, and been by its agents invited to meet in General Council under the <hi rend="bold_ital">formes</hi> prescribed by the Treaties of 1866 and the action thereon of the Government of the United States</emph>....).<ref n="11" target="n11"></ref>   The <emph>formes</emph> incompatibility was reminiscent of the usage of <emph>Supintent</emph> in the same document portion of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>.<ref n="12" target="n12"></ref>   The three terms <emph>agains</emph>, <emph>thist</emph>, and <emph>cammission</emph> (line numbers 1970, 1974, and 1978) were detected in §9 of Article 4 (<emph>The Governor may grant pardons, and respites and remit fines for offenses <hi rend="bold_ital">agains</hi> the laws of <hi rend="bold_ital">thist</hi> Territory, and shall <hi rend="bold_ital">cammission</hi> all officers who shall be appointed or elected to office under the laws of the Territory</emph>.).  Finally, the element <emph>organized</emph> was inappropriate for the first line of the original Schedule to the Constitution (line number 3604): <emph>In order to <hi rend="bold_ital">organized</hi> the Government of the Indian Territory, and secure practical operation for the same, it is hereby ordained</emph>....</p>  
+
+<p>These five bytes stand alongside the absence of three bytes in <emph>SenateB</emph>, the text of the 1875 revised <emph>Constitution</emph>, when the entire specification for impeachment in §15 of Article 3 (see line number R-1451; emphasis added) was impaired by the phrase <emph><emph>no</emph> person shall be convicted <hi rend="bold_ital">with</hi> the concurrence of two-thirds of the members present</emph>.  Certainly, <emph>without</emph> was the required term in this declaration.  The few spelling bytes contained in <emph>formes</emph>, <emph>agains</emph>, <emph>thist</emph>, <emph>cammission</emph>, and <emph>organized</emph> of the original 1870 <title>Okmulgee Constitution</title> were repaired in later versions, while its revised 1875 rendition, seen in <emph>SenateB</emph>, was weakened during preparations for inclusion in the <title>Serial Set</title>.  The manipulation of those initial but incorrect terms ultimately served the desired outcome that is very much in line with Levenshtein's approach.  The title of his paper &#8212; Binary codes capable of <emph>correcting</emph> deletions, insertions, and reversals (1966; emphasis added) &#8212; demonstrated that the ultimate goal must be corrective in nature, and not just an enumeration of element differences or, specifically, of severe textual errors, as found in the impeachment phrase in <emph>SenateB</emph>.</p>
+</div2>
+
+<div2>
+<head>Implications of the exclusion table</head>
+
+    <p>Exclusions, by their very nature, make bold statements, especially in materials that are considered as, or are candidates to become, the law of the land.  The <title>Okmulgee Constitution</title> was much more than a rough draft for the future.  It was conceived as the basis of a tribal application to convince the federal government that the people of the Indian Territory were both prepared and adamant about an Indian state within the Union.  There are, thus, a number of possible yet pertinent implications that may be derived from the exclusions posted in <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref>.  In this consideration, <emph>HarlanB</emph> &#8212; an internal working document of Congress &#8212; was excluded from consideration:</p>
+
+
+  <p>It was immediately clear that the official copy of the <title>Okmulgee Constitution</title> in the <title>Congressional Globe</title>, i.e., the one called here the <emph>Territory</emph> version, was unable to convey the complete document, given the witness exclusion (line number 3330 to 3338) from the Declaration of Rights portion;</p>
+
+  <p>The <emph>Ocmulgee</emph> document published in <title>Serial Set</title> volume 1440 excluded the Texas boundary definition (line number 206 to 214) and thereby created an instrument with an ill-defined geographic range;</p>
+
+  <p>The first reliable reproduction of the original <title>Okmulgee Constitution</title> occurred in the 1871 <emph>Commissioners</emph> document of the same <title>Serial Set</title> volume, since <emph>Territory</emph> and <emph>Ocmulgee</emph> from earlier in that year had previously suffered from the witness and the Texas exclusions, respectively;</p>
+
+  <p>The Texas boundary exclusion found in the 1873 <emph>Frauds</emph> was apparently replicated directly from 1871 <emph>Ocmulgee</emph>, since these two publications were the only nineteenth century reproductions sharing this shortfall;</p>
+
+  <p>In 1879, the errors within the <emph>SenateA</emph> material directly announced that it was reproduced from the 1871 <emph>Territory</emph> account; these two alone share the witness exclusion; and</p>
+
+  <p>The 2009 <emph>Wilkins</emph> account was the most divergent from the original instrument, with both the Texas boundary specification and the entire Schedule of the Constitution missing, regardless of the editorial rationale for the latter.</p>
+</div2>
+
+<div2>
+<head>LED testing and results</head>
+
+    <p>Table <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">IIIA</ref> tallied the discrepancies found in the comparisons between <emph>Council</emph> and each of the ten renditions of the 1870 <emph>Constitution</emph>, and of the match between <emph>Sixth</emph> and the two parallel versions of the revised document from 1875.  In this display, <emph>WilkinsF</emph> is the name associated with a full-length test between all elements of <emph>Council</emph> and this variant, while <emph>WilkinsT</emph> identifies the results with the truncated text, i.e., for the analysis that excluded any LED calculations for the Schedule to the Constitution segment.  There are, in total, 849 disparities in the original document tests and 59 in the revision tests (see the original data sets of Table <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">IIA</ref> and <ref target="okmulgee_constitution_tableIIb.htm" n="Okmulgee_Constitution_TableII.xls">IIB</ref>).  However, since the analysis between <emph>Council</emph> and <emph>Wilkins</emph> was affected by the absence of the Schedule to the Constitution subdivision, which accounted for 267 tokens and three pads in the composite data table, its removal reduced the total number of true errors across all ten assessments to 582 elements.  Further, duplicate faults among tests existed that inflated the error list by their multiple occurrences &#8212; the term <emph>formes</emph>, at line number 43 in <emph>Council</emph>, was the prototypic case that induced ten observed errors in LED assessments performed across the remaining renditions.  A list of unique errors in all ten comparisons was therefore 299 elements long.  Of these, 176 items (or almost 59%) were single-event mistakes: these may be seen in the misspelling of <emph>guarantied</emph> in <emph>Territory</emph> (line number 221); in the replacement by <emph>eighteen hundred and sixty-six</emph> in <emph>HarlanB</emph> at line number 49 to 52; and in the incursion of <emph>[that are]</emph> in <emph>Wilkins</emph> at line number 3008 and 3009.</p>
+</div2>
+
+<div2>
+<head>Revelations from <title>Okmulgee</title> variant data</head>
+
+<p>Comparative text analysis thrives on inconsistency.  If variants do not emerge, the entire endeavor almost ceases to exist.  The reasons for the observed nests of dissimilarity may be simple or complex, yet no single document ever seems to pivot exclusively upon a "simple" explanation.  Far more rigid instruments, like treaties, have less potential flexibility because, as Aust (2007, p. 16) has observed, these pronouncements "are drafted according to standard forms and processed according to long-established procedures."  Their status as the law of the land should instantly further insulate them from adjustment, cosmetic or otherwise.  Nevertheless, even renditions of legal materials reveal inconsistencies, as illuminated by the recent <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> <ref target="http://treatyoffortlaramie1851.unl.edu/">results</ref> (Bernholz and Pytlik Zillig, 2009).  It was quickly apparent that the situation would be no different with the <title>Okmulgee Constitution</title>: the <title>Okmulgee</title> data tables mimicked all error formats found in the <emph>Laramie</emph> study.</p>
+
+<p>It is critical to keep in mind that all faults are not created equal, and that their distinct level of severity has a range that almost mirrors that of their collective richness of divergence.  The <emph>thence up the north fork of the Platte River to the forks of the Platte River</emph> incursion in the 1929 <emph>Laramie</emph> account was not a stream of sixteen randomly selected terms that was fortuitously deposited into a contract among sovereigns.  Rather, it was an utterance that was very highly correlated with the surrounding document syntax, even in its unwarranted state.  Thus, errors embedded in compared texts may be difficult to observe easily, other than through mechanical processes like those employed in the <emph>Laramie</emph> and <title>Okmulgee</title> studies that maximize their visibility.  Indeed, the course of making such measurements in this precise manner amplified minute alterations: testing <emph>Yellow Stone</emph> and <emph>Yellowstone</emph> in <emph>Laramie</emph> in this manner &#8212; through allocation to an LED table as a pair of two terms, <emph>Yellow</emph> and <emph>Yellowstone</emph>, and <emph>Stone</emph> vs. [<emph>blank</emph>] &#8212; turned a single-byte incongruity into two trial scores of five and five, or ten total bytes.  On occasion, an editorial decision to make clearer a variant of the <title>Okmulgee Constitution</title> induced new calculated Levenshtein debt.  David Wilkins established bracketed terms to expedite this clarification effort, but his use of <emph>[to]</emph> at line number 438; of the suffix to create <emph>process[es]</emph> at line number 2643; and of two occurrences of <emph>[that are]</emph> at line number 3008 and 3009 and at 3574 and 3575, accounted for four, four, nine, and nine LED bytes, respectively, within this exercise.  Note too, though, that an analogous editorial influence led to the correction of the five familiar elements <emph>formes</emph>, <emph>agains</emph>, <emph>thist</emph>, <emph>cammission</emph>, and <emph>organized</emph> from the initial publication of the <emph>Constitution</emph>.  These now valid spellings cannot be blamed on subsequent inattentive or error prone printers, as many subsequent textual blunders appear to be.  Thus, squeezing a large LED calculation from the almost invisible shortfall evident in the contrast between <emph>Yellow Stone</emph> and <emph>Yellowstone</emph> demands that such known expected costs are balanced, at least in part if possible, by any recognized expected benefits attending, say, later more appropriate spelling(s).  Subtracting the total byte count of both the expected cost(s) <emph>and</emph> the expected benefit(s) from the overall cumulative LED from a pair of instruments means that the final net noise value linked to that comparison is a more valid index of the actual magnitude of the inaccuracies rooted in those passages.  This maneuver &#8212; the acceptance of the quantification of <emph>benefits</emph> observed through the application of the Levenshtein metric &#8212; was a step forward in the assessment technique employed during this <title>Okmulgee</title> project.  The <emph>Laramie</emph> study was designed primarily to return a more accurate final treaty text, based on the original 1851 transaction and modified solely as stipulated in the later Congressional annuity adjustment.  The <title>Okmulgee</title> endeavor looked more to the fluctuations, more to the cumulative effect of the mistakes, yet simultaneously desired to give credit when due for instances of ensuing smart textual modifications.</p>
+
+<p>The perception that this examination of the <title>Okmulgee Constitution</title> pivoted upon a similar series of discrepancies as found for <emph>Laramie</emph> was assisted by the imposed data formatting.  Each text was written in English; the expected legal formality or protocol was sustained during reproduction; and the overall relative orderliness induced by the more rigid alignment conditions minimized textual instability and eliminated the wild incongruities observed in other studies of more flexible literature.</p>  
+</div2>
+
+<div2>
+<head>Error forms</head>
+
+<p>In text reproduction undertakings that sidestep translation and editorial intercession &#8212; and especially for those attempts in which the document possesses some legal or official weight and for which style or subjective interpretation is absent &#8212; the forms that errors may take are limited.  These may include one or more faults resulting from misspelling, juxtaposition, replacement, exclusion, and/or incursion.  Further, successive editions carry the opportunity to introduce more inaccuracies, so that later renditions should show, in general and regardless of the source(s), increasing numbers of divergences from the original.  The variants of the <title>Okmulgee Constitution</title> in this study contained examples from these five classes of difficulties and they support the prediction of increasing fault creation over time.  Of the 299 unique errors distributed throughout the <title>Okmulgee</title> variants, there were 103 identified as spelling mistakes; six determined to be juxtapositions; 111 replacements of the original 1870 material; 53 occasions of exclusion; and 26 intrusions of new text.</p>
+</div2>
+
+<div2>
+<head>Misspelling (N = 103)</head>
+
+<p>Misspellings are perhaps the most dominant and expected toll in the reproduction of texts.  Plurals may be formed or missed (e.g., <emph>session</emph> vs. <emph>sessions</emph> and <emph>powers</emph> vs. <emph>power</emph> at <emph>Wilkins</emph> data line number 1607 and 3527, respectively); hyphenated words may be presented as separate terms absent the dash (<emph>two-thirds</emph> vs. <emph>two thirds</emph> at line number 879 and 880 in <emph>Territory</emph>); style differences may emerge (<emph>defense</emph> vs. <emph>defence</emph> at line number 961 and <emph>offenses</emph> vs. <emph>offences</emph> at line number 1969 of <emph>Vindicator</emph>); and/or general errors may prevail (<emph>approproiations</emph> at line number 1291 of <emph>Chronicles</emph> and <emph>whjch</emph> at line number 2040 of <emph>Vindicator</emph>).</p>
+</div2>
+
+<div2>
+<head>Juxtaposition (N = 6)</head>
+
+<p>In these rare instances, original word order was compromised and rearranged: see line number 347 and 348 for the phrase <emph>are hereinafter</emph> vs. <emph>herein after</emph> in <emph>Wilkins</emph>; the expression <emph>not have</emph> vs. <emph>have not</emph> at line number 1690 and 1691 for <emph>SenateA</emph>; and the terminology <emph>be twice</emph> vs. <emph>twice be</emph> residing at line number 3468 and 3469 of <emph>Chronicles</emph> and <emph>Beckett</emph>.  This last error pair, in fact, served as one piece of evidence to recommend that <emph>Beckett</emph> was taken directly from <emph>Chronicles</emph>.</p>
+</div2>
+
+<div2>
+<head>Replacement (N = 111)</head>
+
+<p>Replacement involved the physical substitution of one word for another.  For this study, errors were placed in this category if the new word was beyond a clear case of misspelling.  The most extreme example in these <title>Okmulgee</title> data was the conversion of the year <emph>1866</emph> to the string <emph>eighteen hundred and sixty-six</emph> at line number 49 to 52 and 2440 to 2443 of <emph>HarlanB</emph>.  Many of these adjustments made use of abbreviations for the terms <emph>article</emph> or <emph>section</emph>; there are six such paired transitions for <emph>article</emph> in <emph>Chronicles</emph> and <emph>Beckett</emph> at line number 162, 460, 523, 1497, 2388, and 2943.  Similarly, the element <emph>sec</emph> in <emph>Council</emph> was changed to <emph>section</emph> 78 times in <emph>Territory</emph>, <emph>Ocmulgee</emph>, <emph>Commissioners</emph>, <emph>Frauds</emph>, <emph>SenateA</emph>, and <emph>Wilkins</emph>.  More hidden adaptations included the deployment of <emph>being</emph> instead of <emph>been</emph>; of <emph>&amp;</emph> instead of <emph>and</emph>; of <emph>office</emph> in place of <emph>service</emph>; and of <emph>the</emph> rather than <emph>a</emph> at line number 31, 649, 1527, and 2603, respectively, in <emph>Chronicles</emph> and <emph>Beckett</emph> exclusively.  These findings too supplement the conviction that <emph>Beckett</emph> was derived from <emph>Chronicles</emph>.  <emph>SenateA</emph> used Arabic, and not Roman, numerals to identify <title>Okmulgee</title>'s six articles (see line number 163, 461, 524, 1498, 2389, and 2944), so there are shades to the absolute impact of replacements.</p>
+</div2>
+
+<div2>
+<head>Exclusion (N = 53)</head>
+
+<p>Exclusions addressed text segments that have disappeared, relative to the original 1870 <title>Okmulgee</title> declaration.  Thus, an exclusion was revealed whenever gaps emerged in the composite data table; these voids signaled some sort of inability during reproduction to replicate faithfully the original.  Their presence was especially useful to postulate links connecting text cousins, or between subsequent documents that might have shared a true, common predecessor.</p>
+
+<p>The main exclusion in these data took place in <emph>Ocmulgee</emph>, <emph>Frauds</emph>, and <emph>Wilkins</emph> at line number 206 to 214, where the nine term Texas boundary definition <emph>and on the south by the state of Texas</emph> was absent.  This deficiency was extremely strong proof that <emph>Frauds</emph> was derived from <emph>Ocmulgee</emph>, in a manner similar to that for <emph>Wilkins</emph>; David Wilkins actually included <emph>Ocmulgee</emph> in his bibliography as the source for that transaction.  An additional reinforcement for this conjecture may be derived from the noted printed position of the Schedule to the Constitution that <emph>preceded</emph> the instrument text and Declaration of Rights in <emph>Ocmulgee</emph> and was reproduced in the same manner for <emph>Frauds</emph>.  Wilkins remarked that he had not included the Schedule in <emph>Wilkins</emph> because of page restraints imposed by his publisher (David Wilkins, personal communication, 24 June 2010), but there remains the possibility that the Schedule was either skipped or deemed unimportant during the <title>Okmulgee Constitution</title> text accumulation phase of his writing.</p>
+</div2>
+
+<div2>
+<head>Incursion (N = 26)</head>
+
+<p>Incursions were represented by new material introduced into the primary text, in a complementary process to exclusion.  These effects differ from replacement, since incursions are nested within the initial text, while replacements change the current wording.  In the former case, the LED vertical arrangement of the primary (and possible other) material must be padded to make room for the new incursive element(s).  The replacement process simply exchanged tokens, such as the substitution of <emph>office</emph> for <emph>service</emph> evident in this study at line number 1527.</p>
+  
+<p>Any injection of new matter into the mass of original elements was viewed as an instance of incursion.  The first specimen occurred in the <emph>Beckett</emph> rendition at line number 1, with the immediate use of the definite article <emph>the</emph> to precede the recognized general title of the <emph>Constitution</emph>, but there was also the word <emph>that</emph> placed at line number 605 only in <emph>Commissioners</emph>, and <emph>Wilkins</emph> added the bracketed terms <emph>[to]</emph> at line number 438 and <emph>[that are]</emph> at line number 3008 and 3009 as well as at line number 3574 and 3575.  These modifications may have affected the readability to some positive degree, but they were incursions nonetheless.  Overall, there was no substantive equivalent in <title>Okmulgee</title> to the sixteen word incursion <emph>thence up the north fork of the Platte River to the forks of the Platte River</emph> from Article 5 of the <emph>Treaty of Fort Laramie with Sioux, etc., 1851</emph>.</p>
+</div2>
+
+<div2>
+<head>Leverage from the <emph>Okmulgee </emph>error table</head>
+
+    <p>Table <ref target="okmulgee_constitution_tableIIIb.htm" n="Okmulgee_Constitution_TableIII.xls">IIIB</ref> identifies the 299 unique token differences found in the comparisons of the <title>Okmulgee</title> variants, grouped by error occurrence count.  These reflect all classes of faults &#8212; i.e., those based on misspelling (marked as S), juxtaposition (J), replacement (R), exclusion (E), and incursion (I).  In addition, one mistake was highlighted at line number 1829 of the three-error count group; three at line number 3860 to 3862 in the five problem set; and one for the eight occurrence group at line number 3858.  These five special cases exhibit multiple difficulties for a specific token: <emph>emolument</emph> was misspelled as <emph>emoluments</emph> as well as replaced by <emph>employment</emph>; <emph>Indian affairs president</emph> was either excluded or abbreviated as <emph>Ind affs pres</emph>; and <emph>supt</emph> was either replaced by <emph>superintendent</emph> or excluded.  In the first instance, the mistake was assessed as a replacement, while the others were identified as exclusions, since replacement and exclusion were deemed more severe processes than misspelling and replacement, respectively.  The separation of hyphenated words was seen as paired element lines (see line number 670 and 671 for <emph>bona-fide</emph>; line number 879 and 880, 1379 and 1380, 2059 and 2060, 2092 and 2093, and 3712 and 3713 for <emph>two-thirds</emph>; line number 1041 and 1042 for <emph>to-wit</emph>; line number 1148 and 1149 for <emph>per-diem</emph>; line number 2335 and 2336 for <emph>attorney-general</emph>; line number 2958 and 2959 for <emph>three-fourths</emph>; and line number 3660 and 3661 for <emph>duly-authenticated</emph>).  The bifurcated example at line number 3014 and 3015 contained a second error caused by the misspelling <emph>three-fourth</emph> in line number 3014 of <emph>Chronicles</emph>.  As a result, these two token lines do not appear together within the single-error subset.</p>  
+
+<p>Reflection upon these and on the rest of the ensemble of error elements created opportunities to develop a better understanding of the provenance of presentations made subsequent to the initial <emph>Constitution</emph> in December 1870.  After all, these variants were created to be considered as identical, or nearly identical, representatives.  This assessment formed a necessary second and parallel endeavor to the survey of earlier tribal constitutions that was originally undertaken to develop a more formal understanding of the basis for the legal underpinnings of this 1870 instrument, and of whether textual identicalness was sustained.  Just as segments of older constitutional expressions were carried forward into the post-Civil War instruments created by the same tribes in Indian Territory, the substance of those documents was reproduced (albeit, with errors) in later copies.  This <title>Okmulgee</title> investigation, however, included newspaper and popular press items that, while not immune to the influence of federal documents, were produced nevertheless at a much greater geographical distance from those resources than the other related governmental items.  The text found in <emph>Vindicator</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> deserved special attention, since these were purveyors of more local historical description.  The linkage between <emph>Chronicles</emph> and <emph>Beckett</emph> has already been mentioned: the <emph>Chronicles</emph> and <emph>Beckett</emph> versions provided only the Secretary's name &#8212; and expelled the seven elements of Enoch Hoag's name and position &#8212; at the conclusion of the Schedule to the Constitution (see line number 3856 to 3862); there were six paired transitions of <emph>article</emph> into <emph>art</emph> only in <emph>Chronicles</emph> and <emph>Beckett</emph>; there was the presence of the term <emph>being</emph> for <emph>been</emph>; of <emph>&amp;</emph> instead of <emph>and</emph>; of <emph>office</emph> in place of <emph>service</emph>; and of <emph>the</emph> rather than <emph>a</emph> within <emph>Chronicles</emph> and <emph>Beckett</emph> exclusively.  The correct spelling of George Washington Grayson's name in <emph>Ocmulgee</emph>, <emph>Frauds</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> augmented the probability that <emph>Chronicles</emph> was a derivative of <emph>Ocmulgee</emph> and/or <emph>Frauds</emph>.</p> 
+
+<p><emph>Frauds</emph> was produced two years after <emph>Ocmulgee</emph>, so the provenance of Grayson's correctly spelled name may have originated in <emph>Ocmulgee</emph>, the report that directly recounted the events as observed by three members of the Board of Indian Commissioners.  Slight spelling differences &#8212; <emph>two-thirds</emph> vs. <emph>two thirds</emph> at line number 879 and 880, 1379 and 1380, and 2059 and 2060; <emph>three-fourths</emph> vs. <emph>three fourths</emph> at line number 2958 and 2959 &#8212; suggested that <emph>Ocmulgee</emph> was closer to <emph>Council</emph> than <emph>Territory</emph>, but the presence of <emph>punishments</emph> and <emph>Grayson</emph> coupled with the absence of the phrase <emph>Indian affairs president</emph> (at line number 3430, 3865, and 3860 to 3862, respectively) were indications of a more independent creation, as discussed earlier for <emph>Ocmulgee</emph>.</p>
+
+<p><emph>Territory</emph>, <emph>HarlanB</emph>, and <emph>Ocmulgee</emph> were all created during the month following the signing of the <title>Okmulgee Constitution</title>, within a span of just eleven days according to the documents' dates.  There may have been two fundamental versions of the <emph>Constitution</emph> used to address later needs: the first should have been the initial <emph>Council</emph> variant, taken directly from the <emph>Constitution</emph> printed by Excelsior Book and Job Printing in Lawrence, Kansas, and a second from <emph>Ocmulgee</emph>, the federal document recollecting the visit to the Council session by the Board of Indian Commissioners.  The almost unfathomable difficulty with <emph>Greyson</emph> vs. <emph>Grayson</emph> was especially blatant and this lent credence to the chance of two textual options: a collection of <emph>Council</emph>, <emph>Territory</emph>, <emph>Commissioners</emph>, <emph>Vindicator</emph>, and <emph>SenateA</emph> that displayed the first, incorrectly spelled surname of the Secretary that was thereby divergent as a group from a document set consisting of <emph>Ocmulgee</emph>, <emph>Frauds</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> in which the name was spelled appropriately.</p>  
+
+    <p>An extra advantage of the Levenshtein edit distance metric was that the number of observed mismatch errors gave an immediate indication of the strength of such document clusters.  Table <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">IIIA</ref> revealed that the Levenshtein tests between <emph>Council</emph> and each of <emph>Commissioners</emph>, <emph>Frauds</emph>, <emph>Vindicator</emph>, <emph>SenateA</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> generated 15, 57, 33, 50, 80, and 81 errors.  Comparisons between <emph>Ocmulgee</emph> and these six yielded mistake counts of 46, 9, 70, 81, 78, and 79.  Thus, only the results linking <emph>Ocmulgee</emph> with <emph>Frauds</emph> would recommend that <emph>Ocmulgee</emph>, instead of <emph>Council</emph>, was the source for <emph>Frauds</emph>.<ref n="13" target="n13"></ref>   The accompanying, supplemental material for the resolution pertaining to the Plains tribes, found in the <title>Serial Set</title> volume, may also be considered as verification of this union.</p> 
+
+<p>These returns provide more insight, however.  It is apparent that misspellings occur with some frequency among these variants, but that exclusions are quite rare: the Texas boundary, witness, and Hoag exclusions are the prime examples in this survey.  Their existence offered far more strength to a declaration of document similarity than did any series of single word faults.  In the case of <emph>Council</emph> vs. <emph>Ocmulgee</emph>, there was an occasion to demonstrate this effect.  Even though <emph>Ocmulgee</emph>, <emph>Frauds</emph>, <emph>Chronicles</emph>, and <emph>Beckett</emph> shared the Hoag exclusion at line number 3856 to 3862, only the first two renditions additionally suffered the Texas boundary exclusion at line number 206 to 214.  Thus, <emph>Chronicles</emph> and <emph>Beckett</emph> must have been formed from a <emph>combination</emph> of previous editions and not just from a single foundation.  The obvious downside to that blend was the very high error count and cumulative LED scores for each of the <emph>Chronicles</emph> and <emph>Beckett</emph> tests against <emph>Council</emph>.</p>  
+
+<p>Much like the <emph>Ocmulgee</emph>-<emph>Frauds</emph> pairing, an LED test for <emph>Chronicles</emph>-<emph>Beckett</emph> discovered only 29 errors and a total of 44 bytes of dissimilarity.  A parallel situation arose with <emph>Territory</emph> and <emph>SenateA</emph>.  These two exhibited the nine element witness exclusion at line number 3330 to 3338 &#8212; <emph>of having the witnesses to testify in his presence</emph> &#8212; from §6 of the Declaration of Rights.  Here, the tests between <emph>Council</emph> and these two other editions of the <title>Okmulgee Constitution</title> caused 52 and 50 errors, respectively, but in a test between the <emph>Territory</emph> and <emph>SenateA</emph>, only 44 errors composed of 197 bytes were obtained.  A tighter fit might have been expected if the exclusion hypothesis had been in effect for this set of texts, but twelve of the 44 errors were due to six pairs of changes to article notations (i.e., Roman numerals replaced Arabic ones) and to the conversion of <emph>section</emph> to <emph>sec</emph>; the latter accounting for 24 bytes, or about an eighth, of the cumulative LED.  Thus, even in the event where a single source is under reproduction, editorial intervention and/or style modifications can overwhelm a clear view back to that original document.  The relatively abundant noise in the <emph>Chronicles</emph> and the Beckett variants was a strong index of this impediment.</p>
+</div2>
+
+<div2>
+<head>The revised <title>Okmulgee Constitution</title> of September 1875</head>
+
+<p>Delving into an inquiry of the revised <title>Okmulgee Constitution</title> was a procedure for understanding the demise of the entire constitutional effort.  Six months after the creation of the <emph>Constitution</emph>, and at the second annual conference, it was revealed that the Creek had stormed ahead and already ratified the proposal, but other tribes had not (<title>Journal of the Second Annual Session of the General Council of the Indian Territory</title>, 1871, p. 7).  A provisional government was therefore proposed, in order to get a functional administration underway by mid-1872, even if forced elections to determine officials were considered the only viable alternative (pp. 11-12).  This collapsing conviction was evident a year later at the third annual Council session in 1872, when it was announced on 6 June that just the Choctaw, Creek, Eastern Shawnee, Ottawa, Peoria, Quapaw, Sac and Fox, Seneca, and Wyandot had ratified the 1870 <emph>Constitution</emph> (<title>Journal of the Third Annual Session of the General Council of the Indian Territory</title>, 1872, p. 7).  This was some progress in the desired direction, but the news was accompanied by the remark that "[t]he action of some of the tribes has not yet be ascertained," which made it even more obvious to all delegates that the two-thirds voting threshold required to confirm ratification of the <emph>Constitution</emph> had not been reached during the previous year and a half.  Rather, dissention was already present at this meeting in 1872, illustrated by the formation of a quorum fully <emph>eight</emph> days after the planned onset of the conference (p. 9), and by a resolution that "a committee of five be appointed by the acting President, to report what measures, if any, are necessary <emph>to compel the attendance of absent members</emph>" (p. 8; emphasis added).  The Cherokee were blatantly unenthusiastic about certifying <title>Okmulgee</title> because of the future place within the organizational structure allocated to them under the proposed constitution; the Chickasaw had met immediately after the end of the 1872 session and had "rejected overwhelmingly" the ratification proposal because of a perceived problem with equal representation; the Choctaw were adamantly against accepting land in severalty and only confirmed the instrument as a mode of insurance to protect their future interests; and the Seminoles balked at committing to the contents of a document and its listed processes that they did not fully understand (Nolen, 1980, pp. 274-275).</p>   
+
+<p>Protests against various federal activities were sent to Congress and the President, but the tide had already turned in Washington and the prospect of an Indian state evolving from Indian Territory was truly slipping away.  Even under these circumstances, there were several more Okmulgee Council sessions and at the fourth such event in May 1873, a brief resolution was submitted to revisit the <emph>Constitution</emph> (<title>Journal of the Fourth Annual Session of the General Council of the Indian Territory</title>, 1873, pp. 10-11).  The committee specifically assigned this revision task offered its own modified preamble and proposals that might finally resolve the impediment caused by the lack of tribal responses to the ratification request.  It was, in part, a desperate attempt to stimulate all those involved to move forward as the situation progressively deteriorated, but at the general meeting convened in December 1873, the final blow was struck: the Clerk of the meeting "reported that none of the nations to whom the Constitution has been submitted, had reported action thereon" (<title>Journal of the [Adjourned Session of the] Fourth Annual Session of the General Council of the Indian Territory</title>, 1873, p. 9).  In actuality, only 48% of the Indian Territory participants had cast their lot in favor of ratification; Appendix B of the <emph>Journal</emph> enumerated the individual tribal tallies (p. 21) and made apparent that a minority &#8212; just 32,065 of 66,461 voters &#8212; had supported the proposed <emph>Constitution</emph>.</p>
+
+<p>Further council sessions were unproductive.  At the fifth convention in May 1874, virtually nothing was said about the <emph>Constitution</emph> and the <emph>Journal</emph> for that year served as nothing more than a statement repository of the spokesmen from the Cherokee, Creek, Seminole, Eastern Shawnee, Confederated Peoria, Seneca, Wyandot, Ottawa, Sac and Fox, Delaware, Osage, Absent Shawnee, Wichita, Comanche, Waco, Caddo, Ionie (today, the Hainai), Pawnee, Keechie (Kichai), and Towoccanie (Tawakoni) (<title>Journal of the Fifth Annual Session of the General Council of the Indian Territory</title>, 1874, pp. 8-33).  The sixth session began on 3 May 1875 and there was an immediate resolution passed for "re-submitting the <title>Okmulgee Constitution</title> to the president of the United States for his action" (<title>Journal of the Sixth Annual Session of the General Council of the Indian Territory</title>, 1875, p. 9), but Nolen (1980, p. 278) reemployed the phrase "a dead issue" to describe the delegates' perception of the 1870 <emph>Constitution</emph> at that moment.  An adjourned special session, exclusively for an appointed constitutional committee, was set for 15 June 1875 "to draft a constitution," with the full Council destined to reconvene on 15 September (p. 72).  A footnote on the very last page of that sixth annual session's  <emph>Journal</emph> was initialed by "E. H." or Enoch Hoag, the President of the Okmulgee Council, and stated: "The foregoing draft of Constitution, prepared by a Special Committee of the General Council, is here published for the information of the delegates to said Council, who adjourned to meet in September next to act upon the same" (p. 114).  In September, Hoag announced upon the acquisition of a quorum that "the businesss [sic] first in order would be the consideration of the report of the committee appointed to draft a constitution, by the previous session of the Council" (<title>Journal of the Adjourned Session of the Sixth Annual General Council of the Indian Territory</title>, 1875, p. 6).  That report was provided by J. P. Folsom of the Choctaw: "We, your special committee, who were appointed pursuant to the recommendation made to and adopted by this Council in May 12th, 1875, whose duty was to prepare and perfect a draft of constitution to be submitted to the General Council of the Indian Territory for its consideration and action at this adjourned session, would beg leave to submit the following draft of constitution and ask for its adoption" (p. 7).  His presentation was complemented by the panel's fresh constitutional attempt (pp. 8-20; titled here as <emph>Adjourned</emph>).  The document was thereafter discussed and then &#8212; on the morning of the final day of the council &#8212; a motion was adopted "to postpone further action on the Constitution to the next session of the Council," i.e., to the first Wednesday in May 1876 (pp. 29-30).</p> 
+
+<p>That 1876 meeting never occurred, because the federal Indian Office terminated funding for such activities (Debo, 1934, p. 216, n. 122).  Locally, <title>The Vindicator</title> newspaper announced on 26 April that "the Okmulgee Council will not convene again until further authorized by Congress" (Okmulgee Council, 1876).<ref n="14" target="n14"></ref>   The dreams of, and the struggle for, a true Indian state within the Union were, for all intents and purposes, over by that Spring.  Based on this outcome, Applen (1971, p. 97) concluded that "[i]t is futile to speculate on what the future of the Indian territory might have been had the General Council succeeded in establishing an Indian government.  When one considers the tenor of Congress during those years, and looks at the aggressiveness of the railroads, land speculators, and Kansas farmers, it seems unlikely that the Territory's later history could have been much different.  The reason most often given for the failure of the proposed Indian government is that most of the Indians felt that their own intertribal government would eventually lead to United States territorial government.  However, these same Indians apparently realized that an Indian 'state' was their only real hope for protection from further advances by the white men.  Thus, their reasons for establishing an Indian government seem to have been just as strong as their reasons for not establishing one.  In view of this, it is apparent that the old problem of representation was a significant, and probably a major, factor in the General Council's failure."  In a parallel vein, Nolen (1980, p. 279) determined that "[i]t was the federal government which had urged the Indians to meet in general council, but it was the self-determination of the Indians that kept them from according to the government's wishes."</p>
+
+    <p>Those two texts of that revised <title>Okmulgee Constitution</title> &#8212; named here the <emph>Sixth</emph> and <emph>Adjourned</emph> &#8212; were joined three and a half years later by the document's republication in a Senate report (In the Senate of the United States, 1879, pp. 620-627; called now <emph>SenateB</emph>).<ref n="15" target="n15"></ref>   These three variants of the revised document &#8212; collected from two privately published pamphlets and from a Senate survey of railroad and Indian issues issued by the federal government &#8212; defined the suite for the next Levenshtein assessment.  The instruments' tokens were assembled in the manner employed for the 1870 tests and renumbered with a unique line number prefix; here, "R-" for the revised document.  These data appear on the "1875 Revision" worksheet of Table <ref target="okmulgee_constitution_tableIIb.htm" n="Okmulgee_Constitution_TableII.xls">IIB</ref>.  The final length of the array, including seven pads, was 4066 elements.  LED scores were computed for contrasts of the <emph>Sixth</emph>-<emph>Adjourned</emph> and the <emph>Sixth</emph>-<emph>SenateB</emph> relationships.  Table <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">IIIA</ref> furnishes summary statistics that divulge that these trials revealed just 28 and 31 errors, and 106 and 78 bytes of dissimilarity, respectively.  The measurements of likeness among the revised <emph>Constitution</emph> renditions were thus better than all comparable tests between <emph>Council</emph> and the reproductions of that earlier and shorter instrument, save for <emph>Commissioners</emph> and <emph>HarlanB</emph>.</p>
+
+    <p>As would be expected, the observed difficulties were nearly identical in format to those obtained in the <emph>Council</emph> contrasts.  In the <emph>Sixth</emph>-<emph>Adjourned</emph> study, misspellings (such as <emph>o</emph> at line number R-1672 of <emph>Sixth</emph> in <ref target="okmulgee_constitution_tableIIb.htm" n="Okmulgee_Constitution_TableII.xls">Table IIB</ref>, the phrase <emph>the members</emph> vs. <emph>them embers</emph> at line number R-2131 and 2132, or <emph>convction</emph> vs. <emph>conviction</emph> at line number R-3526); juxtaposition (<emph>be neither</emph> vs. <emph>neither be</emph> at line number R-1873 and 1874); style (<emph>three-fourths</emph> vs. <emph>three fourths</emph> at line number R-3081 and 3081 and <emph>offences</emph> vs. <emph>offenses</emph> at line number R-2039); replacement (<emph>is</emph> vs. <emph>be</emph> at line number R-2918); and incursion (the elements <emph>at</emph> and <emph>is</emph> at line number R-3128 and R-3543, respectively, of <emph>Adjourned</emph>) were observed.  <emph>Sixth</emph>-<emph>SenateB</emph> had parallel issues:  misspellings (<emph>assented</emph> vs. <emph>asssented</emph> at line number R-50, <emph>criminal</emph> vs. <emph>crimina</emph> at line number R-2769, or <emph>convction</emph> vs. <emph>conviction</emph> at line number R-3526); style (<emph>first</emph> vs. <emph>1st</emph> at line number R-150, <emph>section</emph> vs. <emph>sec</emph> at R-241, <emph>bona fide</emph> vs. <emph>bona-fide</emph> at line number R-783 and 784, and <emph>defence</emph> vs. <emph>defense</emph> at line number R-1040); replacement (<emph>for</emph> vs. <emph>of</emph> at line number R-104); and exclusion (the elements <emph>also</emph> and <emph>ever</emph> at line number R-2436 and R-3769, respectively, are absent from <emph>SenateB</emph>).</p>
+</div2>
+
+<div2>
+<head>Potentially catastrophic errors</head>
+
+<p>Among the collection of detected faults throughout all the texts involved in this study, the true meaning of the <title>Okmulgee Constitution</title> was never violated by any of these types of problems, other than through the difficulties imposed by the Texas boundary and the witness text exclusions.  In those two situations, the boundary definition was absent from the first sentence of Article 1, §1 of <emph>Commissioners</emph>, <emph>Frauds</emph>, and <emph>Wilkins</emph>, and the witness specification did not appear in §6 of the Declaration of Rights of the <emph>Territory</emph> and the <emph>SenateA</emph> accounts.  Other misspellings were unfortunate occurrences, but the use of <emph>two-thirds</emph> instead of <emph>two thirds</emph>, or of <emph>members</emph> instead of <emph>member</emph>, did not destroy the essential meaning of the passages.  In <emph>SenateB</emph>, however, the situation changed drastically, based upon the misuse of a single word.  The substance of Article III, §15 was written to provide guidance on impeachment proceedings before the House of Representatives and the Senate of the proposed Indian state.  <emph>SenateB</emph>, one of  the federal presentations reporting the 1875 revised <emph>Constitution</emph>, contained the following three sentences in its rendering of that section: "The House of Representatives shall have the sole power of impeaching.  All impeachments shall be tried by the Senate.  When sitting for that purpose, the Senators shall be on oath or affirmation and shall be presided over by the Chief Justice; and no person shall be convicted <emph>with</emph> the concurrence of two-thirds of the members present" (In the Senate of the United States, 1879, p. 622; emphasis added).</p>
+
+<p><emph>SenateA</emph>, within the same publication (p. 615; emphasis added), supplied the original 1870 <emph>Constitution</emph> text for the same Article II, §15 &#8212; "no person shall be convicted <emph>without</emph> the concurrence of two-thirds of the members present" &#8212; a condition that might be more predictable for the adjudication of such measures.  Sections taken from the earlier 1839 Cherokee, the 1860 Choctaw, and the 1867 Chickasaw constitutions all spoke of <emph><emph>without</emph> the concurrence of two-thirds of the members present</emph>.  Thus, on the one hand, the LED calculations indicated a very successful attempt by <emph>Adjourned</emph> and <emph>SenateB</emph> to reproduce the <emph>Sixth</emph>'s text of the revised <emph>Constitution</emph>.  On the other hand, the Levenshtein quantification of mistakes between <emph>Sixth</emph> and <emph>SenateB</emph> disclosed in the latter a far more serious error in the content than had previously been observed with these materials.</p>
+</div2>
+
+<div2>
+<head>Conclusions</head>
+
+<p>This study used the Levenshtein edit distance (LED) metric to interrogate variants of the 1870 <title>Okmulgee Constitution</title> and it was rewarded in the process by a better understanding of the initial document and its ensuing text reproductions, and by exploring further applications of the LED approach in an interrogation of the 1870 instrument and its related 1875 revision.</p>
+
+<p>Overall, the assortment of <title>Okmulgee Constitution</title> variants suffered from the kinds of spelling errors that interfere with all attempts to publish pristinely, but the repercussions of contaminated text carries more significance in legislative materials than it does in popular press products.  In particular, the preamble of the <emph>Council</emph> version contained the term <emph>formes</emph> &#8212; <emph>under the <hi rend="bold_ital">formes</hi> prescribed by the treaties of 1866</emph> (<title>Journal of the General Council of the Indian Territory</title>, 1871, p. 44) &#8212; that echoed the presence of the term <emph>Supintent</emph> in the identical document section of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (Bernholz and Pytlik Zillig,  2009).  This kind of syntax error has saturated other international documents, including the original <title>United States Constitution</title>.  In that instrument, the state name <emph>Pennsylvania</emph> was published as <emph>Pensylvania</emph>; contemporary spellings &#8212; <emph>chuse</emph> vs. <emph>choose</emph> &#8212; were present; and an unnecessary possessive emerged in Article 1, §10: <emph>except what may be absolutely necessary for executing <hi rend="bold_ital">it's</hi> inspection Laws</emph>.  Aust remarked on the correction of errors that surface in today's diplomatic documents by suggesting that these were induced by "time pressure" (2005, pp. 110-111).  Such problems faced our own Constitutional Convention in 1787, the events leading up to the Constitution of the Confederate States, and perhaps the General Council of the Indian Territory as well, let alone the printers of <title>Okmulgee</title>.</p>
+
+<p>The additional typographical errors of <emph>agains</emph>, <emph>thist</emph>, and <emph>cammission</emph> were manifestations of printing incongruities that have existed even after the development in the nineteenth century of advanced mechanical typesetting options (Huss, 1973).  While it is unknown how Excelsior Book and Job Printing might have struggled to set the original <title>Okmulgee Constitution</title> for the <title>Journal of the General Council of the Indian Territory</title>, the invert error of <emph>assempled</emph> in <emph>Beckett</emph> emerged sixty years later at Harlow Publishing in Oklahoma City.  Comparable imperfections were created in the publishing sphere long before these General Council meetings.  The <emph>Thou shalt commit adultery</emph> blunder in the 1631 King James Bible is prototypic (see Gimcrack, 1833, p. 103), but syntax difficulties also surfaced in works from the fields of astronomy (Talcott and Walker, 1839, p. 249n) and chemistry (Hofmann, 1860, p. 586).  In the succeeding century, errors in journal articles describing Virginia state statutes (Editorial, 1912), and in the areas of music (Martino, 1962), mathematics (see the "printer's error" in Douglas [1951]), and history (Jeffrey, 1990) were noted.  With regard to specific titles, inquiries into reports of copies of Christopher Columbus' letter announcing his discovery of the New World (Jane, 1930), of the three hundred editions of <title>The Complet Angler</title> (Oliver, 1947), and of the spelling in Milton's works (Shawcross, 1963) demonstrated the broad variety of problematic interpretations.  The declaration in the impeachment parameters of Article II, §15 of <emph>SenateB</emph> &#8212; <emph>no person shall be convicted <emph>with</emph> the concurrence of two-thirds of the members present</emph> &#8212; seems almost insignificant in comparison to the adultery directive contained in that 1631 Bible, but then again, the <title>Okmulgee Constitution</title> was a political document whose concepts were neither ratified nor implemented; these proposed impeachment processes remained as hypothetical constructs only.</p>
+
+<p>Neavill (1975, pp. 29-30) spoke directly to these perils of publishing virtually any manuscript when he remarked that "[k]nowledge is affected at the stage of reproduction by the errors that seem inevitably to creep in whenever a text is reproduced.  From the hand copyists of the ancient world to the latest computer composition techniques of today, the reproduction of texts has always involved the introduction of error.  It is the responsibility of the publisher (and the printer and author) to eliminate as many of these errors as possible.  Conscientious proofreading can greatly reduce the number of errors introduced at this stage, yet almost always some errors remain.  Usually they are not as serious as in the so-called Wicked Bible of 1631, in which the 'not' was omitted from the Seventh Commandment.  But with a work of any length, the totally error-free text seems to be an ideal which can perhaps be approached but rarely achieved."</p>
+
+<p>It is the "almost always some errors remain" setting that makes text analysis such a critical matter, because the errors individually guide a way through the various renditions to help construct a greater understanding of the primary material itself.  While the spirit and the letter of the law was not violated by the exclusions or incursions in the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>, their presence produced an insight into the thought of the creators <emph>and</emph> of the reproducers of this instrument.  The same may be said now about the <title>Okmulgee Constitution</title>: the inaccuracies supply not only an initial notion of the perceptions and the workmanship of the tribes in Indian Territory in 1871, but also of the purveyors of subsequent popular press exemplars, such as those found in <emph>Chronicles</emph> and <emph>Beckett</emph>, that were released to inform greater numbers of subsequent readers.</p> 
+
+<p>An editorial comment, concerning Virginia state laws affected by error in 1912, may be a relevant model for consideration.  In that statement, the <title>Virginia Law Register</title> observed that "the County of <emph>Albemarle</emph> has vanished and the County of <emph>Albermarle</emph> now stands in its place all through the printed Acts of 1912….  If an error so palpable and so inexcusable should be repeated more than once in the volume bearing the stamp of the State's official, may there not be others of greater moment?" (1912, p. 225; emphasis added).  A century after this observation, variants still occur, but in many cases, their ultimate effects are still unknown.  Hill concluded that "a critical text is an instrument for communicating certain data to a particular audience.  That the process of transmission transforms the data [is taken] as axiomatic.  So defined, a text will be critical to the degree to which it faithfully transmits those data determined to be of significance to the audience anticipated, making it clear what is transmitted, what suppressed, in full detail, as well as the principles on which this has proceeded.  All three terms in this equation &#8212; evidence, medium, audience &#8212; serve to determine the nature of the final text....  The writing of specifications for an edition and their realization in the texts actually printed are distinct, though related, operations.  Specifications are prescriptive and absolute; actual texts rarely are.  The best one can hope for is a careful and judicious weighing of the demands of evidence, medium, and audience" (1978, pp. 259-260).</p>
+
+    <p>To complement the assertion made at the beginning of this study &#8212; that the variant is the lifeblood of text analysis &#8212; one must consider Hill's corollary that "[t]he lifeblood of proofreading is the perception of error" (p. 248).  This is particularly so for the transmission of legal content, where the demand for textual fidelity is unequivocal, yet the <title>Okmulgee Constitution</title> specimens seen in this study were profound reminders that such materials too suffer from inaccuracies, just as do the works in other genres that permit far more interpretive flexibility.  One bright spot in this sea of misprinting was the execution offered by the Choctaw newspaper, <title>The Vindicator</title>, on 21 and 28 June 1873.  Table <ref target="okmulgee_constitution_tableIIIa.htm" n="Okmulgee_Constitution_TableIII.xls">IIIA</ref> reports just 33 errors encompassing 96 total bytes in that presentation, where 23 bytes (24%) of that cumulative LED were due to the incidence of <emph>three fourths</emph> instead of <emph>three-fourths</emph> and of <emph>for ever</emph> rather than <emph>forever</emph> at line number 2958 and 2959, and 3132 and 3133, respectively.  An additional five bytes of benefit were derived from the appropriate use of <emph>forms</emph>, <emph>this</emph>, <emph>against</emph>, <emph>commission</emph>, and <emph>organize</emph>, as delivered in the other, non-<emph>Council</emph> variants.  This high degree of fidelity for this instrument &#8212; relative to that observed in federal attempts &#8212; seems especially fitting for a tribal newspaper published in the wilds of Indian Territory.</p>
+
+<p>Suppleness was evident, however, in the use of the LED approach for comparative testing of the original with the revised <emph>Constitution</emph>, where the demands to assess identicalness in repetitive 1870 or 1875 companion editions gave way to a need for an effective editorial tool to traverse and align two related yet nevertheless modified documents.  Just as the federal <emph>Constitution</emph> was altered during its evolution during the Constitutional Convention in 1787, so too was the later <title>Okmulgee Constitution</title> by Council representatives, as evidenced by a longer more expressive preamble and by internal amendments.  The dissimilar unpadded text lengths &#8212; 3,826 vs. 4,060 tokens &#8212; announced immediately that an LED test concerning <emph>Council</emph> and <emph>Sixth</emph> would herald abundant dissimilarity, but LED scores have now been shown to furnish an index of beneficial change as well.</p>
+  
+<p>In the trial for the <emph>Council</emph> and <emph>Sixth</emph> accounts, successive small steps of realignment, taken as part of a reasonable approach to coordinating the two forms, produced diminishing cumulative LED values that confirmed convergence.  This editorial advantage &#8212; in which a <emph>quantitative</emph>, instead of a qualitative, measurement of textual linkage was the gauge &#8212; was not only simple to employ but was intuitive as well.  The quest to bring all those <title>Canterbury Tales</title> into register has always been impeded by the disturbing knowledge that the scribes created their descriptions without regard for absolute replication of text order (Spencer, Bordalejo, Wang, Barbrook, Mooney, Robinson, Warnow, and Howe, 2003, pp. 97-98).  Today, assessment allows for the resorting of material segments as one judicious way to acquire a final grasp on content.  In a recent article, Schmidt and Colomb (2009, p. 498) tracked the controversy of administering representations of such assorted materials that have been placed online.  In that endeavor, they re-raised the old question of "What exactly is the text of a work that exists in multiple versions?" and concluded that "[t]he problem of how to represent overlapping hierarchies in markup systems… is simply a subset of the larger problem of how to represent different versions of a work in digital form."  They recommended a "model [that] can be visualized… more simply and practically as a list or array of ordered pairs, each consisting of a set of versions and a fragment of text or data... which can be searched, compared, displayed, and <emph>edited</emph>" (p. 512; emphasis added).  This latter activity was realized when the LED tool was used to converge, in a progressively tighter manner, these texts of the <emph>Council</emph> and the <emph>Sixth</emph> renditions.  Perhaps the future will bring an opportunity for investigators to make simultaneous measurements across these dozen or so renderings of <title>Okmulgee</title> through an online application employing Schmidt and Colomb's scheme.  In the interlude, Levenshtein's forty-five year old metric may be a useful tool to serve as a text comparison process that is effective, simple, robust, and intuitive, whether for editorial purposes &#8212; such as tuning the linkage between <emph>Council</emph> and <emph>Sixth</emph> &#8212; or not.</p>
+
+<p>A final word is required to strengthen the perception of the accomplishments of the <title>Okmulgee Constitution</title> creators.  The Five Civilized Tribes were removed to Indian Territory before this instrument was developed, yet they had been identified as a unique assembly of American Indians as early as 1775 by James Adair (Williams, 1930).  Their sophistication &#8212; in virtually all matters &#8212; placed them in a special and critical role during interactions between other tribes and the federal government as exemplary models for potential Indian citizens.  They developed remarkable social systems in the Southeast long before removal; they created informed treaties with the United States and the Confederate States (and they were always prepared to defend their position in the courts, if necessary); they were employed by both of these governments &#8212; in an appropriate acknowledgement of their unique status &#8212; to serve as the cajolers of the "wild tribes;" they were directed to create along with other Indian Territory nations the legal groundwork for the development of an Indian state that would be on an equal footing with the rest of the members of the Union; and they responded to that last opportunity with a document that came to serve as the constitutional model for the State of Oklahoma, the state that took their lands and their political seat in the United States.  These were <emph>not</emph> the crazed Indians that <title>Harper's</title> peddled to readers, but a gathering of predominately well-organized communities demanding a sound future for their peoples: fully <emph>thirty-two</emph> different entities participated in at least one of those Council sessions, a number that was almost one-half of all the Indian groups ever resident in the Indian Territory (Wright, 1951, p. 4).</p> 
+
+<p>Aspects of the <title>Okmulgee Constitution</title> served as archetypal proposals for the <title>Sequoyah Constitution</title>, and suggestions from both instruments contributed to Oklahoma's final <emph>Constitution</emph>.  Many ideas were harvested and revitalized for the twentieth century, even though the road to statehood had been a difficult one for all; see Nesbitt (1936) for an informative view of the <emph>Sequoyah</emph> and the Oklahoma conventions, and Maxwell (1950a and b) for more on the earlier meeting.   Fittingly, one need only examine <ref target="http://oklegal.onenet.net/okcon/VI-35.html">Article VI, §35</ref> of the State's <emph>Constitution</emph> to learn of the continuing presence in everyday life of the Five Civilized Tribes:</p>
+
+<p>"Description of seal.  In the center shall be a five pointed star, with one ray directed upward.  The center of the star shall contain the central device of the seal of the Territory of Oklahoma, including the words, 'Labor Omnia Vincit.'  The upper left hand ray shall contain the symbol of the ancient seal of the Cherokee Nation, namely:  A seven pointed star partially surrounded by a wreath of oak leaves.  The ray directed upward shall contain the symbol of the ancient seal of the Chickasaw Nation, namely:  An Indian warrior standing upright with bow and shield.  The lower left hand ray shall contain the symbol of the ancient seal of the Creek Nation, namely:  A sheaf of wheat and a plow.  The upper right hand ray shall contain the symbol of the ancient seal of the Choctaw Nation, namely:  A tomahawk, bow, and three crossed arrows.  The lower right hand ray shall contain the symbol of the ancient seal of the Seminole Nation, namely:  A village with houses and a factory beside a lake upon which an Indian is paddling a canoe.  Surrounding the central star and grouped between its rays shall be forty-five small stars, divided into five clusters of nine stars each, representing the forty-five states of the Union, to which the forty-sixth is now added.  In a circular band surrounding the whole device shall be inscribed, 'GREAT SEAL OF THE STATE OF OKLAHOMA 1907'" (The great seal of the state of Oklahoma, 1957, p. 250; see also Constitution of the state of Oklahoma, 1908, p. 30).</p>
+
+
+<p>This description was taken almost verbatim from the <title>Sequoyah Constitution</title> of 1905, in which section 1 of Article XVI stated:</p>
+
+<p>"In the center shall be a five-pointed star, with one ray pointing downward.  The star shall be divided into five diamond-shaped rays by lines connecting the angles between the rays with the center.  The upper left-hand ray shall contain the symbol from the ancient seal of the Cherokee Nation, viz., a seven-pointed star surrounded by a wreath of oak leaves.  The upper right-hand ray shall contain the symbol from the ancient seal of the Creek Nation, viz., a sheaf of wheat and a plow.  The lower left-hand ray shall contain the symbol from the ancient seal of the Choctaw Nation, viz., a tomahawk, bow, and three crossed arrows.  The lower right-hand ray shall contain the symbol from the ancient seal of the Seminole Nation, viz., a village with houses and factory beside a lake upon which an Indian is paddling a canoe.  The lowest ray shall contain the symbol from the ancient seal of the Chickasaw Nation, viz. an Indian warrior standing upright with bow in his hand.  Surmounting, the star between the two upper rays shall be a half-length figure of Sequoyah holding a tablet upon which are inscribed the letters A J J Q C in the alphabet invented by Sequoyah, and forming the Cherokee words meaning "We are brethren."  Surrounding the central star and grouped between its rays, shall be forty-five small stars, representing the forty-five States of the Union to which the forty-sixth is now added.  In a circular band surrounding the whole device shall be inscribed 'Great Seal of the State of Sequoyah, 1905'" (Proposed state of Sequoyah, 1906, p. 82).</p>
+
+<p>This latter seal and the other strategies contained in the <title>Sequoyah Constitution</title> were ratified in the Indian Territory by a vote of 56,279 to 9,073 in November 1905.  This majority position and the foundation for a strong Indian state were fully presented in a memorial to Congress in 1906 &#8212; everything was in place: the eastern segment of what had been Indian Territory was known to be large in area; well populated; and blessed with resources.  Further, it was argued, the tribes "constitute[d] a separate and distinct community from any other on earth, with a different history, associations, ideals, and hopes" (Proposed state of Sequoyah, 1906, p. 1), but the political climate had swung towards another path to statehood.  The tribes were not forgotten or re-removed.  Rather, their thoughts and experiences were accumulated from those constitutional meetings and their pasts were used in part to contribute to an alternative instrument that has given direction to a more traditional state within the United States.  Oklahoma certainly embraced its Indian past, but the Indian Territory never became what had been promised to the tribes during the century before.</p>
+
+<p>The words and the concepts of the <title>Okmulgee Constitution</title>, no matter how jumbled or misrepresented in print on occasion, were the sincere effort of these Indian Territory occupants during the last few decades of the nineteenth century.  These expressions were of sound integrity and truly mattered, because their contents were to help acquire a true, federally promised Indian domain.  The Cherokee, Choctaw, Creek, and Seminole (the Chickasaw did not re-appear after the second annual meeting) carried these proceedings from the beginning to the end.  They were aided by other tribes such as the Absent Shawnee, Osage, Ottawa, Peoria, Quapaw, Seneca, and Wyandot whose representatives only missed one or two assemblies and who demonstrated through this unison the true sense of internationalism envisioned by these societies drawn from all parts of the United States.  Efficacious <emph>internationalism</emph>, within a single state, would have been a meaningful exemplar for the United States and its ensuing immigration chaos.  Wright had already perceived this when she wrote in 1936 "[t]oday the future of the Oklahoma Indian is in education and in the continued progress of Christian civilization, together with the preservation of the best in native traditions and customs that produced strong leaders and a great art.  It is through such forces as these that the Indian has contributed and will continue to contribute to real American culture which will flourish and blossom for ages to come" (p. 161), but with ratification and a chance to be implemented, the <title>Okmulgee Constitution</title> might have contributed more to this prosperity than it did.</p>
+</div2>
+</div1>
+</body>
+
+<back>
+<div1 xml:id="appendix">
+<milestone unit="crosses"/>
+<head>Appendix I</head>
+
+<p>The <title>Okmulgee Constitution</title> text published in the <title>Journal of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Thereof, Assembled in Council at Okmulgee, in the Indian Territory, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington, in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muskokee, and Seminole Tribes of Indians, of the Same Date</title> (1871).  This rendition is identified as the <emph>Council</emph> variant of this study.</p>
+
+<div2>
+<head>Preamble</head>
+<p>Whereas the people of the nations of Indians inhabiting the Indian Territory have agreed by treaty with the Government of the United States, and been by its agents invited to meet in General Council under the formes prescribed by the Treaties of 1866 and the action thereon of the Government of the United States, having thus met to frame the laws and arrange the machinery of a government for the country occupied and owned by them, in order to draw themselves together in a closer bond of union, for the better protection of their rights, the improvement of themselves, and the preservation of their race and relying on the guidance and favor of Almighty God to carry out in a consistent and practicable  form the provisions of said treaties at the earliest practicable day, do hereby enact and promulgate the following as the Constitution or organic law of the said Indian Territory.</p>
+</div2>
+<div2>
+<head>Article I, §1</head>
+<p>All that portion of country bounded on the east by the states of Arkansas and Missouri, on the north by the state of Kansas, on the west by the Territory of New Mexico and the state of Texas, and on the south by the state of Texas, which has been set apart and guaranteed by the Treaties and laws of the United States as a permanent home for the Indians therein lawfully resident or such as may be in like manner settled therein hereafter for the purposes of this Constitution shall be known and styled as "The Indian Territory."</p>
+</div2>
+<div2>
+<head>Article I, §2</head>
+<p>Each of the nations of Indians who by themselves, or through their representatives may enter this confederacy, do agree that the citizens of each and every one of said nations shall have the same rights of transit, commerce, trade, or exchange in any of said nations as he has in his own, subject only to consistency with existing treaty stipulations with the United States and the laws regulating trade and intercourse, and under such judicial regulations as are hereinafter provided. But no right of property or lands, or funds owned by any one nation shall be in any manner invaded by citizens of another nation; and it is hereby distinctly affirmed that the rights of each of these nations to its lands, funds and all other property shall remain the sole and distinct property of such nation. Any Indian nation now represented in this General Council or which may hereafter enter in a legal manner, or be now in said Indian Territory, may be admitted to representation and all the privileges of this joint government by accepting and agreeing through their proper authorities to the provisions of this Constitution.</p>
+</div2>
+<div2>
+<head>Article II, §1</head>
+<p>The powers of this Government shall be divided into three distinct departments, to be called the Legislative, the Executive and the Judicial Departments of the Indian Territory.</p>
+</div2>
+<div2>
+<head>Article II, §2</head>
+<p>No person belonging to one of these departments shall exercise any of the powers properly belonging to either of the others except in cases hereinafter expressly directed or permitted.</p> 
+</div2>
+<div2>
+<head>Article III, §1</head>
+<p>The Legislative power shall be vested in a General Assembly which shall consist of a Senate and House of Representatives; and the style of their acts shall be, "Be it enacted," or "Be it resolved by the General Assembly of the Indian Territory."</p>
+</div2>
+<div2>
+<head>Article III, §2</head>
+<p>The Senate shall consist of one member from each nation whose population is two thousand citizens, and one member for every additional two thousand citizens, or fraction greater than one thousand. Provided, nations with populations less than two thousand may unite and be represented in the same ratio, and provided further, that the Ottawas, Peorias and Quapaws shall be entitled to one senator, and the Senecas, Wyandottes and Shawnees to one senator, and the Sac and Foxes to one senator.</p>
+</div2>
+<div2>
+<head>Article III, §3</head>
+<p>No person shall be eligible to a seat in the General Assembly, but a bona fide citizen of the nation which he represents and who shall have attained to the age of twenty-five years.</p>
+</div2>
+<div2>
+<head>Article III, §4</head>
+<p>The House of Representatives shall consist of one member from each nation and an additional member for each one thousand citizens or fraction thereof greater than five hundred.</p>
+</div2>
+<div2>
+<head>Article III, §5</head>
+<p>The members of the Senate and House of Representatives shall be elected by the qualified voters of their respective nations according to their laws or customs and shall hold their office for the term of two years.  Vacancies that may occur shall be filled in like manner.</p>
+</div2>
+<div2>
+<head>Article III, §6</head>
+<p>The Senate when assembled shall choose a President and its other officers, and the House of Representatives a Speaker and other officers; and each shall judge of the qualifications and returns of its own members. A majority of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day and compel the attendance of absent members, in such manner and under such penalties as each house may provide.</p>
+</div2>
+<div2>
+<head>Article III, §7</head>
+<p>Each branch of the General Assembly shall keep a journal and determine the rules of its proceedings, punish a member for disorderly behavior and with the concurrence of two-thirds, expel a member, but not a second time for the same offense.</p> 
+</div2>
+<div2>
+<head>Article III, §8</head>
+<p>The General Assembly shall have power to legislate upon all subjects and matters pertaining to the intercourse and relations of the nations of the Indian Territory, the arrest and extradition of criminals escaping from one nation to another; the administration of justice between members of the several nations of the said Territory and persons other than Indians and members of said nations; and the common defense and safety of the nations of said Territory. But the said General Assembly shall not legislate upon matters other than those above indicated. The General Assembly shall meet annually on the first Monday in June at such place as may be fixed upon at their regular session.</p> 
+</div2>
+<div2>
+<head>Article III, §9</head>
+<p>Members of the General Assembly and other officers, both Executive and Judicial, before they enter upon the duties of their respective offices, shall take the following oath or affirmation, to wit: "I do solemnly swear (or affirm, as the case may be) that I will support the Constitution of the Indian Territory and that I will faithfully and impartially discharge to the best of my ability, the duties of the office of [blank] according to law. So help me God."</p>
+</div2>
+<div2>
+<head>Article III, §10</head>
+<p>The members of the General Assembly shall be paid four dollars per day while in actual attendance thereon and four dollars mileage for every twenty miles going to and returning therefrom on the most direct traveled route, to be certified by the presiding officer of each house. Provided, no member shall be allowed per diem compensation for more than thirty days at any annual session.</p> 
+</div2>
+<div2>
+<head>Article III, §11</head>
+<p>Members of the General Assembly shall in all cases except of treason, felony, or breach of the peace, be privileged from arrest during the session of the General Assembly and in going to and returning from the same.</p> 
+</div2>
+<div2>
+<head>Article III, §12</head>
+<p>No power of suspending the laws of this Territory shall be exercised unless by the General Assembly or its authority.  No retrospective law nor any law impairing the obligation of contracts shall be passed.</p>
+</div2>
+<div2>
+<head>Article III, §13</head>
+<p>Whenever the General Assembly shall deem it necessary to provide means to support the Government of the Indian Territory, it shall have power to do so; but no revenue shall be raised not actually necessary and in accordance with law, uniform in its operations throughout the Territory.</p>
+</div2>
+<div2>
+<head>Article III, §14</head>
+<p>All bills making appropriations shall originate in the House of Representatives; but the Senate may propose amendments or reject the same.  All other bills may originate in either branch subject to the concurrence or rejection of the other.</p> 
+</div2>
+<div2>
+<head>Article III, §15</head>
+<p>The House of Representatives shall have the sole power of impeaching. All impeachments shall be tried by the Senate. When sitting for that purpose, the Senators shall be on oath or affirmation and shall be presided over by the Chief Justice; and no person shall be convicted without the concurrence of two-thirds of the members present.</p> 
+</div2>
+<div2>
+<head>Article III, §16</head>
+<p>The Governor and all civil officers shall be liable to impeachment for any misdemeanor in office; but judgment in such cases shall not extend farther than removal from office and disqualification to hold any office of honor, trust or profit under this Government; but the party whether convicted or acquitted, shall nevertheless be liable to indictment, trial and punishment according to law as in other cases.</p>
+</div2>
+<div2>
+<head>Article III, §17</head>
+<p>The salaries of all officers created under this Constitution, not otherwise provided shall be regulated by law, but no increase or diminution shall be made in the same during the term for which said officers may have been elected or appointed.</p>
+</div2>
+<div2>
+<head>Article IV, §1</head>
+<p>The Executive power of this Territory shall be vested in a Governor who shall be styled the Governor of the Indian Territory, and whose term of service shall be two years, and until his successor shall have been elected and qualified. He shall be elected by the qualified electors of each nation on the first Wednesday in April at the usual places of holding elections of the several nations. The returns of the election of Governor shall be sealed up and directed to the Secretary of the Territory who shall open and publish them in the presence of the Senate and House of Representatives in joint session assembled. The person having the highest number of votes shall be declared Governor by the president of the Senate; but if two or more shall be equal and highest in votes, then one of them shall be chosen by the majority of votes by joint ballot of both Houses of the General Assembly.</p>
+</div2>
+<div2>
+<head>Article IV, §2</head>
+<p>The manner of conducting and determining contested elections shall be directed by law.</p>  
+</div2>
+<div2>
+<head>Article IV, §3</head>
+<p>No person shall be eligible to the office of Governor who shall not have attained to the age of thirty years.</p> 
+</div2>
+<div2>
+<head>Article IV, §4</head>
+<p>Whenever the office of Governor shall become vacant by death, resignation, removal from office or otherwise, the President of the Senate shall exercise the office, until another Governor shall be duly qualified. In case of the death, resignation, removal from office or other disqualification of the President of the Senate so exercising the office of Governor, the Speaker of the House of Representatives shall fill the office until the President of the Senate shall have been chosen and qualified to act as Governor.</p> 
+</div2>
+<div2>
+<head>Article IV, §5</head>
+<p>The Governor shall receive at stated times for his services a compensation to be fixed by law which shall be neither increased nor diminished during the period for which he shall have been elected, nor shall he receive within that period other emolument from the Indian Territory.</p>
+</div2>
+<div2>
+<head>Article IV, §6</head>
+<p>The Governor shall from time to time give to the General Assembly information in writing of the state of the Government and recommend to its consideration such measures as he may deem expedient, and shall take care that the laws be faithfully executed.</p>
+</div2>
+<div2>
+<head>Article IV, §7</head>
+<p>The Governor, on extraordinary occasions may by proclamation convene the General Assembly at the seat of Government to legislate upon such matters only as he may recommend.</p>
+</div2>
+<div2>
+<head>Article IV, §8</head>
+<p>When vacancies occur in offices the appointment of which is vested in the Governor by and with the consent of the Senate, he shall have power to fill such vacancies by commission which shall expire at the end of the next session of the General Assembly.</p> 
+</div2>
+<div2>
+<head>Article IV, §9</head>
+<p>The Governor may grant pardons, and respites and remit fines for offenses agains the laws of thist Territory, and shall cammission all officers who shall be appointed or elected to office under the laws of the Territory.</p>
+</div2>
+<div2>
+<head>Article IV, §10</head>
+<p>Every bill which shall have passed both houses of the General Assembly shall be presented to the Governor; if he approve, he shall sign it; if not he shall return it, with his objections, to the house in which it may have originated, which shall enter the objections at large upon the journal and proceed to reconsider it. If after such reconsideration two-thirds of the members present shall agree to pass the bill, it shall be sent with the objections to the other house, by which it shall likewise be reconsidered; if approved by two-thirds of the members present of that house, it shall become a law; but in such case the votes of both houses shall be determined by yeas and nays, and the names of the members voting for and against the bill shall be entered on the journals of each house respectively. If any bill shall not be returned by the Governor within five days (Sundays excepted) after it shall have been presented to him, the same shall become a law in like manner as if he had signed it unless the General Assembly by their adjournment prevent its return, in which case it shall be a law unless sent back within three days after their next meeting.</p>
+</div2>
+<div2>
+<head>Article IV, §11</head>
+<p>There shall be a Secretary of said Territory who shall be appointed by the Governor with the advice and consent of the Senate and who shall hold his office for two years, and whose duties shall be prescribed by law.  He shall also act as Treasurer of the Territory until otherwise provided.  Before entering upon his duties as Treasurer, he shall give bond with such sureties as may be required by law.  No money shall be drawn from the Treasury but by warrant from the Governor, and in consequence of appropriations made by law.  There shall also be appointed in like manner one Marshal who shall have power to appoint such deputies as may be authorized.  There shall likewise be appointed one Attorney General and two District Attorneys, whose duties and terms of office shall be defined by law.</p>
+</div2>
+<div2>
+<head>Article IV, §12</head>
+<p>All commissions shall be in the name and by the authority of the Indian Territory, and be sealed with the Seal and signed by the Governor and attested by the Secretary of the Territory.</p>
+</div2>
+<div2>
+<head>Article V, §1</head>
+<p>The Judicial Department of the Indian Territory shall be vested in a Supreme Court, three District Courts, and such inferior courts as may be provided by law; but their jurisdiction shall not interfere with the civil and criminal jurisdiction retained to each separate nation by the treaties of 1866.</p> 
+</div2>
+<div2>
+<head>Article V, §2</head>
+<p>The Supreme Court shall be composed of the three Judges who shall be appointed by the Governor with the approval of the Senate as District Judges. Two of said judges shall form a quorum of the Supreme Court for the transaction of business. Their terms of office shall be six years, provided that the office of one of said judges shall be vacated in two years, of one in four years, and of one in six years, so that at the expiration of each two years one of said judges shall be appointed as aforesaid. The judge appointed for six years shall be the first Chief Justice of the Supreme Court and upon the expiration of his term the senior judge in office shall be thereafter the Chief Justice.</p> 
+</div2>
+<div2>
+<head>Article V, §3</head>
+<p>The Supreme Court shall meet at the Capital commencing on the first Mondays in June and December in each year.  The Supreme Court shall be a court of appellate jurisdiction from the district courts and original jurisdiction in such cases as may be prescribed by law. </p>
+</div2>
+<div2>
+<head>Article V, §4</head>
+<p>The Supreme and District judges shall have power to issue writs of <emph>habeas corpus</emph> and other process necessary to the exercise of their appellate or original jurisdiction.</p> 
+</div2>
+<div2>
+<head>Article V, §5</head>
+<p>The District Courts shall have original jurisdiction of all cases civil and criminal arising from the trade or intercourse between the several nations and all cases arising under the legislation of this government as may be prescribed by law.</p>
+</div2>
+<div2>
+<head>Article V, §6</head>
+<p>Writs of error, bills of exceptions, and appeals may be allowed from the final decisions of the District Courts in such cases as shall be prescribed by law.</p>
+</div2>
+<div2>
+<head>Article V, §7</head>
+<p>It shall be the duty of the General Assembly to divide the Indian Territory into three districts which shall be as nearly equal in territory and population as may be practicable, assign one of the three judges to each district and provide for the holding of terms of the district court in each at such times and places as may be deemed expedient.</p> 
+</div2>
+<div2>
+<head>Article V, §8</head>
+<p>No person shall be appointed a judge of any of the Courts until he shall have attained to the age of thirty years and be a person of good character and suitable qualifications.</p> 
+</div2>
+<div2>
+<head>Article V, §9</head>
+<p>No judge shall sit on a trial of any cause in which he may be interested, or in which he is connected to either of the parties by affinity or consanguinity, except by consent of the parties; and in case of disqualification of any judge, the vacancy shall be filled as may be prescribed by law.</p>  
+</div2>
+<div2>
+<head>Article V, §10</head>
+<p>All writs and other process shall run in the name of the Indian Territory and bear test and be signed by the Clerk issuing the same.</p>
+</div2>
+<div2>
+<head>Article V, §11</head>
+<p>Indictments shall conclude "Against the peace and dignity of the Indian Territory."</p>
+</div2>
+<div2>
+<head>Article V, §12</head>
+<p>Each court shall appoint its own Clerk whose duty and compensation shall be fixed by law.</p> 
+</div2>
+<div2>
+<head>Article VI, §1</head>
+<p>The General Assembly may propose such amendments to this Constitution as three-fourths of each branch may deem expedient; and the Governor shall issue a proclamation directing all civil officers of the Territory to promulgate the same as extensively as possible within their respective districts, at least six months previous to the annual sessions of the National Councils of the nations parties hereto; and if three-fourths of such National Councils at such next annual sessions shall ratify such proposed amendment they shall be valid to all intents and purposes as part of this Constitution.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, preamble</head>
+<p>That the general, great and essential principles of liberty and free government may be recognized and established we declare&#8212;</p>
+</div2>
+<div2>
+<head>Declaration of Rights, §1</head>
+<p>That all political power is inherent in the people, and all free governments are founded on their authority and instituted for their benefit; and they shall have at all times the inalienable right to alter, reform or abolish their form of government as may be lawfully provided for.</p>
+</div2>
+<div2>
+<head>Declaration of Rights, §2</head>
+<p>The free exercise of religious worship and serving God without distinction of creed shall forever be enjoyed within the limits of this Territory. Provided that the liberty of conscience shall not be so construed as to excuse acts of licentiousness or justify practices inconsistent with the peace, safety and good morals of this Territory.</p>  
+</div2>
+<div2>
+<head>Declaration of Rights, §3</head>
+<p>No religious test shall ever be required as a qualification to any office of public trust in this Territory.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §4</head>
+<p>Every citizen shall be at liberty to speak, write or publish his opinions on any subject being responsible for the abuse of this privilege; and no law shall ever be passed curtailing the liberty of speech or of the press.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §5</head>
+<p>The people shall be secure in their persons, houses, papers and possessions from all unreasonable searches, seizures, and intrusions; and no warrant to search any place or to seize any person or thing shall be issued without describing them as nearly as may be, nor without good cause supported by oath or affirmation.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §6</head>
+<p>In all criminal prosecutions the accused shall have a speedy trial by an impartial jury, of the district wherein the crime shall have been committed; the right of demanding the nature and cause of the accusation, of having the witnesses to testify in his presence, of having compulsory process to procure witnesses in his favor, of having the right to be heard by himself and counsel, of not being compelled to testify against himself, nor to be held to answer to any criminal charge but on information or indictment by a grand jury.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §7</head>
+<p>All prisoners shall be bailable before conviction by sufficient surety except for a capital offense where the proof is evident or the presumption great.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §8</head>
+<p>Excessive bail shall not be required, nor excessive fines imposed, nor cruel or unusual punishment inflicted, and all courts shall be open and every person for an injury done him in his person, reputation or property, shall have remedy as the law directs.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §9</head>
+<p>No person for the same offense shall be twice put in jeopardy of life or limb and the right of trial by jury shall remain inviolate.</p>
+</div2>
+<div2>
+<head>Declaration of Rights, §10</head>
+<p>No person shall be imprisoned for debt.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §11</head>
+<p>The citizens shall have the right in a peaceable manner to assemble for their common good, to instruct their representatives and to apply to those invested with the powers of government for redress of grievances or other purposes, by petition, address or remonstrance.</p>
+</div2>
+<div2>
+<head>Declaration of Rights, §12</head>
+<p>The privilege of the writ of <emph>habeas corpus</emph> shall not be suspended unless the public safety should require it.</p> 
+</div2>
+<div2>
+<head>Declaration of Rights, §13</head>
+<p>All power not herein expressly granted by the nations parties to this constitution are reserved by them respectively according to the provisions of their several treaties with the United States.</p>
+</div2>
+<div2>
+<head>Schedule to the Constitution</head>
+<p>In order to organized the Government of the Indian Territory, and secure practical operation for the same, it is hereby ordained and the provisions of this schedule shall be of the same binding force as the Constitution, of which it is a part, that it shall be the duty of the Secretary of this General Council to transmit a duly authenticated copy of this Constitution to the executive authority of each nation represented in the General Council and to ask the acceptance and ratification of the same by the Councils or people of the respective Nations. 
+Upon receiving from such authority notification of its acceptance and ratification by National Councils representing two-thirds of the population of the nations represented in the General Council, it shall be his duty to promulgate such fact, and to call a session of the General Council from the nations ratifying this Constitution at such place as the present session may designate for its next meeting. It shall be the duty of the General Council when so assembled to adopt such measures as may be necessary to secure the election of a Governor and members of the General Assembly, and to fix the time of the first meeting of said assembly, whose duty it shall be to perfect the organization of the Government of the Indian Territory under the provisions of the foregoing Constitution.</p>
+<p>Provided, that this Constitution shall be obligatory and binding only upon such nations and tribes as may hereafter duly approve and adopt the same.</p>
+
+<closer><signed>Enoch Hoag, Supt. Indian Affairs, President</signed><lb />
+
+<signed>G. W. Greyson, Secretary</signed></closer>
+</div2>
+</div1>
+
+<div1>
+<milestone unit="crosses"/>
+<head>References</head>
+
+    <bibl>A bill to authorize the election of a delegate in Congress from Indian Territory.  (1870).  Senate.  41st Congress, 3rd session.  Senate No. 1082.  Available at the Library of Congress "Bills and Resolutions" <ref target="http://memory.loc.gov/ammem/amlaw/lwhbsb.html">Web site.</ref>.</bibl>
+    
+    <bibl>A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twentieth, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States.  (1871a).  Senate.  42nd Congress, 1st session.  Senate No. 80.  Available at the Library of Congress "Bills and Resolutions" <ref target="http://memory.loc.gov/ammem/amlaw/lwhbsb.html">Web site.</ref>.</bibl>
+    
+    <bibl>A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twenty, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States [20 January 1871].  (1871b).  Senate.  41st Congress, 3rd session.  Senate No. 1237.  Available at the Library of Congress "Bills and Resolutions" <ref target="http://memory.loc.gov/ammem/amlaw/lwhbsb.html">Web site.</ref>.</bibl>
+    
+    <bibl>A bill to ratify and carry into effect the constitution and form of government for the Indian Territory adopted December twenty, anno Domini eighteen hundred and seventy, at Okmulgee, by the general council of said Territory, held by authority of the Government of the United States [20 and 25 January 1871].  (1871c).  Senate.  41st Congress, 3rd session.  Senate No. 1237.  Available at the Library of Congress "Bills and Resolutions" <ref target="http://memory.loc.gov/ammem/amlaw/lwhbsb.html">Web site.</ref>.</bibl>
+
+<bibl><title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title>.  (1873).  Washington, DC: Government Printing Office.</bibl> 
+
+<bibl>Abel, A. H.  (1908).  Proposals for an Indian state.  <title>Annual Report of the American Historical Association for the Year 1907</title>, vol. 1 (pp. 87-104).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Applen, A. G.  (1971).  An attempted Indian state government: The Okmulgee Constitution in Indian territory, 1870-1876.  <title>Kansas Quarterly 3</title>, 89-99.</bibl>
+
+<bibl>Aust, A.  (2005).  <title>Handbook of International Law</title>.  New York: Cambridge University Press.</bibl>
+
+<bibl>Aust, A.  (2007).  <title>Modern Treaty Law and Practice</title> (second edition).  New York: Cambridge University 
+Press.</bibl>
+
+<bibl>Beckett, A. L.  (1930).  <title>Know Your Oklahoma</title>.  Oklahoma City, OK: Harlow Publishing.</bibl>
+
+<bibl>Bernholz, C. D.  (2011).  Comparing texts of the <title>Okmulgee Constitution</title>: Fourteen instrument versions and Levenshtein's edit distance metric.  Available at <ref target="http://digitalcommons.unl.edu/libraryscience/231/">http://digitalcommons.unl.edu/libraryscience/231/</ref>.</bibl>
+
+<bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2009).   The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>: Revisiting the document found in Kappler's <title>Indian Affairs: Laws and Treaties</title>.  Available at <ref target="http://treatyoffortlaramie1851.unl.edu/">http://treatyoffortlaramie1851.unl.edu/</ref>.</bibl>
+
+<bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2011).  Comparing nearly identical treaty texts: A note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> and Levenshtein's edit distance metric.  <title>Literary and Linguistic Computing 26</title>, 5-16.</bibl>
+
+<bibl>Buck, S. J.  (1907).  The settlement of Oklahoma.  <title>Transactions of the Wisconsin Academy of Sciences, Arts, and Letters 15</title> (part 2), 325-380.</bibl>
+
+<bibl>Burton, J.  (1995).  <title>Indian Territory and the United States, 1866-1906: Courts, Government, and the Movement for Oklahoma Statehood</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+
+<bibl>Cerquiglini, B.  (1999).  <title>In Praise of the Variant: A Critical History of Philology</title>.  Baltimore, MD: Johns Hopkins University Press.</bibl>
+
+<bibl>Champagne, D.  (1992).  <title>Social Order and Political Change: Constitutional Governments Among the Cherokee, the Choctaw, the Chickasaw, and the Creek</title>.  Stanford, CA: Stanford University Press.</bibl>
+
+<bibl><title>Constitution and Civil and Criminal Code of the Muskokee Nation, Approved at the Council Ground Muskokee Nation, October 12, 1867</title>.  (1868).  Washington, DC: McGill &amp; Witherow.</bibl>
+
+<bibl><title>Constitution and Laws of the Choctaw Nation: Together with the Treaties of 1855, 1865 and 1866</title>.  (1869).  New York: W. P. Lyon &amp; Son.</bibl>
+
+<bibl>Constitution of the Indian Territory.  (1873a, June 21).  <title>The Vindicator</title>, 1.</bibl>
+
+<bibl>Constitution of the Indian Territory.  (1873b, June 28).  <title>The Vindicator</title>, 2.</bibl>
+
+<bibl>Constitution of the state of Oklahoma.  (1908).  Senate.  60th Congress, 1st session.  Senate Document No. 187 (<title>Serial Set</title> 5240).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl><title>Constitution, Laws, and Treaties of the Chickasaws</title>.  (1867).  Fort Smith, AR: John F. Wheeler.</bibl>
+
+<bibl>Corden, S. K. and Richards, W. B.  (1912).  <title>The Oklahoma Red Book</title>, vol. 1.  Oklahoma City, OK: [s. n.].</bibl>
+
+<bibl>Debo, A.  (1934).  <title>The Rise and Fall of the Choctaw Republic</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+
+<bibl>Douglas, J.  (1951).   Typographical correction: On the basis theorem for finite abelian groups (Third Note).  <title>Proceedings of the National Academy of Sciences of the United States of America 37</title>, 716.</bibl>
+
+<bibl>Editorial.  (1912).  <title>The Virginia Law Register 18</title>, 225-235.</bibl>
+
+<bibl>Folsom, E. and Price, K. M.  (2005).  <title>Re-scripting Walt Whitman : An Introduction to His Life and Work</title>.  Malden, MA: Blackwell Publishing.</bibl>
+
+<bibl>From Leavenworth.  (1866, July 26).  <title>Chicago Tribune</title>, 1.</bibl>
+
+<bibl>Garrett, K.  (1954).  Dartmouth alumni in the Indian territory.  <title>Chronicles of Oklahoma 32</title>, 123-141.</bibl>
+
+<bibl>Gimcrack, G.  (1833).  <title>A Code of Common Sense, or, Patent Pocket Dictionary: Original, Derivative, Authoritative, Orthographical, Etymological, Proverbial, Phraseological, and Synonymous</title>.  Manchester, UK: W. H. Jones.</bibl>
+
+<bibl>Ginsca, A.-L. and Iftene, A.  (2010).  Using a genetic algorithm for optimizing the similarity aggregation step in the process of ontology alignment.  <title>Ninth IEEE Romanian Educational Network (Roedunet) International Conference</title> (pp. 118-122), Sibiu, Romania.</bibl>
+
+<bibl>Hargrett, L.  (1947).  <title>A Bibliography of the Constitutions and Laws of the American Indians</title>.  Cambridge, MA: Harvard University Press.</bibl>
+
+<bibl>Hefley, A. D.  (1934).  A Choctaw landmark.  <title>Chronicles of Oklahoma 12</title>, 474-478.</bibl>
+
+<bibl>Higgins, I. M.  (1997).  <title>Writing East: The "Travels" of Sir John Mandeville</title>.  Philadelphia, PA: University of Pennsylvania Press.</bibl>
+
+<bibl>Hill, E. E.  (1974).  <title>The Office of Indian Affairs, 1824-1880: Historical Sketches</title>.  New York: Clearwater Publishing.</bibl>
+
+<bibl>Hill, L. B.  (1910). <title> A History of the State of Oklahoma</title>, vol. 1.  Chicago, IL: Lewis Publishing.</bibl>
+
+<bibl>Hill, W. S.  (1978).  The calculus of error, or confessions of a general editor.  <title>Modern Philology 75</title>, 247-260.</bibl>
+
+<bibl>Hodge, F. W.  (1907).  Handbook of American Indians North of Mexico.  House of Representatives.  59th Congress, 1st session.  House Document No. 926, part 2 (<title>Serial Set</title> 5002).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Hofmann, P. W.  (1860).  Contributions towards the history of azobenzol and benzidine.  <title>Proceedings of the Royal Society of London 10</title>, 585-588.</bibl>
+
+<bibl>Huss, R. E.  (1973).  <title>The Development of Printers' Mechanical Typesetting Methods, 1822-1925</title>.  Charlottesville, VA: University Press of Virginia.</bibl>
+
+<bibl>In the Senate of the United States.  (1879).  Senate.  45th Congress, 3rd session.  Senate Report No. 744 (<title>Serial Set</title> 1839).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Indian appropriations bill.  (1872).  <title>Congressional Globe 45</title>, 2098-2100.</bibl>
+
+<bibl>Indian territory, Oklahoma.  (1871).  <title>Congressional Globe 43</title>, 600-605.</bibl>
+
+<bibl>Investigation of Indian frauds.  (1873).  House of Representatives.  42nd Congress, 3rd session.  House Report No. 98 (<title>Serial Set</title> 1578).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Jane, C.  (1930).  The letter of Columbus announcing the success of his first voyage.  <title>The Hispanic American Historical Review 10</title>, 33-50.</bibl>
+
+<bibl>Jeffrey, R.  (1990).  Matriliny, women, development  - and a typographical error.  <title>Pacific Affairs 63</title>, 373-377.</bibl>
+
+<bibl><title>Journal of the [Adjourned Session of the] Fourth Annual Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council, at Okmulgee, Indian Territory, Dec. 1st, 1873, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscokee, and Seminole Tribes of Indians, of Same Date</title>.  (1874).  [Boggy Depot, IT: N. p.].</bibl>
+
+<bibl><title>Journal of the Adjourned Session of the Sixth Annual General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 1st to the 9th (Inclusive) of Sept., 1875, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date</title>.  (1875).   Lawrence, KS: Journal Steam Book and Job Printing House.</bibl>
+
+<bibl><title>Journal of the Fifth Annual Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 4th to the 14th (Inclusive) of May, 1874, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date</title>.  (1874).  Lawrence, KS: Journal Steam Book and Job Printing House.</bibl>
+
+<bibl><title>Journal of the Fourth Annual Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 5th to the 15th (Inclusive) of May, 1873, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscokee, and Seminole Tribes of Indians, of Same Date</title>.  (1873).  Lawrence, KS: Journal Steam Book and Job Printing House.</bibl>
+
+<bibl><title>Journal of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Thereof, Assembled in Council at Okmulgee, in the Indian Territory, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington, in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muskokee, and Seminole Tribes of Indians, of the Same Date</title>.  (1871).  Lawrence, KS: Excelsior Book and Job Printing.</bibl>
+
+<bibl><title>Journal of the Second Annual Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 5th to the 14th (Inclusive) of June, 1871, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscokee, and Seminole Tribes of Indians, of Same Date</title>.    (1871).   Lawrence, KS: Journal Book and Job Printing House.</bibl>
+
+<bibl><title>Journal of the Sixth Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 3d to the 15th (Inclusive) of May, 1875, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscogee, and Seminole Tribes of Indians, of Same Date</title>.  (1875).  Lawrence, KS: Republican Journal Steam Printing.</bibl>
+
+<bibl><title>Journal of the Third Annual Session of the General Council of the Indian Territory, Composed of Delegates Duly Elected from the Indian Tribes Legally Resident Therein, Assembled in Council at Okmulgee, Indian Territory, From the 3d to the 18th (Inclusive) of June, 1872, Under the Provisions of the Twelfth Article of the Treaty Made and Concluded at the City of Washington in the Year 1866, Between the United States and the Cherokee Nation, and Similar Treaties Between the United States and the Choctaw and Chickasaw, Muscokee, and Seminole Tribes of Indians, of the Same Date</title>.  (1872).  Lawrence, KS: Journal Book and Job Printing House.</bibl>
+
+<bibl>Kappler, C. J.  (1903).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  57th Congress, 1st session.  Senate Document No. 452, part 2 (<title>Serial Set</title> 4254).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Kappler, C. J.  (1904).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  58th Congress, 2nd session.  Senate Document No. 319, part 2 (<title>Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Kappler, C. J.  (1929).  Indian affairs.  Laws and treaties, vol. 4.  Laws.  Senate.  70th Congress, 1st session.  Senate Document No. 53 (<title>Serial Set</title> 8849).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Kukich, K.  (1992).  Techniques for automatically correcting words in text.  <title>ACM Computing Surveys 24</title>, 377-439.</bibl>
+
+<bibl><title>Laws of the Cherokee Nation: Adopted by the Council at Various Periods</title>.  (1852).  Tahlequah, CN: Cherokee Advocate.</bibl>
+
+<bibl><title>Laws of the United States Relating to Indian Affairs: Compiled from the Revised Statutes of the United States enacted June 22, 1874, and from Statutes at Large from that date to March 4, 1883: Also, Special Acts and Resolutions Previous to the Enactment of the Revised Statutes, not Embraced in or Repealed by the Revision: Also, List of all Ratified Treaties and Agreements Made with the Several Indian Tribes</title> (3rd ed.).  (1884).  Washington, DC: Government Printing Office.</bibl> 
+
+<bibl>Martino, D.  (1962).  [Typographical errors in "The source set and its aggregate formations"].  <title>Journal of Music Theory 6</title>, 322-323.</bibl>
+
+<bibl>Matthews, J. M.  (1864/1988).  <title>The Statutes at Large of the Provisional Government of the Confederate States of America</title>.  Buffalo, NY: W. S. Hein.</bibl>
+
+<bibl>Maxwell, A.  (1950a).  The Sequoyah convention.  <title>Chronicles of Oklahoma 28</title>, 161-192.</bibl>
+
+<bibl>Maxwell, A.  (1950b).  The Sequoyah convention.  <title>Chronicles of Oklahoma 28</title>, 299-340.</bibl>
+
+<bibl>Meriam, L.  (1928).  <title>The Problem of Indian Administration: Report of a Survey Made at the Request of Honorable Hubert Work, Secretary of the Interior, and Submitted to Him, February 21, 1928</title>.  Baltimore, MD: Johns Hopkins Press.</bibl>
+
+<bibl>Meserve, J. B.  (1931).  Chief Pleasant Porter.  <title>Chronicles of Oklahoma 19</title>, 318-334.</bibl>
+
+<bibl>Meserve, J. B.  (1937).  Chief William Potter Ross.  <title>Chronicles of Oklahoma 15</title>, 21-29.</bibl>
+
+<bibl>Message of the President of the United States, and accompanying documents, to the two Houses of Congress, at the commencement of the first session of the Thirty-ninth Congress.  (1866).  House of Representatives.  39th Congress, 1st session.  House Executive Document No. 1, part 2 (<title>Serial Set</title> 1248).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Message of the President of the United States, communicating a copy of the proceedings of the council of Indian tribes held at Ocmulgee, in December, 1870.  (1871).  Senate.  41st Congress, 3rd session.  Senate Executive Document No. 26 (<title>Serial Set</title> 1440).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Message of the President of the United States, communicating the second annual report of the Board of Indian Commissioners.  (1871).  Senate.  41st Congress, 3rd session.  Senate Executive Document No. 39 (<title>Serial Set</title> 1440).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Neavill, G. B.  (1975).  Role of the publisher in the dissemination of knowledge.  <title>Annals of the American Academy of Political and Social Science 421</title>, 23-33.</bibl>
+
+<bibl>Nesbitt, P.  (1936).  Governor Haskell tells of two conventions.  <title>Chronicles of Oklahoma 14</title>, 198-217.</bibl>
+
+<bibl><title>New Zealand Maori Council v. Attorney-General</title>, 1 New Zealand Law Reports 641 (1987).</bibl>
+
+<bibl>Nolen, C. L.  (1980).  The <title>Okmulgee Constitution</title>: A step towards Indian self-determination.  <title>Chronicles of Oklahoma 58</title>, 264-281.</bibl>
+
+<bibl>Okmulgee Constitution.  (1925).  <title>Chronicles of Oklahoma 3</title>, 216-228.</bibl>
+
+<bibl>Okmulgee council.  (1876, April 26). <title> The Vindicator</title>, 6.</bibl>
+
+<bibl>Oliver, H. J.  (1947).  The composition and revision of "The Complet Angler."  <title>The Modern Language Review 42</title>, 295-313.</bibl>
+
+<bibl>Origin of county names in Oklahoma.  (1924).  <title>Chronicles of Oklahoma 2</title>, 75-82.</bibl>
+
+<bibl>Poore, B. P.  (1877).  <title>The Federal and State Constitutions, Colonial Charters, and Other Organic Laws of the United States</title>.  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Proposed state of Sequoyah.  (1906).  Senate.  59th Congress, 1st session.  Senate Document No. 143 (<title>Serial Set</title> 4912).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Protest against Indian territorial government.  Protest of the General Indian Council of the Indian Territory, organized under the treaties of 1866, to the President and Congress of the United States, protesting against a territorial government being established over the Indians without their consent.  (1874).  House of Representatives.  43rd Congress, 1st session.  House Miscellaneous Document No. 88 (<title>Serial Set</title> 1618).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Protest of Creek, Cherokee, and Choctaw nations.  Protest of Creek, Cherokee, and Choctaw nations against propositions pending in Congress to frame territorial governments. (1872).  House of Representatives.  42nd Congress, 2nd session.  House Miscellaneous Document No. 51 (<title>Serial Set</title> 1525).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Protest of the Indian delegates to the survey of their lands in the Indian Territory, as proposed in the Indian appropriations bill.  (1872).  House of Representatives.  42nd Congress, 2nd session.  House Miscellaneous Document No. 166 (<title>Serial Set</title> 1526).  Washington, DC: Government Printing Office.</bibl>
+
+<bibl>Schmidt, D. and Colomb, R.  (2009).  A data structure for representing multi-version texts online.  <title>International Journal of Human-Computer Studies 67</title>, 497-514.</bibl>
+
+<bibl>Shawcross, J. T.  (1963).  One aspect of Milton's spelling: idle final "e."  <title>PMLA 78</title>, 501-510.</bibl>
+
+<bibl>Soukoreff, R. W. and MacKenzie, I. S.  (2001).  Measuring errors in text entry tasks: An application of the Levenshtein string distance statistic.  <title>Companion Proceedings of the ACM Conference on Human Factors in Computing Systems &#8212; CHI 2001</title> (pp. 319-320).  New York: Association of Computing Machinery.</bibl>
+
+<bibl>Spencer, M.; Bordalejo, B.; Wang, L.-S.; Barbrook, A. C.; Mooney, L. R.; Robinson, P.; Warnow, T.; and Howe, C. J.  (2003).  Analyzing the order of items in manuscripts of "The Canterbury Tales."  <title>Computers and the Humanities 37</title>, 97-109.</bibl>
+
+<bibl>Talcott, A. and Walker, S. C.  (1839).  Determination of the longitude of several stations near the northern boundary of Ohio, from transits of the moon, and moon-culminating stars, observed in 1835.  <title>Transactions of the American Philosophical Society</title> (New Series) <hi rend="italics">6</hi>, 241- 266.</bibl>
+
+<bibl>Takahashi, S. and Izumi, T.  (2006).  Travel time measurement by vehicle sequence matching method - Evaluation method of vehicle sequence using Levenshtein distance.  <title>SICE-ICASE, 2006 International Joint Conference</title> (pp. 1625-1629). Bucheon City, Korea: <hi rend="italics">ICASE</hi>.</bibl>
+
+<bibl>The great seal of the state of Oklahoma.  (1957). <title>Chronicles of Oklahoma 35</title>, 250-254.</bibl>
+
+<bibl><title>The Oxford English Dictionary</title> (Second edition).  (1989).  Oxford: Clarendon Press.</bibl>
+
+<bibl>Ward, A.  (1991).  Interpreting the Treaty of Waitangi: The Maori resurgence and race relations in New Zealand.  <title>The Contemporary Pacific 3</title>, 85-113.</bibl>
+
+<bibl>Wilkins, D. E.  (2009).  <title>Documents of Native American Political Development: 1500s to 1933</title>.  New York: Oxford University Press.</bibl>
+
+<bibl>Williams, A. M.  (1879).  A grand council at Okmulgee.  <title>Lippincott's Magazine of Popular Literature and Science 24</title>, 371-375.</bibl>
+
+<bibl>Williams, S. C.  (1930).  <title>Adair's History of the American Indians</title>.  Johnson City, TN: Watauga Press.</bibl>
+
+<bibl>Wright, M. H.  (1936).  Contributions of the Indian people to Oklahoma.  <title>Chronicles of Oklahoma 14</title>, 156-161.</bibl>
+
+<bibl>Wright, M. H.  (1951).  <title>A Guide to the Indian Tribes of Oklahoma</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+
+<bibl>Zini, M.; Fabbri, M.; Moneglia, M.; and Panunzi, A.  (2006).  Plagiarism detection through multilevel text comparison.  <title>Second International Conference on Automated Production of Cross Media Content for Multi-Channel Distribution</title> (pp. 181-185).  Washington, DC: IEEE Computer Society.</bibl>
+</div1>
+
+<div1>
+<milestone unit="crosses"/>
+
+
+<head>Acknowledgements</head>
+                  
+<p>I thank Joan Giesecke, Dean of Libraries, for granting my sabbatical, during which I worked on this study.  This analysis was one part of a larger examination; <ref target="http://digitalcommons.unl.edu/libraryscience/231/">see Bernholz (2011)</ref> for the entire report.  I thank Brian Pytlik Zillig, Laura Weakly, and Karin Dalziel of the Center for Digital Research in the Humanities at the University of Nebraska&#8211;Lincoln for their assistance during this project.</p>
+</div1>
+<div1>      
+<milestone unit="crosses"/>
+
+<head>Notes</head>
+
+<note xml:id="f01">
+*Phone: 402-472-4473<lb/>
+Fax: 402-472-5181<lb/>
+E-mail: cbernholz2@unl.edu</note>
+                  
+<note xml:id="n1">1. The <emph>Cherokee</emph> twelfth Amendment was specifically noted in the <emph>Journal</emph> titles of the publications produced to record the council events, as were the other corresponding treaties created with the Choctaw and Chickasaw (see Article 8 of the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0918.htm"> <emph>Treaty with the Choctaw and Chickasaw, 1866</emph></ref>; Kappler, 1904b, pp. 921-923), the Muskokee or Creek (Article 10 of the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/cre0931.htm"> <emph>Treaty with the Creeks, 1866</emph></ref>; pp. 934-936), and the Seminole (Article 7 of the <ref target="http://digital.library.okstate.edu/kappler/Vol2/treaties/sem0910.htm"> <emph>Treaty with the Seminole, 1866</emph></ref>; pp. 913-914).</note>
+                  
+<note xml:id="n2">2. See <title>Laws of the Cherokee Nation: Adopted by the Council at Various Periods</title> (1852), and  Corden and Richards (1912, pp. 201-210); <title>Constitution and Laws of the Choctaw Nation: Together with the Treaties of 1855, 1865 and 1866</title> (1869), and Corden and Richards (pp. 211-223); <title>Constitution and Civil and Criminal Code of the Muskokee Nation, Approved at the Council Ground Muskokee Nation, October 12, 1867</title> (1868); and <title>Constitution, Laws, and Treaties of the Chickasaws</title> (1867), and Corden and Richards (pp. 228-237), respectively.  Hargrett (1947) collected a bibliography of tribal constitutions and laws and stated that these instruments were very serviceable right up to the enabling act for Oklahoma in 1906.</note>
+                  
+<note xml:id="n3">3. The Southern Superintendency "was responsible for the Cherokee, Creek, Chickasaw, Seminole, Quapaw, Seneca and Mixed Band of Seneca and Shawnee living in Indian Territory, and for the Osage Indians of southern Kansas" (Hill, 1974, p. 174).</note>
+                  
+<note xml:id="n4">4. Folsom and Price spoke of Whitman's "meticulous revision" and that "<title>Leaves of Grass</title> was Whitman's title for a process more than a product: every change in his life and in his nation made him reopen his book to revision" (2005, pp. 29 and ix, respectively).</note>
+                  
+<note xml:id="n5">5. As one representative of these actions, the <title>New Zealand Maori Council v. Attorney-General</title> case before the New Zealand Court of Appeal (1987, p. 642; emphasis added) discussed in particular the variance between the English and the Maori texts of the 1840 <title>Treaty of Waitangi</title>, as published in the <title>Treaty of Waitangi Act, 1975</title>: "The choice by Parliament of the expression 'inconsistent with the principles of the <title>Treaty of Waitangi</title>,' in s 9 of the Act, was deliberate.  <emph>It reflects that the English and Maori texts in the first schedule to the <title>Treaty of Waitangi Act 1975</title> are not translations the one of the other and do not necessarily convey precisely the same meaning</emph>."  See Ward (1991) and the two treaty versions in the now adjusted Schedule 1 of the <ref target="http://www.legislation.govt.nz/act/public/1975/0114/latest/DLM435834.html"><title>Treaty of Waitangi Act, 1975</title></ref>.</note>
+                  
+<note xml:id="n6">6. This instrument is more fully discussed at the Web site <ref target="http://treatyoffortlaramie1851.unl.edu/">The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>: Revisiting the Document Found in Kappler's <title>Indian Affairs: Laws and Treaties</title></ref>.</note>
+                  
+<note xml:id="n7">7. Harlan was very active in Indian Affairs and served with the Committee on Indian Affairs during the Forty-first and Forty-second Congresses.  Besides these pieces of legislation, he introduced A bill to authorize the election of a delegate in Congress from Indian Territory (1870) in the weeks preceding the initial publication of the <title>Okmulgee Constitution</title>.  Between May 1865 and July 1866, he served as Secretary of the Interior.</note>
+                  
+<note xml:id="n8">8. Such newspapers as <title>The Vindicator</title> kept the tribes informed.  Hodge (1907, p. 233), in a section allocated to Indian periodicals, classified <title>The Vindicator</title> as "[a] weekly newspaper... 'devoted to the interests of the Choctaws and Chickasaws,' printed mostly in English, with occasional articles in Choctaw, [which] was started at Atoka, Ind. T., in 1872."</note>
+                  
+    <note xml:id="n9">9. Note that the text subtends 270 rows in <ref target="okmulgee_constitution_tableIIa.htm" n="Okmulgee_Constitution_TableII.xls">Table IIA</ref>, but consists of only 267 elements plus three blanks.  The latter are due to interleafing the other versions within the Table.  Here, line number 3712 and 3713 hold the single term <emph>two-thirds</emph> in all versions except <emph>Territory </emph>for which the word is broken into two terms; the insertion of the term <emph>general </emph>at line number 3748 in <emph>Chronicles </emph>and <emph>Beckett</emph>; and the insertion of the term <emph>of</emph> at line number 3859 in <emph>Territory</emph>, <emph>Commissioners</emph>, and <emph>SenateA</emph>.</note>
+                  
+<note xml:id="n10">10. Wilkins also cited space issues for his collection (David Wilkins, personal communication, 24 June 2010).  See Bernholz and Pytlik Zillig (2010) for more on Kappler's decision to exclude the testimonium and the signatures from the text of this treaty in his 1903 compilation.</note>
+                  
+<note xml:id="n11">11. The element <emph>formes </emph>is in fact a legitimate term, especially so perhaps in the final product of a firm named Excelsior Book and Job Printing.  <title>The Oxford English Dictionary</title> (1989, vol. 6, p. 80) contributed this definition as a usage of the term <emph>form</emph>: "Printing.  A body of type, secured in a chase, for printing at one impression.  (Often spelt <emph>forme</emph>)."  It seems reasonable to postulate that its use in the <title>Okmulgee Constitution</title> phrase <emph>under the <hi rend="bold">formes</hi> prescribed by the Treaties of 1866</emph> was an occupational incursion.  However, it is further assumed that the intended word was indeed <emph>forms</emph> &#8212; as implied by the context and the use of <emph>forms</emph> by all other variants &#8212; and so this term is collected, and considered, with other misspellings.</note>
+                  
+<note xml:id="n12">12. See the discussion under the <emph>Superintent</emph> paragraph at the Web site for <ref target="http://treatyoffortlaramie1851.unl.edu/"><emph>Laramie</emph></ref>.</note>
+                  
+<note xml:id="n13">13. The postulated replication of <emph>Ocmulgee</emph> by <emph>Frauds</emph> was rather remarkable.  The nine errors consisted of four pairs of hyphenated words (<emph>bona fide</emph> vs. <emph>bona-fide</emph> at line number 670 and 671; <emph>to wit</emph> vs. <emph>to-wit</emph> at line number 1041 and 1042; <emph>per diem</emph> vs. <emph>per-diem</emph> at line number 1148 and 1149; and <emph>attorney general</emph> vs. <emph>attorney-general</emph> at line number 2335 and 2336) and one typographical error (<emph>practica&#124;</emph>, differentiated here by a terminal vertical line vs. the <emph>Ocmulgee</emph> element <emph>practical </emph>at line number 3613).  The cumulative LED for this evaluation was a mere 41 bytes, even with the severe restrictions imposed upon assessments made with perpendicular data.  Examining the individual shortfalls showed that there were actually only five bytes of dissimilarity across these four pairs of words and that single typesetting error.</note>
+                  
+<note xml:id="n14">14. Subsequent meetings were convened by the Indian Territory tribes, but the extent of these activities is unclear.  Applen (1971, p. 97; emphasis added) confirmed that "[t]he General Council continued to meet every year until <emph>1876</emph>," while Nolen (1980, p. 278; emphasis added) said that "[t]he Indians continued meeting at Okmulgee until <emph>1878</emph>."  In either case, Nolen's further observation that "a viable constitutional movement did not resurface" underscores the reason(s) behind the termination and the demise of these activities.</note>
+
+<note xml:id="n15">15. In this gigantic Senate Report of the Committee on Territories totaling 1,143 pages, the <emph>SenateB</emph> material for the 1875 revised <title>Okmulgee Constitution</title> was published along with that of <emph>SenateA</emph> (i.e., of the original 1870 <emph>Constitution</emph>).</note>
+
+
+</div1>
+
+</back>
+</text>
+</TEI>
+

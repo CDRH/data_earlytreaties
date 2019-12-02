@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1515">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1515	H.R. 4113 (Seventy-sixth Congress, First Session &#8212;  F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1515</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1515	H.R. 4113 (Seventy-sixth Congress, First Session &#8212;  F. Roosevelt)</head>
+
+<p>To provide for the payment of attorney's fees from Osage tribal funds.</p>
+
+<p>Pocket veto occurred after the 1st session of the 76th Congress had adjourned sine die on August 5, 1939.  The bill was presented to the President on August 7, 1939 (84 <title>Cong. Rec.</title> 11220; <hi rend="italics">see also</hi> 84 <title>Cong. Rec.</title> 11227).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 316.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1515.01.pdf"><title>Congressional Record</title> 84, 11220</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 11220	CONGRESSIONAL RECORD-HOUSE	AUGUST 5 </fw>
+<p>H. R. 5894. An act for the relief of John E. Garrett;</p>
+<p>H. R. 5895. An act for the relief of James D. Larry, Sr.;</p>
+<p>H. R. 5923. An act for the relief of Simon A. Brieger, as legal representative of the estate of Thomas Gerald Brieger, a deceased minor;</p>
+<p>H. R. 5931. An act for the relief of Elizabeth Hessman;</p>
+<p>H. R. 5951. An act for the relief of the heirs of Emma J. Hall;</p>
+<p>H. R. 5953. An act for the relief of Marie Heinen;</p>
+<p>H. R. 5998. An act to amend section 32 of the act entitled "An act to authorize the construction of certain bridges and to extend the times for commencing and/or completing the construction of other bridges over navigable waters of the United States, and for other purposes," approved August 30, 1935;</p>
+<p>H. R. 6021. An act to repeal the minimum-price limitation on sale of the Akron, Ohio, old post-office building and site; </p>
+<p>H. R. 6037. An act to amend section 194 of an act entitled "An act to codify, revise, and amend the penal laws of the United States," approved March 4, 1909 (35 <title>Stat.</title> L. 1088); </p>
+<p>H. R. 6099. An act for the relief of Mrs. S. F. Sewell;</p>
+<p>H. R. 6259. An act for the relief of Jack D. Collins;</p>
+<p>H. R. 6271. An act granting the consent of Congress to the Secretary of the Interior, the State of Washington, and the Great Northern Railway Company to construct, maintain, and operate either a combined highway and railroad bridge or two separate bridges across the Columbia River, at or near Kettle Falls, Wash.;</p>
+<p>H. R. 6362. An act for the relief of Annie Bearden, Ruth Bearden, Essie Burton, Beatrice Carter, Mary Cobb, Addle Graham, Annie Grant, Sallie Harris, Minerva Holbrooks, Omie Deese, Sallie Marett, Josie McDonald, Jessie Morris, Martha O'Shields, Mae Phillips, Leila H. Roach, Belva Surrett, and Shelley Turner;</p>
+<p>H. R. 6441. An act authorizing the county of Saint Louis, State of Missouri, to construct, maintain, and operate a toll bridge across the Mississippi River near Jefferson Barracks, Mo.;</p>
+<p>H. R. 6490. An act for the relief of W. R. Fuchs, former disbursing clerk, Department of Agriculture; J. L. Summers, former disbursing clerk; and G. F. Allen, chief disbursing officer, Division of Disbursement, Treasury Department;</p>
+<p>H. R. 6491. An act for the relief of Roscoe B. Huston and Simeon F. Felarca;</p>
+<p>H. R. 6492. An act for the relief of John L. Hicks, rural rehabilitation supervisor, Farm Security Administration, Department of Agriculture, Santa Rosa, N. Mex.;</p>
+<p>H. R. 6635. An act to amend the Social Security Act, and for other purposes;</p>
+<p>H. R. 6662. An act granting the consent of Congress to the Dauphin County, Pa., authority to construct, maintain, and operate a highway bridge across the Susquehanna River at or near the city of Harrisburg, Pa.;</p>
+<p>H. R. 6728. An act for the relief of Stacy C. Mosser, receiver for the Great Northern Majestic Building Corporation;</p>
+<p>H. R. 6805. An act for the relief of Sam E. Woods;</p>
+<p>H. R. 6808. An act for the relief of Matilda Larned Bouck;</p>
+H. R. 6898. An act granting pensions and increase of pensions to certain helpless and dependent children of veterans of the Civil War;
+<p>H. R. 6907. An act granting the consent of Congress to the Commonwealth of Pennsylvania to reconstruct, maintain, and operate a free highway bridge across the Susquehanna River, from the borough of Wyoming, in the county of Luzerne, Commonwealth of Pennsylvania, to Jenkins town-ship, county of Luzerne, Commonwealth of Pennsylvania;</p>
+<p>H. R. 6963. An act for the relief of Buford Lee Pratt;</p>
+<p>H. R. 7049. An act for the relief of John L. Summers, former disbursing clerk, Treasury Department, and for other purposes;</p>
+<p>H. H. 7096. An act to amend an act entitled "An act to provide for the complete independence of the Philippine Islands, to provide for the adoption of a constitution and a form of government for the Philippine Islands, and for other purposes;</p>
+
+<p>H. R. 7132. An act to amend an act entitled "An act for the relief of the Playa de Flor Land & Improvement Co," approved May 21, 1934;</p>
+<p>H. R. 7262. An act granting the consent of Congress to Frank O. Lowden, James E. Gorman, and Joseph B. Fleming, trustees of the estate of the Chicago, Rock Island & Pacific Railway Co., to construct, maintain, and operate a railroad bridge across the Missouri River at or near Randolph, Mo.;</p>
+<p>H. R. 7389. An act to provide for the presentation of a medal to Rev. Francis X. Quinn in recognition of his valor in saving the lives of two of his fellow citizens;</p>
+<p>H. J. Res. 320. Joint resolution to amend Public Resolution No. 46, approved August 9, 1935, entitled "Joint resolution requesting the President to extend to the International Statistical Institute an invitation to hold its twenty-fourth session in the United States in 1939"; and</p>
+<p>H. J. Res. 341. Joint resolution to dissolve the United States Supreme Court Building Commission.</p>
+<head>COMMITTEE TO NOTIFY THE PRESIDENT</head>
+<p>Mr. RAYBURN. Mr. Speaker, your committee appointed to join with a committee of the Senate to inform the President that the Congress had completed its Iabors and was ready to adjourn, and to ask him if he had any other communications to make to the Congress, has performed that. duty. The President has directed us to say that he has no further communications to make to the Congress.</p>
+<p><head>COMMUNICATION FROM THE PRESIDENT OF THE UNITED STATES</head>
+The SPEAKER. The Chair lays before the House the following communication from the President of the United States:</p>
+<note>The Clerk read as follows:</note>
+<dateline>THE WHITE HOUSE,
+Washington, August 5, 1939.</dateline>
+<salute>MY DEAR MR. SPEAKER: </salute>
+<p>At this time of the adjournment of the first session of the Seventy-sixth Congress, will you be good enough to express to the Members of the House of Representatives my good wishes for a pleasant vacation?</p>
+<closer>Very sincerely yours,
+<signed>FRANKLIN D. ROOSEVELT.</signed> The Honorable the SPEAKER OF THE
+HOUSE OF REPRESENTATIVES,
+Washington, D. C.</closer>
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. RAYBURN. Mr. Speaker, I move that the House do now adjourn.</p>
+<p>The SPEAKER. The question is on the motion of the gentleman from Texas.</p>
+<p>The motion was agreed to.</p>
+<p>The SPEAKER. Pursuant to the provisions of Senate Concurrent Resolution 29, the Chair declares the first session of the Seventy-sixth Congress adjourned sine die.</p>
+<p>Thereupon (at 6 o'clock and 32 minutes p. m.) the House adjourned sine die.</p>
+<head>BILLS AND JOINT RESOLUTIONS PRESENTED TO THE PRESIDENT
+SUBSEQUENT TO SINE DIE ADJOURNMENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on Monday, August 7, 1939, present to the President, for his approval, bills and joint resolutions of the House of the following titles:</p>
+<p>H. R. 4117. An act to provide for the payment of attorney's fees from Osage tribal funds;</p>
+<p>H. R. 4540. An act authorizing the restoration to tribal ownership of certain lands upon the Umatilla Indian Reservation, Oreg., and for other purposes;</p>
+<p>H. R. 7462. An act making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1939, and for prior fiscal years, to provide supplemental appropriations for the fiscal years ending June 30, 1939, and June 30, 1940, and for other purposes;</p>
+<p>H. J. Res. 375. Joint resolution to authorize the sale of surplus agricultural commodities, and for other purposes; and</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1515.02.pdf"><title>Congressional Record</title> 84, 11227</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+1939	CONGRESSIONAL RECORD-HOUSE	11227
+which applications for benefits under the World War Adjusted Compensation Act, as amended, may be filed.
+This act would have provided an additional 5 years for filing claim for adjusted-compensation benefits; that is, from January 2, 1940, to January 2, 1945.
+The World War Adjusted Compensation Act, which became law May 19, 1924, provided that application for benefits should be made on or before January 1, 1928. The amendatory act of May 29, 1928, extended the final date for filing application for benefits to January 2, 1930. The act of June 5, 1930, further extended the final date for filing application for benefits to January 2, 1935, and the act of August 23, 1935, extended the final date for filing application for benefits to January 2, 1940.
+Under the original act the veterans and their dependents were granted approximately 3½ years and by subsequent liberalization have been given a period of over 15 years from the date of enactment of the original act in which to claim these benefits. During this period much publicity was given the original act and amendments, including the Adjusted Compensation Payment Act, as amended, with every reason-able opportunity to file claim. This opportunity still exists and will continue to January 2, 1940.
+Further extension of the period for filing claim in my opinion is not justified.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 10, 1939.
+On August 11, 1939:
+H. R. 3927. I have withheld my approval of H. R. 3927, a bill for the relief of Marijo McMillan Williams. The indebtedness to the United States represented in this bill resulted from the payment to Mrs. Williams the compensation of two positions, covering the same periods of time, in contravention of the act of May 10, 1916, as amended, notice of which act had been repeatedly given throughout the Postal Service by published bulletins of that Service. Such disregard of the law in this case, if condoned by the relief here sought, would result in the establishment of a precedent tending to induce disregard of this law and other laws en-acted for the purpose of limiting and restricting the expenditure of public funds.
+For these reasons I do not feel justified in approving this bill.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 11, 1939.
+H. R. 3959. I have withheld my approval of H. R. 3959, an act to authorize the Secretary of the Interior to dispose of recreational demonstration projects, and for other purposes.
+While the objective of this legislation is good, I am inclined to think that certain safeguards should at least be studied at the next session of the Congress.
+It should probably be made more clear that equitable arrangements with local communities taking over such recreational projects should involve the Federal Government in no legal or moral commitments.
+There should probably be a provision allowing departments of the Government to take over for their purposes such projects as it seems desirable for the Interior Department to part with.
+Probably the approval of the President should be given to any transfers of these properties to local communities or other departments, as this is the general rule in similar cases.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 11, 1939.
+H. R. 4117. I have withheld my approval of H. R. 4117, a bill to provide for the payment of attorney's fees from Osage tribal funds.
+Briefly stated, this bill would authorize the payment of attorneys' fees in an amount not to exceed 121/2 percent of the funds collected as a result of any suit or suits brought under a contract between the Osage Tribe of Indians and certain attorneys named in said contract.,
+HeinOnline- 84 Co
+The customary percentage allowed by the Government to attorneys is not to exceed 10 percent. This bill, however, calls for 12½ percent, despite the fact that the Committee on Indian Affairs of the House of Representatives amended the bill to reduce the fees to 10 percent.
+I agree with the recommendation of the committee and, therefore, cannot approve the bill.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 11, 1939.
+H. R. 4482. I am withholding my approval of H. R. 4482, for the relief of Byron MacDonald.
+The bill proposes to pay to Byron MacDonald the sum of $2,500 in full settlement of his claim against the United States for the death of his minor son, Richard MacDonald, who was killed on July 21, 1937, by a truck in the service of the Civilian Conservation Corps. An examination of the record in this case fails to disclose negligence on the part of any employee of the United States. The report of the inquest on the death of Richard MacDonald indicates that the boy met an accidental death. The report of the associate medical examiner states that the boy lost his balance and fell between the front and rear wheels of the truck. ,It is apparent from the record that the driver of the vehicle was proceeding at a reasonable rate of speed and that he used caution in attempting to pass the boy.
+While the accident is regrettable, I find no justification for
+any claim against the United States as a result thereof.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 11, 1939.
+H. R. 5405. I am withholding my approval of H. R. 5405, authorizing the installation of parking meters and other de-vices on the streets of the District of Columbia, and for other purposes.
+This bill would authorize the Commissioners of the District in their discretion to secure and install, at no expense to the District, mechanical parking meters or devices on the streets, avenues, roads, highways, and other public spaces under the jurisdiction and control of the Commissioners; to make and enforce rules and regulations for the control of parking of vehicles on such public ways and other public spaces; and to prescribe fees for the privilege of parking vehicles where said meters or devices are installed. The bill also would provide that, in purchasing meters, the Commissioners may purchase 50 percent of the manually operated type meter, subject to specifications to be approved by the National Bureau of Standards, Department of Commerce.
+While I have no objections to the general purpose sought to be accomplished by the bill, I believe its provisions as to the manner in which meters may be secured and funds made available for their payment are sufficiently vague and ambiguous to render the measure inoperative, if approved. Therefore, I am withholding my approval.
+I would not object to future legislation to accomplish this same general purpose with all fees collected from such parking meters to be deposited in the Treasury of the United States to the credit of the gasoline tax and motor-vehicle fees, highway fund, District of Columbia, and with authorization for the submission of estimates of appropriations, pay-able from such fund, for the purchase and installation of meters.
+FRANKLIN D. ROOSEVELT. THE WHITE HOUSE, August 11, 1939.
+H. R. 5931. I have withheld my approval of H. R. 5931, a bill for the relief of Elizabeth Hessman.
+The purpose of the bill is to pay the sum of $1,665 to Mrs. Elizabeth Hessman in settlement of her claim against the United States for personal injuries sustained when the car in which she was a passenger was struck, on April 27, 1936, by a Government car driven by an employee of the Soil Conservation Service of the Department of Agriculture.
+The record in this case indicates that there appears to be no serious or permanent injury which can be
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

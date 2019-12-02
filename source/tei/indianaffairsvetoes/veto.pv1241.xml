@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1241">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1241	H.R. 5230 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1241</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1241	H.R. 5230 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>To confer jurisdiction upon the Court of Claims to hear claims of the Stockbridge and Munsee Tribes of Indians.</p>
+
+<p>Vetoed August 9, 1935.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 269 (79 <title>Cong. Rec.</title> 12828).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 266.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1241.01.pdf">Veto message on H.R. 5230, a bill to confer jurisdiction upon the Court of Claims to hear claims of the Stockbridge and Munsee tribe of Indians.  Message from the President of the United States, transmitting to the House of Representatives without his approval the Bill H.R. 5230, “An Act To Confer Jurisdiction upon the Court of Claims of the Stockbridge and Munsee Tribe of Indians.”</ref>  (1935).   House of Representatives.  74th Congress, 1st session.  House Document No. 269 (<title>Serial Set</title> 9928).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 74TH CONGRESS 1st Session HOUSE OF REPRESENTATIVES  Document 	No. 269 </fw>
+<head>VETO MESSAGE ON H. R. 5230, A BILL TO CONFER JURISDICTION UPON THE COURT OF CLAIMS TO HEAR CLAIMS OF THE STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+TO THE HOUSE OF REPRESENTATIVES WITHOUT HIS APPROVAL THE BILL H. R. 5230, "AN ACT TO CONFER JURISDICTION UPON THE COURT OF CLAIMS TO HEAR CLAIMS OF THE STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS"</head>
+<head type="sub">August 9, 1935.&#8212;Referred to the Committee on Indian Affairs and ordered
+to be printed</head>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return, without approval, H. R. 5230, "An act to confer jurisdiction upon the Court of Claims to hear claims of the Stockbridge and Munsee Tribe of Indians."</p>
+<p>The bill involves a claim for an unexpended balance of $48,823.61 out of an appropriation of $95,000 made by the Indian Appropriation Act of 1916. The facts in connection with the claim are set out in Senate Report 1091 (74th Cong.).</p>
+<p>The Court of Claims was given jurisdiction over the claims of this tribe by the act of June 7, 1924 (43 <title>Stat.</title> L. 644). The claims were filed under said act and a decision adverse to the contentions of the Indians was rendered by the Court of Claims. The same claims were again filed and were dismissed by the court on demurrer for the reason that the issues involved were controlled by its prior decision and the case was res judicata.</p>
+<p>No other claims have been asserted by these Indians against the United States, and there appears to be no reason why the Court of Claims should again be burdened with a retrial of the case.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 9, 1935.</dateline></closer>
+<fw> 2	VETO MESSAGE ON H. R. 5230 </fw>
+<head>H. R. 5230</head>
+<head>SEVENTY-FOURTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON THURSDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-FIVE</head>
+<head type="sub">AN ACT To confer jurisdiction upon the Court of Claims to hear claims of the Stockbridge and Munsee
+Tribe of Indians.</head>
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> That jurisdiction be, and it is hereby, conferred upon the Court of Claims, notwithstanding the lapse of time or statutes of limitations, to hear, examine, and adjudicate and render judgment in any and all legal and equitable claims arising under or growing out of any treaty or agreement between the United States and the Stockbridge and Munsee Tribe of Indians, or arising under or growing out of any Act of Congress or Executive order in relation to Indian affairs or for the misappropriation of any of the funds, lands, or property of said tribe, or for the failure of the United States to pay said tribe any money or other property due, which said Stockbridge and Munsee Tribe of Indians may have against the United States, which claims have not heretofore been determined or adjudicated on their merits by the Court of Claims and the Supreme Court of the United States: Provided, That claims asserted in actions brought under the Act of June 7, 1924 (43 <title>Stat.</title> 644), may be filed under this Act and shall be tried on their merits.</p>
+<p>SEc. 2. Any and all claims against the United States within the purview of this Act shall be forever barred unless suit or suits be instituted or petitions be filed as herein provided in the Court of Claims within five years from the date of the approval of this Act, and such suit or suits shall make the Stockbridge and Munsee Tribe of Indians party plaintiff and the United States party defendant. The petitions shall be verified by the attorney employed by said Stockbridge and Munsee Tribe of Indians to prosecute such claim or claims under contract with said tribe of Indians, made and approved in accordance with existing law.</p>
+<p>SEC. 3. Official letters, papers, documents, and records or certified copies thereof, may be used in evidence, and the departments of the Government shall give access to the attorney of said Stockbridge and Munsee Tribe of Indians to such treaties, papers, correspondence, and records as may be needed by the attorney in the prosecution of any suits under this Act.</p>
+<p>SEC. 4. In said suit or suits the court shall hear, examine, and adjudicate any claims which the United States may have against said Stockbridge and Munsee Tribe of Indians, and any payment which the United States may have made to or for the benefit of said Stockbridge and Munsee Tribe of Indians prior to the date of adjudication shall not operate as an estoppel but may be pleaded as an offset in said suit.</p>
+<p>SEC. 5. The Court of Claims shall have full authority by proper orders and process to bring in and make parties to any such suit any other tribe or band of Indians deemed by it necessary or proper to the final determination of the matters in controversy.</p>
+<p>SEC. 6. That upon the final determination of any suit instituted under this Act, the Court of Claims shall decree such amount or amounts as it may find reasonable to be paid the attorney so employed by said Stockbridge and Munsee Tribe of Indians for the services and expenses of said attorney rendered or incurred subsequent to the date of approval of this Act: Provided, That in no case shall the aggregate amounts decreed by the said Court of Claims for services be in excess of the amount or amounts stipulated in the contract of employment, or in excess of a sum equal to 10 per centum of the amount of recovery against the United States.</p>
+<signed>JOSEPH W. BYRNS, Speaker of the House of Representatives.</signed> <signed>JOHN N. GARNER,
+Vice President of the United States and President of the Senate.</signed> <note>[Endorsement on back of bill.]</note>
+<p>I certify that this Act originated in the House of Representatives.</p>
+<signed>SOUTH TRIMBLE, Clerk.</signed>
+
+</body></floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1241.02.pdf"><title>Congressional Record</title> 79, 12828</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 12828	CONGRESSIONAL RECORD HOUSE	AUGUST 9 </fw>
+
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal.</p>
+<p>Mr. VINSON of Georgia. Mr. Speaker, I move that the bill and message be referred to the Committee on Naval Affairs and be printed.</p>
+<p>The motion was agreed to.</p>
+<head>STOCKBRIDGE AND MUNSEE TRIBE OF INDIANS (H. DOC. NO. 269)</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States, which was read:</p>
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return, without approval, H. R. 5230, "An act to confer jurisdiction upon the Court of Claims to hear claims of the Stockbridge and Munsee Tribe of Indians."</p>
+<p>The bill involves a claim for an unexpended balance of $48,823.61 out of an appropriation of $95,000 made by the Indian Appropriation Act of 1916. The facts in connection with the claim are set out in Senate Report 1091 (74th Cong.).</p>
+<p>The Court of Claims was given jurisdiction over the claims of this tribe by the act of June 7, 1924 (43 <title>Stat.</title> L. 644). The claims were filed under said act, and a decision adverse to the contentions of the Indians was rendered by the Court of Claims. The same claims were again filed and were dismissed by the court on demurrer for the reason that the issues involved were controlled by its prior decision and the case was res judicata.</p>
+<p>No other claims have been asserted by these Indians against the United States, and there appears to be no reason why the Court of Claims should again be burdened with a retrial of the case.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 9, 1935.</dateline></closer>
+
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal.</p>
+<p>Mr. ROGERS of Oklahoma. Mr. Speaker, I move that the bill and message be referred to the Committee on Indian Affairs and ordered printed.</p>
+<p>The motion was agreed to.</p>
+<head>STATE COMPACT TO CONSERVE OIL AND GAS</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States, which was read and referred to the Committee on Interstate and Foreign Commerce and ordered printed:</p>
+
+<opener>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I transmit herewith a certified copy of the State Compact to Conserve Oil and Gas, executed in the city of Dallas, Tex., on February 16, 1935, by the representatives of the States of Oklahoma, Texas, California, and New Mexico, and recommended for ratification by representatives of the States of Arkansas, Colorado, Illinois, Kansas, and Michigan. The compact signed by representatives of these States has been deposited in the Department of State of the United States. I also transmit a report of the Secretary of State, from which you will observe that notification has been received by the Department of State of the ratification of the compact by the Legislatures of the States of New Mexico, Kansas, Oklahoma, Illinois, Colorado, and Texas.</p>
+<p>I recommend that the Congress enact legislation giving the consent of Congress to the State Compact to Conserve Oil and Gas, executed at Dallas, Tex., on February 16, 1935.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, August 9, 1935.</dateline></closer>
+
+<head>JOHN J. O'CONNOR (H. DOC. NO. 270)</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States, which was read:</p>
+
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning. herewith, without approval, H. R. 1951, entitled "An act for the relief of John J. O'Connor."</p>
+
+<p>This bill provides that, in the administration of any laws conferring rights, privileges, and benefits upon honorably discharged soldiers John J. O'Connor who was a member of Company K, Forty-third Regiment United States Volunteer Infantry, shall hereafter be held and considered to have been honorably discharged from the military service of the
+United States as a corporal of that organization on the 15th day of November 1899.</p>
+<p>The official records of the War Department show that this ex-soldier after having been honorably discharged as a private of the Hospital Corps, United States Army, reenlisted as a single man, when in fact he was a married man with a dependent wife. Had these facts been known at the time of reenlistment, the soldier could not have been enlisted without special authority, and under the approved regulations in force at the time he was necessarily discharged without honor on account of fraudulent enlistment.</p>
+<p>Enactment of H. R. 1951 into law would, in effect, constitute a legislative pardon for a man whose status is now
+that of one discharged without honor, and would place him
+on a par with those who rendered services of a character which earned for them honorable discharges.</p>
+<p>The Secretary of War strongly recommends that this bill be not favorably considered and I find nothing in the facts in the case which would justify different action on my part.</p>
+<signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, August 9, 1935.</dateline>
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal.</p>
+<p>Mr. WILCOX. Mr. Speaker, I move that the bill and the message be referred to the Committee on Military Affairs and ordered printed.</p>
+<p>The motion was agreed to.</p>
+<p>Mr. MITCHELL of Tennessee. Mr. Speaker, I ask unanimous consent to speak out of order for 5 minutes.</p>
+<p>Mr. TAYLOR of Colorado. Mr. Speaker, I feel constrained to object.</p>
+<head>TRANSPORTATION OF SENTENCED PRISONERS</head>
+<p>Mr. KENNEY. Mr. Speaker, ask unanimous consent to extend my remarks in the RECORD and to include therein a
+letter written by Col. C. A. Seoane to the Attorney General of the United States with respect to the war on crime.</p>
+<p>The SPEAKER. Is there objection? There was no objection.</p>
+<p>Mr. KENNEY. Mr. Speaker, under leave to extend my remarks, I include the following communication of my friend, Colonel Seoane, of the United States Army, addressed to the Attorney General of the United States, having to do with an important penal matter:</p>
+<quote>
+<opener>
+<dateline>HEADQUARTERS THIRD CORPS AREA,
+UNITED STATES ARMY,
+OFFICE OF THE SIGNAL OFFICER,
+Baltimore, Md., June 20, 1935</dateline> The Honorable the ATTORNEY GENERAL OF THE UNITED STATES,
+Department of Justice, Washington, D. C.
+(Through The Adjutant General, U. S. Army.)
+<salute>DEAR SIR:</salute> 
+</opener><p>1. Pursuant to the general invitation extended by the Attorney General at the opening session of the crime conference in Washington in December 1934, to enlist the active support of citizens against the crime wave and the break-down of law and order throughout the country, attention has been given to formulating a plan in support of the above-mentioned policy. The following is an outline:</p>
+<head>TRANSPORTATION OF SENTENCED PRISONERS</head>
+<p>2. Persons sentenced to imprisonment beyond 5 or 10 years are to be sent to a point remote from the scene of their crime. Such a point should be constituted into a penal Colony, and if an island be selected, it is quite possible that this colony could be made free of jails and prisons as such. The individuals sent there could have the same freedom to work out their existence as persons in a new land. The island should be under exterior boat guard, but without interfering in the daily life of the prisoners. There should be no citizens or free people on the island. There are a number of islands under United States dominion that could be made suitable for this purpose.</p>
+<p>3. Location.&#8212;For the present it will be convenient to discuss the two western groups of the Aleutian Islands. The farthest group is called Near Islands&#8212;being 3 or 4 in number and having an area of about 1,000 square miles. The next western group&#8212;the Rat Islands&#8212;4 in number&#8212;also have a total area of about 1,000 square miles. This area is almost identical with the size</p></qupte>
+</body></floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

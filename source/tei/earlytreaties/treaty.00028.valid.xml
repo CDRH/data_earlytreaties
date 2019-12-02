@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="treaty.00028">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 28</note>
+<note type="project">
+Convention Between the State of New York and the Oneida Indians, June 1, 1798.</note>
+<note type="source"><hi rend="italics">American State Papers: Indian Affairs, vol. 1</hi> (1832). Washington,   DC: Gales and Seaton, 641.</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>American State Papers: Indian Affairs,</title>
+<editor></editor>
+</analytic>
+<monogr>
+<title></title>
+<imprint>
+<biblScope type="volume"> vol. 1,</biblScope>
+<date value="1832"> (1832).</date>
+<biblScope type="pages"> 641.</biblScope>
+<pubPlace>Washington, DC:</pubPlace>
+<publisher>Gales and Seaton,</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Made Charlie's proofing changes</item> 
+</change>
+
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-23</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-12-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+
+<body>
+<div1>
+<pb n="641" />
+<p>
+<hi  rend="center">5th CONGRESS. No. 87. 3d SESSION.</hi><lb/>
+
+</p>
+
+
+<p>
+<hi  rend="center"><hi rend="bold">THE ONEIDAS</hi>.</hi>
+
+</p><lb/>
+
+
+<p>
+<hi rend="smallCaps"><hi  rend="center">COMMUNICATED TO THE SENATE. JANUARY 31, 1799.</hi></hi><lb/>
+
+</p><lb/>
+
+
+<p>
+<hi rend="italics">Gentlemen of the Senate</hi>:<lb/>
+
+I send you, for your consideration, a treaty with the Oneida nation of Indians,  made on the first day of June, 1798, at their village.<lb/>
+
+</p><lb/>
+
+
+<p>
+January 30, 1799.      JOHN ADAMS.<lb/>
+</p><lb/>
+
+
+<p>
+At a Treaty held with the Oneida nation or tribe of Indians, at their village, in the State of New York, on the first day of June, in the year one thousand seven hundred and ninety-eight: Present, Joseph Hopkinson, commissioner, appointed under the authority of the United States to hold the treaty; Egbert Benson, Ezra L'Hommedieu, and John Taylor, agents for the State of New York.<lb/>
+</p><lb/>
+
+
+<p>
+The said Indians having, in the month of March last, proposed to the Governor of the said State, to cede the lands hereinafter described, for the  compensation hereinafter mentioned; and the said Governor having acceded to the said proposal, and advanced to the said Indians, at their desire, in part payment of the said compensation, three hundred dollars, to answer their then immediate occasions, the said cession is, thereupon, in the presence, and with the approbation of the said commissioner, carried into effect at this treaty; which hath, on the request of the said Governor, been appointed to be held for the purpose, as follows, that is to say: The said Indians do cede, release, and quit claim to the <hi rend="italics">people of the State of New York</hi>, forever, all the lands within their reservation, to the westward and southwestward of a line from the northeastern corner of the lot No. 54, in the last purchase from them, running northerly to a button wood tree, marked on the east side "Oneida R. 1798," on the west side, "H.P.S. 1798," and on the south side, with three notches and a blaze, standing on the bank of the Oneida lake, in the southern part of a bay called Newageghkoo; also, a mile on each side of the main Genesee road, for the distance of one mile and a half, westward, to commence at the eastern boundary of their said reservation; and, also, the same breadth for the distance of three miles, on the south side, and of one mile on the north side of the said road, eastward, to commence at the eastern boundary of the said lot No. 54: <hi rend="italics">Provided and excepted, nevertheless</hi>, That the following Indian families, viz: Sarah Docksteder, Cornelius Docksteder, Jacob Docksteder, Lewis Denny, John Denny, Jan Joost, and Nicholas, shall be suffered to possess, of the tract first abovementioned, to grounds cultivated by them, respectively, and their improvements, not exceeding fifty acres, to each family, so long as they shall reside there; and in consideration of this proviso and exception, the said Indians do further cede that a tract of twelve hundred and eighty acres, as follows, that is to say: Beginning in the southeast corner of lot No. 59, in the said last purchase, and running thence, east one mile; thence, north two miles; thence, west one mile; and thence, south two miles, shall be considered as set apart by the said nation or tribe, for the use of the said families, whenever they shall remove from where they now reside. The said agents do, for the people of the said State, pay to the said Indians, in addition to the said sum of three hundred dollars, already advanced to them, as abovementioned, the further sum of two hundred dollars, and do grant to the said Indians, that the people of the said State shall pay to the said Indians, at their said village, on the first day of June next, and on the first day of June, yearly, thereafter, the annual sum of seven hundred dollars.<lb/>
+</p><lb/>
+
+
+
+<p>
+In testimony whereof, the said commissioner, the said agents, and the said Indians, have hereunto and to other acts of the same tenor and date, the one to remain with the United States, another to remain with the State of New York, and another to remain with the said Indians, set their hands and seals, at the village aforesaid, the day and year first above written.<lb/>
+</p><lb/>
+
+
+<p>
+JOSEPH HOPKINSON, <hi rend="italics">Commissioner</hi><lb/><lb/> 
+
+<hi rend="italics">Agents</hi><lb/>
+EGBERT BENSON,<lb/>
+EZRA L'HOMMEDIEU, <lb/> 
+JOHN TAYLOR,<lb/><lb/>
+
+<hi rend="italics">And a number of Indians</hi>.
+</p>
+</div1>
+</body>
+
+</text>
+</TEI.2>

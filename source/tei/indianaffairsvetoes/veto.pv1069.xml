@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1069">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1069	S. 1480 (Seventieth Congress, First Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1069</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1069	S. 1480 (Seventieth Congress, First Session &#8212; Coolidge)</head>
+
+<p>Authorizing certain Indian tribes in the State of Washington to bring suits before the Courts of
+Claims.</p>
+
+<p>Vetoed May 18, 1928.  The veto message was laid before the Senate and printed as S. Doc. No. 110 (69 <title>Cong. Rec.</title> 9064).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 232.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1069.01.pdf">Veto message authorizing Indians in the State of Washington to present claims to the Court of Claims.  Message from the President of the United States, returning without approval the Bill (S. 1480) entitled “An Act Authorizing Certain Indian Tribes and Bands, or Any of Them Residing in the State of Washington, To Present Their Claims to the Court of Claims.”  (1928)</ref>.  Senate.  70th Congress, 1st session.  Senate Document No. 110 (<title>Serial Set</title> 8871).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS	SENATE
+1st Session
+DOCUMENT No. 110 </fw>
+<head>VETO MESSAGE AUTHORIZING INDIANS IN THE STATE OF WASH-
+INGTON TO PRESENT CLAIMS TO THE COURT OF CLAIMS</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES</head>
+<head>RETURNING WITHOUT APPROVAL THE BILL (S. 1480) ENTITLED "AN ACT AUTHORIZING CERTAIN INDIAN TRIBES AND BANDS, OR ANY OF THEM RESIDING IN THE STATE OF WASHINGTON, TO PRESENT THEIR CLAIMS TO THE COURT OF CLAIMS"</head>
+<p>MAY 3 (calendar day, May 18), 1928.&#8212;Read; ordered to lie on the table and to be printed.</p>
+
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I am returning herewith Senate bill 1480, "An act authorizing
+certain Indian tribes and bands, or any of them, residing in the State
+of Washington, to present their claims to the Court of Claims," with-
+out my approval.</p>
+<p>These claims amount to approximately $9,125,000, which represents the value of 6,500,000 acres of land, in the aboriginal possession
+of the Indians, at $ 1.25 per acre, and includes hunting and fishing
+rights to the value of $ 1,000,000. These claims are not based upon
+any treaty or agreement between the United States and these Indians,
+nor does it appear to me that they are predicated upon such other
+grounds as should obligate the Government at this late day to defend
+a suit of this character. The Government should not be required to
+adjudicate these claims of ancient origin unless there be such evi-
+dence of unmistakable merit in the claims as would create an obli-
+ation on the part of the Government to admit them to adjudication.
+It seems to me that such evidence is lacking.</p>
+<p>I am constrained, therefore, to withhold my approval of this bill.</p>
+<closer><signed>CALVIN COOLIDGE.</signed>
+<dateline>THE WHITE HOUSE, May 18, 1928.</dateline></closer>
+<fw> 2 VETO MESSAGE REGARDING INDIANS IN STATE OF WASHINGTON </fw>
+<p>S. 1480. Seventieth Congress of the United States of America; at the first session, begun and held at the city of Washington on Monday, the fifth day of December, one thousand nine hundred and twenty-seven.]</p>
+<p>An act authorizing certain Indian tribes and bands, or any of them, residing in the State of Washington, to present their claims to the Court of Claims.</p>
+
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of American in Congress assembled,</hi> That jurisdiction is hereby conferred on the Court of Claims, with the right to appeal to the Supreme Court of the United States by either party, as in other cases, notwithstanding the lapse of time or statutes of limitation, to hear, examine, and adjudicate and render judgment in any and all legal and equitable claims of the Lower Spokane and the Lower Pend O' Reille or Lower Calispell Tribes or Bands of the State or Washington, or any of said tribes or bands, against the United States arising under or growing out of the original Indian title, claim, or rights of the said Indian tribes and bands, or any of said tribes or bands (with whom no treaty has been made), in, to, or upon the whole or any part of the lands and their appurtenances claimed by said Lower Spokane Tribe or Band of Indians, in the State of Washington, and embraced within the following general descriptions, to wit:</p>
+<p>Commencing in the State of Washington on the east and west Government survey township line between townships 24 and 25 north at a point whose longitude is one hundred and nineteen degrees ten minutes west; thence east along said township line to the first draw leading and draining into Hawk Creek in Lincoln County, Washington; thence down the center of said draw to said Hawk Creek and down the center of said Hawk Creek to its conflux with the Columbia River; thence up and along the south and east bank of the Columbia River to the north bank of the Spokane River at its conflux with the Columbia River, which said boundary lines separate the lands of said Lower Spokane Tribe or Band of Indians from those, the several so-called Colville and Okanogan Tribes or Bands of Indians; thence easterly up and along the north bank of the said Spokane River to a north and south line whose longitude is one hundred and eighteen degrees west; thence south along said line to its intersection with the forty-seventh parallel of latitude; thence west along said forty-seventh parallel to a line whose longitude is one hundred and nineteen degrees and ten minutes west; thence north on said line to the point of beginning, which two latter lines of boundary separate the lands of the said Lower Spokane Tribe or Band of Indians from the lands of the confederated Yakima Indians as defined by the treaty between the United States and said Yakima Indians concluded at Camp Stevens, Walla Walla Valley, Washington Territory, June 9, 1855 (Twelfth United States Statutes at Large, pages 951, 956) ; lands in the States of Idaho, Montana, and Washington, claimed by said Lower Calispell or Lower Pend O'Reille Indian Tribe or Band of Indians and embraced within the following description to wit:</p>
+<p>Commencing at a point in the State of Idaho at the forty-ninth parallel latitude on the divide between the waters of the Flat Bow or Kootenai River and those of the Clark Fork River and its tributaries; thence southerly and southeasterly along said summit of the divide, known as the Cabinet Mountain, to the head-waters of Thompsons River in Sanders County, Montana; thence southerly along the divide between Thompsons River and the tributaries of the Flathead River to the town of Plains, Montana, and continuing southwesterly on a line drawn through Saint Regis, Montana, to the summit of the Calispell or Coeur d'Alene Range of the Bitter Root Mountain (which said boundaries separate the original habitat and lands of said Lower Calispell or Lower Pend O'Reille Indians from those of the Cooteney, Upper Pend O'Reille, and Flathead Tribes or Bands of Indians as defined by the treaty between the United States and said last-named tribes or bands of Indians, executed July 16, 1855) (Twelfth Statutes at Large, pages 975-979) ; thence northwesterly along the summit of said Calispell or Coeur d'Alene Range and the divide between the waters of the said Clark Fork and those of the Coeur d'Alene River, and along said course extend to and across the Spokane Plains and continuing in a general northwesterly direction to the divide separating the waters of said Clark Fork River from the Spokane River and its tributaries to the main ridge of the Calispell Mountains in the State of Washington; and thence in a northerly direction, along the summit of main ridge of said Calispell Mountains, and said course extending to the international boundary line between the Province of British Columbia and the State of Washington; then east along said international boundary line to the point of beginning, which last-named boundaries separate the original habitat and land of said Lower <pb n="3" />
+<fw> VETO MESSAGE REGARDING INDIANS IN STATE OF WASHINGTON 3 </fw>
+Calispell or Lower Pend O'Reille Indians from those of the Coeur d'Alene, Spokane, Colville, and Lake Tribes or Bands of Indians; which said lands or rights therein or thereto are claimed to have been taken away from said Indian tribes and bands, or some of them, by the United States, recovery therefor in no event to exceed $1.25 per acre; together with all other claims of said tribes or bands of Indians, or any of said tribes or bands, arising under or growing out of fishing rights and privileges held and enjoyed by said tribes' and bands, or any of them, in the waters of the Columbia River and its tributaries; or arising or growing out of hunting rights and privileges held and enjoyed by said tribes and bands, or any of them, in common with other Indians in the "common hunting grounds" east of the Rocky Mountains as reserved by and described in the treaty with Blackfoot Indians, October 17, 1855 (Eleventh Statutes at Large, pages 657 to 662), and which are claimed to have been taken away from said tribes and bands, or any of them, by the United States without any treaty or agreement with such Indian claimants therefor and without compensation to them.</p>
+<p>SEc. 2. Any and all claims against the United States within the purview of this Act shall be forever barred unless suit or suits be instituted or petition, subject to amendment, be filed as herein provided in the Court of Claims within five years from the date of the approval of this Act, and such suit or suits shall make the said Lower Spokane and Lower Calispell or Lower Pend O'Reille Indian Tribes or Bands of Washington, or any of said tribes or bands, party or parties plaintiff and the United States party defendant. The petition shall be verified by the attorney or attorneys employed to prosecute such claim or claims under contract with the Indians approved in accordance with existing law; and said contract shall be executed in their behalf by a committee or committees selected by said Indians as provided by existing law. Official letters, papers, documents and records, maps, or certified copies thereof may be used in evidence, and the departments of the Government shall give access to the attorney or attorneys of said Indians to such treaties, papers, maps, correspondence, or reports as they may require in the prosecution of any suit or suits instituted under this Act.</p>
+<p>SEC. 3. In said suit or suits the court shall also hear, examine, consider, and adjudicate any claims which the United States may have against the said Indian tribes and bands, or any of them. Any payment or payments which have been made by the United States upon any such claim or claims shall not operate as an estoppel, but may be pleaded as an offset in such suit or suits, as may gratuities, if any, paid to or expended for said Indian tribes and bands or any of them.</p>
+<p>SEC. 4. Any other tribes or bands of Indians the court may deem necessary to a final determination of any suit or suits brought hereunder may be joined therein as the court may order: Provided, That upon final determination of such suit or suits the Court of Claims shall have jurisdiction to fix and determine a reasonable fee, not to exceed 10 per centum of the recovery, by any one of said tribes or bands, and in no event to exceed the sum of $25,000 for all of said tribes or bands of Indians, together with all necessary and proper expenses incurred in the preparation and prosecution of such suit or suits to be paid to the attorney or attorneys employed as herein provided by the said tribes or bands of Indians, or any of said tribes or bands, and the same shall be included in the degree, and shall be paid out of any sum or sums adjudged to be due said tribes or bands, or any of them, and the balance of such sum or sums shall be placed in the Treasury of the United States, where it shall draw interest at the rate of 4 per centum per annum, subject to appropriation by Congress for the health, education, and industrial advancement of said Indians, including the building of homes.</p>
+<closer><signed>NICHOLAS LONGWORTH,</signed> Speaker of the House of Representatives.
+<signed>CHARLES G. DAWES,</signed>
+Vice President of the United States and President of the Senate.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1069.02.pdf"><title>Congressional Record</title> 69, 9064-9065</ref> (1928).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9064	CONGRESSIONAL RECORD SENATE	MAY 18 . </fw>
+<p>Rulings by both the committee on appeals and review and the solicitor that discovery depletion may be based upon discoveries made after the existence of the mineral is known.</p>
+<p>A ruling that the provision barring discovery depletion when the property is acquired as the result of purchase of a proven tract or lease permits the allowance of discovery depletion to the owner of a fee which was a proven tract or lease when he acquired the fee, provided he had an option to purchase when the mineral was discovered.</p>
+<p>In the National Aniline & Chemical case a published ruling of the solicitor was violated, and an unpublished ruling, advisory tax board recommendation No. 68, was followed. That this was not an oversight, but was done deliberately, is shown by the record.</p>
+<p>In the United Motors Corporation case (3923), committee on appeals and review recommendation No. G617 is contrary to published recommendation No. 34 providing for the 1913 valuation of corporate stock, yet No. 6617 was not published.</p>
+<p>Recommendation No. 6617 is based upon seven unpublished rulings, one of which is L. 0. 1117, which the committee states in its ruling was cited by both the unit and by the taxpayer.
+It was cited by the taxpayer and by the unit without ever being published, because the taxpayer learned of it through
+means resulting from the secretive methods employed by the department.</p>
+<p>This particular ruling not only shows the extent to which unpublished rulings were relied upon as precedents, but discloses the fact that at least this taxpayer had access to and was able to avail itself of this unpublished precedent.</p>
+<p>It may be observed that since June 1, 1025, the commissioner has refused to give this committee copies of unpublished rulings, some of which had been requested but the copying of which had not been finished on June 1, 1925.</p>
+<p>That was the time when the authority of the committee expired under the resolution&#8212;
+It thus appears that some taxpayers are permitted to secure and 'utilize rulings which even a Senate committee can not secure.</p>
+<p>I will skip over here; and I want to make reference to the value of this secrecy to the tax expert.</p>
+<p>This system&#8212;</p>
+<p>That I have just been talking about
+had not only led to the lack of uniformity and lack of consistency in rulings upon the same and closely related questions but has given rise to and now maintains the lucrative business of the tax expert or "fixer." There is nothing so involved, complicated, or technical about the procedure in the Income Tax Unit that anyone of ordinary intelligence can not understand it, provided he has access to the information. Taxpayers generally, however, to secure the advantages accorded others similarly situated find it necessary to employ some one with "inside" information.</p>
+<p>I want to point out to Senators that this is not a mere report; it is all sustained by evidence. The evidence is now in the hands of the Senate. If anyone challenges that statement he can go to the records, and deny, if he cares to, the statements I am now making, which are signed by a majority of the committee.</p>
+<p>I have no desire to delay action on the proposed amendment ; but if anyone is in doubt as to the desirability of adopting this amendment, I can refer him to the testimony that is already in the hands of the Senate, produced by the select committee that examined the Bureau of Internal Revenue, and specifically refer him to the reports from which I have read.</p>
+<head>PRESIDENTIAL APPROVALS</head>
+<p>A message from the President of the United States, by Mr. Latta, one of his secretaries, announced that the President had approved and signed the following acts and joint resolution:</p>
+<p>On May 16, 1928:</p>
+<p>S. 2004. An act authorizing the paving of the Federal strip known as International Street, adjacent to Nogales, Ariz. On May 17, 1928:</p>
+<p>S.1662. An act to change the boundaries of the Tule River Indian Reservation, Calif.;</p>
+<p>S. 2340. An act to transfer to the city of Duluth, Minn., the old Federal building, together with the site thereof</p>;
+<p>S.3565. An act to provide compensation for disability or death resulting from injury to employees in certain employments in the District of Columbia, and for other purposes; and</p>
+<p>S. J. Res. 119. Joint resolution granting an easement to the city of Duluth, Minn.</p>
+
+<head>CONSTRUCTION OF RURAL POST ROADS (8. DOC. NO. 111)</head>
+<p>The PRESIDING OFFICER (Mr. MCNARY in the chair) laid before the Senate the following veto message from the President, of the United States, which was read, as follows:</p>
+<hi rend="italic"><p>To the Senate:</p></hi>
+<p>There is returned herewith, without my approval, S. 3674, a bill to amend the act entitled "An act to provide that the United States shall aid the States in the construction of rural post roads, and for other purposes," approved July I1, 1916, as amended and supplemented, and for other purposes.</p>
+<p>The bill would authorize appropriations of $3,500,000 each for the fiscal years 1929, 1930, and 1931, to be allocated to States having more than 5 per cent of their area in unappropriated or unreserved public lands, nontaxable Indian lands, or other Federal reservations, for the construction, by the Bureau of Public Roads, of the main roads through such lands.</p>
+<p>From 1917 to 1929, inclusive, Federal appropriations aggregating $840,000,000 have been authorized for cooperative construction of rural post roads and appropriations aggregating $733,200,000 have been made to meet the requirements as they have developed. From 1922 to 1929, inclusive, Federal appropriations aggregating $58,000,000 have been authorized for forest-development roads and forest highways and appropriations thereunder aggregating $54,055,000 have been made. From 1925 to 1929, inclusive, $10,000,000 have been appropriated for the construction of roads in national parks.</p>
+<p>While expenditures from appropriations for cooperative construction of rural post roads are contingent upon equal contributions by State or local agencies, no such requirement obtains with reference to appropriations for roads in national forests and national parks, since such roads are required for the protection, administration, utilization, or development of Federal resources. The bill would provide for entire construction from Federal funds of main roads through unappropriated or -unreserved public lands and nontaxable Indian lands. Such expenditures could not be justified on the basis of protection or development of Federal resources and would constitute a radical departure from the established policy of Federal aid on a cooperative basis in road construction.</p>
+<p>Having in mind the increasing ability of the States to finance road construction due to the general adoption of the gasoline tax and the increase in revenue from this source which would accrue to States from roads constructed through public and Indian lands therein, I see no reason why the States should be relieved from their contribution toward the construction of these roads as required by existing law. I am constrained therefore to return this bill without my approval.</p>
+<closer><signed>CALVIN CooLIDGE.</signed>
+<dateline> THE WHITE HOUSE, May 18, 1928.</dateline></closer>
+
+<p>The PRESIDING OFFICER. The question is, Shall the bill pass, the objections of the President of the United States to the contrary notwithstanding?</p>
+<p>Mr. ODDIE. Mr. President&#8212;</p>
+<p>Mr. CURTIS. Mr. President, I understand that the veto message has to be entered on the Journal before that vote is taken. </p> <p> The PRESIDING OFFICER. The Senator from Nevada has a perfect right to make a statement, however.</p>
+<p>Mr. CURTIS. I beg pardon.</p>
+<p>Mr. ODDIE.  Mr. President, when the message is entered on the Journal in the proper way, in a short time I shall move that the Senate consider this matter.</p>
+<p>The PRESIDING OFFICER. The Chair will state to the Senator that a motion is not necessary. The matter is on the table for that purpose at any time. The message will lie on the table and be printed.</p>
+<head>CLAIMS OF INDIANS IN THE STATE OF WASHINGTON (S. DOC. NO. 110)</head>
+<p>The PRESIDING OFFICER laid before the Senate the following veto message from the President of the United States, which was read, as follows:</p>
+<quote>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I am returning herewith Senate bill 1480, "An act authorizing certain Indian tribes and bands, or any of them, residing in the State of Washington, to present their claims to the Court of Claims," without my approval.</p>
+<p>These claims amount to approximately $9,125,000, which represents the value of 6,500,000 acres of land, in the aboriginal possession of the Indians, at $1.25 per acre, and includes hunting and fishing rights to the value of $1,000,000. These claims are not based upon any treaty or agreement between the United States and these Indians, nor does it appear to me that they<pb n="2" />
+<fw> HeinOnline- 69 <title>Cong. Rec.</title> 9064 1928
+1928	CONGRESSIONAL RECORD-SENATE	9(65 </fw>
+are predicated upon such other grounds as should obligate the Govermnent at this late day to defend a suit of this character. The Government should not be required to adjudicate these claims of ancient origin unless there be such evidence of unmistakable merit in the claims as would create an obligation on the part of the Government to admit them to adjudication. It seems to me that such evidence is lacking.</p>
+<p>I am constrained, therefore, to withhold my approval of this bill.</p>
+<closer><signed>CALVIN COOLIDGE. </signed><dateline>THE WHITE HOUSE, May 18, 1928.</dateline></closer></quote>
+<p>The PRESIDING OFFICER. The question is, Shall the bill pass, the objections of the President of the United States to the contrary notwithstanding? The bill and message will lie over for the day and be printed.</p>
+
+<head>SUPPLEMENTAL ESTIMATES, DEPARTMENT OF COMMERCE (S. DOC. NO 109)</head>
+<p>The PRESIDING OFFICER laid before the Senate a communication from the President of the United States, submitting supplemental estimates of appropriations for the Department of Commerce, fiscal year 1928, amounting to $1,373,020, and for the fiscal year 1029 amounting to $47,955; in all, $1,420,975; which., with the accompanying papers, was referred to the Committee on Appropriations and ordered to be printed.</p>
+
+<head>RELIEF OF JOHN BOYD (S. DOC. NO. 108)</head>
+<p>The PRESIDING OFFICER laid before the Senate a communication from the President of the United States, transmitting a supplemental estimate of appropriation for the District of Columbia, fiscal year ending June 30, 1928, for the payment of a final judgment rendered against it amounting, with costs, to $516.66, which, with the accompanying papers, was referred to the Committee on Appropriations and ordered to be printed.</p>
+<p>I commend to the favorable consideration of the Congress the inclosed report from the Secretary of State, with the accompanying papers, to the end that legislation may be enacted authorizing (1) the President to invite representatives of foreign governments to attend an International Aeronautical Conference on Civil Aeronautics, to be held in Washington, D. C., December 12, 13, and 14 of this year, and (2) an appropriation of $24,700 for the expenses of such a conference in accordance with the recommendations of the Secretary of Commerce, as submitted through the Secretary of State.</p>
+<closer><signed>CALVIN COOLIDGE.</signed>
+<dateline>THE WHITE HOUSE, May 18, 1928.</dateline>
+(Inclosure: Copy of report from the Secretary of State, with enclosures.)</closer>
+<head>INTERNATIONAL TELEGRAPH CONFERENCE AT BRUSSELS (H. DOC. NO.
+309)</head>
+<p>The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying paper, referred to the Committee on Foreign Relations and ordered to be printed:</p>
+<hi rend="italic"><p>To the Congress of the United States:</p></hi>
+<p>I transmit herewith a report from the Secretary of State requesting that the Congress be asked to enact legislation authorizing an appropriation in the sum of $19,800 to pay for the expenditures involved in the participation by the United States in the International Telegraph Conference to be held at Brussels, beginning about September 10, 1028.</p>
+<p>I recommend that the Congress enact legislation authorizing an appropriation for the sum mentioned, in accordance with the recommendation of the Secretary of State.</p>
+<closer><signed>CALVIN COOLIDGE.</signed> <dateline>THE WHITE HOUSE, May 15, 1928.</dateline></closer>
+<p>(Inclosure : Report from the Secretary of State.) </p>
+<head>NAVAL CONSTRUCTION</head>
+<p>Mr. HALE. Mr. President, I do not desire to delay action on the amendment now before the Senate nor on the bill; but there are certain matters that I feel that I ought to bring before the Senate. I will ask Senators not to interrupt me in the
+course of what I have to say, as there are many figures involved.</p>
+<p>Mr. SMOOT. The Senator is not asking for action to be taken at this time?</p>
+<p>Mr. HALE. I am not asking for any action at this moment. What I shall say will not consume a great deal of time.</p>
+<p>Mr. President, to understand clearly the present naval situation and the purposes of the naval construction bill which is on the calendar it will be necessary to go back a number of years into naval history.</p>
+<p>In August, 1016, the so-called 1016 building program was authorized by act of Congress. This program provided for the construction of 157 new ships of various types, including a number of very large and very powerful battleships and battle cruisers.</p>
+<p>Most of the ships included in the building program, including all of the battleships and battle cruisers, had been laid down and were in process of construction when President Harding took his seat in the White House in March; 1921,</p>
+<p>At that time we had on the ways 9 battleships, 3 of them of a tonnage of 32,600 tons each, 6 of a tonnage of 43200 tons each, and 6 battle cruisers of a tonnage of 43,500 tons each. The battleships, when work was shortly thereafter stopped upon them, were in a stage of completion averaging 43 per cent, and the battle cruisers 16 per cent.</p>
+<p>Mr. President, had all of these ships been completed and had they been added to our naval forces, and had a sufficient number of cruisers, submarines, aircraft carriers, and other auxiliary ships been laid down properly to round out the Navy, we would have had a Navy powerful enough in all probability to withstand all of the navies of the world now in existence combined.</p>
+<p>This would have guaranteed to us absolute protection from any attack by sea.</p>
+<p>After the Great War a feeling arose in this country and throughout the civilized world that naval armament should be cut down and that the various peoples of the world should be relieved of the burdens of taxation necessary to maintain and keep up the great armaments then existing and planned for, and, above all, as far as possible that competition in naval armament should be stopped.</p>
+<p>To carry into effect such a plan for the limitation of armament the Washington Conference for the Limitation of Armament was called by President Harding in November, 1921.</p>
+<p>With our tremendous shipbuilding program on the ways, which no other country could reasonably hope to equal, we were in a position to bring about an agreement among the five greater naval powers of the world&#8212;Great Britain, Japan, France, Italy, and ourselves&#8212;for such a limitation, and we did bring about, Mr. President, such a limitation of naval armament, so far as capital ships and aircraft carriers were concerned, by agreeing to scrap all of our battleships building, with the exception of two, and all of our battle cruisers building,• with the exception of two, which were to be turned into aircraft carriers, risking a total of 465,800 tons of new construction that was scrapped, on which $150,000,000 had already been spent.</p>
+<p>In addition to this we agreed to scrap a number of older battleships, as did two of the other four nations parties to the treaty&#8212;Great Britain and Japan&#8212;which battleships could have been kept up only at great expense, and would in all probability have been scrapped had there been no conference on limitation of naval armament.</p>
+<p>The other nations parties to the conference agreed to scrap no ships that were in process of construction, with the exception of Japan, and nearly all of her building program was on paper.</p>
+<p>In exchange for giving up this great naval supremacy of ours we secured a basis of limitation on capital ships and carriers of 5 to 5, or an equality with Great Britain; 5 to 3 with Japan; and 5 to 1.67 with France and Italy on capital ships and 5 to 2.22 on carriers.</p>
+<p>The sacrifice in reaching this ratio was almost altogether on our part. At the same time the representatives of the United States made a strong attempt to have the same ratio apply to other combatant vessels, including cruisers, destroyers, and submarines, but the attempt was a failure and no agreement other than the agreement on capital ships and aircraft carriers was reached.</p>
+<p>When in a conference called on our own initiative we showed ourselves ready to sacrifice our naval supremacy the surprised world was only too glad to accept our terms for a limitation in this class of ships, and to that extent the conference was a success. The pity is that with this immense leverage we could not have fixed the ratio limit on all classes of combatant ships. It is true that we tried our best to do so, and at one time it
+<fw> INTERNATIONAL CONFERENCE ON CIVIL. AERONAUTICS (H. DOC. NO.
+308) </fw>
+The PRESIDING OFFICER laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying papers, referred to the Committee on Foreign Relations and ordered to be printed:</p>
+<p>To the Congress of the United States:</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

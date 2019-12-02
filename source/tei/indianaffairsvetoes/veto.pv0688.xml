@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0688">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">688	H.R. 8165 (Fifty-third Congress, Third Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0688</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-third Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>688	H.R. 8165 (Fifty-third Congress, Third Session &#8212; Cleveland)</head>
+
+<p>Granting the Kansas City, Oklahoma &amp; Pacific Railway the right of way to construct and operate a railway through the Indian Territory.</p>
+
+<p>Vetoed February 23, 1895.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Ex. Doc. No. 335 (27 <title>Cong. Rec.</title> 2721).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 151.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0688.01.pdf">Kansas City, Oklahoma, and Pacific Railway Company.  Message from the President of the United States, returning without his approval House Bill 8165, entitled "An Act Authorizing the Kansas City, Oklahoma, and Pacific Railway Company to Construct and Operate a Railway through Indian Reservations in the Indian Territory and the Territories of Oklahoma and New Mexico, and for other purposes.</ref>  (1895).  House of Representatives.  53rd Congress, 3rd session.  House Executive Document No. 335 (<title>Serial Set</title> 3324).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 53D CONGRESS, 3d Session.  HOUSE OF REPRESENTATIVES.	Ex.DoC.
+	No. 335. </fw>
+<head>KANSAS CITY, OKLAHOMA AND PACIFIC RAILWAY
+COMPANY.</head>
+<milestone unit="rule" />
+<p>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING &#8212;-
+Without his approval House bill 8165, entitled "An act authorizing the Kansas City, Oklahoma and Pacific Railway Company to construct and operate a railway through Indian reservations in the Indian Territory and the Territories of Oklahoma and New Mexico, and for other purposes."</p>
+<milestone unit="rule" />
+<p>FEBRUARY 25, 1895.—Referred to the Committee on Indian Affairs and ordered to be
+printed.</p>
+<milestone unit="rule" /><opener>
+
+<hi rend="italic">To the House of Representatives:</hi>
+</opener>
+<p>I return herewith without approval House bill number 8165, entitled "An act authorizing the Kansas City, Oklahoma and Pacific Railway
+Company to construct and operate a railway through Indian reservations in the Indian Territory and the Territories of Oklahoma and New Mexico, and for other purposes."
+This bill contains concessions more comprehensive and sweeping than any ever presented for my approval, and it seems to me the rights and interests of the Indians and the Government are the least protected.</p>
+<p>The route apparently desired, though passing through or into one State and three Territories, is described as indefinitely as possible, and does not seem to be subject to the approval in its entirety of the Secretary of the Interior or any other governmental agency having relation to the interest involved.</p>
+<p>There is no provision for obtaining the consent of the Indians through whose territory and reservations the rail may be located.</p>
+<p>Though it is proposed to build the railroad through Territories having local courts convenient to their inhabitants, all controversies that may arise out of the location and building of the road are by the provisions of the bill to be passed upon by the United States circuit and district courts for the district of Kansas, "and such other courts as may be authorized by Congress."</p>
+<p>The bill provides that "the civil jurisdiction of said courts is hereby extended within the limits of said Indian reservations without distinction as to citizenship of the parties, so far as may be necessary to carry out the provisions of this act?' This provision permits the subordination of the jurisdiction of Indian courts, which we are bound by treaty to protect, to the "provisions of this act" and to the interests and pref<pb n="2" />
+<fw> C) KANSAS CITY. OKLAHOMA A-I'M PACIFIC RAILWAY COMPANY. </fw>
+erences of the railroad company for whose benefit the bill under consideration is intended.</p>
+<p>A plan of appraisal is provided for in the bill in case an agreement can not be reached as to the amount of compensation to be paid for the taking of lands held by individual occupants according to the laws, customs, and usages of any of the Indian nations or tribes, or by allotment or agreement with the Indians. It is, however, further provided that in case either party is dissatisfied with the award of the referees to be appointed an appeal may be taken to the district court held at Wichita, Kans., no matter where on the proposed route of the road the controversy may originate. If upon the hearing of said appeal the judgment of the court shall be for the same sum as the award of the referees, the costs shall be adjudged against the appellant, and if said judgment shall be for a smaller sum the costs shall be adjudged against the party claiming damages. It does not seem to me that the interests of an Indian occupant or allottee is properly regarded when he is obliged, if dissatisfied with an award for the taking of his laud, to go to the district court of Kansas for redress, at the risk of incurring costs and expenses that may not only exceed the award originally made to him, but leave him in debt.</p>
+<p>It is probable that there are other valid objections to this bill. I have only attempted to suggest enough to justify my action in disapproving it.</p>
+<p>In constructing legislation of this description it should not be forgotten that the rights and interests of the Indians are important in every view and should be scrupulously protected.</p>
+<closer><signed>GROVER CLEVELAND.</signed>
+<dateline>EXECUTIVE MANSION,
+February 23, 1895.</dateline></closer>
+<milestone unit="rule" />
+<p>[H. R. No. 8165. Fifty-third Congress of the United States of America; at the third session, begun and held at the city of Washington on Monday, the third day of December, one thousand eight hundred and ninety-four.]</p>
+<hi rend="italic"><p>An act authorizing the Kansas City, Oklahoma and Pacific Railway Company to construct and operate a railway through Indian reservations in the Indian Territory, and the Territories of Oklahoma and New Mexico, and for other purposes.</p></hi>
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> That the Kansas City, Oklahoma and Pacific Railway Company, a corporation created under and by virtue of the laws of the State of Kansas, be, and the same is hereby, authorized and invested and empowered with the right of locating, constructing, owning, equipping, and operating, using, and maintaining a rail way and telegraph and telephone line through all Indian reservations in the Indian. Territory and the Territories of Oklahoma and New Mexico upon a line beginning at a point to be selected by said railway company at or near the town of Coffeyville, in the county of Montgomery, State of Kansas, and running thence in a south and west direction over the most practicable route, through the Indian Territory and the Territory of Oklahoma, to a point at or near Pawhuska, and also Guthrie and Kingfisher, in the Territory of Oklahoma, and thence to the east line of Wheeler County, State of Texas; thence to the east line of the Territory of New Mexico, and  through the Territory of New Mexico to the city of Albuquerque, in the Territory of New Mexico, with the right to construct, use, and maintain such tracks, turn outs, sidings, and extensions through such Indian reservations as said company may deem to their interests to construct along and upon the right of way and depot grounds herein provided for.</p>
+<p>SEC. 2. That the said corporation is authorized to take and use, for all purposes of a railway and for no other purpose, a right of way one hundred feet in width through said reservations, and to take and use a strip of land two hundred feet in width, with a length of three thousand feet in addition to right of way, for stations for<pb n="3" />
+<fw> KANSAS CITY, OKLAHOMA AND PACIFIC RAILWAY COMPANY. 3 </fw>
+every ten miles of road, with right to use such additional grounds where there are
+heavy cuts or fills, not exceeding one hundred feet in width, as may be necessary for the construction and maintenance of said right of way, or so much thereof as may be included in said cuts or fills: Prorided, That no more than said addition of land shall be taken for any one station: Prorided sold That no part of said lands herein authorized to be taken shall be leased or sold by further, company; and they shall not be used except in such manner and for such purposes only as shall be necessary for the construction and convenient operation of said railroad, telegraph, and telephone lines; and when any portion thereof shall cease to be so used, such portion shall revert to the nation or tribe of Indians, or individual Indians, from which the same shall have been taken.</p>
+<p>SEC. 3. That before said railway shall be constructed through any lands held by individual occupants, according to the laws, customs, and usages of any of the Indian nations or tribes through which it may be constructed, or by allotment under any laws of the United States or agreement with the Indians, full compensation shall be made to such occupants for all property to be taken or damages done by reason of the construction of such railway. In case of failure to make amicable settlement with any occupant such compensation shall be determined by the appraisement of three disinterested persons or referees, to be appointed, one, who shall act as chairman, by the President, one by the chief of the nation to which said occupant belongs, or in case of an allottee, by said allottee, or by his duly authorized guardian or legal representative, and one by said railway company, who, before entering upon the duties of their appointment, shall take and subscribe, before a district judge, clerk of the district court, or United States commissioner, an oath that they will faithfully and impartially discharge the duties of their appointment, which oath, duly certified, shall be returned with their award to and filed with the Secretary of the Interior within sixty days from the completion thereof; and a majority of said referees shall be competent to act in case of the absence of a member after due notice; and upon the failure of either party to make such appointment within thirty days after the appointment made by the President the vacancy shall be filled by the district judge of the court held at Wichita, Kansas, upon the application of the other party. The chairman of said board shall appoint the time and place for all hearings within the nation to which the occupant belongs. Each of said referees shall receive for his services the sum of four dollars per day for each and every day they are engaged in the trial of any case submitted to them under this Act, with mileage of five cents per mile. Witnesses shall be allowed the usual fees allowed by the courts of said nation. The costs, including the compensation of the referees, shall be made a part of the award, and to be paid by said railway company. In case the referees can not agree. then two of them are authorized to make the award. Either party being dissatisfied with the findings of the referees shall have the right, within ninety days after the making of the award and notice of the same, to appeal by original petition to the district court held at Wichita, Kansas, which court shall have jurisdiction to hear and determine the subject-matter of said petition according to the laws of the State of Kansas providing for the determining of damages when property is taken for railway purposes. If, upon the hearing of said appeal, the judgment of the court shall be for a larger sum than the awards of the referees, the costs of said appeal shall be adjudged against the railway company. If the judgment of the court shall be for the same sum as the award of the referees, then the costs shall be adjudged against the appellant. If the judgment of the court shall be for a smaller sum than the award of the referees then the costs shall be adjudged against the party claiming damages. When proceedings have been commenced in court the railway company shall pay double the amount of the award into court to abide the judgment thereof, and then have the right to enter upon the property sought to be condemned and proceed with the construction of the railway.</p>
+<p>SEC. 4. That said railway company shall not charge the inhabitants of said Territories a greater rate of freight than the rate authorized by the laws of the State of Kansas for services or transportation of the same kind: Provided, That the passenger rates shall not exceed three cents per mile. Congress hereby reserves the right to regulate the charges for freight and passengers on said railway, and of messages on said telegraph and telephone lines, until State governments are formed and shall exist in said Territories, within the limits of which said railway, or a part thereof, shall be located, and then such State government, or governments, shall be authorized to fix and regulate the cost of transportation of persons and freight within their respective limits by said railway; but Congress expressly reserves the right to fix and regulate at all times the cost of such transportation by said railway company whenever such transportation shall extend from one State into another, or shall extend into more than one State: Provided, That the rate of such transportation of passengers, local or interstate, shall not exceed the rate expressed: Provided farther, That said railway company shall carry the mail at such prices as Con ess may by law provide, and until such rate is fixed by law the Postmaster-General may fix the rate of compensation.</p>
+<fw> 4 KANSAS CITY, OKLAHOMA AND PACIFIC RAILWAY COMPANY. </fw>
+<pb n="4" />
+<p>SEC. 5. That said railway company shall pay to the Secretary of the Interior, for the benefit of the particular nations or tribes through whose lands said line may be located, the sum of fifty dollars. in addition to the compensation provided for in this Act for property taken and damage done to individual occupants by the construction of the railway, for each mile of railway constructed in said reservations, said payments to be made in installments of five hundred dollars as each ten miles of road is located and graded: Provided, That if the general council of either of the nations or tribes through whose lands said railway may be located shall, within four months after the filing of maps of definite locations, as set forth in section six of this Act, dissent from the allowances provided for in this section, and certify the same to the Secretary of the Interior, then all compensation to be paid to such dissenting nations or tribes under the provisions of this Act shall be determined as provided in section three for the determination of the compensation to be paid to the individual occupant of lands, with the right of appeal to the courts upon the same terms, comb- bons, and requirements as therein provided: Provided further, That the amount awarded or adjudged to be paid by said railway company for said dissenting nation or tribe shall be in lien of the compensation that said nation or tribe would he entitled to receive under the foregoing provisions, except as to annual tax. Said company shall also pay, so long as said reservations are owned and occupied by the Indians, to the Secretary of the Interior, the sum of fifteen dollars per annum for each mile of railway it shall construct in the said reservations. The money paid to the Secretary of the Interior under the provisions of this Act shall be apportioned by him, in accordance with the laws and treaties now in force, among the different nations or tribes according to the number of miles of railway that may be constructed by said railway company through their lands : Provided, That Congress shall have the right, so long as said lands are occupied and possessed by said nations or tribes, to impose such additional taxes upon said railroads as it may deem just and proper for their benefit. And any Territory or State hereinafter formed through which said railway shall have been established may exercise the like power as to such part of said railway as may be within its limits. Said railway company shall have the right to survey and locate its railway immediately after the passage of this Act.</p>
+<p>SEC. 6. That said railway company shall cause maps showing the route of its located line through said reservations to be filed in the office of the Secretary of the Interior, and also to be filed in the office of the principal chief of each of the nations or tribes through whose lauds said railway may be located; and, after the filing of said maps, no claims for a subsequent settlement and improvement upon the right of way shown by said maps shall be valid as against said'company: Provided, That when a map showing any portion of said railway company's located line is tiled. as herein provided for, said company shall commence grading said located line within six months thereafter, or such location shall be void. And such locations shall be approved by the Secretary of the Interior in sections of twenty-five miles before the construction of any such section shall be begun.</p>
+<p>SEC. 7. That the United States circuit and district courts for the district of Kansas, and such other courts as may be authorized by Congress, shall have, without reference to the amount in controversy, concurrent jurisdiction over all controveries arising between said Kansas City, Oklahoma and Pacific Railway Company and the nations and tribes of Indians through whose reservation said railway shall be constructed. Said courts shall have like jurisdiction. without reference to the amounts in controversy, over all controversies arising between the inhabitants of the said nations or tribes of said railway company; and the civil jurisdiction of such courts is hereby extended within the limits of said Indian reservations without distinction as to citizenship of the parties so far as may be necessary to carry out the provisions of this Act.</p>
+<p>SEC. 8. That the officers, servants, and employees of said company, necessary to the construction and management of said road, shall he allowed to reside, while so engaged, upon said right of way, but subject to the provisions of the Indian intercourse laws, and such rules and regulations as may be established by the Secretary of the Interior, in accordance with said intercourse laws.</p>
+<p>SEC. 9. That said railway company shall build at least one hundred miles of its railway within three years after the passage of this Act or the rights herein granted shall be forfeited as to that portion not built. That said railway company shall construct and maintain continually all fences, road and highway crossings, and necessary bridges over said railway wherever said roads or highways do now or may hereafter cross said railway's right of way, or may be, by the proper authorities, laid out across the same.</p>
+<p>SEC. 10. That the Kansas City, Oklahoma and Pacific Railway Company shall accept this grant of the right of way upon the express condition, binding upon
+itself, its successors and assigns, that they will neither aid, advise, nor assist in any
+effort looking toward the changing or extinguishing the present tenure of the Indians in their laud, and will not attempt to secure from the Indian nations or
+<fw> KANSAS CITY, OKLAHOMA AND PACIFIC RAILWAY COMPANY. 5 </fw>
+tribes any further grant of land, or its occupancy, than is hereinhefore provided for: Provided, That any violation of the conditions mentioned in this section shall operate as a forfeiture of all rights and privileges of said railway company under this Act.</p>
+<p>SEC. 11. That all mortgages executed by said railway company conveying any portion of its railway, with its franchises, that may be constructed in said reservations, shall be recorded in the Department of the Interior, and the record thereof shall be evidence and notice of their execution, and shall convey all rights and property of said company as therein expressed.</p>
+<p>SEC. 12. That Congress may at any time alter, amend, or repeal this Act.</p>
+<closer><signed>CHARLES F. CRISP, Speaker of the House of Representatives.</signed>
+<signed>A. E. STEVENSON,
+Vice-President of the United States and President of the Senate.</signed>
+I certify that this Act originated in the House of Representatives. Attest:
+<signed>JAMES KERR, Clerk.</signed></closer>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0688.02.pdf"><title>Congressional Record</title> 27, 2721</ref> (1895). </bibl>
+<!-- <floatingText>
+<body>
+<fw> 1895.	CONGRESSIONAL RECORD-HOUSE.	2721 </fw>
+<p>the Lava Beds, California, January 17, 1873, and at the Clearwater, Idaho, July 11 and 12, 1877.</p>
+<p>Capt. John Morrison Hamilton, Fifth Cavalry (now major, First Cavalry), for gallant service in action January 16, 1873, against Tonto Apache Indians in the foothills of the Tortilla Mountains, Arizona, in connection with gallant conduct in the closing campaign against those Indians.</p>
+<p>First Lieut. Melville Carey Wilkinson, Third Infantry, brevet captain, United States Army (now captain, Third Infantry), for gallant service in action against Indians at the Clearwater, Idaho, July 11 and 12, 1877, and at Kamiah, Idaho, July 13, 1877.</p>
+<p>Capt. Edward Miles Heyl, Ninth Cavalry (late colonel, inspector-general, since deceased), for gallant service in action against Indians at the Rio Pecos, Texas, June 7, 1869, the Salt Fork of the Brazos River, Texas, September 16, 1869, and at the South Fork of the Llano River, Texas, November 24, 1869, in which last-named action he was severely wounded.
+To be captain by brevet.</p>
+<p>First Lieut. George William Baird, Fifth Infantry (now major, paymaster), for gallant service in action against Indians at Red River, Texas, August 30, 1874, and at Bear Paw Mountain, Montana, September 30, 1877, in which last-named action he was severely wounded.</p>
+<p>First Lieut. Edward Mortimer Hayes, Fifth Cavalry (now major, Seventh Cavalry), for gallant service in action against Indians at Beaver Creek, Kans., October 25 and 26, 1868.</p>
+<p>First Lieut. William Richardson Hall, assistant surgeon (now major, surgeon), for gallant service in action against Indians in attending to his professional duties under fire at the Clearwater, Idaho, July 11 and 12, 1877.</p>
+<p>First Lieut. Frederick Henry Ernst Ebstein, Twenty-first Infantry (now captain, Twenty-first Infantry), for gallant service in action against Indians at Cottonwood Ranch, Idaho, July 4, 1877; Camas Meadows, Idaho, August 20, 1877, and at the Umatilla Agency, Oreg., July 13, 1878.</p>
+<p>First Lieut. Wilber Elliott Wilder, Fourth Cavalry (now captain, Fourth Cavalry), for gallant service in action against Indians, inclusive of the rescue while under heavy fire of an enlisted man who was severely wounded at Horse-Shoe Canyon, New Mexico, April 23, 1882.
+To be first lieutenant by brevet.</p>
+<p>Second Lieut. William Curtis Forbush, Fifth Cavalry (now captain, Fifth Cavalry), for gallant service in action against Indians at Beaver Creek, Kans., October 25 and 26, 1868.</p>
+<p>Second Lieut. Robert Powell Page Wainwright, First Cavalry (now captain, First Cavalry), for gallant service in action against Indians at the Umatilla Agency, Oreg., July 13, 1878.
+Second Lieut. Guy Howard, Twelfth Infantry (now captain, assist-ant quartermaster), for gallant service in action against Indians at Camas Meadows, Idaho, August 20, 1877.</p>
+<head>CONFIRMATIONS.</head>
+<p>Executive nominations confirmed by the Senate February 23, 1895.</p>
+<head>CONSUL.</head>
+<p>William Crichton, of West Virginia, to be secretary of legation of the United States at Brazil.</p>
+<head>REGISTER OF THE LAND OFFICE.</head>
+<p>Thomas A. Dunlava, of Fisher, Minn., to be register of the laud office at Crookston, Minn.</p>
+<head>POSTMASTERS.</head>
+<p>Richard Gleeson, to be postmaster at Antwerp, in the county of Jefferson and State of New York.</p>
+<p>James S. Kissane, to be postmaster at Chateaugay, in the county of Franklin and State of New York.</p>
+<p>John H. Mealey, to be postmaster at Greenwich, in the county of Washington and State of New York.</p>
+<p>Jacob M. Winder, to be postmaster at Bristol, in the county of Bucks and State of Pennsylvania.</p>
+<p>Executive nominations confirmed by the Senate February 25, 1895.</p> 
+<head>PROMOTION IN THE NAVY.</head>
+<p>Assistant Engineer John C. Leonard, to be a passed assistant engineer in the Navy.</p>
+<head>APPOINTMENTS IN THE NAVY.</head>
+<p>Assistant Engineer John T. Myers, to be a second lieutenant in the Marine Corps.
+Second Lieut. Walter Ball, United States Marine Corps, to be an assistant engineer in the Navy.</p>
+<head>CONSULS.</head>
+<p>Samuel W. Thome, of Pennsylvania, to be consul of the United States at Asuncion, Paraguay.</p>
+<p>
+William W. Masterson, of Kentucky, to be consul of the United States at Aden, Arabia.</p>
+<p>Fred. Ellison, of Indiana, to be consul of the United States at Belize, British Honduras.</p>
+<head>POSTMASTERS.</head>
+<p>Louis A. Dickinson, to be postmaster at Fremont, in the county of Sandusky and State of Ohio.</p>
+<p>Solomon S. Metzger, to be postmaster at Bedford, in the county of Bedford and State of Pennsylvania.</p>
+<p>F. J. Smedley, to be postmaster at North East, in the county of Erie and State of Pennsylvania.</p>
+<p>Samuel E. Fleming, to be postmaster at Huntingdon, in the county of Huntingdon and State of Pennsylvania.</p>
+<p>F. G. Edmiston, to be postmaster at Crockett, in the county of Houston and State of Texas.</p>
+<p>James P. Charlesworth, to be postmaster at St. Clairsville, in the county of Belmont and State of Ohio.</p>
+<p>John H. Hicock, to be postmaster at Flint, in the county of Genesee and State of Michigan.</p>
+<p>James R. Holcombe, to be postmaster at Gothenburg, in the county of Dawson and State of Nebraska.</p>
+<p>John E. Kelly, to be postmaster at Dundee, in the county of Kane and State of Illinois.</p>
+<p>Arthur L. Morse, to be postmaster at Atkinson, in the county of Holt and State of Nebraska.</p>
+<p>Sallie Howard, to be postmaster at Tuskegee, in the county o Macon and State of Alabama.</p>
+<p>Charles G. Kress, to be postmaster at Lewiston, in the county of Nez Perces and State of <p>Idaho.</p>
+Mary F. Holland, to be postmaster at Friend, in the county of Saline and State of Nebraska.</p>
+<p>Martin J. Conley, to be postmaster at Warren, in the county of Bristol and State of Rhode Island.</p>
+<p>George W. Marshall, to be postmaster at Swampscott, in the county of Essex and State of Massachusetts.</p>
+<p>George E. Bryant, to be postmaster at Baldwinsville, in the county of Worcester and State of Massachusetts.</p>
+<p>Houston D. McCabe, to be postmaster at St. Johns, Michigan.</p>
+<milestone unit="rule" />
+
+<head>HOUSE OF REPRESENTATIVES.</head>
+<head type="sub">MONDAY, February 25, 1895.</head>
+
+<p>The House met at 11 o'clock a. m. Prayer by the Chaplain, Rev. E. B. BAGBY.</p>
+<p>The Journal of the proceedings of Saturday was read and approved.</p>
+
+<head>VETO MESSAGE&#8212;SOCIETY OF AMERICAN FLORISTS.</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States; which was read, referred to the Committee on Agriculture, and ordered to be printed:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without approval House bill No. 5740, entitled An act incorporating the Society of American Florists."</p>
+<p>No sufficient reason is apparent for the incorporation of this organization under Federal laws. There is not the least difficulty in the way of the accomplishment under State laws by the incorporators named in the bill of every purpose which can legitimately belong to their corporate existence. The creation of such a corporation by a special act of Congress establishes a vexatious and troublesome precedent.</p>
+<p>There appears to be no limit in the bill to the value of the real and personal property which the proposed corporation may hold if acquired by donation or bequest. The limit of $50,000 applies only to property acquired by purchase.</p>
+<p>A conclusive objection to the bill is found in the fact that it fails to carry out the purposes and objects of those interested in its passage. The promoters of the bill are florists who undoubtedly seek to advance floriculture. The declared object of the proposed incorporation is, however, stated in the bill to be " the elevation and advancement of horticulture in all its branches, to increase and diffuse the knowledge thereof, and for kindred purposes in the interest of horticulture."</p>
+<p>It is entirely clear that the interests of florists would be badly served by a corporation confined to the furtherance of garden culture.</p>
+<closer><signed>GROVER CLEVELAND</signed>. <dateline>EXECUTIVE MANSION, February 23, 1895.</dateline></closer>
+<milestone unit="rule" />
+
+<head>VETO MESSAGE&#8212;OKLAHOMA AND PACIFIC RAILWAY COMPANY.</head>
+<p>The SPEAKER also laid before the House the following message from the President of the United States; which was read, referred to the Committee on Indian Affairs, and ordered to be printed:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without approval House bill No. 8165, entitled "An act authorizing the Kansas City, Oklahoma and Pacific Railway Company to construct and operate a railway through Indian reservations in the Indian Territory and the Territories of Oklahoma and New Mexico, and for other
+purposes" bill contains concessions more comprehensive and sweeping than any ever presented for my approval, and it seems to me the rights and interests of the Indians and the Government are the least protected.</p>
+<p>The route apparently desired, though passing through or into one State and three Territories, is described as indefinitely as possible, and does not seem to be subject to the approval in its entirety of the Secretary of the Interior or any other governmental agency having relation to the Interest involved.</p>
+<p>There is no provision for obtaining the consent of the Indians through whose territory and reservations the railroad may be located.</p>
+<p>Though it is proposed to build the railroad through Territories having local courts convenient to their inhabitants, all controversies that may arise out of the location and building of the read are by the provisions of the bill to be passed upon by the United States circuit and district courts for the district of Kansas, "and such other courts as may be authorized by Congress."</p><pb n="2" />
+<fw> HeinOnline - 27 <title>Cong. Rec.</title> 2721 1895
+2722	CONGRESSIONAL RECORD-HOUSE.	FEBRUARY 25, </fw>
+<p>The bill provides that  the civil jurisdiction of said courts is hereby extended within the limits of said Indian reservations without distinction as to citizenship of the parties, so far as may bo necessary to carry out the provisions of this act." This provision permits the subordination of the jurisdiction of Indian courts, which we are bound by treaty to protect, to the "provisions of this act" and to the interests and preferences of the railroad <p>company for whose benefit the bill under consideration is intended.</p>
+A plan of appraisal is provided for in the bill in case an agreement can not be reached as to the amount of compensation to he paid for the taking of lands held by individual occupants according to the laws, customs, and usages of any of the Indian nations or tribes, or by allotment or agreement with the Indians. It is, however, further provided that in case either party is dissatisfied with the award of the referees to be appointed an appeal may be taken to the district court held at Wichita, Kans., no matter where on the proposed route of the road the controversy may originate. If upon the hearing of said appeal the judgment of the court shall be for the same sum as the award of the referees, the costs shall be adjudged against the appellant, and if said judgment shall be for a smaller sum the cost shall be adjudged against the party claiming damages. It does not seem to me that the interests of an Indian occupant or allottee is properly regarded when he is obliged, if dissatisfied with an award for the taking of his land, to go to the district court of Kansas for redress, at the risk of incurring costs and expenses that may not only exceed the award originally made to him, but leave him in debt.</p>
+<p>It is probable that there are other valid objections to this bill. I have only attempted to suggest enough to justify my action in disapproving it.</p>
+<p>In constructing legislation of this description it should not be forgotten that the rights and interests of the Indians are important in every view and should be scrupulously protected.</p>
+<closer><signed>GROVER CLEVELAND. </signed>
+<dateline>EXECUTIVE MANSION, February 23, 1895.</dateline></closer>
+
+<head>VETO MESSAGE—HIRAM R. RHEA.</head>
+<p>The SPEAKER also laid before the House the following message from the President of the United States, which was read:</p>
+<quote>
+<opener>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I return herewith without approval House bill No. 4555, entitled "An act granting a pension to Hiram R. Rhea and repealing an act approved March 3, 1871."</p>
+<p>The person named in the title of this bill was pensioned under the provisions of a private not passed March 3, 1871. In 1892 a letter from the Commissioner of Pensions was presented to Congress exhibiting facts which established in a most satisfactory manner that the claim for pension allowed by said special act was a barefaced and impudent fraud, supported by deliberate perjury. This letter appears to be the moving cause of the passage of the bill now before me. Payment of pension under the fraudulent act has been suspended since January 28, 1803, and since that time no information has been received from the fraudulent pensioner.
+The circumstances developed called for the repeal of the law of 1871 placing him upon the pension roll. This is accomplished. in the second section of the bill under consideration, which section I would be glad to approve. This re-peal, however, is accompanied by a provision in the first section of the bill directing the Secretary of the Interior to place upon the pension roll this identical fraudulent pensioner under a certificate numbered precisely the same as that heretofore issued to him " at a rate proportionate to the degree of disability from such gunshot wounds as may be shown to the satisfaction of said Secretary to have been received at the hands of Confederate soldiers or sympathizers while said Rhea was attempting to cooperate with the Union forces," etc.</p>
+<p>Inasmuch as the letter of the Commissioner of Pensions to which reference has been made, and which forms part of the committee's report on this bill is the basis of this repealing provision, and inasmuch as this letter furnishes evidence that the pensioner was, when injured, a very disreputable member of a band of armed rebels and was wounded by Union soldiers, I can not understand why the same bill, which for this reason purges the pension rolls of his name, should in the same breath undo this work and direct his name to be rewritten on the rolls.</p>
+If the facts before Congress justify the repeal of the law under which this man fraudulently received a pension for nearly twenty-two years they certainly do not justify the provision directing his name to be put on the rolls again with a view to further examination of his case or for any other purpose.
+<closer><signed>GROVER CLEVELAND</signed>
+<dateline>EXECUTIVE MANSION, February 23, 1895.	</dateline></closer>
+<p>Mr. MARTIN of Indiana. Mr. Speaker, I ask consent that that
+message, with the accompanying papers, be allowed to remain on the table for the present.</p>
+<p>There was no objection.</p>
+
+<head>MESSAGE FROM THE SENATE.</head>
+<p>A message from the Senate, by Mr. PLATT, one of its clerks, announced that the Senate had passed with amendments the bill
+(H. R. 8479) making appropriations for current and contingent
+expenses of the Indian Department and fulfilling treaty stipulations with various Indian tribes for the fiscal year ending June 30, 1896, and for other purposes; in which the concurrence of the House was requested.</p>
+<head>WITHERBY & GAFFNEY.</head>
+<p>The SPEAKER laid before the House the bill (H. R. 4507) for
+the relief of Witherby & Gaffney, with a Senate amendment. The Senate amendment was read.</p>
+<p>Mr. CHICKERING. Mr. Speaker, I move that the House con-
+cur in the amendment of the Senate with the following additional amendments, which I ask the Clerk to report.</p>
+<p>The Clerk read as follows:</p>
+<p>In line 30, after the word "aforesaid," insert the following:</p>
+<p>"Provided, That in no event shall an amount exceeding $5,414.28 be allowed against the Government."</p>
+<p>In line 35, after the word "appropriated," insert the following: "Not exceeding $5,414.28."</p>
+<p>The amendments to the amendment were agreed to.</p>
+<p><p>The amendment of the Senate as amended was agreed to.</p>
+On motion of Mr. CHICKERING, a motion to reconsider the last vote was laid on the table.</p>
+<head>SENATE RESOLUTIONS REFERRED.</head>
+<p>The SPEAKER laid before the House the following joint resolutions of the Senate; which were severally read a first and second time, ordered to be printed, and referred to the committees named below:</p>
+<p>Joint resolution (S. R. 133) directing the Secretary of War to
+make an examination of the bridge to be constructed over the
+Delaware River, between the States of New Jersey and Pennsylvania&#8212;to the Committee on Interstate and Foreign Commerce.</p>
+<p>Joint resolution (S. R. 134) calling on the President to take
+such measures as he may deem necessary to consummate the agreement between the Governments of Spain and the United States for the relief of Antonio Maximo Mora, a naturalized citizen of the United States&#8212;to the Committee on Foreign Affairs.</p>
+<head>DONATION OP CANNON TO CITY OF BURLINGTON, VT.</head>
+<p>The SPEAKER laid before the House the joint resolution (S. R.
+138) authorizing the Secretary of the Navy to deliver unserviceable or condemned cannon to the mayor of Burlington, Vt., to be used in decorating Battery Park.</p>
+<p>Mr. POWERS. Mr. Speaker, I ask for the present consideration of this joint resolution.</p>
+<p>The joint resolution was read, as follows:</p>
+<p><hi rend="italic">Resolved,</hi> etc., That the Secretary of the Navy be, and he is hereby, authorized and directed to deliver to the mayor of the city of Burlington, Vt., four pieces of unserviceable or condemned cannon and one hundred cannon balls, for use in decorating Battery Park, in said city, where soldiers and sailors of the war of 1812 were buried: Provided, That the same can be spared without detriment to the service, and that no expense is thereby incurred by the Government.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Vermont?</p>
+<p>There was no objection.</p>
+<p>The joint resolution was ordered to a third reading; and being read a third time, was agreed to.</p>
+<p>On motion of Mr. POWERS, a motion to reconsider the last vote was laid on the table.</p>
+<head>RETURN OF A JOINT RESOLUTION TO THE SENATE.</head>
+<p>The SPEAKER laid before the House the following Senate resolution:</p>
+<p><hi rend="italic">Resolved,</hi> That the Secretary bo directed to request the House of Representatives to return to the Senate the engrossed joint resolution (H. Res.277) in reference to the free zone along the northern frontier of Mexico and adjacent to the United States.</p>
+<p>The SPEAKER. Without objection, this request of the Senate
+will be complied with, and the bill will be returned to the Senate in accordance with the request.</p>
+<p>There was no objection.</p>
+<p>ROBERT BRIGHAM.</p>
+<p>Mr. SIBLEY. Mr. Speaker, I ask unanimous consent for the present consideration of the bill (H. R. 7000) for the relief of Robert Brigham, late postmaster at Franklin, Pa.</p>
+<p>The bill was read, as follows:</p>
+<p>Be it enacted, etc., That the Secretary of the Treasury be, and is hereby, authorized and directed to pay to Robert Brigham, late postmaster at Franklin, Pa., the sum of $2,666.93, out of any money in the Treasury not otherwise appropriated, the same being amount lost through the failure of Venango National Bank, where such money was deposited by order of the Postmaster-General.</p>
+<p>Mr. SAYERS. I should like to have some explanation of this bill. We want to know when this loss occurred.</p>
+<p>The SPEAKER. Without objection, the gentleman can make a short explanation.</p>
+<p>Mr. SIBLEY. Mr. Speaker, Mr. Robert Brigham was appointed postmaster by President Lincoln, at a time when the post-office at
+Franklin was a fourth-class post-office. Inside of a very few months, on account of the discovery and development of the petroleum fields of that Commonwealth, this post-office became the second or third office in the amount of business transacted in the State of
+Pennsylvania. Mr. Brigham, at his own expense, fitted up the
+office and put in boxes. At that time Mr. C. B. Culver, of the firm of Culver, Penn & Co., was a Representative in Congress. Another banker, Mr. Blakeley, was the bondsman of Mr. Brigham. Mr. Culver secured an order or presented an order to Mr. Brigham
+from the Postmaster-General, which Major MCDOWELL, a member of the present House from Pennsylvania, who was at that time a clerk
+in the office, saw and read, directing him to transfer his account
+from the bank of Mr. Blakeley, who was his bondsman, to the
+bank of Mr. Culver. Very soon thereafter Mr. Culver failed, the national bank failed, and Mr. Brigham lost his money. A fire which occurred afterwards destroyed all the fixtures that he had put in at his own expense. Mr. Brigham's bill was originally for $7,000.</p>
+<p>Mr. MCDowELL, Mr. STONE, and myself agreed, all being residents of the town, that the money he had deposited under the order of the Postmaster-General should be paid to him and that we would unite in asking the House to reimburse him. This bill passed the Senate, but it failed to obtain consideration in the House. It has been before Congress for twenty years. It is another "Denman" case. This is a very small portion of the amount of money he lost. He went in there in affluent circumstances and was almost pauperized.</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

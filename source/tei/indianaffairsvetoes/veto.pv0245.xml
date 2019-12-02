@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0245">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">245	S. 2281 (Forty-ninth Congress, First Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0245</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-ninth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>245	S. 2281 (Forty-ninth Congress, First Session &#8212; Cleveland)</head>
+
+
+<p>Granting to railroads the right of way through the Indian reservation in Northern Montana.</p>
+
+<p>Vetoed July 1886.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Ex. Doc. No. 204 (17 <title>Cong. Rec.</title> 6613; <hi rend="italics">see also</hi> S. Misc. Doc. No. 53, 49th Cong., 2nd sess., pp. 531-533).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 72.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0245.01.pdf">Message from the President of the United States, returning Senate Bill 2281, granting to railroads right of way through the Indian reservation in northern Montana, with his objections thereto</ref>.  (1876).  Senate.  49th Congress, 1st session.  Senate Executive Document No. 204 (<title>Serial Set</title> 2341).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 49TH CONGRESS,	SENATE.	Ex. Doc.
+let Session.	No. 204. </fw>
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING</head>
+
+<head>Senate bill 2281, granting to railroads right of way through the Indian
+reservation in Northern Montana, with his objections thereto.</head>
+<milestone unit="rule" />
+<note>Jury 7, 1886.&#8212;Read and referred to the Committee on Indian Affairs and ordered to be printed.</note>
+<milestone unit="rule" />
+ <div1>
+<opener><salute><hi rend="italic">To the Senate of the United States:</hi></salute></opener>
+<p>I return without approval Senate bill number twenty-two hundred and eighty-one, entitled "An act granting to railroads the right of way through the Indian reservation in Northern Montana."</p>
+<p>The reservation referred to stretches across the extreme northern part of Montana Territory, with British America for its northern boundary. It contains an area of over thirty thousand square miles. It is dedicated to Indian occupancy by treaty of October 17, 1855, and act of Congress of April 15, 1874. No railroads are within immediate approach to its boundaries, and only one, as shown on recent maps, is under construction in the neighborhood leading in its direction. The surrounding country is sparsely settled, and I have been unable to ascertain that the necessities of commerce or any public exigencies demand this legislation which would affect so seriously the rights and interests of the Indians occupying the reservation.</p>
+<p>The bill is in the nature of a general right of way for railroads through this Indian reservation. The Indian occupants have not given their consent to it, neither have they been consulted regarding it, nor is there any provision in it for securing their consent or agreement to the location or construction of railroads upon their lands. No routes are described, and no general directions on which the line of any rail-road will be constructed are given.</p>
+<p>No particular organized railway company engaged in constructing a railroad towards the reservation and ready or desirous to build its road through the Indian lands to meet the needs and requirements of trade and commerce is named. The bill gives the right to any railroad in the country, duly organized under the laws of any Territory, of any State, or of the United States, except those of the District of Columbia, to <pb n="2" />
+<fw> 2	RIGHT OF WAY THROUGH INDIAN RESERVATION. </fw>
+enter this Indian country, prospect for routes of travel, survey them, and construct routes of travel wherever it may please, with no check save possible disapproval by the Secretary of the Interior of its maps of location, and no limitation upon its acts except such rules and regulations as he may prescribe.</p>
+<p>This power vested in the Secretary of the Interior might itself be improvidently exercised and subject to abuse.</p>
+<p>No limit of time is fixed within which the construction of railroads should begin or be completed. Without such limitations, speculating corporations would be enabled to seek out and secure the right of way over the natural and most feasible routes, with no present intention of constructing railroads along such lines, but with the view of holding their advantageous easements for disposal at some future time to some other corporation for a valuable consideration. In this way the construction of needed railroad facilities in that country could be hereafter greatly obstructed and retarded.</p>
+<p>If the United States must exercise its right of eminent domain over the Indian Territories for the general welfare of the whole country, it should be done cautiously, with due regard for the interests of the Indians, and to no greater extent than the exigencies of the public service require.</p>
+<p>Bills tending somewhat in the direction of this general character of legislation, affecting the rights of the Indians reserved to them by treaty stipulations, have been presented to me during the present session of Congress. They have received my reluctant approval, though I am by no means certain that a mistake has not been made in passing such laws without providing for the consent to such grants by the Indian occupants, and otherwise more closely guarding their rights and interests; and I hoped that each of those bills as it received my approval would be the last of the kind presented. They, however, designated particular railroad companies, laid down general routes over which the respective roads should be constructed through the Indian lands, and specified their direction and termini, so that I was enabled to reasonably satisfy myself that the exigencies of the public service and the interests of commerce probably demanded the construction of the roads, and that by their construction and operation the Indians would not be too seriously affected.</p>
+<p>The bill now before me is much more general in its terms than those which have preceded it. It is a new and wide departure from the general tenor of legislation affecting Indian reservations. It ignores the right of the Indians to be consulted as to the disposition of their lands, opens wide the door to any railroad corporation to do what, under the treaty covering the greater portion of the reservation, is reserved to the United States alone; it gives the right to enter upon Indian lands to a class of corporations carrying with them many individuals not known for any scrupulous regard for the interest or welfare of the<pb n="3" />
+<fw> RIGHT OF- WAY THROUGH INDIAN RESERVATION.	3 </fw>
+Indians; it invites a general invasion of the Indian country, and brings into contact and intercourse with the Indians a class of whites and others who are independent of the orders, regulations, and control of the resident agents.</p>
+<p>Corporations operating railroads through Indian lands are strongly tempted to infringe at will upon the reserved rights and the property of Indians, and thus are apt to become so arbitrary in their dealings and domineering in their conduct toward them that the Indians become disquieted, often threatening outbreaks, and periling the lives of frontier settlers and others.</p>
+<p>I am impressed with the belief that the bill under consideration does not sufficiently guard against an invasion of the rights and a disturbance of the peace and quiet of the Indians on the reservation mentioned; nor am I satisfied that the legislation proposed is demanded by any exigency of the public welfare.</p>
+<closer><signed><hi rend="right">GROVER CLEVELAND.</hi></signed><dateline>EXECUTIVE MANSION,
+July 7, 1886.</dateline></closer>
+
+<note>(Forty-ninth Congress of the United States of America, at the first session, begun and held at the city of Washington on Monday, the seventh day of December, one thousand eight hundred and eighty-five.] </note>
+<milestone unit="rule" />
+ </div1>
+<div1>
+<head>An act granting to railroads the right of way through the Indian reservation in Northern Montana.</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the right of way through the Indian reservation in North-ern Montana, set apart for the use of the Gros Ventre, Piegan, Blood, Blackfeet t, and other Indians, by act of Congress approved April fifteenth, amide Domini eighteen hundred and seventy-four, is hereby granted to any railroad company duly organized under the laws of any State or Territory, except the District of Columbia, or by the Congress of the United States, which shall have filed with the Secretary of the Interior a copy of its articles of incorporation, and due proofs of its organization under the same, to the extent of one hundred feet in width ; also the right to take from the public lands adjacent to the line of said road material, stone, earth, and timber necessary for the construction of said railroad; also ground adjacent to such right of way for station buildings, depots, machine shops, side-tracks, turn-outs, and water-stations, not to exceed in amount three hundred feet in width and three thousand feet in length for each station, to the extent of one station for each ten miles of its road.</p>
+<p>Sac. 2. That any railroad company whose right of way, or whose track or road-bed upon such right of way, passes through any canyon, pass, or defile, shall not prevent any other railroad company from the use and occupancy of the said canyon, pass, or defile for the purposes of its road, in common with the road first located, or the crossing of other railroads at grade ; and the location of such right of way through any canyon, pass, or defile shall not cause the disuse of any wagon-road or other public highway now located therein, nor prevent the location through the same of any such wagon-road or highway when such road or highway may be necessary for the public accommodation; and where any change in the location of such wagon-road is necessary to permit the passage of such railroad through any canyon, pass, or defile, said railroad company shall, before entering upon the ground occupied by such wagon-road, cause the same to be reconstructed, at its own expense, in the most favorable location, and in as perfect a manner as the original road: Provided, That such expenses shall be equitably divided between any number of railroad companies occupying and using the same canyon, pass, or defile.</p>
+<p>SEC. 3. That it shall be the duty of the Secretary of the Interior to fix the amount of compensation to be paid the Indians for such right of way, and provide the time and manner for the payment thereof; but no right of any kind shall vest in any rail<pb n="4" />
+<fw> 4	RIGHT OF WAY THROUGH INDIAN RESERVATION. </fw>
+road company in or to any part of the right of way herein provided for until plats thereof, made upon actual surveys for the definite location of such railroad, and in.. eluding the points for station buildings, depots, machine-shops, side-tracks, turnouts, and waterstations, shall be filed with and approved by the Secretary of the Interior, and until the compensation aforesaid has been fixed and paid; and the surveys, construction, and operation of any such railroad shall be conducted with due regard for the rights of the Indians, and in accordance with such rules and regulations as the Secretary of the Interior may make to carry out this provision.</p>
+<closer><signed>JOHN G. CARLISLE
+Speaker of the House of Representatives. </signed>
+<signed>JOHN SHERMAN,
+President of the Senate pro tempore.</signed>
+I certify that this act originated in the Senate.<signed>
+ANSON G. McCOOK, Secretary,</signed></closer>
+</div1>
+ </body>
+</floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0245.02.pdf"><title>Congressional Record</title> 17, 6613</ref> (1886).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1886.	CONGRESSIONAL RECORD-SENATE.	6613 </fw>
+<div1>
+ <p>I am perfectly willing to rest the case on the language of the report of the officers, and I hope the Senate will not agree to the amendment. Mr. McMILLAN. We will rest upon that.
+The amendment was rejected.</p>
+</div1>
+ <div1>
+ <head>PRESIDENTIAL APPROVAL.</head>
+<p>A message from the President of the United States, by Mr. O. L. PRUDEN, one of his secretaries, announced that the President had this day approved and signed an act (S. 2732). to authorize the printing of the eulogies delivered in Congress upon the late John F. Miller.</p>
+ </div1>
+ <div1>
+<head>RAILROADS IN MONTANA—VETO MESSAGE.</head>
+
+<opener>
+The PRESIDING OFFICER laid before the Senate the following message from the President of the United States; which was read:
+<salute><hi rend="italic">To the Senate of the United States:</hi></salute>
+</opener>
+<p>I return without approval Senate bill No. 2281, entitled "An act granting to railroads the right of way through the Indian reservation in Northern Montana."</p>
+<p>The reservation referred to stretches across the extreme northern part of Montana Territory, with British America for its northern boundary. It contains an area of over 30,000 square miles. It is dedicated to Indian occupancy by treaty of October 17,1855, and act of Congress of April 15, 1874. No railroads are within immediate approach to its boundaries, and only one, as shown on recent maps, is under construction in the neighborhood leading in its direction. The surrounding country is sparsely settled, and I have been unable to ascertain that the necessities of commerce or any public exigencies demand this legislation, which would affect so seriously the rights and interests of the Indians occupying the reservation.
+The bill is in the nature of a general right of way for railroads through this Indian reservation. The Indian occupants have not given their consent to it, neither have they been consulted regarding it, nor is there any provision in it for securing their consent or agreement to the location or construction of rail-roads upon their lands. No routes are described, and no general directions on which the line of any railroad will be constructed are given.</p>
+<p>No particular organized railway company engaged in constructing a railroad toward the reservation and ready or desirous to build its road through the Indian lands to meet the needs and requirements of trade and commerce is named. The bill gives the right to any railroad in the country, duly organized under the laws of any Territory, of any State, or of the United States, except those of the District of Columbia, to enter this Indian country, prospect for routes of travel, survey them, and construct routes of travel wherever it may please, with no check save possible disapproval by the Secretary of the Interior of its maps of location, and no limitation upon its acts except such rules and regulations as he may prescribe.</p>
+<p>This power vested in the Secretary of the Interior might itself be improvidently exercised and subject to abuse.</p>
+<p>No limit of time is fixed within which the construction of railroads should begin or be completed. Without such limitations, speculating corporations would be enabled to seek out and secure the right of way over the natural and most feasible routes, with no present intention of constructing railroads along such lines, but with the view of holding their advantageous easements for disposal at some future time to some other corporation for a valuable censideration. In this way the construction of needed railroad facilities in that country could be hereafter greatly obstructed and retarded.</p>
+<p>If the United States must exercise its right of eminent domain over the Indian territories for the general welfare of the whole country, it should be done cautiously, with due regard for the interests of the Indians, and to no greater extent than the exigencies of the public service require.</p>
+<p>Bills tending somewhat in the direction of this general character of legislation, affecting the rights of the Indians reserved to them by treaty stipulations, have been presented to me during the present session of Congress. They have received my reluctant approval, though I am by no means certain that a mistake has not been made in passing such laws without providing for the consent to such grants by the Indian occupants and otherwise more closely guarding their rights and interests ; and I hoped that each of those bills as it received my approval would be the last of the kind presented. They, however, designated particular railroad companies, laid down general routes over which the respective roads should be constructed through the Indian lands, and specified their direction and termini, so that I was enabled to reasonably satisfy myself that the exigencies of the public service and the interests of commerce probably demanded the construction of the roads, and that by their construction and operation the Indians would not be too seriously affected.</p>
+<p>The bill now before me is much more general in its terms than those which have preceded it. It is a new and wide departure from the general tenor of legislation affecting Indian reservations. It ignores the right of the Indians to be consulted as to the disposition of their lands, opens wide the door to any railroad corporation to do what, under the treaty covering the greater portion of the reservation, is reserved to the United States alone ; it gives the right to enter upon Indian lands to a class of. corporations carrying with them many individuals not known for any scrupulous regard for the interest or welfare of the Indians ; it invites a general invasion of the Indian country, and brings into con-tact and intercourse with the Indians a class of whites and others who are independent of the orders, regulations, and control of the resident agents.</p>
+<p>Corporations operating railroads through Indian lands are strongly tempted to infringe at will upon the reserved rights and the property of Indians, and thus are apt to become so arbitrary in their dealings and domineering in their conduct toward them that the Indians become disquieted, often threatening outbreaks, and periling the lives of frontier settlers and others.</p>
+<p>I am impressed with the belief that the bill under consideration does not sufficiently guard against an invasion of the rights and a disturbance of the peace and quiet of the Indians on the reservation mentioned; nor am I satisfied that the legislation proposed is demanded by any exigency of the public welfare.</p>
+<closer><signed>GROVER CLEVELAND,</signed>
+<dateline>EXECUTIVE MANSION, July 7,1886.</dateline></closer>
+ </div1>
+ <div1>
+<p>Mr. DAWES. With the consent of the Senator from Minnesota I move that the message be referred to the Committee on Indian Affairs, and I desire to have go along with that remarkable message the section of the treaty which has affected the President so sensibly in the draught of this message. I desire to have it understood that the committee who reported the bill thought they were regarding the rights of the Indians. The eighth article of the treaty to which reference is made in the message is in these words:</p>
+<quote>ARTICLE 8. For the purpose of establishing traveling thoroughfares through their country, and the better to enable the President to execute the provisions of this treaty, the aforesaid nations and tribes do hereby consent, and agree, that the United States may, within the countries respectively occupied and claimedby them, construct roads of every description ; establish lines of telegraph and military posts; use materials of every description found in the Indian country; build houses for agencies, missions, schools, farms, shops, mills, stations, and for any other purpose for which they may be required, and permanently occupy as much land as may be necessary for the various purposes above enumerated, including the use of wood for fuel and land for grazing, and that the navigation of all lakes and streams shall be forever free to citizens of the United States. (Treaty with the Blackfeet Indians, October 17,1855,11 Statutes at Large, pages G58, G59.)</quote>
+
+<p>The PRESIDING OFFICER. The message will be printed and referred to the Committee on Indian Affairs.</p>
+ </div1>
+ <div1>
+<head>REPORTS OF COMMITTEES.</head>
+<p>Mr. EDMUNDS. I ask unanimous consent to be allowed to make a report at this time.</p>
+<p>The PRESIDING OFFICER. The report will be received, if there be no objection.</p>
+<p>Mr. EDMUNDS. I report by direction of the Committee on Foreign Relations the bill (S. 2208) to amend and enlarge the fifth section of an act approved June 18, 1878, entitled "An act to provide for the distribution of the awards made under the convention between the United States of America and the Republic of Mexico concluded on the 4th day of July, 1868," with an amendment and a written report prepared by the Senator from Alabama [Mr. MORGAN], a member of that commit- - tee, who had the matter in charge, but who on account of the illness of a member of his family is detained from the Senate; and I make the report on his behalf.</p>
+<p>I have not had an opportunity, nor has the committee, to examine the detail of the statements which are made in his report, and the circumstances occupying all his time by the illness of his family may possibly have led him, as he had to write the report absent from Washington, into some minor errors. I do not know that that is so, but I think it is due to him to say that the report was written away from Washington, and if any little error should appear it can be accounted for in that way. It is the report of the Senator from Alabama.	</p>
+<p>Mr. BROWN. I desire to submit the minority report in that case, and I ask that it be printed with the majority report.</p>
+<p>The PRESIDING OFFICER. The bill will be placed on the Calendar and the report printed.</p>
+<p>Mr. EDMUNDS. And the views of the minority will be printed with the report of the majority.</p>
+<p>The PRESIDING OFFICER. That order will be taken.</p>
+<p>Mr. DOLPH, from the Committee on Claims, to whom was referred the petition of Charles E. Creecy, assignee of A. Elsberg and others, for compensation for property taken and used by the United States authorities for public purposes, submitted an adverse report thereon, which was agreed to; and the committee were discharged from the further consideration of the petition.</p>
+<p>Mr. BLAIR, from the Committee on Pensions, to whom was referred the bill (S. 2803) granting a pension to Michael Fitzpatrick, reported it without amendment, and submitted a report thereon.</p>
+<p>He also, from the same committee, to whom the subject was referred, reported a bill (S. 2818) to increase the rate of pension for deafness and loss of sight; which was read twice by its title.</p>
+<p>He also, from the same committee, to whom was referred the bill (S. 2243) to increase the rate of pension for deafness, moved its indefinite postponement; which was agreed to.</p>
+<p>Mr. HARRISON. May I ask to have that bill read?</p>
+<p>Mr. BLAIR. I will state to the Senator that several bills have been referred to the committee increasing the rate of pension for deafness and for defective sight. It has been thought best, and in fact the only thing we could do, to report an original bill which covers all.</p>
+<p>Mr. HARRISON. Has the original bill been read?</p>
+<p>Mr. BLAIR. The original bill has been read and the other indefinitely postponed.</p>
+<p>Mr. HARRISON. That I did not understand.</p>
+<p>Mr. SAWYER, from the Committee on Pensions, to whom were referred the following bills, reported them severally without amendment and submitted reports thereon:</p>
+<p>A bill (H. R. 7728) granting a pension to Mrs. Elizabeth Collins; and A bill (H. R. 1617) for the relief of George H. Laurence.</p>
+<p>Mr. SPOONER, from the Committee on the District of Columbia, to whom were referred a resolution of March 24, 1886, directing the committee to inquire into the expediency of reporting a bill providing that the price of gas furnished by the Washington Gas Light Company shall not exceed $1 per thousand cubic feet, and the bill (S. 1567) regulating gas works in the District of Columbia, submitted a report, accompanied by a bill (S. 2819) relating to the manufacture and sale of gas in the city of Washington, in the District of Columbia, and amendatory of an act entitled "An act regulating gas-works," approved June 23, 1874; which was read twice by its title.</p>
+ </div1>
+ <div1>
+  <head>BILL INTRODUCED.</head>
+<p>Mr. McPHERSON introduced a joint resolution (S. R. 75) authorizing the Secretary of War to grant a permit to Caleb W. Spofford and his associates to erect a hotel upon the lands of the United States on the main beach at or near Horseshoe Cove, New Jersey; which was read twice by its title.</p>
+<p>Mr. EDMUNDS. There ought to be a provision in the joint resolu- <gap/></p>
+ </div1>
+ </body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0245.03.pdf">Veto messages of the Presidents of the United States, with the action of Congress thereon</ref>.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53, pp. 531-533 (<title>Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+
+<fw> 49TH CONGRESS,  2d Session.
+SENATE.
+Mrs. Doc.
+No. 53. </fw>
+<head>VETO MESSAGES
+OF THE
+PRESIDENTS OF THE UNITED STATES,
+WITH
+THE ACTION OF CONGRESS THEREON.</head>
+<milestone unit="rule" />
+<head>COMPILED BY ORDER OF THE SENATE,
+BY BEN: PERLEY POORE,
+CLERIC OF PRINTING RECORDS.
+
+WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+S. Mis. 2-7	1886.</head>
+<fw> VETO MESSAGES.	531 </fw>
+ <div1>
+<p>He was discharged June 15, 1864, upon a surgeon's certificate of disability, declaring the cause of discharge to be epilepsy, produced by blows of violence over the hypochondrial region while in the service, producing a deformity of sternum.</p>
+<p>The claimant filed an application for pension in June, 1879, and in that and subsequent affidavits he alleged that while in barracks at Dun-kirk, N. Y., and about the 9th day of January, 1864, and in the line of duty, he was attacked by one Patrick Burnes, who struck him upon the head and stamped upon and kicked him, breaking his collar-bone and a number of ribs, causing internal injury and fits, the latter recurring every two weeks.</p>
+<p>It is hardly worth while considering the character of these alleged injuries or their connection with the fits with which the claimant is afflicted.</p>
+<p>I am entirely unable to see how the injuries are related to the claimant's Army service.
+The Government ought not to be called upon to insure against the quarrelsome propensities of its individual soldiers, nor to compensate one who is worsted in a fight, or even in an unprovoked attack, when the cause of injury is in no way connected with or related to any requirement or incident of military service.</p>
+<closer><signed>GROVER CLEVELAND.</signed>
+<note>The veto message was read, and, after a prolonged debate, was referred, with the bill, to the Committee on Invalid Pensions. </note></closer>
+ </div1>
+ <div1>
+<head>GROVER CLEVELAND.-XCVIII. </head>
+<opener>
+<dateline>July 7, 1886. </dateline>
+<salute>To the Senate of the United States:</salute>
+</opener>
+<p>I return without approval Senate bill No. 2281 entitled "An act granting to railroads the right of way through the Indian reservation in Northern Montana."</p>
+<p>The reservation referred to stretches across the extreme northern part of Montana Territory, with British America for its northern boundary. It contains an area of over 30,000 square miles. It is dedicated to Indian occupancy by treaty of October 17, 1855, and act of Congress of April 15, 1874. No railroads are within immediate approach to its boundaries, and only one, as shown on recent maps, is under construction in the neighborhood leading in its direction. The surrounding country is sparsely settled, and I have been unable to ascertain that the necessities of commerce or any public exigencies demand this legislation which would affect so seriously the rights and interests of the Indians occupying the reservation.</p>
+<fw> 532	VETO MESSAGES. </fw>
+<p>The bill is in the nature of a general right of way for railroads through this Indian reservation. The Indian occupants have not given their consent to it, neither have they, been consulted regarding it, nor is there any provision in it for securing their consent or agreement to the location or construction of railroads upon their lands. No routes are de-scribed, and no general directions on which the line of any railroad will be constructed are given.</p>
+<p>No particular organized railway company engaged in constructing a railroad toward the reservation and ready oo desirous to build its road through the Indian lands to meet the needs and requirements of trade and commerce is named. The bill gives the right to any railroad in the country, duly organized under the laws of any Territory, of any State, or of the United States, except those of the District of Columbia, to enter this Indian country, prospect for routes of travel, survey them and construct routes of travel wherever it may please, with no check save possible disapproval by the Secretary of the Interior of its maps of location, and no limitation upon its acts except such rules and regutions as he may prescribe.</p>
+<p>This power vested in the Secretary of the Interior might itself be improvidently exercised and subject to abuse.</p>
+<p>No limit of time is fixed within which the construction of railroads should begin or be completed. Without such limitations, speculating corporations would be enabled to seek out and secure the right of way over the natural and most feasible routes with no present intention of constructing railroads along such lines, but with the view of holding their advantageous easements for disposal at some future time to some other corporation for a valuable consideration. In this way the construction of needed railroad facilities in that country could be hereafter greatly obstructed and retarded.</p>
+<p>If the United States must exercise its right of eminent domain over the Indian territories for the general welfare of the whole country, it should be done cautiously, with due regard for the interests of the Indians, and to no greater extent than the exigencies of the public service require.</p>
+<p>Bills tending somewhat in the direction of this general character of legislation, affecting the rights of the Indians reserved to them by treaty stipulations, have been presented to me during the present session of Congress. They have received my reluctant approval, though I am by no means certain that a mistake has not been made in passing such laws without providing for the consent to such grants by the Indian occupant, and otherwise more closely guarding their rights and interests; and I hoped that each of those bills as it received my approval would be the last of the kind presented. They, however, designated particular railroad companies, laid down general routes over which the respective roads should be constructed through the Indian lands, and specified their direction and termini, so that I was enabled
+<fw> VETO MESSAGES.	533 </fw>
+to reasonably satisfy myself that the exigencies of the public service and the interests of commerce probably demanded the construction of the roads, and that by their construction and operation the Indians would not be too seriously affected.</p>
+<p>The bill now before me is much more general in its terms than those which have preceded it. It is a new and wide departure from the general tenor of legislation affecting Indian reservations. It ignores the right of the Indians to be consulted as to the disposition of their lands, opens wide the door to any railroad corporation to do what, under the treaty covering the greater portion of the reservation, is reserved to the United States alone; it gives the right to enter upon Indian lands to a class of corporations carrying with them many individuals not known for any scrupulous regard for the interest or welfare of the Indians ; it invites a general invasion of the Indian country, and brings into con-tact and intercourse with the Indians a class of whites and others who are independent of the orders, regulations, and control of the resident agents.</p>
+<p>Corporations operating railroads through Indian lands are strongly tempted to infringe at will upon the reserved rights and the property of Indians, and thus are apt to become so arbitrary in their dealings and domineering in their conduct toward them that the Indians become disquieted, often threatening outbreaks, and periling the lives of frontier settlers and others.</p>
+<p>I am impressed with the belief that the bill under consideration does not sufficiently guard against an invasion of the rights and a disturbance of the peace and quiet of the Indians on the reservation mentioned ; nor am I satisfied that the legislation proposed is demanded by any exigency of the public welfare.</p>
+<closer><signed>GROVER CLEVELAND.</signed></closer>
+
+<note>The veto message was read and referred to the Senate Committee on Indian Affairs, accompanied by article 8 of the treaty of October 17, 1855, and the message was re-ported back from the Committee on Indian Affairs on the 17th of July, and placed on the Calendar.</note>
+ </div1>
+ <div1>
+<head>GROVER CLEVELAND.&#8212;XCIX.</head>
+<opener>
+<dateline>July 9, 1886.</dateline> 
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith whithout approval House bill No. 524, entitled "An act granting a pension to Daniel H. Ross." An application was filed in the Pension Bureau by the beneficiary named in this bill, and considerable testimony was filed in support of the same. I do not understand that the claim has been finally rejected. But, however that may</p>
+
+ </div1>
+ </body>
+</floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

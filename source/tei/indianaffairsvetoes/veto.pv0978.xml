@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0978">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">978	S. 4862 (Sixty-second Congress, Second Session &#8212; Taft)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0978</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Taft</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-second Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>978	S. 4862 (Sixty-second Congress, Second Session &#8212; Taft)</head>
+
+<p>For the relief of certain persons who supplied labor and materials for the construction of the Corbett Tunnel of the Shoshone irrigation project.</p>
+
+<p>Vetoed July 18, 1912.  The veto message was laid before the Senate and printed as S. Doc. No. 878 (48 <title>Cong. Rec.</title> 9230).  The Senate overrode the veto on July 31, 1912 by a vote of 42 yeas to 17 nays (48 <title>Cong. Rec.</title> 5938).  The House sustained the veto on August 16, 1512 by a vote of 138 yeas to 77 nays (148 <title>Cong. Rec.</title> 11127).</p>
+
+<p>Veto sustained.</p>
+
+<p>(A similar resolution, S.J. Res. 134, became Public Resolution 62-56; 37 <title>Stat.</title> 643).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 209.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0978.01.pdf">Veto message relating to the Corbett Tunnel of the Shoshone irrigation project.  Message from the President of the United States, returning without approval Senate Bill 4862 entitled “An Act for the relief of certain persons having supplied labor and materials for the prosecution of the work of construction the Corbett Tunnel of the Shoshone Irrigation Project,” together with the report of the Secretary of the Interior in relation thereto</ref>.  (1912).   Senate.  62nd Congress, 2nd session.  Senate Document No. 878 (<title>Serial Set</title> 6182).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 62D CONGRESS, 	2d Session.	SENATE. 
+DOCUMENT No. 878. </fw>
+<head>VETO MESSAGE RELATING TO THE CORBETT TUNNEL
+OF THE SHOSHONE IRRIGATION PROJECT.</head>
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+
+WITHOUT APPROVAL SENATE BILL 4862, ENTITLED "AN ACT FOR THE RELIEF OF CERTAIN PERSONS HAVING SUPPLIED LABOR AND MATERIALS FOR THE PROSECUTION OF THE WORK OF CONSTRUCTING THE CORBETT TUNNEL OF THE SHOSHONE IRRIGATION PROJECT," TOGETHER WITH THE REPORT OF THE SECRETARY OF THE INTERIOR IN RELATION THERETO.</head>
+<milestone unit="rule />
+<head>JULY 18, 1912.&#8212;Read; ordered to lie on the table and to be printed.
+</head>
+<milestone unit="rule />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>For the reasons stated in the letter of July 12 of the Secretary of the Interior, which accompanies this message, I return without approval Senate bill 4862, entitled "An act for the relief of certain persons having supplied labor and materials for the prosecution of the work of constructing the Corbett Tunnel of the Shoshone irrigation project."</p>
+<p>I do this because I think this legislation is of retroactive character and imposes on certain of the reclamation settlers an additional burden over and above the contract price of the work done, increasing that price by a double payment of part of what was due under the contract from the reclamation fund to the principal contractors. At the time when the work was begun and continued there was no law which relieved the subcontractor or the material man from the necessity of looking after the collection of what the contractor owed him or which imposed on the Government or the reclamation authorities the duty of seeing to it that the money paid under the principal contract was used by the principal contractor to pay his subcontractors or material men. To require that this additional amount should now be included in the assessment upon the lands is by law to increase a contract burden by a change of the character of the liability after it has been assumed and fixed. This is retroactive and is legislation in its nature unjust to the reclamation settlers.</p>
+<closer><signed>WM. H. TAFT.</signed>
+<dateline>THE WHITE HOUSE, July 18 1912.</dateline></closer>
+<pb n="2" />
+<fw> 2	VETO MESSAGE RELATING TO THE CORBETT TUNNEL. </fw>
+<opener>
+<dateline>DEPARTMENT OF THE INTERIOR,
+Washington, July 12, 1912.</dateline>
+<salute>MY DEAR MR. PRESIDENT:</salute> 
+</opener><p>In reply to that portion of Mr. Hilles's letter of July 8, requesting information whether there is any objection to your approving S. 4862, "An act for the relief of certain persons having supplied labor and materials for the prosecution of the work of constructing the Corbett Tunnel of the Shoshone irrigation project":</p>
+<p>The contractor for the construction of the Corbett Tunnel failed to comply with his contract, whereupon the work was completed by the United States through the Reclamation Service. Suits were begun by the United States on the contract and bond in the district of Montana, and to enforce a lien on the construction equipment in the district of Wyoming. In the latter suit a cross bill was filed by the concern that sold a portion of the equipment to the contractor. A tentative agreement for a settlement has been reached by the representatives of the bondsmen and of this department. The Department of Justice, however, holds that the settlement should be conditional upon the settlement of the Wyoming cross suit at the same time, and my latest advice is that none of the suits have yet been dismissed. The terms of settlement tentatively agreed upon included the payment of $42,000 by the bondsmen to the Government. This is only a fraction of the Government's claim, but is the most that it seems possible to recover.</p>
+<p>The pending bill as originally introduced would have directed the Secretary of the Interior to ascertain and pay the laborers and material men's claims outright. As it now reads it gives the laborers and material men priority in recourse to the bondsmen over the claims of the Government. This reverses the existing rule of priority and returns to that prevailing before the act of February 24, 1905 (ch. 778, 33 <title>Stat.</title>, 811).</p>
+<p>The proponents of the bill cite the act of March 4, 1911 (36 <title>Stat.</title>, 1170), as a precedent. That act reversed priorities on the Belle Fourche as Is now proposed for the Shoshone project. On the Belle Fourche project the contract was advertised before the rule of priority was changed by the act of 1905, though actually let thereafter. The pending bill would reverse the rule of priority although the contract was advertised several months after the rule of priority was changed by statute.</p>
+<p>If the bill becomes a law, it will bring to naught the work done in instituting the suit and in protracted negotiations for settlement. The precedent will probably be followed in future cases with the result that the Government's security will be of little value in any case. I am of the opinion that reasonable security for the claims of laborers and material men should be given by the Government's withholding payment on the contract during a time fixed for the filing of notice of such claims, payment thereafter to be made to the contractor or claimant as may be ordered by the proper court. This would require general legislation.</p>
+<p>The bill properly provides that the United States shall not be involved by It in any expense. The laborers and claimants who seek relief through the pending bill have suffered undoubted hardship. The effect of the proposed statute would be to shift that hardship to<pb n="3" />
+<fw> VETO MESSAGE RELATING TO THE CORBETT TUNNEL.	3 </fw>
+such water users on the Shoshone reclamation project, or the part of it served by the Corbett Tunnel, as hereafter settle upon the public lands or initiate irrigation on the private lands under the project. The Director of the Reclamation Service reports that there are approximately 150,000 acres of irrigable land in the whole project, of which but a small proportion is private or State land; that there are approximately 80,000 irrigable acres which will be served by the Corbett Tunnel, but that the expense of the tunnel has been charged upon the whole project and not merely upon the 80,000 acres; that about 22,000 acres are covered by existing water-right contracts with entrymen and private owners; and that about 12,000 acres are subject to existing public notices fixing the price of water rights to settlers who shall hereafter make entry, or private owners who shall hereafter contract for water from the project.</p>
+<p>As to the 22,000 acres: The existing contracts, so long as they are fulfilled by the water users, are binding upon the United States. This fact precludes the shifting of any of the burden from the laborers and material men to water users on said 22,000 acres. As to the 12,000 acres: The department could cancel existing public notices and charge upon this 12,000 acres, together with other lands for which the price of water rights has not yet been fixed by any public notice, the expense of the proposed relief to the laborers and material men. To ascertain the area upon which this burden ($42,000) could be charged it is therefore necessary to subtract either 22,000 acres or 34,000 acres from the total irrigable acreage (150,000) of the project, or from the irrigable acreage (80,000) which will be served by the tunnel. The result would be a maximum charge of about 91 cents per acre and a minimum charge of about 33 cents. Since the director reports the average holding to be 60 acres, this would be a maximum burden of $54.60 and a minimum burden of $19.80 on each farmer (average).</p>
+<p>The chief engineer of the Reclamation Service advises me that the water-right charge already imposed and to be imposed upon the lands in the project is, in view of the nature and value of the lands, now at the maximum of safety, and that the addition which the pending bill would render necessary would be a heavy burden upon all future settlers and water-right contractors and would seriously jeopardize the success of the project. Under these circumstances, I am reluctantly compelled to advise that the bill should not receive your approval. If the lands of the project were able to bear the additional charge I would gladly advise otherwise.</p>
+<closer>Very respectfully,	<signed>WALTER L. FISHER, Secretary.</signed></closer>
+<p>
+The PRESIDENT,</p>
+<p>The White House.</p>
+<fw> S D-62-2-vol 43	47 </fw>
+<fw> 4	VETO MESSAGE RELATING TO THE CORBETT TUNNEL. </fw>
+<note>[S 4862. Sixty-second Congress of the United States of America; at the second session,. begun and held at the city of Washington on Monday, the fourth day of December, one thousand nine hundred and eleven.)</note>
+
+<head>An act for the relief of certain persons having supplied labor and materials for the prosecution of the work of
+constructing the Corbett Tunnel of the Shoshone irrigation project.</head>
+
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in, Congress assembled,</hi> That all persons having supplied labor or materials for the prosecution of the work of constructing the Corbett Tunnel as a part of the Shoshone irrigation project in the State of Wyoming, under any contract or contracts let for that purpose by the Government of the United States, and their assigns and legal representatives, are hereby given the full rights and remedies awarded to persons supplying labor and materials in the prosecution of public works, as set forth in the act of August thirteenth, eighteen hundred and ninety-four, entitled "An act for the protection of persons furnishing materials and labor for the construction of public works," to the same force, extent, and effect as if the act had not been amended, modified, or repealed, with full right of action in the name of the United States for his or their use and benefit against any contractor or contractors and their sureties upon any bond or bonds furnished to the United States under any such contract: Provided, That no action prosecuted under this act shall involve the United States in any expense.</p>
+<dateline><signed>CHAMP CLARK,</signed>
+<hi rend="italic">Speaker of the House of Representatives. </hi>
+<signed>J. H. GALLINGER, </signed><hi rend="italic">President of the Senate pro tempore.</hi></dateline>
+<note>
+<p>I certify that this act originated in the Senate. </p>
+CHARLES G. BENNETT, Secretary.
+</note>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0978.02.pdf"><title>Congressional Record</title> 48, 9230</ref> (1912).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9230	CONGRESSIONAL' RECORD. SENATE.	JULY . 18, </fw>
+e<p>nce have agreed to recommend and do recommend to their respective Houses as follows:</p>
+<p>That the Senate recede from its disagreement to the amendment of the House, and agree to the same with an amendment as follows : In lieu of the language proposed insert the following:</p>
+<p>" That section 1 of an act entitled `An act to require apparatus and operators for radio communication on certain ocean steamers,' approved June 24, 1910, be amended so that it will read as follows:</p>
+<p>" 'SECTION 1. That from and after October 1, 1912, it shall be unlawful for any steamer of the United States or of any foreign country navigating the ocean or the Great Lakes and licensed to carry, or carrying, 50 or more persons, including passengers or crew or both. to leave or attempt to leave any port of the 'United States unless such steamer shall be equipped with an efficient apparatus for radio communication, in good working order, capable of transmitting• and receiving messages over a distance of at least 100 miles, day or night.</p>
+<p>" `An auxiliary power supply, independent of the vessel's main electric power plant, must be provided which will enable the sending set for at least four hours to send messages over a distance of at least 100 miles, day or night, and efficient communication between the operator in the radio room and the bridge shall be maintained at all times.</p>
+<p>"'The radio equipment must be in charge of two or more per-sons skilled in the use of such apparatus, one or the other of whom shall be on duty at all times while the vessel is being navigated. Such equipment, operators, the regulation of their watches, and the transmission and receipt of messages, except as may be regulated by law or international agreement, shall be under the control of the master, in the case of a . vessel of the United States; and every willful failure on the part of the master to enforce at sea the provisions of this paragraph as to equipment, operators, and watches shall subject him to a penalty of $100.</p>
+<p>"'That the provisions of this section shall not apply to steamers plying between ports or places less than 200 miles apart.'</p>
+<p>" ` SEc. 2. That this act, so far as it relates to the Great Lakes, shall take effect on and after April 1, 1913, and so far as it relates to ocean cargo steamers shall take effect on and after July 1, 1913: Provided!, That on cargo steamers, in lieu of the second operator provided for in this act, there may be substituted a member of the crew or other person who shall be duly certified and entered iii the ship's log as competent to receive and under-stand distress calls or other usual calls indicating danger, and to aid in maintaining a constant wireless watch so far as required for the safety of life.' "</p>
+<p>And the House agree to the same.</p>
+<closer><signed>WILLIAM ALDEN SMITH, </signed>
+<signed>THEO. E. BURTON,</signed>
+<signed>FRANCIS G. NEWLANDS,</signed>
+<hi rend="italic">Managers on the part of the Senate. </hi>
+<signed>JOSHUA W. ALEXANDER, </signed>
+<signed>RUFUS HARDY,</signed>
+<signed>W. E. HUMPHREY,</signed>
+<hi rend="italic">Managers on the part of the house.</hi></closer>
+<note>The report was agreed to.</note>
+<head>
+LAND IN CITY OF WASHINGTON.
+</head>
+<p>The PRESIDENT pro tempore laid before the Senate the request of the House of Representatives to be furnished with a duplicate engrossed copy of the bill (S. 2748) for the relief of Clara Dougherty, Ernest Kubel, and Josephine Taylor, owners of lot No. 13; of Ernest Kubel, owner of lot No. 41; and of Mary Meder, owner of the south 17.10 west front by the full depth thereof of lot No. 14, all of said property in square No. 774, in. Washington, D. C., with regard to assessment and payment for damages on account of change of grade due to the construction of Union Station, in said District (H. Res. 634) ; and there being no objection, the request was ordered to be complied with.</p>
+
+<head>CORBETT TUNNEL, WYOMING-VETO MESSAGE (S. DOG. NO. 878).</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States, which was read:</p>
+<quote>
+<salute>To the Senate:</salute>
+<p>For the reasons stated in the letter of July 12 of the Secretary of the Interior, which accompanies this message, I return without approval Senate bill 4862, entitled "An act for the relief of certain persons having supplied labor and materials for the prosecution of the work of constructing the Corbett Tunnel of the Shoshone irrigation project."</p>
+<p>I do this because I think this legislation is of retroactive character and imposes on certain of the reclamation settlers an additional burden over and above the contract price of. the work done, increasing that price by a double payment of part of What was due under the contract from the reclamation fund to the principal contractors. At the time when the work was begun and continued there was. no law which relieved the sub-contractor or the material man from the necessity of looking after the collection of what the contractor owed him, or which imposed on the Government or the reclamation authorities the duty of seeing to it that the money paid under the principal contract was used by the principal contractor to pay his sub-contractors or material men. To require that this additional amount should now be included in the assessment upon the lands is by law to increase a contract burden by a change of the character of the liability after it has been assumed and fixed. This is retroactive and is legislation in its nature unjust to the reclamation settlers.</p>
+<closer><signed>WM. H. TAFT. </signed>
+<dateline>THE WHITE HOUSE, July 18, 1912.</dateline></closer>
+</quote>
+<p>The PRESIDENT pro tempore. The question is, Shall this bill pass, the objections of the President of the United States to the contrary notwithstanding?</p>
+<p>Mr. MYERS. Mr. President, I ask unanimous consent that the President's message and the accompanying document be printed and lie on the table, subject to be called up by me at a later day.</p>
+<p>The PRESIDENT pro tempore. The Senator from Montana asks unanimous consent that the President's message and the accompanying document be printed and lie on the table. Is there objection? The Chair hears none.</p>
+<head>HOUSE BILL REFERRED.</head>
+<p>H. R. 21094. An act to create a commission on industrial relations was read twice by its title and referred to the Committee on Education and Labor.</p>
+<head>ANNIE R. SCHLEY.</head>
+<p>Mr. McCUMBER. Mr. President, on Monday, the 15th instant, conferees were appointed by the Chair on the bill (S. 4568) granting an increase of pension to Annie R. Schley. One of the conferees was the Senator from Oklahoma [Mr. GoRE]. The Senator from Oklahoma left the city the day after, I think, and will not be back for some time. Therefore I ask that the senior Senator from. Indiana [Mr. SHIVELY] be appointed to fill his place.</p>
+<p>The PRESIDENT pro tempore. Without objection, that order will be made.</p>
+<head>SUNDRY CIVIL APPROPRIATION BILL.</head>
+<p>Mr. WARREN. Mr. President, I wish to give notice that I shall ask the Senate to proceed with the consideration of the sundry civil appropriation bill to-morrow, immediately after the routine morning business.</p>
+<head>VOTES ON EXCISE, WOOL, AND SUGAR BILLS.</head>
+<p>Mr. SIMMONS. Mr. President, I desire to inquire of the Senator from Utah if he would not consent to. change the order in the unanimous-consent proposition he submitted a little while ago, so as to allow a vote upon the excise measure before the sugar bill.</p>
+<head>Mr. SMOOT. After consultation with a number of Senators interested in this proposition, I find there is no objection to that program, and therefore I offer the order I send to the desk.</head>
+<p>The PRESIDENT pro tempore. The Senator from Utah submits an order, which will be read.</p>
+<note>The Secretary read as follows:</note>
+<p>"It is agreed by unanimous consent that on Thursday, July 25, 1912, immediately upon the conclusion of the routine morning business, the Senate will proceed to the consideration of the bill (H. R. 22195) to reduce the duties on wool and manufactures of wool, and before adjournment on that calendar day will vote, upon any amendment that may be pending, any amendments that may be offered, and upon the bill, through the regular parliamentary stages, to its final disposition.</p>
+<p>"And, further, it is agreed by unanimous consent that on Friday, July 26, 1912, immediately upon the conclusion of the routine morning business, the Senate will proceed to the consideration of the bill (H. R. 21214) to extend the special excise tax now levied with respect to doing business by corporations to persons, and to provide revenue for the Government by levying a special excise tax with respect to doing business by individuals and copartnerships, and before adjournment on that calendar day will vote upon any amendment that may be pending, any amendments that may be offered, and upon the bill, through the regular parliamentary stages, to its final disposition.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0978.05.pdf"><title>Congressional Record</title> 48, 9938</ref> (1912).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9938'	CONGRESSIONAL RECORD-SENATE..	JULY 3d, . </fw>
+<p>Mr. LODGE. That is quite true; but I wished to call the attention of individual Senators to the universal practice.</p>
+<p>The PRESIDENT pro tempore. The Chair certainly has nothing to do with the matter. The question is, Shall the bill pass?</p>
+<p>Mr. BRISTOW. A parliamentary inquiry, Mr. President. </p>
+<p>The PRESIDENT pro tempore. The Senator from Kansas will state his parliamentary inquiry.</p>
+<p>Mr. BRISTOW. I do not understand what the Senator from Massachusetts means by a Senator understanding that he must have a double pair. Suppose a Senator is paired, and he announces his pair and refrains from voting; how can he get a double pair unless there is some other Senator who volunteers to pair with him?</p>
+<p>Mr. LODGE. Under the practice of the Senate, if he does not have a double pair, he is at Iiberty to vote.</p>
+<p>The PRESIDENT pro tempore. The question is, Shall the bill pass?</p>
+<p>Mr. MYERS. Mr. President&#8212;</p>
+<p>The PRESIDENT pro tempore. Debate is not in order. </p>
+<p>Mr. MYERS. I suggest the absence of a quorum.</p>
+<p>The PRESIDENT pro tempore. The absence of a quorum
+having been suggested, the Secretary will call the roll.</p>
+<p>The Secretary called the roll, and the following Senators
+answered to their names:</p>
+<table>
+<row>
+<row><cell role="desc">Ashurst</cell>	<cell role="desc">du Pont</cell>	<cell role="desc">Martin, Va.	</cell><cell role="desc">Simmons </cell></row>
+<row><cell role="desc">Bacon</cell>	<cell role="desc">Fall</cell>	<cell role="desc">Martine, N. J.</cell><cell role="desc">Smith, Ga.</cell></row>
+<row><cell role="desc">Borah</cell>	<cell role="desc">Fletcher</cell>	<cell role="desc">Massey	</cell><cell role="desc">Smith, Mich.</cell></row>
+<row><cell role="desc">Bourne</cell><cell role="desc">	Gallinger</cell>	<cell role="desc">Myers	</cell><cell role="desc">Smith, S. C.</cell></row>
+<row><cell role="desc">Bradley</cell>	<cell role="desc">Gronna</cell> 	<cell role="desc">Nelson</cell>	<cell role="desc">Smoot</cell></row>
+<row><cell role="desc">Brandegee</cell>	<cell role="desc">Guggenheim</cell>	<cell role="desc">Newlands</cell>	<cell role="desc">Sutherland</cell></row>
+<row><cell role="desc">Bristow</cell>	<cell role="desc">Heyburn</cell>	<cell role="desc">Overman</cell>	<cell role="desc">Swanson</cell></row>
+<row><cell role="desc">Bryan</cell>	<cell role="desc">Hitchcock</cell>	<cell role="desc">Page</cell>	<cell role="desc">Thornton</cell></row>
+<row><cell role="desc">Burton</cell>	<cell role="desc">Johnson, Me.</cell>	<cell role="desc">Penrose</cell>	<cell role="data">Townsend</cell></row>
+<row><cell role="data">Catron</cell>	<cell role="data">Johnston, Ala.</cell>	<cell role="desc">Perkins</cell>	<cell role="desc">Warren</cell></row>
+<row><cell role="desc">Chamberlain</cell>	<cell role="desc">Jones</cell>	<cell role="desc">Poindexter	</cell><cell role="desc">Watson</cell></row>
+<row><cell role="desc">Clapp</cell>	<cell role="desc">Kenyon</cell>	<cell role="desc">Pomerene	</cell><cell role="desc">Wetmore</cell></row>
+<row><cell role="desc">Crane</cell>	<cell role="desc">Kern</cell>	<cell role="desc">Reed</cell>	<cell role="desc">Williams</cell></row>
+<row><cell role="desc">Culberson</cell>	<cell role="desc">La Follette</cell>	<cell role="desc">Root</cell>	<cell role="desc">Works</cell></row>
+<row><cell role="desc">Cullom</cell>	<cell role="desc">Lippitt</cell>	<cell role="desc">Sanders</cell></row>
+<row><cell role="desc">Cummins</cell>	<cell role="desc">Lodge</cell>	<cell role="desc">Shively</cell></row>
+</list>
+<p>The PRESIDENT pro tempore. Sixty-two Senators have answered to their names. A quorum is present. The roll will be called.</p>
+<note>The Secretary proceeded to call the roll.</note>
+<p>Mr. BRANDEGEE (when his name was called). I have a general pair with the junior Senator from New York [Mr. O'GORMAN]. He went away a few days ago, and I told him that he could rely on me to protect him. I certainly did not anticipate this situation, where I should be held by only one Senator when I was entitled to two on this occasion, where it requires a two-thirds vote. I do not know what entered into the other Senator's mind, but inasmuch as I have not notified him that he must come here and protect himself, I do not feel at liberty to vote. I therefore withhold my vote and protect my pair.</p>
+<p>Mr. CHAMBERLAIN (when his name was called). I have a general pair with the junior Senator from Pennsylvania [Mr. OLIvER]. I transfer it to the junior Senator from Maine [Mr. GARDNER] and will vote. I vote " yea."</p>
+<p>Mr. CULLOM (when his name was called). I have a general pair with the junior Senator from West Virginia [Mr. CHILTON ] . If he were present, I should vote "nay."</p>
+<head>Mr. GUGGENHEIM (when his name was called). I have a general pair with the senior Senator from Kentucky [Mr. P. PAYNTER] , Who is unavoidably detained, and therefore with-hold my vote.</head>
+<p>Mr. LIPPITT (when his name was called). I have a pair with the senior Senator from Tennessee [Mr. LEA], and in his absence, not having notified him of a situation like this coming up, I feel that I should protect him, and therefore withhold my vote.</p>
+<p>Mr. CHAMBERLAIN (when Mr. OWEN's name was called). I have been requested to announce that the Senator from Oklahoma [Mr. OWEN] is paired with the senior Senator from Nebraska [Mr. BRowN]. I desire this announcement to stand for the day.</p>
+<p>Mr. WILLIAMS (when Mr. PERCY'S name was called). My colleague [Mr. PERCY] is absent upon important business, and is paired with the Senator from North Dakota [Mr. MCCuMBER].</p>
+<p>Mr. DU PONT (when Mr. RICHARDSON'S name was called). My colleague [Mr. RICHARDSON] is out of the city. He is paired with the junior Senator from South Carolina [Mr. SMITH]. If present, my colleague would vote "nay."</p>
+<p>Mr. SMITH of South Carolina (when his name was called). I have a pair with the Senator from Delaware [Mr. RICHARDSON], and in view of the statement made by his colleague [Mr. DU PONT] I withhold my vote. Were I at liberty, I should vote "yea."</p>
+<p>Mr. REED (when Mr. STONE'S name was called). My colleague [Mr. STONE] is necessarily absent, and is paired with the Senator from Wyoming' [Mr. CLARK].</p>
+<p>Mr. SUTHERLAND (when his name was called). I have a pair with the Senator from Maryland [Mr. RAYNER], but under the arrangement which I have with that Senator, I am at liberty to vote on questions of this kind, where a two-thirds vote is required, when. I vote in the negative, unless I am furnished with an additional pair. Not having been furnished with an additional pair, I am at liberty to vote. I vote "nay."</p>
+<p>Mr. WATSON (when his name was called). I have a general pair with the senior Senator from New Jersey [Mr. BRIGGS]. I transfer it to the senior Senator from Maryland [Mr. RAYNER] and will vote. I vote " yea."</p>
+<p>Mr. WETMORE (when his name was called). I have a general pair with the senior Senator from Arkansas [Mr. CLARKE]. I therefore withhold my vote. If I were at liberty to vote, I should vote "nay."</p>
+<note>The roll call was concluded.</note>
+<p>Mr. BURNHAM. I have a pair with the junior Senator from Maryland [Mr. SMITH]. In his absence I withhold my vote. If at liberty to vote, I should vote "nay."</p>
+<p>Mr. DILLINGHAM. I have a general pair with the senior Senator from South Carolina [Mr. TILLMAN], which I transfer to the senior Senator from South Dakota [Mr. GAMBLE] and will vote. I vote "nay."</p>
+<p>Mr. WATSON. I desire to announce the necessary absence of my colleague . [Mr. CHILTON  . He is paired, as stated, with the Senator from Illinois [Mr. CULLOM]. If present, my colleague would vote "yea."</p>	.
+<p>Mr. MARTINE of New Jersey. I announce a pair between the Senator from Arkansas [Mr. DAvIs] and the Senator from Kansas [Mr. CuRTIS]. This is for the day.</p>
+<p>The vote resulted—yeas 42, nays 17, as follows:</p>
+<head>YEAS-42.</head>
+<table type="" rows="11" cols="4">
+<row>
+<cell role="desc">Ashurst</cell>	<cell role="desc">Cummins	</cell> <cell role="desc">La Follette</cell>	<cell role="desc">Simmons</cell>
+</row>
+<row>
+<cell role="desc">Bacon</cell>	<cell role="desc">Fall</cell>	<cell role="desc">Martin, Va.</cell>	<cell role="desc">Smith, Ariz.</cell>
+</row>
+<row>
+<cell role="desc">Bankhead</cell>	<cell role="desc">Fletcher</cell>	<cell role="desc">Martine, N. J.</cell>	<cell role="desc">Smith, Ga.</cell>
+</row>
+<row>
+<cell role="desc">Borah </cell>	<cell role="desc">Gronna</cell>	<cell role="desc">Massey</cell>	<cell role="desc">Smith, Mich.</cell>
+</row>
+<row>
+<cell role="desc">Bourne</cell>	<cell role="desc">Heyburn	</cell><cell role="desc">Myers</cell>	<cell role="desc">Swanson</cell>
+</row>
+<row>
+<cell role="desc">Bristow</cell>	<cell role="desc">Hitchcock</cell>	<cell role="desc">Newlands</cell>	<cell role="desc">Thornton</cell>
+</row>
+<row>
+<cell role="desc">Bryan</cell>	<cell role="desc">Johnson, Me.</cell>	<cell role="desc">Overman ,</cell>	<cell role="desc">Warren</cell>
+</row>
+<row>
+<cell role="desc">Catron</cell>	<cell role="desc">Johnston, Ala.</cell>	<cell role="desc">Poindexter</cell><cell role="desc">	Watson</cell>
+</row>
+<row>
+<cell role="desc">Chamberlain</cell>	<cell role="desc">Jones</cell>	<cell role="desc">Pomerene	</cell><cell role="desc">Williams</cell>
+</row>
+<row>
+<cell role="desc">Clapp</cell>	<cell role="desc">Kenyon</cell> <cell role="desc">Reed</cell>
+</row>
+<row>
+<cell role="desc">Culberson</cell>	<cell role="desc">Kern</cell>	<cell role="desc">Shively</cell>
+</row>
+
+</table>
+
+<head>NAYS-17.</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Bradley	</cell><cell role="desc">Gallinger</cell>	<cell role="desc">Perkins	</cell><cell role="desc">Townsend</cell>
+</row>
+<row>
+<cell role="desc">Burton</cell>	<cell role="desc">Lodge</cell>	<cell role="desc">Root</cell>	<cell role="desc">Works</cell>
+</row>
+<row>
+<cell role="desc">Crane</cell>	<cell role="desc">Nelson</cell>	<cell role="desc">Sanders</cell>
+</row>
+<row>
+<cell role="desc">Dillingham</cell>	<cell role="desc">Page</cell>	<cell role="desc">Smoot.</cell>
+</row>
+<row>
+<cell role="desc">du Pont</cell>	<cell role="desc">Penrose</cell>	<cell role="desc">Sutherland </cell>
+</row>
+</table>
+
+<head>NOT VOTING-35.</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Bailey</cell>	<cell role="desc">Cullom</cell>	<cell role="desc">Lea</cell>	<cell role="desc">Rayner</cell>
+</row>
+<row>
+<cell role="desc">Brandegee</cell>	<cell role="desc">Curtis</cell>	<cell role="desc">Lippitt</cell>	<cell role="desc">Richardson</cell>
+</row>
+<row>
+<cell role="desc">Briggs</cell>	<cell role="desc">Davis</cell>	<cell role="desc">McCumber</cell>	<cell role="desc">Smith, Md.</cell>
+</row>
+<row>
+<cell role="desc">Brown</cell>	<cell role="desc">Dixon</cell><cell role="desc">	McLean</cell>	<cell role="desc">Smith, S. C:</cell>
+</row>
+<row>
+<cell role="desc">Burnham</cell>	<cell role="desc">Foster</cell>	<cell role="desc">O'Gorman</cell>	<cell role="desc">Stephenson</cell>
+</row>
+<row>
+<cell role="desc">Chilton</cell>	 <cell role="desc">Gamble</cell>	<cell role="desc">Oliver</cell><cell role="desc">	Stone</cell>
+</row>
+<row>
+<cell role="desc">Clark, Wyo.</cell>	<cell role="desc">Gardner</cell>	<cell role="desc">Owen</cell>	<cell role="desc">Tillman</cell>
+</row>
+<row>
+<cell role="desc">Clarke, Ark.</cell><cell role="desc">	Gore</cell>	<cell role="desc">Paynter</cell>	<cell role="desc">Wetmore</cell>
+</row>
+<row>
+<cell role="desc">Crawford</cell>	<cell role="desc">Guggenheim</cell>	<cell role="desc">Percy</cell>
+</row>
+</table>
+<p>The PRESIDENT pro tempore. Forty-two Senators have voted in the affirmative and 17 in the negative and the bill is passed, notwithstanding the objections of the President.</p>
+<head>MILITARY ACADEMY APPROPRIATION BILL.</head>
+<p>Mr. DU PONT submitted the following report:</p>
+<p>The committee of conference on the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. R. 24450) making appropriations for the support of the Military Academy for the fiscal year ending June 30, 1913, and for other purposes, having met, after full and free conference have agreed to recommend and do recommend to their respective Houses as follows:</p>
+<p>That the Senate recede from its amendment numbered 10.</p>
+<p>That the House recede from its disagreement to the amendments of the Senate numbered 2, 3, 5, 6, 7, 8, 9, and 11, and agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 1, and agree to the same with an amendment as follows : In line 11 of the matter proposed to be inserted by said amendment, after the word "hereafter," strike out the word " graduates" and insert in lieu the words "a graduate"; in line 13, after the word "from," strike out ,the words "West Point, New York" and insert in lieu the words "his home"; in line 14, after the word "which," strike out the words "they first join" and insert in lieu the words "he first joins"; and in line 14, beginning after the word</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV0978.03.pdf"><title>Congressional Record</title> 48, 11127</ref> (1912).</bibl>
+<!-- <floatingText>
+<body>
+<p>evidence that has been submitted, I say that we can best leave this matter to the jurisdiction of the Court of Claims.</p>
+<p>The SPEAKER. The time of the gentleman from New Jersey has expired. The gentleman from California has seven minutes remaining.</p>
+<p>Mr. RAKER. Mr. Speaker, I yield half a minute to the gentleman from Maryland [Mr. Lawn].</p>
+<p>Mr. LEWIS. Mr. Speaker, I recognize that some explanation of the parcel-post proposition offered by the gentleman from Tennessee this morning and approved by the House ought to be made. I ask unanimous consent to extend my remarks in the RECORD for that purpose. </p>
+<p>The SPEAKER. The gentlemen from Maryland asks unanimous consent to extend his remarks in the RECORD. Is there objection?</p>
+
+<p>There was no objection.</p>
+<p>Mr. LAFFERTY. Mr. Speaker, I raise the point of order that there is no quorum present.</p>
+<p>The SPEAKER. Evidently there is no quorum present. Mr. PAGE. Mr. Speaker, I move a call of the House.</p>
+<p>The SPEAKER. The gentleman from North Carolina moves
+a call of the House.</p>
+<p>The question was taken, and the motion was agreed to.</p>
+<p>The SPEAKER. The Doorkeeper will close the doors, the Sergeant at Arms will bring in absent Members, and the Clerk will call the roll.</p>
+<p>The Clerk called the roll, and the following Members failed to answer to their names:</p>
+<table>
+<row>
+Ames	Dyer	Konop	Reyburn
+</row>
+<row>
+Anderson, Minn. Edwards	Kopp	Richardson
+</row>
+<row>
+Anderson, Ohio	Ellerbe	Lafean	Roberts, Mass.
+</row>
+<row>
+Andrus	Isch	Lamb	Roberts, Nev.
+</row>
+<row>
+Anthony	Fairchild	Langham	Robinson
+</row>
+<row>
+Barchfeld	Fields	Langley	Rodenberg
+</row>
+<row>
+Barnhart	Fordney	Lawrence	Rothermel
+</row>
+<row>
+Bartlett	Forms	Legare	Rouse
+</row>
+<row>
+Bathrick	Francis	Lenroot	Rubey
+</row>
+<row>
+Bell, Ga.	Fuller	Lever	Scully
+</row>
+<row>
+Berger	Gardner, Mass.	Levy	Sells
+</row>
+<row>
+Beeline	Garner	Lindbergh	Sheppard
+</row>
+<row>
+Borland	Garrett	Lindsay	Sherwood
+</row>
+<row>
+Bradley	Gillett	Littlepage	Slemp
+</row>
+<row>
+Brantley	Goldfogle	Littleton	Small
+</row>
+<row>
+Broussard	Good	Longworth	Smith, Cal.
+</row>
+<row>
+Burgess	Goodwin, Ark.	McCall	Smith, N. Y.
+</row>
+<head>Burke, Pa.	Gould	McCreary	Sparkman</head>
+<row>
+Byrnes, S. C.	Greene. Vt.	Mcgillicuddy	Speer
+</row>
+<row>
+Calder	Gregg, Tex.	McGuire, Okla.	Stack
+</row>
+<row>
+Callaway	Griest	McHenry	Steenerson
+</row>
+<row>
+Carlin	Gudger	McKenzie	Stephens, Cal.
+</row>
+<row>
+Cary	Guernsey	Macon	Stephens, Nebr.
+</row>
+<row>
+Clark, Fla.	Hanna	Madden	Taggart
+</row>
+<row>
+Clayton	Hardwick	Martin, S. Dak. Talbott, Md.
+</row>
+<row>
+Collier	Hartman	Mays	Taylor, Ala.
+</row>
+<row>
+Copley	Haugen	Moon, Pa.	Taylor, Colo.
+</row>
+<row>
+Covington	Hay	Moore, Tex.	Thistlewood
+</row>
+<row>
+Cox, Ind.	Hayes	Morse	Tilson
+</row>
+<row>
+Cox, Ohio	Henry. Conn.	Murdock	Underhill
+</row>
+<row>
+Crago	Higgins	Neeley	Vare
+</row>
+<row>
+Cravens	Hinds	Nelson	Volstead
+</row>
+<row>
+Cullop	Hobson	Nye	Vreeland
+</row>
+<row>
+Currier	Howell	Parran	Warburton
+</row>
+<row>
+Dalzell	Hughes, Ga.	Patten, N. Y.	Whitacre
+</row>
+<row>
+Daugherty	Hughes, N. J.	Porter	Wilder
+</row>
+<row>
+Davidson	Hughes, W. Va. Pou	Wilson, Ill.
+</row>
+<row>
+Davis, W. Va.	James	Powers	Wilson, N. Y.
+</row>
+<row>
+Dickinson	Jones	Prince	Young, Mich.
+</row>
+<row>
+Dickson, Miss.	Kindred	Prouty	Young, Tex.
+</row>
+<row>
+Dies	Kinkaid, Nebr.	Pujo
+</row>
+<row>
+Donohoe	Knowland	Randell, Tex.
+</row>
+<row>
+Dupre	Konig	Redfield
+</row>
+</table>
+<p>The SPEAKER. Two hundred and twenty-one Members are present, a quorum.</p>
+<p>Mr. RAKER. Mr. Speaker, I move to dispense with further proceedings under the call.</p>
+<p>The motion was agreed to.</p>
+<p>The doors were opened.</p>
+<p>Mr. RAKER. Mr. Speaker, I yield five minutes to the gentleman from Illinois [Mr. MANN].</p>
+<p>Mr. MANN. Mr. Speaker, I examined this bill very carefully before it passed the House and thought that it ought to pass the House. Since the veto of the President I have gone over the papers again very carefully, including the report of the Secretary of the Interior, and, much as I desire to sustain a veto of the President, and as highly as I regard his opinion, I am constrained, in view of the facts in the case, to vote to override the veto of the President.</p>
+<p>In this case the Government let a contract for the construction of a tunnel as a part of an irrigation system. The contract was let for less than the work could be done for, as it subsequently developed. The contract was forfeited, the contractor became bankrupt, and was unable to carry on the work. The Government finished the work. While the contractor was carrying on the work he bought supplies and issued pay checks to the laborers. The work and supplies went into the construction of the tunnel. The pay checks have not been paid. The supplies are not paid for. The Government has received trio benefit of the work and the benefit of the supplies. If the contractor had` failed a month or two before he did fail and the Government had proceeded to finish the work, as it did proceed afterwards to do, the Government would have been required to pay that much more money for the construction of the work than it did pay, namely, the amount represented by the pay checks and the amounts paid, due for supplies. I am not in favor of the Government taking the supplies or taking the labor of the laboring men and giving no chance for the payment of those bills. I believe the Government ought to secure the laborer his hire, because the laborer is worthy of his hire. I believe when the Government makes use of the supplies it ought to see that the bills are paid. In this case, as this work has all been done, for the purpose of carrying out the irrigation project and because the people who will occupy the land on the irrigation project will receive the benefit of the labor which is unpaid and of the supplies which yet remain unpaid for, I think they are the ones who ought to pay, and the pending bill only permits these people to intervene in the suit on the bonds which the Government took, and permits them to recover from the bondsmen. I am not willing to give my sanction to a proposition that the Government in constructing work can make use of labor which is unpaid for or make use of supplies which are not paid for. [Applause.]</p>
+<p>I yield back the balance of my time.</p>
+<p>Mr. RAKER. Mr. Speaker, I yield the balance of the time to the gentleman from Oregon [Mr. LAFFERTY].</p>
+<p>Mr. LAFFERTY. Mr. Speaker, the bill now before the House, upon which Members are now about to vote, originated in the other body of Congress, and, therefore, was returned with the veto message to that body. It was considered in the Senate for two days, it was elaborately argued, and only 17 Members of that body voted to sustain the veto message of the President. The simple object of the bill is to give to those who put labor and materials into the construction of the Corbett Tunnel on the Shoshone irrigation project the right to sue upon the bond of the contractor or the subcontractor as they would have had the right to do under the law as it existed up to a few months prior to the letting of this contract. When this labor and material was furnished these people believed, and they had a right to believe, that they would be protected under the general law that obtains in every civilized country, that those who furnish labor and material in the construction of public works have a lieu upon those works for what they have furnished. I am very sorry that I have not time to go into the merits of the bill. I will simply state that when it came before the Committee on Irrigation of Arid Lands of the House of Representatives only three members of that body were opposed to its favorable consideration. It was reported favorably and passed through the House. I believe that it ought now to be passed again, the objections of the President to the contrary notwithstanding.</p>
+<p>The SPEAKER. The time of the gentleman has expired. The question is, On reconsideration, will the House agree to pass the bill the objections of the President to the contrary, notwithstanding? The Clerk will call the roll. </p>
+<p>The question was taken ; and there were&#8212;yeas 138, nays 77, answering " present" 12, not voting 163, as follows:</p>
+<head>YEAS&#8212;138.</head>
+<table>
+<row>
+Adair Aiken, S. C. Ainey
+</row>
+<row>
+Akin, N. Y. Alexander Allen
+</row>
+<row>
+Ansberry Ashbrook Ayres Blackmon Bowman Buchanan 
+</row>
+<row>
+Bulkley
+Burke, S. Dak. Burke. Wis. Burnett 
+</row>
+<row>
+Candler 
+Cantril
+Carlin
+Carter Claypool
+</row>
+<row>
+Cline
+Connell
+Conry
+Cooper
+Curley
+</row>
+<row>
+Curry Davenport Davis, Minn. Dent
+</row>
+<row>
+Denver Difenderfer Dixon, Ind. Doughton Driscoll, D. A.
+</row>
+<row>
+Dwight Faison Farr
+</row>
+<row>
+Ferris Finley Fitzgerald
+</row>
+<row>
+Flood, Va. Floyd, Ark. Foster Fowler French
+</row> 
+<row>
+Gallagher
+George Gill
+Godwin, N. C.
+</row> 
+<row>
+Goodwin, Ark. Gray
+Green, Iowa Hamill
+</row>
+<row>
+Hamilton, W. Va. Hamlin
+Hammond Hardy 
+</row>
+<row>
+Harrison, Miss. Harrison, N. Y. Hay
+Heald Heflin 
+</row>
+<row>
+Helgesen Holland Howard Humphrey, Wash. Humphreys, Miss. 
+</row>
+<row>
+Jackson
+Jacoway
+Johnson, Ky. Kendall
+Korbly
+</row>
+<row>
+Lafferty
+La Follette Lee, Ga.
+Lee, Pa.
+</row>
+<row>
+Lever
+Levy
+Littlepage Lloyd
+</row> 
+<row>
+Lobeck McDermott McKellar Maguire, Nebr. Maher
+</row>
+<row>
+Mann
+Martin, Colo. Matthews
+</row>
+<row>
+Miller Mendell Moon, Tenn. Moss, Ind. 
+</row>
+<row>
+Mott
+Murray Norris Padgett Palmer Patton, Pa. 
+</row>
+<row>
+Pepper Pickett Pray
+Rainey Raker Rauch
+</row>
+
+<row>
+Rees
+Reilly Roddenber
+Rucker, Colo. Russell Sabath
+</row> 
+<row>
+Shackleford
+Sharp Sims Sloan
+</row>
+<row>
+Smith. J. M. C Stanley Stedman Steenerson Stephens, Nebr. 
+</row>
+<head>Stephens, Tex. Stevens, Minn. Stone
+Sweet</head> <row>
+Switzer Taggart
+Thomas Townsend
+</row>
+<row>
+Tribble Underhill Underwood Watkins
+</row>
+<row>Webb Wedemeyer Whitacre</row>
+<row>
+Willis Wilson, Pa. Young, Kans.
+</row>
+
+<pb n="11128" />
+<fw> 'I1128	CONGRESSIONAL RECORD HOUSE.	AUGUST 16, </fw>
+<head>NAYS-77.</head>
+<table>
+<row>
+Adamson Bartholdt Bates
+Beall, Tex. 
+</row>
+<row>
+Booher
+Brown
+Bryns, Tenn. Covington 
+</row>
+<row>
+Crumpacker Danforth Dodds
+Doremus 
+</row>
+<row>
+Draper
+Driscoll, M. E. Evans
+Fergusson 
+</row>
+<row>
+Foss
+Gardner, Mass. Gardner, N. J. Gocke
+</row>
+
+<row>
+Goldfogle	Loud
+Graham	McCoy
+</row>
+<row>
+Greene, Mass.	McKinley
+Greene, Vt.	McKinney
+</row>
+<row>
+Gregg, Pa.	McLaughlin Hamilton, Mich. Moore, Pa.
+</row>
+<row>
+Harris	Morgan
+Hayden	Morrison
+</row>
+<row>
+Helm	Needham
+Henry, Tex.	Oldfield
+</row>
+<row>
+Hensley	Olmsted
+Hill	O'Shaunessy
+</row>
+<row>
+Houston.	Page
+Howland	Payne
+</row>
+<row>
+Hull	Plumley
+Kent	Post
+</row>
+<row>
+Kinkead, N. J.	Ransdell, La.
+Kitchin	Sells
+</row>
+<row>
+Lawrence	Simmons
+Lewis	Sisson
+</row>
+Smith, Saml. W.
+Smith, Tex. Stephens, Miss. 
+<row>
+Sterling
+Sulloway
+Sulzer
+Talcott, N. Y.
+</row> 
+<row>
+Taylor, Ohio Thayer
+Towner
+Turnbull
+</row>
+<row>
+Tuttle
+Utter
+White
+</row>
+<row>
+Wilson, Ill. Witherspoon Wood, N. J.
+</row>
+<table>
+<head> ANSWERED " PRESENT "-12.</head>
+<table>
+<row>
+Glass	Kahn	Riordan
+</row>
+<row>
+Haugen	McMorran	Slayden
+</row>
+<row>
+Hawley	Peters	Woods, Iowa 
+</row>
+<row>
+Brantley Browning Butler
+</row>
+</table>
+
+<head>NOT VOTING-163.</head>
+
+<row>
+Ames
+Anderson, Minn. Anderson, Ohio Andrus
+</row>
+<row>
+Anthony Austin Barchfeld Barnhart 
+</row>
+<row>
+Bartlett Bathrick Bell, Ga. Berger
+</row>
+<row>
+Bochno Borland Bradley Broussard 
+</row>
+<row>
+Burgess Burke, Pa. Burleson Byrnes, S. C. Calder
+</row>
+<row>
+Callaway Campbell Cannon Cary
+</row>
+<row>
+Clark, Fla. Clayton Collier
+Copley
+</row>
+<row>
+Cox, Ind. Cox, Ohio Crago
+Cravens 
+</row>
+<row>
+Cullop
+Currier Dalzell Daugherty 
+</row>
+<row>
+Davidson Davis, W. Va. De Forest Dickinson
+</row>
+<row>
+Dickson, Miss. Dies
+Donohoe Dupre 
+</row>
+<row>
+Dyer
+Edwards
+Ellerbe Esch
+</row>
+<row>
+Estopinal Fairchild
+Fields Focht 
+</row>
+<row>
+Fordney Fornes Francis Fuller 
+</row>
+<row>
+Garner Garrett Gillett Good
+</row>
+<row>
+Gould   Gregg, Tex. Griest Gudger 
+</row>
+<row>
+Guernsey Hanna Hardwick Hartman
+</row>
+<row>
+Hayes
+Henry, Conn. Higgins Hinds 
+</row>
+<row>
+Hobson Howell Hughes, Ga. Hughes, N. J. 
+</row>
+<row>
+Hughes, W. Va. James
+Johnson, S. C. Jones
+</row>
+<row>
+Kennedy
+Kindred	Pujo
+Kinkaid, Nebr.
+</row>	
+<row>
+Randell, Tex.
+Knowland	Redfield
+Konig	
+</row>
+<row>
+Reyburn
+Konop	Richardson
+Kopp
+</row>	
+<row>
+Roberts, Mass.
+Latean	Roberts, Nev.   Lamb	
+</row>
+<row>
+Robinson
+Langham	Rodenberg
+Langley	Rothermel
+</row>
+<row>
+Legare	Rouse
+Lenroot	Rubey
+Lindbergh
+</row>	<row>
+Rucker, Mo.
+Lindsay	Saunders
+Linthicum
+</row>	
+<row>
+Scully
+Littleton	Sheppard
+Longworth	Sherley
+</row>
+<row>
+McCall	Sherwood
+McCreary	Slemp
+McGillicuddy
+</row>	
+<row>
+Small
+McGuire, Okia.	Smith, Cal.
+Mcilenry	Smith, N. Y.
+</row>
+<row>
+McKenzie	Sparkman
+Macon	Speer
+Madden
+</row>	
+<row>
+Stack Martin, S. Dak. Stephens, Cal.
+Mays	Talbott, Md.
+</row>
+<row>
+Moon, Pa.	Taylor, Ala.
+Moore, Tex	Taylor, Colo.
+Morse, Wis.
+</row>	
+<row>
+Thistlewood
+Murdock	Tilson
+Neeley	Vare
+</row>
+<row>
+Nelson	Volstead
+Nye	Vreeland
+Parran
+</row>	<row>
+Warburton
+Patten, N. Y.	Weeks
+Porter	Wilder
+</row>
+<row>
+Pon	Wilson, N. Y.
+Powers	Young, Mich.
+</row>
+<row>
+Prince	ProutyYoung, Tex. 
+</row>
+
+<p>The Clerk announced the following additional pairs:</p>
+<p>Affecting vetoes of the President:</p>
+<p>Mr. Mc.HENRY and Mr. BYRNES of South Carolina with Mr.
+MADDEN.</p>
+<p>Mr. Dies and Mr. TAYLOR of Colorado with Mr. Ames.</p>
+<p>Mr. HUGHES of New Jersey and Mr. BARTLETT with Mr.
+BUTLER.</p>
+<p>Mr. SMALL and Mr. TAYLOR of Alabama with Mr. HARTMAN. Mr. REDFIELD and Mr. MCGILLICUDDY with Mr. GUERNSEY. Mr. NEELEY and Mr. JONES With Mr. ROBERTS of Massachusetts.</p>
+<p>Mr. Dupre and Mr. SHEPPARD with Mr. KNOWLAND.</p>
+<p>Mr. GREGG of Texas and Mr. COLLIER with Mr. WOODS of Iowa.</p> 
+<p>Mr. GLASS and Mr. DONOHOE With Mr. SLEMP</p>
+<p>Mr. MACON and Mr. SCULLY with Mr. BROWNING.</p>
+<p>Mr. CULLOP and Mr. DICKINSON with Mr. HIGGINS.</p>
+<p>Mr. BOEHNE and Mr. CLARK of Florida with Mr. FULLER. </p>
+<p>Mr. ROBINSON and Mr. STACK with Mr. VREELAND.</p>
+<p>Mr. Pujo and Mr. PATTEN of New York with Mr. ROBERTS of
+ Nevada.</p>
+<p>Mr. BARNHART and Mr. LINDSAY with Mr. HENRY of Connecticut.</p>
+<p>Mr. HoBSON and Mr. GUDGER with Mr. HUGHES of West Virginia.</p>
+	<p>Mr. SHERWOOD and Mr. BELL of Georgia with Mr. LANCHAM. </p>
+<p>Mr. GOULD and Mr. RUBEY with Mr. HAWLEY.</p>
+<p>Mr. DAUGHERTY and Mr. ELLERUE with Mr. CURRIER.</p>
+<p>Mr. BROUSSARD and Mr. BURGESS with Mr. YOUNG of Michigan. </p>
+<p>Mr. WILSON of New York and Mr. RICHARDSON With Mr.
+MARTIN of South Dakota.</p>
+<p>Mr. HUGHES of Georgia and Mr. GARRETT With Mr. FORDNEY. </p>
+<p>Mr. PETERS and Mr. JAMES with Mr. McCALL.</p>
+<p>Mr. ANDERSON of Ohio and Mr. GARNER with Mr. HINDS.</p> 
+<p>Mr. KoNOP and Mr. FIELDS with Mr. LANGLEY.</p>
+<p>Mr. YOUNG of Texas and Mr. EDWARDS with Mr. DALZELL.</p>
+<p>Mr. LAMB and Mr. KINDRED with Mr. MCGUIRE of Oklahoma. </p>
+<p>Mr. RousE and Mr. CRAVENS With Mr. HAYES.</p>
+<p>Mr. SMITH of New York and Mr. CALLAWAY with Mr. MOON of Pennsylvania.</p>
+<p>Mr. FRANCIS and Mr. SLAYDEN With Mr. TILSON.</p>
+<p>Mr. MOORE of Texas and Mr. RANDALL of Texas with Mr. SMITH of California.</p>
+<p>Mr. Cox of Ohio and Mr. LEGARE with Mr. NYE.</p>
+<p>Mr. Cox of Indiana and Mr. LITTLETON with Mr. COPLEY. </p>
+<p>Mr. BATHRICK and Mr. BORLAND With Mr. ANTHONY. </p>
+<p>Mr. FORNES and Mr. BRANTLEY with Mr. BRADLEY.</p>
+<p>Mr. ESTOPINAL and Mr. BURLESON with Mr. BIRCHFELD. </p>
+<p>Mr. KONIG with Mr. MCCREARY .</p>
+<p>Mr. LINTHICUM and Mr. MOORE of Texas with Mr. KAHN. </p>
+<p>Mr. SHERLEY With Mr. FAIRCHILD.</p>
+<head>Until further notice:</head>
+<p>Mr. SAUNDERS and Mr. DICKINSON of Mississippi with Mr. CANNON,</p>
+<p>The SPEAKER. On this vote the yeas are 138, the nays 77, and present 12, and on reconsideration the House refuses to bass the bill over the President's veto. The Chair will recognize gentlemen from the Committee on Elections who have some privileged matters.</p>
+<head>CONTESTED-ELECTION CASE&#8212;MURPHY AGAINST HAUGEN.</head>
+<p>Mr. GOLDFOGLE. Mr. Speaker, I submit a report from the Committee on Elections No. 3, in the case of Murphy against' Haugen, from the fourth congressional district of Iowa. This is a unanimous report and I ask the adoption of the resolution recommended by the committee.</p>
+<p>The SPEAKER. The Clerk will report the resolution. The Clerk read as follows :
+House resolution 607 (H. Rept. 1203).</p>
+<p>Resolved, That Gilbert N. Haugen was elected a Representative in the Sixty-second Congress from the fourth congressional district in the State of Iowa and is entitled to a seat therein.</p>
+<p>The question was taken, and the resolution was agreed to.</p>
+<head>PARCEL POST.</head>
+<p>Mr. LEWIS. Mr. Speaker, I ask unanimous consent to ex-tend my remarks in the RECORD in the way of a comparison of the so-called Bourne parcel-post proposition with the Moon parcel-post proposition agreed to in the House thin morning.</p>
+<p>The SPEAKER. The gentleman from, Maryland asks unanimous consent to extend his remarks in the RECORD in the manner stated. Is there objection?</p>
+<p>There was no objection.</p>
+<p>Mr. HAY, Mr. SULZER, Mr. ADAMSON, and Mr. RUSSELL rose.</p>
+<p>The SPEAKER. The Chair will recognize the gentlemen now who want to get bills into conference. The Chair will first recognize the gentleman from Virginia [Mr. HAY].</p>
+<head>ARMY APPROPRIATION BILL.</head>
+<p>Mr. HAY. Mr. Speaker, I ask unanimous consent to take from the Speaker's table the Army appropriation bill, to disagree with the Senate amendments, and ask for a conference.</p>
+<p>The SPEAKER. The Clerk will report the bill.</p>
+<note>The Clerk read the title of the bill, as follows:</note>
+<p>An act (H. R. 25531) making appropriations for the support of the Army for the fiscal year ending June 30, 1913, and for other purposes.</p>
+<p>The SPEAKER. The gentleman from Virginia [Mr. HAY] asks unanimous consent to take from the Spanker's table the Army appropriation bill, disagree to the Senate amendments, and ask for a conference. Is there objection?</p>
+<p>There was no objection.</p>
+<p>The SPEAKER. The Clerk will announce the conferees on the part of the House</p>.
+<note>The Clerk read as follows: </note>
+<p>Mr. HAY, Mr. SLAYDEN, and Mr. KAHN.</p>
+<head>CIVIL WAR PENSIONS.</head>
+<p>Mr. RUSSELL. Mr. Speaker, I ask unanimous consent to call up the bill (H. R. 24020) granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent children of soldiers and sailors of said war, and agree to the Senate amendments.</p>
+<p>The SPEAKER. The Clerk will report the bill.</p>
+<p>The Clerk read the title of the bill, as follows :</p>
+<p>An act (H. R. 24626) granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent children of soldiers and sailors of said war.</p>
+<p>The SPEAKER. The Clerk will report the Senate amendments.</p>
+<p>The Senate amendments were read.</p>
+<p>The SPEAKER. The question is on agreeing to the Senate amendments.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV0978.04.pdf">Joint resolution appropriating money for the payment of certain claims on account of labor, supplies, materials, and cash furnished in the construction of the Corbett tunnel</ref>, 37 <title>Stat.</title> 643 (1912).</bibl>
+<!-- <floatingText>
+<body>
+<fw> SIXTY-SECOND CONGRESS. SEss. TI. RES. 47-49. 1912. </fw>
+<p>[No. 47.] Joint Resolution Appropriating the sum of twenty thousand dollars out 
+of money appropriated by Senate Joint Resolution No. 129, for subsistence of American	<note>August 21,1912.[ S. J. Res. 133.] [Pub. Res., No. 54.] <note>
+ citizens who shall have fled or who ma hereafter flee from threatened danger in, the  Republic of Mexico into the States of the United States bordering on the Republic of
+Mexico.</p>
+<p>Resolved by the Senate and Rouse of Representatives of the United States of America in Congress assembled, That out of the money appropriated by Senate Joint Resolution 129 (Public Resolution No. 49) providing or transportation for American citizens fleeing from threatened
+danger in the Republic of Mexico there may be expended, <note>Mexican disturbances.
+Use of appropriation for transportation to citizens Seeing from, to furnish subsistence
+Ante, p. 641.</note>
+until December tenth, nineteen hundred and twelve in the discretion of the Secretary of War, not to exceed twenty thousand dollars for the subsistence of American citizens who shall have fled or who may hereafter flee from the Republic of Mexico into the States of the United States bordering on the Republic of Mexico and who are now and who may hereafter be unable to pay for their own subsistence.</p>
+<head>Approved, August 21, 1912.</head>
+<milestone unit="rule" />
+[No. 48.] Joint Resolution Requesting the President to cause an investigation of the Patent Office and make a report with recommendations to Congress.
+<p>Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the President of the <note> August 21, 1912. [H. J. Res. 337.]
+[Pub. Res., No. 55.]
+Patent Office. Investigation of administration of Economy and Efficiency commission. </note>
+United States be, and he is hereby, requested to cause the account-ants and experts from official and private life now or hereafter employed in the inquiry into methods of transacting the public business of the Government in the several executive departments and other executive Government establishments, known as the Commission on Economy and Efficiency, to investigate fully and carefully the administration <note> Scope. </note> of the Patent Office with a view of determining whether or not the present methods, personnel, equipment, and building of said office are adequate for the performance of functions, taking into consideration the present character and volume of business and also such increase in complexity volume as ma reasonably be expected in the future, and to ascertain and recommend specifically to Congress <note> Report and recommendations.
+</note> 
+not later than December tenth, nineteen hundred and twelve what changes in law, what increases in appropriations, and what additional building accommodations, may be necessary to enable the Patent Office discharge its functions in a thoroughly efficient and economical manner, and to what extent any expenditures which may be recommended can be met b increases of Patent Office fees.</p>
+<note> Appropriation for expenses.  </note>
+<p>All expense incurred in carrying out the purposes of this resolution shall be paid out of any funds in the Treasury of the United States not otherwise appropriated, and the sum necessary for said purposes <note>Proviso.  Limit</note>is hereby appropriated: Provided, That the total expense authorized by this resolution shall not exceed the sum of ten thousand dollars.</p>
+<p>Approved, August 21, 1912.</p>
+
+<milestone unit="rule" />
+
+<p>[No. 49] Joint Resolution Appropriating Money for the payment of certain claims on account of labor, supplies, materials and cash furnished in the construction of the Corbett tunnel.</p>
+<p>Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That there be and is hereby appropriated out of any moneys in the reclamation fund in the Treasury the sum of forty-two thousand dollars, so so much thereof as may be necessary, for the payment of and to be paid to those persons who have and hold and who have presented, or may present, <pb n="644" /> claims, remaining unpaid, on account of labor, supplies, materials or cash furnished to the contractor or the subcontractor and used in the construction of the Corbett tunnel, as a part of the Shoshone irrigation project, in the State of Wyoming, under any contract or contracts let for that purpose by the government of the United States; <note> Investigation, etc. </note> and the Secretary of the Interior is hereby authorized and directed to forthwith, and as soon as may be, investigate, hear evidence  about, determine and declare the several amounts due and remaining unpaid, if any, on account thereof, and to whom so due, and to certify the amounts due to the Secretary of the Treasury, who is hereby authorized to pay the several amounts so ascertained to the persons entitled to the same.</p>
+<p>Approved, August 24, 1912.</p>
+ <milestone unit="rule" />
+
+<note>August 24, 1912.</note>
+<p>[No. 50.] Joint Resolution Authorizing the Secretary of War to loan certain tents <note> [H. J. Res. 349.]
+[Pub. Res., No. 57.] </note> for the use of the Confederate Veterans'  Reunion, to be held at Ada, Oklahoma, in September, nineteen hundred and twelve.</p>
+<p>Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, <note> Confederate Veteran s' Reunion, Ada Okla.
+Loan of tents, etc, to.<note> That the Secretary of War be, and he is hereby, authorized to loan, at his discretion, to the executive committee of the Confederate Veterans' Reunion, to be held at Ada, Oklahoma, in the month of September, nineteen hundred and twelve, such cots and tents, with necessary poles, ridges, and pins, as may be required at said reunion: <note> Provisos.
+No expense, etc. </note> Provided, That no expense shall be caused the United States Government by the delivery and return of said property, the same to be delivered to said committee designated at such time prior to the holding of said reunion as may be agreed upon <note> Bond required. </note> by the Secretary of War d the general chairman of
+said executive committee: And provided further, That the Secretary of War shall, before delivering such property, take a good And sufficient bond for the safe return of said property in good order and condition, and the whole without expense to the United States.</p>
+ Approved, August 24, 1912.
+<milestone unit="rule" />
+
+<p>[No. 51.] Joint Resolution.</p>
+<p>Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the <note> August 24, 1912. [H. J. Res. 560.]
+[Pub. Res., No.58.] </note>
+Congressional of Seers, etc., to be paid August, 1912, salarie on day of adjourn ment.
+Senate and the Clerk of the House of Representatives be, and they are hereby, authorized and instructed to pay the officers and employees of the Senate and House of Representatives, including the Capitol police, their respective salaries for the month of August, nineteen hundred and twelve, on the day of adjournment of the present session; and the Clerk of the House of Representatives is authorized to pay, on said day, to Members and Delegates their allowances for cle hire for the id month of August, notwithstanding said Members and Delegates may not have designated by name thir clerks for and during said month of August.</p>
+
+<note>Approved, August 24, 1912.
+August 24, 1912, [S. J. Res. 108.]
+[Pub. Res., No. 59.] </note>
+
+
+<p>[No. 52.] Joint Resolution Authorizing the erection on the public grounds in the city of Washington of a joint memorial to Major Archibald W. Butt and Francis Davis Millet.
+Resolved by the Senate and House of Representatives of the United</p>
+<p>States of America in Congress assembled, That the Chief of Engineers, United States Army, <note> Major Archibald W. Butt and Francis Davis Millet </note> be, and he is hereby, authorized and directed to
+</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

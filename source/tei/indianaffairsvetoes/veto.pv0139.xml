@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0139">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">139	H.R. 1331 (Forty-third Congress, First Session &#8212; Grant)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0139</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Grant</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-third Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>139	H.R. 1331 (Forty-third Congress, First Session &#8212; Grant)</head>
+<p>For the relief of Joab Spencer and James R. Mead, for supplies furnished the Kansas tribe of Indians.</p>
+
+<p>Vetoed May 12, 1874.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Ex. Doc. No. 249 (2 <title>Cong. Rec.</title> 3826; <hi rend="italics">see also</hi> S. Misc. Doc. No. 53, 49th Cong., 2nd sess., p. 389).</p>
+
+<p>Veto unchallenged.</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988.</title>  (1992). Washington, DC: Government Printing Office, 48.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0139.02.pdf">Joab Spencer and James R. Mead.  Message from the President of the United States, returning without his approval the Bill (H.R. 1331) for the relief of Joab Spencer and James R. Mead for supplies furnished the Kansas tribe of Indians</ref>.  (1874).   House of Representatives.  43rd Congress, 1st session.  House Executive Document No. 249 (<title>Serial Set</title> 1614).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 43D CONGRESS, 1st Session. HOUSE OF REPRESENTATIVES. Ex. Doc. 	No. 249. </fw>
+<head>JOAB SPENCER AND JAMES R. MEAD.</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING</head>
+<head>Without his approval the bill (H. R. 1331) for the relief of Joab Spencer and
+James R. Mead for supplies furnished the Kansas tribe of Indians.</head>
+<milestone unit="rule" />
+<head>MAY 12, 1874.-Referred to the Committee on Indian Affairs and ordered to be printed.</head>
+<milestone unit="rule" />
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+<p>I return herewith, without my signature, a bill (H. R. 1331) en-titled "An act for the relief of Joab Spencer and James R. Mead, for supplies furnished the Kansas tribe of Indians."</p>
+<p>I withhold my approval of said bill for reasons which satisfy me that the claim should not be allowed for the entire amount stated in the bill, and which are set forth in the letter of the Acting Secretary of the Interior, dated the 7th instant, a copy of which, with its accompanying papers, is herewith transmitted.</p>
+<closer><hi rend="right"><signed>U. S. GRANT. </signed></hi>
+<dateline>EXECUTIVE MANSION, May 12, 1874.</dateline></closer>
+
+<opener>
+<hi rend="right"><dateline>DEPARTMENT OF THE INTERIOR,
+Washington, D. C., May 7, 1874.</dateline></hi>
+</opener>
+<p>SIR: I have the honor to return herewith engrossed bill H. R. 1331, entitled "An act for the relief of Joab Spencer and James R. Mead, for supplies furnished the Kansas tribe of Indians," and to state that said bill was the subject of a report made to the Department by the Commissioner of Indian Affairs on the 11th ultimo, with which he submitted letters from Enoch Hoag, superintendent of Indian affairs, and Mahlon Stubbs, Indian agent, representing that the justness and correctness of the claim of Spencer & Mead had not been established, and suggesting that further proceedings in the premises be deferred until a thorough investigation of the facts and circumstances of the case could be had.</p>
+<p>The suggestion of the Indian agent received the concurrence of the<pb n="2" />
+<fw> 2.	JOAB SPENCER AND JAMES R. MEAD. </fw>
+Commissioner of Indian Affairs and the approval of this Department, and on the 17th ultimo the attention of Congress was invited to the subject in a letter addressed to the Speaker of the House of Representatives by the Secretary of the Interior. At the latter date the bill appears to have been pending in the Senate, of which fact this Department at that time was not informed.</p>
+<p>On the 5th instant the engrossed bill (H. R. 1331) was received, by reference from the Executive Office, and forwarded to the Commissioner of Indian Affairs for a further report on the subject, and on the 6th instant that officer returned said bill to this Department, with a letter presenting his views in relation to the matter, and suggesting that the rights of the Indians and of Messrs. Spencer & Mead would be fully protected by a modification of the bill authorizing the Secretary of the Interior to pay such amount of their claim as might be found to be due. The suggestion meets the approval of this Department.</p>
+<p>Copies of the papers connected with this claim are herewith submitted.</p>
+<p>I have the honor to be, very respectfully, your obedient servant, </p>
+<closer><signed><hi rend="right">B. R. COWEN, Acting Secretary.</hi></signed>
+
+THE PRESIDENT</closer>
+
+<opener>
+<hi rend="right"><dateline>LAWRENCE, Thirdmonth 22, 1874.</dateline></hi> 
+<salute>MAHLON STUBBS,
+<hi rend="italic">United States Indian Agent:</hi></salute>
+</opener>
+<p>Inclosed herewith I forward a claim of Spencer & Mead against the Kansas Indians for goods claimed to have been furnished these Indians previous to Eighthmonth 6, 1867, and I have to inform you that a bill is now before Congress providing for its payment from the proceeds of the sale of their lands in Kansas.</p>
+<p>Thou wilt please investigate the claim; ascertain if the same, or any part thereof, is just; and, if so, how much. Also, if the whole, or any part thereof, has been paid; and, if so, how much, furnishing this office with any information touching the case in thy possession, and make due report of thy investigation, returning the claim at the earliest practicable day. (Amount, $7,782.89.)</p>
+<p>Very respectfully,</p>
+<closer><hi rend="right"><signed>CYRUS BEEDE,
+<hi rend="italic">Chief Clerk.</hi></signed></hi></closer>
+
+<milestone unit="rule" />
+
+<opener>
+<hi rend="right"><dateline>KAW INDIAN AGENCY, INDIAN TERRITORY,
+Via Arkansas City, Kans., <hi rend="italic">Thirdmonth</hi> 28, 1574.</dateline></hi>
+<salute>ENOCH HOAG,
+<hi rend="italic">Superintendent Indian Affairs, Lawrence, Kans.:</hi></salute>
+</opener>
+<p>Referring to letter from thy office, dated Thirdmonth 22, directing me to investigate certain claims of Spencer & Mead against the Kansas Indians, I will state that I have called the Indians and half-breeds together, and laid the subject before them, and have ascertained from them the following facts:</p>
+<p>The head chief states that when Spencer was about to leave them as trader, and they had paid him $8,000, their entire annuity, he asked him if his tribe, or any of them, owed him anything more. Spencer replied, " No, you have paid me all, and we are now even."</p>
+<pb n="3" />
+<fw> JOAB SPENCER AND JAMES R. MEAD.	3 </fw>
+<p>A number of Indians say they heard the above conversation, and assert that it is correct.
+I would further state that from them I also gather the following facts, to wit : That there never has been an Indian by the name of Sin-get-isah belonging to the Kaw tribe. Bellevard states positively that he never bought a gun in his life, and never bought or used any Indian cloth. Bellevardshingah states he never bought an Indian blanket of the firm, and is positive he was in the Army at the date of this charge. Clementine Lessart was a young girl under the care of her parents, at the time of this transaction. Ebery Jo, at the date of this transaction, was only eight years old, and never had been enrolled in the Kaw tribe. Old Jo was a white man, and was never known to buy blankets, or Stroud. Heavy Jo was never at any time a member of the Kaw tribe. Several of the above statements I know to be true, as I resided with the tribe from the 17th of March, 1863, to the 1st of March, 1867.</p>
+<p>I can further state, to my personal knowledge, that Laura Pappau was a member of the Pottawatomie tribe of Indians, and had never, previous to the date of this transaction, and for several years after, been enrolled in the Kaw tribe; and, further, that Age-hi and Tom Jefferson had been dead at least one year previous to the date of the charges against them, and that Frank Lecompte was a white man, and never a member of the Kaw tribe. R. Prudon is a New York Indian, and was never enrolled with the Kaws.</p>
+<p>I would further say that I have resided with this tribe more than eight years; am intimately acquainted with all the male members and their manner of trading, and have never known them to buy beef and pork in as large quantities as is charged in the account, and that I have never known the half-breeds to buy blankets and Indian cloth as charged to them in this account, as they all dress in citizens' garb; and, further, Spencer informed me some four years ago that he had an account against the Kaws of about $7,000, and asked me to sign a paper drawn up by himself, stating that, to my personal knowledge, I knew the debt to be a just one, &c. I refused to do it, but informed him that if he had a just account against the Kaws to set his time and bring his account to the agency, and I would have the council present, and if they acknowledged the debt, and were satisfied, after the investigation, that it was correct and just, and he would get the certificates of the agents at the time of the transaction, I would approve it. I have heard but little, if anything, of it since, and the agency was only four miles distant from his place of business.</p>
+<p>From the foregoing facts, I ask that payment on it be stopped until there is time given for a thorough investigation at least.</p>
+<p>Very respectfully,</p>
+<closer>MAHLON STUBBS,
+<hi rend="italic">United States Indian Agent.</hi></closer>
+<milestone unit="rule" />
+
+<opener>
+<dateline>OFFICE OF INDIAN AFFAIRS, CENTRAL SUPERINTENDENCY,
+Lawrence, Kan.s, Fourthmonth 2, 1874.</dateline> 
+<salute>Hon. E. P. SMITH, Commissioner:</salute>
+</opener>
+<p>On seeing in congressional reports the presentation of a bill by Representative Lowe (I think) for payment of claim against the Kaw Indians, by Spencer. Mead, of some eight years' standing, and providing interest, and to be reimbursed from sale of their lands, I deemed it my duty to call on claimants for their itemized account, on receipt of
+which I transmitted it to Agent Stubbs, with request (copy inclosed) that he obtain the facts in the case from the Indians, and report the same, with his views, to this office. Said report is herewith transmitted, asking that the bill do not pass without an investigation.</p>
+<closer><p>Respectfully,</p>
+<signed>ENOCH HOAG, Superintendent.</signed></closer>
+
+<opener>
+<hi rend="right"><dateline>DEPARTMENT OF THE INTERIOR, OFFICE OF INDIAN AFFAIRS,
+Washington, D. C., April 11, 1874.</dateline></hi>
+</opener>
+<p>SIR: I have the honor to invite your attention to the inclosed bill (H. R. 1331) " for the relief of Joab Spencer and James R. Mead, for supplies furnished the Kansas tribe of Indians," by which it is proposed to authorize the payment of their claim against said tribe, amounting to 87,509.83, with interest.</p>
+<p>I also present, in connection with the above, a letter from Superintendent Hoag, of the 2d instant, inclosing a report from the agent having immediate charge of said Indians, Mr. Mahlon Stubbs, by which it will appear that the justness and correctness of said claim has not been established.</p>
+<p>The agent's suggestion that further proceedings in the premises be deferred until a thorough investigation of the facts and circumstances of the case can be had, is concurred in by this office.</p>
+<p>Very respectfully, your obedient servant,</p>
+<hi rend="right"><signed>EDWARD P. SMITH, Commissioner.</signed></hi>
+<milestone unit="rule" />
+
+<opener>
+<salute>Hon. SECRETARY OF THE INTERIOR.</salute>
+<dateline>DEPARTMENT OF THE INTERIOR,
+Washington, D. C., April 17, 1874.</dateline>
+</opener>
+<p>SIR: A bill (H. R. 1331) "for the relief of Joab Spencer and James R. Mead, for supplies furnished the Kansas tribe of Indians," is now pending before Congress, which requires the Secretary of the Interior to pay, or cause to be paid, to said parties the sum of $7,509.83, and interest on said sum at the rate of 7 per cent. per annum from the 6th day of August, 1867, until paid, out of any money now due or owing, or that may at any time hereafter become due and owing, the Kansas tribe of Indians in the State of Kansas, from the proceeds arising from the sale of lauds owned by the said tribe of Indians in said State of Kansas, in full compensation for the goods and provisions furnished said Indians by said Spencer & Mead during the years 1866 and 1867.</p>
+<p>I have the honor to transmit herewith, in relation to the subject, a copy of a letter dated the 11th instant, with accompanying papers, being copy of a letter dated the 2d instant, from Enoch Hoag, superintendent of Indian affairs, and report of Mahlon Stubbs, the agent having charge of the Kansas Indians, from which it appears that the justness and correctness of the claim of Spencer & Mead have not been established.</p>
+<p>The suggestion of the agent, concurred in by the Commissioner of Indian Affairs, that further proceedings in the premises be suspended <pb n="3" />
+<fw> JOAB SPENCER AND JAMES R. MEAD.	5 </fw>
+until a thorough investigation of the facts and circumstances of the case can be had, meets the approval of this Department, and the attention of Congress is respectfully invited to the subject.</p>
+<closer><signed>Very Respectfully, your obedient servant,
+C. DELANO, Secretary.</signed>
+<milestone unit="rule" />
+The SPEAKER OF THE HOUSE OF REPRESENTATIVES.</closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF THE INTERIOR, OFFICE OF INDIAN AFFAIRS,
+Washington, D. C., May 6, 1874.</dateline>
+<p>SIR: I have the honor to invite your attention to the inclosed bill of Joab Spencer and James R. Mead, providing that the sum of $ 7,509.S3, and interest at 7 per cent., be paid to Spencer & Mead out of the fund belonging to the Kansas tribe of Indians, for goods furnished by said Spencer & Mead, and also to invite attention to the inclosed correspondence between this office and Superintendent Hoag and Agent Stubbs. While this bill was pending in Congress, Agent Stubbs's attention was called to it by Superintendent Hoag, and in reply he states his reasons why action provided in the bill should not be taken until further investigation is made as to the correctness of the claim against the tribe. From the statement of Agent Stubbs there seems to be considerable doubt as to the entire correctness and justness of this bill; and while there is no question but that there may be indebtedness on the part of the Indians to this firm, the amount of such indebtedness should not be fixed in this summary manner.</p>
+<p>If the bill can be so modified as to allow the Secretary of the Interior to pay such amount thereof as may be found due, it is believed that the rights of both the Indians and traders will be fully protected.</p>
+<p>Very respectfully, your obedient servant,</p>
+<closer><signed>EDWARD P. SMITH,
+Commissioner. </signed>
+Hon. SECRETARY OF THE INTERIOR.</closer>
+
+H. Ex. 249	2
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0139.03.pdf"><title>Congressional Record</title> 2, 3826</ref> (1874).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 3826	CONGRESSIONAL RECORD.	MAY 13. </fw>
+<p>Mr. BECK. I object to the adoption of that resolution at this time, but I do not object to its reference.</p>
+<p>Mr. POTTER. I suggest that the resolution be referred to the Committee on the Judiciary. They have already before them the same subject under a previous resolution of the House.</p>
+<p>Mr. COX. I object to referring any resolution to that committee. They never report. They never yet have reported in reference to Louisiana. Let the Executive take care of Arkansas.</p>
+<p>Mr. BECK. Let it be referred.</p>
+<p>Mr. HYNES. It is merely a resolution of inquiry, to ascertain what is the condition of affairs in the State of Arkansas.</p>
+<p>Mr. POLAND. I do not object to the reference if the Committee on the Judiciary eau have leave to report at any time. I make that request.</p>
+<p>Mr. COX. I object to any such reference. That committee never does report anything.</p>
+<p>Mr. POTTER. We never get a chance to report.</p>
+<p>The SPEAKER. The gentleman from Vermont asks leave to report at any time, and the gentleman from New York objects to granting leave.</p>
+<hi rend="center"><head>JOAB SPENSER AND JAMES R. MEAD.</head></hi>
+<p>The SPEAKER laid before. the House the following message from the President of the United States:</p> 
+<p>The Clerk read as follows:</p>
+<quote><opener>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I return herewith without my signature House bill No. 1331 entitled "An act for the relief of Joab Spenser and James R. Mead for supplies furnished the Kansas tribe of Indians." I withheld my approval of said bill for reasons which satisfy me the claim should not be allowed for the entire amount stated in the bill, and which are set forth in the letter of the Secretary of the Interior of the 7th instant, a copy of which, with the accompanying papers, is herewith transmitted.</p>
+<closer><hi rend="right"><signed>U. S. GRANT. </signed></hi>
+<dateline><hi rend="smallcaps">Exexcutive Mansion,</hi>
+<hi rend="italic">Washington,</hi> May 12, 1874.</dateline></closer></quote>
+<p>Mr. HOLMAN. I ask that the letter accompanying the message of the President be read to the House.</p>
+<p>The SPEAKER. It is very lengthy.</p>
+<p>Mr. HOLMAN. Then I ask that the accompanying papers be printed.</p> 
+<p>The SPEAKER. The question is whether it belongs to the Committee on Indian Affairs or the committee on Claims.</p>
+<p>Mr. COBB, of Kansas. It is a bill reported I think by my colleague [Mr. LOWE] from the Committee on Indian Affairs. The message and accompanying documents were referred to the Committee on Indian Affairs and ordered to be printed.</p>
+
+<hi rend="center"><head>CIRCULATING NOTES.</head></hi>
+<p>The SPEAKER also, by unanimous consent, laid before the House a letter from the Secretary of the Treasury, in answer to a resolution of the House of April 25, 1874, in relation to how much of the $54,000,000 in notes for circulation has been issued under the net of July 12, 1870; which, on motion of Mr. MERRIAM, was referred to the Committee on. Banking and Currency, and ordered to be printed.</p>
+<hi rend="center"><head>HEIRS OF WILLIAM MORRISON.</head></hi>
+<p>The SPEAKER also, by unanimous consent, laid before the House a letter from the Secretary of War, in relation to the claim of the heirs of William Morrison for damage clone to property by the firing. of experimental guile ; which was referred to the Committee on Claims, and ordered to be printed.</p>
+<hi rend="center"><head>NAVY-YARDS ON THE MISSISSIPPI RIVER.</head></hi>
+<p>Mr. SHANKS. Mr. Speaker, I ask unanimous consent to present the proceedings of a mass Meeting of the working people of the State. of Indiana, hold at Indianapolis, April '23, 1874, in relation to the establishment of navy-yards upon the Mississippi River; and I move that they be referred to the Committee on Naval Affairs, and ordered to be printed.</p>
+<p>The motion was agreed to.</p>
+<p>Mr. SHANKS. I ask, by unanimous consent, the proceedings be published in the RECORD. They are not long.</p>
+<p>There was no objection.</p>
+<p>The proceedings were as follows:</p>
+<p><quote>Whereas the report of the Naval Committee of the House of Representatives made to that body on the 2d instant, and its accompanying papers, show that the chief cause of distress to the working people, both mechanical and agricultural, is due to the loss of carrying trade in American ships on the ocean, and that carrying tondo can only be reinstated by the means of building better ships than our tom-(Alton] ; that these means are in the establishment of iron ship-building works upon the Atlantic coast, and upon the Mississippi River, or one of its tributaries, and that " the creation of these yards will give to the United States&#8212;as similar creations have given to Great Britain&#8212;prosperity to its manufacturing and mechanic industries, the broadest and most economical means of cheap transportation for the productions of the farmer and planter, and secure constant employment to labor at remunerative wanes." And that said committee present the proposals of the Inter-national Steamship Company to create these yards without subsidy or money aid from the Government, and upon condition that Congress shall create a Unfit into which the said company shall pay 5 per cont. annually upon the work done, to form u sinking fund which cannot be deviated from in the paymemt of interest upon its bonds, or their final liquidation; and whereas those yards will revive mechanic industry and employment along the coasts, and throughout the navigable interior waters, and afford relief to the predator and consumer by the reduction on freights upon the articles of life support: Therefore,</quote></p>
+<p><quote><hi rend="italic">Resolved,</hi> That the thanks of the uvorhi.ug people and the farmers are due to the members of the Natal Committee of Congress for procuring these measures, which open again the avenues to profitable returns for honest labor, and that their thanks are hereby given by the working people here assembled.</quote></p>
+<p><quote><hi rend="italic">Resolved,</hi> That Congress is hereby earnestly urged to past, at the earliest day, the said bill reported by the committee, to accept the proposals for and establish the said iron ship and boat building yards.</quote></p>
+<quote><p>Resolved, That our fellow-workingmen throughout the country be, and they are hereby, invited to join in like action to this, that Congress any know the wishes of the working people, to secure that permanent employment which such yards cannot fail to create,</p></quote>
+<p><hi rend="italic">Resolved,</hi> That copies of this preamble and resolutions be sent to the President of the United States, and to the President of the Senate and the Speaker of the House of Representatives, with a request that the first be read to the Cabinet in council, and tiro others he read to the Senate and to the Rouse of Representatives. In accordance with the last resolution, I have the honor to forward the above copy, and to ask that the preamble and resolutions may be read in accordance with the expression given by the working people.</p>
+<p>With great respect, I have the honor to be, your obedient servant,</p>
+<hi rend="right"><signed>J. J. H. WRIGHT,
+President of the Meeting.</signed></hi>
+<hi rend="center"><head>ENROLLED BILL.</head></hi>
+<p>Mr. DARRALL, from the Committee on Enrolled Bills, reported that they had examined and found truly enrolled a bill (H. R. No. 420) to authorize the Secretary of the Interior to discharge certain obligations of the 'United States to the creditors of the Upper and Lower bands of Sioux Indians ; when the Speaker signed the same.</p>
+<p>And then, on motion of Mr. HOLMAN, (at ten minutes to five o'clock p. m.,) the House adjourned.</p>
+
+
+<head><hi rend="center">PETITIONS, ETC.</hi></head>
+<p>The following petitions, &c., we re presented at the Clerk's desk, under the rule, and referred as stated:</p>
+<p>By Mr. MAGEE : The petition of citizens of Cumberland County, Pennsylvania, for the repeal of the tax on notes put in circulation by banks doing business under State charters, to the Committee on Banking and Currency.</p>
+<p>By Mr. PERRY : The petition of S. H. Ransom &. Co., of Albany, New York, and others, for the substitution of specific for ad referent duties on tin plates, to the Committee on Ways and Means.</p>
+<p>By Mr. WOOD ; Statement of John M. Bradley, of Arkansas, iii relation to the election of Congressman at large from the State of Arkansas to the Forty-third Congress and the occupancy of the seat, to the Committee on Elections.</p>
+
+<head>IN SENATE.</head>
+<head type="sub">WEDNESDAY, May 13, 1874.</head>
+<p>Prayer by the Chaplain, Rev. BYRON SUNDERLAND, D. D.</p>
+<p>On motion of Mr. TIPTON, and by unanimous consent, the reading of the Journal of yesterday's proceedings was dispensed with.</p>
+<hi rend="center"><head>HOUSE BILLS REFERRED.</head></hi>
+<p>The following bills from the House of Representatives were sever-ally read twice by their titles, and referred to the Committee oil Public Lands:</p>
+<p>A. bill (H. R. No. 2019) to forfeit certain public lands granted to the Stockton and Copperopolis Railroad, in the State of California ; A bill (13. It. No. 3339) relating to the disposition of certain lands to be reclaimed in sections 14, 23, and 26, in township 16 north, of range 20, in the county of Sheboygan, in the State of Wisconsin; and A bill (H. R. No. 3250) to confirm pre-emption and homestead entries of public lands within the limits of railroad grants in cases where such entries have boon made under the regulations of the Land Department.</p>
+<p>The following bills were severally read twice by their titles, and referred as indicated below :</p>
+<p>The bill (H. R. No. 3006) authorizing the President to nominate Holmes Wickof an assistant surgeon in the Navy&#8212;to the Committee on Naval Affairs;</p>
+<p>The bill (H. R. No. 2545) ranking appropriations for the support of the Military Academy for the fiscal year ending Juno 30, 1875—to the Committee on Appropriations;</p>
+<p>The bill (H. R. No. 3338) to amend section 1 of an act entitled "An act to revise, consolidate, and amend the Army and Navy pension laws," approved March 3, 1873&#8212;to the Committee on Pensions;</p>
+<p>The bill (H. H. No. 3335) authorizing the Secretary of War to grant a right of way across a corner of the Fort Gratiot military reservation to the city railroad company, Port Huron, Michigan&#8212;to the Committee on Military Affairs; and</p>
+<p>The bill (H. R. No. 32.81) to amend the act entitled "An act to amend an act to aid in the construction of a railroad and telegraph lino from the Missouri River to the Pacific Ocean, and to secure to the Government the use of the same for postal, military, and other purposes," approved July 2, 1864&#8212;to the Committee op Railroads.</p>
+<p>The bill (H. R. No. 316B) making appropriations for the repair, preservation, and completion of certain public works for rivers and harbors, and for other purposes, was read twice by its title.</p>
+<p>Mr. CHANDLER. Let that bill be referred to the Committee on Commerce.</p>
+<p>Mr. MORRILL, of Maine. That bill, according to custom, goes to the Committee on Commerce in both branches, and afterward in the house it goes to the Committee on Appropriations ; and I desire it to</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0139.01.pdf">Veto messages of the Presidents of the United States, with the action of Congress thereon</ref>.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53, p. 389 (<title>Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 49TH CONGRESS,  2d Session.  SENATE.	Doc. No. 53. </fw>
+<hi rend="center"><head>VETO MESSAGES
+OF THE
+PRESIDENTS OF THE UNITED STATES,
+WITH
+THE ACTION OF CONGRESS THEREON.</head>
+<milestone unit="rule" />
+<head>COMPILED BY ORDER OF THE SENATE,
+BY BEN PERLEY POORE,CLERK OF PRINTING RECORDS.</head>
+<milestone unit="rule" />
+<head>WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1886.</head></hi>
+<fw> VETO MESSAGES. 389 </fw>
+<p> an article of commerce as much as any other product. The surplus will seek a foreign market as will any other surplus. The balance of trade
+has nothing to do with the question. Duties on imports being required in coin creates a limited demand for gold. About enough to satisfy that demand remains in the country. To increase this supply I see no way open but by the Government hoarding through the means above given, and possibly by requiring the national banks to aid.</p>
+<p>It is claimed by the advocates of the measure herewith returned that there is an unequal distribution of the banking capital of the country. I was disposed to give great weight to this view of the question at first; but, on reflection, it will be remembered that there still remains $4,000,000 of authorized bank-note circulation assigned to States having less than their quota not yet taken. In addition to this the States having less than their quota of bank circulation have the option of twenty-five millions more to be taken from those States having more than their proportion. When this is all taken up, or when specie payments are fully restored, or are in rapid process of restoration, will be the time to consider the question of " more currency."</p>
+<closer><hi rend="right"><signed>U. S. GRANT.</signed></hi></closer>
+<note place=""><p>The veto message was read, and it was ordered that the bill and accompanying message lie on the table and be printed. On the 28th of April the Senate proceeded to reconsider the bill, aid it was determined in the affirmative by a vote of 34 yeas against 30 nays, 8 Senators not voting Two-thirds of the Senators present not having voted in the affirmative, the Senate refused to pass the bill.</p></note>
+
+
+<head><p>ULYSSES S. GRANT.-XVIII.</head></hi><opener>
+<hi rend="center"><dateline>May 12, 1874.</dateline></hi>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I return herewith, without my signature, House bill 1331, entitled "An act for the relief of Joab Spenser and James It. Mead for supplies furnished the Kansas tribe of Indians." I withheld my approval of said bill for reasons which satisfy me the claim should not be allowed for the entire amount stated in the bill, and which are set forth in the letter of
+the Secretary of the Interior of the 7th instant, a copy of which, with the accompanying papers, is herewith transmitted.</p>
+<hi rend="right"><p>U. S. GRANT.</p></hi>
+<p>The veto message was read, and was, with the accompanying documents, referred to the Committee on Indian Affairs, and ordered to be printed.</p>
+</body></floatingText> -->
+
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

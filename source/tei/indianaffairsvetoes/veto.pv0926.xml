@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0926">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">926	S. 8540 (Fifty-ninth Congress, Second Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0926</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-ninth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>926	S. 8540 (Fifty-ninth Congress, Second Session &#8212; T. Roosevelt)</head>
+
+<p>To ratify a certain lease with the Seneca Nation of Indians.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 59th Congress had adjourned sine die on March 3, 1907.  The bill was presented to the President on March 2, 1907 (March 2, 1907, S. Jour., p. 436; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 39).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 197.</bibl>
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV0926.01.pdf">Journal of the Senate of the United States</ref>.  (1907).  59th Congress, 2nd session, p. 436 (<title>Serial Set</title> 5058).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+SENATE OF THE UNITED STATES
+OF AMERICA,
+BEING THE
+SECOND SESSION OF THE FIFTY-NINTH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 3, 1906.
+IN THE ONE HUNDRED AND THIRTY-FIRST YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+<milestone unit="rule" />
+<head>WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1907.</head><pb n="436" />
+<fw> 436	JOURNAL OF THE SENATE,	MARCH 2, </fw>
+<p>vations in Porto Rico established in pursuance of the act of July 1, 1902;</p>
+<p>S.8128, An net granting to the St. Johns Light and Power Company a right of way for street railroad purposes through the United States military reservation of Fort Marion, in St. Augustine, Fla., and through other Government property in said city;</p>
+<p>S.8189. An act granting to the St. Louis, Iron Mountain and Southern Railroad Company, a corporation, the right to construct, maintain, and operate a single-track railway across the lands of the United States in the southeast quarter of the north-east quarter of section 21, township 14 north. range 6 west of the fifth principal meridian, in the county of Independence and State of Arkansas, reserved for use in connection with the construction of Lock No. 1, upper White River, Arkansas;</p>
+<p>S. 8230. An act for the relief of Harold D. Childs;</p>
+<p>S. 8292. An act providing for the completion by the Secretary of War of a monument to the memory of the American soldiers who fell in the battle of New Orleans, at Chalmette, La., and making the necessary appropriation therefor;</p>
+<p>S.8299. An act to confer certain civic rights on the Metlakahtla Indians of Alaska;</p>
+<p>S.8303. An act to establish the Foundation for the Promotion of Industrial Peace;</p>
+<p>S. 8327. An act to provide for the establishment of an immigration station at Galveston, in the State of Texas, and the erection in said city, on a site to lie selected for said station, of a public building;</p>
+<p>S.8377. An act to amend an net entitled "An net permitting the building of a dam across the Mississippi River in the county of Morrison, State of Minnesota," approved June 4, 1906;</p>
+<p>S.8427. An net to annul certain titles to land acquired by judicial proceedings in the courts of the United States in Texas, and for other purposes;</p>
+<p>S. 8498. An act to amend sections 16, 17, and 20 of an act entitled "All act to enable the people of Oklahoma and of the Indian Territory to form a constitution and State government and be admitted into the Union on an equal footing with the original States; and to enable the people of New Mexico and of Arizona to form a constitution and State government and be admitted into the Union on au equal footing with the original States," approved June 16, 1906, and for other purposes;</p>
+<p>S.8526. An act permitting the erection of a dam across Coosa River, Ala., at the place selected for Lock No. 12 on said river;</p>
+<p>S. 8535. An act for the relief of certain white persons who intermarried with Cherokee citizens;</p>
+<p>S.8540. An act to ratify a certain lease with the Seneca Nation of Indians;</p>
+<p>S. 8508. An act granting an increase of pension to Rosanna A. May;</p>
+<p>S. 8580. An act granting land to Anna Johnson;</p>
+<p>S.8585. An net for the relief of Charles W. Spalding;</p>
+<p>S.8614. An act to amend an act entitled "An act to regulate the practice of medicine and surgery in the District of Columbia," approved June 3, 1896;</p>
+<p>S. 8622. An act granting an increase of pension to William N. Brunson;</p>
+<p>S. R. 29. Joint resolution authorizing the selection of a site and the erection of a pedestal for the Stephenson Grand Army memorial in Washington, D. C.;</p>
+<p>S. R. 92. Joint resolution to authorize the Secretary of War to permit Jose March Duplat to receive instruction at the Military Academy at West Point; and</p>
+<p>S. R. 98. Joint resolution granting permission to Rear-Admiral B. H. McCalla to accept a medal from the King of Great Britain and the Order of the Red Eagle from the Emperor of Germany.</p>
+
+<head>PRESIDENTIAL APPROVALS.</head>
+<p>A message from the President of the United States, by Mr. Latta, his secretary:</p>
+<p>Mr. President: The President of the United States approved and signed this day acts and joint resolutions as follows:</p>
+<p>S. R. 92. Joint resolution to authorize the Secretary of War to permit Jose March Duplat to receive instruction at the Military Academy at West Point;</p>
+<p>S.5660. An act for the relief of Capt. William N. Hughes;</p>
+<p>S.6729. An act authorizing the President to appoint Webb C. Maglathlin a second assistant engineer in the Revenue-Cutter Service;</p>
+<p>S. 7550. An act for the relief of Harry A. Young;</p>
+ 
+<p>S.8303. An net to establish the Foundation for the Promotion of Industrial Peace;</p>
+<p>S. 5809. An act for the relief of Larvan Gordon;</p>
+<p>S.6134. An act providing for the conveyance to the State of North Dakota of certain tracts of lands for the use and benefit of the North Dakota State Historical Society;</p>
+<p>S.8580. An act granting land to Anna Johnson; and</p>
+<p>S. 8622. An act granting an increase of pension to William N. Brunson.</p>
+<p>S. 7812. An act to amend section 591 of the Revised Statutes of the United States, relative to the assignment of district judges to perform the duties of a disabled district judge;</p>
+<p>S.8427. An act to annul certain titles to land acquired by judicial proceedings in the courts of the United States in Texas, and for other purposes;</p>
+<p><p>S.8189. An act granting to the St. Louis, Iron Mountain and Southern Railway Company, a corporation, the right to construct, maintain, and operate a single-track railway across the lands of the United States in the southeast quarter of the north-east quarter of section 21, township 14 north, range 6 west of the fifth principal meridian, in the county of Independence and State of Arkansas, reserved for use in connection with the construction of Lock No. 1, upper White River, Arkansas;</p></p>
+<p>S.8526. An act permitting the erection of a dam across Coosa River, Alabama, at the place selected for Lock No. 12 on said river;</p>
+<p>S. 6249. An act to provide for the establishment of an agricultural bank in the Philippine Islands;</p>
+<p>S. 8498. An act to amend sections 16, 17, and 20 of an act entitled "An act to enable the people of Oklahoma and of the Indian Territory to form a constitution and State government and be admitted into the Union on an equal footing with the original States; and to enable the people of New Mexico and of Arizona to form a constitution and State government and be admitted into the Union on an equal footing with the original States," approved June 16, 1906, and for other purposes;</p>
+<p>S.360. An act to relinquish the interest of the United States in and to certain land in the city of Pensacola. Fla., to the Right Rev. Edwin P. Allen, Catholic bishop of the diocese of Mobile, Ala., and his successors, in trust for the Catholic congregation of Pensacola, Fla.;</p>
+<p>S.1032. An act to aid in the completion of a monument at Monterey, Cal., to commemorate the taking possession of the Pacific coast by Commodore John D. Stoat, United States Navy;</p>
+<p>S. 5133. An act to promote the safety of employees and travelers upon railroads by limiting the hours of service of employees thereon;</p>
+<p>S.6447. An net to authorize the appointment of Acting Asst. Surg. George R. Plummer, United States Navy, as an assistant surgeon in the United States Navy;&#8212;</p>
+<p>S.6704. An act to amend an act entitled "An net for the relief of certain homestead settlers in the State of Alabama," approved February 24. 1905;</p>
+<p>S.7247. An act to provide for the establishment of an immigration station at New Orleans, in the State of Louisiana, and the erection in said city, on a site to be selected for said station, of a public building;</p>
+<p>S.8012. An act to erect a monument on the Tippecanoe battle ground, in Tippecanoe County. Ind.;</p>
+<p>S.8110. An net to readjust the boundaries of the naval reservations in Porto Rico established in pursuance of the act of July 1, 1902;</p>
+<p>S.8230. An act for the relief of Harold D. Childs;</p>
+<p>S.8292. An act providing for the completion by the Secretary of War of a monument to the memory of the American soldiers who fell in the battle of New Orleans at Chalmette, La., and making the necessary appropriation therefor;</p>
+<p>S.8299. An act to confer certain civic rights on the Metlakahtla Indians of Alaska;</p>
+<p>S.8327. An act to provide for the establishment of an immigration station at Galveston, in the State of Texas, and the erection in said city, on a site to be selected for said station, of a public building;</p>
+<p>S.8568. An act granting an increase of pension to Rosanna
+A. May;</p>
+<p>S. 8585. An net for the relief of Charles W. Spalding;</p>
+<p>S. 8614. An act to amend the act entitled "An act to regulate the practice of medicine and surgery In the District of Columbia," approved June 3, 1896;</p>
+<p>S. R. 29. Joint resolution authorizing the selection of a site and the erection of a pedestal for the Stephenson Grand Army memorial in Washington, D. C.;</p>
+<p>S. R. 98. Joint resolution granting permission to Rear-Admiral
+B. H. McCalla to accept a medal from the King of Great Britain and the Order of the Red Eagle from the Emperor of Germany;</p>
+</body></floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV0926.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 39 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  2d Session	HOUSE OF REPRESENTATIVES J DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> REPORT ON POCKET VETO	39 </fw><pb n="39" />
+<p>H. R. 15573&#8212;received Feb. 28. On bill is written in ink:</p>
+<p> Veto</p>
+<p>H. R. 16361&#8212;received Feb. 28. On bill is written in ink: </p>
+<p>Not sign</p>
+<p>H. R. 16445&#8212;received Feb. 28. No marks by the President, but attached to the bill is a report of the Commissioner of Pensions that the beneficiary had died.</p>
+<p>The 58th Congress, third session, adjourned March 4, 1905, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 39, pt. 4, pp. 4028, 4041) President Roosevelt retained unsigned S. 5108, which is stamped:</p>
+<p>White House received Mar 3, 1905</p>
+<p>and H. R. 11204, which has no date of receipt stamped on it. Both bills are now at the Executive Offices.</p>
+<p>The 59th Congress, first session, adjourned June 30, 1906. (<title>Cong. Rec.</title>, vol. 40, pt. 10, pp. 9802, 9817) President Roosevelt retained unsigned six Senate and three House bills. They are now at the Executive Offices.</p>
+<p>S. 1812, S. 2188, S. 4774, H. R. 12080 and H. R. 15673 are undated.</p> 
+<p>S. 4197 is stamped:</p>
+<p>The White House received Jun. 29, 1906 On the bill is penciled: </p>
+<p>Pocket Veto.</p>
+<p>S. 4965 is undated. Attached to the bill is a slip on which is written:</p>
+<p>Pocket Veto.</p>
+<p>S. 6355 was received June 29. Attached to it is a slip of paper on which is written:</p>
+<p>Let it die.</p>
+<p>H. R. 7226 was received June 28. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket Veto.</p>
+<p>The 59th Congress, second session, adjourned March 4, 1907, the Senate and House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 41, pt. '5, pp. 4658, 4672) President Roosevelt retained unsigned two Senate and four House bills, which are now at the Executive Offices.</p>
+<p>S. 4964 was received Mar. 2. On the bill itself, in ink, in the President's handwriting, is word "Veto."</p>
+<p>S. 8540 was received Mar. 2. On the bill, in ink, in the President's handwriting, are the words "Pocket veto."</p>
+<p>H. R. 3498 was received February 28, 1907.</p>
+<p>H. R. 17415 is not stamped with date of receipt. On the bill itself, in ink, in the President's handwriting, are the words "Pocket veto." H. R. 18854 was received February 22.
+H. R. 19500 is undated.</p>
+<p>The 60th Congress, second session, adjourned March 4, 1909, the Senate legislative day of March 3 and the House legislative day of February 23. (Cong Rec., vol. 43, pt. 4, pp. 3825, 3837) President Roosevelt retained unsigned ten Senate and seven House bills. They</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

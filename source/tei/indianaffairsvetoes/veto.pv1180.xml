@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1180">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1180	S. 3626 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1180</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-third Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1180	S. 3626 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>Referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 73rd Congress had adjourned sine die on June 18, 1934.  The bill was presented to the President on June 18, 1934 (78 <title>Cong. Rec.</title> 12451; <hi rend="italics">see also</hi> 78 <title>Cong. Rec.</title> 12457).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 255.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1180.01.pdf"><title>Congressional Record</title> 78, 12451</ref> (1934).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1934	CONGRESSIONAL RECORD SENATE	12451 </fw>
+<p>S. 2619. An act for the relief of E. Clarence Ice;</p>
+<p>S.2620. An act for the relief of N. W. Carrington and J. E. Mitchell;</p>
+<p>S. 2672. An act for the relief of Mabel S. Parker;</p>
+<p>S. 2720. An act for the relief of George M. Wright; </p>
+<p>S. 2744. An act for the relief of Anna Carroll Taussig;</p>
+<p>S. 2752. An act for the relief of the legal beneficiaries and
+heirs of Mrs. C. A. Toline;</p>
+<p>S.2806. An act to confer jurisdiction on the Court of Claims to hear and determine the claim of Carlo de Luca;</p>
+<p>S. 2810. An act for the relief of Alice F. Martin, widow, and two minor children;</p>
+<p>S. 2872. An act for the relief of Marie Louise Belanger; </p>
+<p>S. 2873. An act for the relief of Stella D. Wickersham;</p> 
+<p>S. 2906. An act for the relief of Ransome Cooyate;</p>
+<p>S. 2972. An act for the relief of John N. Knauff Co., Inc.; </p>
+<p>S. 3016. An act for the relief of the Dongji Investment Co.,
+Ltd.;</p>
+<p>S.3092. An act to confer jurisdiction upon the Court of Claims to hear, determine, and render judgment upon the claim of the heirs of James Taylor, deceased Cherokee Indian, for the value of certain lands now held by the United States;</p>
+<p>S. 3122. An act for the relief of H. N. Wilcox;</p>
+<p>S. 3156. An act for the relief of Mary Angela Moert; </p>
+<p>S. 3160. An act for the relief of Charles E. Secord; </p>
+<p>S. 3192. An act for the relief of Arthur Hansel;</p>
+<p>S. 3248. An act for the relief of J. B. Walker;</p>
+<p>S. 3264. An act for the relief of Muriel Chrichton; </p>
+<p>S. 3335. An act for the relief of Joanna A. Sheehan;</p>
+<p>S. 3394. An act for the relief of the Grier-Lowrance Construction Co.;</p>
+<p>S. 3486. An act for the relief of George L. Rulinson; </p>
+<p>S. 3499. An act for the relief of Michael Ilitz;</p>
+<p>S.3516. An act for the relief of the Morgan Decorating Co.;</p>
+<p>S. 3517. An act authorizing the Court of Claims to hear, consider, adjudicate, and enter judgment upon the claims against the United States of J. A. Tippit, L. P. Hudson, Chester Howe, J. E. Arnold, Joseph W. Gillette, J. S. Bounds, W. N. Vernon, T. B. Sullivan, J. H. Neill, David C. McCallib, J. J. Beckham, and John Toles;</p>
+<p>S.3533. An act to amend the act entitled "An act creating the Mount Rushmore National Memorial Commission and defining its powers and purposes ", approved February 25, 1929, and for other purposes;</p>
+<p>S. 3562. An act for the relief of Robert Rayl; and S. 3656. An act for the relief of Robert N. Stockton. </p>
+<p>On June 22, 1934:</p>
+<p>S. 1382. An act for the relief of Uldric Thompson, Jr.</p>
+<head>APPROVALS OF BILLS AND JOINT RESOLUTIONS</head>
+<p>The President of the United States, subsequent to the final adjournment of the second session of the Seventy-third Congress, informed the Secretary of the Senate that he had approved acts and joint resolutions, as follows:</p>
+<p>On June 18, 1934:</p>
+<p>S. 852. An act to amend section 24 of the Trading With the Enemy Act, as amended;</p>
+<p>S. 1735. An act to amend an act approved May 14, 1926 (44 <title>Stat.</title> 555), entitled "An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims ";</p>
+<p>S. 2138. An act for the relief of Charles J. Webb Sons Co., Inc.;</p>
+<p>S.2248. An act to protect trade and commerce against interference by violence, threats, coercion, or intimidation;</p>
+<p>S. 3147. An act to amend the act approved June 28, 1932 (47 <title>Stat.</title>L. 337);</p>
+<p>S. 3151. An act to convey to the King Hill Irrigation District, State of Idaho, all the interest of the United States in the King Hill Federal reclamation project, and for other purposes;</p>
+<p>S. 3230. An act creating the Florence Bridge Commission and authorizing said commission and its successors and assigns to construct, maintain, and operate a bridge across the Missouri River at or near Florence, Nebr.;</p>
+<p>S. 3443. An act to provide for the creation of the Pioneer National Monument in the State of Kentucky, and for other purposes;</p>
+<p>S. 3541. An act to authorize production credit associations to make loans to oyster planters;</p>
+<p>S.3545. An act to extend the times for commencing and completing the construction of a bridge across the St. Clair River at or near Port Huron, Mich.;</p>
+<p>S. 3645. An act to conserve and develop Indian lands and resources; to establish a credit system for Indians; to provide for higher education for Indians; to extend toward Indians the right to form business and other organizations; and for other purposes;</p>
+<p>5.3742. An act granting the consent of Congress to the State Board of Public Works of the State of Vermont to construct, maintain, and operate a toll bridge across Lake Champlain at or near West Swanton, Vt.;</p>
+<p>S. 3765. An act to enable the Postmaster General to with-hold commissions on false returns made by postmasters;</p>
+<p>S. 3766. An act to amend the act entitled "An act authorizing the Postmaster General to adjust certain claims of postmasters for loss by burglary, fire, or other unavoidable casualty", approved March 17, 1882, as amended;</p>
+<p>S. 3779. An act to amend section 4 of "An act to amend an act entitled `An act to establish a uniform system of bankruptcy throughout the United States ', approved July 1, 1898, and acts amendatory thereof and supplementary thereto ", approved June 7, 1934;</p>
+<p>H.R. 206. An act for the relief of Pierre E. Teets; H.R. 452. An act for the relief of Laura B. Crampton;</p>
+<p>H.R. 471. An act for the relief of Physicians and Surgeons Hospital, Ltd.;</p>
+<p>H.R. 529. An act for the relief of Morris Spirt;</p>
+<p>H.R. 1306. An act for the relief of Clarence A. Wimley; </p>
+<p>H.R. 1308. An act for the relief of John Parker Clark, Sr.; </p>
+<p>H.R. 1345. An act for the relief of John Parker Clark, Jr.; </p>
+<p>H.R. 1792. An act for the relief of Michael Petrucelli; </p>
+<p>H.R. 2038. An act for the relief of Jeanie G. Lyles; </p>
+<p>H.R. 2326. An act for the relief of Emma R. H. Taggart; </p>
+<p>H.R. 2669. An act for the relief of Paul I. Morris; </p>
+<p>H.R. 3176. An act for the relief of Ernest Elmore Hall; </p>
+<p>H.R. 3318. An act to reimburse Earl V. Larkin for injuries
+sustained by the accidental discharge of a pistol in the hands of a soldier in the United States Army;</p>
+<p>H.R. 3606. An act for the relief of William Sheldon; </p>
+<p>H.R. 3748. An act for the relief of Mary Orinski;</p>
+<p>H.R. 3912. An act for the relief of Roland Zolesky; </p>
+<p>H.R. 4082. An act for the relief of John J. Corcoran; </p>
+<p>H.R. 4253. An act for the relief of Laura Goldwater; </p>
+<p>H.R. 4387. An act for the relief of Mary A. Rockwell; </p>
+<p>H.R. 4446. An act for the relief of E. E. Hall;</p>
+<p>H.R. 4659. An act for the relief of Carleton-Mace Engineering Corporation;</p>
+<p>H.R. 4670. An act for the relief of Lyman D. Drake, Jr.; </p>
+<p>H.R. 5584. An act for the relief of William J. Kenely;</p>
+<p>H.R. 5665. An act authorizing the control of floods in the Salmon River, Alaska;</p>
+<p>H.R. 5809. An act to provide compensation for Robert Rayford Wilcoxson for injuries received in citizens' military training camp;</p>
+<p>H.R. 6324. An act for the relief of Mabel Carver;</p>
+<p>H.R. 6350. An act for the relief of Arthur Smith; </p>
+<p>H.R. 6696. An act for the relief of William T. Roche;</p>
+<p>H.R. 6898. An act authorizing the city of Atchison, Kans., and the county of Buchanan, Mo., or either of them, or the States of Kansas and Missouri, or either of them, or the highway departments of such States, acting jointly or severally, to construct, maintain, and operate a free highway bridge across the Missouri River at or near Atchison, Kans.;</p>
+<p>H.R. 6998. An act for the relief of Capt. Frank J. McCormack;</p>
+<p>H.R. 7067. An act for the relief of St. Anthony's Hospital at Michigan City, Ind.; Dr. Russell A. Gilmore; Emily Molzen, nurse; and the Hummer Mortuary;</p>
+<p>H.R. 7121. An act authorizing the Secretary of the Treasury to pay Dr. A. W. Pearson, of Peever, S.Dak., and the</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1180.02.pdf"><title>Congressional Record</title> 78, 12457</ref> (1934).</bibl>
+</div1>
+<!-- <floatingText>
+<body>
+<head>1934	CONGRESSIONAL RECORD SENATE	12457</head>
+<p>On June 27, 1934, the following bills and joint resolutions were likewise disapproved:</p>
+<p>H.R. 3595. An act for the relief of St. Ludgers Catholic Church of Germantown, Henry County, Mo.</p>
+<p>"Seventy years have elapsed since the end of the Civil War. During this period no Congress has ever seen fit either to grant an award of this claim or to refer it to the Court of Claims. To approve this bill would open up many claims for damages alleged to have been caused by Union forces in the Civil War."</p>
+<p>HR. 8513. An act to authorize the coinage of 50-cent pieces in commemoration of the boyhood home of Gen. Thomas J. (Stonewall) Jackson.</p>
+<p>"Although I have approved several bills to authorize issuing 50-cent pieces to commemorate anniversaries of the founding of States, I have* announced that hereafter such coinage should be greatly limited.</p>
+<p> While the boyhood home of General Jackson is of great interest to all Americans, I do not believe that a special coinage of 50-cent pieces is justified."</p>
+<p>H.R. 8644. An act to provide warrant officers of the Coast Guard parity of promotion with warrant officers of the Navy.</p>
+<p>" The Treasury Department is definitely opposed to the approval of this measure. The question rests primarily on the need of the Coast Guard for additional warrant officers. The Secretary of the Treasury states categorically, 'If the bill was enacted the number of chief warrant officers appointed would far exceed the number needed for the proper conduct of the Coast Guard.' In view of this there is no question that disapproval is called for."</p>
+<p>S. 1103. An act to authorize the Secretary of the Navy to proceed with certain public works at the naval air station, Pensacola, Fla.</p>
+<p>" This bill authorizing an expenditure of over $5,000,000 for Navy aeronautical purposes is premature. Final decision as to priority of Navy flying developments has not yet been made. If it seems advisable to include Pensacola next winter, a request for an adequate appropriation and not merely an authorization will then be made."</p>
+<p>S.3626. An act referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+<p>"While the purpose of this is good, it does not cure the objections raised by me in the veto of a similar bill, S. 326, on May 10, 1934."</p>
+<p>S. 3780. An act for the relief of persons engaged in the fishing industry.</p>
+<p>"This bill is unnecessary because the act authorizing loans to industries includes the fishing industry."</p>
+<p>S.3092. An act to confer jurisdiction upon the Court of Claims to hear, determine, and render judgment upon the claim of the heirs of James Taylor, deceased Cherokee Indian, for the value of certain lands now held by the United States.</p>
+<p>"Disapproved because this bill ties the hands of the Court of Claims and prevents an equitable determination."</p>
+<p>S. 854. An act for the relief of the Ingram-Day Lumber Co.</p>
+<p>"Disapproved because no provision is made for the Government's counterclaim."</p>
+<p>H.R. 5543. An act for the relief of T. Brooks Afford.</p>
+<p>"A portion of this sum appears justifiable, but not the whole amount."</p>
+<p>S. 1287. An act for the relief of Leonard Theodore Boice.</p>
+<p>"The record is so clear in this case that it would not be
+just to attempt to change it by congressional action." </p>
+<p>S. 3499. An act for the relief of Michael Ilitz.</p>
+<p>"In spite of this man's excellent record as a soldier and civil employee, this bill would single him out for special reward. It must, therefore, be disapproved."</p>
+<p>S. 1654. An act for the relief of George Yusko.</p>
+<p>"I cannot feel that the circumstances disclosed are sufficiently extenuating to justify the approval of this bill."</p>
+<p>S.2810. An act for the relief of Alice F. Martin, widow, and two minor children.</p>
+<p>"This bill is similar to H.R. 6246 and must be disapproved for the same reasons given in my veto message of June 16, 1934."</p>
+<p>S. 1992. An act for the relief of Arthur R. Lewis.</p>
+<p>"I cannot agree that the 'extenuating circumstances' mentioned in the committee report justify changing the record."</p>
+<p>S. 3156. An act for the relief of Mary Angela Moert.</p>
+<p>"This bill departs from a long-established, sound policy of the War Department."</p>
+<p>S. 527. An act for the relief of Lillian Morden.</p>
+<p>"There must have been thousands of similar cases of influenza during the World War. I cannot open up this broad field."</p>
+<p>S. 2227. An act for the relief of Harold S. Shepardson.</p>
+<p>"Disapproved because the statements do not seem to me to justify or condone the offense."</p>
+<p>H.R. 3726. An act to grant a patent to Albert M. Johnson and Walter Scott.</p>
+<p>"While I am in sympathy with the purpose of this bill, I must disapprove it because it does not properly safeguard the Government."</p>
+<p>S.3516. An act for the relief of the Morgan Decorating Co.</p>
+<p>"Disapproved because I do not believe that an obligation of the Federal Government has been sufficiently established."</p>
+<p>S. 60. An act for the relief of Richard J. Rooney.</p>
+<p>"From a careful perusal of Senate Report 473, I cannot bring myself to the conclusion that this claim for $75 has sufficient merit."</p>
+<p>S. 2744. An act for the relief of Anna Carroll Tausssig.</p>
+<p>"This case has been before Congress in the form of a relief bill for approximately 15 years. It never received favorable consideration. Most of the postal records in the case were destroyed by the authority of Congress as useless papers. I presume that former Congresses were convinced that the claims had no merit."</p>
+<p>S. 3486. An act for the relief of George L. Rulison.</p>
+<p>"This bill violates the general rule that no officer or employee can create a valid claim by incurring obligations which he is not legally required or authorized to incur."</p>
+<p>S.J. Res. 106. Joint resolution authorizing loans to fruit growers for rehabilitation of orchards during the year 1934.</p>
+<p>"There is no necessity for this bill because its purpose can be accomplished with funds appropriated for the relief of stricken agricultural areas and made available by me in the Farm Credit Administration."</p>
+<p>H.R. 4554. An act to amend section 4808 of the Revised Statutes (U.S.C., title 24, sec. 3) to prevent discriminatory reductions in pay of the retired personnel of the Navy and Marine Corps.</p>
+<p>"There is no more reason to relieve officers and men on the retired list from the assessment of 20 cents per month for the Naval Hospital fund. than there would be to relieve those on the active list."</p>
+<p>H.R. 4447. An act for the relief of Vertner Tate.</p>
+<p>"This proposed bill is not desirable for the reason that it would set an unwise precedent."</p>
+<p>S. 2672. An act for the relief of Mabel S. Parker.</p>
+<p>"This bill is disapproved because it would create the precedent of granting relief upon the ground of ignorance of the law."</p>
+<p>H.R. 8688. An act for the relief of Stella E. Whitmore.</p>
+<p>"This bill is disapproved because relief can be granted upon proper application to the Treasury Department and also because of technical defects."</p>
+<p>S. 1508. An act providing for the final enrollment of the Indians of the Klamath Indian Reservation in the State of Oregon.</p>
+<p>"This bill improperly excludes certain Indians from existing rights."</p>
+<p>S. 3185. An act to amend the Agricultural Adjustment Act, as amended, with respect to farm prices.</p>
+<p>"This bill is disapproved because of the difficulties which have been pointed out in memoranda from the Department of Justice, the Department of Agriculture, and the Agricultural Adjustment Administration."</p>
+<p>H.R. 9145. An act to authorize the attendance of the Marine Band at the National Encampment of the Grand Army of the Republic to be held at Rochester, N.Y., August the Grand Army of the Republic to be held at Rochester, N.Y., August </p>
+</body></floatingText> -->
+
+
+</body>
+</text>
+</TEI>

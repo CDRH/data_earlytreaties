@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1510">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1510	H.R. 1177 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1510</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1510	H.R. 1177 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</head>
+
+
+<p>For the relief of Bessie Bear Robe.</p>
+
+<p>Pocket veto occurred after the 1st session of the 76th Congress had adjourned sine die on August 5, 1939.  The bill was presented to the President on August 3, 1939 (84 <title>Cong. Rec.</title> 10979; <hi rend="italics">see also</hi> 84 <title>Cong. Rec.</title> 11225).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 315.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1510.01.pdf"><title>Congressional Record</title> 84, 10979</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<head>1939	CONGRESSIONAL RECORD HOUSE	10979</head>
+<p>produce milk for 17 cents. If not, why is he selling to these particular dairies? The point I am trying to make is that they are getting on an average four and one-quarter cents for the milk sold to Richfield and Sylvan Seal. If the Maryland and Virginia producers, these limousine farmers, can sell milk to Richfield and Sylvan Seal for 4 1/2 cents a quart, then why can they not sell it to the little children on the streets who are white and anemic? This same group, this same outfit, these same vultures, are denying milk to these little tots right today. They say to them, "You are going to pay 14 cents a quart or we are going to let you rot on the streets."</p>
+<p>Mr. Speaker, I hope and feel that the Members of this House are very much in sympathy with me in trying to break down this trade barrier that lies around the District of Columbia. I hope that when we come back next year we can prove to the people that we are sincere, that we realize and appreciate the plight in which they find themselves, and that we will say to the people who live in Washington, "We are going to bring down the price of milk," in spite of the ruthless tactics of Mr. Derrick, who heads the Maryland-Virginia Association, and who has been successful in selling himself and his racket to these producers at the expense of a lot of anemic little children and poor families in the District of Columbia. I do hope the people of Washington will help me in this fight by buying milk only from the independent dairies in Washington, who are giving their assistance to the people in this fight for lower-price milk. </p>
+<note>[Applause.]</note>
+<note>[Here the gavel fell.]</note>
+<head>EXTENSION OF REMARKS</head>
+<p>Mr. DEMPSEY. Mr. Speaker, I ask unanimous consent to extend my own remarks in the RECORD and include therein the proceedings on the occasion of the dedication of the radio press <p>gallery.</p>
+The SPEAKER pro tempore. Is there objection to the request of the gentleman from New Mexico?</p>
+<p>There was no objection.</p>
+<p>Mr. MUNDT. Mr. Speaker, I ask unanimous consent to extend my own remarks in the RECORD and include therein a radio broadcast under the auspices of the American Wildlife Institute.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from South Dakota?</p>
+<p>There was no objection.</p>
+<p>Mr. O'CONNOR, Mr. VOORHIS of California, and Mr. SMITH of Ohio asked and were given permission to extend their own remarks in the RECORD.</p>
+<p>Mr. MARCANTONIO. Mr. Speaker, I ask unanimous consent to revise and extend the remarks I made earlier in the day.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from New York?</p>
+<p>There was no objection.</p>
+<head>PRICES FOR FARM CROPS</head>
+<p>Mr. CASE of South Dakota. Mr. Speaker, I ask unanimous consent to address the House for 2 minutes.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from South Dakota?</p>
+<p>There was no objection.</p>
+<p>Mr. CASE of South Dakota. Mr. Speaker, the tragedy of an attempt by the Federal Farm Board to support farm prices by buying surpluses is history. It now appears that history may repeat that tragedy in the loans of the Commodity Credit Corporation.</p>
+<p>It must be apparent that the farm problem will not be solved until we establish a self-creating and self-financing market for surplus farm products. Such a solution is possible. Perishable surplus crops can be converted into fuel alcohol to supply the demands of a motor age for an improved motor fuel&#8212;an alcohol-blend gasoline.</p>
+<p>In this way oats and corn that horses no longer eat will be consumed by the engines that have replaced them. In this way acres producing surplus cotton can grow sorghums, and sorghums will make motor fuel.</p>
+<p>Such a solution will pay its own way and injure nobody. The increased purchasing power of the farmer will increase the demand for motor fuel and offset any shrinkage in gasoline consumption, and at the same time protect our diminishing oil reserves against the increased rate of consumption.</p>
+<p>Mr. Speaker, I ask unanimous consent to extend my remarks and include therein the outline of a measure to accomplish this purpose, which I propose to introduce.</p>
+<p>The SPEAKER pro tempore. Is there objection to the request of the gentleman from South Dakota?</p> 
+<p>There was no objection.</p>
+<head>LEAVE OF ABSENCE</head>
+<p>By unanimous consent, leave of absence was granted to Mr. GREGORY, for Friday and Saturday, on account of important business.</p>
+<head>SENATE BILLS REFERRED</head>
+<p>Bills of the Senate of the following titles were taken from the Speaker's table and, under the rule, referred as follows:</p>
+<p>S. 1710. An act to provide for the cancelation of certain notes acquired by the Farm Credit Administration as a result of the activities of the Federal Farm Board; to the Committee on Agriculture.</p>
+<p>S. 2654. An act to amend subsection (n), section 77, of the Bankruptcy Act, as amended, concerning payment of preferred claims; to the Committee on the Judiciary.</p>
+<head>SENATE ENROLLED BILLS SIGNED</head>
+<p>The SPEAKER announced his signature to enrolled bills of the Senate of the following titles:</p>
+<p>S. 6. An act to return a portion of the Grand Canyon National Monument to the public domain;</p>
+<p>S. 474. An act to amend section 92 of the Judicial Code to provide for a term of court at Kalispell, Mont., and, subject to the recommendation of the Attorney General of the United States, to permit the provision of rooms and accommodations for holding court at Livingston and Kalispell, Mont.;</p>
+<p>S. 809. An act for the relief of Jessie M. Durst;</p>
+<p>S.839. An act to amend the Retirement Act of April 23, 1904;</p>
+<p>S. 891. An act for the relief of J. C. Grice;</p>
+<p>S. 1092. An act for the relief of Sigvard C. Fore;</p>
+<p>S. 1394. An act for the relief of Johannes or John, Julia, Michael, William, and Anna Kostiuk;</p>
+<p>S. 1429. An act for the relief of Earl J. Reed and Giles J. Gentry;</p>
+<p>S. 1816. An act for the relief of Montle S. Carlisle;</p> 
+<p>S. 1821. An act for the relief of Harry K. Snyder; </p>
+<p>S. 1905. An act for the relief of Elizabeth E. Burke; </p>
+<p>S.2056. An act for the relief of N. F. Clower and Elijah
+Williams; and</p>
+<p>S. 2408. An act for the relief of Russell B. Hendrix.</p>
+<head>BILLS AND JOINT RESOLUTIONS PRESENTED TO THE PRESIDENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on this day present to the President, for his approval, bills and joint resolutions of the House of the following titles:</p>
+<p>H. R. 543. An act for the relief of Imogene Enley;</p>
+<p><p>H. R. 1177. An act for the relief of Bessie Bear Robe; </p>
+H. R. 1436. An act for the relief of William H. Keesey; </p><p>H. R. 1881. An act for the relief of Anne Boice;</p>
+<p>H. R. 2102. An act for the relief of Ada Fuller;</p>
+<p>H. R. 2178. An act to amend sections 6 and 7 of the act entitled "An act for the retirement of employees of the Alaska Railroad, Territory of Alaska, who are citizens of the United States," approved June 29, 1936;</p>
+<p>H. R. 2346. An act for the relief of Virgil Kuehl, a minor; </p>
+<p>H. R. 2514. An act for the relief of G. E. Williams;</p>
+<p>H. R. 2610. An act for the relief of G. W. Netterville;</p>
+<p>H. R. 2642. An act to amend the act entitled "An act for the retirement of employees of the Alaska Railroad, Territory of Alaska, who are citizens of the United States," approved June 29, 1936, and for other purposes;</p>
+<p>H. R. 2738. An act providing for the disposition of certain Klamath Indian tribal funds;</p>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1510.02.pdf"><title>Congressional Record</title> 84, 11225-11226</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1939	CONGRESSIONAL RECORD HOUSE	11225 </fw>
+<p>The purpose of the bill is to place Miss Hunter, a former teacher in the public schools of the District of Columbia, on the list of retired teachers, and to pay her, from the teachers' retirement fund, an annuity computed as provided by existing law relating to retirement of teachers in the District of
+Columbia public schools.</p>
+<p>This teacher entered the service on February 5, 1895, and
+her service was terminated by voluntary resignation on April 12, 1919, prior to the establishment of a retirement system
+for District teachers by the Teachers' Retirement Act of January 15, 1920, which became effective on March 1, 1920.</p>
+<p>The report on this bill, made by the District Commissioners to the chairman of the House District Committee, states that there are a number of former teachers now living in the District of Columbia who are in the same position as Miss Hunter, in that they retired from the service prior to the passage of the Teachers' Retirement Act, have not contributed to the
+teachers' retirement fund, and are not, therefore, entitled to retirement benefits. There are likewise other former employees of the District, as well as the Federal Government, who resigned prior to the establishment of a retirement system for such employees, and are, therefore, excluded from retirement benefits.</p>
+<p>In spite of the apparently excellent service record of the employee in this case, I do not feel that I would be justified in approving a bill which would single her out for preferred consideration to the exclusion of other cases of a similar
+character.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, August 7, 1939.
+</dateline>
+</closer>
+<milestone unit="rule" />
+<p>H. R. 5923.</p> <p> I have withheld my approval from H. R. 5923, a bill for the relief of Simon A. Brieger as legal representative of the estate of Thomas Gerald Brieger, a deceased minor.</p>
+<p>The bill provides for the payment of $5,000 in full settlement of a claim against the United States on account of the death of a 4-year-old child. While I do not think that the record in the case establishes any high degree of negligence on the part of the employee who was driving the truck, my main objection to the bill is what I consider the excessive amount of the proposed settlement:</p>
+<p>I have before me H. R. 5259, for the relief of Mrs. Layer
+Taylor, in settlement of her claim against the United States for the death of an 18-year-old son. The amount involved
+in that claim is $1,360. The Congress estimated the probable loss of income for a period of 3 years, and made an allowance for medical and funeral expenses and for mental suffering and loss of companionship. It seems to me that the
+Congress adjudicated this claim on an equitable basis.</p>
+<p>In another bill now before me, H. R. 5698, for the relief
+of H. H. Rhyne, Jr., the sum of $3,000 is provided in settlement for the death of his 9-year-old daughter.</p>
+<p>In these circumstances, I consider the proposed settlement
+of $5,000 for the death of the 4-year-old son of Mr. Brieger as excessive, and therefore feel constrained to withhold approval of this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed>
+<dateline>THE WHITE HOUSE, August 7, 1939.</dateline></closer>
+<p>H. R. 6899. </p><p>I have withheld my approval of H. R. 6899, Seventy-sixth Congress, an act granting pensions to certain veterans of the Civil War.</p>
+<p>This bill provides:</p>
+<quote>
+<p>That the Administrator of Veterans' Affairs be, and he is hereby, authorized and directed to place on the pension rolls, subject to the provisions and limitations of the pension laws</p>
+<p>The name of Alfred Daugherty, late of Capt. Richard F. Taylor's Company C, Middle Green River Battalion, Kentucky State Troops, and pay him a pension at the rate of $50 per month.</p>
+<p>The name of William H. Jones, late of Capt. John R. Curry's Company D, South Cumberland Battalion, Kentucky State Troops, and pay him a pension at the rate of $50 per month.</p>
+</quote>
+<p>The above-described persons are ineligible for military pension from the Federal Government because of the fact that
+they were never mustered into the Federal service, their
+entire period of duty having been performed for the State of Kentucky.</p>
+<p>A number of semimilitary companies were organized in Kentucky during the last year of the Civil War to take the place of the regular State militia, which had been mustered into the Federal service. These companies were organized under the authority of the State for the sole purpose of affording police protection to life and property in certain parts of the State during the absence of the regular State military forces. They were not mustered into the Federal service and rendered no military service in connection with the Civil War.</p>
+<p>Approval of the enrolled bill would have the effect of granting benefits which are denied in other cases where facts are similar. Since there are no circumstances which would warrant granting preferential treatment to the persons named in the bill, I find myself unable to give my approval to this
+enactment.</p>	<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 7, 1939.</dateline></closer>
+<p>
+On August 9, 1939:</p>
+<p>H. R. 4831.</p> <p>I have withheld approval from H. R. 4331, a bill authorizing the Secretary of the Interior to pay salaries and expenses of the chairman, secretary, and interpreter of the Menominee General Council, members of the Menominee advisory council, and official delegates of the Menominee Tribe.</p>
+<p>This measure authorizes an annual expenditure from the tribal funds of the Menominee Indians in Wisconsin without further Budget or congressional review. It seems to me that the bill is contrary to one of the principal purposes of the Permanent Appropriation Repeal Act of 1934, that is, to bring before the Congress the estimated expenditures for a given agency. Moreover, a provision is contained in the Interior Department Appropriation Act, 1940, for defraying the expenses of tribal councils or committees thereof. It seems to me that annual expenditures from Indian tribal funds should be scrutinized by the Congress with the same care that proposed expenditures from the Federal Treasury are examined.</p>
+<p>For the foregoing reasons, I have withheld approval of this
+bill.</p>
+<closer><signed>	FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 9, 1939.</dateline></closer>
+<p>H. R. 5743. I have withheld my approval of H. R. 5743 entitled, "An act for the relief of Walter C. Holmes."</p>
+<p>The indebtedness to the United States represented in this bill resulted from the payment to Mr. Holmes of the compensation of two positions, covering the same period of time, in contravention of the act of May 10, 1916, as amended. In view of the correspondence between the Lighthouse Service and Mr. Holmes regarding the position of lamplighter, I am of the opinion that Mr. Holmes could not have been completely ignorant of the existence of a limitation on the compensation which a Government employee occupying more than one position could receive, even if he were not aware of the actual amount of such limitation. This being so, he was under a duty to inquire into the matter when his compensation from the Coast Guard was increased. A disregard of the law in this case, if condoned by the relief here sought, would result in the establishment of a precedent tending to induce disregard of this and other laws enacted for the purpose of limiting and restricting the expenditure of public funds.</p>
+<p>For these reasons I am unable to approve this measure. </p><closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 9, 1939.</dateline></closer>
+<p>H. R. 1177. I am withholding approval from H. R. 1177, a bill for the relief of Bessie Bear Robe. The bill provides the payment of $3,000 to the claimant by reason of the death of her son.</p>
+<p>On page 5 of House Report 750, Seventy-sixth Congress, on this bill is a reproduction of a claim for damages signed by Bessie Bear Robe. The amount stated in the claim is $2,000. Hospitalization and burial expenses in connection with the son of Mrs. Bear Robe were borne by the Government. No reason is given for  the enactment of legislation authorizing
+<pb n="2" />
+an amount in excess of the sum stated by the claimant as being satisfactory to her.</p>
+<p>The bill provides that the amount is to be subject to expenditure for the benefit of Bessie Bear Robe. I have been advised, however, that she died on June 16, 1939.</p>
+<p>In the circumstances, I have withheld my approval from this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed><dateline> THE WHITE HOUSE, August 9, 1939.</dateline></closer>
+<p>H. R. 5953.</p> <p>I am withholding my approval from H. R. 5953, a bill for the relief of Marie Heinen.</p>
+<p>Approval of the bill would authorize payment in the sum of $100 to Marie Heinen, Kaukauna, Wis., on account of burial expenses of Robert B. Heinen, a World War veteran.</p>
+<p>The records of the Veterans' Administration show that Robert B. Heinen died January 1, 1937, and was buried January 4, 1937, at Kaukauna, Wis.; that claim for reimbursement on account of burial expenses was executed by Marie Heinen under date of January 23, 1939, and received in the Veterans' Administration January 27, 1939.</p>
+<p>Veterans Regulation No. 9 (a), as amended, provides for the payment of burial allowance in an amount not to exceed $100 in the case of honorably discharged war veterans where the requirements of the regulation are met. Paragraph IV of Veterans Regulation No. 9 (a), as amended, provides, in part, "Claims for reimbursement must be filed within 1 year subsequent to the date of burial of the veteran."</p>
+<p>Claim for reimbursement on account of burial expenses not having been filed within 1 year after the veteran's burial, such allowance cannot be paid under existing laws and regulations.
+There are no circumstances in this case which would distinguish it from many other cases where reimbursement on account of burial expenses has been denied because claim therefor was not seasonably filed. This enactment would grant Mrs. Heinen a benefit which must be denied to many others similarly situated.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, August 9, 1939.</dateline></closer>
+<p>H. R. 6528.</p> 
+<p>I have withheld approval of H. R. 6528, a bill "to provide for the creation of the George Rogers Clark National Memorial, in the State of Indiana, and for other purposes."</p>
+<p>Public Resolution No. 51, approved May 23, 1928 (45 <title>Stat.</title> 723), provided as one of the requirements for Federal participation in the construction of a permanent memorial commemorating the achievements of George Rogers Clark, the cost of which participation has amounted to approximately $2,000,000, "that the State of Indiana shall assume, without expense to the Federal Government, the perpetual care and maintenance of said site and the memorial constructed thereon after such memorial shall have been constructed."</p>
+<p>I have not been advised of any changed conditions that would justify a repeal of this provision of existing law.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE HOUSE, August 9, 1939.</dateline></closer>
+<milestone unit="rule" />
+<p>H. R. 6898.</p><p>I am withholding my approval from H. R. 6898, a bill granting pensions and increase of pensions to certain
+helpless and dependent children of veterans of the Civil War. The purpose of this bill is to grant pension at the rate of
+$20 per month to 160 helpless children of Civil War veterans; increased pension from $12 to $20 per month to 7 such children, and increased pension from $18 to $20 per month to 1 such child; a total of 168 cases. The ages of the beneficiaries vary from 33 to 81 years, and come within the following age groups:</p>
+<table type="" rows="" cols="">
+<row>
+Age 30-39........................................5
+</row>
+<row>
+Age 40-49.......................................17
+</row>
+<row>
+Age 50-59.......................................67
+</row>
+<row>
+Age 60-64.......................................40
+</row>
+<row>
+Age 65-69.......................................29
+</row>
+<row>
+Age 70 and over.................................10	
+</row>
+<row>
+Total 	.......................................168 
+</row>
+</table>
+
+<p>According to the committee reports, in the great majority of cases in which the bill proposes to grant an original pension, there is no entitlement under general laws because the children were over 16 years of age at the time of the veteran's death, there being. 156 cases in this category. In 5 cases the child's name had not been placed on the pension rolls prior to reaching the age of 16.</p>
+<p>Under the act of June 27, 1890 (26 <title>Stat.</title> 182–183; 38 U. S. C. 281), pension is denied a helpless child of a veteran of the Civil War, Indian war, or Spanish-American War who attained the age of 16 prior to the death of the veteran. This provision reads in part as follows:
+* * * in case of the death or remarriage of the widow, leaving a child or children of such officer or enlisted man under the age of 16 years, such pension shall be paid such child or children until the age of 16: Provided, That in case a minor child is insane, idiotic, or otherwise permanently helpless, the pension shall continue during the life of such child, or during the period of such disability, and this proviso shall apply to all pensions heretofore granted or hereafter to be granted under this or any former statute. * * *</p>
+<p>In addition to the fact that each of the beneficiaries named in the bill is ineligible for pension on account of the above-quoted limitation, certain of the beneficiaries are ineligible on other grounds. Enactment of the bill, therefore, would establish special eligibility not only by waiving the above-quoted requirement but other general statutory requirements. While generally the cases covered by the bill invoke sympathy, there appears to be no compelling reason why they should be singled out for preferential treatment, excluding others who may be similarly situated. Moreover, it would seem that many of the persons named in the bill are eligible or will shortly be eligible for old-age assistance or other forms of assistance under the Social Security Act of August 14, 1935.</p>
+<p>In view of the discriminations which the bill represents I find myself unable to approve <signed>it.</p>
+FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, August 9, 1939. </dateline>
+<p>On August 10, 1939:</p>
+<p>H. R. 4252.</p> <p>I have withheld approval of H. R. 4252, an act for the relief of J. George Bensel Co.</p>
+<p>In the work of moving safes under contract, Tlpb-1266, dated December 1, 1936, with the Procurement Division, Treasury Department, the contractor caused his employees to work more than 8 hours per day in violation of the 8-hour law of June 19, 1912 (ch. 174, 37 <title>Stat.</title> 237; U. S. C., title 40, secs. 324, 325). For 28 apparent violations, at the stipulated rate of $5 each, the sum of $140 was deducted from the amount due the contractor.</p>
+<p>The contractor claims that he worked overtime to accommodate the Chief of the Mechanical Engineers of the building, who requested on December 31, 1936, to have the safes moved to their new positions prior to the opening of the Department Monday morning, January 4, 1937, so that there would be no delay in the Government business.</p>
+<p>Nevertheless, further inquiry reveals that the contractor not only violated the 8-hour law but also failed to obtain all of his employees from the United States Employment Service and failed to' pay the prevailing rate of wages. The Procurement Division of the Treasury Department required the contractor to pay the sum of $163.70 as a wage adjustment before receiving the balance due on the contract.</p>
+<p>In view of the fact that the contractor regularly engaged in business must be deemed to have had knowledge of the requirements of the 8-hour law and of the absence of authority in the Chief of the Mechanical Engineers to permit work in excess of 8 hours, and in view of his other violations of law. and Government regulations, I feel obliged to veto this enactment.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 10, 1939.</dateline></closer>
+
+
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

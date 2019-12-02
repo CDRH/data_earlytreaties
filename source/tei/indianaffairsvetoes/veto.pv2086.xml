@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2086">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2086	S.J. Res. 135 (Eighty-fourth Congress, Second Session &#8212; Eisenhower)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2086</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Eisenhower</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eighty-fourth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2086	S.J. Res. 135 (Eighty-fourth Congress, Second Session &#8212; Eisenhower)</head>
+
+<p>For payment to the Crow Indian Tribe for the right-of-way for Yellowtail Dam and Reservoir, Hardin unit, Missouri River Basin project, Montana and Wyoming.</p>
+
+<p>Vetoed June 7, 1956.  The veto message was laid before the Senate, referred to the Committee on Interior and Insular Affairs, and printed as S. Doc. No. 128 (102 <title>Cong. Rec.</title> 9939).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 421-422.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2086.01.pdf">Payment to Crow Indian tribe for right-of-way for Yellowtail Dam and Reservoir -- veto message.  Message from the President of the United States, returning without approval the Joint Resolution (S.J. Res. 135) for payment to Crow Indian tribe for right-of-way for Yellowtail Dam and Reservoir, Hardin unit, Missouri River Basin project, Montana-Wyoming.</ref>  (1956).  Senate.  84th Congress, 2nd session.  Senate   Document No. 128 (<title>Serial Set</title> 11909).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+84TH CONGRESS }	SENATE	{	DOCUMENT
+2d Session	No. 128
+PAYMENT TO CROW INDIAN TRIBE FOR RIGHT-OF-WAY FOR YELLOWTAIL DAM AND RESERVOIR-VETO MESSAGE
+MESSAGE
+
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+-ITHOUT APPROVAL THE JOINT RESOLUTION (S. J. RES. 135) FOR PAYMENT TO CROW INDIAN TRIBE FOR RIGHT-OF-WAY FOR YELLOWTAIL DAM AND RESERVOIR, HARDIN UNIT, MISSOURI RIVER BASIN PROJECT, MONTANA-WYOMING
+JuNE 11, 1956.-Read; referred to the Committee on Interior and Insular Affairs
+and ordered to be printed
+To the United States Senate:
+I return herewith, without my approval, Senate Joint Resolution 135, for payment to Crow Indian Tribe for right-of-way for Yellowtail Dam and Reservoir, Hardin unit, Missouri River Basin project, Montana-Wyoming.
+The joint resolution would pay the Crow Indian Tribe, Montana, $5 million as "just compensation" for certain tribal lands required for the construction, operation, and maintenance of the Yellowtail Dam and Reservoir. The area of the land comprises 5,677.94 acres and such additional land as the Secretary of the Interior determines to be required for the construction of minimum basic recreation facilities for the accommodation of the public, which it is understood will increase the total area to somewhat more than 6,000 acres.
+In essence, this resolution culminates a decade of negotiation and disagreement between the Department of the Interior and the Crow Indians with respect to the amount of compensation to be paid to the tribe for lands required for the Yellowtail Dam and Reservoir, for which the initial construction appropriation was made in the fiscal year 1956 and for which an additional $10,850,000 was included in the budget for the fiscal year 1957.
+90024°-57 S. Doc., 84-2, vol. 1-28
+2	PAYMENT TO CROW INDIAN TRIBE-VETO MESSAGE
+The standard of payment for land acquired by the Government is "just compensation," or "fair market value." However, I recognize that, as a matter of policy, the Federal Government has made awards in excess of "just compensation" in other cases involving Indian lands. If the Congress determines that it wishes to provide for an extra payment in this case, it should not be done under the claim that it is "just compensation." The amount, the method for computing it, and the equitable justification for it, should be clearly established on acceptable premises. Neither the resolution nor the legislative history does this.
+According to my information, the acquisition by the United States of the land contemplated will not interfere with the tribal life, except as to a small area used for grazing, and will not displace any of the members of the tribe since the area is not inhabited and consists almost wholly of inaccessible land, largely of bare, precipitous canyon walls. Thus, the only justification for an additional sum over and above "just compensation" arises from the value of the land as a power site. General principles of constitutional law exclude power site values in determining "just compensation" as the Supreme Court recently reiterated in United States v. Twin City Power Co., January 23, 1956.
+A statutory settlement of this kind of controversy might be acceptable if soundly and equitably premised and if it reflected a substantial measure of agreement between parties to the dispute. I regret that the extravagant nature of the award contemplated by Senate Joint Resolution 135 requires this action which may cause some additional delay in proceeding with the construction of the Yellowtail unit. It is my hope that the Congress can approve a statutory settlement which will permit expeditious action to proceed with the construction of this much-needed project.
+For these reasons, I have withheld my approval from this measure.
+DWIGHT D. EISENHOWER. THE WHITE HOUSE, June 7, 1956.
+
+
+S. J. Res. 135
+EIGHTY-FOURTH CONGRESS OF THE UNITED STATES OF AMERICA, AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FIFTY-SIX
+JOINT RESOLUTION For payment to Crow Indian Tribe for right-of-way for Yellowtail Dam and
+Reservoir, Hardin unit, Missouri River Basin project, Montana-Wyoming.
+Resolved by the Senate and House of Representatives of the United Slates of America in Congress assembled, That from funds appropriated to the Department of the Interior, Bureau of Reclamation, for the Missouri River Basin project, there shall be transferred in the Treasury of the United States to the credit of the Crow Tribe of Indians, Montana, to be available in accordance with the Act of June 20, 1936 (49 Stat, 1543), the sum of $5,000,000 as just compensation for the transfer to the United States as herein provided of the right, title, and interest of the Crow Tribe in and to certain tribal lands required for the construction, operation, and maintenance of the Yellowtail unit, Missouri River Basin project: Provided, however, That no attorney fees shall be allowed out of the amount paid under the authority of this resolution: Provided further, That neither the initial transfer of such funds to the Tribe, as provided herein, nor any subsequent per capita distribution there-of, shall be subject to Federal income tax.
+SEC. 2. (a) Subject to the provisions of this section, there is hereby transferred to the United States the right, title, and interest of the Crow Tribe in and to lands situated in the Big Horn County, Montana, hereinafter described under the head-
+PAYMENT TO CROW INDIAN TRIBE-VETO MESSAGE	3
+ings "PARCEL A" and "PARCEL R" and in and to such Iands, additional to parcels A and B, as the Secretary of the Interior, hereinafter referred to as the Secretary, determines to be required for the construction thereon of minimum basic recreational facilities for the accommodation of the public visiting the Yellowtail unit.
+
+PARCEL A
+- Lots 7, 8, 9, 10, 11, and 12, northeast quarter of the southwest quarter and the east half of the southeast quarter of section 18; lots 1, 2, 3, 4, 5, and 6, the southwest quarter of the northeast quarter, southeast quarter of the northwest quarter, and the northeast quarter of the southwest quarter of section 19, all in township 6 south, range 31 east, Montana principal meridian, and containing 573.84 acres, more or less.
+A tract of unsurveyed, unallotted Indian land described as follows: Beginning on the westerly side of the Big Horn River at a point on the west line of lot 9, section 18, township 6 south, range 31 east, Montana principal meridian, said point being at elevation 3,675; thence running upstream along a contour line whose elevation is 3,675, to a point of intersection with the east line of the southeast quarter of the northeast quarter of section 22, township 6 south, range 30 east, Montana principal meridian; thence southerly along the east line of said southeast quarter of the northeast quarter to a point on the east line of said southeast quarter of the northeast quarter, whose elevation is 3,675; thence running up-stream along a contour line whose elevation is 3,675, to a point of intersection with the south boundary of the Crow Indian Reservation on the westerly side of the Big Horn River; thence easterly along the said south boundary of the Crow Indian Reservation to a point of intersection with the middle of the thread of the Big Horn River; thence running upstream along the middle of the thread of the Big Horn River to a point of intersection with the south line of township 9 south, range 28 east, Montana principal meridian; thence easterly along the south line of said township 9 south, range 28 east, to a point on the south line of said town-ship 9 south, range 28 east, Montana principal meridian, whose elevation is 3,675 feet; thence running downstream along a contour line whose elevation is 3,675 to a point of intersection with the west line of township 6 south, range 31 east, Montana principal meridian; thence northerly along the west line of said township 6 south, range 31 east, to the point of beginning, and containing 4,771.6 acres, more or less.
+Also, a parcel of land lying along the south boundary of the Crow Indian Reservation, further described as follows: Beginning at a point where the 3,675-foot contour to the left of the Big Horn River intersects the south boundary of the Crow Indian Reservation, said point being approximately 5,400 feet westerly of the point of intersection of the Big Horn River and the south boundary of the Crow Indian Reservation; thence running upstream on the 3,675-foot contour to a point where the 3,675-foot contour intersects the south boundary of the Crow Indian Reservation; thence running easterly along the south boundary of the Crow Indian Reservation to the point of beginning and containing 5.7 acres, more or less.
+Also, a parcel of land lying along the south boundary of the Crow Indian Reservation and along Hoodoo Creek further described as follows: Beginning at a point on the south boundary of the Crow Indian Reservation where the 3,675-foot contour on the east bank of Hoodoo Creek intersects the south boundary of the Crow Indian Reservation; thence running upstream on the 3,675-foot contour to its intersection with the middle of the thread of Hoodoo Creek; thence running downstream on the 3,675-foot contour to a point where the 3,675-foot contour intersects the south boundary of the Crow Indian Reservation; thence easterly along the south boundary of the Crow Indian Reservation to the point of beginning and containing 1.3 acres, more or less.
+The total area above described is 5,352.44 acres, more or less, situated in Big Horn County, Montana.
+PARCEL B
+Lots 1, 5, and 6 of section 18, lots 4, 6, 7, and 8, and the south half of the north-west quarter of section 17, lots 6 and 7, section 16, all in township 6 south, range 31 east, Montana principal meridian, containing 325.50 acres, more or less, and situated in Big Horn County, Montana.
+(b) There is reserved from the right, title, and interest transferred as to parcel B, the Indian Irrigation Service canal and appurtenant facilities, Big Horn unit, Crow Indian Irrigation Department, as now constructed or as they may be here-after modified, until such time as said canal and appurtenant facilities may be replaced.
+PAYMENT TO CROW INDIAN TRIBE-VETO MESSAGE
+(c) Except as to such area as the Secretary determines to be required for the dam site and the construction and operating camp site, the right, title and interest transferred shall be exclusive of the rights to minerals, including gas and oil, beneath the surface: Provided, That no permit, license, lease or other document covering the exploration for or the extraction of such minerals shall be granted by or under the authority of the Secretary except under such conditions and with such stipulations as the Secretary deems adequate to protect the interests of the United States in the construction, operation, maintenance and use of the Yellow-tail unit.
+(d) The members of the Crow Tribe of Indians of Montana shall be permitted to hunt and fish in and on the Yellowtail Reservoir and taking area without a license, but they shall be subject to all other applicable conservation laws and regulations.
+SEc. 3. Unless suit to determine whether an additional amount to that specified in section 1 hereof is due as just compensation is brought in the Court of Claims by the Crow Tribe within three years after the effective date of this joint resolution, the sum provided by section 1 hereof shall constitute full, complete, and final settlement of any and all claims by the tribe on account of the transfer to the United States as therein provided of the tribe's right, title, and interest in and to the lands referred to in section 2 hereof. In the event of such suit, the court shall have jurisdiction as under section 1505, title 28, United States Code and in determining just compensation shall take into account the sum specified in section 1 hereof and the rights reserved to the tribe by subsections (b), (c), and (d) of section 2 hereof. The amount embraced in such judgment, if any, as may be entered against the United States shall be deposited in the Treasury to be available in like manner as the sum specified in section 1 hereof. Review of the judgment entered shall be in the same manner, and subject to the same limitations, as govern in the case of other claims cognizable under the aforementioned section 1505.
+JOHN W. MCCORMACK,
+Speaker of the House of Representatives pro tempore.
+WALTER F. GEORGE,
+President of the Senate pro tempore. [Endorsement on back of bill:]
+I certify that this Joint Resolution originated in the Senate.
+FELTON M. JOHNSTON, Secretary.
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2086.02.pdf"><title>Congressional Record</title> 102, 9939</ref> (1956).</bibl>
+<!-- <floatingText>
+<body>
+1956	CONGRESSIONAL RECORD - SENATE	9939
+from the Secretary of the Senate, which was read and ordered to lie on the table :
+UNITED STATES SENATE, OFFICE OF THE SECRETARY,
+June 8, 1956.
+To the PRESIDENT OF THE SENATE:
+Attached hereto is a sealed envelope from the President of the United States ad-dressed to the President of the Senate of the United States, said to contain a veto message on the joint resolution (S. J. Res. 135) for payment to Crow Indian Tribe for right-of-way for Yellowtail Dam and Reservoir, Hardin unit, Missouri River Basin project, Montana-Wyoming.
+In view of the fact that, as shown by the official records of my office, the 10-day period during which the President, under the Constitution, had to act upon the joint resolution will expire at midnight tonight, and the Senate having adjourned on yesterday until Monday next, I received the veto message today at 2:35 p. m., under authority of the decision of the Supreme Court of the United States in the case of Wright v. United States (302 U. S. 573) on January 17, 1938.
+Respectfully,
+FELTON M. JOHNSTON,
+Secretary of the Senate.
+PAYMENT TO CROW INDIAN TRIBE FOR RIGHT-OF-WAY FOR YELLOWTAIL DAM AND RESERVOIR—VETO MESSAGE (S. DOC. NO. 128)
+The PRESIDENT pro tempore laid be-fore the Senate the following message from the President of the United States, which was read, and, with the accompanying joint resolution, referred to the Committee on Interior and Insular Affairs, and ordered to be printed:
+
+To the United States Senate:
+I return herewith, without my approval, Senate Joint Resolution 135, for payment to Crow Indian Tribe for right-of-way for Yellowtail Dam and Reservoir, Hardin unit, Missouri River Basin project, Montana-Wyoming.
+The joint resolution would pay the Crow Indian Tribe, Montana, $5 million as "just compensation" for certain tribal lands required for the construction, operation, and maintenance of the Yellow-tail Dam and Reservoir. The area of the land comprises 5,677.94 acres and such additional land as the Secretary of the Interior determines to be required for the construction of minimum basic recreational facilities for the accommodation of the public, which it is under-stood will increase the total area to some-what more than 6,000 acres.
+In essence, this resolution culminates a decade of negotiation and disagreement between the Department of the Interior and the Crow Indians with respect to the amount of compensation to be paid to the tribe for lands required for the Yellowtail Dam and Reservoir, for which the initial construction appropriation was made in the fiscal year 1956 and for which an additional $10,850,000 was included in the budget for the fiscal year 1957.
+The standard of payment for land acquired by the Government is "just compensation," or "fair market value." However, I recognize that, as a matter of policy, the Federal Government has made awards in excess of "just compensation"in other cases involving Indian lands. If the Congress determines that it wishes to provide for an extra payment in this case, it should not be done under the claim that it is "just compensation." The amount, the method for computing it, and the equitable justification for it, should be clearly established on accept-able premises. Neither the resolution nor the legislative history does this.
+According to my information, the acquisition by the United States of the land contemplated will not interfere with the tribal life, except as to a small area used for grazing, and will not displace any of the members of the tribe since the area is not inhabited and consists almost wholly of inaccessible land, largely of bare, precipitous canyon walls. Thus, the only justification for an additional sum over and above "just compensation" arises from the value of the land as a power site. General principles of constitutional law exclude power site values in determining "just compensation" as the Supreme Court recently reiterated in United States v. Twin City Power Co., January 23, 1956.
+A statutory settlement of this kind of controversy might be acceptable if soundly and equitably premised and if it reflected a substantial measure of agreement between parties to the dispute. I regret that the extravagant nature of the award contemplated by Senate Joint Resolution 135 requires this action which may cause some additional delay in proceeding with the construction of the Yellowtail unit. It is my hope that the Congress can approve a statutory settlement which will permit expeditious action to proceed with the construction of this much-needed project.
+For these reasons, I have withheld my approval from this measure.
+DWIGHT D. EISENHOWER. THE WHITE HOUSE, June 7, 1956.
+LEAVE OF ABSENCE
+Mr. PAYNE. Mr. President, I ask unanimous consent that the junior Senator from North Dakota [Mr. YouNad be granted leave of absence from the Senate beginning today and extending through Friday of this week.
+The PRESIDENT pro tempore. With-out objection, leave is granted.
+COMMITTEE MEETINGS DURING
+SENATE SESSION
+On request of Mr. JOHNsON of Texas, and by unanimous consent, the Internal Security Subcommittee of the Committee on the Judiciary was authorized to meet during the session of the Senate today.
+On request of Mr. ERVIN, and by unanimous consent, the Interstate and Foreign Commerce Committee was authorized to sit during the session of the Senate today.
+LIMITATION OF DEBATE DURING
+MORNING HOUR
+Mr. JOHNSON of Texas. Mr. President, since the Senate has met today following an adjournment, of course, under the rule, there will be the usual morn-ing hour. I ask unanimous consent that there be a limitation of 2 minutes on statements made during the morning hour.
+The PRESIDENT pro tempore. With-out objection, it is so ordered.
+
+
+TIVE COMMUNICATIONS, ETC.
+The PRESIDENT pro tempore laid be-fore the Senate the following letters, which were referred as indicated:
+PLANS FOR WORKS OF IMPROVEMENT ON WATERSHED PROTECTION AND FLOOD PREVENTION
+A letter from the Director, Bureau of the Budget, Executive Office of the President, transmitting, pursuant to law, plans for works of improvement on watershed protection and flood prevention (with accompanying papers) ; to the Committee on Agriculture and Forestry.
+REPORT ON BORROWING AUTHORITY
+A letter from the Director, Office of Defense Mobilization, Executive Office of the President, transmitting, pursuant to law, a report on borrowing authority, for the quarter ended March 31, 1956 (with an accompanying report) ; to the Committee on Banking and Currency.
+LAWS ENACTED BY THIRD GUAM LEGISLATURE
+A Ietter from the Assistant Secretary of the Interior, transmitting, pursuant to law, copies of laws enacted by the Third Guam Legislature, 1956 (second regular session) (with accompanying papers) ; to the Committee on Interior and Insular Affairs.
+AMENDMENT OF AIR COMMERCE ACT OF 1926, RELATING TO THE SALE OF GOODS AND SERVICES IN CERTAIN CASES
+A letter from the Secretary of the Air Force, transmitting a draft of proposed legislation to amend section 5 of the Air Commerce Act of 1926 to authorize the sale of goods and services by any department or independent establishment to the owner of an aircraft or his agent in an emergency, and for other purposes (with an accompanying paper) ; to the Committee on Interstate and Foreign Commerce.
+DEVELOPMENT, MARKETING, AND DISTRIBUTION
+OF DOMESTIC FISHERY RESOURCES
+A letter from the Assistant Secretary of the Interior, transmitting a draft of pro-posed legislation to encourage the development, marketing, and distribution of domestic fishery resources of the United States, and for other purposes (with an accompanying paper) ; to the Committee on Interstate and Foreign Commerce.
+REPORT OF BACKLOG OF PENDING APPLICATIONS AND REARING CASES, FEDERAL COMMUNICATIONS COMMISSION
+A letter from the Chairman, Federal Communications Commission, Washington, D. C., transmitting, pursuant to law, a report on backlog of pending applications and hearing cases in that Commission, as of April 30, 1956 (with an accompanying report) ; to the Committee on Interstate and Foreign Commerce.
+KIM CHUNG HI
+A letter from the Secretary of the Army, transmitting a draft of proposed legislation for the relief of Kim Chung Hi (with an accompanying paper); to the Committee on the Judiciary.
+REPORT ON ADMINISTRATION OP FOREIGN
+AGENTS REGISTRATION ACT
+A letter from the Acting Attorney General, transmitting, pursuant to law, a report of the Attorney General on the administration of the Foreign Agents Registration Act of 1938, as amended, for the calendar year 1955 (with an accompanying report); to the Committee on the Judiciary.
+</body></floatingText> -->
+
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>
