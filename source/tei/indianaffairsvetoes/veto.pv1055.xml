@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1055">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1055	H.R. 9343 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1055</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1055	H.R. 9343 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</head>
+<p>To authorize the adjudication of claims of the Chippewa Indians of Minnesota.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 68th Congress had adjourned sine die on March 3, 1925.  The bill was presented to the President on February 24, 1925 (February 24, 1925, H. Jour., p. 305; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 42).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 228.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1055.01.pdf">Journal of the House of Representatives of the United States.</ref> (1925).  68th Congress, 2nd session, p. 305 (<title>Serial Set</title> 8387).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>HOUSE OF REPRESENTATIVES</head>
+<head>OF THE UNITED STATES
+SIXTY-EIGHTH CONGRESS
+SECOND SESSION
+BEGUN AND HELD AT THE CITY OF WASHINGTON: DECEMBER 1, 1924</head>
+<head type="sub">IN THE ONE HUNDRED AND FORTY-NINTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES</head>
+<fw> 1925	HOUSE OF REPRESENTATIVES	305 </fw>
+<p>H. R. 11957. An act to authorize the President in certain cases to modify vise fees;</p>
+<p>H. R. 12064. An act to recognize and reward the accomplishment of the world flyers; and</p>
+<p>H. R. 12101. An act making appropriations for the legislative branch of the Goverment for the fiscal year ending June 30, 1926, and for other purposes.</p>
+<p>On February 24, 1925:</p>
+<p>H. R. 4202. An act to amend section 3186 of the Revised Statutes, as amended:</p>
+<p>H.R.5204. An act to authorize the Secretary of the Interior to adjust disputes or claims by settlers, entrymen, selectors, grantees, and patentees of the United Stales against the United States and between each other, arising from incomplete or faulty surveys in township 28 south, ranges 26 and 27 east. Tallahassee meridian, Polk County, in the State of Florida. and for other purposes;</p>
+<p>H. R. 7190. An act to amend the China trade act, 1922; </p>
+<p>H.R.491. An act for the prevention of venereal diseases in the District of Columbia, and for other purposes:</p>
+<p>H.R.9343. An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims;</p>
+<p>H. R. 5726. An net to amend the act of Congress of March 3, 1921, entitled "An act to amend section 3 of the act of Congress of June 28, 1906• entitled `An act of Congress for the division of the lands and funds of the Osage Indians in Oklahoma, and for other purposes' " ; and</p>
+<p>H. R. 10533. An act granting the consent of Congress to the State of Washington to construct, maintain, and operate a bridge across the Columbia River.</p>
+<head>DISTRICT OF COLUMBIA APPROPRIATION BILL.</head>
+<p>On motion of Mr. Davis of Minnesota, by unanimous consent, the hill (IH. R. 12033) making appropriations for the government of the District of Columbia and other activities chargeable in whole or in part against the revenues of such District for the fiscal year ending June 30, 1926. and for other purposes, with amendments of the Senate thereto, was taken from the Speaker's table,</p>
+<p>when, on motion of Mr. Davis of Minnesota</p>,
+<p>Resolved, That the House further insist on its disagreement to the amendments of the Senate and agree to the further conference asked by the Senate on the disagreeing votes of the two Houses thereon.</p>
+<p>Thereupon the Speaker announced the appointment of Mr. Davis of Minnesota, Mr. Funk, and Mr. Ayres managers on the part of the House at said conference.</p>
+<p>Ordered, That the Clerk notify the Senate thereof.</p>
+<head>PERMISSION TO FILE CONFERENCE REPORT</head>
+<p>On motion of Mr. Davis of Minnesota, by unanimous consent, he was granted permission until midnight to-night to tile flue conference report (Rept. No. 1555) on the bill (H. R. 12033) making appropriations for the government of the District of Columbia and other activities chargeable in whole or in part against the revenues of such District for the fiscal year ending June 30, 1926, and for other purposes.</p>
+<head>POSTAL SALARIES INCREASE</head>
+<p>Mr. Paige submitted a conference report (Rept. No. 1583) on the disagreeing votes of the two Houses on the amendment of the Senate to the bill (H. R. 11444) reclassifying the salaries of postmasters and employees of the Postal Service, readjusting their salaries and compensation on an equitable basis, in-creasing postal rates to provide for such readjustment, and for other purposes, together with a statement thereon, for printing in the Record under the rule.</p>
+<head>INTERIOR DEPARTMENT APPROPRIATION BILL</head>
+<p>Mr. Cramton submitted a conference report (Rept. No. 1584) on the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. It. 10020) making appropriations for the Department of the Interior for the fiscal year ending June 30, 1926, and for other purposes, together with a statement thereon, for printing in the Record under the rule.</p>
+<head>LEAVE OF ABSENCE</head>
+<p>By unanimous consent, leave of absence was granted to Mr. Johnson of Washington, for February 25, 1925. Then,</p>
+<head>RECESS</head>
+<p>On motion of Mr. Madden, at 6 o'clock and 3 minutes p.m., the House stood in recess until 5 o'clock p.m.</p>
+<head>AFTER RECESS<head>-</head>8 O'CLOCK P. M.</head>
+<p>The House was called to order by the Speaker. </p>
+<head>PRIVATE CALENDAR</head>
+<p>On notion of Mr. Edmonds, and pursuant to a special order heretofore agreed to, the House as in Committee of the Whole House proceeded to the consideration of bills on the Private Calendar unobjected to.</p>
+<head>JOHN H. BARRET AND WIFE</head>
+<p>The bill (H. R. 912) for the relief of John H. Barrett and wife was considered and read twice.</p>
+<p>The following amendment recommended by the Committee on war Claims was agreed to:</p>
+<p>Line 6, strike out the word "wife" and insert the words <hi rend="italic">Ada H. Barrett.</hi></p>
+<p>The bill, as amended, was ordered to be engrossed and read a third time, was read a third time by title, and passed. The title was amended so as to read: "A bill for the relief of John H. Barrett and Ada H. Barrett."</p>
+<p>Ordered. That the Cleric request the concurrence of the Senate in said bill.</p>
+
+<head>ALASKAN ENGINEERING COMMISSION</head>
+<p>The joint resolution (H. J. Res. 226) for the relief of special disbursing agents of the Alaskan Engineering Commission, authorizing the payment of certain claims, and for other purposes, affecting the management of the Alaska railroad, was considered and read twice.
+The following amendment recommended by the Committee on the Territories was agreed to :
+Strike out section 3.</p>
+<p>Mr. Cramton submitted the following amendments, which were agreed to:</p>
+<p>Strike out sections 7, 8, and 9.</p>
+<p>The Clerk was authorized to correct all section numbers. The bill, as amended, was ordered to be engrossed and read a third time. was read a third time by title, and passed. Ordered, That the Clerk request the concurrence of the Senate iii said joint resolution.</p>
+<head>R. E. AMES</head>
+<p>The bill (H. R. 1445) to change the retired status of Chief Pay Clerk R. E. Ames, United States Navy, retired, was considered, read twice, ordered to be engrossed and read a third time, was read a third time by title, and passed.</p>
+<p>Ordered, That the Clerk request the concurrence of the Senate in said bill.</p>
+<head>LUCY B. KNOX</head>
+<p>The bill (H. R. 5456) granting six months' pay to Lucy B. Knox, was considered, read twice, ordered to be engrossed and read a third time, was read a third time by title, and passed.</p>
+<p>Ordered, That the Clerk request the concurrence of the Senate in said bill.</p>
+<head>WILLIAM H. ARMSTRONG</head>
+<p>The bill (H. R. 6442) for the relief of Will am H. Armstrong was considered and read twice.
+The following amendment recommended by the Committee on Military Affairs was agreed to:</p>
+<p>Page 1, line 5, after the word " Senate," strike out the remainder of the line, all of line 6, all of line 7, and the words "carry no back pay or allowances " in line 8, and insert the following: formerly a captain of Infantry, a captain of Infantry n the Army of the United ,States, to take rank at the foot of the list of captains of Infantry, and that no back pay or allowances shall accrue as a result of the passage of this act.</p>
+<p>The bill, as amended, was ordered to be engrossed and read a third time, was read a third time by title, and passed. Ordered, That the Clerk request the concurrence of the Senate in said b 11.</p>
+<head>HERBERT ELLIOTT STEVENS</head>
+<p>The bill (H. It. 2921) for the relief of Paymaster Herbert Elliott Stevens, United States Navy, was considered, read twice, ordered to be engrossed and read a third time, was read a third time by title, and passed.</p>
+<p>Ordered, That the Clerk request the concurrence of the Senate in said bill.</p>
+<head>WALTER BAKER</head>
+<p>The bill (H. R. 5639) for the relief of Walter Baker was considered and read twice.</p>
+<p>The following amendment recommended by the Committee on Military Affairs was agreed to:</p>
+<p>Page 1, line 8, after the word "regiment," insert: Provided, <hi rend="italic">That no pension, pay, or allowance shall be held to have accrued prior to the passage of this art</hi>.</p>
+<p>The bill. as amended, was ordered to be engrossed and read a third time, was read a third time by title, and passed.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1055.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him.</ref>  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 42 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>REPORT ON POCKET VETO</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> 42	REPORT ON POCKET VETO </fw>
+<p>H. R. 13329, An Act to authorize the Secretary of War to transfer certain surplus material, machinery, and equipment to the Department of Agriculture, and for other purposes.</p>
+<p>66th Congress, 2nd Session.</p>
+<p>At the end of the 66th Congress, third session, which adjourned March 4, 1921, the Senate legislative day of March 2 and the House legislative day of March 3 (<title>Cong. Rec.</title>, vol. 60, pt. 4, pp. 4532, 4546) President Wilson retained unsigned one Senate and four House bills. All of these bills are now at the Executive Offices. The only marks on the bills or on attached memoranda are as follows:</p>
+<p>S. 3695 and H. R. 13558 are unstamped.</p>
+<p>H. R. 1856 is stamped as received Feb. 26, 1921. </p>
+<p>H. R. 14461&#8212;received Feb. 28, 1921.</p>
+<p>H. R. 15943&#8212;received March 3, 1921.</p>
+<p>At the end of the 67th Congress, second session, which adjourned September 22, 1922 (<title>Cong. Rec.</title>, vol. 62, pt. 12, pp. 13142, 13183) President Harding retained unsigned H. R. 10672. It is stamped as received at the White House September 15, 1922. It is now at the Executive Offices.</p>
+<p>At the end of the 68th Congress, second session, which adjourned March 4, 1925, the Senate legislative day of February 26 and the House legislative day of March 3, (<title>Cong. Rec.</title>, vol. 66, pt. 5, pp. 5521, 5623) President Coolidge retained unsigned one Senate and three House bills.</p><p> S. 4301 and H. R. 6442 are stamped as received March 2. H. R. 9160 is stamped February 21. H. R. 9343 is stamped February 24. These bills are now at the Executive Offices. There are no marks on any of them except the stamps. To H. R. 9343 is attached a slip which says "Veto Recommended."</p>
+<p>At the end of the 69th Congress, first session, which adjourned July 3, 1926 (<title>Cong. Rec.</title>, vol. 67, pt. 11, pp. 13009, 13100) President Coolidge retained unsigned two Senate and three House bills.</p>
+<p>S. 3185 is marked as received Jun 34 1926.</p>
+<p>S. 3999&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>S. 3999
+No</p>
+<p>Recommend veto</p>
+<p>J. G. S.</p></hi>
+<p>H. R. 534&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>Secretary of War recommends</p>
+<p>Veto</p></hi>
+<p>H. R. 6087&#8212;received June 30.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

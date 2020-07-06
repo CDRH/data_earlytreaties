@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0158">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">158	S. 779 (Forty-forth Congress, First Session &#8212; Grant)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0158</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Grant</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-forth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>158	S. 779 (Forty-forth Congress, First Session &#8212; Grant)</head>
+
+<p>To provide for the sale of a portion of the reservation of the Confederated Otoe and Missouria and the Sac and Foxes of the Missouri Tribes of Indians in the States of Kansas and Nebraska.</p>
+
+<p>Vetoed August 15, 1876.  The veto message was laid before the Senate (4 <title>Cong. Rec.</title> 5664: see also S. Misc. Doc. No. 53, 49th Cong. 2nd sess., pp. 403-404).  The Senate overrode the veto on August 15, 1876 by a vote of 36 yeas to 0 nays (4 <title>Cong. Rec.</title> 5665).  The House overrode the veto on August 15, 1876 by a vote of 120 yeas to 18 nays (4 <title>Cong. Rec.</title> 5696).</p>
+<p>Veto overridden (19 <title>Stat.</title> 208).</p>
+
+<note>Note &#8212; The President asked that this bill be returned for his approval that same day.  The request was denied (4 <title>Cong. Rec.</title> 5664).</note>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 51-52.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0158.01.pdf"><title>Congressional Record</title> 4, 5664</ref> (1874).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 5664	CONGRESSIONAL RECORD SENATE.  AUGUST 15 </fw>
+
+<p>not regard it as of any great importance, and I shall not object to the bill passing.</p>
+<p>Mr. SPENCER. I hope the bill will pass.</p>
+<p>The PRESIDENT pro tempore. Is there objection to the present consideration of the hill? The Chair hears no objection. By unanimous consent, the bill was read three times, and passed.</p>
+<hi rend="center"><head>TELEGRAPHIC COMMUNICATION WITH ASIA.</head></hi>
+<p>The PRESIDENT pro tempore laid before the Senate amendments of the House of Representatives to the bill (S. No. 892) to encourage and promote telegraphic communication between America and Asia, which was returned from the House of Representatives with amendments.</p>
+<p>The first amendment was to insert as section 3 the following:</p>
+<p>SEC. 3. That nothing in this act shall be construed to limit the United States in granting to other persons or companies similar provisions herein contained. </p>
+<p> The next amendment was to change section 3 to section 4. Mr. SARGENT. I move to concur in the amendments. The amendments were concurred in.</p>
+<hi rend="center"><head>OTOE AND MISSOURIA RESERVATION&#8212;VETO MESSAGE.</head></hi>
+<p>The PRESIDENT <foreign>pro tempore</foreign> laid before the Senate the following message from the President of the United States, which was read: </p>
+<hi rend="italic"><salute>To the Senate of the United States:</salute></hi>
+<p>For the reasons stated in the accompanying communication submitted to me by the Acting Secretary of the Interior, I have the honor to return herewith without my approval Senate hill No. 779, entitled "An act to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria and the Sacs and Foxes of the Missouri tribes of Indians in the States of Kansas and Nebraska." </p>
+<closer><hi rend="right"><signed>U. S. GRANT. </signed></hi>
+<dateline>EXECUTIVE MANSION, August 15, 1876.</dateline></closer>
+
+<opener>
+<hi rend="italic"><salute>To the Senate of the United States:</salute></hi>
+</opener>
+<p>Upon further investigation I am convinced that my message of this date withholding my signature from Senate bill No. 779, entitled "An not to provide for the sale of a portion of the reservation of the confederated Otoe and Mlssouria and the Sacs and Foxes of the Missonria tribes of Indians, in the States of Kansas and Ne. braska," was premature; and I request, therefore, that the bill may be returned, in order that I may affix my signature to it.</p>
+<closer><hi rend="right"><signed>U. S. GRANT.</signed></hi> 
+<dateline>EXECUTIVE MANSION, August 15, 1876.</dateline></closer>
+<p>Mr. EDMUNDS. I should be glad to have somebody who is older and wiser than I am tell us whether under the Constitution, the President having returned a bill to this body with his veto and the Constitution saying we shall then proceed to vote upon it, we can on the request of the President or anybody else transmit it to him again? The Constitution seems to be perfectly explicit upon that subject, but it may be that there is some way of getting around it that I do not see. </p>
+<p>Mr. SPENCER. I move to take up the resolution I offered yesterday to appoint a committee.</p>
+<p>The PRESIDENT pro tempore Tho message is before the Senate. The President has requested leave to withdraw his message vetoing a certain bill.</p>
+<p>Mr. EDMUNDS. I move that that message be referred to the Committee on Privileges and Elections.</p>
+<p>Mr. PADDOCK. I hope that motion will not prevail. It certainly is an unkind motion for my friend to make. This is a matter of very great interest in a local sense to my State, and I hope he will not insist on his motion. If there is any parliamentary objection to the withdrawal of the bill as suggested by the President, I hope my friend will make it in order that we may pass the hilt over the President's veto.</p>
+<p>Mr. EDMUNDS. It is not a parliamentary objection, if there be any objection at all. It is one which the Constitution in perfectly plain terms makes for itself. Our duty with a bill that is returned to us is fixed by the Constitution, if it is fixed at all. The Constitution says we shall proceed to do a certain thing with that bill. That is the inquiry that I put to the Senate; and in order that that may be considered, as it is the first instance I remember of this kind, I thought it proper to refer it to an appropriate committee for consideration. If the Senate does not choose to do that, of course it can act. either by. agreeing to this request of the President or declining to agree to It.</p>
+<p>Mr. SARGENT. I do not think there is the slightest doubt that the Senator from Vermont is entirely correct. It is a now question, and yet it is one of that class that almost on its presentation carries its answer. The President has no more right to recall a bill after having vetoed it than he has, as is well suggested in this neighborhood, to tear a leaf out of the statute-book and thereby assume thus to repeal the statute that he tears from the book. I think the subject ought to go to the Committee on Privileges and Elections or the Committee on the Judiciary, and let us settle this matter, for fear that it may be a precedent for what would be an improper practice. Of course the President has no intention of entering upon any improper practice or proceeding, but I think it would be well for us to be careful that we do not innocently fall into a bad precedent.</p>
+<p>Mr. PADDOCK. The President having recorded his judgment, after more mature reflection, that this bill should become a law, I move that the bill do become a law, the President's veto to the contrary notwithstanding.</p>
+<p>The PRESIDENT <hi rend="italic">pro tempore.</hi> The Senator from Vermont has moved to refer the bill with the messages to the Committee on Privileges and Elections.</p>
+<p>Mr. BOUTWELL. It does not seem to me that there is any necessity for a reference of this bill.</p> 
+<p>Mr. EDMUNDS. I only moved, if I correctly stated myself., to refer the last message. </p>
+<p>Mr. BOUTWELL. Very well ; I see no occasion for a reference for the purpose of getting the judgment of a committee upon the question raised by the two messages of the President. When the second message is properly construed it can mean only this : That the President was in error when he wrote and signed the first message. It is a matter of information; that is all. It has no legal value except that. I think that is the effect that the second message has, no legal or constitutional value whatever. Therefore the veto message remains precisely as it existed when it was laid upon the table of the Senate, in its full force and effect. Nevertheless, the second message is information to us that the President after more full consideration entertains the same opinion that was entertained by the House and the Senate when the bill was passed, and I think all we have to do is to pass upon the bill and see whether it can be passed by a two-thirds vote. The second message has no legal value whatsoever. IL is merely information to us that the President has come to the conclusion that his first opinion was an erroneous opinion. There is no legal question that need trouble any committee. </p>
+<p>Mr. FRELINGHUYSEN. It seems to me that there is no question. I certainly concur with the opinions which have been expressed here. The President has no more power to take back his veto and so make that bill a law or remove that obstruction to its being a law, than one House of Congress has. </p>
+<p>Mr. BOUTWELL. I certainly do not think the President can take the veto back. </p>
+<p>Mr. FRELINGHUYSEN. So then it is a mere expression of opinion 
+on his part, which may influence us in our vote whether we shall sustain his veto or not. </p>
+<p>Mr. EDMUNDS. I hope the Chair will state that my motion is to refer merely the message. </p>
+<p>The PRESIDENT <hi rend="italic">pro tempore.</hi> The Chair understood the Senator from Vermont to move that the messages be referred to the Committee on Privileges and Elections, which will leave the bill before tho Senate on its passage. </p>
+<p>Mr. INGALLS. I feel a very strong interest in the passage of this bill and shall be glad if any course is adopted by which it can be-come a law ; but so far as the action of the President is concerned in his attempt to recall his veto message, I am persuaded it is entirely nugatory and without effect ; that he can no more, when he has once performed that act and notice of it has been communicated to the Senate, recall it than he could recall his acts of the session before this or in any preceding year, or, as is suggested by the Senator from California, [Mr. SARGENT,] than he could recall a bill after it had been signed by him and approved and that fact had been communicated to the Senate. Having discharged his duty he is functus officio, and has no more right to recall that hill from the Senate than he hots to perform any other act not confided to him by the Constitution. I therefore agree with the Senator from Massachusetts in believing that the sole duty of the Senate is under the Constitution to say whether they will now pass the bill, the objections of the President to the contrary notwithstanding; and inasmuch as the President has himself indicated to us that no objections exist to the passage of the bill I trust that action may be taken and that the bill will receive a constitutional majority. </p>
+<p>Mr, CONKLING. I agree with the Senator from Kansas except in one remark ho makes. He says the President became functus officio. If he means functus officio for one particular purpose, namely, to withdraw the bill itself in any form, or the message which attended the bill itself, I agree with him. But the distinction between that meaning and a broader one is very important, it seems to me. The President by the Constitution has a right at all times to communicate with one House, or the other, or both Houses of Congress. That right is just as continuing as the right of petition which resides by the Constitution in every citizen. Now the President sends a message which informs the Senate that he finds himself unable to approve with his signature a bill, and therefore he returns it without his approval. Manifestly, stopping there, it is the duty of the House receiving that message to proceed to consider whether the bill shall become a law, the objections of the President to the contrary notwithstanding. </p>
+<p>Now, how is the question affected by the subsequent message which has been sent hero I Proceeding under a power which is not dead, which has not been expended, in respect of which ho is not fancies officio, but always alive and always summoned to his feet to exercise it whenever he thinks he has any information which ought to be communicated to one House or the other or both, proceeding under that continuing power and duty he sends what is called a message. It is a communication addressed to the Senate to apprise the Senate of the fact that, being better advised teaching the qualities of the bill which he vetoed, he has changed his mind and that had he known at the moment when he was called upon to net what he has come to know now, that veto would not have been interposed, but the bill would have been approved. The President exists and subsists at all times to give the Senate such information as that, aunt he has given it. The two Houses have acted upon the bill. They have approved it. If the veto stood it would require two-thirds to say that notwithstanding the refusal of the President to sign it that act should be-</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0158.02.pdf">Veto messages of the Presidents of the United States, with the action of Congress thereon</ref>.  (1886).  Senate.  49th Congress, 2nd session.  Senate Miscellaneous Document No. 53, pp. 403-404 (<title>Serial Set</title> 2451).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 49TH CONGRESS, 2d Session.	SENATE.	Mis. Doc. No. 53. </fw>
+<head>VETO MESSAGES
+OF THE
+PRESIDENTS OF THE UNITED STATES,</head>
+<milestone unit="rule" />
+<head>WITH
+THE ACTION OF CONGRESS THEREON.</head>
+<milestone unit="rule" />
+<head>COMPILED BY ORDER OF THE SENATE,
+BY BEN: PERLEY POORE,CLERK OF PRINTING RECORDS.</head>
+<milestone unit="rule" />
+<p>WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1886.</p>
+<fw> VETO MESSAGES.	403 </fw>
+<p>sular officers shall cease; and not to invade the constitutional rights of the Executive, which I should be compelled to resist; and my present object is not to discuss or dispute the wisdom of failing to appropriate for several offices, but to guard against the construction that might possibly be placed on the language used as implying a right in the legislative branch to direct the closing or discontinuing of any of the diplomatic or consular offices of the Government.</p>
+
+<note place="">The message having been read, it was referred to the Committee on Appropriations and ordered to be printed.</note>
+<milestone unit="rule" />
+<hi rend="center"><head>ULYSSES S. GRANT-XXXIV.</head></hi>
+<opener>
+<dateline><hi rend="italic">August</hi> 15, 1876.</dateline>
+<salute>To the Senate of the United States:</salute>
+</opener>
+<p>For the reasons stated in the accompanying communication submitted to me by the Acting Secretary of the Interior, I have the honor to return herewith, without my approval, Senate bill No. 779, entitled "An act to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria and the Sacs and Foxes of the Missouri tribes of Indians, in the States of Kansas and Nebraska."</p>
+<hi rend="right"><signed>U. S. GRANT.</signed></hi>
+
+<p>Before the Senate had taken any action on this message a second message was received from the President requesting that the bill might be returned in order that he might approve it, as follows:</p>
+
+<salute>To the Senate of the United States :</salute>
+<p>Upon further investigation I am convinced that my message of this date, withholding my signature from Senate bill No. 779, entitled "An act to provide for the sale of a portion of the reservation of the con-federated Otoe and Missouria and the Sacs and Foxes of the Missouri tribes of Indians, in the States of Kansas and Nebraska," was premature; and I request, therefore, that the bill may be returned, in order that I may affix my signature to it.</p>
+<hi rend="right"><signed>U. S. GRANT.</signed></hi>
+<p>The two messages were read, and a debate ensued as to whether, under the Constitution, the President having returned a bill to the Senate with his veto, and the Constitution saying that it should be voted on, it could be transmitted to him again. It was determined that the Senate should proceed to act upon the bill, the second message having no effect except as it impressed the minds of the Senators who were to vote with the fact that there was no such objection found by one part of the legislative power as the previous message apprised them had been found. The question concurring on the passage of the bill, the objections of the President to the contrary notwithstanding, it, was determined in the affirmative by a vote of 36 yeas against no nays. So it was resolved, two-thirds of the Senators concurring therein, that the bill<pb n="404" />
+<fw> 404	VETO MESSAGES. </fw>
+do pass. The House, on reconsideration, just prior to its final adjournment, agreed to the passage of the bill by a vote of 120 yeas against 18 nays, 148 Representatives not voting. The Speaker pro tempore announced that no point of order being made that a quorum of members had not voted, the bill was passed, two-thirds voting in favor thereof.</p>
+<milestone unit="rule" />
+<head>ULYSSES S. GRANT.,-XXXV. </head>
+<hi rend="center"><dateline>August 15, 1876. </dateline></hi>
+<salute><hi rend="italic">To the Senate of the United States:</hi></salute>
+<p>For the reasons presented in the accompanying communications, submitted by the Secretary of War, I have the honor to return herewith, without my approval, Senate bill No. 561, entitled "An act for the relief of Major Junius T. Turner."</p>
+<hi rend="right"><closer><signed>U. S. GRANT.</signed></closer></hi>
+<p>The veto message was read, and the Senate ordered that it be referred to the Committee on Military Affairs.</p>
+
+<p>On the 12th of January following, the President sent the following message to the Senate:</p>
+
+<opener>
+<salute>To the Senate of the United States:</salute>
+</opener>
+<p>On the eve of the adjournment of the last session of Congress I returned to the Senate bill No. 561, entitled "An act for the relief of Major Junius T. Turner," with my objections to its becoming a law. I now desire to withdraw those objections, as I am satisfied they were made under a misapprehension of the facts.</p>
+<closer><hi rend="right"><signed>U. S. GRANT.</signed></hi></closer>
+<note place="">The message was read, and the Senate ordered that it be referred to the Committee on Military Affairs.</note>
+<p>On the 13th of February, 1877, Senator Logan, from the Committee on Military Affairs, to whom was referred the bill (S. 561) for the relief of Major Junius T. Turner, together with a message of the President of the United States, returning the said bill with his objections thereto in writing, reported a recommendation that the bill do pass, the objection of the President to the contrary notwithstanding. No action was had on it.</p>
+<milestone unit="rule" />
+<head>ULYSSES S. GRANT.-XXXVI. </head>
+<hi rend="center"><dateline>January 15, 1877.</dateline></hi>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+<p>The joint resolution authorizing the Secretary of War to supply
+blankets to the Reform School in the District of Columbia is before me.
+I am in entire sympathy with the purpose of the resolution, but before taking any action upon it I deem it my duty to submit for your
+consideration the accompanying letter, received from the Secretary of</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0158.03.pdf"><title>Congressional Record</title> 4, 5665</ref> (1874).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1876	CONGRESSIONAL RECORD SENATE.	5665 </fw>
+<p>come a law. The veto does stand, unquestionably, it seems to me, as Senators on both sides. have said, in all its technical, formal, and in that sense all its legal effect. It is an act which is the exertion of a
+power expended when it is exerted ; and therefore that message can-
+not be withdrawn; but the substance of it, the persuasive force and effect of it, can be removed and is removed by a disclaimer on the part of the anther by an avowal on his part that upon more full and particular information he is satisfied that the veto message ought not to have been sent and that were it in his power now he would take it back, so that tho bill might stand with his signature. That is an invitation to the Senate, it is a notice given to the Senate that they must not rely upon the reasons assigned in the veto message and that they must not so far as they have a right to rely upon the President of the United States touching legislation, depend on him for the
+overthrow of the bill or the refusto adopt it. How far the Senate
+has a right to rely on the President is prescribed in the Constitution. Arithmetically considered, one-sixth part of the power of legislation
+resides in the President, and is made effective by his veto. Now he
+says "I want to give notice that iii this case I was misled, I was misinformed in regard to this bill, and therefore, although I cannot displace the veto message, and although I cannot technically cancel or annul it, I can but apprise the Senate that the reasons on which I supposed that message could rest are unfounded, and therefore as to
+me it falls to the ground. The argument is in favor of the bill for
+reasons which I have now discovered, and not against the bill for reasons whieh I supposed to exist, but which on fuller information I had are absent."</p>
+<p>It seems to me that we ought to proceed to net upon tho bill, the
+more recent communication having no effect except as it impresses
+the minds of Senators who are to vote with the fact that there is no
+such objection found by one part of the legislative power as the previous message apprised us had been found.</p>
+<p>I can see no purpose in referring this message to any committee to ascertain the question, if it be a question, and I conceive there is no question of substance hero and no question of value. If we referred the message to a committee, it would imply that we were not sufficiently advised to take action on the bill ; but it might well be said that it would be inconsistent after that for the Senate to proceed in the absence of information which they had directed a committee to acquire and bring in.</p>
+<p>It seems to me then that to preserve the consistency of the body and to observe also proper attention and industry in legislation, both Houses having acted upon this bill and passed it and there being no objection assigned to it except that which is displaced and withdrawn,
+the true way is to proceed, as the Constitution says we shall, and
+affirm whether in our judgment, despite this message&#8212;which it seems was in a sense improvident or inadvertent&#8212;the act shall
+become a law; and I think we are as ready to vote on that question as we ever can be after the committee has philosophized on what
+seems to me to admit of no doubt whatever, namely, whether when the President has sent a veto message he has sent it, and that is the end of it, and whether after it has been delivered and read, it can be withdrawn I conceive there can be no question of that sort and it must be obviously our duty to proceed and act on the bill in form as we would in the case of any other bill to which the executive sanction had been refused.</p>
+<p>Mr. MORTON. As this message is proposed to be referred to a committee to which I belong, I may be excused for saying a word. This message can only he regarded in the light of a recommendation to pass the bill over the veto. I think the President has no more right to withdraw a veto than he has to withdraw hit signature to a bill after he has signed it. It seems to me the question is not open to argument, and I can see no occasion for referring the message to a committee and asking the opinion of a committee upon it. As has been said, it might leave the inference that there was doubt about it.</p>
+<p>The PRESIDENT pro tempore. The question is on the motion to refer the last message to the Committee on Privileges and Elections.</p>
+<p>The motion was not agreed to.</p>
+<p>The PRESIDENT pro tempore. The question is, Shall the bill pass,
+the objections of the President to the contrary notwithstanding? on which the yeas and nays must be taken under the Constitution.</p>
+<p>The question being taken by yeas and nays, resulted—yeas 36, nays none; as follows:
+YEAS—Messrs. Allison, Booth, Boutwell, Burnside, Cameron of Wisconsin, Christiancy, Clayton, Cockrell, Conkling, Cooper, Cragiu, Ferry, Frelinghuysan. Harvey, Hitchcock, Howe, Ingalls, Jones of Florida, Janes of Nevada, Kelly, Kernan, Key, McCreary, McDonald, McMillan, Mitchell, Morrill, Morton. Oglesby, Pad-dock. Patterson, Randolph, Sargent, Spencer, West, and Windom-36.</p>
+<p>NAYS-0.</p>
+<p>ABSENT—Messrs. Alcorn, Anthony, Barnum, Bayard, Bogy, Bence, Cameron of Pennsylvania, Conover, Davis, Dawes, Dennis, Dorsey, Eaton, Edmunds, Goldthwaute, Gordon, Hamilton, Hamlin. Johnston. Logan, Maxey, Merrimon, Norwood, hansom , Robertson, Saulsbury, Sharon, Sherman, Stetomen, Thurman, Wadleigh, Wallace,nllaeo, Whyte, Withers, and Wright—35.</p>
+<p>The PRESIDENT pro tempore. On the passage of the bill notwithstanding the objections of the President the yeas are 36 and the nays
+none. Two thirds having voted for the passage of the bill, the same is passed.</p>
+<p>Mr. INGALLS. As this is a novel question, I suggest that it would
+not probably be necessary to transmit to the House the last message of the President.</p>
+
+<p>Tho PRESIDENT pro tempers. It will lie on the table, if there be no objection.</p>
+<head>MESSAGE FROM THE HOUSE.</head>
+<p>A message from the House of Representatives, by Mr. G. M. ADAM,
+its Clerk, announced that the House had passed a joint resolution (H. R. No. 165) to defray the expenses of the joint committee of the Senate and House of Representatives to prepare a suitable form of government for the District of Columbia; in which it requested the concurrence of the Senate.</p>
+<head>JUNIUS T. TURNER— Veto MESSAGE,</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message:</p>
+<quote><salute>To the Senate of the United States:</salute>
+<p>For the reasons presented in the accompanying communications, submitted by the Secretary of War, I have the honor to return herewith, without my approval, Senate bill Nu. 561, entitled "Au act for the relief of Major Junius T. Turner."</p>
+<dateline>ExEcuTIve Mansion, August 15, 1576.</dateline>	<signed>U. S. GRANT. </signed></quote>
+
+<p>Mr. SPENCER. Let that go over to the next session.</p>
+<p>Mr. MITCHELL. I move that the bill, with the, message, be re-
+ferred to the appropriate committee, the Committee On Military Affairs. Mr. DAVIS. Is it not disrespectful to refer it without its being read? I hope no Senator will object to the message being read.</p>
+<p>Mr. SARGENT. The message has been read; the accompanying documents have not been.</p>
+<p>Mr. DAVIS. Senators in whom I have confidence differ with me, and I withdraw my objection.</p>
+<p>The PRESIDENT pro tempore. The Senator from Oregon moves the
+reference of the bill and the message to the Committee on Military Affairs.
+The motion was agreed to.</p>
+<head>EXPENSES OF JOINT DISTRICT COMMITTEE.</head>
+<p>The PRESIDENT pro tempore laid before the Senate the joint resolution (H. R. No. 165) to defray the expenses of the joint committee
+of the Senate and House of Representatives to prepare. a suitable form of government for the District of Columbia.</p>
+<p>The joint resolution was read at length. It appropriates $3,000, or so much thereof as may he necessary, for the purpose of paying the expenses of the joint committee, one-half to be disbursed from the contingent fund of the Senate and one-half from the contingent fund of the House of Representatives.</p>
+<p>By unanimous consent the joint resolution was read three times, and passed.</p>
+<p>The PRESIDENT pro tempore. The Chair will now appoint the
+members of the Senate upon the special committee. The Chair appoints the Senator from Alabama, Mr. SPENCER; the Senator from Minnesota, Mr. WINDOM; and the Senator from Maryland, Mr. WHYTE.</p>
+<head>
+PAY OF COMMMITTEE CLERKS.</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following
+concurrent resolution from the House of Representatives:</p>
+<p><hi rend="italic">Resolved</hi> by the House of Representatives, (the Senate concurring,) That there be paid out of the contingent funds of the respective Houses the usual per diem allowance to clerks of committees not having a yearly salary for a period of thirty-one days from the 1st day of August, 1876.</p>
+<p>Mr. SARGENT. That is of no value unless made a joint resolution. I move to make it a joint resolution.</p>
+<p>The PRESIDENT pro tempore. The Senator from California moves
+an amendment to make this a joint resolution. The Chair hears no objection; and it is so modified.</p>
+<p>By unanimous consent, the joint resolution (S. R. No. 26) authorizing an allowance to certain clerks of committees was read three times, and passed.</p>
+
+<head>ALABAMA ELECTION INVESTIGATION.</head>
+<p>Mr. SPENCER. I move that the Senate, proceed to the consideration of the resolution I offered yesterday for the appointment of a committee to investigate the recent election in Alabama, and on that motion I desire to submit a few remarks.</p>
+<p>Warned, Mr. President, by the experience of Mississippi and fully apprised of an existing conspiracy on the part of the southern democracy to overcome the republican majorities in the seceding States, no matter, at what cost or hazard or by what process or formula, I was not unprepared to learn that Alabama, had been fraudulently carried
+by the democratic party. But I confess my surprise when the result
+of the late election in Alabama was heralded throughout the land and so indorsed upon the floor of the Senate as a peaceable, honest, and fair election, the majority not less than forty thousand; this the legitimate result, so said, of change of political sentiment in that State.</p>
+<p>I was astonished to hear tho report, commonly made and credited, but no less false, that this overwhelming majority was accomplished
+by the addition of the colored vote, which, as alleged, was polled
+largely for the democratic nominees, and against its old associates of the republican party, freely and of its own volition; an indorsement by the colored people of the propriety of democratic reform and in vindication of the administration of the democratic governor.
+Glaring and flagrant as were the frauds in Alabama at the election of 1874, when Georgia on the one side and Mississippi on the other, by preconcerted arrangement, colonized the State, stuffing the ballot-</p>
+</body></floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0158.04.pdf"><title>Congressional Record</title> 4, 5696</ref> (1874).</bibl>
+<!-- <floatingText>
+<body>
+5696	CONGRESSIONAL RECORD HOUSE.	AUGUST 15,
+INCREASE OF CAVALRY FORCE.
+Mr. BANNING, I now move the previous question on agreeing to the report of the conference committee and call for a vote upon the bill,
+Mr. COX. I made the motion to lay the conference report on the table.
+Mr. BANNING. That motion is not in order.
+Mr. COX. I was about to say, if the gentleman had not been so quick in interrupting me, that I proposed to withdraw that motion. It is a little doubtful whether the point of order on the motion might not be sustained. I hope the vote will be taken on the conference report, and that the motion to agree to it will be voted down.	.
+The previous question was seconded and the main question ordered.
+The SPEAKER pro tempore The question is on agreeing to the re-port of the committee of conference.
+Mr. COX and Mr. WIKE called for the yeas and nays.
+On the question of ordering the yeas and nays there were—ayes 24, noes 80.
+So (the affirmative being more than ono-fifth of the whole vote) the yeas and nays were ordered.
+The question was taken ; and there were—yeas 108, nays 30, not voting 139 ; as follows :
+YEAS-Messrs. Abbott, Ainsworth, Bagby, John H. Baker, Banks, Banning, Bland, Bradley, Burleigh, Cannon, Cason, Caulfield, Chittenden John B. Clark, j r., of Missouri, Cochrane, Conger, Crape, Crounse, Cutler, Davy, Durand, Durham, Eames, Edon, Finley, Fort, Freeman, Garfield, Goodin, Andrew H. Hamilton, Hancock, Hardonbergh, Hartzell, Raymond, Henderson, Abram S. Hewitt, Holman, Hopkins, Hyman, Joyce, Kasson, Kehr, Franklin Landers, Lane, Lapham,
+Lawrence, Levy, hued, Luttrell, Lynch. Mackey. Magoon, Maish. McCrary, Mc-Dill, Meade, Metcalfe, Mills, Monroe, Morrison. Mutchler, New, Norton, O'Neill,
+
+Packer, Page, Pierce, Plaisted, Poppleton, Randall, Reagan, John Reilly, James B, Reilly, Rice, John Robbins, Milos Ross, Sampson, Savage, Sheakloy, Sinnickson, A. Herr Smith, Springer, Strait, Stenger, Stevenson, Stone, Stowell, Tarbox, Teese, Thompson, Thornburgh, Throckmorton, Washington Townsend, Tufts, Turnoy, John L. Vance, Wait, Wattereon. Erastus Wells, G. Wiley Wells, White,Willard,
+Alpheus S. Williams, James Williams, ,Wilshire, James `Wilson, Woodburn, and Yeates-108.
+NAYS—Messrs, Ashe, Atkins, Blackburn, Boone, Bradford, Bright, John B. Clarke of Kentucky, Clymer, Cook, Cowan, Cox, Dibrell, Douglas, Felton, Forney, Franklin, Gause, Goode, Gunter, Hartridgo, Hereford, Hooker, noose, Harden, Thomas L. Jones, Knott, Lamar, Piper, Riddle, William M. Robbins, Roberts,
+Scales, Singleton, Siemens, Terry, Gilbert C. Walker, Whitthorno, Wile, and Jeremiah N. Williams-39.
+NOT VOTING—Messrs. Adams, Anderson, George A. Bagley, John H. Bagley, jr., William H. Baker. Balton, Bass, Beebe, Bell, Blair, Bliss, Blount, John Young Brown, William R. Brown, Buckner, Horatio C. Bernhard Samuel D. Burchard, Gabel', John H. Caldwell, William P. Caldwell, Campbell, Candler, Caswell, Cato, Chapin, Collins, Culborsan, Danford, Darrall, Davis, De Bolt, Dcnieon, Dobbins,
+Bunnell, Egbert, Ellis, Ely, Evans, Faulkner, Footer, Frye. Fuller, Gibson, Glover, Hale, Robert Hamilton, Haralson, Benjamin W. Harris'', Henry R. Horne, John
+T. Harris, Harrison, Hatcher, Hathorn, Hays, Hendee, Henkle, Goldsmith W. Hewitt. Hill, Hoar, Hoge, Hoskins, Hubbell, Hunter, Hurd, Hurlbut, Jenks, Frank
+
+Jones, Kelley, Kimball, Xing, George M. Landers, Leavenworth, Lo Moyne, Lewis, Lynde, MacDougall, McFarland, McMahon, Miller, Milliken, Money, Morgan, Nash, Neal, O'Brien, Odell, Oliver, Payne, Phelps, John F. Philips, William A. Phillips, Platt, Potter, Powell, Pratt, Purman Rainey, Rea, Robinson, Sobieski Rose, Rusk, Sayler; Schleicher, Schumaker, Seclye, Smalls, William E. Smith, Southard, Sparks, Spencer, Swann, Thomas, Martin I. Townsend, Tucker Van Vorhes, Robert B. Vance, Waddell, Waldron, Charles C. B. Walker, Alexander S. Wallace, John W. Wallace, Walling, Walsh, Ward, Warren. Wheeler, White-
+house, Whiting, Wigginton, Andrew Williams, Charles G. Williams, James D. Williams, William B. Williams, Willis, Benjamin Wilson, Alan Wood, jr., Fernan-
+do Wood, Woodworth, and Young -139.
+So the report of the conference committee was agreed to. During the roll-call the following announcements were made :
+Mr. COCHRANE. I desire to state that my colleagues, Mr. Ross and Mr. Jenks, are absent by leave of the House.
+Mr. NORTON. Mr. VAN VORHES is detained from the House on account of sickness.
+Mr. O'NEILL. I desire to say that Mr. DANFORD left for his home yesterday on account of indisposition. If here he would vote" ay." Mr. HUNTON. My colleague, Mr. HARRIS, is absent on important business.
+Mr. STEVENSON. My colleagues, Mr. ANDERson and Mr. CAMP-BELL, are absent. If present they would vote " ay."
+Mr, MAGOON. Mr. CASWELL is absent. If present he would veto "ny.e
+Mr. DAVY. I desire to announce that my colleague, Mr. McDou-GALL, is absent by leave of the House. If present he would vote "ay." Mr. THORNBURGH. My colleague, Mr. MCFARLAND, is absent on account of sickness. If here he would vote " ay."
+The result of the vote was then announced as above recorded.
+' Mr. BANNING moved to reconsider the vote by which the report of the conference. committee was agreed to; and also moved that the motion to reconsider be laid on the table,
+The latter motion was agreed to.
+MESSAGE. FROM THE SENATE.
+A message from the Senate, by Mr. SYMPsoN, one of their clerks, announced that the Senate had passed without amendment bills of the House of the following titles :
+A bill (H. R. No. 882) for the relief of Mrs, James K. Polk, of Nashville, Tennessee; and
+A bill (H.11. No. 719) for the relief of the heirs of William Stevens. THE SPEAKER OF THE HOUSE.
+Mr. BANKS. Mr. Speaker, at the close of this unusually long and laborious session it will occur to every member of the House thatthere are many causes of congratulation for the good fortune that has attended its and the degree of health that has accompanied us in our labors. But we cannot at this moment of parting forget that from the very moment of the organization of the House one of its most be-loved and honored members has been stricken with disease, and though elevated to that high trust, the position which you at this moment in his absence occupy, a trust which the most distinguished men of the country have esteemed it an honor to discharge, has been, at first in our presence, and since parting from us, still failing in health until we are led sorrowfully to fear that his brilliant and honor-able career is near—too near its close. The honorable gentleman from New York, [Mr. Cox,] the chairman of the Committee em Banking and Currency, has placed in my hand a telegram dated at Rock Alum, at 5.46 o'clock this afternoon, which bears the signature of the absent Speaker of the House, which I will read :
+Hoe. S. S. Cox.
+My condition is very critical; no•change since morning.
+M. C. KERR.
+Sir, I am sure it will be the unanimous desire and a source of poignant regret if it should be omitted of all the members of this House from every section of the country and of every phase of opinion, that we should express to the absent Speaker our confidence in his high integrity, our admiration for his brilliant public services, our regret for his failing strength, and our hope for the restoration of his heal':h. It is in this view that, upon consultation with gentlemen upon different sides of the House, I ask leave to offer a resolution as an expression of that feeling which I have imperfectly expressed, and which [ know so well animates the heart of every member, present or absent.
+The Clerk read as follows :
+Resolved, That the House of Representatives at the moment of closing its present session tenders to Hon. MICHAEL C. KERR, its beloved and honored presiding officer, the unanimous expression of the heartfelt sympathy of its members in his affliction, and their hope that the recovery of his 'health may soon restore to his associates in the public service the wisdom of his counsel and the beneficent influence of his example.
+The question was taken on the resolution, and it was unanimously adopted.
+Mr. BANKS. I move, with your leave and that of the House, that the Speaker pro tempore be requested to transmit this resolutiou to Mr. KERR.
+Mr. TUCKER. By telex am.
+The SPEAKER Pro tempore The Chair will see that that is done. OTOE AND MISSOURIA INDIANS.
+Mr. CROUNSE. I desire to call up the message of the President . vetoing the bill (S. No. 779) to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria Indians and the Sacs and Foxes, of the Missouri tribe of Indians, in the States of Kansas and Nebraska, that the House may have an opportunity of reconsidering its action respecting that .bill.
+The Clerk read the President's veto message, as follows : To the Senate of the United States :
+For the reasons stated in the accompanying communications submitted to me by tho Acting Secretary of the Interior, I have the honor to return herewith without my approval Senate bill No. 779, an act to provide for the sale of a portion of the reservation of the confederated Moo and Missouria and the Sacs and Foxes of the Missouri tribes of Indians, in the States of Kansas and Nebraska.
+U. S. GRANT. EXECUTIVE MANSION, August 15, 1876.
+Mr. CROUNSE. I beg to state respecting this bill that it originated in the Senate, came to this House, and was passed hero unanimously. It went to the President for his approval and tinder a misapprehension and under information received from the Commissioner of Indian Affairs he refused to attach his signature to the hill and re-turned it to the Senate, but immediately thereafter, upon being advised of the mistake which had occurred and the misapprehension under which he labored at the time he refused to sign the bill, he followed it up with another letter which was read in the Sonata a short time since and the United States Senate unanimously passed the bill. It is fair to say that the President himself admits that he acted under misapprehension. and under misinformation, and that had he been advised at the time ho vetoed the bill as he is now advised he would have attached his signature to it. In this state of affairs the Senate has passed the bill as it did before unanimously. The committees of the two Houses are in accord with regard to it and no objection can be made against it in any quarter.
+The hill was road.
+The SPEAKER pro tempore The question is, Will the House, on reconsideration, agree to pass the bill?  And this vote can only be taken by yeas and nays.
+Mr. HOLMAN. It seems to me it should be referred to the Committee on Indian Affairs.
+Mr. CROUNSE. That committee are unanimously in favor of the bill.
+Mr. HOLMAN. If there can boa formal consideration of the bill by the Committee on Indian Affairs
+Mr. GOODIN. This bill passed the House unanimously.
+Mr. HOLMAN. Under the report of the Commissioner of Indian Affairs, it certainly is questionable whether this bill should now pass. Mr. RANDALL. I call for the yeas and nays upon the bill. The SPEAKER pro tempore. The Chair must rule that this is a privileged question, and the yeas and nays will be called ; because under the Constitution the bill cannot be passed otherwise.
+</body></floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+ 
+<bibl><ref target="PV0158.05.pdf">An act to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria and the Sac and Fox of the Missouri tribes of Indians in the States of Kansas and Nebraska</ref>, 19 <title>Stat.</title> 208 (1876).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+208	FORTY-FOURTH CONGRESS. Sims. -I. a$. 307, 308. 1876.
+district, which shall be valid and light in other respects up to the day on which the new office shall go into operation, be, and the same are hereby confirmed.
+Approved, August 15, 1876.
+Aug. 15, 18Th. CHAP. 308.-An act to provide for the sale of a portion of the reservation of the con-federated Otoe and Missonria and the Sac and Fox of the Missouri Tribes of In-Post, p.	dians in tho States of Kansas and Nebraska.
+Qttoe end - ~ - Be it ena ct by the Senate and House o Beireseatatives of the United
+s o n r i a r o servo- States of America in Congress assembled, That, with the consent of the
+tion in Kansas and Otoe and Missonria tribes of Indians expressed in open council, the
+Nebraska may be Secretaty of the Interior is authorized to cause to he surveyed the reser-
+surveyed.	va lion of said Indians lying in the States of Kansas and Nebraska. -
+To be appraised. Kra. 2. That the lands so surveyed shall be appraised by three commissioners, one of whom shall be designated by said Indians in open eouucil,.and the other two by the Secretary of the Interior.
+Part to be sold SEO. 3. That after the survey and appraisemen t of said Iauds, the
+for cash. Secretary of the interior shall be, and is hereby, authorized to offer one hundred and twenty thousand acres from the western side of the same for sale, through the United States public land-office, at Beatrice, Nebraska, for mall to actual settlers only, in tracts not exceeding one hundred and sixty acres to each purchaser : Provided, That if, in the judgment of the ,Secretary of the Interior, it shall be more advantageous
+May be sold on to sell said hinds upon deferred payments, he may, with the consent of
+time. the Indians expressed in open council, dispose of the same upon the following terms as to payments, that is to say, one-third in cash, one-third in one year, and one-third in two years from date of sale, with interest at the rate of six per centum per annum : And provided further,
+Price.	That no portion of said land shall be sold at less than the appraised value thereof, and in no case less than two dollars and fifty cents per acre.
+Disposition of SEC. 4. That the proceeds of said sale shall be placed to the credit of
+ps.	said Indians in the Treasury of the United States, and bear interest at
+Ants, p. 187. the rate of five per centum per annum which income shall be expended for the benefit of said tribes under direction of the Secretary the Interior.
+Pay of apprais- SEC. 5. That the commissioners for the appraisement of said lands
+era                    shall be paid  for their services at the rate of five dollars per day while actually employed, and their actual expenses; which sum, together with the cost of survey, and all other necessary incidental expenses of the execution of this act, shall be paid from the money realized by the sale of said lands.
+Plats and field notes
+  Sec. 6. That certified-copies of the plats and field-notes of said lands when surveyed shall be prepared under the direction of the Secretary of the Interior, and kept in the land-office at Beatrice, Nebraska, to be used as other official plats and notes ; and the register and the receiver
+Fees.   shall be allowed such fees only for the sale of said lands as are now authorized by law in case of sales of public lands of the United States, to be paid out of the moneys arising from the sale thereof
+Sac and Fox reservation in Kansas and Nebraska may be sold on same terms
+Sec. 7. That whenever the Sac and Fox of the Missouri tribe of Indians-shall, in open council in the usual manner, express their consent  Nebraska thereto, the Secretary of the Interior shall be, and hereby is, authorized, in Iike manner and upon the same terms prescribed in the preceding sections of this act, to ca use to be offered for sale a portion of their reservation lying in the States of Kansas and Nebraska, not exceeding in quantity ten sections of land to be taken from the western portion thereof; and the proceeds arising therefrom shall be used for the benefit of said tribe as the Secretary of the Interior may direct.
+MILTON SAYLER,
+of the House of Representatives pro t pors. P. W. FERRY
+President of the Senate pro amore.
+HeinOnline - 19 <title>Stat.</title> 208 1873-1877
+FORTY-FOURTH CONGRESS. Sess. L OH. 308.. 1876:	209
+IN THE SENATE -OP THE UNITED STATES
+August 15, 1876
+The President of the United States laving returned to the Senate, in which it originated, the bill entitled "An act to provide for the sale of a portion of the reservation of the Confederated Otoe and Missouria and the Sac and Fox of the Missouri Tribes- of Indians in the States of Kansas and Nebraska" with his objections thereto, the Sanate proceeded in pursuance of the Constitution to reconsider the same ; and
+Resolved, That the said bill do pass, two-thirds of the Senate agreeing to pass the same.
+Attest	GEO 0 GORHAM Secretary.
+
+IN THE HousE of REPRESENTATIVES U. S.
+Aug. 15, 1876.
+The House of Representatives having proceeded in pursuance of the Constitution, to reconsider the bill entitled, "An act to provide for the sale of a portion of the reservation of the confederated Otoe and Missouria tribes of Indians in the State of Kansas and Nebraska" returned to the Senate by the President of the United States, with his objections, Ind sent by the Senate to the House of Representatives with the message of the President returning the bill
+Resolved that the bill do pass, two-thirds of the House of Representatives agreeing to pass the same.
+Attest,	GEO. M. ADAMS. Clerk.
+XIX—1.4
+</body></floatingText> -->
+
+
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

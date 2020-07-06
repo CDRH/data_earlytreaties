@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2486">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2486	S. 321 (One hundred first Congress, Second Session &#8212; G.H.W. Bush)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2486</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>G.H.W. Bush</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>One hundred first Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2486	S. 321 (One hundred first Congress, Second Session &#8212; G.H.W. Bush)</head>
+
+<p>Indian Preference Act of 1990.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 101st Congress adjourned sine die on October 28, 1990.  The bill was presented to the President on November 9, 1990 (137 <title>Cong. Rec.</title> 23).  A Presidential message was received by Congress on January 3, 1991 (137 <title>Cong. Rec.</title> 118).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1989-2000</title>.  (2001). Washington, DC: Government Printing Office, 5.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2486.01.pdf"><title>Congressional Record</title> 137, 23</ref> (1991).</bibl>
+<!-- <floatingText>
+<body>
+CONGRESSIONAL RECORD—SENATE
+January 3, 1991
+ENROLLED BILL SIGNED
+Under the authority of the order of the Senate of January 3, 1989, the Secretary of the Senate, on November 19, 1990, subsequent to the sine die adjournment of the Congress, received a message from the House of Representatives announcing that the Speaker has signed the following enrolled bill:
+H.R. 4567. An act to authorize an exchange of lands in South Dakota and Colorado.
+Under the authority of the order of the Senate of January 3, 1989, the en-rolled bill was signed on November 19, 1990, subsequent to the sine die adjournment of the Congress, by the President pro tempore [Mr. BYRD].
+
+
+MESSAGES FROM THE HOUSE
+At 6:58 p.m., a message from the House of Representatives, delivered by Mr. Hays, one of its reading clerks, announced that the House has agreed to the following resolution:
+H. Res, 2. A resolution Informing the Senate that Thomas S. Foley, a Representative from the State of Washington, has been elected Speaker of the House; and that Donnald K. Anderson, a citizen of the State of California, has been elected Clerk of the House.
+H. Res. 3. A resolution notifying the Senate of the appointment of a committee on the part of the House, to join with a commit-tee on the part of the Senate to notify the President that a quorum of each House is assembled and is ready to receive any communication that he may be pleased to make.
+
+
+ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED
+The Secretary of the Senate reported that he had presented to the President of the United States the following en-rolled bills and joint resolutions:
+On November 8,1990:
+S. 3187. An act to address Immediate problems affecting environmental cleanup activities;
+S.J. Res. 206. Joint resolution calling for the United States to encourage immediate negotiations toward a new agreement among Antarctic Treaty Consultative Parties, for the full protection of Antarctica as a global ecological commons;
+S.J. Res. 302. Joint resolution providing for the reappointment of Anne Legendre Arm-strong as a citizen regent of the Smithsonian Institution; and
+S.J. Res. 369. Joint resolution designating 1991 as the "Year of Thanksgiving for the Blessings of Liberty."
+On November 8, 1990:
+S. 1430. An act to enhance national and community service, and for other purposes; and
+S.J. Res, 375. Joint resolution to designate October 30, 1990, as "Refuge Day."
+November 9. 1990:
+S. 169. An act to require the establishment of a U.S. Global Change Research Program aimed at understanding and responding to global change, including the cumulative effects of human activities and natural processes on the environment, to promote discussions toward International protocols in glob-al change research, and for other purposes;
+S. 321. An act to revise provisions of law that provide a preference to Indians;
+S. 459. An act to amend title 35, United States Code, with respect to the use of inventions In outer space;
+S. 555. An act to establish in the Department of the Interior the De Soto Expedition Trail Commission, and for other purposes;
+S. 605. An act to authorize appropriations for the Consumer Product Safety Commission, and for other purposes;
+S. 620, An act for the relief of Leroy W. Shebal of North Pole, AK.
+S. 639. An act to establish the Spark Matsunaga Hydrogen Research, Development, and Demonstration Program Act of 1990;
+S. 677. An act to amend the Arctic Re-search and Policy Act of 1984 to improve and clarify its provisions;
+S. 1805, An act to authorize the Secretary of the Interior to reinstate oil and gas lease LA 033164;
+S. 1931. An act to amend title 11 of the United States Code with respect to the nondischargeability of debts arising from unlawful driving while intoxicated or impaired and arising from restitution imposed for committing crimes;
+S. 2056. An act to establish a program of grants for the development of State plans for meeting the objectives established by the Secretary of Health and Human Services for the health status of the population of the United States for the year 2000;
+8. 2287. An act to authorize appropriations for the National Aeronautics and Space Ad-ministration for research and development, space flight, control and data communications, construction of facilities, and research and program management, and for other purposes;
+S. 2566. An act to establish the Smith River National Recreation Area,. to redesignate the Sunset Crater National Monument, and for other purposes;
+S. 2789. An act to authorize appropriations for the Earthquake Hazards Reduction Act of 1977, and for other purposes;
+S. 2857. An act to amend the Public Health Service Act with respect to certain programs for the National Institutes of Health;
+S. 2930. An act to eliminate "substantial documentary evidence" requirement for minimum wage determination for American Samoa, and for other purposes;
+8. 2936, An act to amend the Hazardous Materials Transportation Act to authorize appropriations for fiscal years 1990, 1991, and 1992, and for other purposes;
+S. 2946. An act to amend the Public Health Service Act to revise and extend the program establishing the National Bone Marrow Donor Registry, and for other purposes;
+S. 3069. An act to provide a method of locating private and Government research on environmental issues by geographic location;
+S. 3084. An act to provide for the settlement of water rights claims of the Fallon Paiute Shoshone Indian Tribes, and for other purposes;
+8. 3156. An act to correct a clerical error in Public Law 101-383;
+S. 3176. An act to promote environmental education, and for other purposes;
+8. 3215. An act to authorize the transfer by lease of a specified naval landing ship dock to the Government of Brazil;
+8. 3237. An act to authorize the Secretary of the Treasury to sell certain silver proof coin sets;
+S.J. Res. 318. Joint resolution providing for the appointment of Ira Michael Heyman as a citizen regent of the Smithsonian Institution; and
+23
+S.J. Res. 357. Joint resolution to designate October 1-31, 1991, as "Community Center Month."
+On November 13, 1990:
+S. 1630. An act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes.
+On November 19, 1990:
+S. 303. An act to establish a framework for the conduct of negotiated rulemaking by Federal agencies;
+S. 319. An act to effect and exchange of lands between the U.S. Forest Service and the Salt Lake City Corp. within the State of Utah, and for other purposes;
+S. 566. An act to authorize a new HOME In-vestment Partnership Program, a National Home Ownership Trust Program, and HOPE programs, to amend and extend certain laws relating to housing, community and neighborhood preservation, and related programs, and for other purposes;
+S. 845. An act to amend the Federal Food, Drug, and Cosmetic Act to revitalize the Food and Drug Administration, and for other purposes;
+S. 1893. An act to reauthorize the Asbestos School Hazard Abatement Act of 1984;
+S. 2628. An act to amend the Public Health Service Act to reauthorize certain National Institute of Mental Health grants and to improve provisions concerning the State comprehensive mental health services plan, and for other purposes;
+S. 2740. An act to provide for the conservation and development of water and related resources, to authorize the U.S. Army Corps of Engineers civil works program to construct various projects for improvements to the Nation's infrastructure, and for other purposes;
+S. 2830, An act to extend and revise agricultural price support and related programs, to provide for agricultural export, resource conservation, farm credit, and agricultural research and related programs, to ensure consumers an abundance of food and fiber at reasonable prices, and for other purposes;
+S. 2834. An act to authorize appropriations for fiscal year 1991 for the intelligence activities of the U.S. Government, the Intelligence Community Staff, and the Central Intelligence Agency Retirement and Disability System, and for other purposes;
+S. 3012. An act to amend the Independent Safety Board Act of 1974 to authorize appropriations for fiscal years 1991, 1992, and 1993, and for other purposes; and
+S. 3266. An act to control crime.
+On November 20, 1990:
+S. 1859. An act to restructure repayment terms and conditions for loans made by the Secretary of the Interior to the Wolf Trap Foundation for the Performing Arts for the reconstruction of the Filene Center in Wolf Trap Farm Park in Fairfax County, VA, and for other purposes;
+S. 1939. An act to extend the authorization of appropriations for the Taft Institute;
+S.J. Rea. 329. Joint resolution to designate the week of November 3, 1990, to November 10, 1990, as "National Week to Commemorate the Victims of the Famine in the Ukraine, 1932-33," and to commemorate the Ukrainian famine of the 1932-33 and the policies of Russification to suppress Ukrainian identity; and
+S.J. Res. 364. Joint resolution to designate the 3d week of February 1991 as "National Parents and Teachers Association Week."
+On November 26, 1990:
+S. 358. An act to amend the Immigration and Nationality Act to change the level, and
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2486.02.pdf"><title>Congressional Record</title> 137, 118</ref> (1991).</bibl>
+<!-- <floatingText>
+<body>
+118	CONGRESSIONAL. RECORD—HOUSE	January 3, 1991
+nuclear, chemical and biological weapons.
+In summary, H.R. 4653 contains serious and unacceptable flaws that would hamper our efforts to prevent the proliferation of weapons of mass destruction and to ease restrictions on the legitimate sale of dual-use goods to acceptable users. Rather than sign this bill, I have chosen to take a series of steps under existing authorities to ensure that mutually shared objectives are met in a timely and effective manner. I will work with the Congress, upon its return, to enact an appropriate extension of the Export Ad-ministration Act.
+GEORGE BUSH. THE WHITE HOUSE, November 16, 1990.
+H.R. 3134-MEMORANDUM OP DISAPPROVAL In the closing days of the 101st Congress, two bills were passed providing for somewhat different benefits for the surviving spouses of assassinated Federal judges. These survivors have suffered profound and tragic losses, and they have our deepest sympathies. I am pleased that the Congress has passed legislation allowing these individuals to receive additional benefits.
+One bill—H.R. 5316, the "Judicial Improvements Act of 1990"—has not yet been presented to me for approval. Upon its presentation to me, I plan to approve H.R. 5316, which contains provisions that would in-crease the benefits, subject to certain limits, for surviving spouses of all assassinated Federal judges on an equitable basis.
+My approval of H.R. 5316 makes the approval of another bill—H.R. 3134—unnecessary. Therefore, I am withholding my approval of H.R. 3134, a bill which would have provided somewhat different benefits for Mrs. Joan R. Daronco. This action, in con-junction with my planned approval of H.R. 5316, will ensure that Mrs. Daronco and all such surviving spouses receive their benefits in an equitable manner.
+George BusH. THE WHITE HousE, November 16, 1990.
+S. 321—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of S. 321, the "Indian Preference Act of 1990." S. 321 would establish, among other things, a program to provide preferences to qualifying Indian enterprises in the award of Federal grants or contracts using funds appropriated for the benefit of Indians, The bill would impose new, expensive, and often duplicative pro-gram responsibilities on the Secretary of the Interior that would be difficult to implement. It would also likely result In Federal agencies assuming new, unfunded liabilities related to Indian preference enterprises.
+My Administration strongly supports the goals of S. 321 and is committed to helping alleviate the widespread unemployment and underemployment on Indian reservations. Moreover, the Administration supports efforts to prevent companies from misusing Federal Indian preference programs. Accordingly, amendments are needed to the "Buy Indian Act" to increase Indian economic self-sufficiency and employment opportunities and to prevent utilization of preference provisions by non-qualifying companies. However, S. 321 is seriously flawed and would create more problems than it would solve.
+I am withholding my approval of S. 321 to allow further review of the issues in the 102nd Congress. Many of the issues raised by S. 321 are complex and deserve a full airing In both Houses of Congress. The House passed S. 321 in the final days of the 101st
+Congress without Sufficient consideration of these complex issues.
+In the interim, I am directing the Sao-rotary of the Interior to take the necessary steps to address the contracting problems identified in the November 1989 report of the Special Committee on Investigations of the Senate Select Committee on Indian Affairs.
+In particular, I am directing the Secretary to issue guidelines that set forth specific procedures to govern Bureau of Indian Affairs field contracting officers in conducting pre-award reviews of grants and contracts. I am also directing the Secretary to develop and submit proposed regulations to implement the "Buy Indian Act" for Executive re-view within 90 days.
+GEORGE BUSH. THE WHITE HousE, November 16, 1990.
+S. 2834—MEMORANDUM OF DISAPPROVAL
+I have withheld my signature from S. 2834, the proposed "Intelligence Authorization Act, Fiscal Year 1991," thereby preventing it from becoming law. I am compelled to take this action due to the bill's treatment of one highly sensitive and important issue that directly affects the Nation's security, although there also are several objectionable elements of the bill that trouble me.
+I cannot accept the broad language that was added in Conference to the definition of covert action. Section 602 of the bill defines "covert action" to include any "request" by the United States to a foreign government or a private citizen to conduct a covert action on behalf of the United States. This provision purports to regulate diplomacy by the President and other members of the executive branch by forbidding the expression of certain views to foreign governments and private citizens absent compliance with specified procedures; this could require, in most instances, prior reporting to the Congress of the intent to express those views.
+I am particularly concerned that the vagueness of this provision could seriously impair the effective conduct of our Nation's foreign relations. It is unclear exactly what sort of discussions with foreign governments would constitute reportable "requests" under this provision, and the very possibility of a broad construction of this term could have a chilling effect on the ability of our diplomats to conduct highly sensitive discussions concerning projects that are vital to our national security. Furthermore, the mere existence of this provision could deter foreign governments from discussing certain topics with the United States at all. Such a provision could result in frequent and divisive disputes on whether an activity is covered by the definition and whether individuals in the executive branch have complied with a statutory requirement.
+My objections to this provision should not be misinterpreted to mean that executive branch officials can somehow conduct activities otherwise prohibited by law or Executive order. Quite the contrary. It remains Administration policy that our intelligence services will not ask third parties to carry out activities that they are themselves for-bidden to undertake under Executive Order No. 12333 on U.S. intelligence activities. I have also directed that the notice to the Congress of covert actions indicate whether a foreign government will participate significantly.
+Beyond this issue, I am also concerned by the treatment in the Joint Explanatory Statement accompanying the Conference Re-port of notification to the Congress of covert actions. I reached an accommodation withthe Intelligence Committees on the issues of notifying the Congress of covert actions "in a timely fashion," as required by current law, and have provided letters to the Intelligence Committees outlining how I intend to provide such notice. I was consequently dismayed by the fact that language was inverted in the Joint Explanatory Statement accompanying the Conference Report that could be construed to undercut the agreement reached with the Committees. This language asserts that prior notice may be withheld only in "exigent circumstances" and that notice "in a timely fashion" should now be interpreted to mean "within a few days" without exception. Such as interpretation would unconstitutionally infringe on the authority of the President and impair any Administration's effective implementation of covert action programs. I deeply regret this action.
+Additionally, I am concerned that there are several legislatively directed policy de-terminations restricting programs of vital importance to the United States that I do not believe are helpful to U.S. foreign policy. This bill, like its predecessor last year, also contains language that purports to condition specified actions on the President's obtaining the prior approval of committees of the Congress. This language is clearly unconstitutional under the Presentment clause of the Constitution and the Supreme Court's decision in INS v. Chadha, 462 U.S. 919 (1983). I again urge the Congress t) cease including such unconstitutional provisions in bills presented to me for signature.
+This Administration hat. had a good relationship with the Intelligence Committees. I am willing to work with the Congress to ad-dress the primary issue shat has prompted my veto as well as other difficulties with the bill. I will also continue to work with the Congress to ensure there is no change in our shared understanding of what constitutes a covert action, particularly with respect to the historic missions of the armed forces. I am confident that these issues can be re-solved quickly in the next Congress through mutual trust and a good-faith effort on the part of the Administration and the Congress.
+GEORGE BUSH.
+THE WHITE HOUSE, November 30, 1990.
+
+
+MESSAGES AND COMMUNICATIONS RECEIVED FOLLOWING THE SINE DIE ADJOURNMENT OF THE 101ST CONGRESS AND FOLLOWING THE PUBLICATION OF THE FINAL ADDITION OF THE CONGRESSIONAL RECORD OF THE 101ST CONGRESS
+COMMUNICATION FROM THE CLERK OF THE
+HOUSE
+The text of the communication from the Clerk of the House of Representatives dated November 2, 1990, is as follows:
+WASHINGTON, DC, November 2, 1990. Hon. THOMAS S. FOLEY,
+The Speaker, House of Representatives, Wash-
+ington, DC.
+DEAR MR. SPEAKER: Pursuant to the per-mission granted in Clause 5 of Rule III of the Rules of the U.S. House of Representatives, the Clerk received the following messages from the Secretary of the Senate:
+1. Received at 1:17 a.m. on Sunday, October 28, 1990: That the Senate passed without amendment, H.J. Res. 687;
+
+</body></floatingText> -->
+
+</div1>
+
+
+
+</body>
+</text>
+</TEI>

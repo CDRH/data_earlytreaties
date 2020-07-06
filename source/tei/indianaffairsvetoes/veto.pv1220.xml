@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1220">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1220	S. 1696 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1220</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1220	S. 1696 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>For the relief of Mary Sky Necklace.</p>
+
+<p>Vetoed August 21, 1935.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 122 (79 <title>Cong. Rec.</title> 13980-13981).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 262-263.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1220.01.pdf">Relief of Mary Sky Necklace &#8212; veto message.  Message from the President of the United States, returning without approval the Bill (S. 1696) entitled “An Act for the Relief of Mary Sky Necklace.”</ref>  (1935).   Senate.  74th Congress, 1st session.  Senate Document No. 122 (<title>Serial Set</title> 9909).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 74TH CONGRESS 
+1st Session	SENATE
+ DOCUMENT No. 122 </fw>
+<head>RELIEF OF MARY SKY NECKLACE &#8212; VETO MESSAGE</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT APPROVAL THE BILL (S. 1696) ENTITLED "AN ACT FOR
+THE RELIEF OF MARY SKY NECKLACE"</head>
+<milestone unit="rule />
+<p>JULY 29 (calendar day, AUGUST 21), 1935.&#8212;Read; referred to the Committee on
+Indian Affairs, and ordered to be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 1696, "An act for the relief of Mary Sky Necklace."
+The bill provides for the payment to the county of Bon Homme, S. Dak., of the sum of $374.43 in settlement of its claim against Mary Sky Necklace for taxes assessed against property which she purchased, with the approval of the Office of Indian Affairs, from trust funds held to her credit by the Federal Government, and with an understanding on her part that the property would be nontaxable.</p>
+<p>It does not seem to me that the Federal Government is properly chargeable with any obligation to pay the taxes on such property, either as to the accumulated taxes contemplated by the bill, or as to the future taxes which, by that principle, would be assumed to be a governmental obligation as long as the land remained in Indian ownership.</p>
+<p>There are, moreover, many cases of a similar character, for which this proposed enactment would constitute an unwise precedent.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed>
+<dateline>THE WHITE HOUSE, August 21, 1935.</dateline></closer><pb n="2" />
+<fw> 2	RELIEF OF MARY SKY NECKLACE-VETO MESSAGE </fw> 
+<p>S. 1696</p>
+<head>SEVENTY-FOURTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON THURSDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-FIVE</head>
+<head type="sub">AN ACT For the relief of Mary Sky Necklace</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Secretary of the Treasury be, and he is hereby authorized and directed to pay, out of any money in the Treasury not otherwise appropriated, to the county of Bon Homme, South Dakota, the sum of $374.43 in full settlement of its claim against Mary Sky Necklace for taxes assessed against lots 10 and 11, block 42, in the city of Springfield, South Dakota, purchased for, and with trust funds of, Mary Sky Necklace, or Mrs. Amos H. Necklace, said property having been purchased with the understanding on her part that the said property would be nontaxable: Provided, That payment here-under shall constitute full settlement of all claims of said Mary Sky Necklace against the United States for such taxes: Provided further, That no part of the amount appropriated in this Act in excess of 10 per centum thereof shall be paid or delivered to or received by any agent or agents, attorney or attorneys, on account of services rendered in connection with said claim. It shall be unlawful for any agent or agents, attorney or attorneys, to exact, collect, withhold, or receive any sum of the amount appropriated in this Act in excess of 10 per centum thereof on account of services rendered in connection with said claim, any contract to the contrary notwithstanding. Any person violating the provisions of this Act shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any sum not exceeding $1,000.</p>
+<closer><signed>JOSEPH W. BYRNS, Speaker of the House of Representatives.</signed> <signed>JNO. N. GARNER,
+Vice President of the United States and President of the Senate.</signed> <p>[Endorsement on hack of bill:]</p>
+I certify that this act originated in the Senate.
+<signed>EDW. A. HALSEY, Secretary.</signed></closer>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1220.02.pdf"><title>Congressional Record</title> 79, 13980-13981</ref> (1935).</bibl>
+</div1>
+<!-- <floatingText>
+<body>
+<fw> 13980	CONGRESSIONAL RECORD SENATE	AUGUST 21 </fw>
+<p>the business man has been recommended to the Congress; everything that would destroy his confidence and make the future more uncertain has been in progress since the first 2 or 3 months of this administration.</p>
+<p>The recommendations of the Chamber of Commerce, which represents the business people of the Nation, have been scornfully rejected and ignored, and the Chamber of Commerce itself has been spoken of in this body in such uncomplimentary terms by administration Senators that one is bound to reach the conclusion that there is but little sympathy here for its objectives.</p>
+<p>The business man has pleaded with us not to disturb him at this time by increased taxes, but the President had recommended it, and there was no turning back.</p>
+<p>Under the social-security bill we have laid a tax so drastic and revolutionary in character that he knows not where he stands.</p>
+<p>I do not deny that there has been improvement, but whatever improvement there has been, has been in spite of the administration's activities instead of as a result of them.</p>
+<p>My own judgment is that the declaration by the Supreme Court that the National Recovery Act was void was the greatest incentive to business that has come since the adoption of the Economy Act. The last shreds of the Economy Act,. as we all know, have but recently passed out of the picture with the approval of the President.</p>
+<p>No, Mr. President; the Senator from Tennessee can gather but little fruit to store up for the credit of this administration by any reference to what it has done for the business man.</p>
+<p>But let me pass on and make one further observation. The Senator from Tennessee says:</p>
+<quote>Therefore we find that $2,500,000,000 of our regular annual income is paid by the consumers of the country, rich and poor alike, men and women alike.</quote>
+<p>And further along he says:</p>
+<quote>Of course, in the foregoing figures I have not included some $600,000,000 or $700,000,000 known as the " processing tax ", which the Government receives and pays out as a special fund. </quote>
+<p>I assume the Senator would admit that the processing tax must be paid by the consumer also, and that this makes a total of $3,200,000,000 that is being paid annually by the consumers of the Nation. This, as I understand it, is being paid in part by the banker and the workingman, for whom the Senator says this administration has done so much. This demonstrates that all classes of people of the Nation ought to be interested in the amount of money that is being expended by this administration.</p>
+<p>If the Senator from Tennessee had desired to show that President Roosevelt had greater qualities than other Presidents, he might with accuracy have pointed to his record and said, " Here is the greatest spending President this country has ever known." He could with accuracy have said that Mr. Roosevelt has found and will have spent during the first 3 years in office a sum of money about equal to all of that that had been spent by all of the Presidents from Washington to Wilson, a period of 124 years, a sum of about $24,500,000,000.</p>
+<p>I wonder if he feels that the consumers of the Nation, who he says are paying all of the annual taxes, with the exception of about $500,000,000, will be proud of this record when they realize, as they must realize ultimately, that the greater burden of it all is to fall upon them.</p>
+<p>Is it to be considered a great accomplishment to create an annual deficit of about $4,000,000,000 a year in the face of a promise that there should be no deficit at all? Is it to be considered a great accomplishment to promise to reduce Government expenses by something like 25 percent, and then at the very first opportunity to increase them by pretty nearly 100 percent? Is it to be considered a great accomplishment to promise economy by reducing the bureaus and commissions and the number of Government employees, and right in the face of it to increase the number of bureaus a hundredfold and the number of employees by nearly 200,000?
+The economy bill, enacted early in this administration, was supposed to save a billion dollars. It was urged upon' the Congress to save the country from bankruptcy, but the itching palm of the great spender could not permit it to. last long. He soon began to whittle it away, until the other day, the last chip fell into the basket.</p>
+<p>If putting the Government into competition with private enterprise is an accomplishment; if extravagance, want, and waste form an accomplishment; if the taking of a sullen attitude toward the decision of the Supreme Court is an accomplishment; if the undertaking of a change of our form of government and making out of it a new social order is an accomplishment; if the Senator from Tennessee wants to list all of these in his laudatory remarks about the President of the United States, then I am again willing to apply the test to President Roosevelt, and say, "By their fruits ye shall know them."</p>
+<p>Mr. President, I might continue, but I doubt whether it is worth while. The country knows the facts, and I am satisfied that the people of the Nation will follow the Senator's suggestion and judge the President by the rule suggested. If that be done, however, the criticism of the President, of which the Senator so bitterly complains, will grow as the appalling facts are more fully appreciated. His promises will not be forgotten. His ruthless disregard of them will not be forgiven. The Federal Constitution shall not be destroyed. The rights of the several States shall be preserved. This country shall pay its honest debt. The unemployed shall not be permitted to go without a job, but, Mr. President, if these things are to be done, we must get rid of the vagaries that beset us. We must not be led into the social order that destroys freedom of action. We must hold fast to principles that have made us great; discover and correct the faults that come with the growth of progress, and, in my judgment, these things cannot be done unless we have courage enough to freely and vigorously criticize the mistakes of those in authority as such mistakes from time to time appear.</p>
+<head>COTTON TEXTILE INDUSTRY (S. DOC. NO. 126)</head>
+<p>Mr. WALSH. I ask the Chair to lay before the Senate the President's message pertaining to the cotton-textile industry.</p>
+<p>The PRESIDENT pro tempore. The Chair lays before the Senate a message from the President of the United States, which will be read and lie on the table:</p>
+<p>The legislative clerk read as follows:</p>
+<opener>
+<salute>To the Congress:</salute>
+</opener>
+<p>Last April I appointed a Cabinet committee, consisting of the Secretary of Commerce, as chairman, the Secretary of State, the Secretary of Agriculture, and the Secretary of Labor, to make a survey of the conditions and problems of the cotton-textile industry. I am now in receipt of a communication signed by the members of the committee, with which they submit their findings and recommendations.</p>
+<p>This letter and these findings and recommendations of the committee I am immediately transmitting herewith for the information of the Congress.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 21, 1935.</dateline></closer>
+<p>Mr. WALSH. Mr. President, this report will command a great deal of public interest and attention. Therefore, I move that the message, with the accompanying papers, be printed with illustrations as a Senate document.</p>
+<p>The motion was agreed to.</p>
+<head>MARY SKY NECKLACE&#8212;VETO MESSAGE (S. DOC. NO. 122)</head>
+<p>The PRESIDENT pro tempore laid before the Senate a message from the President of the United States, which was read, referred to the Committee on Indian Affairs, and ordered to be printed, as follows:</p>
+
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 1696, "An act for the relief of Mary Sky Necklace."</p>
+<p>The bill provides for the payment to the county of Bon Homme, S. Dak., of the sum of $374.43 in settlement of its claim against Mary Sky Necklace for taxes assessed<pb n="13981" />
+<fw> 1935	CONGRESSIONAL RECORD-SENATE	13981 </fw>
+against property which she purchased, with the approval of the Office of Indian Affairs, from trust funds held to her credit by the Federal Government, and with an under-standing on her part that the property would be nontaxable.</p>
+<p>It does not seem to me that the Federal Government is properly chargeable with any obligation to pay the taxes on such property, either as to the accumulated taxes contemplated by the bill, or as to the future taxes which, by that principle, would be assumed to be a governmental obligation as long as the land remained in Indian ownership.</p>
+<p>There are, moreover, many cases of a similar character for which this proposed enactment would constitute an unwise precedent.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 21, 1935.</dateline></closer>
+
+<head>JOHN W. BECK&#8212;VETO MESSAGE (S. DOC. NO. 123)</head>
+<p>The PRESIDENT pro tempore laid before the Senate a message from the President of the United States, which was read, referred to the Committee on Military Affairs, and ordered to be printed, as follows:</p>
+
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith without my approval, S. 457, authorizing me to summon John W. Beck, lieutenant, United States Army, retired, before a retiring board, to inquire whether at the time of his retirement under section 24b, National Defense Act, as amended, he was incapacitated for active service, and whether such incapacity was a result of an incident of service, and if, as a result of such inquiry, it is found that he was so incapacitated, I am authorized to nominate and appoint, by and with the advice and consent of the Senate, the said John W. Beck, a first lieutenant, Regular Army, and place him immediately thereafter upon the retired list of the Army, with the same privileges and retired pay as are now or may hereafter be provided by law or regulation for officers of the Regular Army.</p>
+<p>The measure further provides that no back pay or allowances shall be held to have accrued prior to its passage.</p>
+<p>From the facts in this case on record in the War Department, I find that John W. Beck's retirement was accomplished in strict accordance with the provisions of existing law and his rights were duly safeguarded. The records clearly indicate that he had no incapacitating disability at the time of his retirement, but was retired under the provisions of section 24b of the National Defense Act, as amended, because of unfavorable records of service. Therefore, I can see no reason for singling him out for preferential treatment at this time for the purpose of changing his retired status and thereby increasing his compensation.</p>
+<p>Further, I note that the Seventy-fourth Congress, first session, House of Representatives, Report No. 1272, and Seventy-fourth Congress, first session, Senate Report No. 200, contains a letter from the Veterans' Administration which recites the military service record of an individual who is not the beneficiary of this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, August 21, 1935.</dateline></closer>
+
+<head>HARRY T. HERRING&#8212;VETO MESSAGE (S. DOC. NO. 124)</head>
+<p>The PRESIDENT pro tempore laid before the Senate a message from the President of the United States, which was read, referred to the Committee on Military Affairs, and ordered to be printed, as follows:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 1426, authorizing me to appoint Harry T. Herring as a lieutenant colonel, United States Army, and to place him on the retired list of the Army as a lieutenant colonel, with the retired pay and allowance of that grade.</p>
+<p>From the facts in this case of record in the War Department, it appears that Harry T. Herring never held a commission in the Regular Army. He was graduated from the United States Military Academy on June 13, 1905; and was honorably discharged as a graduated cadet, July 12, 1905, having been found physically not qualified to perform the full duties of an officer of the Army because of organic heart disease. He subsequently served during the World War as an emergency officer in the Ordnance Department in the grades of captain, major, and lieutenant colonel. In 1920, he was one of the many emergency officers examined for commission in the Regular Army, and was again found not qualified for such appointment because of physical disability.</p>
+<p>I am also advised that Colonel Herring is now receiving compensation from the United States Veterans' Administration amounting to $35 per month.</p>
+<p>In view of the foregoing, I do not consider that this former emergency officer is entitled to the benefits of the Regular Army retired list. It would be unjustly discriminatory to place him on the retired list of the Army, when many others in similar circumstances are denied equal consideration. The retirement system of the Regular Army was provided for the twofold purpose of attracting desirable permanent personnel to the service and of vitalizing the active list. Its maintenance for such purpose is vital to the national defense and should not be jeopardized by utilizing it as a means of relief, or for placing upon such retired list persons other than the permanent personnel of the military stablishment.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 21, 1935.</dateline></closer>
+
+<head>MESSAGES FROM THE PRESIDENT</head>
+<p>Messages in writing from the President of the United States were communicated to the Senate by Mr. Latta, one of his secretaries.</p>
+<head>STABILIZATION OF BITUMINOUS COAL-MINING INDUSTRY</head>
+<p>The Senate resumed the consideration of the bill (H. R. 9100) to stabilize the bituminous coal-mining industry and promote its interstate commerce; to provide for cooperative marketing of bituminous coal; to levy a tax on bituminous coal and provide for a draw-back under certain conditions; to declare the production, distribution, and use of bituminous coal to be affected with a national public interest; to con-serve the bituminous-coal resources of the United States; to provide for the general welfare, and for other purposes; and providing penalties.</p>
+<p>The PRESIDENT pro tempore. The question is on agreeing to the amendment offered by the Senator from Maryland [Mr. TYDINGS].</p>
+<p>Mr. NEELY, Mr. President, before a vote is taken on the Tydings amendment I wish to express the hope that it may, be defeated, for the reason that if it shall prevail the only means of enforcing the provisions of the proposed law will have been stricken from the measure. Therefore, I hope that the amendment will be defeated.</p>
+<p>Mr. TYDINGS. Mr. President, I should like a yea-and-nay vote on the amendment. I will ask the friends of the bill to join me in getting a roll call on this amendment. I demand the yeas and nays on this question.</p>
+<p>The yeas and nays were ordered.</p>
+<p>Mr. McNARY. Mr. President, I rose a moment ago for the purpose of asking that the clerk state the amendment before the vote is taken.</p>
+<p>The PRESIDENT pro tempore. The amendment will be stated.</p>
+<p>The CHIEF CLERK. On page 7, line 2, after "Sec. 3", it is proposed to strike out all down to and including the words "Internal Revenue" in line 12.</p>
+<p>Mr. TYDINGS. The amendment simply provides for striking out the tax.</p>
+<p>The PRESIDENT pro tempore. The clerk will proceed with the roll call.</p>
+<p>Mr. NEELY. I suggest the absence of a quorum. This is a very important amendment, and a majority of the Senators should be present when it is voted upon.</p>
+<p>The PRESIDENT pro tempore. The clerk will call the roll to ascertain the presence of a quorum.</p>
+<fw> HeinOnline- 79 <title>Cong. Rec.</title> 13981 1935 </fw>
+
+
+</body></floatingText> -->
+
+</body>
+</text>
+</TEI>

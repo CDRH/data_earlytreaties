@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1478">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1478	S. 961 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1478</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-XX</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1478	S. 961 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>For expenditure of funds for cooperation with the public school at Wolf Point, Montana, for completing the construction, extension, equipment and improvement of a public school building to be available to Indian children of the Fort Peck Indian Reservation, Montana.</p>
+
+<p>Vetoed April 27, 1939.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 70 (84 <title>Cong. Rec.</title> 4848).</p>
+
+<p>Veto unchallenged.</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 309.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1478.01.pdf">Cooperation with Public School District, Wolf Point, Mont. -- Veto message.  Message from the President of the United States returning without approval, the Bill (S. 961) entitled “An act For expenditure of funds for cooperation with the public school at Wolf Point, Montana, for completing the construction, extension, equipment and improvement of a public school building to be available to Indian children of the Fort Peck Indian Reservation, Montana.”</ref>  (1939).  Senate.  76th Congress, 1st session.  Senate   Document No. 70 (<title>Serial Set</title> 10316).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 76TH CONGRESS 1st Session 	SENATE
+ DOCUMENT   No. 70 </fw>
+
+<head>COOPERATION WITH PUBLIC-SCHOOL DISTRICT, WOLF
+POINT, MONT.&#8212;VETO MESSAGE</head>
+ <milestone unit="rule" />
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+WITHOUT APPROVAL, THE BILL (S. 961) ENTITLED "AN ACT FOR EXPENDITURE OF FUNDS FOR COOPERATION WITH THE PUBLIC-SCHOOL BOARD AT WOLF POINT, MONTANA, FOR COMPLETING THE CONSTRUCTION, EXTENSION, EQUIPMENT, AND IMPROVEMENT OF A PUBLIC-SCHOOL BUILDING TO BE AVAILABLE TO INDIAN CHILDREN OF THE FORT PECK INDIAN RESERVATION, MONTANA."</head>
+ <milestone unit="rule" />
+<p>APRIL 27, 1939.&#8212;Read; referred to the Committee on Indian Affairs, and ordered
+to be printed</p>
+ <milestone unit="rule" />
+<opener>
+<salute>To the United States Senate:</salute>
+</opener>
+<p>I am returning herewith, without my approval, enrolled bill S. 961, to authorize an appropriation of $50,000 for cooperation with the public-school board at Wolf Point, Mont., for completing the construction, extension, equipment, and improvement of a public-school building to be available to Indian children of the Fort Peck Indian Reservation, Mont.
+The Second Deficiency Appropriation Act, fiscal year 1935, approved on August 12, 1935 (49 <title>Stat.</title> 571), included $50,000 for cooperation with the public-school board at Wolf Point in the construction or improvement of a public-school building to be available to Indian children of the Fort Peck Indian Reservation. Although this sum is to be recouped by the United States over a period of 30 years, it is my view that the extension of further financial assistance to the school district for the construction or improvement of school buildings would not be justified. It appears that, at the close of the fiscal year 1938, the district had on hand the sum of $27,000. This would indicate that it is not in a serious condition financially.</p>
+<p>I am informed that there are 940 white children and 280 Indian children in the district; that is, one-third of the children living in the<pb n="2" />
+<fw> 2 COOPERATION WITH PUBLIC SCHOOL DISTRICT-VETO MESSAGE </fw>
+district are Indians. Somewhat less than one-fourth of the number enrolled in the Wolf Point public schools are Indians. The Department of the Interior is paying tuition for the 160 Indian children enrolled and, if a good attendance of Indian children is maintained, the district can earn something over $16,700 through tuition payments.</p>
+<p>For the foregoing reasons, I am compelled to withhold approval of the bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>The WHITE HOUSE,
+April 27, 1939.</dateline></closer>
+ <milestone unit="rule" />
+<p>S. 961.</p>
+<head>SEVENTY-SIXTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-NINE</head>
+<head type="sub">AN ACT For expenditure of funds for cooperation with the public-school hoard at wolf Point, Montana, for completing the construction, extension, equipment., and improvement of a public-school building to be available to Indian children of the Fort Peck Indian Reservation, Montana.</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That there is hereby authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, the sum of $50,000 for the purpose of cooperating with the public-school board of district numbered 45, town of Wolf Point, County of Roosevelt, Montana, for completing the construction, extension, equipment, and improvement of the public high-school building at Wolf Point, Montana: Provided, That the expenditure of any money so authorized shall be subject to the express conditions that the school maintained by the said district in the said building shall be available to all Indian children of the Fort Peck Indian Reservation, Montana, on the same terms, except as to payment of tuition, as other children of said school district: Provided further, That plans and specifications for construction, extension, or improvement of structures shall be furnished by local or State authorities without cost to the United States, and upon approval thereof by the Commissioner of Indian Affairs actual work shall proceed under the direction of such local or State officials. Payment for work in place shall be made monthly on vouchers properly certified by local officials of the Indian Service: Provided further, That any amount expended on any project hereunder shall be recouped by the United States within a period of thirty years, commencing with the date of occupancy of the project, through reducing the annual Federal tuition payments for the education of Indian pupils enrolled in public or high schools of the district involved, or by the acceptance of Indian pupils in such schools without cost to the United States; and in computing the amount of recoupment for each project interest at 3 per centum per annum shall be included on unrecouped balances.</p>
+<closer><signed>Wm. B. BANKHEAD,</signed>
+Speaker of the House of Representatives. <signed>JNO. N. GARNER,</signed>
+Vice President of the United Slates and President of the Senate. <note>[Endorsement on back of bill:]</note>
+I hereby certify that this act originated in the Senate.
+<signed>ED. A. HALSEY,</signed> Secretary.</closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1478.02.pdf"><title>Congressional Record</title> 84, 4848</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 
+4848	CONGRESSIONAL RECORD SENATE	APRIL 27 </fw>
+<head>PUBLIC-SCHOOL BUILDING, FORT PECK RESERVATION; WOLF POINT,
+MONT.-VETO MESSAGE (S. DOC. NO. 70)</head>
+<p>The PRESIDING OFFICER (Mr. SMATHERS in the chair) laid before the Senate the following message from the President of the United States, which was read, and, with the accompanying bill, referred to the Committee on Indian Affairs and ordered to be printed:</p>
+<opener>
+<salute>To the United States Senate:</salute>
+</opener>
+<p>I am returning herewith without my approval enrolled bill S. 961, to authorize an appropriation of $50,000 for cooperation with the public-school board at Wolf Point, Mont., for completing the construction, extension, equipment, and improvement of a public-school building to be available to Indian children of the Fort Peck Indian Reservation, Mont.
+The Second Deficiency Appropriation Act, fiscal year 1935, approved on August 12, 1935 (49 <title>Stat.</title> 571), included $50,000 for cooperation with the public-school board at Wolf Point in the construction or improvement of a public-school building to be available to Indian children of the Fort Peck Indian Reservation. Although this sum is to be recouped by the United States over a period of 30 years, it is my view that the extension of further financial assistance to the school district for the construction or improvement of school buildings would not be justified. It appears that, at the close of the fiscal year 1938, the district had on hand the sum of $27,000. This would indicate that it is not in a serious condition financially.
+I am informed that there are 940 white children and 280 Indian children in the district; that is, one-third of the children living in the district are Indians. Somewhat less than one-fourth of the number enrolled in the Wolf Point public schools are Indians. The Department of the Interior is paying tuition for the 160 Indian children enrolled and, if a good attendance of Indian children is maintained, the district can earn something over $16,700 through tuition payments.</p>
+<p>For the foregoing reasons, I am compelled to withhold approval of the bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, April 27, 1939.</dateline></closer>
+
+<head>MESSAGE FROM THE HOUSE</head>
+<p>A message from the House of Representatives, by Mr. Calloway, one of its reading clerks, announced that the House had agreed to the report of the committee of conference oh the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. R. 4492) making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1940, and for other purposes, and that the House had receded from its disagreement to the amendments of the Senate numbered 34 and 36 to the bill,. and concurred therein each with an amendment, in which it requested the concurrence of the Senate.</p>
+<p>The message also announced that the House had agreed to the report of the committee of conference on the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. R. 5219) making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1939, and for prior fiscal years, to provide supplemental appropriations for the fiscal years ending June 30, 1939, and June 30, 1940, and for other purposes; that the House had receded from its disagreement to the amendments of the Senate numbered 17, 19, and 20 to the bill, and concurred therein, and that the House receded from its disagreement to the amendment of the Senate numbered 12 to the bill and concurred therein with amendments, in which it requested the concurrence of the Senate.</p>
+<p>The message further announced that the House had passed a joint resolution (H. J. Res. 279) making supple-mental appropriations for printing and binding and stationery for the Treasury Department for the fiscal year ending June 30, 1939, in which it requested the concurrence of the Senate.</p>
+<head>HOUSE JOINT RESOLUTION REFERRED</head>
+<p>The joint resolution (H. J. Res. 279) making supplemental appropriations for printing and binding and stationery for the Treasury Department for the fiscal year ending June 30, 1939, was read twice by its title and referred to the Committee on Appropriations.</p>
+<head>STREAM POLLUTION CONTROL</head>
+<p>The Senate resumed the consideration of the bill (S. 685) to create a Division of Water Pollution Control in the United States Public Health Service, and for other purposes.</p>
+<p>Mr. BARKLEY. Mr. President, I desire to make a very brief statement with reference to the bill which has been made the unfinished business of the Senate. I will say at the outset that I hope we may dispose of the bill this afternoon. If we do, it is my purpose to move an adjournment until Monday.	</p>
+<p>The bill under consideration deals with stream pollution. We all realize that as population has increased, and our industrial development has been concentrated along our navigable&#8212;and in some cases nonnavigable&#8212;waterways, the question of protecting the health and the lives of the people has become in some communities very important and acute.</p>
+<p>I do not wish publicly to name any sections of the country or any cities, although they were referred to in the hearings. However, in certain communities in the United States, by reason of the pollution of water either by cities or by manufacturing plants, the water has become a menace to the health and life of the people. In some communities the public-health authorities have been on the verge of condemning the water supply because of its impurity. Various State health authorities have attempted to deal with the question, and in many cases have dealt with it in considerable degree, but not adequately.</p>
+<p>In nearly all the States where there are navigable streams, or streams which flow into navigable rivers, or into harbors or bodies of water of any sort, the health authorities have been giving their attention to methods by which the supply of water might be kept pure in order not. to endanger the lives and health of the people. "</p>
+<p>Moreover, as our population has increased and our industrial development has been concentrated, the public authorities in the States, counties, and cities have been compelled, as a matter of self-defense, to give attention to these problems and try to work out a solution.</p>
+<p>I dare say that no industrial plant in America would deliberately, and with malice or premeditation, pollute the supply of water to be consumed by the people. I dare say no municipality in the country would deliberately do so; and yet the conditions are such that innocently, and without any such intention, probably due to lack of suitable precautions taken in advance, and in many cases inability for financial and other reasons to install the necessary purification devices, a condition has grown up under which it has become necessary for Congress to take note of the problem and deal with it.</p>
+<p>This problem has been before Congress for a number of years. Hearings have been had before the appropriate committees of the House and Senate. In the previous Congress I introduced a bill in the Senate&#8212;and a companion bill was introduced in the House&#8212;undertaking to make a beginning in working out the solution of the question of stream pollution. The bill passed both House and Senate almost unanimously, and went to the White House. It was vetoed by the President on the sole ground that the bill did not provide that the appropriation authorized should go through the Budget Director. So for purely budgetary reasons the President vetoed the measure and sent it back to the Congress. I have reintroduced the bill practically as it was passed by the two Houses, eliminating the objectionable part which brought about the President's veto.</p>
+<p>The bill sets up in the Public Health Service what is called a Division of Stream Pollution. It authorizes the Division of Stream Pollution, under the direction of the</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

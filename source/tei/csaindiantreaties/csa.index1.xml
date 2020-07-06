@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="csa.index1">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">CSA: Index 1</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<author>Karin Dalziel</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>csa.index1</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2010-08-06</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<body>
+
+
+<p>Table I: Nine treaties, and their text sources, formed between American Indian tribes in Indian Territory and the Confederate States of America during July, August, and October 1861.</p>
+    
+<table rend="special" n="table_center">
+    <row><cell></cell><cell rend="head">Treaty<lb/>participants</cell><cell rend="head">Signing date</cell><cell rend="head">CSA <title>Statutes<lb/>at Large</title><lb/>(Matthews<lb/> 1864/1988)</cell><cell rend="head">Number of<lb/>articles</cell></row>
+<row><cell>1</cell><cell>Creeks</cell><cell>10-Jul-1861</cell><cell>289-310</cell><cell>68</cell></row>
+<row><cell>2</cell><cell>Choctaws<lb/>and<lb/>Chickasaws</cell><cell>12-Jul-1861</cell><cell>311-331</cell><cell>64</cell></row>
+<row><cell>3</cell><cell>Seminoles</cell><cell>1-Aug-1861</cell><cell>332-346</cell><cell>46</cell></row>
+<row><cell>4</cell><cell>Comanches<lb/>and Other<lb/>Tribes and<lb/> Bands</cell><cell>12-Aug-1861</cell><cell>347-353</cell><cell>25</cell></row>
+<row><cell>5</cell><cell>Comanches<lb/>of the<lb/>Prairies and<lb/>Staked Plain</cell><cell>12-Aug-1861</cell><cell>354-362</cell><cell>30</cell></row>
+<row><cell>6</cell><cell>Osages</cell><cell>2-Oct-1861</cell><cell>363-373</cell><cell>45</cell></row>
+<row><cell>7</cell><cell>Senecas and<lb/>Senecas and<lb/>Shawnees</cell><cell>4-Oct-1861</cell><cell>374-385</cell><cell>43</cell></row>
+<row><cell>8</cell><cell>Quapaws</cell><cell>4-Oct-1861</cell><cell>386-393</cell><cell>41</cell></row>
+<row><cell>9</cell><cell>Cherokees</cell><cell>7-Oct-1861</cell><cell>394-411</cell><cell>55</cell></row>
+</table>
+    
+    
+    
+</body>
+</text>
+</TEI>

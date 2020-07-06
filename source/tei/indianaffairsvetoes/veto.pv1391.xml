@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1391">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1391	H.R. 4399 (Seventy-fifth Congress, First Session &#8212; F. Rossevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1391</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Rossevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fifth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Ute</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1391	H.R. 4399 (Seventy-fifth Congress, First Session &#8212; F. Rossevelt)</head>
+
+<p>To adjudicate claims of certain Ute Indians.</p>
+
+<p>Pocket veto occurred after the 1st session of the 75th Congress had adjourned sine die on August 21, 1937.  The bill was presented to the President on August 23, 1937 (81 <title>Cong. Rec.</title> 9678; <hi rend="italics">see also</hi> 81 <title>Cong. Rec.</title> 9682).</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 293.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1391.01.pdf"><title>Congressional Record</title> 81, 9678</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> .9678	CONGRESSIONAL RECORD HOUSE	AUGUST 21 </fw>
+<p>And to you my friends on my right and on my left, to the minority leader who has been kind and fine, outstanding, and protecting the interests of his party and carrying out his conception of protecting the interests of the country, he has been cooperative and he has been fine; to the chair-man of every committee on my right, and to the members of those committees who have been so kind and fine, willing to consult with me at all times on. their problems, and, give me their fine cooperation, I thank you.</p>
+<p>My service in this body with its wonderful associations is one of the grand things that I shall remember as long as I live, either in public life or in retirement, which I hope for sometime pretty soon down on the farm in the great State of Texas, when this fitful fever is over and I can pillow my head upon grass, or feathers, or whatever it is, in Texas. For 24 1/2 years I have been here. Every year of my life my esteem of the Congress and the Members who compose it has risen. I love this place. It is a part and parcel of my life.</p>
+<p>And to every one of you, as you go forth from here, I wish that you may enjoy a vacation filled with happiness and peace. God bless you and keep you every one. [Applause, the Members rising.]</p>
+<head>COMMUNICATION FROM THE PRESIDENT OF THE UNITED STATES</head>
+<p>The SPEAKER. The Chair lays before the House the following very gracious message from the President of the United States.</p>
+<note>The Clerk read as follows:</note>
+<p>The honorable THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, WASHINGTON, D. C.:</p>
+<p>MY DEAR MR. SPEAKER: Before the adjournment of the Congress will you be good enough to extend to the Members of the <p>House of Representatives my regards and good wishes?</p>
+I hope that during the coming months all of you will have a pleasant and a happy vacation.</p>
+<closer>Very sincerely yours,
+<signed>FRANKLIN D. ROOSEVELT. </signed>THE WHITE HOUSE, August 21, 1937.</closer>
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. RAYBURN. Mr. Speaker, I move that the House do now adjourn.</p>
+<p>The motion was agreed to.</p>
+<p>The SPEAKER. In pursuance of the provisions of House Concurrent Resolution No. 25, I declare the first session of the Seventy-fifth Congress adjourned without' day.</p>
+<head>BILLS PRESENTED TO THE PRESIDENT SUBSEQUENT TO SINE DIE
+ADJOURNMENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on August 23, 1937, present to the President for his approval bills of the House of the following titles:</p>
+<p>H. R. 1093. An act for the relief of Cleveland L. Short;"</p>
+<p>H.R. 1481. An act to amend the Revenue Act of 1926, as amended, to exempt persons traveling between Puerto Rico and the continental United States from the payment of a stamp tax on steamship tickets;</p>
+<p>H. R. 2229. An act for the relief of Florida O. McLain, widow of Calvin E. McLain;</p>	.
+<p>H. R. 2888. An act to grant relief to homesteaders and purchasers of public and ceded Indian lands and to authorize advance of amounts due on delinquent homestead entries on certain Indian reservations;</p>
+<p>H. R. 3493. An act to amend section 76 of the Judicial Code with respect to the terms of the United States district court at Tallahassee, Fla. ;</p>
+<p>H. R. 3988. An act to amend the act entitled "An act conferring upon the United States District Court for the Northern District of California, southern division, jurisdiction of the claim of Minnie C. de Back against the Alaska Railroad", approved June 24, 1935;</p>
+<p>H. R. 4399. An act authorizing payment for certain lands
+appropriated by the United States, and for other purposes;</p>
+<p>H. R. 4539. An act authorizing a per-capita payment of
+$25 each to the members of the Red Lake Band of Chippewa
+Indians from the proceeds of the sale of timber and lumber on the Red Lake Reservation;</p>
+<p>H. R. 4567. An act for the relief of Alden H. Baker;</p>
+ <p>H. R. 5495. An act for the relief of Anne E. Felix;</p>
+<p>H. R. 5594. An act to make available for national-park purposes certain lands within the area of the proposed Mammoth Cave National Park, Ky.;</p>
+<p>H.'R. 5846. An act for the relief of Carolina Maldonado;</p>
+<p> H. R. 6042. An act making further provision with respect to the funds of the Metlakahtla Indians of Alaska; H. R. 6468. An act to authorize the cancelation of deportation proceedings in the case of John Grinwood Taylor;</p>
+<p>H. R. 6682. An act for the relief of the Merchants National Bank & Trust Co., the First National Bank & Trust Co., and the Vicksburg Infirmary, all of Vicksburg, Miss.;</p>
+<p>H. R. 6893. An act for the relief of Henry T. Sharp, Hilliard B. Atkins, and Theodore S. Meekins;</p>
+<p>H. R. 6996. An act for the relief of Ragsdale & Knauss;</p>
+<p>H. R. 7210. An act to authorize an exchange of lands at the New Cumberland General Depot, Pennsylvania;</p>
+<p>H. R. 7587. An act conferring jurisdiction upon the Court of Claims of the United States to hear, determine, and render judgment upon the claim of the Lon D. Worsham Co.;</p>
+<p>H. R. 7646. An act to amend an act entitled "An act authorizing the construction of certain public works on rivers and harbors for flood control, and for other purposes", approved June 22, 1936; and</p>
+<p>H. R. 7709. An act 'to incorporate the American Chemical Society;</p>
+<p>H. R. 7806. An act authorizing the State Roads Commission of the State of Maryland to construct, maintain, and operate a free highway bridge across Sinepunxent Bay in Worchester County, Md., at Ocean City, Md., to replace a bridge already in existence;</p>
+<p>H. R. 7908. An act to extend the benefits of section 21 of the Bankhead-Jones Act to Puerto Rico;</p>
+<p>H. R. 7950. An act to amend the District of Columbia Alcoholic Beverage Control Act;</p>
+<p>H. R. 7985. An act to promote air commerce by providing for the enlargement of Washington Airport.</p>
+<p>H. R. 8245. An act making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1937, and for prior fiscal years, to provide supple-mental appropriations for the fiscal year ending June 30, 1938, and for Other purposes;</p>
+<head>APPROVAL OF HOUSE BILLS AND JOINT RESOLUTIONS SUBSEQUENT
+TO SINE DIE ADJOURNMENT</head>
+<p>The President of the United States, subsequent to the final adjournment of the first session of the Seventy-fifth Congress, notified the Clerk of the House of Representatives that he had approved acts and joint resolutions of the House, as follows:</p>
+<p>On August 20, 1937:</p>
+<p>H. R. 827. An act for the relief of Fred P. Halbert. </p>
+<p>On August 21, 1937:</p>
+<p>H. R. 2014. An act to amend an act entitled "An act to provide for the establishment of the Everglades National Park in the State of Florida, and for other purposes", approved May 30, 1934;</p>
+<p>H. R. 4489. An act for the relief of Stella Van Dewerker;</p>
+<p>H. R. 7127. An act authorizing the President to invite the States of the Union and foreign countries to participate! in the International Petroleum Exposition at Tulsa, Okla., to be held May 14 to May 21, 1938;</p>
+<p>H. R. 7430. An act for the relief of Mary Lucia Haven; and</p>
+<p>H. J. Res. 385. Joint resolution authorizing the President to invite the States of the Union and foreign countries to participate in the Oil World Exposition at Houston, Tex., to be held October 11 to 16, 1937, inclusive.</p>
+<p>On August 23, 1937:</p>
+<p>H. R. 4291. An act to extend further time for naturalization to alien veterans of the World War under the act approved May 25, 1932 (47 <title>Stat.</title> 165), to extend the same privileges to certain veterans of countries allied with the United States during the World War, and for other purposes;</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+ <bibl><ref target="PV1391.02.pdf"><title>Congressional Record</title> 81, 9682</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9682	CONGRESSIONAL RECORD HOUSE	AUGUST 21 </fw>
+<head>UINTAH, WHITE RIVER, AND UNCOMPAHGRE BANDS OF UTE INDIANS'</head>
+<p>H. R. 4399. I am withholding approval of H. R.4399,
+authorizing an appropriation of $860,098.75 for payment to the Uintah, White River, and Uncompahgre Bands of Ute Indians for 36,223 acres of land, comprising a portion of a total area of 1,010,000 acres ceded to the Government by the Ute Indians and added to the Uintah National Forest in 1905. The Indians have been compensated for 973,777 acres of this ceded land, at $1.25 per acre, in the amount of $1,217,-221.25, under the act of February 13, 1931.</p>
+<p>As to the area of 36,223 acres, which contains certain deposits of coal, that act directed the Secretary of the Interior to ascertain the value thereof and report his findings to Congress; and in accordance therewith the Secretary reported to Congress on July 20, 1931, that the value of this area, as appraised by the United States Geological Survey, was $62,165.75.</p>
+<p>The amount of compensation proposed in the pending bill is the amount of an appraisal made in 1910, with respect to which the Director of the Geological Survey, in a letter to the Commissioner of Indian Affairs on January 21, 1937, states, in part, as follows:</p>
+<p>Such values represent, in fact, nothing more than the worth of the coal therein for purposes of immediate development. * * * As they were designed to prevent the speculative purchase and withholding from development of Federally owned coal lands, those values represent present worth only as of the date commercial development of the coal involved becomes commercially feasible. For the coal acreage here involved such date has not yet arrived and was even more remote in 1905 than at present. It is, in fact, still so far in the future as to be subject only to conjecture, with some room for doubt that it will ever arrive. * * * For the administrative purpose for which they were made, the valuations placed upon the coal acreage on the basis of Lupton's findings (appraisal of 1910) are fair and reasonable, though they are exorbitant and excessive to the point of ab, surdity as a measure of the present worth of the coal rights involved to the Federal Government or to any other possible purchaser.</p>
+<p>After careful consideration of the record in this case, I am unable to reach the conclusion that the payment authorized by this bill is justified.</p>
+<head>FRANKLIN D. ROOSEVELT. KLAMATH BUSINESS COMMITTEE AND OFFICIAL DELEGATES</head>
+<p>H. R. 5975 authorizes the establishment of per-diem payments in lieu of compensation and expenses for members of the Klamath business committee and official Klamath delegates to Washington.</p>
+<p>The legislation is objectionable because (a) the amount to be expended in any one year is unlimited; (b) there is no restriction on the number of delegates to be chosen to represent the tribe in Washington at any one time; (c) representatives of the tribe could visit Washington at will; and (d) the tribal representatives could stay in Washington for an unlimited period.</p>
+<p>Regardless of the fact that tribal funds are involved, the Secretary of the Interior or the Commissioner of Indian Affairs should have authority to determine the size of a delegation, and to limit the visit to a period of time necessary to complete the business in hand. Without administrative control large sums of Klamath tribal funds could be wasted by maintaining a delegation at the seat of government at times when the presence of such a delegation is wholly unnecessary.</p>
+<p>For these reasons I am withholding approval of H. R. 5975.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<p>On September 2, 1937:</p>
+<head>WASHINGTON, D. C., AIRPORT</head>
+<p>H. R. 7985. I am withholding approval of H. R. 7985, an act to provide for the enlargement of the so-called Washington-Hoover Airport because of the complete futility of the act.
+I am compelled to do this with deep regret, because the failure to provide for an adequate airport may lead to serious accidents before one can be built.</p>
+<p>This is a subject which has been studied, reported on, and discussed for years. The most recent study was by an air-port commission this year. Three Members of the Senate, three Members of the House of Representatives, and three members appointed by the President to study all possible air-field sites&#8212;48 in number&#8212;reduced this number to 8 for further study, then to 3, and finally recommended a permanent airport on high ground at Camp Springs, Md. The principal objection to the Camp Springs site was that it was 9 miles from the center of the hotel and business district. It was located, however, on high ground not subject to river fogs.</p>
+<p>The second choice of this commission was the Gravelly Point site, where a field adequate in size could be built, principally by the pump-and-fill method, only a short distance south of the present airport. The principal objection to the Gravelly Point site was that it was on comparatively rare occasions subject to river fogs, an objection which applies almost equally <p>to the Washington-Hoover Airport.</p>
+Only one member of the commission favored the Washington-Hoover Field, although the evidence against it from all the experts who appeared before the commission was very strong. The Washington-Hoover Field is subject to fogs and, under the proposed bill, even with a small addition of 53 acres taken from Department of Agriculture land, would still leave this field as one of the poorest fields in the entire Nation for large planes carrying passengers and mail. This is a simple fact.</p>
+<p>Furthermore, the bill provides for the closing of an important highway leading into the heart of the National Capital and for the lease of Government land for 50 years to a private corporation. The principal aviation field of the National Capital should not be owned or controlled by any private corporation.  This in itself is sufficient justification ,for disapproval of the bill.</p>
+<p>It is my thought that because of  the importance of air traffic to and from the District of Columbia the Government of the United States could well afford two fields. After careful consideration I am of the belief that the. Gravelly Point site should be developed for use in all good weather when they are no river fogs or bad flying conditions. This site is within 10 minutes of the center of Washington. It could be used by the large transport planes on probably 80 percent of all flying days.</p>
+<p>At the same time I believe that the Government should develop anf additional field on high land not subject to fogs. Such a field, either at Camp Springs or at some similar site, could be made ready in a very few months of work and would ,be used during' the comparatively small number of days when the Gravelly Point site is unsafe because of river fogs.</p>
+<p>I shall ask the Congress, immediately upon their reconvening, to take up this matter as quickly as possible. Further, I am asking the Secretary of Commerce, until such time as a high, level field can be made available, to close the Washington-Hoover Airport to all planes whenever, in the judgment of the Bureau of Air Commerce, landing on or taking off from that field is unsafe. </p>
+<p>If the Congress provides for a high, level field in .the early part of its next session, there is no reason why such a field cannot be made available, at least for emergency use, within a comparatively short time.</p>
+<p>Such a field, however, would of necessity be 9 or 10 miles from the center of the District, and I hope that the Congress will also see fit to develop the Gravelly Point site, which would, of course, require 2 or 3 years to complete.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT,</signed></closer>
+
+<head>EXECUTIVE COMMUNICATIONS, ETC.</head>
+<p>814. Under clause 2 of rule XXIV a letter from the Acting Secretary of the Interior, transmitting the draft of a bill relating to the tribal and individual affairs of the Osage Indians in Oklahoma, was taken from the Speaker's table and referred to the Committee on Indian Affairs.</p>
+
+<head>REPORTS OF COMMITTEES ON PUBLIC BILLS AND
+RESOLUTIONS</head>
+<p>Under clause 2 of rule XIII,</p>
+<p>Mr. BELL: Select Committee to Investigate Old-Age Pension Plans, and Organizations. House Report 1, Part II. Referred to the House Calendar.
+</p>
+</body></floatingText> -->
+</div1>
+
+</body>
+</text>
+</TEI>

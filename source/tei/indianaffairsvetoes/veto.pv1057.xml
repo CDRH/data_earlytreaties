@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1057">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1057	S. 4152 (Sixty-ninth Congress, First Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1057</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-ninth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1057	S. 4152 (Sixty-ninth Congress, First Session &#8212; Coolidge)</head>
+
+<p>To authorize oil and gas-mining leases upon unallotted lands within the Executive order of the Indian reservation.</p>
+
+<p>Vetoed July 2, 1926.  The veto message was laid before the Senate and printed as S. Doc. No. 156 (67 <title><title>Cong. Rec.</title></title> 12641).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 229.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1057.01.pdf">Oil and gas mining leases upon unallotted lands within executive order Indian reservation.  Message from the President of the United States returning without approval the Bill (S. 4152) to authorize oil and gas mining leases upon unallotted lands within executive order Indian reservations, and for other purposes.  (1926).</ref>  Senate.  69th Congress, 1st session.  Senate Document No. 156 (<title>Serial Set</title> 8558).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 69TH CONGRESS	SENATE
+1st Session  DOCUMENT
+No. 156 </fw>
+<head>OIL AND GAS MINING LEASES UPON UNALLOTTED LANDS WITHIN
+EXECUTIVE ORDER INDIAN RESERVATIONS</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 4152) TO AUTHORIZE OIL AND
+GAS MINING LEASES UPON UNALLOTTED LANDS WITHIN EXECUTIVE ORDER INDIAN RESERVATIONS, AND FOR OTHER
+PURPOSES</head>
+<milestone unit="rule" />
+<head type="sub">JULY 1 (calendar day, JULY 2), 1926.-Ordered to lie on the table and to be
+printed</head>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>Herewith returned, without approval, is Senate 4152, a bill entitled "An act to authorize oil and gas mining leases upon unallotted lands within Executive-order Indian reservations, and for other purposes." On June 9, 1922, the Department of the Interior construed the general leasing act of February 25, 1920 (41 <title>Stat.</title> 437), as applicable to lands included in Exective-order Indian reservations. Under this construction 20 permits were issued, dating from June 17, 1922, to October 14, 1923. On May 27, 1924, the Attorney General of the 'United States rendered an opinion that the leasing act did not apply to Executive-order Indian reservations. At that time more than 400 applications on such reservations were pending. The Attorney General took action to secure the cancellation of the 20 permits previously issued in a suit entitled, United States v. Harrison et al., brought in the District Court of Utah and now pending in the Supreme Court of the United States on certificate from the circuit court of appeals for the eighth circuit. This case was decided in favor of the defendants in the district court.</p>
+<p>While these conditions existed the present bill was introduced by which the title to the 20 permits would virtually be validated, and the 400 applications would virtually be refused. It is true that the holders of the 20 permits are possessed of certain equities by reason of expenditures made, which do not apply to the other 400, but it is also true that the other 400 would be obliged to drill wells, build <pb n="2" />
+<fw> 2	OIL AND GAS LEASES WITHIN INDIAN RESERVATIONS </fw>
+roads, and make surveys, while the 20 permits are validated because
+they may have done but one of these three things. The application
+of a different rule as between these two classes is somewhat difficult
+to justify. The fact also that this bill undertakes to decide, by legislation, a question which is pending in court brings the bill into a
+position of doubtful propriety. If the interested parties have
+rights under the law, they will be protected in their enjoyment by
+the decision of the court. If they have no such rights a great deal
+of the reason for the legislation fails so far as they are concerned.
+Aside from a possible delay in securing a decision by which opportunity will be given for the development of these lands more quickly,
+it would not appear that any legal or equitable injury can accrue to
+the holders of these permits or to the section of the country interested.</p>
+<p>Various rumors are being circulated relative to statements alleged
+to have been made by parties interested in this legislation which do
+not seriously, affect the merits of the bill, and as they come from
+persons seeming to have adverse interests, perhaps they are suscepti-
+ble of explanation. I am confident the bill has been passed in entire
+good faith, but it is claimed that the 20 permits would secure a dis-
+proportionate advantage, under its provisions, over the others who
+are interested in applications which they have made.</p>
+<p>Provision has been made in the bill for the payment of certain
+moneys to Indians, with which I am in hearty approval and can see
+no reason for refusing to approve such a measure had it stood alone.
+If it is desired to make such provision for the Indians, a bill to that
+effect can be enacted without attaching to it the question of ratifying the titles of some and adversely affecting the applications of
+others.</p>
+<closer><signed>CALVIN COOLIDGE. </signed><dateline>THE WHITE HOUSE, July 2, 1926.</dateline></closer>
+<p>[S. 4152. Sixty-ninth Congress of the United States of America; at the first session, begun and held at the city of Washington on Monday, the seventh day of December, one thousand nine hundred and twenty-five.]</p>
+<p>An act to authorize oil and gas mining leases upon unallotted lands within Executive order Indian reservations,
+and for other purposes.</p>
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, </hi>That unallotted lands within the limits of any reservation or withdrawal created by Executive order for Indian purposes or for the use or occupancy of any Indians or tribe may be leased for oil and gas mining purposes in accordance with the provisions contained in the Act of May 29, 1924 (Forty-third Statutes, page 244).</p>
+<p>SEC. 2. That the. proceeds from rentals, royalties, or bonuses of oil and gas leases upon lands within Executive order Indian reservations or withdrawals shall be deposited in the Treasury of the United States to the credit of the tribe of Indians for whose benefit the reservation or withdrawal was created or who are using and occupying the land, and shall draw interest at the rate of 4 per centum per annum and be available for appropriation by Congress for expenses in connection with the supervision of the development and operation of the oil and gas industry and for the use and benefit of such Indians: Provided, That said Indians, or their tribal council, shall be consulted in regard to the expenditure of such money, but no per capita payment shall be made except by Act of Congress.</p>
+<p>SEC. 3. That taxes may be levied and collected by the State or local authority upon improvements, output of mines or oil and gas wells or other rights, property, or assests of any lesee upon lands within Executive order Indian reservations in the same manner as such taxes are otherwise levied and collected and such taxes<pb n="3" />
+<fw> OIL AND GAS LEASES WITHIN INDIAN RESERVATIONS	3 </fw>
+may be levied against the share obtained for the Indians as bonuses, rentals, and royalties, and the Secretary of the Interior is hereby authorized and directed to cause such taxes to be paid out of the tribal funds in the Treasury : Provided, That such taxes shall not become a lien or charge of any kind against the land or other property of such Indians.</p>
+<p>SEC. 4. That hereafter changes in the boundaries of reservations created by Executive order, proclamation, or otherwise for the use and occupation of Indians shall not be made except by Act of Congress: Provided, That this shall not apply to temporary withdrawals by the Secretary of the Interior.</p>
+<p>SEC. 5. That the Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to allow any applicant to whom a permit to prospect for oil and gas upon lands within an Indian reservation or withdrawal created by Executive order has heretofore been issued in accordance with the provisions of the Act of February 25, 1920 (Forty-first Statutes, page 437), or the holder thereof, who shall show to the satisfaction of the Secretary of the Interior that he, or the party with whom he has contracted, has done any or all of the following things, to wit, expended money or labor in geologically surveying the lands covered by such permit, has built a road for the benefit of such lands, or has drilled or contributed toward the drilling of the geologic structure upon which such lands are located, to prospect for a period of two years from the date this Act takes effect, or for such further time as the Secretary of the Interior may deem reasonable or necessary for the full exploration of the land described in his permit, under the terms and conditions therein set out, and a substantial contribution toward the drilling of the geologic structure by the holder of a permit thereon may be considered as prospecting under the provisions hereof ; and upon establishing to the satisfaction of the Secretary of the Interior that valuable deposits of oil and gas have been discovered within the limits of the land embraced in any permit, the permittee shall. be entitled to a lease for one-fourth of the land embraced in the prospecting permit: Provided, That the permittee shall be granted a lease for as much as one hundred and sixty acres of said lands if there be that number of acres within the permit. The area to be selected by the permittee shall be in compact form and, if surveyed, to be described by the legal subdivisions of the public land surveys; if unsurveyed, to be surveyed by the Government at the expense of the applicant for lease in accordance with rules and regulations to be prescribed by the Secretary of the Interior, and the lands leased shall be conformed to and taken in accordance with the legal subdivisions of such surveys; deposits made to cover expense of surveys shall be deemed appropriated for that purpose, and any excess deposits may be repaid to the person or persons making such deposit or their legal representatives. Such leases shall be for a term of twenty years upon a royalty of 5 per centum in amount or value of the production and the annual payment in advance of a rental of $1 per acre, the rental paid for any one year to be credited against the royalties as they may accrue for that year, with the preferential right in the lessee to renew the same for successive periods of ten years upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior. The permittee shall also be entitled to a preference right to a lease for the remainder of the land in his prospecting permit at a royalty of not less than 124 per centum in amount or value of the production, the royalty to be determined by competitive bidding or fixed by such other method as the Secretary of the Interior may by regulations pre-scribe: Provided further, That the Secretary of the Interior shall have the right to reject any or all bids: And provided further, That any applicant for permit filed prior to May 27, 1924, under the provisions of said Act of February 25, 1920, which permit was not issued, for any lands covered by the provisions of this Act, who shall show to the satisfaction of the Secretary of the Interior that he, or the party with whom he has contracted, has done all of the following things, to wit, expended money in geologically surveying the lands covered by such application, has built a road for the benefit of such lands, and has drilled or contributed toward tthe drilling of the geologic structure upon which said lands are located, may have the right of prospecting and leasing as provided in this section.</p>
+<p>I certify that this Act originated in the Senate.</p>
+<closer><signed>EDWIN P. THAYER,</signed>
+	Secretary.
+<signed>NICHOLAS LONGWORTH,</signed>
+Speaker of the House of Representatives.
+<signed>CHARLES G. DAWES,</signed>
+Vice President of the United States and President of the Senate.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1057.02.pdf"><title>Congressional Record</title> 67, 12641</ref> (1926).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1926	CONGRESSIONAL RECORD-SENATE	12641 </fw>
+<p>H. R. 11716. An act granting to Northern Paper Mills certain islands in the Menomonee River.</p>
+
+<head>EXECUTIVE SESSION</head>
+<p>Mr. JONES of Washington obtained the floor.</p>
+<p>Mr. BORAH. Mr. President&#8212;</p>
+<p>The PRESIDING OFFICER (Mr. BINGHAM in the chair). Does the Senator from Washington yield to the Senator from Idaho?</p>
+<p>Mr. JONES of Washington. I yield.</p>
+<p>Mr. BORAH. I move that the Senate proceed to the consideration of executive business.</p>
+<p>Mr. HEFLIN. Mr. President, I hope the Senator will withhold that motion for about 15 minutes. I want to make a short address. I have been trying to get the floor all day.</p>
+<p>Mr. BORAH. I would be glad to accommodate the Senator, but the difficulty is that the Senator from Washington has the floor for the purpose of making an address, and if I should withhold my motion, of course I would yield the floor to the Senator from Washington.</p>
+<p>Mr. HEFLIN. I want to say to .the Senator from Washington that if we do go into executive session, the Senator from Washington may not have an opportunity to make his speech, because I know of two speeches of great length that will be made in executive session.</p>
+<p>Mr. JONES of Washington. I can not help that.</p>
+<p>The PRESIDING OFFICER. The motion is not debatable.</p>
+<p>Mr. HEFLIN. Then if we do not want to go into executive session, the only thing to do is to vote the motion down.</p>
+<p>The PRESIDING OFFICER. The question is on agreeing to the motion of the Senator from Idaho that the Senate proceed to the consideration of executive business.</p>
+<p>The motion was agreed to, and the Senate proceeded to the consideration of executive business. After 1 hour and 40 minutes spent in executive session the doors were reopened.</p>
+
+<head>HOUR OF MEETING ON SATURDAY</head>
+<p>While the doors were closed Mr. CURTIS asked and obtained unanimous consent that when the Senate concludes its business this evening it adjourn until 10 a. m. to-morrow, Saturday, July 3, 1926.</p>
+<head>
+MESSAGE FROM THE HOUSE</head>
+<p>A message from the House of Representatives, by Mr. Chaffee, one of its clerks, announced that the House had passed the bill (S. 1344) to amend paragraph (11), section 20, of the inter-state commerce act, with an amendment, in which it requested the concurrence of the Senate.
+The message also announced that the House had passed the bill (S. 3999) to provide a parole commission for the District of Columbia, and for other purposes, with amendments, in which it requested the concurrence of the Senate.</p>
+<head>ENROLLED BILL SIGNED</head>
+<p>The message further announced that the Speaker had affixed his signature to the enrolled bill (S. 4059) granting pensions and increase of pensions to certain soldiers, sailors, and marines of the Civil and Mexican Wars, and to certain widows of said soldiers and sailors, and marines, and to widows of the War of 1812, and Army nurses, and for other purposes.</p>
+<head>HOUSE BILL REFERRED</head>
+<p>The bill (H. R. 11713) to provide for an examination and report on the condition and possible development and reclamation of the swamp lands on the Yazoo, Tallahatchie, and Cold-water Rivers in Mississippi was read twice by its title and referred to the Committee on Irrigation and Reclamation.</p>
+<head>RECESS</head>
+<p>The hour of 5.30 o'clock having arrived, the Senate, pursuant to its order, took a recess until 8 o'clock p. m.</p>
+<head>EVENING SESSION</head>
+<p>The Senate reassembled at 8 o'clock p. m., on the expiration of the recess.</p>
+<head>LEASES ON UNALLOTTED INDIAN LANDS-VETO MESSAGE (S. DOC.
+NO. 156)</head>
+<p>The VICE PRESIDENT. The Chair lays before the Senate a message from the President of the United States, which will be read.</p>
+<p>The Chief Clerk read the message, as follows:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>Herewith returned, without approval, is Senate 4152, a bill entitled "An act to authorize oil and gas mining leases' upon unallotted lands within Executive-order Indian reservations, and for other purposes." On June 9, 1922, the Department ofthe Interior construed the general leasing act of February 25, 1920 (41 <title>Stat.</title> 437), as applicable to lands included in Executive-order Indian reservations. Under this construction 20 permits were issued, dating from June 17, 1922, to October 14, 1923. On May 27, 1924, the Attorney General of the United States rendered an opinion that the leasing act did not apply to Executive-order Indian reservations. At that time mere than 400 applications on such reservations were pending. The Attorney General took action to secure the cancellation of the 20 permits previously issued in a suit entitled United States v. Harrison et al., brought in the District Court of Utah and now pending in the Supreme Court of the United States on certificate from the Circuit Court of Appeals for the Eighth Circuit. This case was decided in favor of the defendants in the district court.</p>
+<p>While these conditions existed the present bill was introduced, by which the title to the 20 permits would virtually be validated, and the 400 applications would virtually be refused. It is true that the holders of the 20 permits are possessed of, certain equities by reason of expenditures made, which do not apply to the other 400, but it is also true that the other 400 would be obliged to drill wells, build roads, and make surveys, while the 20 permits are validated because they may have (lone but one of these three things. The application of a different rule as between these two classes is somewhat difficult to justify. The fact also that this bill undertakes to decide by legislation a question which is pending in court brings the bill into a position of doubtful propriety. If the interested parties have rights under the law, they will be protected in their enjoyment by the decision of the court. If they have no such rights a great deal of the reason for the legislation fails so far as they are concerned. Aside from a possible delay in securing a decision by which opportunity will be given for the development of these lands more quickly it would not appear that any legal or equitable injury can accrue to the holders of these permits or to the section of the country interested.</p>
+<p>Various rumors are being circulated relative to statements alleged to have been made by parties interested in this legislation which do not seriously affect the merits of the bill, and as they come from persons seeming to have adverse Interests, perhaps they are susceptible of explanation. I am confident the bill has been passed in entire good faith, but it is claimed that the 20 permits would secure a disproportionate advantage under its provisions over the others who are interested in applications which they have made.</p>
+<p>Provision has been made in the bill for the payment of certain moneys to Indians, with which I am in hearty approval, and can see no reason for refusing to approve such a measure had it stood alone. If it is desired to make such provision for the Indians, a bill to that effect can be enacted without attaching to it the question of ratifying the titles of some and adversely affecting the applications of others.</p>
+<closer><signed>CALVIN COOLIDGE.</signed> <dateline>THE WHITE HOUSE, July 2, 1926.</dateline></closer>
+<p>The VICE PRESIDENT. Without objection, the message will lie on the table and be printed.</p>
+<head>EXPUNGING OF STATEMENT FROM RECORD</head>
+<p>Mr. SHIPSTEAD. Mr. President, on the 18th day of June, I had inserted in the RECORD a dispatch by the Associated Press, sent out from Washington, misstating my position on the agricultural bill. Since that time the Associated Press have given me evidence showing that they have made reasonable effort to correct that error. I therefore ask unanimous consent that that dispatch appearing in the RECORD of June 18 may be stricken from the permanent CONGRESSIONAL RECORD; and that the words I have uttered upon this occasion be substituted therefor.</p>
+<p>The VICE PRESIDENT. Is there objection? The Chair hears none, and it is so ordered.</p>
+<head>MESSAGE FROM THE HOUSE</head>
+<p>A message from the House of Representatives, by Mr. Chaffee, one of its clerks, announced that the House had passed without amendment the following bills of the Senate:</p>
+<p>S.569. An act to authorize the transfer of surplus books from the Navy Department to the Interior Department;</p>
+<p>S. 1472. An act to provide for the establishment of a dairying and livestock experiment station at Mandan, N. Dak.;</p>
+<p>S.2042. An. act relating, to the Office of Public Buildings and Public Parks of the National Capital;</p>
+<p>S.2516. An act for the establishment and maintenance of a forest' experiment station in Pennsylvania and the neighboring States;</p>
+<p>S.3148. An act to regulate the, manufacture, renovation, and sale of mattresses in the District of Columbia;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1247">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1247	S. 2621 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1247</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1247	S. 2621 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+<p>To provide funds for cooperation with the public school board at Devils Lake, North Dakota, in the construction, extension, and betterment of the high school building at Devils Lake, North Dakota, to be available to Indian children.</p>
+
+<p>Pocket veto occurred after the 1st session of the 74th Congress had adjourned sine die on August 26, 1935.  The bill was presented to the President on August 23, 1935 (79 <title>Cong. Rec.</title> 14420; <hi rend="italics">see also</hi> 79 <title>Cong. Rec.</title> 14751).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 268.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1247.01.pdf"><title>Congressional Record</title> 79, 14420</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 14420 -	CONGRESSIONAL RECORD SENATE'	AUGUST 24 </fw>
+<p>The legislative clerk called the roll, and the following Senators answered to their names:</p>
+<table type="" rows="20" cols="4">
+<row>
+<cell role="desc">Adams</cell>	<cell role="desc">Connally</cell>	<cell role="desc">La Follette</cell>	<cell role="desc">Pittman</cell>
+</row>
+<row>
+<cell role="desc">Ashurst	</cell><cell role="desc">Copeland	</cell><cell role="desc">Lewis</cell>	<cell role="desc">Radcliffe</cell>
+</row>
+<row>
+<cell role="desc">Austin</cell>	<cell role="desc">Costigan</cell>	<cell role="desc">Logan</cell>	<cell role="desc">Reynolds</cell>
+</row>
+<row>
+<cell role="desc">Bachman</cell>	<cell role="desc">Davis</cell>	<cell role="desc">Lonergan</cell>	<cell role="desc">Robinson</cell>
+</row>
+<row>
+<cell role="desc">Bailey</cell>	<cell role="desc">Dieterich</cell>	<cell role="desc">Long</cell>	<cell role="desc">Russell</cell>
+</row>
+<row>
+<cell role="desc">Bankhead</cell>	<cell role="desc">Donahey</cell>	<cell role="desc">McAdoo</cell>	<cell role="desc">Schwellenbach</cell>
+</row>
+<row>
+<cell role="desc">Barbour</cell>	<cell role="desc">Fletcher</cell>	<cell role="desc">McCarran</cell>	<cell role="desc">Sheppard</cell>
+</row>
+<row>
+<cell role="desc">Barkley</cell>	<cell role="desc">Frazier</cell>	<cell role="desc">McGill</cell>	<cell role="desc">Shipstead</cell>
+</row>
+<row>
+<cell role="desc">Black</cell><cell role="desc">	George</cell>	<cell role="desc">McKellar</cell>	<cell role="desc">Smith</cell>
+</row>
+<row>
+<cell role="desc">Bone</cell>	<cell role="desc">Gerry</cell>	<cell role="desc">Maloney</cell>	<cell role="desc">Steiwer</cell>
+</row>
+<row>
+<cell role="desc">Borah</cell>	<cell role="desc">Gibson</cell>	<cell role="desc">Metcalf</cell>	<cell role="desc">Thomas, Okla.</cell>
+</row>
+<row>
+<cell role="desc">Brown</cell>	<cell role="desc">Glass</cell>	<cell role="desc">Minton</cell>	<cell role="desc">Thomas, Utah</cell>
+</row>
+<row>
+<cell role="desc">Bulkley</cell>	<cell role="desc">Gore</cell>	<cell role="desc">Moore</cell>	<cell role="desc">Townsend</cell>
+</row>
+<row>
+<cell role="desc">Bulow</cell>	<cell role="desc">Guffey</cell>	<cell role="desc">Murphy</cell>	<cell role="desc">Trammell</cell>
+</row>
+<row>
+<cell role="desc">Burke</cell>	<cell role="desc">Hale</cell>	<cell role="desc">Murray</cell>	<cell role="desc">Truman</cell>
+</row>
+<row>
+<cell role="desc">Byrnes</cell>	<cell role="desc">Harrison</cell>	<cell role="desc">Neely</cell>	<cell role="desc">Tydings</cell>
+</row>
+
+<row>
+<cell role="desc">Capper</cell>	<cell role="desc">Hatch</cell>	<cell role="desc">Norbeck</cell>	<cell role="desc">Vandenberg</cell>
+</row>
+
+<row>
+<cell role="desc">Caraway</cell>	<cell role="desc">Hayden</cell>	<cell role="desc">Norris</cell>	<cell role="desc">Wagner</cell>
+</row>
+
+<row>
+<cell role="desc">Chavez</cell>	<cell role="desc">Holt</cell>	<cell role="desc">Nye</cell>	<cell role="desc">Walsh</cell>
+</row>
+
+<row>
+<cell role="desc">Clark</cell>	<cell role="desc">Johnson</cell>	<cell role="desc">O'Mahoney</cell>	<cell role="desc">White</cell>
+</row>
+
+<p>Mr. AUSTIN. I announce that the Senator from Oregon [Mr. McNARY] is detained on official business.</p>
+<p>Mr. LEWIS. I announce that the Senator from Mississippi [Mr. BILBO ] , the Senator from Virginia [Mr. BYRD ], the Senator from Massachusetts [Mr. COOLIDGE], the Senator from Wisconsin [Mr. DUFFY ], the Senator from Utah [Mr. KING], the Senator from Louisiana [Mr. OVERTON], the Senator from Idaho [Mr. POPE], the Senator from Indiana [Mr. VAN Nuys], and the Senator from Montana [Mr. WHEELER], are necessarily detained from the Senate. I request that the announcement stand for the day.</p>
+<p>Mr. AUSTIN. I announce that the Senator from Iowa [Mr. DICKINSON], the Senator from Delaware [Mr. HASTINGS], and the Senator from New Hampshire [Mr. KEYES] are necessarily detained from the Senate, and that the Senator from Wyoming [Mr. CAREY] is absent on official business.</p>
+<p>Mr. VANDENBERG. I repeat the announcement hereto-fore made by me that my colleague the senior Senator from Michigan [Mr. COUZENS] is absent because of illness.</p>
+
+<p>The VICE PRESIDENT. Eighty Senators have answered to their names. A quorum is present.</p>
+<head>CONSTITUTION SESQUICENTENNIAL COMMISSION</head>
+The VICE PRESIDENT. The Chair apoints Mr. ASHURST, Mr. ROBINSON, Mr. VAN NUYS, Mr. BORAH, and <p>Mr. MCNARY as members, on the part of the Senate, of the United States Constitution Sesquicentennial Commission, established pursuant to the provisions of the joint resolution (S. J. Res. 59) providing for the preparation and completion of plans for a comprehensive observance of the one hundred and fiftieth anniversary of the formation of the Constitution of the United States, approved August 23, 1935.</p>
+<head>DRAFT OF PROPOSED LEGISLATION, AGRICULTURAL ADJUSTMENT ADMINISTRATION (S. DOC. NO. 136)</head>
+
+<p>The VICE PRESIDENT laid before the Senate a communication from the President of the United States, transmitting draft of a proposed provision for the Agricultural Adjustment Administration, Department of Agriculture, to make available the funds required to give effect to section 40 of the act entitled "An act to amend the Agricultural Adjustment Act, and for other purposes", approved August 24, 1935, which, with the accompanying paper, was referred to the Committee on Appropriations and ordered to be printed.</p>
+
+<head>SUPPLEMENTAL ESTIMATE&#8212;-AGRICULTURAL ADJUSTMENT
+ADMINISTRATION (S. DOC. NO. 135)</head>
+<p>The VICE PRESIDENT laid before the Senate a communication from the President of the United States, transmitting a supplemental estimate of appropriation for $5,000,000, fiscal year 1936, embodying draft of a proposed provision of legislation for the Agricultural Adjustment Administration, Department of Agriculture, to provide for carrying out the purposes of the Potato Act of 1935, which, with the accompanying paper, was referred to the Committee on Appropriations and ordered to be printed.</p>
+<head>PETITION</head>
+<p>Mr. TYDINGS presented a petition of sundry citizens of Myersville, Md., praying for the preservation of peace and the outlawry of war as a national policy in settling international disputes. which was ordered to lie on the table.</p>
+<head>REPORT OF A COMMITTEE</head>
+<p>Mr. COPELAND, from the Committee on Commerce, to which was referred the bill (S. 2003) to amend section 13 of the act of March 4, 1915, entitled "An act to promote the welfare of American seamen in the merchant marine of the United States, to abolish arrest and imprisonment as a penalty for desertion and to secure the abrogation of treaty provisions in relation thereto, and to promote safety at sea ", reported it with an amendment and submitted a report (No. 1461) thereon.</p>
+<head>
+ENROLLED BILLS AND JOINT RESOLUTION PRESENTED</head>
+<p>Mrs. CARAWAY, from the Committee on Enrolled Bills, reported that on August 23, 1935, that committee presented to the President of the United States the following enrolled bills and joint resolution:</p>
+<p>5.946. An act to amend sections 3 and 4 of the act of July 3, 1930, entitled "An act for the rehabilitation of the Bitter Root irrigation project, Montana";</p>
+<p>S. 1483. An act for the relief of William E. Williams;</p>
+<p>S. 2521. An act amending section 5 of Public Law No. 264, Seventy-third Congress, approved May 29, 1934, relative to the appointment of Naval Academy graduates as ensigns in the Navy;</p>
+<p>S. 2621. An act to provide funds for cooperation with the public-school board at Devils Lake, N. Dak., in the construction, extension, and betterment of the high-school building at Devils Lake, N. Dak., to be available to Indian children;</p>
+<p>5.2867. An act to reenact section 463 of the act of Congress entitled "An act to define and punish crime in the District of Alaska and to provide a code of criminal procedure for said district", approved March 3, 1899, and for other purposes;</p>
+<p>S. 3184. An act to provide for the immediate settlement of the obligation of the Joe Graham Post of the American Legion arising out of the purchase of the Ship Island Military Reservation;</p>
+<p>S.3374. An act for the relief of the State of Indiana;</p>
+<p>S. 3386. An act for the relief of Helen Gallagher Dominion; and</p>
+<p>S. J. Res. 163. Joint resolution to authorize the acceptance of bids for Government contracts made subject to codes of fair competition.</p>
+<head>BILLS INTRODUCED</head>
+<p>Bills were introduced, read the first time, and, by unanimous consent, the second time, and referred as follows:</p> <p>By Mr. WHEELER:</p>
+<p>A bill (S. 3468) granting an increase of pension to Isabell F. Smith (with accompanying papers); to the Committee. on Pensions.</p>
+<p>By Mr. GUFFEY:</p>
+<p>A bill (S. 3469) to confer jurisdiction upon the Court of Claims to hear, consider, and determine the claims of Westinghouse Electric & Manufacturing Co., Inc.; to the Committee on <p>Claims.</p>
+AMENDMENT OF SECTION 616 OF REVENUE ACT OF 1918</p>
+<p>Mr. JOHNSON submitted an amendment intended to be proposed by him to the bill (H. R. 7623) to amend section-616 of the Revenue Act of 1918, approved February 24, 1919, which was referred to the Committee on Finance and ordered to be printed.</p>
+<head>IMPROVEMENT OF RIVERS AND HARBORS-AMENDMENTS</head>
+<p>Mr. HAYDEN submitted four amendments intended to be proposed by him to the bill (H. R. 8455) authorizing the construction of certain public works on rivers and harbors for flood control, and for other purposes, which were referred to the Committee on Commerce and ordered to be printed.</p>
+<head>INVESTIGATION RELATIVE TO ENLARGEMENT OF THE YELLOWSTONE'
+AND GRAND TETON NATIONAL PARKS&#8211;LIMIT OF EXPENDITURES</head>
+<p>Mr. ROBINSON. I submit a resolution and ask that it may be referred to the Committee to Audit and Control the Contingent Expenses of the Senate. I call it to the attention of the Senator from South Carolina [Mr. BYRNES].</p>
+<p>The VICE PRESIDENT. Does the Senator desire the resolution read?</p>
+<p>Mr. ROBINSON. Let the resolution be read, please.</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1247.02.pdf"><title>Congressional Record</title> 79, 14751</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<p>Under the legislative situation now existing, as I understand, all that I can do is to enter a motion to reconsider the vote whereby House Concurrent Resolution 38, the adjournment resolution, was agreed to and then move that the House of Representatives be requested to return the concurrent resolution to the Senate.</p>
+<p>Before formally making that motion, I desire to call the attention of the Senate to the provisions of the deficiency bill.</p>
+<p>We have spent the entire summer in session. We have passed a social-security bill, and the deficiency bill carries an appropriation for the Board set up under that bill. Every expenditure of that Board is provided for in the deficiency bill. If the deficiency bill shall not be passed, the Board will not be able to function.</p>
+<p>In addition to that, art appropriation is contained in the bill for the Labor Board which is absolutely essential if it is to function.</p>
+<p>Provision is made for an appropriation of $13,000,000 for the Soil Conservation Service, which is essential to the functioning of that Department of the Government.</p>
+<p>An appropriation is made, under the provision for the Department of Commerce, for a census of the persons who would be entitled, under the old-age-pension law, to participate in the benefits of that act.</p>
+<p>The legislatures of many States will meet in January. If this deficiency bill shall not be passed and if we shall not provide the funds, it is questionable, in my mind, whether it will not seriously delay the operations of old-age pensions and other provisions of the social-security bill.</p>
+<p>Mr. President, all of those of us who are interested in the deficiency bill ask is that the House of Representatives vote upon the measure. Therefore I think the Senate has a right to ask the House, and I think it should ask the House, to return to the Senate Concurrent Resolution 38, because it is my belief that whenever that request is made, the Members of the House of Representatives will see to it that conferees are appointed to meet the conferees who have been appointed on the part of the Senate.</p>
+<p>In my recollection of 14 years' service in the House of Representatives and my service in the Senate, never before have any two men undertaken to say that the House of Representatives will not appoint conferees on an appropriation bill to meet conferees appointed on the part of the Senate.</p>
+<p>I wish to say that I am now reading from the remarks of the junior Senator from South Carolina [Mr. BYRNES]. He served in the other body for 14 years. He came here a little before I came here; he was elected at the same time I was, but I delayed coming here for a little over a year after I was elected in order that I might serve out my term as Governor of Louisiana. I promised my people when I had been elected Governor that I would not leave the office of Governor until another Governor had been elected. I served my term until Governor Allen had been nominated by the Democratic Party, and I left a few nights later and came to Washington, D. C., to take my seat in this honorable body,
+I said the junior Senator from South Carolina served for 14 years in the other body, and he has served for about 5 years in this body. His colleague the senior Senator from South Carolina [Mr. SMITH] has served here longer than that. The senior Senator from South Carolina is a partner in the deanship on the Democratic side of this body. He and the senior Senator from Florida [Mr. FLETCHER] have served here, I believe, for about 27 years each. Perhaps I overstate it a little. I understand that the only one who has served here any longer than they have served is the Senator from Idaho [Mr. BORAH].</p>
+<p>The Senator from South Carolina is a man who can be believed in in all respects and is believed by everybody in this body.</p>
+<p>Mr. BLACK. Mr. President, a parliamentary inquiry.</p>
+<p>The VICE PRESIDENT. The Senator will state it.</p>
+<p>Mr. BLACK. I notice that it is 10 minutes to 12 o'clock, and I desire to ask the Chair if, when the hand of the clock reaches the hour of 12, that will mean that the Senate will have adjourned, and if it further means that the old people of this country who were to have their pensions paid them out of this bill will have to wait to get them until Congress shall meet on January the 3d, in regular session, or if there is any way in this bill, of which the Vice President knows, by which these old people can get their pensions? I desire to ask that question.</p>
+<p>The VICE PRESIDENT. In reply to the parliamentary inquiry, the Chair will state that when the hour of 12 o'clock arrives, the Senate will adjourn and the whole bill will fail.</p>
+<p>Mr. BLACK. I desire to make a further parliamentary inquiry. Does it also mean as to the $600,000 which is provided in this bill to inaugurate operations under the so-
+called " Guffey coal law ", in which the coal miners are so much interested, they will be deprived of having that law go into effect by reason of the filibuster of the Senator from Louisiana which has defeated the appropriation measure?</p>
+<p>The VICE PRESIDENT. Whatever provisions are in the bill will fail at the hour of 12 o'clock.</p>
+<p>Mr. BLACK. That provision is in the bill; and, as I understand the Chair in answer to my parliamentary inquiry, it means that the successful filibuster of the Senator from Louisiana will prevent the going into effect of the so-called "Guffey law" and will also prevent the old people from getting their pensions until the Congress shall meet in January and may make another appropriation?</p>
+<p>The VICE PRESIDENT. The Chair repeats that the appropriation referred to by the Senator from Alabama will fail along with the others in case the bill shall not be finally disposed of before 12 o'clock.</p>
+<p>Mr. LONG. Mr. President, I wish to remind Members of the Senate that this bill would have died last Saturday night if it had not been for me. The RECORD iS here to show that.</p>
+<p>Mr. BLACK. Why did the Senator save its life only to kill it and take away the hope of so many citizens at this late hour?</p>
+<p>Mr. LONG. Oh, no. I ask my friend from Alabama to listen to me. I am satisfied he has not heard a great deal I have said tonight. Though he has been here, some of us fail to comprehend meanings. My language is rather plain; it is not in parliamentary style that would give me an advantage that my friends here have; but I am learning, I am coming along, and I promise to do better next time. Nor have I had any trips to foreign lands. I may get one of them; I have a chance for improvement. I will say, how-ever, that my voice kept this bill alive last Saturday night, but I did not know that I was going to be asked tonight to cut the throat of the wheat farmer without giving him a chance; I did not know I would be asked to do that. I am unwilling to do it.</p>
+<p>I was going to say, Mr. President, that I would not presume that any other body would cut the throat of the wheat farmer. I would say for my colleagues and for the President of the United States, not as they say about me, that they do not have to prove their love for humanity, and I do not have to prove mine. I have made a fortune in my lifetime and it has gone to humanity. I not only made a fortune but I sacrificed another fortune in order that I might fight for humanity. Long years ago when I was in the oil business they froze us out and took what little I had and what I was expecting to make. Years later they came to me and said, "We are going to have an amicable arbitration and adjust the damages that you suffered a few years ago when the oil combinations froze out the oil properties in which you were heavily interested."</p>
+<p>I knew what it meant, and I said we will have no amicable adjustment. I lost mine as did 113 other companies, and I will continue to lose it; they will not at this late day pay me damages that 113 others cannot get. So I kept my. right to fight for the people alive. I have nearly made another fortune since that time and spent it for humanity, and will make one this year and I will spend that for humanity, spend it for the people of this country, for the God-living blood and marrow of humanity. I do not need the little $10,000 a year of a United States Senator. If anybody down my way that they know of needs the money, let them give it to him; I do not need it. The people of my section of the country know that I am here fighting for humanity, and you cannot bring me a bill in here and say to me cut the wheat farmers out of it and the cotton farmers out of it before it can go out of here.</p>
+<p>Why? Not because the Senate wants it done, but because somebody else wants it done. If another body would vote that they did not want the wheat farmer or the cotton farmer in it, I would not undertake to challenge their prerogatives, but I will not say that I am going to be a party to cutting the throat of the wheat farmer before I will allow the other body to have an opportunity to say whether they want to do it or not. That is all.</p>
+<fw> 79 <title>Cong. Rec.</title> 14751 1935 </fw>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

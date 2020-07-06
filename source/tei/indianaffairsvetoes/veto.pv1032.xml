@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1032">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1032	H.R. 517 (Sixty-sixth Congress, Third Session &#8212; Wilson)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1032</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Wilson</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-sixth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-19</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1032	H.R. 517 (Sixty-sixth Congress, Third Session &#8212; Wilson)</head>
+
+<p>Amending an act to provide for drainage of Indian allotments of the Five Civilized Tribes, approved March 27, 1914.</p>
+
+<p>Vetoed February 15, 1921.  The veto message was laid before the House and referred to the Committee on Indian Affairs (60 <title>Cong. Rec.</title> 3227).  The House overrode the veto on February 24, 1921 by a vote of 323 yeas to 18 nays (60 <title>Cong. Rec.</title> 3791).  The Senate overrode the veto on March 2, 1921 by a vote of 67 yeas to 5 nays (60 <title>Cong. Rec.</title> 4222).</p>
+
+<p>Veto overridden (41 <title>Stat.</title> 1204; Public Law 66-355).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 222.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV1032.01.pdf"><title>Congressional Record</title> 60, 3227</ref> (1921).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1921.,	CONGRESSIONAL RECORD HOUSE.	397
+Strong, Kans.	'lecher	Walsh	Williams
+Summers, Wash. Tinkham	Walters	Wilson, Ill.
+Sumners, Tex.	Towner	Ward	Winslow
+Swindall	Valle	Wason	Wood, Ind.
+Temple	Vinson	Watson	Yates
+Thompson	Voigt	Webster	Young, N. Dal,
+Tilson	Volk	White, Kans.	Zihlman
+Timberlake	Volstead	White, Me. NAYS-79.
+Amen	Drewry	Lesher
+Babka	Dupre -	Linthicum
+Barbour	Eagan	McDuffie
+Barkley	Fields	Major
+Bland, Va.	Fisher	Martin
+Box	Flood	Milligan
+Byrnes, S. C.	Garrett	Minahan, N. J.
+Caldwell	Godwin, N. C.	Montague
+Campbell, Pa.	Griffin	Nelson, Mo.
+Cantril1	Hardy, Tex.	O'Connell
+Caraway	Hoey	O'Connor
+Carss	Hull, Tenn.	Oldfield
+Carter	Humphreys	Oliver
+Cleary	Igoe	Park
+Coady	Jacoway	Phelan
+Collier	James, Va.	Rainey, Henry T.
+Curry, Calif.	Johnson, Miss.	Raker
+Davis, Tenn.	Lanham	Rayburn
+Dewalt	Lazaro	Romjue
+Drane	Lee, Ga.	Rouse </fw>
+<fw> ANSWERED " PRESENT "-2,
+Butler	Knutson </fw>
+
+ <fw> NOT VOTING-136.
+Andrews, Md. Ashbrook Ayres
+Bacharach
+Baer
+Bell
+Benson Bland, Mo. Britten Brooks, Pa. Brumbaugh Candler Carew
+Casey
+Clark, Fla. Clark, Mo. Classon Copley Costello Cullen
+Currie, Mich, Dale
+Davey
+Dempsey Dent
+Dickinson, Mo. Donovan Dooling Doremus Doughton Dunn
+Dyer
+Eagle
+Edmonds 
+Ellsworth Emerson Evans, Nev. Ferris
+Frear
+Gallagher Gallivan Gandy
+Ganly
+Gard
+Garner
+Goldfogle Goodwin, Ark. Gould
+Graham, Pa. Hamill
+Hamilton Harreld Harrisen Hawley Hayden Hersman Holland Hull, Iowa Husted
+James, Mich, Johnson, Ky. Johnson, S. Dale Johnston, N,Y. Kahn
+Kelly, Pa. Kendall
+Kennedy, Iowa Kennedy, R. I.
+Ruhey
+Sims
+Sisson Smithwick Stedman Stephens, Miss. Stevenson Tague
+Taylor, Colo. Tillman Upshaw Venable Watkins Weaver Welling Wilson, La. Wingo
+Wright Young, Tex.
+Kettner Kincheloe King
+Kitchin
+Langley Lonergan 'McAndrews McArthur McFadden McGlennon McKiniry McKinley McLane Maher
+Mann, S. C. Mansfield Mason
+Mead
+Moon
+Mooney Moore, Va. Morin
+Mudd
+Neely
+Nelson, Wis. Pell
+Perlman Porter
+Pou
+]Rainey, Ala. Rainey, John W. Randall, Calif. Reavis
+Riddick
+Riordan Robinson, N. C. Rowan Sabath Sanford
+Scully Sears Sells
+Sherwood Slemp Small Smith, Ill. Smith, N. Y. Steagall
+Steele Stiness Stoll
+Strong, Pa. Sullivan
+Sweet Swope Taylor, Ark.. Taylor, Tenn. Thomas Treadway
+Vare Vestal Welty Whaley Wheeler - Wilson, Pa. Wise
+Woods, Va. Woodyard</fw>
+<p>So the resolution was agreed to.</p>
+<p>The Clerk announced the following additional pairs</p>
+<p>Until further notice:</p>
+<p>Mr. BUTLER with Mr. STEELE. </p>
+<p>Mr. HARRELD with Mr. FERRIS.</p>
+<p>Mr. TREADWAY with Mr. CLARK of Missouri. </p>
+<p>Mr. FREAR With Mr. SHERWOOD.</p>
+<p>Mr. GoULD with Mr. HAYDEN.</p>
+<p>Mr. KAHN with Mr. DICKINsoN of Missouri. </p>
+<p>Mr. ANDREwS of Maryland with Mr. NEELY. </p>
+<p>Mr. SWEET with Mr. MoORE of Virginia. </p>
+<p>Mr. NELSON of Wisconsin with Mr. EAGLE. </p>
+<p>Mr. KENNEDY of Iowa with Mr. WELTY.</p>
+<p>Mr. STRONG of Pennsylvania with Mr. MCLANE,. </p>
+<p>Mr. TAYLOR of Tennessee with Mr. TAYLOR of Arkansas. </p>
+<p>Mr. MCFADDEN with Mr. DONOVAN.</p>
+<p>Mr. GRAHAM of Pennsylvania with Mr. HARRISoN, </p>
+<p>Mr SWOPE with Mr. MEAD.</p>
+<p>Mr. SMITH of Illinois with Mr. MC ANDREW'S.</p>
+<p>Mr. PORTER with Mr. GARNER.</p>
+<p>Mr. MUDD With Mr. HOLLAND.</p>
+<p>Mr. DUNN with Mr. MAHER.</p>
+<p>Mr. ELLSWORTH with Mr. SABATH.</p>
+<p>Mr. LANGLEY with Mr. CULLEN.</p>
+<p>Mr. DYER with Mr. KINCHELOE.</p>
+<p>Mr. RIDDICK With Mr. DOOLING.</p>
+<p>Mr. KELLY of Pennsylvania with Mr. STEAGALL. </p>
+<p>Mr. HULL of Iowa with Mr. ROWAN.</p>
+<p>Mr. BACHARACH With Mr. CASEY.</p>
+<p>Mr. CLASSON with Mr. ROBINSON of North Carolina.</p> 
+<p>Mr. MCKINLEY with Mr. AYRES.</p>
+<p>Mr. BAER with Mr. GOLDFOGLE.</p>
+<p>Mr. JOHNSON of South Dakota with Mr. SEARS.</p>
+<p>Mr. SLEMP with Mr. WILSON of Pennsylvania.</p>
+<p>Mr. HAMILTON with Mr. SMALL.</p>
+<p>Mr. BRITTEN with Mr. MANSFIELD.</p>
+
+<p>Mr. NEELY. Mr. Speaker, I was not present, but I desire to say that if I had been, I would have voted "nay."</p>	
+<p>Mr. KING. Mr. Speaker, I desire to vote " yea."</p>
+<p>The SPEAKER. Was the gentleman present, listening, when his name was called?</p>
+<p>Mr. KING. I was in the gallery with some constituents. </p>
+<p>The SPEAKER. The gentleman does not bring himself within the rule.</p>
+<p>Mr. BUTLER. Mr. Speaker, I have a general pair with the gentleman from Pennsylvania, Mr. STEELE. This seems to be a party question. I desire to withdraw my vote of " yea " and answer "present."</p>
+<p>The name of Mr. BUTLER was called, and he answered " Present."</p>
+<p>Mr. KNUTSON. Mr. Speaker, I am paired with the gentle-man from Georgia, Mr. BELL. I withdraw my vote of " yea " and desire to be recorded "present."</p>
+<p>The name of Mr. KNUTSON was called, and he answered " Present."</p>
+&#8212;
+<p>Mr. GOOD. Mr, Speaker, I ask unanimous consent that House resolution 14, which is a similar resolution, reported to the House on September 2 last; do lie on the, table.</p>
+<p>The SPEAKER. The gentleman from Iowa asks unanimous consent that House resolution 14 lie on the table. Is there objection?</p>
+<p>Mr. GARRETT. Mr. Speaker, reserving the right to object, may I ask the gentleman from Iowa if this is a similar resolution?	</p>
+<p>Mr. GOOD. It is a similar resolution in many respects, not quite so much in detail as the resolution which has just been adopted.	</p>
+<p>Mr. GARRETT. Are we to understand from the gentleman's request that this resolution lie on the table, that the performance through ,which we have just gone is the last official insult that a mad majority intends to offer to the President of the United States, or are there other shocks in store for us?</p>
+<p>Mr. GOOD. Mr. Speaker, the request that this resolution lie on the table is the ordinary, parliamentary procedure. It is not offered as an insult nor was the resolution just passed by the House offered as an insult to the President of the United States. Is there objection?</p>
+<p>There was no objection, and it was so ordered.</p>
+<head>FIVE CIVILIZED TRIBES.	</head>
+<p>The SPEAKER laid before the House the following message from the President of the United States, which was read:</p>
+<opener>
+<salute> To the House of Representatives:</salute>
+</opener>
+<p>I return without my signature H. R. 517, entitled "An act amending an act to provide for drainage, of Indian allotments of the Five Civilized Tribes, approved March 27, 1914," because it seems to me to reduce the number of safeguards thrown around the property of our Indians, when there is no apparent necessity for doing so.</p>
+<closer><signed>WOODROW WILSON.</signed>
+THE WHITE HOUSE,
+15 February, 1921.</closer>
+<p>Mr. SNYDER. Mr. Speaker, I move that the veto message, with accompanying papers, be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+
+<head>FIRST NATIONAL BANK OF NEW CARLISLE, IND.</head>
+<p>The SPEAKER also laid before the House the following message from the President of the United States, which was read:</p>
+<opener>
+<salute> To the House of Representatives:</salute>
+</opener>
+<p>I am returning herewith, without my signature, H. R. 8881, An Act for the relief of the First National Bank of New Carlisle, Indiana. This measure, if it became law, would appropriate out of the Public Treasury the sum of $923.25 to pay the First National Bank of New Carlisle for war savings stamps and thrift stamps stolen from the bank. It would, transfer to the United States the risk of loss on unregistered stamps- for which the bank was responsible and which it held in. its , own custody at its own risk. It would involve the use of public funds to relieve a private banking institution of the consequences of its own misfortune. The stamps in question were unregistered and could not be identified, so that in any event</p>
+
+
+</body>
+</floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV1032.02.pdf"><title>Congressional Record</title> 60, 3791</ref> (1921).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1921.	CONGRESSIONAL RECORD-HOUSE.	3791 </fw>
+<p>Mr. GARD. Two hours will afford a very generous opportunity to enable one to get his dinner. I appreciate that. The intention of my question was as to what legislation the gentleman thought would be up.</p>
+<p>Mr. MONDELL. We have several conference reports, and I imagine they will run into the evening.</p>
+<p>Mr. GARD. In the opinion of the gentleman, it is desirable to have an evening session?</p>
+<p>Mr. MONDELL. Yes.</p>
+<p>Mr. WINGO. Can the gentleman give us an idea whether we will have evening sessions the rest of the time? I am not objecting at all.</p>
+<p>Mr. MONDELL. I think it will be necessary to hold evening sessions from now on.</p>
+<p>Mr, WINGO. I think that the gentleman's policy of taking a recess to allow dinner is a good one, and really will save time.</p>
+<p>Mr. MONDELL. I am making it at the request of several gentlemen on both sides, who thought it better to have a recess than to hold sessions continuously.</p>
+<p>Mr. WINGO. And for special reasons that would be the gentleman's policy for the rest of the week, would it not? </p>
+<p>Mr. MONDELL. It would.</p>
+<p>Mr. McCLINTIC. Is it your policy to have a recess every evening when you have a night session?</p>
+<p>Mr. MONDELL. It seems to me that would be a better policy, unless gentlemen may express a different opinion.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Wyoming [Mr. MONDELL]? </p><p>[After a pause.] The Chair hears none.</p>
+
+<head>DRAINAGE OF INDIAN LANDS&#8212;VETO MESSAGE.</head>
+<p>Mr. SNYDER. Mr. Speaker, I rise to present a privileged report from the Committee on Indian Affairs of the House.</p>
+<p>The SPEAKER. The gentleman from New York presents a privileged report, which the Clerk will report.</p>
+<note>The Clerk read as follows:</note>
+<p>An act (H. R. 517) entitled "An act amending an act to provide for drainage of Indian allotments of the Five Civilized Tribes," approved March 27, 1914. (38 State., 310, Public, No. 77.)</p>
+<p>Mr. SNYDER. Mr. Speaker, I yield five minutes to the gentleman from Oklahoma [Mr. McKEOWN].</p>
+<p>Mr. WALSH. Mr. Speaker, the Clerk read the title of the bill. How is there any privilege to that?</p>
+<p>Mr. SNYDER. There is a report attached there which the Clerk did not read.</p>
+<p>Mr. WALSH. I think we ought to know.</p>
+<p>Mr. SNYDER. There is a report there that should be read. </p>
+<p>The SPEAKER. The Chair thinks the report is a subject for debate. It is a vetoed bill.</p>
+<p>Mr. WALSH. The gentleman from New York did not say anything about a vetoed bill.</p>
+<p>Mr. SNYDER. I supposed the report would be read. </p>
+<p>Mr. WALSH. The Clerk read only the title.</p>
+<p>Mr. SNYDER. Mr. Speaker, would it be in order to have the report read?</p>
+<p>The SPEAKER. Yes.</p>
+<p>Mr. SNYDER. Then I ask that the report be read.</p>
+<p>The SPEAKER. The Clerk will read the report.</p>
+<note>The Clerk read as follows:</note>
+<quote> Your Committee on Indian Affairs or the House, to which was referred the bill (H. F. 517) entitled "An act amending an act to provide for drainage of Indian allotments of the Five Civilized Tribes," approved March 27, 1914 (38 Stats., 310 ; Public, No. 77), together with the objections of the President thereto, having reconsidered said bill and the objections of the President thereto, report the same back to the House with the recommendation that said bill do pass, the objections of the President to the contrary notwithstanding. </quote>
+<p>The SPEAKER. The gentleman from Oklahoma [Mr. McKEowN ] is recognized for five minutes.</p>
+<p>Mr. McKEOWN. Mr. Speaker, I would not at this busy period in the session have imposed this matter upon the House or asked the Committee on Indian Affairs to report it but for the fact that this measure is of vast importance to the people of my State, and the further fact that the measure does not do what the President thought it did in the statement he makes in his veto. In the veto message he stated that it seemed to him that this bill took away from the Indians some safeguards which did not appear necessary to be taken.</p>
+<p>Now, this bill changes existing law in only two particulars. It strikes out the words "or the United States," on page 2, line 10, and on page 2, line 25, it strikes out this language:&#8212;</p>
+<quote>Provided further, That in any event such assessments on any Indian allotment shall not exceed $15 per acre, and no such assessment shall be made unless the Indian allottee affected or his legal guardian shall consent thereto and. </quote>
+<p>Here is the situation: The streams of Oklahoma as a rule flow from the west to the east. Oklahoma is made up of two Territories, the old Territory of Oklahoma and the Indian Territory. This bill affects only the Five Civilized Tribes. Here is what happens : You can organize a drainage district on the old Territory of Oklahoma, and bring the drainage ditch down to the line of the Indian Territory, and there, because some individual Indian objects, you can not organize the district, and the result is that the water is dumped upon the land of the Indians and the white men who live across the line in the old Territory.</p>
+<p>For that reason, and to cure that, this amendment was offered. The only change it makes is that it will not permit one individual Indian by objecting to defeat the creation of an entire drainage district.</p>
+<p>I want to call attention to the fact that under the existing Iaw there is no assessment against the Indian lands. The only provision is that in the event a drainage district is created and the Indian has any money here in Washington in the hands of the Secretary of the Interior, the Secretary, if he approves the assessment&#8212;and he must examine and must approve or disapprove it, if he sees fit&#8212;</p>
+<p>Mr. CARTER. And it is no lien on the land&#8212;</p>
+<p>Mr. McKEOWN. And it is no lien upon the land at all ; if he has no money&#8212;and a great number of them are in that condition&#8212;if they have no money here in the Treasury in the care of the Secretary of the Interior, it does not hurt them at all. But if the restricted Indians object, it does tie up all the drainage in the eastern part of the State of Oklahoma.</p>
+<p>Mr. BUTLER. Mr. Speaker, will the gentleman yield? </p>
+<p>Mr. McKEOWN. Yes.</p>
+<p>Mr. BUTLER. Did the Secretary of the Interior approve the bill?</p>
+<p>Mr. McKEOWN. The Secretary of the Interior in his report to the Senate approved the bill as it passed the House and as it went to the Senate, and no objection was called to my attention to the form it passed finally.</p>
+<p>Mr. SNYDER. Mr. Speaker, I move the previous question. The previous question was ordered.</p>
+<p>The SPEAKER. The question is, Shall the House pass the bill, the views of the President to the contrary notwithstanding? Those in favor of so passing the bill will, when their names are called, answer " yea," those opposed will answer " nay."</p>
+The question was taken; and there were&#8212;yeas 323, nays 18, answered "present" 1, not voting 86, as follows:
+<head>YEAS &#8212; 323</head>
+<row>
+Ackerman	Denison
+Almon	Dent
+</row>
+<row>
+Anderson	Dewalt
+Andrews, Md.	Dickinson, Iowa 
+</row>
+<row>
+Andrews, Nebr.	Dickinson, Mo.
+Ashbrook	Dominick
+</row>
+<row>
+Ayres	Dooling
+Babka	Dowell
+</row>
+<row>
+Barbour	Deane
+Earkley	Dunbar
+</row>
+<row>
+Bell	Dupre
+Benson	Dyer
+</row>
+<row>
+Black	Eagan
+Bland, Ind.	Echols
+</row>
+<row>
+Bland, Va.	Elliott
+Boles	Elston
+</row>
+<row>
+Bowers	Emerson
+Bowling	Esch
+</row>
+<row>
+Box	Evans, Nebr.
+Brand	Evans, Nev.
+</row>
+<row>
+Briggs	Fairfield
+Brinson	Ferris
+</row>
+<row>
+Brooks, Ill.	Fields
+Brooks, Pa.	Fisher
+</row>
+<row>
+Browne	 Flood
+Buchanan	Focht
+</row> 
+<row>
+Burdick		Fordney
+Burroughs	Foster
+</row>
+<row>
+Butler	Frear
+Byrnes, S. C.	Freeman
+</row>
+<row>
+Byres, Tenn.	French
+Caldwell	Fuller Campbell, Kans. 
+</row>
+<row>
+Gallivan
+Campbell, Pa.	Ganly
+Caraway	
+</row>
+<row>
+Glynn
+Carew	Godwin, N. C.
+Carter	
+</row>
+<row>
+Good
+Chindblom	Goodall Christopherson 
+</row>
+<row>
+Goodykoontz
+Coady	Gould
+Cole	
+</row>
+<row>
+Graham, Ill.
+Collier		Green, Iowa
+Cooper	
+</row>
+<row>
+Greene, Mass.
+Copley	Greene, Vt.
+Crago
+</row>	
+<row>
+Griest
+Cramton	Griffin
+Crisp	
+</row>
+<row>
+Hadley
+Cullen	Hardy, Colo.
+Currie, Mich.
+</row>	
+<row>
+Hardy, Tex.
+Dale	Harreld
+Dallinger
+</row>	
+<row>
+Harrison
+Darrow	Hastings
+Davis, Minn.	
+</row>
+<row>
+Haugen
+Davis, Tenn.	Hawley
+Dempsey	
+</row>
+<row>
+Hayden
+Hernandez Hersey Hickey
+</row>
+<row>
+Hicks
+	Hill
+Hoch
+Hoey
+</row>
+<row>
+Holland Houghton Howard Hudspeth 
+</row>
+<row>
+Hullings 
+Hull, Iowa 	Humphreys Husted 
+</row>
+<row>
+Hutchinson Igoe
+Ireland Jacoway 
+</row>
+<row>
+James, Va. Tefferis 
+Johnson, Ky. Johnson, Miss.
+</row> 
+<row>
+Johnson, Wash. Jones, Pa. Juul
+Kahn
+</row>
+<row>
+Kearns Keller
+Kelley, Mich. Kelly, Pa.
+</row> 
+<row>
+Kendall Kennedy, R.I.  Kettner Kincheloe
+</row> 
+<row>
+King
+Kinkaid Knutson Kraus
+</row>
+<row>
+Kreider Lampert Langley Lanham 
+</row>
+<row>
+Lankford Larsen Layton Lazaro 
+</row>
+<row>
+Lea, Calif. Lesher Linthicum  Little 
+</row>
+<row>
+<row>
+Longworth Luce
+Lufkin Luhring
+</row>
+<row>
+McAndrews McArthur
+McClintic McDuffie
+</row>
+<row>
+McFadden McKenzie McKeown McLaughlin, Mich.
+</row>
+<row>
+McLaughlin, Nebr. McLeod
+McPherson
+MacGregor
+</row> 
+<row>
+Magee
+Major Mann, Ill.
+Mansfield 
+</row>
+<row>
+Mapes
+Martin Mason Mays
+Merritt
+</row>
+<row>
+Michener Milier
+Minahan, N.J.
+Monahan, Wis. 
+</row>
+<row>
+Mandell
+Montague Moore, Ohio
+Moore, Va. 
+</row>
+<row>
+Morin
+Mott Murphy
+Neely
+</row>
+<row>
+Nelson, Mo. Nelson, Wis. Newton, Minn.
+Newton, Mo. 
+</row>
+<row>
+Nicholls Nolan
+O'Connell
+O'Connor 
+</row>
+<row>
+Ogden
+Oldfield Oliver Olney
+</row>
+<row>
+Osborne
+Overstreet Padgett Paige
+</row>
+<row>
+Park Parker Parrish
+Patterson 
+</row>
+<row>
+Peters
+Phelan
+</row>
+
+<row>
+Porter Pou
+Purnell Quin
+</row>
+<row>
+Radcliffe
+Raker Ramsey Ramseyer 
+</row>
+<row>
+Randall, Calif. Randall, Wis. Ransley Rayburn 
+</row>
+<row>
+Reavis Reber
+Reed, N. Y. Reed, W. Va.
+</row> 
+<row>
+Rhodes Ricketts Riddick Robinson, N. C. 
+</row>
+<row>
+Rodenberg  Rogers
+Romjue Rose
+</row>
+<row>
+Rouse Rowe
+</row>
+</row>
+<row>
+Rucker	Stephens, Miss.
+Sanders, Ind.	Stephens, Ohio
+</row>
+<row>
+Sanders, La.	Stevenson
+Sanders, N. Y.	Stiness
+</row>
+<row>
+Sanford	Strong, Kans.
+Scholl	Strong, Pa.
+</row>
+<row>
+Scott	Summers, Wash.
+Sells	Sweet
+</row>
+<row>
+Sherwood	Swindall
+Shreve	Swope
+</row>
+<row>
+Siegel	Tague
+Sinclair	Taylor, Ark.
+</row>
+<row>
+Sinnott	Taylor, Colo.
+Sisson	Taylor, Tenn.
+</row>
+<row>
+Slemp	Temple
+Smith, Idaho	Tillman
+</row>
+<row>
+Smith, Ill.	Tilson
+Smith, Mich.	Timberlake
+</row>
+<row>
+Smith, N. Y.	Pincher
+Smithwick	Tinkham
+</row>
+<row>
+Snell	Towner
+Snyder	Treadway
+</row>
+<row>
+Steagall	Upshaw
+Stedman	Vaile
+</row>
+<row>
+Steele	Venable
+Steenerson	Vestal
+</row>
+
+<head>NAYS-18.</head>
+<row>
+Aswell Begg
+Blanton Cares Cleary
+</row>
+<row>
+Drewry	Lee, Ga.
+Evans, Mont.	Madden
+</row>
+<row>
+Gallagher	Pell
+Gard	Sims
+</row>
+<row>
+Jones, Tex.	Small
+</row>
+<row>
+Stoll Sullivan Walsh
+</row>
+
+<head>ANSWERED "PRESENT "<head>-</head>1.</head>
+<p>Huddleston</p>
+
+<head>NOT VOTING&#8212;86.</head>
+<row>
+Anthony	Donovan
+Bacharach	Doremus
+</row>
+<row>
+Baer	Doughton
+Bankhead	Dunn
+</row>
+<row>
+Bee	Eagle
+Benhsm	Edmonds
+</row>
+<row>
+Bland, Mo.	Ellsworth
+Britten	Fess
+</row>
+<row>
+Brumbaugh	Fish
+Burke	Candy
+</row>
+<row>
+Candler	Garner
+Cannon	Garrett
+</row>
+<row>
+Cantrill	Goldfogle
+Casey	Goodwin, Ark.
+</row>
+<row>
+Clark, Fla.	Graham, Pa.
+Clark, Mo.	Hamill
+</row>
+<row>
+Classon	Hamilton
+Connally	Hays
+</row>
+<row>
+Costello	Hersman
+Crowther	Hull, Tenn.
+</row>
+<row>
+Curry, Calif.	James, Mich.
+Davey	Johnson, S. Dale
+</row>
+<row>
+Johnston, N. Y. Kennedy, Iowa Kiess
+Kitchin 
+</row>
+<row>
+Kleenka. Lehlbachs Lonergan McCulloch 
+</row>
+<row>
+McGlennon McKiniry McKinley McLane
+</row>
+<row>
+Maher Wane, S. C. Mead Milligan
+</row>
+<row>
+Moon Mooney
+Moores, Ind. Mudd 
+</row>
+<head>Perlman Rainey, Ala.
+Rainey, Henry T.  Rainey, John W. </head> 
+<row>
+Riordan Robsion, Ky. Rowan
+Rubey
+</row>
+<row>
+Sabath Scully
+Sears
+Sumners, Tex. 
+</row>
+<row>
+Thomas Thompson Vare
+Walters
+</row> 
+<head>Webster Wheeler Wilson, Ill.
+Wise</head>
+<row>
+Woodyard Zihlman
+</row>
+<row>
+Vinson Voigt
+Volk
+Volstead 
+</row>
+<row>
+Ward
+Wason Watkins Watson 
+</row>
+<row>
+Weaver Welling Welty
+Whaley
+</row> 
+<row>
+White, Kans.  White, Me.  Williams Wilson, La.
+</row> 
+<row>
+Wilson, Pa. Wingo Winslow Wood, Ind. Woods, Va. 
+</row>
+<row>
+Wright Yates
+Young, N.Dak.	Young, Tex.
+</row>
+
+<p>
+So, two&#8211;thirds voting in the affirmative, the bill was passed, the objections of the President to the contrary notwithstanding.</p>
+The Clerk announced the following pairs:
+<p>Mr. DUNN with Mr. CLARK of Missouri.</p>
+<p>Mr. Fess with Mr. GARRETT.</p>
+<p>Mr. CANNON With Mr. CLARK of Florida.</p>
+<p>Mr. BRITTEN With Mr. CANDLER.</p>
+<p>Mr. ZIHLMAN with Mr. HERSMAN.</p>
+<p>Mr. LEHLBACH with Mr. CONNALLY.</p>
+<p>Mr. THOMPSON with Mr. SUMNERS of Texas.</p>
+<p>Mr. MUDD with Mr. HENRY T. RAINEY.</p>
+<p>Mr. WILSON of Illinois With Mr. BEE.</p>
+<p>Mr. CROWTHER With Mr. BANKHEAD.</p>
+<p>Mr. ANTHONY with Mr. RUDEY.</p>
+<p>Mr. WOODYARD with Mr. CANTRILL.</p>
+<p>Mr. EDMONDS with Mr. CASEY.</p>
+<p>Mr. HAMILTON with Mr. BRUMBAUCH.</p>
+<p>Mr. KENNEDY of Iowa with Mr. GOODWIN of Arkansas. </p>
+<p>Mr. WHEELER with Mr. JOHN W. RAINEY.</p>
+<p>Mr. MOORES of Indiana with Mr. KITCHIN.</p>
+<p>Mr. MCKINLEY with Mr. HULL of Tennessee.</p>
+<p>Mr. FISH with Mr. GANDY.</p>
+<p>Mr. COSTELLO With Mr. DoREMUS.</p>
+<p>Mr. BAER with Mr. Davey.</p>
+<p>Mr. WEBSTER with Mr. RIORDAN</p>.
+<p>Mr. WALTERS with Mr. Thomas.</p>
+<p>Mr. JOHNSON of South Dakota with Mr. JOHNSTON of New York.</p>
+<p>Mr. PERLMAN with Mr. MILLIGAN.</p>
+<p>Mr. ROBSION of Kentucky with Mr. McGLENNON.</p>
+<p>Mr. KLECZKA With Mr. SEARS.</p>
+<p>Mr. CURRY of California with Mr. MooN.</p>
+<p>Mr. VARE with Mr. RAINEY of Alabama.</p>
+<p>Mr. JOHNSON of Washington with Mr. WISE.</p>
+<p>Mr. MCCULLOCH with Mr. MEAD.</p>
+<p>Mr. GRAHAM Of Pennsylvania with Mr. Maher.</p>
+<p>Mr. BURKE with Mr. DOUGHTON.</p>
+<p>Mr. ELLSWORTH With Mr. SABATH.</p>
+<p>Mr. KIEss with Mr. GARNER.</p>
+<p>Mr. CLASSON with Mr. DONOVAN.</p>
+<p>Mr. BACHARACH With Mr. GOLDFOGLE.</p>
+<p>Mr. JAMES of Michigan With MR. MOONEY.</p>
+<p>Mr. BENHAM with Mr. McKINIRY.</p>
+<p>The result of the vote was announced as above recorded.</p>
+
+<head>MESSAGE FROM THE SENATE.</head>
+<p>A message from the Senate, by Mr. Crockett, one of its clerks, announced that the Senate had passed bill of the following title, in which the concurrence of the House of Representatives was requested:</p>
+<p>S.5030. An act authorizing the city of New Orleans, 'La., to extend Dauphin Street, in said city, across the United States military reservation known as the Jackson Barracks.</p>
+<p>The message also announced that the Senate had passed with amendments the bill (H. R. 15812) making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1922, had requested a conference with the House of Representatives, and had appointed Mr. GRONNA, Mr. KENYON, Mr.McNARY, Mr. GORE, and Mr. SMITH of South Carolina as the conferees on the part of the Senate.</p>
+<p>The message also announced that the Senate had agreed to the amendment of the House of Representatives to the joint resolution (S. J. Res. 161) to exempt the New York State Barge Canal from the provisions of section 201 of H. R. 10453.</p>
+<p>The message also announced that the Senate had agreed to the report of the committee of conference on the disagreeing votes of the two Houses ion 'the amendments of the Senate to the bill (H. R. 15032) making appropriations for the current and contingent expenses of .the bureau .of Indian Affairs, for fulfilling treaty stipulations with various Indian tribes, and for other purposes, for the fiscal year ending June 30, 1922 ; had agreed to the amendments of the House to the amendments of the Senate numbered 14, 17, 20, 25, 26, 27, 32, 40, 42, 43, 60, 61, 62, 64, 82, 94, 95, 101, 102, 109, 129, and 130; had receded from its amendments numbered 53, 65, 83, 104, and 106.</p>
+<p>The message also announced that the Senate had agreed to the report of the committee of conference on the disagreeing -votes of the two Houses on the amendments by the Senate to the bill (H. R. 15962) making appropriations to supply deficiencies in .appropriations for the fiscal year ending .June -30, 1921, and prior fiscal years, and for ether purposes, had agreed to the amendments of the ,House to the amendments of the Senate numbered 40, 52, 53, and 62, and had receded from its .amendment numbered 33.</p>
+<p>The message also announced that the Senate had passed without amendment House joint resolution 465, for the appointment of one :member of the Board of Managers of the National Home for Disabled Volunteer Soldiers.</p>
+<p>The message also announced that the Senate had further insisted .upon its amendments to the bill (H. R. 9521) to prevent hoarding and deterioration of and deception with respect to cold-storage foods, to regulate shipments of cold-storage foods in interstate commerce, and for other purposes, disagreed to by, the House of Representatives, had asked a further -conference with the House on the disagreeing votes of the two Houses thereon, and had appointed Mr. GRONNA, Mr. McNArY, and Mr. SMITH of South Carolina as the conferees on the part of the Senate</p>.
+<p>The message also announced that the Senate had agreed to the reports of committees of conference on the disagreeing votes of the two Houses  on the amendments Of the Senate to bills of the following titles:</p>
+<p>H.R.10515. An act granting pensions and increase of pensions to certain soldiers and sailors, of the Regular Army and Navy, and certain soldiers :and sailors of wars other than the Civil War, and to widows of such soldiers and sailors;</p>
+<p>H. R. 9281. An act granting pensions and increase of pensions to certain soldiers and sailors Of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to widows of such soldiers and sailors ;</p>
+<p>H. R.11554. An act granting pensions and increase of pensions to certain soldiers and sailors of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to widows of such soldiers and sailors; and</p>
+<p>H.R.'7775. An act granting pensions and increase of pensions to certain soldiers and sailors of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to Widows of such soldiers and sailors.</p>
+
+<p><head>POST OFFICE APPROPRIATION.</head>
+Mr. MADDEN. Mr. Speaker, I call up the conference report on the Post Office appropriation bill.</p>
+<p>The SPEAKER. The gentleman from Illinois calls up the conference report on the Post Office appropriation bill. When 'the House adjourned 'last night the vote was being -taken on 'amendment No. .12, which the Clerk will report.
+</p>
+</body>
+HeinOnline - 60 <title>Cong. Rec.</title> 3791 1921
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1032.03.pdf"><title>Congressional Record</title> 60, 4222</ref> (1921).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 42'22	CONGRESSIONAL RECORD—SENATE.	M ARd 12, </fw>
+<p>under which I took my examination with an equal opportunity with all the other candidates, I would not be the postmaster at &#8212; to-day. For, being a Republican, I would have had no chance if the matter was to be decided politically.</p>
+<p>I am frank to say that I fail to see where there are any facts to base this criticism upon. In fact, if It was to be political and one party favored, then why was the order issued?</p>
+<p>In the judgment of the writer, while a Republican, and should any changes be made, the postmaster stands, in line for continuous service, yet I believe the order was one of the finest things issued from the Executive Office, for it removes all political squabbles for the postmasterships and places them upon a competitive basis. The result will, be, not as. often would happen, Incompetency, but highest efficiency. I sincerely hope that the, new admiuistratton will go one step further and place the postmasters under the classified civil service. This will be a great step forward.</p>
+<p>I will further add that when I took my examination, I was warned In writing by the commission net to mention religion or polities. anywhere. It would certainly be of interest and value, I think, if the result of your Inquiry could he sent to all the postmasters.</p>
+<p>Another Republican whose appointment came as a surprise says:</p> <quote>
+<p>The inclosed communication does not call for more information than stated on the blank spaces, but I think my case is just a little different than most appointments. I served four terms as postmaster in this office from 1898 to 1014. When the postmaster who succeeded me resigned, I was requested by patrons of the office to take up the examination. I could not see any reason for appointing a Republican, but to test the new rule of civil service I submitted my papers and was very much surprised when I received notice that I was at the head of the list and was appointed postmaster. There certainly was no political influence in my case. Had I known that the Post Office appointments were going back to politics, I never would have given up a good position to come back.</p> </quote>
+<p>Another says:</p>
+<quote> I desire to advise that absolutely no political, religious, or fraternal affiliations were mentioned in the appointment of the postmaster at *. I have been a lifelong Republican and received my appointment solely on merit after passing the highest grade in the civil service examination for the position. </quote>
+<p>One postmaster says:</p>
+<quote><p>I am in possession of three commissions signed by Republican Presidents for postmaster at another office of the third class, and at the examination held for postmaster at * * * the other applicant was a Democrat and chairman of the precinct committee, so I can truthfully state that there was no discrimination shown in this case for political or other reasons. The Iron. Frank W. Mondeli will verify that he has recommended me to the previous appointments as postmaster under a Republican administration, and am satisfied that the ruling of March 81, 1917, was strictly adhered to In this case. Any further information will be cheerfully supplied.</p></quote>
+<p>One of the postmasters who is a Democrat writes:</p>
+<quote>
+I am glad to state that in making my appointment the department adhered strictly to the presidential order of March 31, 1917. The department had no knowledge at that time of my party preference, as I made no. reference thereto on the papers I submitted with my application. As a matter of fact, I had the combined opposition of both major parties in my own town, and also the opposition of the Congressman from my district. Had the appointment been made from a political standpoint I certainly would not have received it. My appointment was due to, the fact that I received the highest grade in the competitive examination. </quote>
+<p>An independent says:</p><quote>
+<p>Have always been strictly an independent in politics, not affiliated with any political party, but guided entirely by the issues and men presented in each campaign. Have twice voted for a Republican President, and three times for a Democratic President. During the past 20 years, with. one or two. exceptions, I have supported the Republican Members of Congress, and generally speaking have supported the Republican State ticket. At the time I was. appointed postmaster here wy appointment was strongly opposed by every Democratic politician in the State. * * *</p></quote>
+<p>In another instance of a Democrat being appointed the postmaster writes:</p>
+<p>When the civil service examination was held to fill the position as postmaster at this office four applicants contested; three Democrats and one Republican.</p>
+<p>The Democrat who had the indorsement of the Democratic organization and who had secured the appointment as acting postmaster at this office, stood third in the examination, and the Republican stood fourth; and I stood first, and in compliance with the Executive order I was nominated for the position.</p>
+<p>The department did not know or ask what my political affiliation was. I am convinced I could have never secured the appointment on a political basis.</p>
+<p>A Republican writes that he was rejected by, the local board in August, 1917 (draft), because of had eyes and that his attention was called to the President's Executive order relative to the competitive appointment of postmasters and advised to take the examination. Of the four applicants who took the examination, he says:</p> 
+<quote>
+The other three were affiliated with the Democratic Party and two have been candidates for other offices. I and my father before me have always been affiliated, with the Republican Party.</quote>
+<p>No information was asked of me at any time as to my political affiliations, and I can say further that the Democratic committeemen from this precinct worked for one of the candidates and that a friend of another of the candidates who happened to be at the Capitol,, made a special call in the, interests of his friend, and I can also say further that one of ;the applicants also, had petitions signed by about 2f asking for his appointment.</p>
+<p>A Democrat, explaining how he got into office says (names being omitted); <quote>Politics did not enter into the appointment of the postmaster at
+* ** * in, any way: *</p>
+<p>A Republican had charge of the office at the beginning of
+the present administration. Soon after his time expired and an examination was held to fill the vacancy.</p>
+<p>He * * * and I *. * * took the examination., His grade was three or four points higher than mine and he was given the position and held it five years. His health failed and he appointed his son * * * assistant.</p>
+<p>The office was then raised to the third class and an examination was held for third-class postmasters to fill the position at * * *.This son * * * and I took the examination. But before the appointment was made * * * resigned to take a better position in a bank and I was appointed postmaster.</p>
+<p>There was no politics in it at all. It was not, even suggested. The same thing happened at * * *. A Republican and a Democrat, took the examination. The Republican was siren the position because he passed the best examination.</p>
+</quote>
+<p>It is frequently said in letters by postmasters. who avow themselves to be Democrats that no political influence was used
+to secure their appointments and that though they were Democrats their political affiliation was not known or inquired into. One Democrat says:</p>
+<quote>
+In connection with the inclosure I might say that I filed my application for the local post office, passed the examination, and was appointed and confirmed without at any time writing or asking anyone either in public or private, life for any assistance. My politics could not have been known to anyone handling the: matter unless such persons on his own imitiative discovered what my politics were and if this was done I do not know anything about it.</quote>
+<p>One Republican postmaster closes his communication with this suggestion:</p>
+<quote>The Republican Party will do well to copy the Democratic Party in the matter of post-office appointments. A lot of my friends thought there would be no use. for me to take the examination for postmaster on account of being a Republican, but politics did not enter into the matter at all. The Democratic Party has been very fair as far as I am concerned and the Republican Party will make mistake if the old political spoils system is employed in making post-office appointments.</quote>
+
+<head>MEMORIAL OF THE LATE SURG. GEN. GORGAS.</head>
+<p>Mr. HEFLIN. Mr. President; on February 14 last the Senate
+granted unanimous consent to print as a public document the memorial speeches on the late Surg. Gen. Gorgas, I have been furnished a photograph of Surg. Gen. Gorgas, but the photgraph can not be published with the public document except by unanimous consent.</p>
+<p>Mr. SMOOT. May I inquire of the Senator whether that consent was given in the House or in the. Senate?</p>
+<p>Mr. HEFLIN. It was given in the Senate on the 14th of February.</p>
+<p>Mr. SMOOT. The Government Printing Office can not publish the photograph without a specific order.</p>
+<p>Mr. HEFLIN. I ask unanimous consent that the Government
+Printing Office be authorized to reproduce the photograph as a part of the document.</p>
+<p>The VICE PRESIDENT. Is there objection? The. Chair hears none; and it is so ordered.</p>
+
+<head>INDIAN ALLOTMENTS &#8212; VETO MESSAGE.</head>
+<p>Mr. OWEN. Mr. President, I ask unanimous. consent to dispose of the bill (H. R. 517) amending an act to provide for
+drainage of Indian allotments of the Five Civilized Tribes, approved March 27, 1914, together with the objections of the President thereto, which was reported last night from the Committee on Indian Affairs. There is no objection, to it in any, way so far as I know. It was vetoed by the President under
+an obvious misapprehension. The only change made in the
+existing law is a provision permitting the amount of $15&#8212;the previous limit&#8212;to be raised because of the increased cost of making the drainage and removing the right of an individual
+to veto the matter. The bill was passed by the House over the
+Presidents veto by, a vote of 322 to 18, and I think there will be no one in the Senate objecting to it.</p>
+<p>The VICE PRESIDENT. The question. is, Shall the bill pass,
+the objections of the President to the contrary notwithstanding? The Secretary will call the roll.</p>
+<note>The reading clerk proceeded to call the roll.</note>
+<p>Mr. HENDERSON (when his name was called), I have a general pair with the junior Senator from Illinois [Mr. McCormick]. Being unable to secure a transfer, I withhold my vote.</p>
+<p>Mr. JONES of New Mexico. Mr. President, I should like the privilege of asking unanimous consent that some Senator who understands the veto message on which we are voting may
+make some explanation of it. I do not know a thing about it, and I do not care to vote unadvisedly.</p>
+<p>The VICE PRESIDENT. Unfortunately, the rules provide
+that there can be no discussion or explanation during the calling of the roll.</p>
+<p>Mr. JONES of New Mexico. Not even by unanimous consent?
+I rose for the purpose of asking unanimous consent that that might be done.</p>
+<fw> HeinOnline - 60 <title>Cong. Rec.</title> 4222 1921
+1921.	CONGRESSIONAL RECORD-SENATE.	42.23 </fw><pb n="1921" />
+<p>The VICE PRESIDENT. That can not be done even by unanimous consent. After the roll call has started nothing can be done but to continue and conclude the call.</p>
+<p>Mr. POINDEXTER. I ask for the regular order.</p>
+<note>The reading clerk resumed the calling of the roll. </note>
+<p>Mr. WILLIAMS (when his name was called). I transfer my pair with the senior Senator from Pennsylvania [Mr. PENROSE] to the Senator from Kentucky [Mr. STANLEY] and vote "nay."</p>
+<p>The roll call was concluded.</p>
+<p>Mr. SUTHERLAND. I have a general pair with the senior Senator from Kentucky [Mr. BECKHAM], which I transfer to the junior Senator from California [Mr. JOHNSON] and will vote. I vote "yea."</p>
+<p>Mr. CURTIS. I desire to announce that the Senator from Maine [Mr. FERNALD] is paired with the Senator from South Dakota [Mr. JOHNSON]</p>.
+The result was announced&#8212;yeas 67, nays 5, as follows:
+<head>YEAS-67.</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Ashurst</cell>	<cell role="desc">Gronna</cell>	<cell role="desc">Moses</cell>	<cell role="desc">Smith, S. C.</cell>
+</row>
+<row>
+<cell role="desc">Ball</cell>	<cell role="desc">Hale</cell>	<cell role="desc">Myers</cell>	<cell role="desc">Smoot</cell>
+</row>
+<row>
+<cell role="desc">Brandegee</cell>	<cell role="desc">Harrison</cell><cell role="desc">	Nelson	</cell><cell role="desc">Spencer</cell>
+</row>
+<row>
+<cell role="desc">Calder</cell>	<cell role="desc">Heflin</cell>	<cell role="desc">New</cell>	<cell role="data">Sterling</cell>
+</row>
+<row>
+<cell role="desc">Caliper	</cell><cell role="desc">Hitchcock</cell>	<cell role="desc">Norris</cell><cell role="desc">	Sutherland</cell>
+</row>
+<row>
+<cell role="desc">Cummins</cell>	<cell role="desc">Jones, N. Mex.</cell>	<cell role="desc">Overman</cell>	<cell role="desc">Swanson</cell>
+</row>
+<row>
+<cell role="desc">Curtis</cell>	<cell role="desc">Jones, Wash.</cell>	<cell role="desc">Owen</cell>	<cell role="desc">Thomas</cell>
+</row>
+<row>
+<cell role="data">Desc</cell>	<cell role="desc">Kellogg</cell>	<cell role="desc">Page</cell>	<cell role="desc">Townsend</cell>
+</row>
+<row>
+<cell role="desc">Dillingham</cell>	<cell role="desc">Kenyon</cell>	<cell role="desc">Phipps</cell>	<cell role="desc">Underwood</cell>
+</row>
+<row>
+<cell role="desc">Edge</cell>	<cell role="desc">Keyes</cell>	<cell role="desc">Pomerene</cell>	<cell role="desc">Wadsworth</cell>
+</row>
+<row>
+<cell role="desc">Elkins	</cell><cell role="desc">King</cell>	<cell role="desc">Ransdell	</cell><cell role="desc">Walsh, Mass.</cell>
+</row>
+<row>
+<cell role="data">Fletcher</cell>	<cell role="desc">Kirby</cell>	<cell role="desc">Reed</cell>	<cell role="desc">Walsh, Mont.</cell>
+</row>
+<row><cell role="desc">France</cell>	<cell role="desc">La Follette</cell>	<cell role="desc">Robinson</cell>	<cell role="desc">Warren</cell></row>
+<row>
+<cell role="desc">Frelinghuysen</cell>	<cell role="desc">Lenroot</cell><cell role="desc">	Sheppard	</cell><cell role="desc">Watson</cell>
+</row>
+<row>
+<cell role="desc">Gerry</cell>	<cell role="desc">Lodge</cell><cell role="desc">	Shields</cell>	<cell role="desc">Willis</cell>
+</row>
+<row>
+<cell role="desc">Gooding</cell>	<cell role="desc">McKellar</cell>	<cell role="desc">Simmons	</cell><cell role="desc">Wolcott</cell>
+</row>
+<row>
+<cell role="desc">Gore</cell>	<cell role="desc">McNary</cell><cell role="desc">	Smith, Ga. </cell>
+</row>
+</table>
+
+<head>NAYS-5.</head>
+<row>
+<cell role="desc">Gay</cell> <cell role="desc">Harris</cell>
+<cell role="desc">McCumber</cell>
+</row>	<row>
+<cell role="desc">Poindexter</cell>	<cell role="desc">Williams</cell>
+</row>
+
+<head>NOT VOTING-24.</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Beckham</cell>	<cell role="desc">Fernald</cell>	<cell role="desc">Knox</cell>	<cell role="desc">Pittman</cell>
+</row>
+<row>
+<cell role="desc">Borah</cell>	<cell role="desc">Glass</cell>	<cell role="desc">McCormick</cell>	<cell role="desc">Sherman</cell>
+</row>
+<row>
+<cell role="desc">Chamberlain</cell>	<cell role="desc">Henderson</cell>	<cell role="desc">McLean</cell>	<cell role="desc">Smith, Ariz.</cell>
+</row>
+<row>
+<cell role="desc">Colt</cell>	<cell role="desc">Johnson, Calif.</cell>	<cell role="desc">Newberry	</cell><cell role="desc">Smith, Md.</cell>
+</row>
+<row>
+<cell role="desc">Culberson</cell>	<cell role="desc">Johnson, S Dak.</cell> <cell role="desc">Penrose</cell>	<cell role="desc">Stanley</cell>
+</row>
+<row>
+<cell role="desc">Fall</cell>	<cell role="desc">Kendrick</cell>	<cell role="desc">Phelan</cell>	<cell role="desc">Trammell</cell>
+</row>
+</table>
+
+<p>The VICE PRESIDENT. A quorum of the Senate being present, and more than two-thirds thereof having voted in the affirmative, the bill becomes a law, the objections of the President of the United States to the contrary notwithstanding.</p>
+
+<head>THE MERCHANT MARINE.</head>
+<p>The VICE PRESIDENT laid before the Senate a communication, with accompanying papers, from the United States Shipping Board in response to Senate resolution No. 413, of December 27, 1920, which was referred to the Committee on Commerce and ordered to be printed.</p>
+<p>Mr. EDGE. Mr. President, inasmuch as the communication from the Shipping Board in response to the resolution passed by the Senate some time ago, requesting certain information, is very short, being but a single page, I ask unanimous consent to have it read to the Senate.</p>
+<p>The VICE PRESIDENT. Is there objection? The Chair hears none, and the Secretary will read as requested.</p>
+<p>The reading clerk read as follows:</p>
+<p>UNITED STATES SHIPPING BOARD, Washington, March 1, 1921.</p>
+<p>SIR: Pursuant to directions of the United States Shipping Board, I quote below resolution adopted by said board at a meeting on March 1, 1921:</p>
+<p>"Whereas on December 27, 1920, Senator WALTER E. Roes submitted a resolution (S. Res. 413) to the Senate of the United States, which was considered and agreed to, instructing the United States Shipping Board to submit a report on moneys appropriated from September 7, 1916, to November 30, 1920, on profits, capital, number and description of vessels, system of accounting, contracts of operation, number of employees, etc.; and</p>
+<p>"Whereas said resolution was submitted to the general comptroller with instructions to prepare an answer thereto for the board; and</p>
+<p>"Whereas said general comptroller's department has since the 1st day of January had in hand most important matters demanding in the interests of the public immediate attention, and thus far has been unable to prepare a complete answer to said Senate resolution 413 as requested by the board; and</p>
+<p>"Whereas a report has been prepared by Joseph N. Teal, one of the Commissioners of the United States Shipping Board, covering in substance the facts required by said resolution; and</p>
+<p>"Whereas said report has been examined by the general comptroller as well as by members of his staff, and has been approved by him and them as being substantially a correct statement of facts; and</p>
+<p>"Whereas said general comptroller has advised the board that said report in substance answers the inquiries in said resolution heretofore referred to, and advises the submission of said report as a proper response thereto.</p>
+<p>"Resolved, That the said report prepared by Joseph N. Teal, covering operations of the United States Shipping Board and United States Shipping Board Emergency Fleet Corporation from September 7, 1916,to January 1, 1921, be submitted to the Senate as an answer so far as it may be germane to the resolution above referred to."</p>
+<p>Two copies of the report referred to in the above-quoted resolution are transmitted herewith.</p>
+<p>Respectfully,</p>
+<p>JOHN J. FLAHERTY, Secretary.</p> 
+<p>The PRESIDENT OF THE SENATE,
+Washington, D. C.</p>
+
+<head>DUTIES OF UNITED STATES JUDGES.</head>
+<p>Mr. NELSON. From the Committee on the Judiciary I report back favorably with an amendment the bill (S. 5042) to require judges appointed under authority of the United States to devote their entire time to the duties of a judge, and I submit a report (No. 826) thereon. I call the attention of the Senator from South Carolina [Mr. DIAL] to the bill.</p>
+<p>Mr. DIAL. Mr. President, I ask that Senate bill 5042, just reported by the Senator from Minnesota, the chairman of the Committee on the Judiciary, be read, and I ask unanimous consent for its immediate consideration. I do not think it will cause any debate.</p>
+<p>The VICE PRESIDENT. Is there any objection?</p>
+<p>Mr. POINDEXTER. The Senator from South Carolina advises me that if the bill leads to any discussion he will withdraw the request.</p>
+<p>Mr. DIAL. Yes, sir.</p>
+<p>Mr. POINDEXTER. Under that condition I will not make an objection to it, but I will be compelled to object to the presentation of any other matter save the conference report upon the Agricultural appropriation bill, which I understand has been agreed to except as to two items. The Senator from North Dakota agrees, and will make the request, I understand, that not exceeding 30 minutes be devoted to the consideration of that report.</p>
+<p>Mr. GRONNA. If the Senator will pardon me&#8212;</p>
+<p>Mr. POINDEXTER. Just one word. I should like to take advantage of this opportunity to say, by way of notice, that I will undertake to keep the naval appropriation bill before the Senate continuously until we get a vote on the bill either to pass it or to defeat it.</p>
+<p>Mr. NORRIS. Mr. President, before the Senator sits down may I ask him a question?</p>
+<p>Mr. POINDEXTTER. Certainly.</p>
+<p>Mr. NORRIS. The Senator would not be willing to lay aside the bill for a conference report?</p>
+<p>Mr. POINDEXTER. There seem to be so many conference reports that they practically operate to blanket and defeat the consideration of the naval appropriation bill. What conference report is it?</p>
+<p>Mr. NORRIS. It is the conference report on the Patent Office bill.</p>
+<p>Mr. SMOOT. I can assure the Senator that it will lead to a great deal of discussion.</p>
+<p>Mr. POINDEXTER. The Senator, I think, would not ask me to lay aside the naval appropriation bill under those circumstances. Let us get a vote upon the naval bill.</p>
+<p>Mr. NORRIS. Unfortunately I can not assure the Senator that the conference report will lead to no discussion, as the Senator from Utah has just said that it will lead to a great deal of debate; but it ought to be disposed of.</p>
+<p>Mr. POINDEXTER. That would amount practically to defeating the naval appropriation bill.</p>
+<p>Mr. NORRIS. If we should reach a time when it became obvious that it would be impossible to finish the naval bill, would the Senator then yield for the purpose I have indicated?</p>
+<p>Mr. POINDEXTER. I will confer with the Senator in that event.</p>
+<p>Mr. NORRIS. I should be very glad to have the Senator do so. I do not want, of course, to displace the naval appropriation bill.</p>
+<p>Mr. POINDEXTER. I am sure the Senator does not.</p>
+<p>Mr. NORRIS. I realize that I probably can not get the conference report disposed of.</p>
+<p>Mr. SMITH of South Carolina. Mr. President, before the Senator from Nebraska takes his seat I should like to ask him what has become of the conference report on the Patent Office bill.</p>
+<p>Mr. NORRIS. That is the conference report about which I was talking to the Senator from Washington. I have never been able to get it up, or to get an agreement as to a vote. I will state frankly to the Senator from South Carolina that it looks as though it was going to be impossible to reach a vote on it, because, as the Senator knows, if there should be extended debate on it, it could not be disposed of ; and there is promise of a good deal of debate, which, under the existing circumstances, would make it impossible to secure a vote.</p>
+</body>
+</floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+
+<bibl><ref target="PV1032.04.pdf">An act amending an Act to provide for drainage of Indian allotments of the Five Civilized Tribes</ref>, approved March 27, 1914, 41 <title>Stat.</title> 1204 (1921).</bibl>
+<!-- <floatingText>
+<body>
+<fw> SIXTY-SIXTH CONGRESS. SESs.' III. 'Chs. 110, 11 1. '1921. </fw>
+<p>Pribilof Islands, and all islands along and off the coast of this division, between Cape Newenham and the point where the one hundred and forty-first meridian, west longitude, intersects the northern line of the territory.</p>
+<p>"Division numbered four shall consist of that part of the district of Alaska lying east of the second division and north of the third division, and all islands along the north coast of said division, east of the one hundred and forty-eighth meridian of west longitude, also Nelson Island and all islands in Kuskokwim Bay.</p>
+<p>"One general term of court shall be held each year at Juneau, and such additional terms at other places in the first division as the Attorney General may direct. One general term of court shall be held each year at Nome, and such additional terms at other places in the second division as the Attorney General may direct. One general term of court shall be held each year at Valdez, and such additional terms at other places in the third division as the Attorney General may direct. One general term of court shall be held each year at Fairbanks, and such additional terms at other laces in the fourth division as the Attorney General may direct. Each of the judges is authorized and directed to hold such special terms of court as may be necessary for the public welfare or for the dispatch of the business of the court at such times and places in their respective districts as any of them, respectively, may deem expedient, or as the Attorney General may direct; and each shall have authority to employ interpreters and to make allowances for the necessary expenses of his court and to employ an official court stenographer at such compensation as shall be fixed by the Attorney General. At least thirty days' notice shall be given by the judge, or the clerk, of the time and place of holding the several terms of the court."</p>
+<p>Approved, March 2, 1921.</p>
+<milestone unit="rule" />
+<p>CHAP. 111.&#8212;An Act Amending an Act to provide for drainage of Indian allotments of the Five Civilized Tribes, approved March 27, 1914 (Thirty-eighth Statutes, 310, Public, Numbered 77). </p>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That Public Act Numbered
+77 (Thirty-eighth Statutes, 310), approved March 27, 1914, an Act to provide for drainage of Indian allotments of the Five Civilized Tribes, be and is hereby amended so as to read as follows:</p>
+<p>"That whenever a drainage district is organized in any county in the Five Civilized Tribes of the State of Oklahoma, under the laws of that State, for the purpose of draining the lands within such district, the Secretary of the Interior is authorized, in his discretion, to, pay from the funds or moneys arising from any source under his control or under the control of the United States, and which would be prorated to such allottee, the assessment for drainage purposes against any Indian allottee or upon the lands of any allottee who is not subject to taxation, or whose lands are exempt from taxation or from assessment for taxation under the treaties or agreements with the tribes to which such allottee may belong, or under any Act of Congress; and such amount so paid out shall be charged against such allottee's pro rata share of any funds to his credit under the control of the Secretary of the Interior: Provided, That the Secretary of the Interior, before paying out such funds, shall designate some person with a knowledge of the subject of drainage, to review the schedules. of assessment against each tract of land and to review the land assessed to ascertain whether such Indian allottee, or his lands not subject to taxation, have been assessed more than their pro rata share as compared with other lands located in said district similarly situated and deriving like benefits. And if such Indian lands have been assessed <pb n="1205" />
+<fw> SIXTY-SIXTH CONGRESS. SESS. III. Chs. 111-113. 1921.	120 </fw>
+justly when compared with other assessments, then, in that event, said funds shall be paid to the proper county in which said drainage district may be organized, or, in the option of the Secretary of the Interior to the construction company or bondholder shown to be entitled to the funds arising from such assessment: Provided further, That nothing in this Act shall be so construed as to deprive any allot-tee of any right which he might otherwise have individually to apply to the courts for the purpose of having his rights adjudicated."</p>
+<closer><signed>F H GILLETT</signed>
+<p>Speaker of the House of Representatives.</p>
+<signed>THOS. R. MARSHALL</signed> Vice President of the United States and President of the Senate.
+<dateline>IN THE HOUSE OF REPRESENTATIVES.
+February 24, 1921.</dateline></closer>
+<p>The President of the United States having returned to the House of Representatives, in which it originated, the bill (H. R. 517) entitled "An Act amending an Act to provide for drainage of Indian allotments of the Five Civilized Tribes, approved March 27, 1914 (Thirty-eighth Statutes, 310, Public, Numbered 77)," with his objections thereto, the House proceeded in pursuance of the Constitution to reconsider the same; and</p>
+<p>Resolved, That the said bill pass, two-thirds of the House of Representatives agreeing to pass the same.</p>
+<p>Attest:	WM TYLER PAGE</p>
+<hi rend="italic"><p>Clerk.</p></hi>
+
+<head>IN THE SENATE OF THE UNITED STATES.
+February 24, (calendar day, March 2), 1921.</head>
+<p>The Senate having proceeded to reconsider the bill (H. R. 517) "An Act amending an Act to provide for drainage of Indian allotments of the Five Civilized Tribes, approved March. 27, 1914 (Thirty-eighth Statutes, 310, Public, numbered 77)," returned by the President of the United States to the House of Representatives, in which it originated, with his objections, and passed by the House on a reconsideration of the same, it was</p>
+<p>RESOLVED, That the bill pass, two-thirds of the Senators present having voted in the affirmative.</p>
+<p>Attest:	GEORGE A. SANDERSON</p>
+<hi rend="italic"><p>Secretary.</p></hi>
+
+<p>CHAP. 112.&#8212;An Act For the purchase of land occupied by experiment vine-yards near Fresno and Oakville, California.</p>
+
+<p>Be it enacted by the Senate and House of Representatives of the United   <note> Vineyards.  Purchase of experiment, near Fresno and Oakville, Calif.>/note>States of America in Congress assembled, That the Secretary of Agriculture be, and he is hereby, authorized to purchase and acquire the lands occupied by the department's experiment vineyards near Fresno and Oakville, California, now maintained under contracts with the owners of said lands: Provided, That the land purchased for <note> Maximum price</note> the Fresno vineyards shall not exceed twenty acres at a cost not to exceed $ 12,000 and for the Oakville vineyard not to exceed twenty acres at a cost not to exceed $15,000.</p>
+<p>Approved, March 2, 1921.</p>
+
+<milestone unit="rule" />
+
+</body>
+</floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

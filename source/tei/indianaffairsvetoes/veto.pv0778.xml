@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0778">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">778	H.J.Res. 201 (Fifty-fourth Congress, First Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0778</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>778	H.J.Res. 201 (Fifty-fourth Congress, First Session &#8212; Cleveland)</head>
+
+<p>Extending the time of payments due from settlers and purchasers of all ceded Indian reservations.</p>
+
+<p>Pocket veto occurred after the 1st session of the 54th Congress had adjourned sine die on June 11, 1896.  The resolution was presented to the President on June 6, 1896 (June 6, 1896, H. Jour., p. 606; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 36).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 167.</bibl>
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0778.01.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 36 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES JDOCUMENT 2d Session	No. 493
+ </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<p>DECEMBER 22, 1928.—Referred to the Committee on the Judiciary and ordered
+to be printed</p>
+
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<hi rend="italic"><salute>To the Congress of the United States:</salute></hi>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<signed>CALVIN COOLIDGE.</signed>
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="36" />
+<fw> 36	REPORT ON POCKET VETO </fw>
+<p>H. R. 5260, H. R. 8391&#8212;received Feb. 28.</p>
+<p>H. R. 5062, H. R. 5580, H. R. 6956, H. R. 7177&#8212;received Mar. 1. H. R. 5206, H. R. 6585, H. R. 6659, H. R. 6923, H. R. 6928, H. R. 8097&#8212;received Mar. 2.</p>
+<p>The 54th Congress, first session, adjourned June 11, 1896. (<title>Cong. Rec.</title>, vol. 28, pt. 7, pp. 6447, 6461) There are now at the Executive Offices five Senate bills and ten House bills of that session which were not signed by President Cleveland.</p>
+<p>S. 27 has no date of receipt stamped on it.</p>
+<p>S. 807, S. 819 and S. 997 were stamped as received on June 2. On S. 997 there is fastened a committee report on which President Cleveland wrote in pencil:</p>
+<p>In view of the positive testimony of the physician who saw the deceased just before his death this is a proper case under the law of 1890.</p>
+<p>S. 1342 was received June 4. A committee report is attached. On that report the President penciled:</p>
+<p>This legislation should await the result of pending application in the pension bureau.</p>
+<p>H. Res. 201. On an attached slip the President penciled:</p>
+<quote>Certain indian lands have been sold under treaty and the proceeds were to go to the indians. Purchasers have delayed payment a long time and this provides for another part payment without regard to the wishes or wants of the indians. So far as homesteaders are concerned this provided for in the Indian Appropriations bill.
+</quote>
+<p>H. R. 6607, H. R. 6739, H. R. 7919, H. R. 7171&#8212;were stamped as received June 6.</p>
+<p>H. R. 2708, H. R. 5280&#8212;were stamped as received June 8.</p>
+<p>H. R. 4580 is undated. On a letter which is attached to it is penciled:</p>
+<p>This bill makes more difficult the punishment of those who remove liquors under false brands for the purpose of defrauding the revenues while under the decision of Judge P  at St. Louis the public cannot be protected any more effectively. So far as it affects the protection of purchasers & consumers it is unconstitutional.</p>
+<p>H. R. 6221 is stamped Jun 4. On an attached report is penciled:</p>
+<p>The beneficiary has no minor children to provide for and I see no reason why under the general laws she is not being justly treated.</p>
+<p>H. R. 9275 is stamped Jun 6. On a printed copy of the bill which is attached to it President Cleveland wrote:</p>
+<p>This bill as passed seems to validate the bonds which should not be validated and ignore those which it was intended to save.</p>
+<p>Two bills passed at the 54th Congress, second session, were sent to the State Department unsigned by President Cleveland. On each of them is the following memorandum signed by the President:</p>
+<p>This bill was presented to me on the 16th day of December 1896. Congress, pursuant to a concurrent resolution, adopted by both Houses of Congress, adjourned from the 22d day of December 1896 to January 5th 1897. I have not approved the bill.</p>
+<closer><signed>GROVER CLEVELAND</signed>
+<dateline>DECEMBER 30, 1896.</dateline></closer>
+<p>H. R. 2604 is "to increase the pension of Caroline A. Hough"; and H. R. 4354 is for the purpose of "granting a pension to Mrs. Mary Gould Carr." Each is stamped:</p>
+<p>Executive Mansion, received Dec 16 1896</p>
+<p>Dept. of State Dec 31, 3.48 P. M. 1896 Chf. Clks. Office received.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0778.02.pdf">Journal of the House of Representatives of the United States</ref>.  (1896).  54th Congress, 1st session, p. 606 (<title>Serial Set</title> 3367-A).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES,
+BEING THE
+FIRST SESSION OF THE FIFTY-FOURTH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 2, 1895,
+IN THE ONE HUNDRED AND TWENTIETH YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+
+<head type="sub" />>WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1 8 9 6.</head>
+<fw> 606	JOURNAL OF THE	JUNE 6, </fw>
+<p>S. 2859. An act changing the time for holding circuit court, of the United States at Hartford, in the district of Connecticut;</p>
+<p>S. 2978. An act to provide an American register for the steamer <hi rend="italic">Menemsha;</hi></p>
+<p>H.R. 9153. An act to tuneful an act approved August 19, 1890, entitled "An act to adopt regulations for preventing collisions at sea;"</p>
+<p>S. 1306. An act to authorize and encourage the holding of a transmississippi and international exposit ion at the city of Omaha, in the State of Nebraska, in the year 1898;</p>
+<p>S. 2412. An act to make the city of Santa Barbara, county of Santa Barbara, State of California, a subport of entry;</p>
+<p>H. R. 180. An act to make the city of Erie, Pa., a port of immediate transportation;</p>
+<p>S. 1767. An act to provide subports of entry and delivery in the State of Florida;</p>
+<p>S. 3206. An act to grant a right of way through the now Fort Bliss Military Reservation to the El Paso and Northeastern Railroad Company;</p>
+<p>S. R. 161. Joint resolution authorizing. the Secretary of the Treasury to place a bronze tablet or inscription on the Government building erected in Detroit, Mich.;</p>
+<p>S. 768. An act for the relief of James A. Moore;</p>
+<p>S. 2783. An act to establish a life-saving station on the coast of New Hampshire or Massachusetts, between the Hampton and Merrimac rivers;</p>
+<p>S. R. 27. Joint resolution granting permission for the erection of a monument in Washington, D. C., for the ornamentation of the national capital and in honor of Samuel Hahnemann; -</p>
+<p>S. 2490. An act to authorize the Secretary of War to improve and maintain the public roads within the limits of the national park at Gettysburg, Pa.;</p>
+<p>S. R. 138. Joint resolution for the relief of James P. Veach;</p>
+<p>S. 3170. An act to authorize the Butler and Pittsburg Railroad Company to construct and maintain a bridge across the Allegheny River;</p>
+<p>S. 2913, An act to authorize the construction of a bridge across the Warrior River by the Mobile and Ohio Railroad Company;</p>
+<p>S. 261. An act for the relief of Arthur P. Selby;</p>
+<p>S. 2945. An act to authorize the construction of a bridge across the Alabama River by the. Mobile and Ohio Railroad Company;</p>
+<p>S. R. 149. Joint resolution extending the benefits of sections 1426 and 1573 of the Revised Statutes to all enlisted persons of the Navy;</p>
+<p>S. 1011. An act for the relief of Capt. James Reagan, United States Army;</p>
+<p>S. 2944. An act to authorize the construction of a bridge across the Cahaba River, in Bibb County, Alabama, by the Mobile and Ohio Railroad Company;</p>
+<p>H. R. 9409. An act making appropriations to supply deficiencies in the appropriations for expenses of the house of Representatives, and for other purposes, for the fisted year 1896;</p>
+<p>H. R.7338. An act for the relief of William H. Scofield, Jacob Brady, James Ketcham, Annie Booth, as administratrix of the goods, chattels, and credits of George W. Booth, deceased; Wilson P. Billar, Ezra L. Waterhouse, Moses C. Bell, George W. Bytes, and George A. Scofield;</p>
+<p>H. R.9226. An act to change the time and places for the district and circuit courts of the northern district of Texas; and</p>
+<p>S. 1853. An act for the relief of Edward Rice.</p>
+<p>On motion of Mr. Dingley, at 7 o'clock and 30 minutes p. m,, the House took a recess until 9 o'clock and 30 minutes p. in.</p>
+<head>AFTER THE RECESS.</head>
+<p>Mr. Crowther, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills and a joint resolution of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>H. Res. 201. A joint resolution extending the time of payments due from settlers and purchasers on all ceded Indian reservations;</p>
+<p>H.R.9147. An act to amend section 1 of the act to amend an act entitled "An act authorizing the Postmaster-General to adjust certain claims of postmasters for loss by burglarly, fire, or other unavoidable casualty," approved May 9, 1888;</p>
+<p>H. R. 3990. An act granting a pension to Mrs. Eliza G. Pyne</p>
+<p>H. R.4580. An act to amend section 3449 of the Revised. Statutes;</p>
+<p>H. R. 8321. An act to authorize the county of St. Louis, in the State of Minnesota, to build or authorize the building of a. foot and wagon bridge across the St. Louis River, between Minnesota and Wisconsin, at a. point near Fund In Lac, in said State of Minnesota; and</p>
+<p>H. R. 7664. An act making appropriations for sundry civil expenses of the Government for the fiscal year ending .June 30, 1897, and for other purposes.</p>
+<p>A further message from the Senate, by Mr. Platt, one of its secretaries, announced that the Senate had passed bills and a joint resolution of the following titles, in which the concurrence of the House was requested:</p>
+<p>S. 2775. An act to authorize the Herndon and Aldie Railroad to construct a bridge over the Potomac River at or near the Great Falls; S. 2630. An act authorizing and directing the Secretary of the
+Navy to donate condemned cannon to the Londonderry Soldiers' Monument Association, of Londonderry, N. H.; </p>
+<p>S. 2483 Au act donating condemned cannon and cannon balls to the New Hampshire Soldiers' thyme;</p>
+<p>S. 810. An act to amend the act entitled "An act granting pensions to the, soldiers and sailors of the Mexican war, and for other purposes," approved January 29, 1887; and</p>
+<p>S. R. 89. Joint resolution authorizing and directing the Secretary of the Navy to appoint a board of three officers of trio Navy to proceed to Navassa Island and Swann Island, in the West Indies, and examine and report upon, the practicability and advisability of establishing a coaling station for the United States Government on either of said islands.</p>
+<note>NOTE.-This message is a part of the proceedings found on page 535.</note>
+<p>The Speaker laid before the House the following message, from the, President of the United States; which was read, and, with the accompanying bill, was referred to the Committee on the Public Lands:</p>
+<quote>
+<p>To the House of Representatives</p>:
+<p>I herewith return, without approval, House bill No. 4804, entitled "An act to amend subdivision 10 of section 2238 of the Revised Statutes of the United States."</p>
+<p>The subdivision of the section of the law proposed to be amended by this hill has reference to the fees allowed receivers and registers at public land offices. This subdivision now reads as follows:</p>
+<p>"Tenth. Registers and receivers are allowed ,jointly, at the rate of 15 cents per hundred words, for testimony reduced by them to writing for claimants, in establishing preemption and homestead rights.'</p>
+<p>The bill under consideration so amends this subdivision that in the first clause a compensation of 10 cents per hundred words is allowed to the registers and receivers for reducing to writing the testimony of claimants " in all cases,' instead of 15 cents per hundred words for reducing to writing testimony "in establishing preemption and homestead rights," as provided in the old law.</p>
+<p>Who. her this reduction of fees preserves an adequate and just compensation to the offices affected I suppose has been duly considered by the Congress.</p>
+<p>The bill, however, after providing for this change in compensation, contains the following words: "And in all cases where they (the registers and receivers) cansecure a competent person to reduce the testimony to writing for a sum less per folio than the SUM herein prescribed, it shall lie their duty to do so."</p>
+<p>By the addition of these words the bill seems to give certain fees by way of official compensation to the officers named for certain services to be performed by them, and at the same time to provide that if they can secure other persons willing to perform these services for a less sum than the amount allowed to them, they shall forego their fees in favor of such persons.</p>
+<p>It is very important that the fees and perquisites of public officers should be definitely and clearly fixed, so that the official may know precisely the items of his lawful compensation and the people be protected from extortion and imposition.</p>
+<p>A public officer ought not to be expected to search very industriously for a person to underbid him for official work ; and if such a. person appeared, the temptation to combination and conspiracy would in many cases lead to abuse.</p>
+<p>It will be observed that the officers are not given, by this amendment, the option to do this work themselves at 10 cents per folio, or secure a competent person to do it at a less rate; nor, if they desire, are they allowed to compete with those willing to accept a less compensation. They may charge a fixed rate for the service if performed by them. but in any event, if they can procure another party to perform the services fur a less sum. they must do so.</p>
+<p>I am convinced that this bill in its present form, perhaps through unfortunate phraseology, if it became a law, would lead to confusion and uncertainty, and would invite practices against which the public service ought to lie carefully guarded.</p>
+<closer><signed>GROVER CLEVELAND.</signed>
+<dateline>EXECUTIVE MANSION, May 23, 1896.</dateline></closer>
+<note>NOTE.&#8212;This message is a part of the proceedings on page 601 (see note). </note>
+<p>A message front the Senate, by Mr. Platt, one of its clerks, announced that the Senate had passed bills of the following titles, in which the concurrence of the House was requested:</p>
+<p>S. 525. An act for the relief of Thomas Guinean, of Oregon;</p>
+<p>S. 2054. An act for the relief of Rinaldo P. Smith, of Baltimore, Md.; and</p>
+<p>S.2840. An act to incorporate the East Washington Heights Traction Railway Company, of the District of Columbia.</p>
+<p>A further message from the Senate, by Mr. Platt, one of its clerks, announced that the Senate had passed, without amendment, the bill (H. R. 9253) to amend an act approved August 19, 1890, entitled “An act to adopt regulations for preventing collisions at sea."</p>
+<p>The message also announced that the Senate had passed resolutions of the following titles, in which the concurrence of the House was requested.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

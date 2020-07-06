@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2201">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2201	H.R. 11545 (Eighty-sixth Congress, Second Session &#8212; Eisenhower)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2201</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Eisenhower</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eighty-sixth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2201	H.R. 11545 (Eighty-sixth Congress, Second Session &#8212; Eisenhower)</head>
+
+<p>To amend the act of October 31, 1949, with respect to payment to Bernalillo County, New Mexico, for furnishing hospital care for certain Indians.</p>
+
+<p>Pocket veto occurred in the 2nd session of the 86th Congress during a recess from July 3, 1960 until August 8, 1960.  The bill was presented to the President on July 7, 1960 (106 <title>Cong. Rec.</title> 15843 and 15846).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 443.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2201.01.pdf"><title>Congressional Record</title> 106, 15843</ref> (1960).</bibl>
+<!-- <floatingText>
+<body> 
+1960	CONGRESSIONAL RECORD - HOUSE	15843
+S.2817. An act for the relief of Joseph R. Paquette;
+S.2855. An act for the relief of Brenda Nicholson Miller;
+S.2857. An act to amend the Civil Service Retirement Act so as to provide for disposition of contributions in the case of annuitants whose length of service exceeds the amount necessary to provide the maximum annuity allowable under such act, and for other purposes;
+S. 3076. An act for the relief of Daisy Pong Hi Tong Li;
+S. 3105. An act for the relief of William Y. Allen, Jr., Donald Baldwin Quintero, Johann Friedrick Stapelfeld, and Kenneth Gordon Woods:
+S.3545. An act to amend section 4 of the Act of January 21, 1929, (48 U.S.C. 354a(c), and for other purposes; and
+S. J. Res. 41. Joint resolution to establish a National Institute for International Health and Medical Research, to provide for inter-national cooperation in health research, re-search training, and research planning, and for other purposes.
+BILLS AND JOINT RESOLUTION PRE-
+SENTED TO THE PRESIDENT
+Mr. BURLESON, from the Committee on House Administration, reported that that committee did on this day present to the President, for his approval; bills and a joint resolution of the House of the following titles:
+H.R. 1157: An act to provide for promotion of economic and social development in the Ryukyu Islands;
+H.R.3375. An act to encourage and stimulate the production and conservation of coal in the United States through research and development by authorizing the Secretary of the Interior to contract for coal research, and for other purposes;
+H.R.4049. An act to amend the Federal Aviation Act of 1958 in order to authorize free or reduced-rate transportation for certion additional persons;
+H.R. 4386. An act to amend title 18 of the United States Code to make it unlawful to destroy, deface, or remove certain boundary markers on Indian reservations to hunt, fish, or trap;
+H.R.5040. An act to amend and clarify the reemployment provisions of the Universal Military Training and Service Act, and for other purposes; .
+H.R. 5098. An act to provide for the application and disposition of net revenues from the power development on the Grand Valley Federal reclamation project, Colorado;
+H.R. 6179. An act to grant the right, title, and interest of the United States in and to certain lands to the city of Crawford, Nebr.;
+H.R.7903. An act to amend chapter 37 of title 38, United States Code, to extend the veterans' guaranteed and direct loan pro-gram for 2 years;
+H.R. 8295. An act to authorize the transfer to the Navajo Tribe of irrigation project works on the Navajo Reservation, and for other purposes;
+H.R. 9702. An act to amend section 2771 of title 10, United States Code, to authorize certain payments of deceased members' final accounts without the necessity of settlement by General Accounting Office;
+H.R. 10500. An act to amend the Career Compensation Act of 1949 with respect to incentive pay for certain submarine service;
+H.R. 10596. An act to change the method of payment of Federal aid to State or territorial homes for the support of disabled soldiers, sailors, airmen, and marines of the United States;
+H.R. 11602. An act to amend certain laws of the United States in light of the admission of the State of Hawaii into the Union, and for other purposes;
+H.R. 12200. An act to amend title 10, United States Code, to authorize reduction in enlisted grade upon approval of certain court-martial sentences; and
+H.J. Res. 778. Joint resolution making temporary appropriations for the fiscal year 1961, and for other purposes.
+ADJOURNMENT
+Mr. CHELF. Mr. Speaker, I move that the House do now adjourn.
+The motion was agreed to.
+Accordingly, at 8 o'clock and 51 minutes a.m., Sunday, July 3, 1960, pursuant to Senate Concurrent Resolution 112, the House adjourned until Monday, Au-gust 15, 1960, at 12 o'clock noon.
+PROCEEDINGS OF THE HOUSE AFTER ADJOURNMENT UNTIL AUGUST 15, 1960—BILL ENROLLED
+Mr. BURLESON, from the Committee on House Administration, reported that on July 4, 1960, that committee had examined and found truly enrolled a bill of the following title:
+H.R. 2117. An act for the relief of Iranso D. Brodit and Antonio D. Brodit.
+
+
+ENROT,T,F,D BILL SIGNED
+Pursuant to the authority granted the Speaker by House Concurrent Resolution 712, 86th Congress, he did sign an enrolled bill of the House of the following title:
+H.R. 2117. An act for the relief of Iranso D. Brodit and Antonio D. Brodit.
+BILLS AND JOINT RESOLUTIONS
+PRESENTED TO THE PRESIDENT AFTER ADJOURNMENT
+Mr. BURLESON, from the Committee on House Administration, subsequent to the adjournment of the House of Representatives, reported that, on the following date, that committee had presented to the President for his approval bills and joint resolutions of the House of the following titles:
+On July 7, 1960:
+H.R. 7593. An act to provide that the Civil Aeronautics Board may temporarily authorize certain air carriers to engage in supplemental air transportation, and for other purposes;
+H.R. 7634. An act authorizing the construction, repair, and preservation of certain public works on rivers and harbors for navigation, flood control, and for other purposes;
+H.R. 7895. An act for the relief of Gloria Anne Loveday;
+H.R. 8229. An act to amend the Internal Revenue Code of 1954 to provide an exemption from income tax for supplemental unemployment benefit trusts;
+H.R. 8384. An act for the relief of Otto Small;
+H.R.9610. An act for the relief of Sister Frances Cabrini (Virginia Bilbao) ;
+H.R.9042. An act for the relief of Anna Semechole Marcolina;
+H.R.9786. An act to amend sections 511 and 512 of title 38, United States Code, to permit Indian war and Spanish-American War veterans to elect to receive pension at the rates applicable to veterans of World War I;
+H.R. 9960. An act for the relief of Dr. Tze I. Chiang;
+H.R. 10002. An act for the relief of Ida Exle (nee Ida Sterio);
+H.R. 10495. An act to authorize appropriations for the fiscal years 1962 and 1963 for the construction of certain highways in accordance with title 23 of the United States Code, and for other purposes;
+H.R. 10511. An act to grant additional benefit to persons receiving cash relief under the Panama Canal Cash Relief Act of July 8, 1937;
+H.R. 10793. An act for the relief of Ray C. Thompson;
+H.R. 10952. An act to authorize the National Society Daughters of the American Colonists to use certain real property in the District of Columbia as the national head-quarters of that society;
+H.R.10997. An act to grant to the Government of Guam certain filled lands, sub-merged lands, and tidelands;
+H.R. 11135. An act to aid in the development of a coordinated system of transportation for the National Capital region; to create a temporary National Capital Transportation Agency; to authorize negotiation to create an interstate agency; and for other purposes;
+H.R. 11389. An act making appropriations for the Executive Office of the President and sundry general Government agencies for the fiscal year ending June 30, 1961, and for other purposes;
+H.R. 11516. An act to create a judicial officer for the Post Office Department;
+H.R. 11545. An act to amend the act of October 31, 1949, with respect to payments to Bernalillo County, N. Mex., for furnishing hospital care for certain Indians;
+H.R. 11748. An act to continue until the close of June 30, 1961, the suspension of duties on metal scrap, and for other purposes;
+H.R. 11776. An act making appropriations for sundry independent executive bureaus, boards, commissions, corporations, agencies, and offices, for the fiscal year ending June 30, 1961, and for other purposes;
+H.R. 11854. An act to clarify the ownership of certain church properties located in the Virgin Islands;
+H.R. 11931. An act to amend the act of March 3, 1901, with respect to the time within which a caveat to a will must be filed in the District of Columbia;
+H.R. 12231. An act making appropriations for miiitary construction for the Department of Defense for the fiscal year ending June 30, 1961, and for other purposes;
+H.R. 12465. An act to provide for a simpler method, of determining assessments under the Federal Deposit Insurance Act, and for other purposes;
+H.R. 12584. An act to amend the Uniform Narcotic Drug Act for the District of' Columbia;
+H.R. 12740. An act making supplemental. appropriations for the fiscal year ending June 30, 1961, and for other purposes;
+H.J. Res. 397. Joint resolution to enable the United States to participate in the re-settlement of certain refugees, and for other purposes;
+H.J. Res. 605. Joint resolution providing for the preparation and completion of plans for a comprehensive observance of the 175th anniversary of the formation of the Constitution of the United States;
+H.J. Res. 672. Joint resolution authorizing and requesting the President to issue a proclamation with respect to the 1960 Pacific Festival, and for other purposes; and
+H.J. Res. 722. Joint resolution relating to the entry of certain aliens.
+
+
+BILLS AND JOINT RESOLUTIONS APPROVED AFTER ADJOURN-
+MENT
+The President of the United States, subsequent to the adjournment of the House of Representatives until August 15, 1960, notified the Clerk of the House
+
+</body> </floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2201.02.pdf"><title>Congressional Record</title> 106, 15846</ref> (1960).</bibl>
+<!-- <floatingText>
+<body> 
+15846	CONGRESSIONAL RECORD - HOUSE	July 2
+four large wooden boxes delivered to the United States High Commissioner to the Philippines by the Philippine National Bank in response to the Commissioner's direction, in December 1941, that the bank deliver to him "all cash reserves, bullion, negotiable securities, and other negotiable papers held by your bank, or held by you in trust for others." The purpose of the directive was to prevent such items from falling into the hands of the enemy who, at that moment, was invading the islands. When the property of these claimants was discovered, it was turned over to a representative of the Philippine Government, who rejected suggestions of United States Army officers that it be sent out on an American submarine. Instead, he voluntarily placed the property in a safe at Corregidor where it was confiscated by the Japanese. From these facts it is apparent that the possibility of a valid claim against the United States is very remote.
+More importantly, these claimants had ample opportunity to present their claims in a timely manner. Under the applicable statute of limitations, they had until December 1947—2 years after the end of the war—to file suit in the Court of Claims. They had 5 months after the Treasury Department, on July 25, 1947, advised that there was no statute or appropriation permitting the administrative settlement of such claims. They waited, however, for 4 years, until 1951, before petitioning the Court of Claims.
+Nothing in the record justifies special treatment for these claimants, particularly when it is remembered that many others filed suit against the United States in the Court of Claims for dam-ages arising out of incidents in the Philippines during the war years and had their cases dismissed because of the expiration of the statute of limitations.
+DWIGHT D. EISENHOWER,
+THE WHITE HOUSE, July 6, 1960.
+On July 7, 1960:
+SAM J. BUZZANCA
+H.R. 6712. I am withholding my approval from H.R. 6712, a bill "For the re-lief of Sam J. Buzzanca."
+Mr. Buzzanca, at a Federal tax sale in 1954, purchased certain real estate which had an estimated market value of $21,000, but which was subject to a mortgage prior in time to the Federal tax lien. It was announced at the tax sale that principal and interest in the amount of $8,320 was due under this prior mortgage. The real estate was sold to Mr. Buzzanca for $8,100—far less than the amount of the Federal tax lien which exceeded the market value of the property.
+Two months later the holder of the first mortgage, who also had acquired whatever rights the heirs of the delinquent taxpayer and former owner had in the property, successfully sued Mr. Buzzanca to obtain possession of the property. Although the United States was not a party to this action, the District Director for the area did render informal assistance to Mr. Buzzanca. On appeal, the Supreme Court of Alabama affirmed.
+Mr. Buzzanca's claim for relief appears to rest on the contention that the first mortgagee obtained a judgment for possession of the property because the tax sale to Mr. Buzzanca was defective and did not convey to Mr. Buzzanca the former owner's interest.
+Internal Revenue Service records re-veal no defect in the seizure and sale. This being so, Mr. Buzzanca has no ground for complaint against the United States. Because the existence of the first mortgage was made known at the time, the tax sale did not purport to convey rights superior to a valid first mortgage.
+The United States cannot and does not attempt to warrant or defend title to property seized and sold under the internal revenue laws. No warranty is available to a purchaser at a tax sale and a deed is not a warranty of the title conveyed. The right, title, and interest conveyed is derivative, and the purchaser acquires only the interest of the delinquent taxpayer. To compel the United States to warrant and defend the title to all property sold by it for taxes would be costly and inadvisable.
+For these reasons I cannot, on the facts at hand, approve this bill for it would create a precedent that would encourage dissatisfied purchasers at Federal tax sales to ask Congress to underwrite their losses and guarantee their titles.
+Were Mr. Buzzanca, however, to ad-duce direct evidence establishing incontrovertibly that the tax deed in question was defective, I would of course be willing to sign a similar bill subsequently enacted.
+DWIGHT D. EISENHOWER. THE WHITE HOUSE, July 7, 1960.
+On July 14, 1960:
+MARGARET P. COPIN
+H.R. 4546. I am withholding my approval from H.R. 4546, for the relief of Margaret P. Copin.
+This bill would direct that its beneficiary be credited with a 20-year service period for purposes of civil service retirement annuity, payable commencing October 1, 1959.
+This claimant, during three periods beginning in August 1920 and ending in June 1949, was on the employment rolls of the Treasury Department for a total time of 20 years and 29 days. This included, however, 7 months and 21 days of leave without pay in calendar year 1922. Her actual service therefore, totals only 19 years, 5 months and 8 days. Nevertheless, in computing Mrs. Copin's length of service for retirement annuity purposes, the normal rules of the law were applied; namely, free credit of 6 months of leave without pay taken in 1932 and exclusion of the excess amount.
+Despite the credit of 6 months, the claimant still lacks 22 days of the 20 years of creditable service which would have given her the right to an immediate reduced annuity beginning October 1, 1958, when disability annuity payments theretofore received were terminated pursuant to a finding that she was re-employable. Instead, her status is that of a deferred annuitant, and retirement annuity will not be payable until March 1, 1964, after she has attained 62 yearsof age. The difference in the total value of the two annuities, based on life expectancy, is $4,200, which would be, in effect, a gratuity from the Federal Government.
+The record on H.R. 4546 discloses no valid justification for the favored position the bill would accord this claimant. To confer such a preferential advantage on one individual participant in the retirement program would be highly discriminatory and contrary to the principles of fair play and equality of treatment which are basic to sound personnel administration.
+DWIGHT D. EISENHOWER. THE WHITE HOUSE, July 14, 1960.
+On July 14, 1960:
+BERNALTLLO COUNTY, N. MEX.
+H.R. 11545. I am withholding my approval from H.R. 11545, to amend the act of October 31, 1949, with respect to payments to Bernalillo County, N. Mex., for furnishing hospital care for certain Indians.
+A 1949 law authorized the Government to contribute $1,500,000 toward construction of a hospital in Bernalillo County upon Government donated land. In return, the county must make avail-able, when required, at least 100 beds for the care of eligible Indians. Further, the cost of caring for Indians admitted to the hospital was to be paid by the United States and, as an experiment, the Government undertook to guarantee the county a payment at least equal to the cost of operating 80 percent of the beds reserved for Indians irrespective of the number actually hospitalized.
+The minimum guaranty provision, previously twice extended and now expired as of June 30, 1960, would be extended for still another year under H.R. 11545.
+Ordinarily in such cases the United States pays for Indian care on the basis of actual hospitalization. Accordingly, the Department of Health, Education, and Welfare, in reporting to the Congress in 1957 pursuant to the original law, recommended that the experimental 80 percent minimum guaranty be permitted to expire. The Congress nevertheless extended the guaranty provision for another 3 years.
+Funds for contract hospital care should be available for expenditure wherever the health needs of Indian patients so require, and no portion of them should be mandatorily tied to a single contract facility without regard to actual need or use. Moreover, because other Government service contracts for Indian care do not include a minimum payment guaranty, it would be highly inequitable to continue this provision solely for the Bernalillo County Hospital.
+Finally, the completion of other facilities now under construction will in all likelihood reduce the number of Indian patients at Bernalillo Hospital and the bill would thus mean unnecessary expense to the Government and without any corresponding advantage, either to the Government or to this program.
+For these reasons, I am unable to approve this bill.
+DWIGHT D. EISENHOWER. THE WHITE HOUSE, July 14, 1960.
+
+</body> </floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

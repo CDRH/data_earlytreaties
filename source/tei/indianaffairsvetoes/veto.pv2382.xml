@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2382">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2382	S. 1464 (Ninety-fifth Congress, Second Session &#8212; Carter)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2382</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Carter</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-fifth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Chippewa</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2382	S. 1464 (Ninety-fifth Congress, Second Session &#8212; Carter)</head>
+
+<p>To acquire land for the benefit of the Mille Lacs Band of Minnesota Chippewa Indians.</p>
+
+<p>Vetoed on October 11, 1980.  The veto message was laid before the Senate and printed as Presidential Message 251 (126 <title>Cong. Rec.</title> 29370).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 489.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2382.01.pdf"><title>Congressional Record</title> 126, 29370</ref> (1980).</bibl>
+<!-- <floatingText>
+<body>
+29370	CONGRESSIONAL RECORD—SENATE	November 12, 1980
+America and the West need to be jolted into a sense of urgency. We no longer have the margin for error that we had even a few short years ago. That margin vanished with our advantage in strategic weapons.
+We must restore our military strength, so that once again we will unquestionably have both the power to defend our interests and the capacity to project that power to trouble spots around the globe. This will take time, and time is running out.
+A 5 percent increase In the military budget is wholly inadequate to turn the tide. This would still leave the Soviets outspending us by a wide margin, and therefore widening their military lead over us in the dangerous years of the early and mid-1980s.
+A strategy of victory requires that we move urgently to restore both the intelligence and the covert arms of the CIA, so that we can have better information and more means of dealing with threats to ourselves and others. We should restore honor to those who fight the nation's wars, whether in the uniform of the armed forces or in the often more hazardous mufti of the CIA. We should not collapse in a flutter when accused of being "arms merchants." In World War II we proudly declared ourselves "the arsenal of democracy." In World War III it is just as vital that our friends have the arms to defend themselves.
+We should stop condemning a friendly government and refusing it aid when its existence is threatened, merely because its elections are no more honest than our own have sometimes been in places like Boston or Chicago. Even if the regime is repressive or authoritarian, the communist alternative is likely to be not only worse for the West, but worse for the people of the country itself.
+The Soviets can conquer, but they can never persuade. Moscow has been very successful in extending its domination over other nations, but totally unsuccessful in winning the support of the people of those nations.
+One weak point is that they consistently act in ways that make them intensely unpopular. Their aggressive bullying breeds an angry response in others.
+When they do get a foot in the door, the Soviets often behave so boorishly and heavy-handedly that their hosts throw them out. Soviet advisers were thrown out of Egypt in 1972 and Somalia in 1977. Pro-Soviet governments were ousted in Chile in 1973, in Peru in 1976, and Ghana in 1966. Nor do they always manage to establish a foothold when they try. Communist or communist-backed rebellions have been put down in many countries, including Greece in 1949, the Philippines in 1953, Malaya in 1960, the Congo in 1962, and Oman in 1975.
+Communist coup attempts have been successfully foiled in the Dominican Republic and Indonesia in 1965, in the Sudan in 1971, in Portugal in 1975, and In many other places as well.
+BITTER ENEMIES
+The Chinese formerly referred to the Soviets as their "elder brother"; now China has become the Soviet Union's bitterest enemy, a giant that shares 4,000 miles of border with the U.S.S.R. and claims parts of its territory.
+It is in our Interest to have a strong China, because a weak China invites aggression and increases the danger of war. We and our European allies should do what Is necessary to see that China acquires the military strength necessary to provide for its defense.
+For their part, the Chinese want to see a strong and resolute United States. If they see us backing down before the Soviets, they may decide that their interests He in a rapprochement with the Soviet Union—not be-cause they will suddenly agree with the Soviets or stop hating and fearing them, butbecause the combination of Soviet strength and U.S. weakness will cause them to re-assess where their interests lie.
+The task that confronts us is not one for the United States alone. As the present threat to the Persian Gulf makes starkly clear, the entire West has an immediate stake in the struggle. So do the threatened nations themselves. It makes no sense for the United States to provide the arms, the money, and the men to meet every crisis. There are more than 3 billion people outside the Soviet bloc, of which only 200 million are Americans. As the French have shown in Africa, sometimes our allies can respond more effectively than we can, especially in areas with which they have a long familiarity.
+The oil-rich Moslem nations of the Persian Gulf share a common interest in defending their own independence, and Islam, against any expansion of the Soviet thrust into Afghanistan. But the West does look to the United States for leadership. And the Soviets do look at the United States in calculating what they can get away with.
+The human spirit has time and again transcended the most terrible assaults on it; civilizations fall to babarians, but eventually barbarism succumbs to civilization. But this victory of the spirit takes place over a very long term. Our challenge now is to show that a particular civilization—ours—can triumph over a particular barbarism—Soviet communism—so that freedom will be preserved for our children and grandchildren.
+THE NEED FOR MORE INTERNATIONAL COOPERATION BY THE UNITED STATES
+Mr. PROXMIRE. Mr. President, owing to ever-increasing world trade and technological improvements in the communications and transportation fields, the world is becoming smaller and smaller. Instead of solving their problems in autarchy, nations are developing an ever-greater reliance upon one another.
+For despite the cultural and physical differences which distinguish nations, we have realized that many of the common problems and goals we share can best be dealt with through international co-operation.
+The United States has taken the leadership role in initiating and implementing many international agreements, treaties, and conferences.
+Yet despite its commendable record of international participation in some areas, there is an apparent contradiction in the U.S. determination to achieve global harmony through cooperation with the other nations of the world.
+This thorn in the side of the United States is its steadfast refusal, over the past 33 years, to ratify the Genocide Convention.
+We have seen fit to ratify many international covenants, dealing with a multitude of subjects, because we have believed that a global effort would be more effective than an individual one in solving many of the problems that con-front us. Why then, have we not ratified the Genocide Convention?
+The United States is the only major industrial nation which has refused to approve of this critical document.
+This very important treaty abhors and makes illegal the repugnant crime of genocide. This murderous act has taken place before, and it could occur again.
+For this reason, the United Statesmust join the majority of nations in the world, and voice its opposition to this heinous crime. We cannot continue to give even tacit approval to such a barbarous act.
+If the United States is truly the leader of the free world, it cannot afford to sit idly by, feigning indifference to this very important treaty. We must join the many other nations which have already expressed their opposition to the per-verse crime of genocide.
+I urge my colleagues to immediately ratify the Genocide Convention.
+
+
+MESSAGES FROM THE PRESIDENT
+RECEIVED DURING RECESS
+
+VETO OF S. 1464—MESSAGE FROM THE PRESIDENT RECEIVED DURING RECESS—PM 251
+Under the authority of the order of the Senate of October 2, 1980, the Secretary of the Senate, on October 11, 1980, received the following message from the President of the United States; together with accompanying papers; ordered held at the desk:
+To The Senate of the United States:
+I am returning without my approval S. 1464, "To direct the Secretary of the Interior to acquire certain lands for the benefits of the Mille Lacs Band of the Minnesota Chippewa Indians."
+S. 1464 would require the Secretary of the Interior to acquire approximately 105 acres of land, in Mille Lacs County, Minnesota, from a commercial land developer and subsequently hold such land in trust for the Mille Lacs Band. Under the terms mandated by S. 1464, the cost to the Federal government of acquiring this land could not be less than $670,000, and could be $910,000 or more.
+I am disapproving S. 1464 because the Secretary of the Interior already possesses the authority to purchase an amount of land he determines appropriate for the benefit of the Mille Lacs Band, and because he and the tribe agree that the bill would require purchase of the land at a price the Secretary has heretofore determined excessive.
+In order to obtain a swift resolution of the issues which prompted Congressional action on S. 1464, I am, however, instructing the Secretary of the Interior to conduct as expeditiously as possible a new appraisal of the 25 acres of land in question and to make a fair and reason-able offer based on that appraisal for purchase of those 25 acres.
+JIMMY CARTER. THE WHITE HOUSE, October 11, 1980.
+
+
+PROPOSED CONSTITUTION FOR THE VIRGIN ISLANDS—MESSAGE FROM THE PRESIDENT RECEIVED DURING RECESS—PM 252
+Under the authority of the order of the Senate on October 2, 1980, the Secretary of the Senate, on October 25, 1980, received the following message from the President of the United States; together with accompanying papers, which was
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

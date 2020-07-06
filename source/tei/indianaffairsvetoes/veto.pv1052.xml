@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1052">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1052	S. 4301 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1052</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Coolidge</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-19</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1052	S. 4301 (Sixty-eighth Congress, Second Session &#8212; Coolidge)</head>
+
+<p>Authorizing any tribe or band of Indians of California to submit claims to Court of Claims.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 68th Congress had adjourned sine die on March 3, 1925.  The bill was presented to the President on February 25, 1925 (February 26, 1925, S. Jour., p. 277; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 42).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 228.</bibl>
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV1052.01.pdf">Journal of the Senate of the United States</ref>.  (1925).  68th Congress, 2nd session, p. 277 (<title>Serial Set</title> 8386).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL OF THE SENATE
+OF THE
+UNITED STATES OF AMERICA</head>
+<milestone unit="rule" />
+<head>SECOND SESSION OF THE SIXTY-EIGHTH
+CONGRESS</head>
+<head>BEGUN AND HELD AT THE CITY OF WASHINGTON DECEMBER 1, 1924, IN THE ONE HUNDRED AND FORTY-EIGHTH YEAR OF THE
+INDEPENDENCE OF THE
+UNITED STATES</head>
+
+<head>AND THE
+SPECIAL SESSION OF THE SENATE
+SIXTY-NINTH CONGRESS
+BEGUN AND HELD AT THE CITY OF WASHINGTON
+MARCH 4, 1925</head>
+<head type="sub">WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1926</head>
+<fw> 1925	JOURNAL OF THE SENATE	277 </fw>
+<p>S. 4225. An act to extend the times for commencing and completing the construction of a bridge across Detroit River within or near the city limits of Detroit, Mich.;</p>
+<p>S. 4229. An act granting the consent of Congress to the State Highway Commission of North Carolina to construct a bridge across the Chowan River at or near the city of Edenton, N. C.;</p>
+<p>S. 4264. An act authorizing the Secretary of War to convey certain portions of the military reservation of the Presidio of San Francisco to the city and county of San Francisco for educational, art, exposition, and park purposes;</p>
+<p>S.4284. An act granting the consent of Congress to the Yell and Pope County bridge district, Dardanelle and Russellville, Ark., to construct, maintain, and operate a bridge across the Arkansas River, at or near the city of Dardanelle, Yell County, Ark.;</p>
+<p>5.4289. An act authorizing the construction of a bridge across the Colorado River near Blythe, Calif.;</p>
+<p>S.4301. An act authorizing any tribe or band of Indians of California to submit claims to the Court of Claims;</p>
+<p>S.4306. An act granting the consent of Congress to R. L. Gaster, his successors and assigns, to construct a bridge across the White River;</p>
+<p>S.4307. An act to authorize the States of Indiana and Illinois, in the States of Indiana and Illinois, to construct a bridge across the Wabash River at the city of Mount Carmel, Wabash County, Ill., and connecting Gibson County, Ind.;</p>
+<p>S.4317. 'An act granting the consent of Congress to the county of Jackson, Ark., to construct, maintain, and operate a bridge across the White River, at or near the city of Neport, in the county of Jackson, in the State of Arkansas;</p>
+<p>S.4320. An act to extend the time for constructing a bridge across the Ohio River between Vanderhurg County, Ind., and Henderson County, Ky.;</p>
+<p>S.4352. An act to create an additional judge in the district of Minnesota;</p>
+<p>S. J. Res. 28. Joint resolution authorizing the Joint Committee on the Library to provide for the restoration and completion of the historical frieze in the rotunda of the Capitol;</p>
+<p>S. J. Res. 124. Joint resolution to provide for the posthumous appointment to commissioned grades of certain enlisted men and the posthumous promotion of certain commissioned officers;</p>
+<p>S. J. Res. 178. Joint resolution to provide for the loaning to the Pennsylvania Academy of the Fine Arts of the portraits of Daniel Webster and Henry Clay;</p>
+<p>S. J. Res. 184. Joint resolution authorizing the President to invite the States of the Union and foreign countries to participate in a permanent international trade exposition at New Orleans, La., to begin September 15, 1925;</p>
+<p>S. J. Res. 186. Joint resolution authorizing the sale of the old Federal building at Toledo, Ohio; and</p>
+<p>S. J. Res. 187. Joint resolution providing for the cooperation of the United States in the sesquicentennial exhibition commemorating the signing of the Declaration of Independence, and for other purposes.</p>
+<head>INTRODUCTION OF BILLS AND JOINT RESOLUTION</head>
+<head>Bills and a joint resolution were introduced by unanimous consent, read the first and second times, and referred as follows:</head>
+<p>By Mr. Copeland:</p>
+<p>A bill (S. 4406) to amend the act entitled "An act to establish a code of law for the District of Columbia," approved March 3, 1901, as amended, in respect to jury service by women, discriminations against the female line in descent and distribution, and the equalization of rights of husband and wife in the property of the other ; to the Committee on the District of Columbia.</p>
+<p>By Mr. Fernald:</p>
+<p>A bill (S. 4407) granting an increase of pension to Annie C. Philbrick, with accompanying papers ; to the Committee on Pensions.</p>
+<p>By Mr. Bingham:</p>
+<p>A bill (S. 4408) to provide for the award of distinguished flying crosses and Air Service crosses, and for other purposes; to the Committee on Military Affairs.</p>
+<p>By Mr. Couzens:</p>
+<p>A bill (S. 4409) to amend the national prohibition act by transferring to the Attorney General certain functions, powers, and duties relating to the national prohibition act, and for other purposes: to the Committee on the Judiciary.</p>
+<p>By Mr. Reed of Missouri:</p>
+<p>A joint resolution (S. J. Res. 193) directing that securities of the Swiss National Insurance Co., of Basel, Switzerland, a corporation of a neutral country not subject to the payment of liabilities of a country with which we were at war be returnedto it by the Alien Property Custodian; to the Committee on the Judiciary.</p>
+<head>CLAIMS OF HONOLULU CONSOLIDATED OIL CO.	</head>
+<p>Mr. Walsh of Montana, by unanimous consent, submitted the following resolution (S. Res. 356), which was referred to the Committee to Audit and Control the Contingent Expenses of the Senate:</p>
+<p>Resolved, That Senate Resolution 151, agreed to on February 7 (calendar (lay, February 8), 1924, authorizing the Committee on Public Lands and Surveys to make a thorough investigation and report to the Senate its findings and recommendations regarding the claims of the Honolulu Consolidated Oil Co. to oil lands situated within naval reserve No. 2, and providing that the expenses of such investigation be paid from the contingent fund of the Senate, be, and the same hereby are, continued in' full force and effect until the cod of the Sixty-ninth Congress.</p>
+<p>The committee or any subcommittee thereof is authorized to sit during the sessions or the recesses of the Senate and after the expiration of the present Congress until the assembling of the Sixty-ninth Congress, and until otherwise ordered by the Senate.</p>
+<head>PROPOSED INVESTIGATION OF MUSCLE SHOALS</head>
+<p>Mr. McKellar, by unanimous consent, submitted the following resolution (S. Res. 357):
+Resolved, That a select committee of four Senators be appointed by the President pro tempore of the Senate, two Republicans and two Democrats, two of whom voted for what is known as the Underwood proposal for the disposition of Muscle Shoals and two of whom voted against that proposal, which committee shall investigate, during the coming recess of Congress, the question of what is the best disposition to make of the shoals property and report its findings and recommendations to the Senate of the next session of the Congress to be held in December, 1925.</p>
+<p>The committee is authorized to hold hearings at Muscle Shoals or in Washington or elsewhere; is authorized to visit the Province of Ontario and to examine into the workings of the hydroelectric system there; to sit during the recess after the Sixty-eighth Congress; to employ a stenographer or stenographers at a cost not to exceed 25 cents per hundred words. The committee is authorized to send for persons and papers; to require, by subpoena, the attendance of witnesses, the production of books, papers, and documents; to administer oaths ; to take testimony. The expenses of the committee shall be paid from the contingent fund of the Senate.</p>
+<p>Ordered, That it lie over under the rule.</p>
+<head>
+ORDER FOR RECESS</head>
+<p>On motion by Mr. Curtis, and by unanimous consent, Ordered, That when the Senate concludes its business to-day it take a recess until 10 o'clock a. m. to-morrow.</p>
+<head>AMENDMENT OF WORLD WAR VETERANS' ACT</head>
+<p>On motion by Mr. Reed of Pennsylvania, and by unanimous consent,</p>
+<p>The Senate, as in Committee of the Whole, proceeded to consider the bill (H. R. 1230S) to amend the World War veterans' act, 1924; and the reported amendments having been agreed to, the bill was reported to the Senate and the amendments were concurred in.</p>
+<p>Ordered, That the amendments be engrossed and the bill read a third time.</p>
+<p>The said bill as amended was read the third time.</p>
+<p>Resolved, That it pass.</p>
+<p>Ordered, That the Secretary request the concurrence of the House of Representatives in the <head>amendments.</p>
+MESSAGE FROM THE HOUSE</head>
+<p>A message from the House of Representatives, by Mr. Haitigan, one of its clerks:</p>
+<p>Mr. President: The House of Representatives has passed without amendment the joint resolution (S. J. Res. 190) to provide for the expenses of delegates of the United States to the Pall American Congress of highways.</p>
+<p>The House has passed the bill (S. 3081)) for the relief of the Uintah and White River Tribes of Ute Indians of Utah, with amendments, in which it requests the concurrence of the Senate.</p>
+<p>The House has agreed to the amendment of the Senate to the amendment of the House of Representatives to the joint resolution (S. J. Res. 189) authorizing the enlargement of the Federal Veterans' Hospital at Muskogee. Okla. by the purchase of an adjoining city hospital and authorizing the appropriation of $150 000 for that purpose.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV1052.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 42 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d Session	HOUSE OF REPRESENTATIVES  DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.-Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<signed>CALVIN COOLIDGE.</signed>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>'<pb n="42" />
+<fw> 42	REPORT ON POCKET VETO </fw>
+<p>13329. They are not in the files at those offices and I am unable to find them. The memoranda are as follows:</p>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Number</cell>	<cell role="desc">Received</cell> <cell role="desc">Referred </cell><cell role="desc">Returned</cell>	<cell role="desc">Action</cell>
+</row>
+<row>
+<cell role="desc">S J. Res. 152</cell>	<cell role="desc">6/4/20</cell> <cell role="desc">State, 6/5/20</cell> <cell role="desc">6/5/20</cell>	<cell role="desc">POCKETED-June 5, 1920</cell>
+</row>
+</table>
+<milestone unit="rule" />
+<p>S. J. Res. 152. Joint Resolution authorizing the appointment of a commission to confer with the Dominion or the Provincial Governments of Quebec, Ontario, and New Brunswick as to certain restrictive orders in council of the said Provinces relative to the exportation of wood pulp therefrom to the United States.</p>
+<p>66th Congress, 2nd Session.</p>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Number</cell>	<cell role="desc">Received</cell> <cell role="desc">Referred</cell>	<cell role="desc">Returned</cell>	<cell role="desc">Action</cell>
+</row>
+<row>
+<cell role="desc">H. R. 13329</cell>	<cell role="desc">6/4/20</cell> <cell role="desc">War, 6/4/20</cell>	<cell role="desc">6/5/20</cell>	<cell role="desc">POCKETED-June 5, 1920</cell>
+</row>
+</table>
+<milestone unit="rule" />
+<p>H. R. 13329, An Act to authorize the Secretary of War to transfer certain surplus material, machinery, and equipment to the Department of Agriculture, and for other purposes.</p>
+<p>66th Congress, 2nd Session.</p>
+<p>At the end of the 66th Congress, third session, which adjourned March 4, 1921, the Senate legislative day of March 2 and the House legislative day of March 3 (<title>Cong. Rec.</title>, vol. 60, pt. 4, pp. 4532, 4546) President Wilson retained unsigned one Senate and four House bills. All of these bills are now at the Executive Offices. The only marks on the bills or on attached memoranda are as follows:</p>
+<p>S. 3695 and H. R. 13558 are unstamped.</p>
+<p>H. R. 1856 is stamped as received Feb. 26, 1921. </p>
+<p>H. R. 14461-received Feb. 28, 1921.</p>
+<p>H. R. 15943-received March 3, 1921.</p>
+<p>At the end of the 67th Congress, second session, which adjourned September 22, 1922 (<title>Cong. Rec.</title>, vol. 62, pt. 12, pp. 13142, 13183) President Harding retained unsigned H. R. 10672. It is stamped as received at the White House September 15, 1922. It is now at the Executive Offices.</p>
+<p>At the end of the 68th Congress, second session, which adjourned March 4, 1925, the Senate legislative day of February 26 and the House legislative day of March 3, (<title>Cong. Rec.</title>, vol. 66, pt. 5, pp. 5521, 5623) President Coolidge retained unsigned one Senate and three House bills.</p><p> S. 4301 and H. R. 6442 are stamped as received March 2. H. R. 9160 is stamped February 21. H. R. 9343 is stamped February 24. These bills are now at the Executive Offices. There are no marks on any of them except the stamps. To H. R. 9343 is attached a slip which says "Veto Recommended."</p>
+<p>At the end of the 69th Congress, first session, which adjourned July 3, 1926 (<title>Cong. Rec.</title>, vol. 67, pt. 11, pp. 13009, 13100) President Coolidge retained unsigned two Senate and three House bills.</p>
+<p>S. 3185 is marked as received Jun 34 1926.</p>
+<p>S. 3999&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>S. 3999
+No</p>
+<p>Recommend veto</p>
+<p>J. G. S.</p></hi>
+<p>H. R. 534&#8212;received July 3. An attached slip says:</p>
+<hi rend="center"><p>Secretary of War recommends</p>
+<p>Veto</p></hi>
+<p>H. R. 6087&#8212;received June 30.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2421">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2421	S. 1967 (Ninety-eighth Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2421</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-eighth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Gros Ventre</term>
+<term>Assiniboine</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2421	S. 1967 (Ninety-eighth Congress, Second Session &#8212; Reagan)</head>
+
+<p>To compensate the Gros Ventre and Assiniboine Tribe of the Fort Belknap Indian Community for irrigation construction expenditures.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 98th Congress adjourned sine die on October 12, 1984.  The bill was presented to the President on October 5, 1984 (130 <title>Cong. Rec.</title> 30563).  A Presidential message was received by Congress on January 22, 1985 (131 <title>Cong. Rec.</title> 732).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 498.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2421.01.pdf"><title>Congressional Record</title> 130, 30563</ref> (1984).</bibl>
+<!-- <floatingText>
+<body>
+CONGRESSIONAL RECORD—SENATE
+October 5, 1984
+
+MEASURES REFERRED
+The following bill was read the first and second times by unanimous con-sent, and referred as indicated:
+H.R. 1881. An act to grant a Federal char-ter to the National Society, Daughters of the American Colonists; to the Committee on the Judiciary.
+
+
+MEASURES PLACED ON THE
+CALENDAR
+The following bill was read the second time, and placed on the calendar:
+S. 3017. A bill to improve and extend certain domestic food assistance programs, and for other purposes.
+The Committee on Veterans' Affairs was discharged from the further consideration of the following bill, which was place on the calendar:
+H.R. 5252. An act to redesignate the Regional Veterans' Administration Medical Center Located Popular Bluff, MO, as the "General Black Jack Pershing Regional Veterans' Administration Medical Center".
+MEASURES HELD AT THE DESK
+Pursuant to the order of the Senate of October 4, the following bill was held at the desk:
+H.R. 5492. An act to provide for the conservation and management of Atlantic striped bass, and for other purposes.
+
+
+ENROLLED BILLS AND JOINT
+RESOLUTION PRESENTED
+The Secretary reported that on today, October 5, 1984, he has presented to the President of the United States the following enrolled bills and joint resolutions:
+S. 1967. An act to compensate the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Community for irrigation construction expenditures;
+S. 2819. an act to make technical and con-forming amendments in certain laws relating to housing and community development;
+S.J. Res. 201. Joint resolution to provide for the designation of the week of November 25 through December 1, 1984, as "National Epidermolysis Bullosa Awareness Week";
+S.J. Res. 237. Joint resolution to designate the week of November 25, 1984, through December 1, 1984, as "National Home Care Week";
+S.J. Res. 260. Joint resolution designating the week beginning on November 11, 1984, as "National Blood Pressure Awareness Week";
+S.J. Res. 322. Joint resolution designating the week beginning on October 7, 1984, as "Mental Illness Awareness Week";
+S.J. Res. 324 Joint resolution designating the month of November 1984, as "National Christmas Seal Month"; and
+S.J. Res. 332 Joint resolution to proclaim October 16, 1984, as World Food Day".
+
+
+REPORTS OF COMMITTEES
+The following reports of committees were submitted:
+By Mr. GOLDWATER, from the Select Committee on Intelligence:
+Special Report entitled "Recent Political Violence in El Salvador (Rept. No. 98-659); and
+Special Report entitled "The Foreign Intelligence Surveillance Act of 1978. The First Five Years" (Rept. No. 98-660).
+By Mr. PERCY, from the Committee on Foreign Relations, with an amendment:
+H.J. Res. 136. Joint resolution calling for a wildlife preserve for humpback whales in the West Indies (Rept. No. 98-661).
+By Mr. THURMOND, from the Commit-tee on the Judiciary, with an amendment in the nature of a substitute:
+S. 2171. A bill to amend title 35 of the United States Code for the purpose of creating a uniform policy and procedure concerning patent rights in inventions developed with Federal assistance, and for other purposes (Rept. No. 98-662).
+S. 1535. A bill to amend title 35 of the United States Code to increase the effectiveness of the patent laws, and for other purposes (Rept. No. 98-663).
+By Mr. ROTH, from the Committee on Governmental Affairs:
+Special Report of the Permanent Subcommittee on Investigations entitled "Transfer of Technology" (Rept. No. 98-664).
+• Mr. ROTH. Mr. President, on behalf of the Senate Committee on Govern-mental Affairs, I submit a report of its Permanent Subcommittee on Investi-
+gations entitled, "Transfer of Technology."
+The Investigations Subcommittee, under the very able leadership of the ranking minority member, Senator Sam NUNx, examined and evaluated the efficiency and effectiveness of the Departments of Commerce, Defense, and State, the Customs Service and other agencies in their programs and joint efforts to prevent the export of certain nonclassified but militarily useful technology to the Soviet Union, the Warsaw Pact nations and other countries.
+In its findings, conclusions and recommendations for corrective action, the subcommittee report urges the executive branch to improve its intelligence gathering capability to deter-mine more accurately those controlled technologies and products the Soviet Union and other nations want and need most. Obviously, this is an area which has received a. lot of attention this year. The subcommittee's report is designed to summarize what several days of hearings indicated.
+• Mr, NUNN. Mr. President, I am pleased to join with Senator ROTH in remarks as he files the report of the Permanent Subcommittee on Investigations on the efficiency and effectiveness of the executive branch in con-trolling the export of militarily useful technology to the Soviet Union, the Warsaw Pact nations and certain other countries.
+The 4 days of public hearings last April were based on preliminary investigation conducted by the subcommittee minority staff under my direction. As ranking minority member, I wish to30563
+express my thanks to Chairman ROTH, Vice Chairman RUDMAN, and the majority staff for their cooperation and participation in the inquiry and the hearings. The findings, conclusions, and recommendations for corrective action in this report reflect a bipartisan consensus among subcommittee members that there have been important improvements in the export control system in the last 2 years but that serious problems still remain.
+The subcommittee's principal finding is that Federal authorities should seek to reduce selectively the number of controlled exports, thereby placing trade restrictions only on those militarily useful technologies and products which the Soviets and their satellites are known to want and need the most.
+This finding is similar to the principal conclusion reached in 1982 when the Investigations Subcommittee issued an earlier report on the transfer of technology to the Soviet Union. In the 1982 report, as in the report filed today, the subcommittee asserted that improved intelligence and a more effective enforcement mechanism are essential if undesired technology transfers and diversions are to be avoided.
+Through improved intelligence, the Government can learn which technologies and products the Soviets need and want most. In turn, improved enforcement will enable U.S. authorities in the Commerce Department and the Customs Service to move promptly to immobilize illegal technology diversion syndicates.
+Unfortunately, the Customs Service and the Commerce Department, which share investigative responsibilities on export controls, still do not cooperate fully and occasionally have been found to be engaged in unhealthy interagency competition. Such competition is not in the national interest and should be ended.
+In the report filed today, the sub-committee recommends that while the export licensing function should remain in the Commerce Department, the enforcement responsibility should be transferred to Customs. It has been my position since the subcommittee hearings of 1982 that the Commerce Department is not institutionally suited to carry out law enforcement work. Conversely, the Customs Service has been conducting law enforcement duties since the Nation was founded and it is housed in a Cabinet-level department with long experience in law enforcement operations. Customs is the logical and appropriate agency to investigate reported export violations. This recommendation, which I introduced as legislation, is embodied in the Senate version of the Export Administration Act.
+Regarding intelligence, while it is better than it was in 1982 when the subcommittee evaluated it last, it still
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2421.02.pdf"><title>Congressional Record</title> 131, 732</ref> (1985).</bibl>
+<!-- <floatingText>
+<body>
+732	CONGRESSIONAL RECORD—SENATE	January 22, 1985
+I therefore find no reasonable justification for the extensive changes to the NIH mandated by S. 540. In order to better serve the promise and the future of our national biomedical re-search enterprise, I am withholding my approval of this bill.
+RONALD REAGAN.
+THE WHITE HOUSE; October 30, 1984.
+S. 2574
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of S. 2574, the "Public Health Service Act Amendments of 1984," which would extend and amend various health professions and services authorities. I have been assured by the Department of Health and Human Services that the Continuing Resolution provides adequate authority fur these programs for fiscal year 1985.
+S. 2574 is a seriously flawed piece of legislation. The most serious of its many objectionable provisions include the following:
+First, the bill contains authorization levels substantially in excess of my 1985 Budget. Full funding of all the programs In the bill through 1987 would total $2.4 billion, 41 percent more than the $1.7 billion contained in the Budget.
+Moreover, S. 2574 would continue to increase obsolete Federal subsidies to health professions students and would maintain the static and rigid categorical framework to deliver such aid. The ability of medical schools to supply our society with health professionals has changed dramatically in the last 20 years. Today, our medical schools are producing nearly 16,000 new doctors each year. Although there may be some shortages of physicians and nurses in particular areas of the country, the Nation as a whole is facing a future surplus—not shortage—of physicians and nurses. Under these circumstances, S. 2574, a bill which continues excessive taxpayer subsidies to health professionals and maintains a rigid unworkable categorical frame-work, cannot be justified.
+S. 2574 takes the wrong approach to health professions training. In contrast to the Administration's proposal for a single, omnibus reauthorization of all health professions authorities, which would permit maximum pro-gram flexibility to address current needs, the bill not only reauthorizes the existing plethora of narrow, categorical authorities, but also creates new programs. This approach to health professions training is outdated and fail; to respond to the rapidly changing health care environment.
+A more appropriate approach would recognize that the surplus of physicians has reduced the need for Federal financial assistance and would improve incentives for health professionals to locate in areas of the country where shortages exist. The Administration'shealth professions proposals would help meet these objectives.
+S. 2574 would also repeal the Primary Care Block Grant authority-a key reform proposed by the Administration and enacted by the Congress in 1981 designed to restore State control, strengthen administrative efficiencies, and improve the delivery of health services. Thus, this bill would reverse a successful trend of increased State acceptance of health care responsibility that the Administration initiated. The block grant programs for preventive health and health services and alcohol and drug abuse have been successful. The primary care Mock grant was made optional by the Congress, and States have been hesitant to accept it. However, to close out the option at a time when States should be willing to consider another step toward greater autonomy is counterproductive and unacceptable.
+This bill contains numerous other provisions that are either unnecessary or unacceptable, including authorization for new Federal National Health Service Corps scholarships that are not needed, since the number of scholarship recipients already bound to subsidized medical practice in rural areas is adequate.
+For all these reasons, I find S.2574 unacceptable.
+RONALD REAGAN. THE WHITE HOUSE, October 30, 1984.
+S. 1967
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval from S. 1967, a bill "To compensate the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Community for irrigation construction expenditures."
+S. 1967 would reimburse the Gros Ventre and Assiniboine Tribes of the Fort Belknap Indian Community for $107,759.58 in tribal funds expended under applicable law for the construction of irrigation projects on the Fort Belknap Indian Reservation from 1895 to 1913. In addition, interest would be paid at 4 percent from the date of expenditure of the tribal funds until the date of payment of the principal pursuant to the bill.
+On November 20, 1962, the Indian Claims Commission, after due deliberation, issued a detailed opinion care-fully considering and dismissing (among other claims) a claim for the same reimbursement that would be provided by the bill. Fort Belknap Indian Community v. United States, 11 Ind. Cl. Comm. 479, 510-518, 543-549 (1962). The Commission found that construction of the irrigation system was "requested by the members of the Fort Belknap Community," that it has been of great and continuing benefit to the tribes, and "that its construction and maintenance have been consonant with the fair and honorabledealings clause within the meaning of the Indian Claims Commission Act." 11 Ind. Cl. Comm. 518-519. The tribes took no appeal from that decision.
+The fair and impartial administration of justice and the protection of public resources from meritless special appropriations both require that those who have availed themselves of judicial remedies in asserting claims against the United States, and have had their claims fully and fairly adjudicated under our Constitution and laws, receive no more or less than that to which they have been adjudged to be entitled. Twenty-two years after the claims of these two tribes were dismissed by an impartial tribunal established by the Congress specifically to adjudicate such claims, this bill would authorize and appropriate to them all that they were previously found not to be entitled to.
+Under the circumstances, the enactment of the bill would set aside established principles of justice and thereby encourage other and future efforts to obtain by legislation that which has been denied by a just adjudication.
+For these reasons, I find the bill unacceptable.
+RONALD REAGAN. THE WHITE HOUSE, October 17, 1984.
+
+S. 607
+MEMORANDUM OF DISAPPROVAL
+I have withheld my approval from S. 607, the "Public Broadcasting Amendments Act of 1984."
+This bill would authorize appropriations of $200 million, $225 million, and $250 million, respectively, for fiscal years 1987, 1988, and 1989 for the Corporation for Public Broadcasting. It would also authorize appropriations of $25 million, $35 million, and $40 mil-lion for the Public Telecommunications Facilities Program administered by the Department of Commerce for fiscal years 1985, 1986, and 1987.
+Public broadcasting has an important role to play in assuring that a wide variety of information and entertainment choices are made available to American viewers and listeners. Under S. 607, however, the authorizations for Federal subsidies to public broadcasting would increase dramatically. When all of the demands on the Federal budget are taken into account, I cannot endorse the levels of spending on public broadcasting contemplated by this legislation. They are incompatible with the clear and urgent need to reduce Federal spending.
+It is important to note that current-year funding for these two programs totals only $174 million. The Oxley amendment would have resulted in a generous and barely affordable in-crease of 15 percent, to $200 million. S. 607 goes much further and raises first-year funding by 29 percent to $225 million for the two programs. By the
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

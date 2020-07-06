@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0443">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">443	S. 2644 (Fiftieth Congress, First Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0443</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fiftieth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>443	S. 2644 (Fiftieth Congress, First Session &#8212; Cleveland)</head>
+
+<p>Granting a right of way to the Fort Smith, Paris and Dardanelle Railway Company to construct and operate a railroad, telegraph and telephone line from Fort Smith, Arkansas through the Indian Territory in the State of Kansas; and authorizing said company to build a bridge across the Arkansas River near the city of Fort Smith, Arkansas.</p>
+
+<p>Vetoed July 26, 1888.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Ex. Doc. No. 225 (19 <title>Cong. Rec.</title> 6853).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 107.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0443.01.pdf">Message from the President of the United States, returning Senate Bill No. 2644, with his objections thereto</ref>.  (1888).  Senate.  50th Congress, 1st session.  Senate Executive Document No. 225 (<title>Serial Set</title> 2514).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> SENATE.	 Ex. Doc, No. 225. </fw>
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,</head>
+<head>RETURNING
+Senate bill No. 2644, with his objections thereto.</head>
+<milestone unit="rule" />
+<p>JULY 26, 1888.&#8212;Read and referred to the Committee on Indian Affairs and ordered to be printed.</p>
+ <floatingText>
+  <body>
+   <div1>
+<salute><hi rend="italic">To the Senate:</hi></salute>
+<p>I return without approval Senate bill number twenty-six hundred and forty-four entitled "An act granting the right of way to the Fort Smith, Paris and Dardanelle Railway Company to construct and operate a railroad, telegraph, and telephone line from Fort Smith, Arkansas, through the Indian Territory, to or near Baxter Springs, in the State of Kansas."</p>
+<p>This bill grants a right of way one hundred feet in width, with the use of adjoining lands for stations and other purposes, through the eastern part of that portion of the Indian Territory occupied by the Cherokee Indians under a treaty with the United States.</p>
+<p>By the terms of the treaty concluded between the Government and the Cherokee Nation in 1866, these Indians expressly granted a right of way through their lands to any company or corporation which shall be duly authorized by Congress, to construct a railroad from any point north to any point south, and from any point east to any point west of, and which may pass through the Cherokee Nation."</p>
+<p>There are excellent reasons why this clause in the treaty should be construed as limiting the railroads which should run through these lands, at least without farther permission of the Indians, to only one from north to south and one other from east to west.</p>
+<p>It is evident however that the Congress has either not so interpreted this provision of the treaty or has determined that it should be disregarded; for there have been six or seven railroads constructed or authorized through these lands by the permission of the Government.
+It has become very much the custom to grant these rights of way through Indian lands and reservations merely for the asking. They have been duplicated to such an extent that rival roads are found struggling for the advantage of a prior Congressional grant, or for the possession of a contested route through these reservations.</p>
+<fw> 50TH CONGRESS,
+1st Session.
+2 FORT SMITH, PARIS AND DARDANELLE RAILWAY COMPANY. </fw>
+<p>I believe these indiscriminate grants to railroads permitting them to cross the lands occupied by the Indians, if not in absolute violation of their treaty rights, are dangerous to the success of our Indian management.</p>
+<p>While maintaining their tribal condition they should not be easily subjected to the disturbance and the irritation of such encroachments. When they have advanced sufficiently for the allotment of their lands in severalty they should be permitted, as a general rule, to enjoy and cultivate all the land set apart to them; and not discouraged by the forced surrender of a part of it for railroad purposes. In the solution of the problem of their civilization by allotments of land, they need the land itself and not compensation for its appropriation by others. They can not be expected to understand this process in any other way than an indication that their tenure is uncertain, and the assurance that they shall hold their allotted land for cultivation a delusion.</p>
+<p>It is not necessary in the treatment of this subject to insist that in no case should a railroad be permitted to cross Indian reservations. There may be valid public reasons why in some eases this should be allowed. Important lines of through travel should not be always obstructed or defeated by a refusal of such permission. But I think there should be shown in every case a justification in the public interest or in furtherance of general growth and progress or at least in a plain local necessity or convenience, before such grants are made.
+It seems to me also that the consent of the Indians for the passage of railroads through their land should as a general rule be required; that the means of determining the compensation to be made for land taken should be just and definite and easy of application; that the route of the proposed road should be as particularly described as is possible; that a reasonable time should be fixed for the construction of the road, and in default of such construction that the grant should be declared null and void without legislation or judicial action, and that in all eases the rights and interests of the Indians should be carefully considered.</p>
+<p>The bill under consideration grants to the railroad company therein named the right to construct its road over substantially the same route described in a law already passed permitting the Kansas City, Fort Scott and Gulf Railway Company to build its road through this reservation. No necessity or good reason is apparent why these two roads should be built upon the same line.</p>
+<p>The bill makes no provision for gaining the consent of the Indians occupying these lauds. The Cherokee Nation of Indians have their local laws and legislation, and are quite competent to pass upon this question. They have heretofore shown their interest in such subjects, I am informed, by protesting against some of the grants which have been made for the construction of railroads through their lands.</p>
+<p>The bill provides for the taking of lands held by individual occupants and the manner of fixing the compensation therefor; but it is <pb n="3" />
+<fw> FORT SMITH, PARIS AND DARDANELLE RAILWAY COMPANY. 3  </fw>declared that when any portion of the land taken by the company shall cease to be used for the purposes for which it is taken the same shall
+revert to the nation or tribe from which the same shall have been taken. There is no provision that in any case land taken from individual occupants shall revert to them.
+In the fifth section of the bill it is provided that the railroad company shall pay to the Secretary of the Interior, for the benefit of the particular nation or tribe through whose lands its line may be located, in addition to other compensation, the sum of fifty dollars.
+It was of course intended to declare that this sum should be paid for every mile of road built through Indian lands; but it is not so expressed. I am by no means certain that the context will aid this omission, which is quite palpable, when that part of the bill is compared with others of the same character. In any event this is a provision which should be free from all doubt.</p>
+<p>There is no time limited in the bill within which the proposed road through the reservation shall be completed, and consequently no forfeiture fixed for non-completion. The nearest approach to it is found in a clause providing that the company shall build at least fifty miles of its road in the Indian Territory within three years from the passage of the Act or the rights granted shall be forfeited as to that portion not built. The length of the proposed route through the Cherokee lands appears to be considerably over one hundred miles; and it is plain that there is no sufficient guarantee in the bill that the entire road will be built within any particular time. There is no forfeiture and no limitation for the completion of the road if fifty miles is built within three years, and there may be some doubt how far the forfeiture would extend in case of a failure to finish the fifty miles within the time specified.</p>
+<p>I believe these grants to railroads should be sparingly made; that when made they should present better reasons for their necessity and usefulness than are apparent in this case, and that they should be guarded and limited by provisions which are not found in the bill herewith returned.</p>
+<closer><signed>GROVER CLEVELAND. </signed>
+<dateline>EXECUTIVE MANSION, July 26, 1888.</dateline></closer>
+<note>[Fiftieth Congress of the United States of America, at the first session, began and held at the city of Washington, on Monday, the 5th day of December, 1887.] </note>
+</div1>
+ <div1>
+<head>AN ACT GRANTING THE RIGHT OF WAY TO THE FORT SMITH, PARIS AND DARDANELLE
+RAILWAY COMPANY TO CONSTRUCT AND OPERATE A RAILROAD, TELEGRAPH, AND TELEPHONE LINE FROM FORT SMITH, ARKANSAS, THROUGH THE INDIAN TERRITORY, TO OR NEAR BAXTER SPRINGS, IN THE STATE OF KANSAS.</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the Fort Smith, Paris and Dardanelle Railway Company, a corporation created under and by virtue of the laws of the State of Arkansas, be, and the same is hereby, invested and empowered with the right of locating, constructing, owning, equipping, operating, using, and maintaining a railway, telegraph,<pb n="4" />
+<fw> 4 FORT SMITH, PARIS AND DARDANELLE RAILWAY COMPANY. </fw>
+and telephone line from the city of Fort Smith, in the State of Arkansas, through the Indian Territory, to or near the town of Baxter Springs, in Cherokee County, in the State of Kansas ; beginning at the said city of Fort Smith, Arkansas, thence running to the Arkansas River, either in the said State of Arkansas, or the Indian Territory, and crossing said river either in the said State or Territory, and thence through said Territory or through said State and Territory, by the most feasible and practicable route, in a northwesterly direction, through the Indian Territory to or near the said town of Baxter Springs, in the State of Kansas, with the right to construct, use, and maintain such tracks, turn-outs, and sidings as said company may deem it to their interest to construct along and upon the right of way and depot grounds herein provided for.</p>
+<p>SEC. 2. That said corporation is authorized to take and use for all purposes of a railway, and for no other purpose, a right of way one hundred feet in width through said Indian Territory for said line of the Fort Smith, Paris and Dardanelle Railway Company, and to take and use a strip of land two hundred feet in width, with the length of three thousand feet in addition to the right of way, for stations, for every ten miles of road, with the right to use such additional ground where there are heavy cuts or fills as may be necessary for the construction and maintenance of the road-bed, not exceeding one hundred feet on each side of said right of way, or as much thereof as may be included in said cut or fill : Provided, That no part of the lands herein authorized to be taken shall be leased or sold by the company, and they shall not be used except in such manner and for such purposes only as shall be necessary for the construction and convenient operation of said railroad, telegraph, and telephone lines ; and when any portion thereof shall cease to be so used, such portion shall revert to the nation or tribe of Indians from which the same shall have been taken.</p>
+<p>SEC. 3. That before said railway shall be constructed through any lands held by in-' dividual occupants according to the laws. customs, and usages of any of the Indian nations or tribes through which it may be constructed, full compensation shall be made to such occupants for all property to be taken or damage done by reason of the construction of such railway. In case of failure to made amicable settlements with any occupant, such compensation shall be determined by the appraisement of three disinterested referees, to be appointed, one, who shall act as chairman, by the President, one by the chief of the nation to which said occupant belongs, and one by the railroad company ; who, before entering upon the duties of their appraisements, shall take and subscribe before a district judge, clerk of a district court, or United States commissioner, an oath that they will faithfully and impartially discharge the duties of their appraisement, which oath, duly certified, shall be returned with their award to and filed with the Secretary of the Interior within sixty days from the completion thereof; and a majority of said referees shall be competent to act in case of the absence of a member after due notice. And upon the failure of either party to make such appointment within thirty days after the appointment made by the President, the vacancy shall be filled by the district judge of the United States court held at Fort Smith, Arkansas, upon the application of the other party. The chairman of said board shall appoint the time and place of all hearings within the nation to which such occupant belongs. Each of said referees shall receive for his services the sum of four dollars per clay for each say they are engaged in the trial of any cause submitted to them under this act, with mileage at five cents per mile. Witnesses shall receive the usual fees allowed by the court of said nation. Costs, including compensation of said referees, shall be made a part of the award, and be paid by such railway company. In case the referees do not agree, then any two of them are authorized to make the award. Either party being dissatisfied with the finding of the referees shall have the right, within ninety days after the making of the award and notice of the same, to appeal by original petition to the district court held at Fort Smith, Arkansas, which court shall have jurisdiction to hear and determine the subject-matter of the petition, according to the laws of the State of Arkansas, for determining the damage when property is taken for railroad purposes. If, upon the hearing of said appeal, the judgment of the court shall be for a larger sum than the award of the referees, the costs of said appeal shall be adjudged against the railroad company. If the judgment of the court shall be for the same or a less sum than the award made by the referees, then the costs shall be ad-judged against the party claiming damages. When proceedings have been commenced in court, the railway company shall pay double the amount of the award into court to abide the judgment thereof and then have the right to enter upon the property sought to be condemned and proceed with the construction of the railway.</p>
+<p>SEc. 4. That said railroad company shall not charge the inhabitants of said Territory a greater rate of freight than the rate authorized by the laws of the State of Arkansas for services or transportation of the same kind : Provided, That passenger rates on said railway shall not exceed three cents per mile. Congress hereby reserves the right to regulate the charges for freight and passengers on said railway and messages on said telegraph and telephone lines, until a State government or govern<pb n="5" />
+<fw> FORT SMITH, PARIS AND DARDANELLE RAILWAY COMPANY. 5 </fw>
+ments shall exist in said Territory within the limits of which said railway, or a part thereof, shall be located ; and then such State government or governments shall be authorized to fix and regulate the cost of transportation of persons and freights within their respective limits by said railway ; but Congress expressly reserves the right to fix and regulate at all times the cost of such transportation by said railway or said company whenever such transportation shall extend from one State into another, or shall extend into more than one State : Provided, however, That the rate of such transportation of passengers, local or interstate, shall not exceed the rate above expressed: And provided further, That said railway company shall carry the mail at such prices as Congress may by law provide, and until such rate is fixed by law the Postmaster-General may fix the rate of compensation.</p>
+<p>SEC. 5. That said railway company shall pay to the Secretary of the Interior, for the benefit of the particular nation or tribes through whose lands said line may be located, the sum of fifty dollars, in addition to compensation provided for in this act for property taken and damages done individual occupants by the construction of said railway, said payment to be made in installments of five hundred dollars as each ten miles of road is graded : Provided, That if the general council of either of the nations or tribes through whose lands said railway may be located shall, within four months after the filing of maps of definite location, as set forth in section six of this act, dissent from the allowance hereinbefore provided for, and shall certify the same to the Secretary of the Interior, then all compensation to be paid to such dissenting nation or tribe under the provisions of this act shall he determined as provided in section three for the determination of the compensation to be paid to the individual occupants of lands, with the right of appeal to the court upon the same terms, conditions, and requirements as therein provided: Provided further, That the amount awarded or adjudged to be paid by said railway company for such dissenting nation or tribe shall be in lieu of the compensation the said nation or tribe would be entitled to receive under the foregoing provisions. Said company shall also pay, so long as said Territory is occupied by the Indians, to the Secretary of the Interior the sum of fifteen dollars per annum for each mile of railway it shall construct and operate in said Territory. The money paid to the Secretary of the Interior under the provisions of this act shall be apportioned by him in accordance with the laws and treaties now in force among the different nations and tribes, according to the number of miles of railway that may be constructed and operated by said company through their lands: Provided, That Congress shall have the right, so long as said lands are occupied and possessed by said nations and tribes, to impose additional taxes upon said railroad as it may deem just and proper for their benefit ; and any State or Territory here-after formed, through which said railway shall have been established, may exercise the like power as to such part of said railway as lie within its limits. Said railway company shall have the right to survey and locate its railway immediately after the passage of this act.</p>
+<p>SEC. 6. That said company shall cause maps, showing the route of its located line through said Territory, to be filed in the office of the Secretary of the Interior, and also to be filed in the office of the principal chief of each of the nations or tribes through whose lands said railway may be located; and after the filing of said maps no claim for subsequent settlement or improvement upon the right of way shown by said maps shall be valid as against said company : Provided, That when a map showing any portion of said railway's located line is filed, as herein provided for, said company shall commence grading said located line within six months thereafter, or such location shall be void; and said location shall be approved by the Secretary of the Interior in sections of twenty-five miles before construction of any such section shall be begun.</p>
+<p>SEC. 7. That the officers, servants, and employees of said company necessary to the construction and management of said road shall be allowed to reside, while so en-gaged, upon such right of way, but subject to the provisions of the Indian inter-course laws, and such rules and regulations as may be established by the Secretary of the Interior in conformity with said intercourse laws.</p>
+<p>SEC. 8. That the United States circuit and district courts for the western district of Arkansas, and such other courts as may be authorized by Congress, shall have without reference to the amount in controversy, concurrent jurisdiction over all controversies arising between said Fort Smith, Paris and Dardanelle Railway Company and the nations and tribes throughout whose territory said railway shall be constructed. Said courts shall have jurisdiction, without reference to the amount in controversy, over all controversies arising in said nations or tribes and said railway company; and the civil jurisdiction of said courts is hereby extended within the limits of said Indian Territory without distinction as to citizenship of the parties, so far as may be necessary to carry out the provisions of this net.</p>
+<p>SEC. 9. That said railway company shall build at least fifty miles of its railway in said Territory within three years after the passage of this act, or the rights herein granted shall be forfeited as to that portion not built; and that said company shall <pb n="6" />
+<fw> S. Ex. 22o-2
+6 FORT SMITH , PARIS AND DARDANELLE RAILWAY COMPANY. </fw>
+construct and maintain continually all road and highway crossings and necessary bridges over said railway wherever said roads and highways do now or may here-after cross said railway's right of way or may be by the proper authorities laid across the same.</p>
+<p>SEC. 10. That said Fort Smith, Paris and Dardanelle Railway Company shall accept this right of way upon the express condition, binding upon itself, its successors, and assigns, that they will neither aid, advise, nor assist in any effort looking toward the extinguishing or changing the present tenure of the Indians to their lands, and will not attempt to secure from the Indian nations any further grant of land, or its occupancy, than is hereinbefore provided: Provided, That any violation of the conditions mentioned in this section shall operate as a forfeiture of all rights and privileges of said railway company under this act.</p>
+<p>SEC. 11. That all mortgages executed by said railway company conveying any portion of its railroad with its franchises that may be constructed in said Indian Territory shall be recorded in the Department of the Interior, and the record thereof shall be evidence and notice of their execution, and shall convey all rights and property of said company as therein expressed.</p>
+<p>SEC. 12. That Congress may at any time amend, add to, alter, or repeal this act; and the right of way herein and hereby granted shall not be assigned or transferred in any form whatever, prior to the construction and completion of said road, except as to mortgage or other lien that may be given or secured therein to aid in the construction thereof.</p>
+<closer><signed>JOHN G. CARLISLE, Speaker of the House of Representatives.</signed>
+<signed>JOHN J. INGALLS, President of the Senate pro tempore.</signed>
+I certify that this act originated in the Senate.
+<signed>ANSON G. McCook, Secretary.</signed></closer>
+ </div1>
+   </body>
+</floatingText>
+</body>
+</floatingText> -->
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0443.02.pdf"><title>Congressional Record</title> 19, 6853</ref> (1888).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1888.	CONGRESSIONAL RECORD-SENATE.6853 </fw>
+
+<p>A bill (H. R. 3829) for the relief of Wesley Montgomery;</p>
+<p>A bill (H. R. 10082) to amend an act entitled "An act for the relief of the widow and orphan children of Col. William R. McKee, late of Lexington, Ky.;" and</p>
+<p>Joint resolution (H. Res. 14) to authorize the Secretary of the Interior to certify lands to the State of Kansas for the benefit of agriculture and the mechanic art,.</p>
+<p>The bill (H. R. 10340) providing for the erection of fire-escapes in the District of Columbia, and for other purposes, was read twice by its title, and referred to the Committee on the District of Columbia.</p>
+<p>The bill (H. R. 8012) for the relief of M. M. Gibson was read twice by its title, and referred to the Committee on Post-Offices and Post-Roads.</p>
+<p>The bill (H. R. 456) for the relief of the widow of Lieut. John F. Stewart was read twice by its title, and referred to the Committee on Military Affairs.</p>
+<p>The joint resolution (H. Res. 206) to continue the provisions of a joint resolution approved June 20, 1888, entitled "A joint resolution to provide temporarily for the expenditures of the Government," was read twice by its title.	</p>
+<p>Mr. ALLISON. I move that that joint resolution be referred to the Committee on Appropriations.</p>
+<p>The motion was agreed to.</p>
+<p>The joint resolution (H. Res. 205) to provide temporarily for the support of the Army was read twice by its title, and referred to the Committee on Appropriations.</p>
+ <div1>
+<head>BOUNDARIES BETWEEN BRITISH GUIANA AND VENEZUELA.</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States; which was read:</p>
+<floatingText>
+ <body><opener><salute><hi rend="italic">To the Senate of the United States:</hi></salute></opener>
+<p>I transmit herewith, in response to a resolution of the Senate of 11th April last, a report of the Secretary of State, with accompanying correspondence, relating to the pending dispute between the Government of Venezuela and the Government of Great Britain concerning the boundaries between British Guiana and Venezuela.</p>
+<closer><signed>GROVER CLEVELAND.</signed> 
+<dateline>EXECUTIVE MANSION,
+Washington, July 26, 1888.</dateline></closer>
+  </body>
+
+<p>The PRESIDENT <foreign>pro tempore</foreign>. The exhibits accompanying this message are very voluminous and perhaps had better be referred to the Committee on Printing before the formal order to print is made.</p>
+<p>Mr. PLATT. The message should be referred to the Committee on Foreign Relations in the first instance.</p>
+<p>Mr. SAULSBURY. I make that motion.</p>
+<p>The PRESIDENT <foreign>pro tempore. </foreign>The Chair did not understand the motion.</p>
+<p>Mr. PLATT. I was suggesting whether the message had not better first be referred to the Committee on Foreign Relations.</p>
+<p>The PRESIDENT <foreign>pro tempore.</foreign> It will be so referred.</p></floatingText>
+ </div1>
+ <div1>
+<head>BRIDGET FOLEY—VETO MESSAGE.</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States; which was read:</p>
+ <floatingText>
+ <body>
+<opener><salute><hi rend="italic">To the Senate:</hi></salute></opener>
+<p>I return without approval Senate bill No. 1447, entitled "An act granting a pension to Bridget Foley."</p>
+<p>Joseph F. Foley, the husband of the beneficiary named in this bill, enlisted on the 22d day of August, 1862, and was discharged February 13, 1863, for disability which was certified to arise from chronic rheumatism contracted prior to enlistment.</p>
+<p>He appears to have been sick with rheumatism a large part of the time he was in the service, and because of that fact never reached a point nearer the front than the city of Washington.
+He died May 13, 1873, of consumption.</p>
+<p>His widow filed in 1884 a declaration executed by the deceased shortly before his death, in which he alleged that he was first attacked with rheumatism at Capitol Hill, in the District of Columbia, in October, 1862. The soldier never applied for a pension.</p>
+<p>It is strenuously disputed that he had this complaint before enlistment. However this may be, it is certain that he died of consumption, and I can find no proof that this disease was contracted in the service, or had any relation thereto.</p>
+<closer><signed>GROVER CLEVELAND.</signed>
+<dateline>EXECUTIVE MANSION, July 26, 1888. </dateline></closer></body></floatingText> 
+<p>The PRESIDENT <hi rend="italic">pro tempore</hi>. The question being, shall this bill pass notwithstanding the objections of the President of the United States, it will be referred with the message, if there be no objection, to the Committee on Pensions.</p>
+ </div1>
+ <div1>
+<head>RIGHT OF WAY THROUGH INDIAN TERRITORY.</head>
+<p>The PRESIDENT <foreign>pro tempore</foreign> laid before the Senate the following message from the President of the United States; which was read:</p> 
+ <floatingText>
+   <body>
+<opener><salute>To the Senate:</salute></opener>
+<p>I return without approval Senate bill No. 2644, entitled "An act granting the right of way to the Fort Smith, Faris and Dardanelle Railway Company to construct and operate a railroad, telegraph, and telephone line from Fort Smith, Ark., through the Indian Territory, to or near Baxter Springs, in the State of Kansas."</p>
+<p>This bill grants a right of way 100 feet in width, with the use of adjoining lands for stations and other purposes, through the eastern part of that portion of the Indian Territory occupied by the Cherokee Indians under a treaty with the United States.</p>
+<p>By the terms of the treaty concluded between the Government and the Cherokee Nation in 1866 these Indians expressly granted a right of way through their lands "to any company or corporation which shall be duly authorized by Congress to construct a railroad from any point north to any point south, and from any point east to any point west of, and which may pass through, the Cherokee Nation."</p>
+<p>There are excellent reasons why this clause in the treaty should be construed as limiting the railroads which should run through these lands, at least with-out further permission of the Indians, to only one from north to south and one other from east to west.</p>
+<p>It is evident, however, that the Congress has either not so interpreted this provision of the treaty or has determined that it should be disregarded; for there have been six or seven railroads constructed or authorized through these lands by the permission of the Government.
+It has become very much the custom to grant these rights of way through Indian lands and reservations merely for the asking. They have been duplicated to such an extent that rival roads are found struggling for the advantage of a prior Congressional grant or for the possession of a contested route through these reservations.</p>
+<p>I believe these indiscriminate grants to railroads, permitting them to cross the lands occupied by the Indians, if not in absolute violation of their treaty rights, are dangerous to the success of our Indian management.</p>
+<p>While maintaining their tribal condition they should not be easily subjected to the disturbance and the irritation of such encroachments. When they have advanced sufficiently for the allotment of their lands in severalty they should be permitted, as a general rule, to enjoy and cultivate all the land set apart to them, and not discouraged by the forced surrender of a part of it for railroad purposes. In the solution of the problem of their civilization by allotments of land they need the land itself and not compensation for its appropriation by others. They can not be expected to understand this process in any other way than an indication that their tenure is uncertain and the assurance that they shall hold their allotted land for cultivation a delusion.</p>
+<p>It is not necessary in the treatment of this subject to insist that in no case should a railroad be permitted to cross Indian reservations. There may be valid public reasons why in some cases this should be allowed. Important lines of through travel should not be always obstructed or defeated by a refusal of such permission. But I think there should be shown in every ease a justification in the public interest or in furtherance of general growth and progress, or at least in a plain local necessity or convenience, before such grants are made.
+It seems to me also that the consent of the Indians for the passage of railroads through their land should as a general rule be required; that the means of determining compensation to be made for land taken should be just and definite and easy of application; that the route of the proposed road should be as particularly described as is possible; that a reasonable time should be fixed for the construction of the road, and in default of such construction that the grant should be declared null and void without legislation or judicial action, and that in all cases the rights and interests of the Indian should be carefully considered.</p>
+<p>The bill under consideration grants to the railroad company therein named the right to construct its road over substantially the same route described in a law already passed permitting the Kansas City, Fort Scott and Gulf Railway Company to build its road through this reservation. No necessity or good reason is apparent why these two roads should lie built upon the same line.</p>
+<p>The bill makes no provision for gaining the consent of the Indians occupying these lands. The Cherokee Nation of Indians have their local laws and legislation, and are quite competent to pass upon this question. They have heretofore shown their interest in such subjects, I am informed, by protesting against some of the grants which have been made for the construction of railroads through their lands.</p>
+<p>The bill provides for the taking of lands held by individual occupants and the manner of fixing the compensation therefor; but it is declared that when any portion of the land taken by the company shall cease to be used for the purposes for which it is taken the same shall revert to the nation or tribe from which the same shall have been taken. There is no provision that in any case land taken from individual occupants shall revert to them.
+In the fifth section of the bill it is provided that the railroad company shall pay to the Secretary of the Interior, for the benefit of the particular nation or tribe through whose lands its line may be located, in addition to other compensation, the sum of $50.</p>
+<p>It was of course intended to declare that this sum should be paid for every mile of road built through Indian lands; but it is not so expressed. I am by no means certain that the context will aid this omission, which is quite palpable, when that part of the bill is compared with others of the same character. In any event this is a provision which should be free from all doubt.</p>
+<p>There is no time limited in the bill within which the proposed road through the reservation shall be completed, and consequently no forfeiture fixed for non-completion. The nearest approach to it is found in a clause providing that the company shall build at least 50 miles of its road in the Indian Territory within three years from the passage of the act or the rights granted shall be forfeited as to that portion not built.</p>
+<p>The length of the proposed route through the Cherokee lands appears to be considerably over 100 miles; and it is plain that there is no sufficient guaranty in the bill that the entire road will be built within any particular time. There is no forfeiture and no limitation for the completion of the road if 50 miles is built within three years, and there may be some doubt, how far the forfeiture would extend in case of a failure to finish the 50 miles within the time specified.</p>
+<p>I believe these grants to railroads should be sparingly made; that when made they should present better reasons for their necessity and usefulness than are apparent in this case, and that they should be guarded and limited by provisions which are not found in the bill herewith returned.</p>
+<closer><signed>GROVER CLEVELAND. </signed>
+<dateline>EXECUTIVE MANSION, July 26, 1888.</dateline></closer> </body>
+   </floatingText>
+<p>
+The PRESIDENT <hi rend="italic">pro tempore.</hi> The question is, Shall this bill pass, the objections of the President of the United States to the contrary notwithstanding?</p>
+<p>Mr. PLATT. I move that the bill, with the message, be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+
+<p><hi rend="center">ADMISSION OF WASHINGTON.</hi></p>
+
+<p>The PRESIDENT pro tempore. The Senate, as in Committee of the Whole, resumes the consideration of the unfinished business, being the bill (S. 12) to provide for the formation and admission into the Union of the State of Washington, and for other purposes.</p>
+<p>Mr. STEWART. I move that the Senate do now adjourn.</p>
+<p>The motion was agreed to: and (at 6 o'clock and 19 minutes p. m.) the Senate adjourned until to-morrow, Friday, July 27, 1888, at 12 o'clock m.</p>
+ </div1>
+ </body>
+</floatingText> -->
+ </div1>
+</body>
+ </text>
+ </TEI>

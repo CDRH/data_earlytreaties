@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1111">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1111	H.R. 13584 (Seventy-first Congress, Third Session &#8212; Hoover)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1111</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Hoover</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-first Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Chippewa</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-24</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1111	H.R. 13584 (Seventy-first Congress, Third Session &#8212; Hoover)</head>
+
+<p>To amend an act approved May 14, 1926 (44 <title>Stat.</title> 555), entitled “An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims."</p>
+
+<p>Vetoed February 24, 1931.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 780 (74 <title>Cong. Rec.</title> 5875).</p>
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 241.</bibl>
+</div1>
+
+
+<div1 type="source_citation">
+<bibl><ref target="PV1111.03.pdf">An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims,</ref> 44 <title>Stat.</title> 555 (1926).</bibl>
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1111.01.pdf">Chippewa Indians of Minnesota.  Message from the President of the United States, transmitting without approval H.R. 13584, an act to amend an act approved May 14, 1926 (44 <title>Stat.</title> 555), entitled “An Act Authorizing the Chippewa Indians of Minnesota To Submit Claims to the Court of Claims.”</ref>  (1931).  Senate.  71st Congress, 3rd session.  Senate Document No. 780 (<title>Serial Set</title> 9380).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 71ST CONGRESS HOUSE OF REPRESENTATIVES J DOCUMENT 3d Session	No. 780 </fw>
+<head>CHIPPEWA INDIANS OF MINNESOTA</head>
+<milestone unit="rule" />
+<head>MESSAGE FROM 
+THE PRESIDENT OF THE UNITED STATES.	</head>
+<head>	TRANSMITTING
+WITHOUT APPROVAL H. R. NO. 13584, AN ACT TO AMEND AN ACT APPROVED MAY 14, 1928 (44 <title>Stat.</title> 555), ENTITLED "AN ACT AUTHORIZING THE CHIPPEWA INDIANS OF MINNESOTA TO SUBMIT, CLAIMS TO THE COURT OF CLAIMS"
+</head>
+<milestone unit="rule" />
+<p>FEBRUARY 24, 1931.&#8212;Referred to the Committee on Indian Affairs and ordered
+to be printed</p>
+<milestone unit="rule" />
+<p>To the House of Representatives:</p>
+<p>I return herewith without my approval H. R. 13584, an act to amend an act approved May 14, 1926 (44 <title>Stat.</title> 555), entitled "An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims."</p>
+<p>The act of May 14, 1926, authorized the Chippewa Indian's of Minnesota to submit to the United States Court of Claims for adjudication any legal and equitable claims which they may have against the United States arising under or growing out of the act of January 14, 1889, or any subsequent act of Congress, in relation to the affairs of these Indians.</p>
+<p>This bill would amend that act of May 14, 1926, by adding to section 1 the following language: <quote>
+In any such suit or suits the plaintiff, the Chippewa Indians of Minnesota, shall be considered as including and representing all those entitled to share in either the interest or in the final distribution of the permanent fund provided for by section 7 of the act of January 14, 1889 (25 <title>Stat.</title> L. 642), and the agreements entered into thereunder. That nothing herein shall be construed to affect the powers of the Secretary of the Interior to determine the roll of the Chippewa Indians of Minnesota for the purpose of making the final distribution of the permanent Chippewa fund. This act shall apply to any and all suit or suits brought under said act of May 14, 1926, whether now pending or hereafter commenced.</quote></p>
+<fw> 2	CHIPPEWA INDIANS OF MINNESOTA </fw>
+<p>A number of suits have been filed by these Indians and are now pending in the Court of Claims.</p>
+<p>The act of January 14,1889, was entitled "An act for the relief and civilization of the Chippewa Indians in the State of Minnesota." These Indians were tribal Indians under the guardianship of the United States living upon their reservations as tribal lands comprising approximately 4,700,000 acres. Pursuant to that act of 1889, these tribal lands except portions, thereof needed for allotments to these Indians, were ceded to the United States to be sold and the net proceeds thereof to be held in the United States Treasury for 50 years, to bear interest at the rate of 5 per cent to be expended for the benefit of the Indians. Three-fourths of the interest was to be paid annually to the Indians in equal shares per capita and one-fourth to be devoted to the establishment and maintenance of free schools for these Indians, and the act further provided that at the expiration of said 50 years the said permanent fund shall be divided and paid to all of said Chippewa Indians and their  issue then living in cash, in equal shares. </p>
+<p>Many of these Indians since 1889 have severed all of their tribal relations and are scattered in various sections of the country but the Chippewa Tribe still exists in the White Earth and Red Lake Reservations under the guardianship of the United States which is continuing to maintain free schools for their civilization.	</p>
+<p>Quite a number of these Indian who had severed their tribal relations continued to receive their distributive share of the interest fund until 1927, when the Solicitor of the Interior Department held that the fund established from the sale of these lands was a tribal fund administered by the United States for the benefit of the tribe which had not been dissolved. but was recognized by Congress and that, therefore, the right to share in the interest annuities depended upon existing tribal membership. Accordingly, such Indians who had severed their tribal relations were stricken from the roll by the Secretary of the Interior and no longer entitled to participation in the interest annuities.</p>
+<p>Several of these Indians in the case of Wilbur v. the United, States petitioned for a writ of mandamus commanding the Secretary of the Interior to restore them to the rolls of the Chippewa Indians and to pay to each of them their per capita share of these interest annuities and of all future distributions of interest and principal from the fund: created under the act of 1889. The Supreme Court of the United States denied this writ of mandamus, holding that the Secretary Of the Interior had administrative jurisdiction to make such a decision which was not contrary. to the provisions, of the act of 1889, whose purpose was to, accomplish a gradual rather than an immediate transition from the tribal relation and independent wardship to full emancipation and individual responsibility. The Supreme Court also said in this case which was decided in April, 1930, that the time fixed for the final distribution of the fund is as yet so remote that no one is now in a position to ask special relief or direction respecting that distribution;</p>
+<p>It thus appears that it is unnecessary to amend the act of,May 14, 1926, to bring in as parties plaintiff those Indians who have severed their tribal relations, as their claim for a distributive share of this interest fund has been adjudicated by the decision of the Supreme Court in the above ease, Wilbur v. the United States, known as the Kadrie case.</p>
+<fw> CHIPPEWA INDIANS OF MINNESOTA	3 </fw>
+<p>Neither is it necessary to amend the act of May 14, 1926, for the purpose of compelling restoration by the United States to the interest fund of amounts that may have been heretofore erroneously distributed to Indians who had severed their tribal relations. Obviously, the plaintiffs in such an action would be only those who had not severed their tribal relations and were still entitled to their distributive share of this interest fund.</p>
+<p>The Supreme Court of the United States has said that the Secretary of the Interior had administrative jurisdiction to determine the rights of these Indians to that interest fund and that his decision was not contrary to the provisions of the act of 1889. I am not in favor of legislation designed to have the courts again review that decision and assume such administrative jurisdiction.</p>
+<closer><signed>HERBERT HOOVER.</signed> <dateline>THE WHITE HOUSE, February 24, 1981.</dateline></closer>
+
+<p>[H. R. 13584. Seventy-first Congress of the United States of America; at the third session, begun and held at the city of Washington on Monday, the first day of December, one thousand nine hundred and thirty.]</p>
+<hi rend="italic"><p>An act to amend an act approved May 14,1886 (44 <title>Stat.</title> 555), entitled "An act authorizing the Chippewa Indians
+of Minnesota to submit claims to the Court of Claims."</p></hi>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section 1 of an Act approved May 14, 1926 (44 <title>Stat.</title> 555), be, and the same is hereby, amended to read as follows:</p>
+<p>"SECTION 1. That jurisdiction be, and is hereby, conferred upon the Court of Claims, with right of appeal to the Supreme Court of the United States, by either party as in other cases, notwithstanding the lapse of time or statute of limitations, to hear, examine, and adjudicate and render judgment in any and all legal and equitable claims arising under or growing out of the Act of January 14 1889 (25 <title>Stat.</title> L. 642), or arising under or growing out of any subsequent Act of Congress in relation to Indian affairs which said Chippewa Indians of Minnesota may have against the United States, which claims have not heretofore been determined and adjudicated on their merits by the Court of Claims or the Supreme Court of the United States. In any such suit or suits the plaintiff, the Chippewa Indians of Minnesota, shall be considered as including and representing all those entitled to share in either the interest or in the final distribution of the permanent fund provided for by section 7 of the Act of January 14, 1889 (25 <title>Stat.</title> L. 642), and the agreements entered into thereunder. That nothing herein shall be construed to affect the powers of the Secretary of the Interior to determine the roll of the Chippewa Indians of Minnesota for the purpose of making the final distribution of the permanent Chippewa fund. This Act shall apply to any and all suit or suits brought under said Act of May 14, 1926, whether now pending or hereafter commenced."</p>
+<closer><signed>NICHOLAS LONGWORTH,</signed>
+Speaker of the House of Representatives.
+<signed>CHARLES CURTIS,</signed>
+Vice President of the United States and President of the Senate.</closer>
+
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+ <bibl><ref target="PV1111.02.pdf"><title>Congressional Record</title> 74, 5875</ref> (1931).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1931	CONGRESSIONAL RECORD HOUSE	5875 </fw>
+<head>CLAIMS OF THE CHIPPEWA INDIANS OF MINNESOTA (H. DOC.
+NO. 780)</head>
+<p>The SPEAKER laid before the House the following message from the President, which was read and ordered spread upon the Journal:</p>
+<quote>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I return herewith without my approval H. R. 13584, an act to amend an act approved May 14, 1926 (44 <title>Stat.</title> 555), entitled "An act authorizing the Chippewa Indians of Minnesota to submit claims to the Court of Claims."</p>
+<p>The act of May 14, 1926, authorized the Chippewa Indian's of Minnesota to submit to the United States Court of Claims for adjudication any legal and equitable claims which they may have against the United States arising under or growing out of the act of January 14, 1889, or any subsequent act of Congress, in relation to the affairs of these Indians.</p>
+<p>This bill would amend that act of May 14, 1926, by adding to section 1 the following language: <quote>
+In any such suit or suits the plaintiff, the Chippewa Indians of Minnesota, shall be considered as including and representing all those entitled to share in either the interest or in the final distribution of the permanent fund provided for by section 7 of the act of January 14, 1889 (25 <title>Stat.</title> L. 642), and the agreements entered into thereunder. That nothing herein shall be construed to affect the powers of the Secretary of the Interior to determine the roll of the Chippewa Indians of Minnesota for the purpose of making the final distribution of the permanent Chippewa fund. This act shall apply to any and all suit or suits brought under said act of May 14, 1926, whether now pending or hereafter commenced.</quote></p>
+<fw> 2	CHIPPEWA INDIANS OF MINNESOTA </fw>
+<p>A number of suits have been filed by these Indians and are now pending in the Court of Claims.</p>
+<p>The act of January 14,1889, was entitled "An act for the relief and civilization of the Chippewa Indians in the State of Minnesota." These Indians were tribal Indians under the guardianship of the United States living upon their reservations as tribal lands comprising approximately 4,700,000 acres. Pursuant to that act of 1889, these tribal lands except portions, thereof needed for allotments to these Indians, were ceded to the United States to be sold and the net proceeds thereof to be held in the United States Treasury for 50 years, to bear interest at the rate of 5 per cent to be expended for the benefit of the Indians. Three-fourths of the interest was to be paid annually to the Indians in equal shares per capita and one-fourth to be devoted to the establishment and maintenance of free schools for these Indians, and the act further provided that at the expiration of said 50 years the said permanent fund shall be divided and paid to all of said Chippewa Indians and their  issue then living in cash, in equal shares. </p>
+<p>Many of these Indians since 1889 have severed all of their tribal relations and are scattered in various sections of the country but the Chippewa Tribe still exists in the White Earth and Red Lake Reservations under the guardianship of the United States which is continuing to maintain free schools for their civilization.	</p>
+<p>Quite a number of these Indian who had severed their tribal relations continued to receive their distributive share of the interest fund until 1927, when the Solicitor of the Interior Department held that the fund established from the sale of these lands was a tribal fund administered by the United States for the benefit of the tribe which had not been dissolved. but was recognized by Congress and that, therefore, the right to share in the interest annuities depended upon existing tribal membership. Accordingly, such Indians who had severed their tribal relations were stricken from the roll by the Secretary of the Interior and no longer entitled to participation in the interest annuities.</p>
+<p>Several of these Indians in the case of Wilbur v. the United, States petitioned for a writ of mandamus commanding the Secretary of the Interior to restore them to the rolls of the Chippewa Indians and to pay to each of them their per capita share of these interest annuities and of all future distributions of interest and principal from the fund: created under the act of 1889. The Supreme Court of the United States denied this writ of mandamus, holding that the Secretary Of the Interior had administrative jurisdiction to make such a decision which was not contrary. to the provisions, of the act of 1889, whose purpose was to, accomplish a gradual rather than an immediate transition from the tribal relation and independent wardship to full emancipation and individual responsibility. The Supreme Court also said in this case which was decided in April, 1930, that the time fixed for the final distribution of the fund is as yet so remote that no one is now in a position to ask special relief or direction respecting that distribution;</p>
+<p>It thus appears that it is unnecessary to amend the act of,May 14, 1926, to bring in as parties plaintiff those Indians who have severed their tribal relations, as their claim for a distributive share of this interest fund has been adjudicated by the decision of the Supreme Court in the above ease, Wilbur v. the United States, known as the Kadrie case.</p>
+<fw> CHIPPEWA INDIANS OF MINNESOTA	3 </fw>
+<p>Neither is it necessary to amend the act of May 14, 1926, for the purpose of compelling restoration by the United States to the interest fund of amounts that may have been heretofore erroneously distributed to Indians who had severed their tribal relations. Obviously, the plaintiffs in such an action would be only those who had not severed their tribal relations and were still entitled to their distributive share of this interest fund.</p>
+<p>The Supreme Court of the United States has said that the Secretary of the Interior had administrative jurisdiction to determine the rights of these Indians to that interest fund and that his decision was not contrary to the provisions of the act of 1889. I am not in favor of legislation designed to have the courts again review that decision and assume such administrative jurisdiction.</p>
+<closer><signed>HERBERT HOOVER.</signed> <dateline>THE WHITE HOUSE, February 24, 1981.</dateline></closer>
+<p>Mr. LEAVITT. Mr. Speaker, I move that the message and the accompanying papers be referred to the Committee on Indian Affairs and ordered printed.</p>
+<p>The motion was agreed to.</p>
+
+<head>THE VETO MESSAGE ON H. R. 13584</head>
+<p>Mr. PITTENGER. Mr. Speaker, I ask unanimous consent that I may have three days in which to extend my remarks in connection with the veto message on the bill.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Minnesota?</p>
+<p>There was no objection.</p>
+<p>Mr. PITTENGER. Mr. Speaker, under leave given me I wish to comment briefly on the subject matter of H. R. 13584, and on the veto message returning the same.</p>
+<p>Under the act of January 14, 1889, the Chippewa Indians of Minnesota ceded certain lands to the United States, which were to be sold and a trust fund established, for these Indians.</p>
+<p>On May 14, 1926, an act was passed by Congress authorizing the Chippewa Indians of Minnesota to bring action in the Court of Claims against the United States in connection with this fund created by the act of 1889. Those suits are now pending.</p>
+<p>At the beginning of this session of Congress my attention was directed to a defect in the jurisdictional act of 1926. It was pointed out by the attorneys representing the Indians, who were selected subject to the approval of the Indian Bureau, that the jurisdictional act of 1889 recognized certain Indians leading a tribal existence and other Indians who would be entitled to share in the distribution of the trust fund at the end of 50 years. In other words, it recognized two classes of Indians those who had certain rights now in connection with the trust funds and those who would have rights to share in the distribution of the fund at the end of the 50-year period. Both classes are interested in the fund. Certain rights and interests in the pending litigation may involve one class, while the other class may be interested in other or additional rights and questions. It was pointed out to me that under the act of 1926 there was some question as to whether both classes or groups of Indians would have a standing in the Court of Claims. Further, there is a serious question whether all claims which might be made against the Government under the act of 1889 can be asserted in the pending lawsuits.</p>
+<p>In other words, under the act of 1926 it may develop that only part of the Indians or groups interested in the funds</p>
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

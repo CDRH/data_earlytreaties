@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+
+<TEI.2 id="treaty.00044">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 44</note>
+<note type="project">
+A Treaty Between the United States of America and the sachems, chiefs, and warriors, of the Wyandot, Ottawa, Chippewa, Munsee, and Delaware, Shawnee, and Pattawatamy nations, holden at fort Industry, on the Miami of the lake, on the 4th day of July, A.D. one thousand eight hundred and five.</note>
+<note type="source"><hi rend="italics">American State Papers: Indian Affairs, vol. 1</hi> (1832). Washington, DC: Gales and Seaton, 696.</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>American State Papers: Indian Affairs,</title>
+<editor></editor>
+</analytic>
+<monogr>
+<title></title>
+<imprint>
+<biblScope type="volume"> vol. 1,</biblScope>
+<date value="1832"> (1832).</date>
+<biblScope type="pages"> 696.</biblScope>
+<pubPlace>Washington, DC:</pubPlace>
+<publisher>Gales and Seaton</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+
+<change> 
+<date>2006-02-10</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Made Charlie's proofing changes</item> 
+</change>
+
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-23</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-12-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+<body>
+<div1>
+<pb n="696" />
+<p>
+<hi  rend="center"><hi rend="bold">A Treaty between the United States of America and the sachems, chiefs, and warriors, of the Wyandot, Ottawa, Chippewa, Munsee, and Delaware, Shawanee, and Pattawatamy nations, holden at fort Industry, on the Miami of the lake, on the 4th day of July, A. D. one thousand eight hundred and five.</hi>
+</hi><lb/>
+</p>
+
+
+<p>
+Whereas Thomas Jefferson, President of the United States, did appoint Charles Jouett, Esquire, a commissioner to hold a treaty with said Indian nations, for the purpose of enabling the agents of the Connecticut reserve to negotiate and conclude a cession of their lands: And whereas, the company incorporated by the name of "the proprietors of the half million acres of land lying south of lake Erie, called Sufferers' land," are the owners and proprietors of one half million acres of land, part of said Connecticut reserve, lying on the west end thereof, and south of the shore of lake Erie: And whereas the Connecticut land company, so called, are the owners and proprietors of the remaining part of said reserve, lying west of the river Cayahoga: And whereas Henry Champion, Esquire, agent of the said Connecticut land company, and Isaac Mills, Esquire, agent of the directors of the company incorporated by the name of "the proprietors of the half million acres of land lying south of lake Eric, called Sufferers' land," were both duly authorized and empowered, by their respective companies, and the directors thereof, to treat for the cession and purchase of said Connecticut reserve:<lb/>
+</p><lb/>
+
+
+<p>
+<hi rend="italics">Now, know all men by these presents</hi>, That we, the sachems, chiefs, and warriors, of the nations aforesaid, for the consideration of eighteen thousand nine hundred and sixteen dollars and sixty-seven cents, received of the companies aforesaid, by the hands of their respective agents, to our full satisfaction, have ceded, remised, released, and quit claimed, and by these presents do cede, remise, release, and forever quit claim, to the companies aforesaid, and the individuals composing the same, and their heirs and assigns forever, all the interest, right, title, and claim of title, of said Indian nations, respectively, of, in, and to, all the lands of said companies, lying west of the river Cayahoga, and the portage between that and the Tuscarawa branch of Muskingum, north of the northernmost part of the 41st degree of north latitude, east of a line agreed and designated in a treaty between the United States and said Indian nations, bearing even date herewith, being a line north and south one hundred and twenty miles due west of the west line of the State of Pennsylvania, and south of the northernmost part of the forty-second degree and two minutes 
+north latitude, for them, the said companies, respectively, to have, hold, occupy, peaceably possess, and enjoy, the granted and quit claimed premises, forever, free and clear of all let, hindrance, or molestation, whatsoever, so that said nations, and neither of them, the sachems, chiefs, and warriors thereof, and neither of them, or any of the posterity of said nations, respectively, shall ever hereafter make any claim to the quit claimed premises, or any part thereof; but therefrom, said nations, the sachems, chiefs, and warriors thereof, and the posterity of said nations, shall be forever barred.<lb/>
+</p><lb/>
+
+
+
+<p>
+In witness whereof, the commissioner of the United States, the agents of the companies aforesaid, and the sachems, chiefs, and warriors, of the respective Indian nations aforesaid, have hereunto, interchangeably, fixed their seals and set their names.<lb/>
+</p><lb/>
+
+
+<p>
+CH. JOUETT,	[<hi rend="smallCaps">L. S.</hi>]<lb/>
+
+H. CHAMPION, [<hi rend="smallCaps">L. S</hi>]<lb/>
+
+J. MILLS,	[<hi rend="smallCaps">L. S.</hi>]<lb/>
+
+[Sealed also by a number of Indian chiefs.]
+
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

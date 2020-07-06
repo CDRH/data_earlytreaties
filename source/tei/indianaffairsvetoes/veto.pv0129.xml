@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0129">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">129	H.R. 2264 Forty-second Congress, Third Session &#8212; Grant</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0129</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Grant</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Forty-second Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Cattaraugus</term>
+<term>Allegany</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-17</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-22</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>129	H.R. 2264 (Forty-second Congress, Third Session &#8212; Grant)</head>
+<p>To authorize the Cattaraugus and Allegany Indians in New York to lease lands and confirm leases.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 42nd Congress had adjourned sine die on March 3, 1873.  The bill was presented to the President on February 26, 1873 (February 26, 1873, H. Jour., p. 493; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 20).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 46.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0129.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1873).   42nd Congress, 3rd session, p. 493 (<title>Serial Set</title> 1551).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES
+OF THE
+UNITED STATES,</head>
+<opener>
+<head>BEING THE
+THIRD SESSION OF THE FORTY-SECOND CONGRESS;
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON DECEMBER 2, 1872,
+IN THE NINETY-SEVENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES</head>
+<opener>
+<hi rend="center"><head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1873.</head></hi>
+<fw> Feb. 26, 1873.] HOUSE OF REPRESENTATIVES.	493 </fw>
+
+<p>repeal of stamp duties on proprietary medicines, to the Committee of Ways and Means.</p>
+<p>A message from the Senate, by Mr. Sympson, one of their Clerks: </p>
+<p>Mr. Speaker: The Senate have passed, without amendment, a bill of the House of the following title, viz:</p>
+<p>H. R. 3972. An act to authorize the construction of a railroad and draw-bridge across the Genesee River in Monroe County, New York. The Senate have passed bills of the following titles, viz:</p>
+<p>S. 1596. An act relating to the circuit and district courts of the United States for the middle and northern districts of Alabama ;</p>
+<p>S. 1597. An act to change and fix the time of holding the spring terms of the United States circuit and district courts in the cities of Covington and Paducah, in the State of Kentucky;
+in which I am directed to ask the concurrence of the House.</p>
+<p>The Senate have passed a bill of the House of the following title, viz:</p>
+<p>H. R. 3850. An act making appropriations for the support of the Army for the year ending June 30, 1874, with amendments, in which I am directed to ask the concurrence of the House.</p>
+<p>Subsequently,</p>
+<p>On motion by Mr. Sargent, by unanimous consent,</p>
+<p><hi rend="italic">Ordered</hi>, That the said bill and amendments be referred to the Committee on Appropriations and printed.</p>
+<p>Mr. Buckley, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills of the following titles, viz:</p>
+<p>S. 686. An act for the relief of Horace Tyler;</p>
+<p>S. 1602. An act to provide for the expenses of the investigation of the recent senatorial election in Kansas;</p>
+<p>S. 530. An act to provide for the disposition of that portion of the military reservation at Fort Ripley, Minnesota, which lies east of the Mississippi River;</p>
+<p>H. R. 3970. An act to amend an act entitled "An act authorizing the Secretary of War to release twenty-five acres of the lands of the United States at Plattsburgh, New York, to the New York and Canada Railroad Company;"</p>
+<p>H. R. 2264. An act to authorize the Cattaraugus and Allegany Indians in New York to lease lands and confirm leases;</p>
+<p>H. R. 1963. An act for the relief of B. F. Speedy, late first lieutenant Second Battalion six months' Pennsylvania Volunteers;</p>
+<p>H. R. 4050. An act authorizing the Secretary of the Treasury to
+change the name of steamer New England to City of Portland;</p>
+<p>H. R. 3452. An act to provide for the better care and protection of
+subsistence supplies;</p>
+<p>H. R. 3794. An act to sell a vacated soldiers' burial ground near Cumberland, Maryland, to the Hebrew congregation of that city to enlarge their grave-yard;</p>
+<p>When</p>
+<p>The Speaker signed the same.</p>
+<p>A message from the Senate, by Mr. Sympson, one of their clerks:</p> 
+<p><hi rend="italic">Mr. Speaker:</hi> The Senate have passed, without amendment, bills of the House of the following titles, viz:</p>
+<p>H. R. 2104. An act for the relief of Addison Goodell, of Illinois;</p> 
+<p>H. R. 2771. An act for the relief of Isabella Orange;</p>
+<p>H. R. 488. An act to carry into effect the provisions of the treaty be-</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0129.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 20 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d Session	HOUSE OF REPRESENTATIVES   DOCUMENT No. 493 </fw>
+<head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING</head>
+<milestone unit="rule">
+<head>
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule">
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule">
+<opener>
+<dateline><hi rend="right">THE WHITE HOUSE, December 22, 1928. </hi></dateline>
+<salute><hi rend="italic">To the Congress of the United States:</hi></salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<signed><hi rend="right">CALVIN COOLIDGE.</hi></signed>
+<opener>
+<hi rend="right"><dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline></hi>
+MEMORANDUM FOR THE ATTORNEY GENERAL
+</opener>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the </p>
+<fw> 20	REPORT ON POCKET VETO </fw>
+<p>At the bottom of the bill in pencil are the initials "W. I. F." And the bill contains a stamp which is indistinct in part but appears to be</p>
+<quote>Executive Mansion, Feb. 21, 1873.</quote>
+<p>The same session passed a bill granting a pension to Asenath Stephenson. It is marked:</p>
+
+<quote>H. R. 3484. C. W. B.</quote>
+<p>Next follows "An Act to amend an act entitled `An act to remove the charge of desertion from certain soldiers.'" In pencil is "S. 1168." Then this stamp:</p>
+
+<quote><p>War</p>
+<p>1911 3 1873 </p>
+<p>Dep't</p></quote>
+<p>Then in ink are the initials "J. K. K." There is also the stamp:</p>
+
+<quote>Recd. Executive Mansion, Washington, D. C., Feb. 22, 1873.</quote>
+<p>Congress also passed a bill to authorize the Cattaraugus and Allegeny Indians in New York to lease lands. On the margin are the markings:</p>
+
+<quote>H. R. 2264. C. W. B</quote>.
+<p>On the back in pencil are the following:</p>
+
+<quote><p> H. R. 2264</p>
+<p>Not to be signed </p>
+<p>INT.</p></quote>
+<p>At the same session was a bill for the relief of Cowan and Dickinson, of Knoxville, Tennessee. It is marked:</p>
+<quote>
+<p>War</p>
+<p>S. 96. W. W. 1911 1 187</p>3 
+<p>Dep't</p></quote>
+<p>There is a stamp too faint to be read, with the number 413 written in a blank. At the bottom is written:</p>
+
+<quote>1950 G. M. G. O. 1873</quote>
+<p>At the same session was passed an act to establish an assay office at Helena, in the Territory of Montana. It is marked:</p>
+
+<quote>S. 809 W. W.</quote>
+<p>On the side is the word "Treas." On the back is penciled :</p>
+<quote>
+<p>Not to be signed</p>
+<p>G. S. B.</p></quote>
+<p>The last of such unsigned bills of the 42d Congress, third session, which are bound in this volume is one for the relief of the estate of Abel Gilbert and William Gerrish. A penciled slip says:</p>
+
+<p>3rd Sess. 42nd Congress No date on the Law.</p>
+<p>The blanks on the enrolled bill for the number and session of the Congress and the date on which the session began are not filled in. Written and stamped on the bill are the following notations:</p>
+
+<quote><p>War</p>
+<p>H. R. 2902 C. W. B. 2210 2 1873 </p>
+<p>Dep't</p></quote>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

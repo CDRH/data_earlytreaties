@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0979">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">979	S. 4948 (Sixty-second Congress, Second Session &#8212; Taft)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0979</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Taft</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-second Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>979	S. 4948 (Sixty-second Congress, Second Session &#8212; Taft)</head>
+
+<p>Relating to the inherited estates in the Five Civilized Tribes in Oklahoma.</p>
+
+<p>Vetoed August 5, 1912.  The veto message was laid before the Senate on August 6, 1912 and printed as S. Doc. No. 899 (48 <title>Cong. Rec.</title> 10261).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 209.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0979.01.pdf">Veto message relating to inherited estates in the Five Civilized Tribes in Oklahoma.  Message from the President of the United States, returning without approval Senate Bill 4948, entitled “An Act Relating to Inherited Estate in the Five Civilized Tribes in Oklahoma,” together with the report of the Secretary of the Interior in relation thereto</ref>.  (1912).   Senate.  62nd Congress, 2nd session.  Senate Document No. 899 (<title>Serial Set</title> 6179).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 62D CONGRESS, 	SENATE.
+2d Session.	DOCUMENT No. 899. </fw>
+<head>VETO MESSAGE RELATING TO INHERITED ESTATES IN
+THE FIVE CIVILIZED TRIBES IN OKLAHOMA.</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+WITHOUT APPROVAL SENATE BILL 4948, ENTITLED "AN ACT RELATING TO INHERITED ESTATES IN THE FIVE CIVILIZED TRIBES IN OKLAHOMA," TOGETHER WITH THE REPORT OF THE SECRETARY OF THE INTERIOR IN RELATION THERETO.</head>
+<milestone unit="rule />
+<head>AUGUST 6, 1912.-Read, ordered to lie on the table, and to be printed.</head>
+<milestone unit="rule />
+<p>To the Senate:
+I return herewith, without my approval, Senate bill 4948, entitled "An act relating to inherited estates in the Five Civilized Tribes in Oklahoma."</p>
+<p>The reasons for my action are stated in the accompanying letter from the Secretary of the Interior, dated August 5, 1912.</p>
+<closer><signed>WM. H. TAFT.</signed>
+<dateline> THE WHITE HOUSE, 
+August 5, 1912.</dateline></closer>
+<milestone unit="rule />
+<opener>
+DEPARTMENT OF THE INTERIOR,
+<dateline>Washington, August 5, 1912.</dateline>
+</opener>
+<p>My DEAR MR. PRESIDENT: By reference from the White House I am in receipt of Senate bill 4948, as passed by both Houses of Congress, and entitled "An act relating to inherited estates in the Five Civilized Tribes in Oklahoma." I am requested to inform you whether any objection is known to its approval. The bill reads as follows:</p>
+<quote>
+<p>Be it enacted by the Senate and lion e of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs members of the Five Civilized Tribes in Oklahoma made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allottee had died subsequent to May twenty-seventh, nineteen hundred and eight, and<pb n="2" />
+<fw> 2	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+shall not require the approval of the Secretary of the Interior: Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall he valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death. </p><quote>
+<p>The history of this legislation is that prior to April 26, 1906, allotted lands belonging to full-blood Indian heirs, members of the Five Civilized Tribes in Oklahoma, were not subject to alienation unless there had been actual removal of restrictions by the Secretary of the Interior prior to the conveyance. On the date mentioned Congress passed an act providing that such conveyances would be valid if subsequently approved by the Secretary. Disregarding these provisions in the law many conveyances were made for inadequate consideration and in fraud of the rights of the Indians, and extensive litigation has since resulted in connection therewith. The Supreme Court of the United States disposed of the contested questions of law in favor of the Indians, and of the contention of this department in the Marchie Tiger case about a year ago. Meanwhile, however, the effective supervision of this department over many of these transactions was prevented, when on May 27, 1908, Congress passed an act which provided in section 9 thereof as follows (35 Stats., 312):</p>
+<quote>
+<p>That the death of any allottee of the Five Civilized Tribes shall operate to remove all restrictions upon the alienation of said allottee's land: Provided, That no conveyance of any interest of any full-blood Indian heirs in such land shall he valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee: Provided further, That if any member of the Five Civilized Tribes of one-half or more Indian blood shall die leaving issue surviving, born since March fourth, nineteen hundred and six, the homestead of such deceased allottee shall remain inalienable, unless restrictions against alienation are removed therefrom by the Secretary of the Interior in the manner provided in section one hereof, for the use and support of such issue, during their life or lives, until April twenty-sixth, nineteen hundred and thirty-one; but if no such issue survive, then such allottee, if an adult, may dispose of his homestead by will free from all restrictions; if this he not done, or in the event the issue hereinbefore provided for die before April twenty-sixth, nineteen hundred and thirty-one, the land shall then descend to the heirs according to the laws of descent and distribution of the State of Oklahoma, free from all restrictions: Provided further, That the provisions of section twenty-three of the act of April twenty-sixth, nineteen hundred and six, as amended by this act, are hereby made applicable to all wills executed under this section. </p></quote>
+<p>It will be noted that this section reads, "That the death of any
+allottee of the Fve Civilized Tribes shall operate to remove all restrictions," etc. The question having arisen as to whether such restrictions were removed by the death of an allottee which occurred prior
+to the passage of this act, the matter was submitted to the Attorney
+General for an opinion. He exhaustively considered section 9 of the
+act of May 29, 1908, and held that where allottees had died prior to
+the date of that act, conveyances by their full-blood heirs of lands
+inherited from such allottees required the approval of the Secretary
+of the Interior in order to insure their validity, even though the cconveyances might be made subsequent to the date of the act. In a
+later opinion, rendered June 7, 1911, the Attorney General again cconsidered at length this matter in the case of an attempted conveyance
+made April 11, 1906, and held that the land was inalienable. The
+question having arisen in the local courts of Oklahoma, State and
+Federal, two decisions were rendered which were not in accordance
+with the opinion of the Attorney General, but the United States was
+not represented in the suits and the different classes of cases requiring
+consideration in the several tribes do not seem to have been
+have been considered.<pb n="3" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	8 </fw>
+
+From the opinion rendered in the United States District Court in Oklahoma, it appears that the decision of the judge went upon the ground that no reason appeared why Congress should have intended to distinguish between conveyances where the ancestor died prior to May 27, 1908, and conveyances where the ancestor died subsequent to that date. It is believed that a full consideration of the far-reaching effect of his construction of the law under the different conditions, and different statutes and agreements relating to the various tribes would have disclosed such a reason and might have led the court to a different conclusion. At all events the Oklahoma decisions above referred to have not been regarded locally or in this department as finally determining the law, and on January 30, 1912, the bill now under consideration was introduced in the Senate.</p>
+<p>In its then form the bill simply amended the act of May 27, 1908, by adding to section 9 thereof the words "This section shall apply to the lands of all deceased allottees who died prior to the passage of this act." The bill was referred to this department for a report, and on February 26, 1912,.a report was made recommending that the proposed legislation be not enacted. In that report it was pointed out that&#8212;</p>
+<quote>
+The very purpose of the proposed amendment is to give section 9 of the act a retroactive operation so as to annul the effect of the Attorney General's opinion of August 17, 1909, and to validate, without departmental approval, all deeds which were illegally taken by purchasers of Indian lands inherited prior to May 27, 1908. Many fraudulent transactions would be legalized by the passage of this bill. </quote>
+<p>It was also pointed out that there was no reason for opposition to the existing law, requiring the approval of this department in such cases&#8212;</p>
+<quote>
+except by those who seek to avoid the payment of an adequate consideration for the lands received, as the department is now approving deeds executed by full-blood Indian heirs, conveying lands of deceased allottees of the Five Civilized Tribes who died prior to May 27, 1908, whenever it appears that the transaction has been made in good faith and for an adequate consideration.
+</quote>
+<p>There are, however, many cases now pending before the department for approval which would be validated without approval by the Secretary of the Tnterior if Congress should pass an act in the original form of S. 4948, upon which the above departmental report was made, or if that bill in the form in which it was actually passed by Congress should now be permitted to become a law. Among these cases are many where conveyances have been sanctioned by the local Oklahoma courts, but where the price paid to the Indians has been so inadequate that this department has insisted upon a reappraisal, and the white claimants are now tendering substantial amounts in addition to those which they have already paid. They are being disposed of in the department as rapidly as they can be properly considered.</p>
+<p>Notwithstanding the specific statement in the report of the department above quoted, that "many fraudulent transactions would be legalized by the passage of this bill," on April 2, 1912, the bill was reported out of the Senate Committee on Indian Affairs without making any reference to the report of this department and on the same day the bill was called up and passed by the Senate. In the meanwhile, a bill on the same subject had been introduced in the<pb n="4" />
+<fw> 4	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+
+House as H. R. 22083. This bill was not in form an amendment to section 9 of the act of 1908, but read as follows:</p>
+<quote>
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs, members of the Five Civilized Tribes in Oklahoma, made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allottee had died subsequent to May twenty-seventh, nineteen hundred and eight, and shall not require the approval of the Secretary of the Interior.
+</quote>
+<p>On May 14, 1912, the House bill was reported out from the Committee on Indian Affairs without having been referred to this department, and the committee simply stated that the bill was similar to Senate bill 4948, and quoted the report of the Senate committee already mentioned. Two days later, however, the chairman of the House Committee on Indian Affairs requested a report from this department on the House bill. in view of the record then existing it was clear to the department that the matter required the most careful consideration and a letter was written to the Attorney General asking him for an expression of the views of the Department of Justice. I inclose herewith a copy of its reply. I would say in addition to the objections vigorously expressed by the Department of Justice; that great confusion is almost certain to arise from the adoption of the pending bill. The Secretary of the Interior acting under the advice of the Attorney General above referred to, has in many cases not only refused his approval to deeds which would be validated by the pending bill, but has approved deeds to lands in cases where previous deeds, which he had not approved, would be validated by it. There are many other possible complications too numerous for detailed mention here.</p>
+<p>The careful consideration due to the importance of the subject and the pressure of departmental business caused a little delay in sending a report to the House committee. In view of occasional criticism of such delays it should be stated that the Department of the Interior has made approximately 1,000 reports on pending legislation to the present Congress. This does not include the mass of special pension legislation, for which special representatives of the Pension Office are detailed at the Capitol. It takes no account of the personal attendance of the Secretary and other departmental officials upon many meetings of congressional committees. In particular during the past year there have been extraordinary demands upon the office force of the Indian service by investigating committees of the House.</p>
+<p>On June 17, 1912, without waiting for a report from the department, the House bill was called up, and after some discussion was passed. Subsequently &#8212; on the same date, however &#8212; the Senate bill 4948 was called up and all after the enacting clause was stricken out and the language of the House bill substituted. The order by which the House bill had been passed was then vacated. In the discussion of the House bill, the following statement was made:</p>
+<quote>
+Mr. CARTER. Mr. Speaker, I want to repeat what I said some time ago in the discussion on the Indian appropriation bill. We have in Oklahoma what we call a State board of charities and corrections. In that hoard there has been organized a special bureau for the specific purpose of looking after this very character of case&#8212;minor children's allotments and inherited estates. That department is very ably presided over by a young lady named Miss Katie Barnard, and her assistant in charge of this specific work is Dr. J. H. Stolper, and the grafter who gets anything past the vigilant eye of these two guardsmen will have to show something better than they have ever yet conjured up. </quote><pb n="5" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	5 </fw>
+<p>In view of the reference thus made to the recent establishment in Oklahoma of the State board of charities and corrections this department promptly on June 19 wrote to Miss Barnard, inclosing a marked copy of the Congressional Record covering the discussion, and inquired as to the extent of her authority in these matters and whether she had in fact exercised any supervision over the class of cases referred to. Her suggestions were also requested with a view to making a further report to Congress if the conditions seemed to
+justify. To this communication a reply from the assistant commissioner was received in this department on July 26, 1912, and I inclose herewith a copy. I shall call particular attention to some features of this letter later. Before it was received, and on July 13, 1912, the Senate bill was again called up in the Senate, and a motion made to concur in the substitute amendment of the House of Representatives, with the following additional amendment, which was offered from the floor to be inserted at the end of the bill as it had been passed by the House:</p>
+<quote>
+Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall be valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death. </quote> 
+<p>The purpose of the proviso was stated to be to make certain that the deeds in question must be passed on by the county court. Objection was made upon the specific ground that this amendment had never been submitted to the Department of the Interior for a report. Senator Smoot said:</p>
+<p>This is a very, very dangerous way of legislating.</p>
+<p>Senator Lodge said:</p>
+<quote>I do not think it is a wise way to legislate on any bill. The Senate has passed the bill and the House has amended it and it is now proposed that we, without consideration, without understanding the purport of it, in a complicated matter, shall amend the amendment and send it back to the House. It seems to me it ought to take the regular course.</quote>
+<p>The bill was sent back for conference with the House. No report from this department was asked for by the conferees, and on July 19, 1912, a conference report recommending that the Senate agree to the House bill with the amendment which had been proposed in the Senate, was submitted to the Senate and on the same clay was agreed to without discussion. On the same day the conference report was presented in the House and led to a considerable discussion, in which objections to the bill as it was then worded were forcefully pointed out. Nevertheless, the conference report was agreed to.</p>
+<p>The bill as thus passed removes all necessity for securing the approval of the Secretary of the Interior to conveyances of inherited allotments of full-blood Indian heirs, members of the Five Civilized Tribes, made subsequent to May 27, 1908, in cases of allottees who had died prior to that date. This is subject to all of the objections urged in the report of this department on the original measure, and to other additional objections.</p>
+<p>It will be noted that section 9 of the act of May 27, 1908, provided&#8212;</p>
+<quote>That no conveyance of any interest of any full-blood Indian heir in such land shall be valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee. </quote><pb n="6" />
+<fw> 6	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+
+<p>The proviso to the present bill intrusts this approval to&#8212;</p>
+<p>the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death.</p>
+<p>It is stated that many of the Indians who would be affected by this legislation have removed permanently from Oklahoma. The result of this proviso in the pending bill would be to transfer all questions relating to the approval of conveyances in such cases by the heirs of the deceased to courts far removed from the land itself and unfamiliar with its value and the conditions under which conveyances of this character are made</p>
+<p>But the proviso has a much more serious effect than that. It is sweeping in its terms and does not provide for a new approval by any court of deeds of the character herein given. An approval heretofore made possibly at a time when the court assumed that the matter would be passed on by this department, would nevertheless validate the conveyance. Previous approvals of the Oklahoma courts have been given in many cases where the conditions are those forcefully described in the letter from the State Board of Charities and Corrections of Oklahoma. The Department of the Interior is now obtaining for the Indians substantial sums in settlement of just such cases. I am glad to believe that due to the efforts of Miss Barnard's department and to other causes, conditions in this regard in Oklahoma are now greatly improved, but this will be of no avail where approvals have already been given by the local courts I invite special attention to the letter of the Oklahoma Department of Charities and Corrections in this connection. It adds to the explanation given on the floor of the House as to the reason why "there is very little market for this class of titles." The letter, as already stated, was not received until July 26th, which happens to be the very day upon which the engrossed bill was sent to the White House for your approval.</p>
+<p>It makes clear&#8212;</p>
+<p>(1) The appalling extent to which Indian heirs in Oklahoma have been imposed upon in transactions of this character.</p>
+<p>(2) That the State commissioner of charities and corrections has not been and is not now given the assistance necessary to cover the ground.</p>
+<p>(3) That many improper transactions have already been approved by the local courts and would be validated if this bill should become a law.</p>
+<p>(4) That until the State commissioner of charities and corrections has been given adequate assistance the scope of the act of May 27, 1908, should not be extended.</p>
+<p>The complaint of the lack of cooperation from the tribal attorneys is now being given consideration by the department.</p>
+<p>I recommend that the bill be returned to Congress without your approval.</p>
+<closer>Respectfully, yours,	<signed>WALTER L. FISHER, <hi rend="italic">Secretary.</hi></signed>
+
+The PRESIDENT,
+The White House.</closer><pb n="7" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	7 </fw>
+
+<opener>
+DEPARTMENT OF JUSTICE, <dateline>Washington, D. C., May 22, 1912.</dateline>
+The SECRETARY OF THE INTERIOR.
+</opener>
+<p>SIR: I am in receipt of a letter dated the 17th instant from the First Assistant Secretary of the Interior, in which he requests an early expression of the views of this department concerning H. R. 22083, entitled "A bill relating to inherited estates in the Five Civilized Tribes in Oklahoma."</p>
+<p>This bill in substance declares that conveyances made by full-blood members of the Five Civilized Tribes after May 27, 1908, of allotments inherited by them before that date shall have the same effect as if the allottee had died subsequently to that date, and shall not require the approval of the Secretary of the Interior.</p>
+<p>The act of May 27, 1908 (35 <title>Stat.</title>, 312), provides in its ninth section:</p>
+<quote>
+That the death of any allottee of the Five Civilized Tribes shall operate to remove all restrictions upon the alienation of said allottee's land: Provided, That no conveyance of any interest of any full-blood Indian heir in such land shall be valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee. * * * </quote>
+
+<p>In an opinion rendered by the Attorney General August 17, 1909 (27 Opin., 530), it was held that this section is not to be construed retrospectively, and that consequently a conveyance of the allotment of a deceased full-blood allottee could not lawfully be made by his heirs if his death occurred prior to May 27, 1908, the date when that section took effect; but that the approval of the Secretary of the Interior was indispensable to validate such conveyance in view of section 22 of the act of April 26, 1906 (34 <title>Stat.</title>, 137).</p>
+<p>This view, it seems, did not meet with the favor of the Supreme Court of the State of Oklahoma and the United States District Court for the Eastern District of that State in the cases cited in the report of the House committee touching the bill in question. While this is to be regretted, I do not concede that the adverse decisions afford a sufficient reason why the Attorney General should recede from his formal opinion, particularly in view of the fact that in neither of the two cases was the Government represented or directly or indirectly given control of the litigation. Indeed, the case in the United States district court was not brought to the attention of the depart ment until after the period for an appeal therein had expired.</p>
+<p>Whether the opinion of August 17, 1909, be or be not correct, it strikes me that the bill, in so far as it attempts to validate the conveyances already made, is subject to the criticism that it is either altogether unnecessary in that regard or constitutes an attempted violation of the vested rights of the allottees. If, as a matter of law, the heirs have been entitled since May 27, 1908, to alienate without the approval of the Secretary of the Interior and irrespective of the time when their ancestors died, the courts may be relied upon to say so whenever the question is properly presented for judicial determination; and no declaration now by Congress as to what the existing law was intended to mean is to be deemed necessary or proper to influence their action. If, on the other hand, the conveyances which the heirs have made without the assent of the Secretary of the Interior are void, I seriously question the constitutionality of an attempt by Congress, through a retroactive declaration, to make them valid and operative without the consent of the Indian land-owners.</p><pb n="8" />
+<fw> 8	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+<p>The allotments are the property of the heirs until they convey them to others. This private property is protected by the National Constitution as fully as any other property whatsoever, and is not subject to be taken away by an act of Congress any more readily than is the property of a white citizen. In the recent case of Choate et al. v. Trapp, No. 809, October term 1911, the Supreme Court said:</p>
+<quote>
+There have been comparatively few cases which discuss the legislative power over private property held by the Indians. But those few all recognize that he is not excepted from the protection guaranteed by the Constitution. His private rights are secured and enforced to the same extent and in the same way as other residents or citizens of the United States. (In re Heft, 197 U. S., 504; Cherokee Nation v. Hitchcock, 187 U. S., 307; Smith v. Gooddell, 20 Johns (N. Y.), 188; Lowrie v. Weaver, 4 McLean, 82; Whirlwind v. Vanderahe, 67 Mo. App., 62S; Taylor v. Drew, 21 Ark., 487.) His right of private property is not subject to impairment by legislative action, even while he is, as a member of a tribe and subject to the guardianship of the United States as to his political and personal status. </quote>
+<p>If the conveyances made are to be tested by the act of April 26, 1906, they are invalid&#8212;mere nullities&#8212;	without the approval of the Secretary of the Interior. That statute, of course, presupposes that the Secretary, in approving such a conveyance, shall have satisfied himself, among other things, of its fairness and desirability from the standpoint of the Indians and its accordance with the rules and regulations laid down to govern such matters. It would be no less than a repudiation of his plain duty under that statute were the Secretary to approve all such conveyances en bloc without investigation and regardless of whether the Indians had or had not been imposed upon in the transactions. As the present law does not tolerate but would actually condemn such a course upon his part, it seems obvious that Congress would not be justified in the same course upon the theory that it was merely taking over and exercising the function which now is lodged with the Secretary. The proposed validation of the existing conveyances, arbitrarily, and in violation rather than in accordance with the conditions under which they might now lawfully be validated may be difficult to sustain on constitutional principle. The conveyances, as they now stand, being void, the lands sought to be affected remain the property of the Indians as fully as though no conveyances had been made. (See 29 Opin., 131-138.) Congress, it would seem, might as well legislate the title away directly as by this indirect manner of breathing life and force into transactions which, in the eye of the law, are nothing. It may, of course, be argued that they at least suffice to enable the Secretary of the Interior to pass the titles by his approval, and that Congress may properly take unto itself and exercise directly this power which it has vested in him. But, as just indicated, that is not what this bill is intended to accomplish. It is not based upon such an examination into the merits of the transactions as the Secretary would be required to make, or upon any examination at all. I am not here concerned with the question whether such a measure if passed and approved could be technically supported by resort to a presumption that it had been preceded by a proper examination. The inquiry now respects the essential nature and effect of the legislation as determined by the facts as they are.</p>
+<p>I would suggest, therefore, that before this bill is submitted for passage it might well receive the scrutiny of the Judiciary Committee.</p>
+<pb n="9" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	9 </fw>
+<p>In so far as this or any similar measure may be designed to operate prospectively, I have nothing to say beyond this, that such legislation inevitably adds to the number of ignorant and incompetent Indians bereft of the protection of the Federal law and subjected to the mercy of unscrupulous speculators.</p>
+<closer>Very respectfully,
+For the Attorney General:
+<signed>ERNEST KNAEBEL,</signed> Assistant Attorney General </closer>
+<milestone unit="rule" />
+
+<opener>
+<hi rend="right">STATE OF OKLAHOMA, DEPARTMENT OF CHARITIES AND CORRECTIONS,
+Oklahoma City, July 23, 1912.</hi>
+Hon. WALTER L. FISHER,
+Secretary Department of the Interior, Washington, D. C.
+</opener>
+
+<p>DEAR SIR: Your letter of June 19 addressed to Miss Kate Barnard, commissioner of charities and corrections, has been duly received. Miss Barnard has been out of the State for many months as she is in very bad health, and I happened to be out of the State when your letter came and have just returned.</p>
+<p>In regard to the powers and duties of the State commissioner of charities and corrections, I beg leave to say that under our law it is the duty of Miss Barnard to appear as next friend for every minor orphan in the State when it appears to her that the estate is being mismanaged or dishonestly handled. Armed with this authority Miss Barnard has intervened in behalf of approximately 3,000 orphans, nearly all of them Indian children whose estates were being exploited or disposed of by incompetent or grafting guardians. We have had many guardians removed, and we have saved for these children since this law became operative something like $100,000 in money and prevented the sale or return of something like 115,000 acres of land. In a large number of cases we have proceeded by what might be termed arbitration proceedings. In the case of the McCurtain County lands we challenged every transaction made through the county court, and by this means several large holders of land, such as mill corporations, etc., have agreed to abide by the findings of an arbitration hoard. We have several arbitrations involving two or three thousand titles pending. One arbitration has been completed. In this case the Interior Department named Hon. Dana H. Kelsey, this department named Dr. J. H. Stolper, and the party who had profited by many grafting transactions named Judge Thomas C. Humphrey, ex-Federal judge. The result of this arbitration was that $32,000 in cash was returned to the Indians and a number of parcels of land was reconveyed to the original allottees. By terms of the agreement we practically gave a clearance to all titles that we did not find enmeshed with graft and wrongdoing.</p>
+<p>Because this department is only given the services of one lawyer, we have had our hands full, and in fact our legal department has been swamped. Naturally, we have only been able to operate in the several counties where the worst cases of graft were known to exist. I am confident that we could clear up the situation thoroughly did we have enough legal force.</p>
+<p>We have been invited to come down in several counties by county judges who do not seem to be able to compel wholesale guardians to<pb n="10" />
+<fw> 10	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+report, and while we have not been able to cover the ground as thoroughly as we wish to, yet the number of petitions for the sale of Indian children's properties has been reduced almost to a minimum. People are afraid to buy these lands, because they fear that we will intervene and spoil the deal. Therefore our moral power has been really greater than our actual work has shown. We have taken a decided stand against guardians' fees, lawyers' fees, and court fees eating up the proceeds of the sale of children's lands. Of course this does not make us popular with the legal profession, because up to the time we began to operate under the new law it was the fashion for lawyers to appear in most trivial proceedings so that they could get a slice out of the proceeds of children's properties sold by order of probate courts.</p>
+<p>Strange to say, that while nearly all of our efforts have been made in behalf of Indian minor children, we have never received the slightest help, and in many cases we have experienced the open antagonism of the tribal attorneys who have not protected the children themselves but who do not seem to want us to protect them. Of course there may be some politics in this, because this administration is Democratic, while of course nearly all of the tribal attorneys are of the opposite faith. However, at the time we asked for this law it seemed impossible for tribal attorneys or any other attorneys for the children to get any hearing in any of our county courts. It was called Federal interference and was resented by all of the courts, but as soon as we appeared on the scene an entire change was made, and while we had several uphill fights at the start most of the county
+judges now cooperate with us gladly, and, as I stated above, the moral effect has been that the majority of petitions for sale of minor children's properties are very carefully considered and oftentimes refused.</p>
+<p>You will find our law in the revised statutes of Oklahoma, a copy of which will surely be in your law library.</p>
+<closer>Yours, truly,	<signed>H. Huson.</signed></closer>
+
+<milestone unit="rule" />
+
+<p>S. 4948. Sixty-second Congress of the United States of America; at the second session, begun and held at the city of Washington on Monday, the fourth day of December, one thousand nine hundred and eleven.)</p>
+<head>An act relating to inherited estates in the Five Civilized Tribes in Oklahoma.</head>
+
+<p>
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs members of the Five Civilized Tribes in Oklahoma made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allot-tee had died subsequent to May twenty-seventh, nineteen hundred and eight, and shall not require the approval of the Secretary of the Interior: Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall be valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death.</p>
+<closer><signed>CHAMP CLARK,</signed>
+Speaker of the Rouse of Representatives. <signed>J. H. GALLINGER,</signed> President of the Senate pro tempore.</closer>
+
+<note>I certify that this act originated in the Senate.<note>
+<closer><signed>CHAS. G. BENNETT,</signed> Secretary, 
+<signed>By H. M. ROSE,</signed>
+Assistant Secretary.</closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0979.02.pdf"><title>Congressional Record</title> 48, 10261</ref> (1912).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1912.	CONGRESSIONAL RECORD-SENATE.	10261 </fw>
+<p>Mr. BANKHEAD. I had the floor, Mr. President, and asked recognition of the Chair with the suggestion that the Chair has announced.</p>
+<p> The PRESIDENT pro tempore. The Senator from Alabama had addressed the Chair before the morning business was announced as closed, but that did not give him the floor for the purpose indicated. The Senator from Wyoming then addressed the Chair, but the Chair will ask the Senator from Wyoming to withdraw his request in order that there may be no controversy on the subject, so that the Chair may recognize the Sena-tor from Alabama. With the consent of the Senator from Wyoming, the Chair will recognize the Senator from Alabama.</p>
+<p>Mr. BANKHEAD. Then I move that the Senate proceed to the consideration of the bill reported by the Senator from Virginia [Mr. MARTIN].</p>
+<p>Mr. LODGE. I make the point of order that if one objection is made to a bill on the day it is reported it can not again be taken up on that same day</p>.
+<p>The PRESIDENT pro tempore. The Senator is correct. The motion of the Senator from Alabama is not in order, and one objection will carry the bill over until to-morrow.</p>
+<p>Mr. BANKHEAD. Then, Mr President, one further inquiry. Will it be in order to-morrow morning after the morning business to make the motion that I have now submitted to the Senate?</p>
+<p>The PRESIDENT pro tempore. If the Senator makes it at the proper time it will be in order.</p>
+<p>Mr. BANKHEAD. Will the Chair kindly inform me when the proper time will be?</p>
+<p>The PRESIDENT pro tempore. The Chair does not feel called upon to suggest when the proper time will come, but if the present occupant is in the Chair it will then be decided. The Chair has already, in response to a previous inquiry by the Senator from Alabama, stated the time when the motion would be in order.</p>
+<p>Are there further reports of committees? If not, the introduction of bills and joint resolutions is in order.</p>
+
+<head>BILLS INTRODUCED.</head>
+<p>Bills were introduced, read the first time, and, by unanimous consent, the second time, and referred as follows:</p>
+<p>By Mr. SMITH of Michigan:</p>
+<p>A bill (S. 7422) to remove the charge of desertion from the military record of Conrad Springer; to the Committee on Military Affairs.</p>
+<p>By Mr. O'GORMAN:</p>
+<p>A bill (S. 7423) for the relief of Frances A. Bliss; to the Committee on Claims.</p>
+<p>By Mr. MARTIN of Virginia:</p>
+<p>A bill (S. 7424) to amend an act approved July 20, 1912, entitled "An act to authorize Arkansas & Memphis Railway Bridge & Terminal Co. to construct, maintain, and operate a bridge across the Mississippi River"; to the Committee on Commerce.</p>
+<p>By Mr. WARREN:</p>
+<p>A bill (S. 7425) giving a new right of homestead entry to former homesteaders; to the Committee on Public Lands. </p>
+<head>WITHDRAWAL OF PAPERS&#8212;ANDREW MARTIN.</head>
+<p>On motion of Mr. SMITH of Michigan, it was</p>
+<p>Ordered, That leave be granted to withdraw from the flies of the Senate certain papers accompanying the bill S. 4803, Sixty-second Congress, second session, to remove the charge of desertion from the military record of Andrew Martin, no adverse report having been made thereon.</p>
+
+<head>CLAIMS OF GOVERNMENT EMPLOYEES.</head>
+<p>Mr. REED. Mr. President, a few days ago when the Senate&#8212;	</p>
+<p>The PRESIDENT pro tempore. Does the Senator from Missouri rise to morning business? Morning business is not yet concluded.</p>
+<p>Mr. REED. I think the Chair will call it morning business. My explanation will be so brief, anyway, that I can get through it quicker than I can explain what I desire to state.</p>
+<p>A few (lays ago the Senate passed the bill (H. R. 24121) to pay certain employees of the Government for injuries received while in the discharge of their duties, and other claims. Subsequently I gave notice that I desired to enter and would enter a motion to reconsider the votes by which the bill was ordered to a third reading. read the third time, and passed. I now withdraw that motion, and will let the bill stand passed.</p>
+<p>If I may. be permitted, I desire to make a word of explanation. I withdraw the notice at this time because I am satisfied at this late hour of the session, if we were to undertake to further consider the bill, it would result in its not passing at. this session. Therefore I prefer to have the bill stand in its present form.</p>
+<p>The PRESIDENT pro tempore. The notice of the motion of the Senator from Missouri to reconsider is withdrawn. Is there further morning business? If not, that order is closed.</p>
+
+<head>POST-OFFICE SITE AT PERTH AMBOY, N. J.</head>
+<p>Mr. MARTINE of New Jersey. I ask unanimous consent for the present consideration of calendar No. 879, House bill 21888.</p>
+<p>The PRESIDENT pro tempore. The Senator from New Jersey asks unanimous consent for the present consideration of a bill the title of which will be stated.</p>
+<p>The SECRETARY. A bill (H. R. 21888) providing for the sale of the United States unused post-office site at Perth Amboy, N. J.</p>
+<p>The PRESIDENT pro tempore. Is there objection to the request of the Senator from New Jersey for the present consideration of the bill?</p>
+<p>Mr. WARREN; Mr. President, I shall reserve the privilege of objecting if the bill leads to any debate.</p>
+<p>Mr. MARTINE of New Jersey. I desire, if I may be permitted, to say that the bill provides for the sale of the unused site of a former post office at Perth Amboy, N. J. There are parties who are ready to purchase it, and the bill authorizes the Secretary of the Treasury to make the sale.</p>
+<p>The PRESIDENT pro tempore. The Secretary will read the bill for the information of the Senate.</p>
+<p>The Secretary read the bill; and there being no objection, the Senate, as in Committee of the Whole, proceeded to its consideration.</p>
+<p>The bill was reported to the Senate without amendment, ordered to a third reading, read the third time, and passed.</p>
+<p>FIVE CIVILIZED TRIBES IN OKLAHOMA—VETO MESSAGE (S. DOC.
+No. 899).</p>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States, which was read:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, Senate bill 4948, entitled "An act relating to inherited estates in the Five Civilized Tribes in Oklahoma."</p>
+<p>The reasons for my action are stated in the accompanying letter from the Secretary of the Interior, dated August 5, 1912.</p>
+<closer><signed>WM. H. Taft. </signed>
+<dateline>THE WHITE HOUSE, August 5, 1912.</dateline></closer>
+<milestone unit="rule" />
+<opener>
+DEPARTMENT OF THE INTERIOR,
+<dateline>Washington, August 5, 1912.</dateline>
+</opener>
+<p>My DEAR MR. PRESIDENT: By reference from the White House I am in receipt of Senate bill 4948, as passed by both Houses of Congress, and entitled "An act relating to inherited estates in the Five Civilized Tribes in Oklahoma." I am requested to inform you whether any objection is known to its approval. The bill reads as follows:</p>
+<quote>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs members of the Five Civilized Tribes in Oklahoma made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allottee had died subsequent to May twenty-seventh, nineteen hundred and eight, and<pb n="2" />
+shall not require the approval of the Secretary of the Interior: Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall he valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death. </p><quote>
+<p>The history of this legislation is that prior to April 26, 1906, allotted lands belonging to full-blood Indian heirs, members of the Five Civilized Tribes in Oklahoma, were not subject to alienation unless there had been actual removal of restrictions by the Secretary of the Interior prior to the conveyance. On the date mentioned Congress passed an act providing that such conveyances would be valid if subsequently approved by the Secretary. Disregarding these provisions in the law many conveyances were made for inadequate consideration and in fraud of the rights of the Indians, and extensive litigation has since resulted in connection therewith. The Supreme Court of the United States disposed of the contested questions of law in favor of the Indians, and of the contention of this department in the Marchie Tiger case about a year ago. Meanwhile, however, the effective supervision of this department over many of these transactions was prevented, when on May 27, 1908, Congress passed an act which provided in section 9 thereof as follows (35 Stats., 312):</p>
+<quote>
+<p>That the death of any allottee of the Five Civilized Tribes shall operate to remove all restrictions upon the alienation of said allottee's land: Provided, That no conveyance of any interest of any full-blood Indian heirs in such land shall he valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee: Provided further, That if any member of the Five Civilized Tribes of one-half or more Indian blood shall die leaving issue surviving, born since March fourth, nineteen hundred and six, the homestead of such deceased allottee shall remain inalienable, unless restrictions against alienation are removed therefrom by the Secretary of the Interior in the manner provided in section one hereof, for the use and support of such issue, during their life or lives, until April twenty-sixth, nineteen hundred and thirty-one; but if no such issue survive, then such allottee, if an adult, may dispose of his homestead by will free from all restrictions; if this he not done, or in the event the issue hereinbefore provided for die before April twenty-sixth, nineteen hundred and thirty-one, the land shall then descend to the heirs according to the laws of descent and distribution of the State of Oklahoma, free from all restrictions: Provided further, That the provisions of section twenty-three of the act of April twenty-sixth, nineteen hundred and six, as amended by this act, are hereby made applicable to all wills executed under this section. </p></quote>
+<p>It will be noted that this section reads, "That the death of any
+allottee of the Five Civilized Tribes shall operate to remove all restrictions," etc. The question having arisen as to whether such restrictions were removed by the death of an allottee which occurred prior
+to the passage of this act, the matter was submitted to the Attorney
+General for an opinion. He exhaustively considered section 9 of the
+act of May 29, 1908, and held that where allottees had died prior to
+the date of that act, conveyances by their full-blood heirs of lands
+inherited from such allottees required the approval of the Secretary
+of the Interior in order to insure their validity, even though the cconveyances might be made subsequent to the date of the act. In a
+later opinion, rendered June 7, 1911, the Attorney General again cconsidered at length this matter in the case of an attempted conveyance
+made April 11, 1906, and held that the land was inalienable. The
+question having arisen in the local courts of Oklahoma, State and
+Federal, two decisions were rendered which were not in accordance
+with the opinion of the Attorney General, but the United States was
+not represented in the suits and the different classes of cases requiring
+consideration in the several tribes do not seem to have been
+have been considered.<pb n="3" />
+
+
+From the opinion rendered in the United States District Court in Oklahoma, it appears that the decision of the judge went upon the ground that no reason appeared why Congress should have intended to distinguish between conveyances where the ancestor died prior to May 27, 1908, and conveyances where the ancestor died subsequent to that date. It is believed that a full consideration of the far-reaching effect of his construction of the law under the different conditions, and different statutes and agreements relating to the various tribes would have disclosed such a reason and might have led the court to a different conclusion. At all events the Oklahoma decisions above referred to have not been regarded locally or in this department as finally determining the law, and on January 30, 1912, the bill now under consideration was introduced in the Senate.</p>
+<p>In its then form the bill simply amended the act of May 27, 1908, by adding to section 9 thereof the words "This section shall apply to the lands of all deceased allottees who died prior to the passage of this act." The bill was referred to this department for a report, and on February 26, 1912,.a report was made recommending that the proposed legislation be not enacted. In that report it was pointed out that&#8212;</p>
+<quote>
+The very purpose of the proposed amendment is to give section 9 of the act a retroactive operation so as to annul the effect of the Attorney General's opinion of August 17, 1909, and to validate, without departmental approval, all deeds which were illegally taken by purchasers of Indian lands inherited prior to May 27, 1908. Many fraudulent transactions would be legalized by the passage of this bill. </quote>
+<p>It was also pointed out that there was no reason for opposition to the existing law, requiring the approval of this department in such cases&#8212;</p>
+<quote>
+except by those who seek to avoid the payment of an adequate consideration for the lands received, as the department is now approving deeds executed by full-blood Indian heirs, conveying lands of deceased allottees of the Five Civilized Tribes who died prior to May 27, 1908, whenever it appears that the transaction has been made in good faith and for an adequate consideration.
+</quote>
+<p>There are, however, many cases now pending before the department for approval which would be validated without approval by the Secretary of the Tnterior if Congress should pass an act in the original form of S. 4948, upon which the above departmental report was made, or if that bill in the form in which it was actually passed by Congress should now be permitted to become a law. Among these cases are many where conveyances have been sanctioned by the local Oklahoma courts, but where the price paid to the Indians has been so inadequate that this department has insisted upon a reappraisal, and the white claimants are now tendering substantial amounts in addition to those which they have already paid. They are being disposed of in the department as rapidly as they can be properly considered.</p>
+<p>Notwithstanding the specific statement in the report of the department above quoted, that "many fraudulent transactions would be legalized by the passage of this bill," on April 2, 1912, the bill was reported out of the Senate Committee on Indian Affairs without making any reference to the report of this department and on the same day the bill was called up and passed by the Senate. In the meanwhile, a bill on the same subject had been introduced in the<pb n="4" />
+
+House as H. R. 22083. This bill was not in form an amendment to section 9 of the act of 1908, but read as follows:</p>
+<quote>
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs, members of the Five Civilized Tribes in Oklahoma, made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allottee had died subsequent to May twenty-seventh, nineteen hundred and eight, and shall not require the approval of the Secretary of the Interior.
+</quote>
+<p>On May 14, 1912, the House bill was reported out from the Committee on Indian Affairs without having been referred to this department, and the committee simply stated that the bill was similar to Senate bill 4948, and quoted the report of the Senate committee already mentioned. Two days later, however, the chairman of the House Committee on Indian Affairs requested a report from this department on the House bill. in view of the record then existing it was clear to the department that the matter required the most careful consideration and a letter was written to the Attorney General asking him for an expression of the views of the Department of Justice. I inclose herewith a copy of its reply. I would say in addition to the objections vigorously expressed by the Department of Justice; that great confusion is almost certain to arise from the adoption of the pending bill. The Secretary of the Interior acting under the advice of the Attorney General above referred to, has in many cases not only refused his approval to deeds which would be validated by the pending bill, but has approved deeds to lands in cases where previous deeds, which he had not approved, would be validated by it. There are many other possible complications too numerous for detailed mention here.</p>
+<p>The careful consideration due to the importance of the subject and the pressure of departmental business caused a little delay in sending a report to the House committee. In view of occasional criticism of such delays it should be stated that the Department of the Interior has made approximately 1,000 reports on pending legislation to the present Congress. This does not include the mass of special pension legislation, for which special representatives of the Pension Office are detailed at the Capitol. It takes no account of the personal attendance of the Secretary and other departmental officials upon many meetings of congressional committees. In particular during the past year there have been extraordinary demands upon the office force of the Indian service by investigating committees of the House.</p>
+<p>On June 17, 1912, without waiting for a report from the department, the House bill was called up, and after some discussion was passed. Subsequently &#8212; on the same date, however &#8212; the Senate bill 4948 was called up and all after the enacting clause was stricken out and the language of the House bill substituted. The order by which the House bill had been passed was then vacated. In the discussion of the House bill, the following statement was made:</p>
+<quote>
+Mr. CARTER. Mr. Speaker, I want to repeat what I said some time ago in the discussion on the Indian appropriation bill. We have in Oklahoma what we call a State board of charities and corrections. In that hoard there has been organized a special bureau for the specific purpose of looking after this very character of case&#8212;minor children's allotments and inherited estates. That department is very ably presided over by a young lady named Miss Katie Barnard, and her assistant in charge of this specific work is Dr. J. H. Stolper, and the grafter who gets anything past the vigilant eye of these two guardsmen will have to show something better than they have ever yet conjured up. </quote><pb n="5" />
+
+<p>In view of the reference thus made to the recent establishment in Oklahoma of the State board of charities and corrections this department promptly on June 19 wrote to Miss Barnard, inclosing a marked copy of the Congressional Record covering the discussion, and inquired as to the extent of her authority in these matters and whether she had in fact exercised any supervision over the class of cases referred to. Her suggestions were also requested with a view to making a further report to Congress if the conditions seemed to
+justify. To this communication a reply from the assistant commissioner was received in this department on July 26, 1912, and I inclose herewith a copy. I shall call particular attention to some features of this letter later. Before it was received, and on July 13, 1912, the Senate bill was again called up in the Senate, and a motion made to concur in the substitute amendment of the House of Representatives, with the following additional amendment, which was offered from the floor to be inserted at the end of the bill as it had been passed by the House:</p>
+<quote>
+Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall be valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death. </quote> 
+<p>The purpose of the proviso was stated to be to make certain that the deeds in question must be passed on by the county court. Objection was made upon the specific ground that this amendment had never been submitted to the Department of the Interior for a report. Senator Smoot said:</p>
+<p>This is a very, very dangerous way of legislating.</p>
+<p>Senator Lodge said:</p>
+<quote>I do not think it is a wise way to legislate on any bill. The Senate has passed the bill and the House has amended it and it is now proposed that we, without consideration, without understanding the purport of it, in a complicated matter, shall amend the amendment and send it back to the House. It seems to me it ought to take the regular course.</quote>
+<p>The bill was sent back for conference with the House. No report from this department was asked for by the conferees, and on July 19, 1912, a conference report recommending that the Senate agree to the House bill with the amendment which had been proposed in the Senate, was submitted to the Senate and on the same clay was agreed to without discussion. On the same day the conference report was presented in the House and led to a considerable discussion, in which objections to the bill as it was then worded were forcefully pointed out. Nevertheless, the conference report was agreed to.</p>
+<p>The bill as thus passed removes all necessity for securing the approval of the Secretary of the Interior to conveyances of inherited allotments of full-blood Indian heirs, members of the Five Civilized Tribes, made subsequent to May 27, 1908, in cases of allottees who had died prior to that date. This is subject to all of the objections urged in the report of this department on the original measure, and to other additional objections.</p>
+<p>It will be noted that section 9 of the act of May 27, 1908, provided&#8212;</p>
+<quote>That no conveyance of any interest of any full-blood Indian heir in such land shall be valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee. </quote><pb n="6" />
+
+
+<p>The proviso to the present bill intrusts this approval to&#8212;</p>
+<p>the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death.</p>
+<p>It is stated that many of the Indians who would be affected by this legislation have removed permanently from Oklahoma. The result of this proviso in the pending bill would be to transfer all questions relating to the approval of conveyances in such cases by the heirs of the deceased to courts far removed from the land itself and unfamiliar with its value and the conditions under which conveyances of this character are made</p>
+<p>But the proviso has a much more serious effect than that. It is sweeping in its terms and does not provide for a new approval by any court of deeds of the character herein given. An approval heretofore made possibly at a time when the court assumed that the matter would be passed on by this department, would nevertheless validate the conveyance. Previous approvals of the Oklahoma courts have been given in many cases where the conditions are those forcefully described in the letter from the State Board of Charities and Corrections of Oklahoma. The Department of the Interior is now obtaining for the Indians substantial sums in settlement of just such cases. I am glad to believe that due to the efforts of Miss Barnard's department and to other causes, conditions in this regard in Oklahoma are now greatly improved, but this will be of no avail where approvals have already been given by the local courts I invite special attention to the letter of the Oklahoma Department of Charities and Corrections in this connection. It adds to the explanation given on the floor of the House as to the reason why "there is very little market for this class of titles." The letter, as already stated, was not received until July 26th, which happens to be the very day upon which the engrossed bill was sent to the White House for your approval.</p>
+<p>It makes clear&#8212;</p>
+<p>(1) The appalling extent to which Indian heirs in Oklahoma have been imposed upon in transactions of this character.</p>
+<p>(2) That the State commissioner of charities and corrections has not been and is not now given the assistance necessary to cover the ground.</p>
+<p>(3) That many improper transactions have already been approved by the local courts and would be validated if this bill should become a law.</p>
+<p>(4) That until the State commissioner of charities and corrections has been given adequate assistance the scope of the act of May 27, 1908, should not be extended.</p>
+<p>The complaint of the lack of cooperation from the tribal attorneys is now being given consideration by the department.</p>
+<p>I recommend that the bill be returned to Congress without your approval.</p>
+<closer>Respectfully, yours,	<signed>WALTER L. FISHER, <hi rend="italic">Secretary.</hi></signed>
+
+The PRESIDENT,
+The White House.</closer><pb n="7" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	7 </fw>
+
+<opener>
+DEPARTMENT OF JUSTICE, <dateline>Washington, D. C., May 22, 1912.</dateline>
+The SECRETARY OF THE INTERIOR.
+</opener>
+<p>SIR: I am in receipt of a letter dated the 17th instant from the First Assistant Secretary of the Interior, in which he requests an early expression of the views of this department concerning H. R. 22083, entitled "A bill relating to inherited estates in the Five Civilized Tribes in Oklahoma."</p>
+<p>This bill in substance declares that conveyances made by full-blood members of the Five Civilized Tribes after May 27, 1908, of allotments inherited by them before that date shall have the same effect as if the allottee had died subsequently to that date, and shall not require the approval of the Secretary of the Interior.</p>
+<p>The act of May 27, 1908 (35 <title>Stat.</title>, 312), provides in its ninth section:</p>
+<quote>
+That the death of any allottee of the Five Civilized Tribes shall operate to remove all restrictions upon the alienation of said allottee's land: Provided, That no conveyance of any interest of any full-blood Indian heir in such land shall be valid unless approved by the court having jurisdiction of the settlement of the estate of said deceased allottee. * * * </quote>
+
+<p>In an opinion rendered by the Attorney General August 17, 1909 (27 Opin., 530), it was held that this section is not to be construed retrospectively, and that consequently a conveyance of the allotment of a deceased full-blood allottee could not lawfully be made by his heirs if his death occurred prior to May 27, 1908, the date when that section took effect; but that the approval of the Secretary of the Interior was indispensable to validate such conveyance in view of section 22 of the act of April 26, 1906 (34 <title>Stat.</title>, 137).</p>
+<p>This view, it seems, did not meet with the favor of the Supreme Court of the State of Oklahoma and the United States District Court for the Eastern District of that State in the cases cited in the report of the House committee touching the bill in question. While this is to be regretted, I do not concede that the adverse decisions afford a sufficient reason why the Attorney General should recede from his formal opinion, particularly in view of the fact that in neither of the two cases was the Government represented or directly or indirectly given control of the litigation. Indeed, the case in the United States district court was not brought to the attention of the depart ment until after the period for an appeal therein had expired.</p>
+<p>Whether the opinion of August 17, 1909, be or be not correct, it strikes me that the bill, in so far as it attempts to validate the conveyances already made, is subject to the criticism that it is either altogether unnecessary in that regard or constitutes an attempted violation of the vested rights of the allottees. If, as a matter of law, the heirs have been entitled since May 27, 1908, to alienate without the approval of the Secretary of the Interior and irrespective of the time when their ancestors died, the courts may be relied upon to say so whenever the question is properly presented for judicial determination; and no declaration now by Congress as to what the existing law was intended to mean is to be deemed necessary or proper to influence their action. If, on the other hand, the conveyances which the heirs have made without the assent of the Secretary of the Interior are void, I seriously question the constitutionality of an attempt by Congress, through a retroactive declaration, to make them valid and operative without the consent of the Indian land-owners.</p><pb n="8" />
+<fw> 8	VETO MESSAGE RELATING TO INHERITED ESTATES. </fw>
+<p>The allotments are the property of the heirs until they convey them to others. This private property is protected by the National Constitution as fully as any other property whatsoever, and is not subject to be taken away by an act of Congress any more readily than is the property of a white citizen. In the recent case of Choate et al. v. Trapp, No. 809, October term 1911, the Supreme Court said:</p>
+<quote>
+There have been comparatively few cases which discuss the legislative power over private property held by the Indians. But those few all recognize that he is not excepted from the protection guaranteed by the Constitution. His private rights are secured and enforced to the same extent and in the same way as other residents or citizens of the United States. (In re Heft, 197 U. S., 504; Cherokee Nation v. Hitchcock, 187 U. S., 307; Smith v. Gooddell, 20 Johns (N. Y.), 188; Lowrie v. Weaver, 4 McLean, 82; Whirlwind v. Vanderahe, 67 Mo. App., 62S; Taylor v. Drew, 21 Ark., 487.) His right of private property is not subject to impairment by legislative action, even while he is, as a member of a tribe and subject to the guardianship of the United States as to his political and personal status. </quote>
+<p>If the conveyances made are to be tested by the act of April 26, 1906, they are invalid&#8212;mere nullities&#8212;	without the approval of the Secretary of the Interior. That statute, of course, presupposes that the Secretary, in approving such a conveyance, shall have satisfied himself, among other things, of its fairness and desirability from the standpoint of the Indians and its accordance with the rules and regulations laid down to govern such matters. It would be no less than a repudiation of his plain duty under that statute were the Secretary to approve all such conveyances en bloc without investigation and regardless of whether the Indians had or had not been imposed upon in the transactions. As the present law does not tolerate but would actually condemn such a course upon his part, it seems obvious that Congress would not be justified in the same course upon the theory that it was merely taking over and exercising the function which now is lodged with the Secretary. The proposed validation of the existing conveyances, arbitrarily, and in violation rather than in accordance with the conditions under which they might now lawfully be validated may be difficult to sustain on constitutional principle. The conveyances, as they now stand, being void, the lands sought to be affected remain the property of the Indians as fully as though no conveyances had been made. (See 29 Opin., 131-138.) Congress, it would seem, might as well legislate the title away directly as by this indirect manner of breathing life and force into transactions which, in the eye of the law, are nothing. It may, of course, be argued that they at least suffice to enable the Secretary of the Interior to pass the titles by his approval, and that Congress may properly take unto itself and exercise directly this power which it has vested in him. But, as just indicated, that is not what this bill is intended to accomplish. It is not based upon such an examination into the merits of the transactions as the Secretary would be required to make, or upon any examination at all. I am not here concerned with the question whether such a measure if passed and approved could be technically supported by resort to a presumption that it had been preceded by a proper examination. The inquiry now respects the essential nature and effect of the legislation as determined by the facts as they are.</p>
+<p>I would suggest, therefore, that before this bill is submitted for passage it might well receive the scrutiny of the Judiciary Committee.</p>
+<pb n="9" />
+<fw> VETO MESSAGE RELATING TO INHERITED ESTATES.	9 </fw>
+<p>In so far as this or any similar measure may be designed to operate prospectively, I have nothing to say beyond this, that such legislation inevitably adds to the number of ignorant and incompetent Indians bereft of the protection of the Federal law and subjected to the mercy of unscrupulous speculators.</p>
+<closer>Very respectfully,
+For the Attorney General:
+<signed>ERNEST KNAEBEL,</signed> Assistant Attorney General </closer>
+<milestone unit="rule" />
+
+<opener>
+<dateline>STATE OF OKLAHOMA,
+DEPARTMENT OF CHARITIES AND CORRECTIONS,
+Oklahoma City, July 23, 1912. </dateline>
+Hon. WALTER L. FISHER,
+<hi rend="italic">Secretary Department of the Interior, Washington, D. C.</hi>
+</opener>
+<p>DEAR Sir: Your letter of June 19 addressed to Miss Kate Barnard, commissioner of charities and corrections, has been duly received. Miss Barnard has been out of the State for many month's, as she is in very bad health, and I happened to be out of the State when your letter came and have just returned.</p>
+<p>In regard to the powers and duties of the State commissioner of charities and corrections, I beg leave to say that under our law it is the duty of Miss Barnard to appear as next friend for every minor orphan in the State when it appears to her that the estate is being mismanaged or dishonestly handled. Armed. with this authority Miss Barnard has intervened in behalf of approximately 3,000 orphans, nearly all of them Indian children whose estates were being exploited or disposed of by incompetent or grafting guardians. We have had many guardians removed, and we have saved for these children since this law became operative something like $100,000 in money and prevented the sale or return of something like 115,000 acres of land. In a large number of cases we have proceeded by what might be termed arbitration proceedings. In the case of the McCurtain County lands we challenged every transaction made through the county court, and by this means several large holders of land, such as mill corporations, etc., have agreed to abide by the findings of an arbitration board. We have several arbitrations involving two or three thousand titles pending. One arbitration has been completed. In this case the Interior Department named Hon. Dana H. Kelsey, this department named Dr. J. H. Stolper, and the party who had profited by many grafting transactions named Judge Thomas C. Humphrey, ex-Federal judge. The result of this arbitration was that $32,000 in cash was returned to the Indians and a number of parcels of land was reconveyed to the original allottecs. By terms of the agreement we practically gave a clearance to all titles that we did not find enmeshed with graft and wrongdoing.</p>
+<p>Because this department is only given the services of one lawyer, we have had our hands full, and in fact our legal department has been swamped. Naturally, we have only been able to operate in the several counties where the worst cases of graft were known to exist. I am confident that we could clear up the situation thoroughly did we have enough legal force.</p>
+<p>We have been Invited to come down In several counties by county judges who do not seem to be able to compel wholesale guardians to report, and while we have not been able to cover the ground as thoroughly as we wish to, yet the number of petitions for the sale of Indian children's properties has been reduced almost to a minimum. People are afraid to buy these lands, because they fear that we will intervene and spoil the deal. 'Therefore our moral power has been really greater than our actual work has shown. We have taken a decided stand against guardians' fees, lawyers' fees, and court fees eating up the proceeds of the sale of children's lands. Of course this does not make us popular with the legal profession, because up to the time we began to operate under the new law it was the fashion for lawyers to appear in most trivial proceedings so that they could get a slice out of the proceeds of children's properties sold by order of probate courts.</p>
+<p>Strange to say, that while nearly all of our efforts have been made in behalf of Indian minor children, we have never received the slightest help, and in many cases we have experienced the open antagonism of the tribal attorneys who have not protected the children them-selves but who do not seem to want us to protect them. Of course there may be some politics in this, because this administration is Democratic, while, of course, nearly all of the tribal attorneys are of the opposite faith. However, at the time we asked for this law it seemed impossible for tribal attorneys or any other attorneys for the children to get any hearing in any of our county courts. It was called Federal interference and was resented by all of the courts, but as soon as we appeared on the scene an entire change w s made, and while we had several uphill fights at the start most of the county judges now cooperate with us gladly, and, as I stated above, the moral effect has been that' the majority of petitions for sale of minor children's properties are very carefully considered and oftentimes refused.</p>
+<p>You will find our law in the revised statutes of Oklahoma, a copy of which will surely be in your law library.</p>
+<closer>Yours, truly,	<title>H. HUSON.</title></closer>
+<p>S. 4948. Sixty-second Congress of the United States of America; at the second session, begun and held at the city of Washington on Monday, the fourth day of December, one thousand nine hundred and eleven.)</p>
+<head>An act relating to inherited estates in the Five Civilized Tribes in Oklahoma.</head>
+<p>
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That conveyances of inherited allotments by full-blood Indian heirs members of the Five Civilized Tribes in Oklahoma made subsequent to May twenty-seventh, nineteen hundred and eight, in cases of allottees dying prior to May twenty-seventh, nineteen hundred and eight, shall have the same effect as if the allottee had died subsequent to May twenty-seventh, nineteen hundred and eight, and shall not require the approval of the Secretary of the Interior: Provided, That no conveyance of any interest by a full-blood heir of inherited allotted land heretofore or hereafter made shall be valid unless approved by the county court, sitting in probate, of the county where the deceased allottee was a resident at the time of his death.</p>
+<closer><signed>CHAMP CLARK,</signed>
+Speaker of the Rouse of Representatives. <signed>J. H. GALLINGER,</signed> President of the Senate pro tempore.</closer>
+
+<note>I certify that this act originated in the Senate.<note>
+<closer><signed>CHAS. G. BENNETT,</signed> Secretary, 
+<signed>By H. M. ROSE,</signed>
+Assistant Secretary.</closer>
+<p>Mr. GALLINGER. Mr. President, I believe the Senator from Oklahoma [Mr. OWEN] was particularly interested in that bill. I ask that the message with the accompanying papers lie on the table and be printed, in the absence of that Senator.</p>
+<p>The PRESIDENT pro tempore. It will be so ordered in the absence of objection.</p>
+<p>Mr. CULBERSON. Mr. President, I ask that the letter from the Secretary of the Interior upon which the veto message just read is based appear in the RECORD, together with the message.</p>
+<p>The PRESIDENT pro tempore. It will be so ordered. The Chair understood the motion of the Senator from New Hampshire to embrace that.</p>
+<p>Mr. GALLINGER. My motion was that the message and the accompanying papers be printed.</p>
+<p>The PRESIDENT pro tempore. The Chair so understood, and it is so ordered.</p>
+
+
+<head>THE PANAMA CANAL (H. DOC. NO. 900).</head>
+<p>The PRESIDENT pro tempore laid before the Senate the following message from the President of the United States, which was read and referred to the Committee on Interoceanic Canals and ordered to be printed:</p>
+<p>To the Senate and House of Representatives:</p>
+<p>In my annual message of December 6, 1910, I recommended legislation directing the Executive to fix, within limits established by law, the rate of tolls for vessels using the Panama Canal. I then said:</p>
+<p>The present consideration of this question is necessary in order that the commerce of the world may have time to adjust itself to the new conditions resulting from the opening of this new highway.</p>
+<p>In my message of December 21, 1911, I renewed this recommendation, and called attention to the fact that we are now near enough to the completion of the canal to make it imperatively necessary that legislation should be enacted to fix the method by which the canal should be maintained and controlled and the zone governed.</p>
+<p>National as well as international considerations urgently demand the prompt adjustment of those questions, and I therefore deem it my duty again to invite your attention to this subject, in order that the necessary provisions may be made before the close of the present session of Congress.</p>
+<p>There are certain needs which must be satisfied at, once if there is to be no delay in the opening of the canal and the utilization of it by commerce. These needs are</p>
+<p>(1) The organization out of the construction force of a permanent force for the operation of the canal and the government of the zone;</p>
+<p>(2) The announcement of the maximum tolls which will be imposed upon the commerce of the world; and</p>
+<p>(3) The establishment of adequate coaling and other marine facilities, such as dry docks and repair shops.</p>
+<p>If the necessary steps toward these ends be taken, the great waterway can he thrown open to shipping before the close of 1913&#8212;that is, within 15 months.</p>
+<p>The establishment of a permanent organization to operate the canal and exercise our control over the surrounding zone is vital. The manipulation of the locks and the machinery, the administration and maintenance of the canal, will require a force of about 2,500 men, most of whom will need special training in the performance of their duty. As fast as one part after another of the construction is now being completed, the men, especially those with the most initiative, are returning to the United States to engage in other employment. It is plainly the dictate of foresight and economy to blend the present construction force into a trained force for permanent operation, instead of later going through the wasteful process of organizing a new force.</p>
+<p>The establishment of maximum toll rates is another indispensable immediate need of the situation. In order that the canal may secure commerce against its competitors as soon as it can be handled, business must be given an opportunity to adjust itself to the new trade route; in. order. that they may make their calculations and build their ships, shipowners mustknow, about two years in advance, the maximum tolls which they are to be charged. We are already somewhat behind a safe margin of time in informing the commercial world of the proposed tolls, although, in anticipation of the appropriate machinery and in cooperation with committees of Congrees, the War Department has been collecting data under expert direction as to the proper rates of toll and the formulation of working rules as to the basis on which they shall be fixed.</p>
+<p>Finally, an indispensable factor in the success of the canal is the certainty to the shipping world of securing necessary coal and marine facilities at reasonable prices at the canal. The ability to recoal at the Isthmus, instead of carrying coal in ballast to the diminution of income-earning cargo, may be a decisive factor in the availability of the Panama route. The same is true of docking facilities. Such facilities can not be improvised, and express authority should be given at once in order to commence with the necessary construction.
+Congress is now in possession of the fullest information necessary for immediate action in regard to these essential points. Fortunately, there is no serious controversy as to the policy which enters into either of them. The subject is, happily, out-side of the sphere of party differences. The discussions and differences of opinion which have arisen as to other phases of canal policy should not, in my opinion, be allowed to delay action on these vital and pressing subjects, which are by their nature entirely distinct and severable. </p>
+<p>I earnestly again invite your attention to these matters in order that the necessary legislation may be obtained before the coming adjournment of Congress, and in order that the great work which has been so successfully carried on thus far may not be marred in the hour of its completion.</p>
+<closer><signed>Wm. H. TAFT. </signed>
+<dateline>THE WHITE HOUSE, August 6, 1912.</dateline></closer>
+
+<head>MISSOURI RIVER BRIDGE.</head>
+<p>The PRESIDENT pro tempore laid before the Senate the amendment of the House of Representatives to the bill (S. 7195) to authorize the Great Northern Railway Co. to construct a bridge across the Missouri River, which was, on page 1, in lines 8 and 9, to strike out "to be selected by said company and approved by the Secretary of War."</p>
+<p>Mr. MCCUMBER. I move that the. Senate concur in the amendment of the House.</p>
+<p>The motion was agreed to.</p>
+
+<head>POST-OFFICE FACILITIES IN NEW YORK CITY.</head>
+<p>The PRESIDENT <foreign>pro tempore</foreign> laid before the Senate the amendment of the House of Representatives to the bill (S. 7012) to permit the construction of a subway and the maintenance of a railroad under the post-office building at or near Park Place, in the city of New York, which was, on page 1, line 4, after " authorized," to insert " in his discretion,"</p>
+<p>Mr. O'GORMAN. I move that the Senate concur in the amendment of the House.</p>
+<p>The motion was agreed to.</p>
+<head>HOUSE BILLS REFERRED.</head>
+<p>The following bills and joint resolution were severally read twice by their titles and referred to the Committee on military Affairs:</p>
+<p>H. R.17256. An act to fix the status of officers of the Army and Navy detailed for aviation duty, and to increase the efficiency of the aviation service;</p>
+<p>H. R. 25764. An act to subject lands of former Fort Niobrara Military Reservation and other lands to homestead entry; and</p>
+<p>H. J. Res. 333. A joint resolution to authorize the loan of obsolete Springfield rifles, etc., to the Historical Pageant Committee, Philadelphia, Pa.</p>
+<p>The following bills were severally read twice by their titles and referred to the Committee on Commerce:</p>
+<p>H. R. 22199. An act to extend the limits of the port of entry of Galveston, Tex., to <p>include Port Bolivar, in that State; and</p>
+H. R. 25073. An act to authorize the Moline-Bettendorf Bridge Co. to construct a bridge across the Mississippi River between Moline, Ill., and Bettendorf, Iowa.</p>
+<p>H. R.10169. An act to provide for holding the district court of the United States for Porto Rico during the absence from the island of the United States district judge and for the trial of cases in the event of the disqualification of or inability to act by the said judge, was read twice by its title and referred to the Committee on Pacific Islands and Porto Rico.</p>
+<p>H. R. 14053. An act to increase the pensions of surviving soldiers of Indian wars in certain cases, was read twice by its title and referred to the Committee on Pensions.</p>
+<p>H. R. 22526. An act to amend section 8 of an act entitled "An act for preventing the manufacture, sale, or transportation of</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

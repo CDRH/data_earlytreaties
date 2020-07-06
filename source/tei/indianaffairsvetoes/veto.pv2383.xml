@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2383">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2383	H.R. 5036 (Ninety-sixth Congress, Second Session &#8212; Carter)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2383</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Carter</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-sixth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Ute</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2383	H.R. 5036 (Ninety-sixth Congress, Second Session &#8212; Carter)</head>
+
+<p>To convey land in Colorado to the Ute Mountain Ute Tribe.</p>
+
+<p>Vetoed on June 6, 1980.  The veto message was laid before the House, referred to the Committee on Interior and Insular Affairs, and printed as H. Doc. 96-324 (126 <title>Cong. Rec.</title> 13655).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 489.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2383.01.pdf">Veto of H.R. 5036.  Message from the President of the United States vetoing H.R. 5036, an act to require the Secretary of the Interior to convey a parcel of land located in Colorado to the Ute Mountain Ute Tribe and to pay an amount to such tribe for economic development.</ref>  (1980).   Senate.  96th Congress, 2nd session.  Senate   Document No. 324 (<title>Serial Set</title> 13344).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+96th Congress, 2d Session 	House Document No. 96-324
+VETO OF H.R. 5036 MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+VETOING
+H.R. 5036, AN ACT TO REQUIRE THE SECRETARY OF THE INTERIOR TO CONVEY A PARCEL OF LAND LOCATED IN COLORADO TO THE UTE MOUNTAIN UTE TRIBE AND TO PAY AN AMOUNT TO SUCH TRIBE FOR ECONOMIC DEVELOPMENT
+JUNE 9, 1980.-Message and accompanying act referred to the Committee on
+Interior and Insular Affairs and ordered to be printed
+U.S. GOVERNMENT PRINTING OFFICE 59-011 0	WASHINGTON : 1980
+To the House of Representatives :
+I am returning, without my approval, H.R. 5036, a bill that would accord certain land and monetary benefits upon the Ute Mountain Ute Tribe, Colorado and New Mexico.
+Specifically, the enrolled bill would require the Secretary of the Interior (1) to convey approximately 3,000 acres (estimated value of 51.800,000) of public domain land in Colorado to the Ute Mountain Ute Tribe, and (2) to pay $5,840,000 to the tribe for economic development purposes. These benefits would be considered compensation to the tribe for the loss of oil and gas revenues allegedly resulting from an incorrect land survey by the United States Government.
+The central issue raised by H.R. 5036 involves a land dispute in New Mexico between the Ute Mountain Ute Tribe and the Navajo Tribe. Both tribes claimed ownership of the same lands which formed a common boundary between their respective reservations. However, pursuant to the Navajo-Ute Boundary Dispute Act of 1968, the Supreme Court reviewed the case and ruled in favor of the Navajo Tribe in 1972. In addition, there is no legal claim against the United States and in light of the Supreme Court decision, I do not believe this legislation should be approved.
+This legislative relief is unwarranted because of the preferential treatment and special advantage it would accord the Ute Mountain Ute Tribe vis-a-vis other tribes whose circumstances may be similar.
+
+JIMMY CARTER.
+THEWHITE HOUSE, June 6, 1980. (1)
+2
+Ninety-sixth (Congress of the united States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Thursday, the third day of January,
+one thousand nine hundred and eighty
+an act
+To require the Secretary of the Interior to convey a parcel of land located in Colorado to the Ute Mountain Ute Tribe and to pay an amount to such tribe for economic development.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That within the thirty-day period beginning on the date of the enactment of this Act the Secretary of the Interior shall convey, without consideration, to the Ute Mountain Ute Tribe, all right, title, and interest of the United States in and to the parcel of land located in the State of Colorado described in section 3 and all mineral interest of the United States in and to the parcel of land located in the State of Colorado, county of Gunnison, commonly known as the Pinecrest Ranch, and more fully described in a warranty deed, book 325, pages 6-8 (reception numbered 234174) on file in the Office of the County Clerk and Recorder for Gunnison County. The parcel of land described in section 3 shall not be considered Indian country for any purpose and shall be subject to State and local governmental jurisdiction and taxation.
+SEC. 2. The Secretary of the Interior shall pay to the Ute Mountain Ute Tribe for the economic development of lands owned by such tribe, from sums appropriated therefor, the sum of $5,840,000 in accordance with an economic development program submitted to the Secretary by the Ute Mountain Ute Tribe and approved by the Secretary.
+SEC. 3. The parcel of land conveyed pursuant to the first section consists of-
+(1) in township 48 north, range 3 west, New Mexico principal meridian-
+(A) the northwest quarter, the west half of the northeast quarter, and the west half of the southeast quarter, in section 19; and
+(B) the north half of the northwest quarter and the
+northwest quarter of the northeast quarter, in section 30;
+(2) in township 48 north, range 4 west, New Mexico principal meridian-
+(A) the east half of the northwest quarter, the south half of the northeast quarter, and the north half of the southeast quarter, in section 9;
+(B) the south half, the northwest quarter of the northeast quarter, and the southeast quarter of the northeast quarter, in section 10;
+(C) the south half of the northeast quarter, the northeast quarter of the southeast quarter, and the south half of the southeast quarter, in section 11;
+(D) the north half of the northwest quarter, the northeast quarter, and the east half of the southeast quarter, in section 13;
+3
+(E) the east half of the southeast quarter and the south-west quarter of the northwest quarter, in section 14;
+(F) the west half of the northeast quarter and the south half of the southwest quarter, in section 15;
+(G) the northeast quarter of the southeast quarter in section 16;
+(H) the southeast quarter of the southeast quarter in section 17;
+(I) the northeast quarter of the northeast quarter in section 20;
+(J) the northeast quarter of the southeast quarter in section 21;
+(K) the northeast quarter of the northeast quarter and the north half of the southwest quarter, in section 23;
+(L) the west half of the northeast quarter, the southeast quarter of the northeast quarter, the west half of the southeast quarter, and the northeast quarter of the south-east quarter, in section 26; and
+(M) the east half of the northeast quarter in section 29; and (3) in township 47 north, range 4 west, New Mexico principal meridian-
+(A) the northeast quarter of the northwest quarter in section 10;
+(B) the west half of the northwest quarter in section 15;
+(C) the east half of the southeast quarter and the southeast quarter of the northeast quarter, in section 16;
+(D) the southeast quarter of the southeast quarter in section 20;
+(E) the north half of the northeast quarter, the southwest quarter of the northeast quarter, the northwest quarter of the southeast quarter, the northeast quarter of the south-west quarter, and the south half of the southwest quarter, in section 21;
+(F) the northwest quarter of the southeast quarter in section 27; and
+(G) the northeast quarter of the northeast quarter in section 29.
+SEC. 4. The enactment of this Act shall fully satisfy all claims against the United States by the Ute Mountain Ute Tribe relating to the dispute over ownership of lands located in New Mexico and described as townships 31 and 32, range 16 west of the New Mexico principal meridian.
+4
+SEC. 5. Effective October 1, 1980, there is authorized to be appropriated to the Secretary of the Interior the sum of $5,840,000 to carry out section 2. Any sums appropriated under the authority contained in this section shall remain available until expended by the Secretary.
+Speaker of the House of Representatives.
+Vice President of the United States and President of the Senate.
+
+</body>/floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2383.02.pdf"><title>Congressional Record</title> 126, 13655-13656</ref> (1980).</bibl>
+<!-- <floatingText>
+<body>
+June 9, 1980	CONGRESSIONAL RECORD—HOUSE	13655
+President Carter has put his own policies into reverse so many times that it appears he has finally stripped his Presidential gears. Clearly he has lost his "clutch" on leadership and should be taken out of the driver's seat in November. We need Ronald Reagan in the White House in 1981 and leave the driving to us.
+DELIBERATELY CAUSED RECESSION
+DESTROYS BALANCED BUDGET
+(Mr. GINGRICH asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)
+Mr. GINGRICH. Mr. Speaker, unemployment has escalated 1.6 percent in just 2 months. Inflation ravages the pay-checks of those who still have jobs. Yet in this House we maintain the fiction that things are fine, that people are not really suffering, that the budget process is working.
+For 3 months, the country was promised a balanced budget. Tax revenues were to go up $96 billion in the new budget. Such an increase in tax revenues is cruel, unfair, and counterproductive. But the House passed that budget. Now we face the biggest recession since 1938, and a severely unbalanced budget.
+How big will the 1981 deficit be? Hobart Rowen says at least $20 billion. Eileen Shanahan says $30 billion. The Kiplinger newsletter says $40 billion. Alan Abelson of Barron's says $50 billion. The chamber of commerce says $55 billion. National Review says $80 billion.
+In 1976 we set an all-time record with a $66 billion Federal deficit. Next year we may break that record. We may go from what was billed as the first balanced budget in 12 years to the biggest deficit in our history—in the space of a few months.
+Perhaps that means Congress can change things when it wants to. To me it signifies an utter lack of foresight and failure of leadership.
+THE LATE HONORABLE TOM
+PICKETT
+(Mr. BROOKS asked and was given permission to address the House for 1 minute and to revise and extend his re-marks.)
+Mr. BROOKS. Mr. Speaker, it is my sad duty to announce today that a distinguished former Member of Congress from Texas, Thomas Augustus Pickett, better known as Tom Pickett, died in Leesburg, Fla., on Saturday morning.
+He was born in Texas in 1906, and received his law degree from the University of Texas. He was the Anderson County attorney from 1931 to 1935, and district attorney from 1933 to 1945. He came to Congress in the 79th Congress in 1945 and served until 1955, when he resigned and went to work with the National Coal Association until 1961, after which hebecame vice president of the Association of American Railroads until November 1967, when he retired and moved to Florida and lived there.
+Many of us knew him. We all respected him. He was an able, articulate, and perceptive man.
+The Texas delegation joins me in ex-pressing our deepest sympathy to his lovely wife, Louise.
+I ask unanimous consent that all Members be given 5 days to extend their remarks on this distinguished former Member.
+GENERAL LEAVE
+Mr. BROOKS. Mr. Speaker, I ask unanimous consent that all Members may have 5 legislative days in which to extend their remarks on the life, character, and public service of the late Honor-able Thomas Augustus Pickett.
+The SPEAKER. Is there objection to the request of the gentleman from Texas?
+There was no objection.
+^ 1220
+MAY THE BEST DEMAGOGUE
+WIN IN NOVEMBER
+(Mr. BAUMAN asked and was given permission to address the House for 1 minute and to revise and extend his remarks.)
+Mr. BAUMAN. Mr. Speaker, on last Thursday the President of the United States used the East Room of the White House to launch a partisan political at-tack on Gov. Ronald Reagan, the next President of the United States.
+Mr. Carter got out the old mud bucket and threw the first mudball of the campaign by calling Ronald Reagan a demagogue.
+Now, I think most fair minded people will feel that is unjustified, but I went to Webster's Dictionary and found out that the preferred meaning of "demagogue" is:
+A leader or orator in ancient times who championed the cause of the common people: a leader of the popular party in the state.
+So I guess in that sense Ronald Reagan is a modern day leader of the common people. The second preferred meaning of "demagogue" in Webster's is :
+One who employs demagogic methods; especially: a political leader who seeks to gain personal or partisan advantage by specious or extravagant claims, promises, or charges.
+In that sense, I would suggest that President Carter is certainly qualified to be called a demagogue in light of his specious charge that Governor Reagan is a demagogue.
+May the best demagogue win in November; in the ancient sense and best sense of the word I think we all know who that is.
+COMMUNICATION FROM THE
+CLERK OF THE HOUSE
+The SPEAKER laid before the House the following communication from the Clerk of the House of Representatives :
+WASHINGTON, D.C.,
+June 9, 1980. Hon. Monies P. O'NEILL, Jr.,
+The Speaker, House of Representatives, Washington, D.C.
+DEAR MR. SPEAKER: I have the honor to transmit sealed envelopes received from the White House as follows:
+(1) At 1:05 p.m. on Friday, June 6, 1980 and said to contain a message from the President wherein he transmits the Annual Re-port of the Department of Health, Education and Welfare on Occupational Safety and Health for 1979.
+(2) At 1:05 p.m. on Friday, June 6, 1980 and said to contain H.R. 5036, An Act to re-quire the Secretary of the Interior to convey a parcel of land located in Colorado to the Ute Mountain Ute Tribe and to pay an amount to such tribe for economic development, and a veto message thereon.
+With kind regards, I am,
+Sincerely,
+EDMUND L. HENSHAW, Jr.,
+Clerk, House of Representatives. W. RAYMOND COLLEY.,
+Deputy Clerk.
+ANNUAL REPORT OF DEPARTMENT OF HEALTH, EDUCATION, AND WELFARE ON OCCUPATIONAL SAFETY AND HEALTH FOR 1979—MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+The SPEAKER laid before the House the following message from the President of the United States; which was read and, together with the accompanying papers, referred to the Committee on Education and Labor.
+(For message, see proceedings of the Senate of Friday, June 6, 1980, page 13612.)
+ACCORDING CERTAIN LAND AND MONETARY BENEFITS UPON UTE MOUNTAIN UTE TRIBE—VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 96-324)
+The SPEAKER laid before the House the following veto message from the President of the United States:
+To the House of Representatives:
+I am returning, without my approval, H.R. 5036, a bill that would accord certain land and monetary benefits upon the Ute Mountain Tribe, Colorado and New Mexico.
+Specifically, the enrolled bill would require the Secretary of the Interior (1) to convey approximately 3,000 acres (estimated value of $1,800,000) of public domain land in Colorado to the Ute Mountain Ute Tribe, and (2) to pay $5,840,000 to the tribe for economic development purposes. These benefits would be considered compensation to the tribe for the loss of oil and gas revenues allegedly resulting from an incorrect
+HeinOnline- 126 <title>Cong. Rec.</title> 13655 1980
+13656	CONGRESSIONAL RECORD—HOUSE	June 9, 1980
+land survey by the United States Government.
+The central issue raised by H.R. 5036 involves a land dispute in New Mexico between the Ute Mountain Ute Tribe and the Navajo Tribe. Both tribes claimed ownership of the same lands which formed a common boundary between their respective reservations. However, pursuant to the Navajo-Ute Boundary Dispute Act of 1968, the Supreme Court reviewed the case and ruled in favor of the Navajo Tribe in 1972. In addition, there is no legal claim against the United States and in light of the Supreme Court decision, I do not believe this legislation should be approved.
+This legislative relief is unwarranted because of the preferential treatment and special advantage it would accord the Ute Mountain Ute Tribe vis-a-vis other tribes whose circumstances may be similar.
+JIMMY CARTER. THE WHITE HOUSE, June 6, 1980.
+The SPEAKER. The objections of the President will be spread at large upon the Journal, and the message and bill will be printed as a House document.
+Mr. UDALL. Mr. Speaker, I ask unanimous consent that the message, together with the accompanying bill, be referred to the Committee on Interior and Insular Affairs.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+There was no objection.
+GENERAL LEAVE
+Mr. UDALL. Mr. Speaker, with reference to the request just agreed to, I ask unanimous consent that all Members may have 5 legislative days in which to revise and extend their remarks.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+There was no objection.
+
+
+REPEALING AND AMENDING CERTAIN LAWS REGULATING TRADE BETWEEN INDIANS AND CERTAIN FEDERAL EMPLOYEES
+Mr. UDALL. Mr. Speaker, I ask unanimous consent to take from the Speaker's desk the bill (H.R. 3979) to repeal and amend certain laws regulating trade between Indians and certain Federal employees, with Senate amendments there-to, concur in Senate amendments numbered 1 through 17, and concur in Senate amendment No. 18 with amendments.
+The Clerk read the title of the bill.
+The SPEAKER. The Clerk will report the Senate amendments and the House amendments to Senate amendment No. 18,
+The Clerk read the Senate amendments and the House amendments to Senate amendment No. 18. as follows:
+Senate amendments: Page 2. lines 1 and 2. strike out ", direct or indirect—" andinsert "in such officer, employee, or agent's name, or in the name of another person where such officer, employee, or agent benefits or appears to benefit from such interests—".
+Page 2, line 6, strike out "of" the second time it appears and insert "or".
+Page 2, line 17, strike out "employee" and insert "officer, employee, or agent".
+Page 2, line 22, strike out "employee" and Insert "officer, employer, or agent".
+Page 2, line 25, strike out all after "dian" over to and including "or" in line 2 on page 3 and insert "of any real or personal property (or any interest therein) for the purpose of commercially selling, reselling, trading, of bartering such property; or".
+Page 3, line 9, strike out "employee" and insert "officer, employee, or agent".
+Page 3, line 13, strike out "employee" and insert "officer, employee, or agent".
+Page 3, line 13, strike out "engage in such a purchase or sale" and insert "have such an interest".
+Page 3, line 16, strike out "employee" and insert "officer, employee, or agent".
+Page 3, line 18, strike out "employee" and insert "officer, employee, or agent".
+Page 3, line 19, strike out "installation; or" and insert "installation: Provided further, That (1) any such designee may not be a relative by blood or marriage of the officer, employee, or agent engaging in such purchase or sale; (2) with respect to purchases or sales by any officer, employee, or agent employed at the reservation, agency, or service unit level, such designee must be employed at not less than one grade level higher than such officer, employee, or agent at the Washington, District of Columbia, central office or at an area office installation other than that with authority over such reservation, agency, or service unit; (3) with respect to purchases or sales by any officer, employee, or agent employed at the area office level, such designee must be employed at not less than one grade level higher than such officer, employee, or agent at the Washington, District of Columbia, central office; and (4) the Secretary must approve purchases or sales by any officer, employee, or agent employed at the Washington, District of Columbia, central office; or".
+Page 4, line 3, strike out "employee" and insert "officer, employee, or agent".
+Page 4, line 8, strike out "employee" and insert "officer, employee, or agent".
+Page 4, line 23, strike out "land."." and insert : land.
+Page 4, after line 23, insert:
+"(e) For purposes of this section, the term 'Bureau of Indian Affairs' means the Bureau of Indian Affairs and the Office of the Assist-ant Secretary for Indian Affairs, both in the Department of the Interior.".
+Page 5, line 5, after "transaction" insert ", other than one involving the sale of property held in trust or subject to a restriction against alienation imposed by the United States.".
+Page 5, line 9, strike out "valid." and insert "valid, subject to all valid transactions subsequent to such time.".
+Page 5, after line 20, insert:
+SEC. 5. (a) On and after the effective date of this Act, the following tract of land shall be held in trust for the Wa-He-Lute Indian School for its beneficial use as an Indian school and community center for educational or cultural purposes:
+Part of Government lot 2, section 8, town-ship 18 north, range 1 east, Willamette meridian. Thurston County, Washington, described more particularly as follows: Government lot 2, section 8, township 18 north, range 1 east, Willamette meridian, Thurston County, Washington. except excluding that portion which begins at the northeast corner of the
+William Packwood Donation Claim Numbered 37, thence south along the east line of said claim, 655 feet to the point of beginning, thence south 655 feet; -hence east 420 feet; thence north 655 feet; thence west 420 feet to place of beginning; all in section 8, town-ship 18 north, range 1 east, Willamette meridian, except including a strip of land 0.7 foot in width, lying along the north boundary of said excluded tract, acquired by the United States of America on February 23, 1942, by Declaration of Taking filed in United States District Court, Western District of Washington, Southern Division.
+(b) Legal title to the land described in subsection (a) shall remain in the United States under the administration of the Secretary of the Interior who shall hold the above-described tract of land in trust for the Wa-He-Lute Indian School so long as it is used for any of the above-mentioned purposes, and the beneficial title of the Wa-He-Lute Indian School shall terminate and full title shall revert to the United States if such school ceases to use such land for educational or cultural purposes.
+House amendments to Senate amendment No. 18: Amend Senate amendment No. 18 by:
+(1) Changing subsection (a) by deleting "held in trust for the Wa-He-Lute Indian School for its benefical use" and inserting in lieu thereof "held by the Secretary of the Interior for the Wa-He-Lute Indian School for its use" and
+(2) Amending subsection (b) to read :
+"Title to the land described in subsection (a) shall remain in the United States under the administration of the Secretary of the Interior who shall hold the above-described tract of land for the Wa-He-Lute Indian School so long as it used for any of the above-mentioned purposes. At such time as the land ceases to be used for the above purposes, title thereto shall be taken in trust for the benefit of Willy Frank, Nisqually Enrollee No. 19 (November 8, 1976), or his heirs.".
+Mr. UDALL (during the reading) . Mr. Speaker, I ask unanimous consent that the Senate amendments and the House amendments to Senate amendment No. 18 be considered as read and printed in
+the RECORD.
+The SPEAKER. Is there objection to the request of the gentleman from Arizona?
+Mr. LUJAN. Mr. Speaker, reserving the right to object, I simply ask the gentle-man from Arizona if he would explain what those amendments are all about.
+Mr. UDALL. If the gentleman will yield, Mr. Speaker, H.R. 3979, as passed by the House, amended existing laws by eliminating certain harsh restrictions on commercial transactions between Indians and Federal employees. These laws were enacted in the 1800's to protect uneducated, unsophisticated Indians from undue influence and overreaching by Federal employees.
+The sanctions for violation of these laws are penal in nature, including a fine and automatic dismissal from office. These laws are generally obsolete and H.R. 3979 would amend them to ease their harsh application and penalties.
+The Senate passed the bill with 18 separate amendments. Seventeen of these are primarily technical and clarifying amendments proposed by the Interior Department and we have no objection to them.
+The 18th amendment provides that a small tract of Federal land in Thurston
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.1.3.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="treaties.kapplermap">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title level="m" type="main">Kappler's map: The Platte River image from the <title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title></title>
+<author>Charles D. Bernholz</author>
+<author>Jane Fitzgerald</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2013</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<idno></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date></date>  <name>Erin Pedigo</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<front>
+<div1>
+<head type="heading"></head>
+                
+<milestone unit="crosses"/>
+                
+<docAuthor>Charles D. Bernholz<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+
+<docAuthor>Jane Fitzgerald<lb/>
+National Archives and Records Administration<lb/>
+Washington, DC 20408<ref n="**" target="f02"/>
+</docAuthor>
+                
+</div1>
+         
+<milestone unit="crosses"/>
+            
+<div1>
+<head>Abstract</head>
+                
+    <p>In the second volume of his <title>Indian Affairs: Laws and Treaties</title> collation, Charles J. Kappler employed a map to denote the lands ceded by the <title><ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm">Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</ref></title>.  This image, along with the instrument’s text, was taken from the <title>Statutes at Large</title>.  The plat is distinctive in its status as the only map to appear in the volumes of the <title>Statutes</title> before 1907.</p>
+</div1>
+</front>
+    
+    <body>
+        <head type="heading">Kappler's map: The Platte River image from the <title>Treaty with the Pawnee: Grand, Loups, Republicans, etc., 1848</title>
+        </head>
+        
+        <milestone unit="crosses"/>
+        
+        <quote><p>"Were all the maps in this world destroyed and vanished under the direction of some malevolent hand, each man would be blind again, each city be made a stranger to the next, each landmark become a meaningless signpost pointing to nothing.” <lb/>
+            Beryl Markham (<title>West with the Night,</title> 1942, p. 245)</p></quote>
+        
+        <milestone unit="crosses"/>
+        
+        <div1>
+<div2>
+<head>Preamble</head>
+    <p>Indian affairs have been a complicated undertaking for the federal government.  In the late eighteenth century, treaties were created with a few tribes to assure security against the British who still resided within North America.  During the nineteenth century, hundreds of transactions were established to quell unrest during national expansion and especially the Manifest Destiny drive to the Pacific.  As a result, and specifically during the last few years before the advent of the twentieth century, the Commissioner of Indian Affairs included a request in his annual presentations to Congress for an accurate and current compilation of those dealings and of the laws and executive orders pertaining to these Indian events.</p>
+    <p>The reports of the Commissioner of Indian Affairs for 1899 and 1900, for example, contained appeals by Commissioner William Atkinson Jones (1844-1912; Baird, 1979) for such an ensemble.<ref target="n01" n="1">1</ref>   His concern was made clear in the first document:  “For many years there has been an increasing demand upon this office for a publication containing all ratified treaties and agreements made between the various Indian tribes and the United States.  Such a work would be very valuable for reference by the Executive Departments of the Government, by the Indian committees in Congress when considering legislation affecting Indian tribes, and also by the … Indian tribes themselves…” (Annual reports of the Department of the Interior for the fiscal year ended June 30, 1899, Indian Affairs, Part I, 1899, p. 75).</p>
+    <p>Senator William M. Stewart of Nevada (1827-1909; Elliott, 1983) submitted a resolution to assemble a collation of pertinent materials (Compilation on Indian Affairs, 1902a) and steered the process through the Senate (Compilation on Indian Affairs, 1902b; Treaties, laws, etc., relating to Indian affairs, 1903) with a promise of a volume that would be “accurate, well-indexed and [have] the approval of the Interior Department” (Compilation of Indian Affairs, 1902b, p. 5664).  His secretary, Charles J. Kappler (1868-1946), was appointed to accomplish this task and eventually completed the five-volume <title>Indian Affairs: Laws and Treaties</title> suite, with the first and second volumes published in 1903, and then again in 1904 as a second edition (Charles Kappler is Authority on Indian Laws and Treaties, 1941; Kappler, 1903a, 1903b, 1904a, 1904b, 1913, 1929, and 1941; Bernholz and Weiner 2008a and b).  At that time, all but nine of the recognized documents were scattered within ten volumes of the <title>Statutes at Large</title> (see Bernholz, Pytlik Zillig, Weakly, and Bajaber, 2006 for those nine absent instruments).  A concurrent resolution in December 1903 mandated that all these collected <title>Statutes</title> materials would be available within a single source (<title>Indian treaties</title>, 1904).  The second volume of Kappler’s publication &#8212; <title>Indian Affairs: Treaties</title> &#8212; unambiguously fulfilled this objective and for the last century has served as an important reference source of these sometimes controversial contracts.</p>
+    <p>The Preface in volume 1 (1903a, p. iii) declared that “[t]he general form of the <title>Statutes at Large</title> has been followed, as being familiar to publicists and lawyers and best suited to meet practical requirements,” with the additional proviso that “in the text it was found expedient to follow the orthography of the <title>Statutes</title>.”  Thus, a firm and direct linkage was created between the <title>Statutes at Large</title> and this compilation’s contents.  Kappler added enhanced titles to these instruments, thereby identifying more of the individual participating entities.  As one such example, his <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title></ref> (henceforth <title>Pawnee</title>) was derived from the <title>Treaty with the Pawnee</title> in the <title>Statutes</title> (9 <title>Stat.</title> 949).</p>
+</div2>
+
+<div2>
+    <head>The <title>Statutes at Large</title>: the source of Kappler’s texts</head>
+    <p>The Library of Congress provides a useful site to celebrate the history of the United States.  This resource &#8212; <ref type="url" target="http://memory.loc.gov/ammem/amlaw/"><title>A Century of Lawmaking for a New Nation</title></ref> &#8212; offers access to important journals, statutes, documents, and Congressional records.  It furnishes, as well, brief histories of these assets.  In particular, the <title>Statutes at Large</title> are described as “the official source for the laws and resolutions passed by Congress.”  On 3 March 1845, Congress approved a joint resolution &#8212; A resolution to authorize the Attorney General to contract for copies of a proposed edition of the laws and treaties of the United States (5 <title>Stat.</title> 798) &#8212; to initiate the collection of these legal instruments.  In part, this new series was to be published by Little and Brown, and was to contain “all treaties with foreign nations and Indian tribes” that were to be “arranged in strict chronological order” (p. 799).  Production was to be carried out “from stereotype plates, in the style proposed by the said Little and Brown” (p. 799) and the firm was ordered to “execute to the United States a conveyance of the stereotype plates from which the first copies shall be printed, for the purpose of printing the additional copies thereof, in such form that in whosesoever hands the plates may be at any future and distant period of time” (p. 800).<ref target="n02" n="2">2</ref>   Almost three decades later, the Government Printing Office began to administer this responsibility, through An act providing for publication of the revised statutes and the laws of the United States (1874).  Title XXVIII of the <title>Revised Statutes of the United States</title> devoted four chapters to provisions for Indians regarding a) the officers of Indian affairs and their duties and compensation; b) the performance of engagements between the United States and Indians; c) the government and protection of Indians; and d) the government of Indian country (18 <title>Stat.</title> 359).</p>
+    <p>This initial resolution for the publication of the <title>Statutes</title> was endorsed during the second session of the twenty-eighth Congress and so the first few volumes were dedicated to bringing the series up to date.  Therefore, volume 1 of the <title>Statutes</title> covered the 1st through the 5th Congresses; volume 2 the 6th through the 12th; volume 3 the 13th through the 17th; volume 4 the 18th through the 23rd; and volume 5 the 24th through the 28th.  Volume 6 listed the private acts of all these Congresses.  As an additional step to gain a broad and complete view, volume 7 was devoted to “Treaties between the United States and the Indian tribes” (7 <title>Stat.</title> i), while the succeeding tome was reserved for “Treaties between the United States and foreign nations, from the Declaration of Independence of the United States to 1845; with notes” (8  <title>Stat.</title> v).  In 1903, Kappler purposely used the seventh  <title>Statutes</title> volume to transcribe those official federal treaty text versions into his second <title>Indian Affairs: Treaties</title> volume, thereby assembling about two-thirds of the total number of transactions formed by the tribes and federal authorities.  The remaining instruments had been published in subsequent <title>Statutes</title> volumes as negotiations between the government and various Indian entities continued during the nineteenth century and Kappler made use of these as well.</p>
+</div2>
+
+<div2>
+<head>A recent example of treaty application</head>
+    <p>Indian treaties are the law of the land and as such are brought before the courts as evidence of the delivery of federal promises, or of the failure to do so.  While Wishart (1985) has far more on this series of litigation, the <ref type="url" target="http://www.pawneenation.org/">Pawnee Indian tribe of Oklahoma</ref> (see Parks, 2001) in 1947 petitioned the Indian Claims Commission to adjudicate eight separate assertions against the federal government.<ref target="n03" n="3">3</ref>   Five of these allegations were directly related to Pawnee territorial sovereignty over 33,000,000 acres of central Nebraska and Kansas that had been part of the cessions of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0416.htm"><title>Treaty with the Pawnee, 1833;</title></ref> the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848;</title></ref> and the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0764.htm"><title>Treaty with the Pawnee, 1857</title></ref> (<title>Pawnee Indian Tribe of Oklahoma v. United States,</title> 1950, p. 230).<ref target="n04" n="4">4</ref>   The Pawnee established their claims to recover upon their immemorial possession and occupation of these areas, and “the alleged recognition of their right to the claimed territory by the three treaties…” (p. 231).  In its decision, the Commission instead rejected the idea that the Pawnee had been resident: “It has not been established by the record in this case that claimant tribe actually occupied, used or possessed, to the exclusion of other Indian tribes, any part of the lands lying south of the Platte River, except the undefined area of land included within their one village site on the south bank of the Platte” (p. 236).</p>
+    <p>Subsequently, the Pawnee appealed to the United States Court of Claims (<title>Pawnee Indian tribe of Oklahoma v. the United States</title>, 1953).  The Articles and an accompanying map (Fig. 1) of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title></ref> were used by the tribe as evidence of their presence along the Platte River near today’s Grand Island in Nebraska: “The treaty included a map or plat of the area ceded which appellant alleges contains approximately 110,418 acres of land for which the United States paid $2,000” (p. 862).</p>
+
+    <figure><graphic facs="tr-kappler.map.jpg"/><figDesc>Fig. 1 The map accompanying the 1848 <title>Treaty with the Pawnee</title> in the 
+        <title>Statutes at Large</title> (9 <title>Stat.</title> 949).</figDesc></figure>
+
+    <p>Article 1 of the 1848 treaty stated the boundaries of that area, and this was supplemented by that plat: “The confederated bands of the Pawnees hereby cede and relinquish to the United States all their right, title, and interest in and to all that tract of land described as follows, viz: Commencing on the south side of the Platte River, five miles west of this post, ‘Fort Childs;’ thence due north to the crest of the bluffs north of said Platte River; thence east and along the crest of said bluffs to the termination of Grand Island, supposed to be about sixty miles distant; thence south to the southern shore of said Platte River; and thence west and along the southern shore of the said Platte River to the place of beginning.”<ref target="n05" n="5">5</ref></p>
+    <p>The Court of Claims concluded that “[i]t is difficult to see how the treaty containing the above language and description of the land ceded, along with the facts recited by the Commission, can justify the conclusions (1) that the treaty and the circumstances surrounding its negotiation and execution indicated that the Government did not intend to recognize and acknowledge Indian title in the Pawnees to the land described, and (2) that the Pawnees did not own to the exclusion of other Indians such land” (<title>Pawnee Indian tribe of Oklahoma v. the United States</title>, 1953, p. 890).  The case dragged on until 1964, ending with a “financial appeasement” (Wishart, 1985, p. 184) of roughly $3,500 for each enrolled member (Providing for the disposition of judgment funds now on deposit to the credit of the Pawnee tribe of Oklahoma, 1964).</p>
+</div2>
+
+<div2>
+<head>Maps and plats</head>
+    <p>Absent the final outcome of this suit, a point of special interest here is the use before the courts of this 1848 transaction’s map, or <title>plat</title>, as identified in Kappler’s version of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848.</title></ref>  In the <title>Statutes</title>, Article 1 of those dealings terminated with the geographic image and the caption: “The land hereby conveyed is designated within the red lines of the following plat,” with the bracketed proviso that “NOTE &#8212; <emph>The red lines in the original plat are designated by dotted lines in this copy</emph>” (9 <title>Stat</title> 949; emphasis original).  Kappler took his <title>Pawnee</title> treaty text directly from the <title>Statutes at Large</title> and thus promptly inserted the image as the only map employed in his entire volume devoted to the treaties with the tribes.</p>
+    <p>Indeed, an examination of his <title>Treaties</title> volume reveals that the term <emph>map</emph> appeared just five times in four transactions &#8212; twice in Article 2 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/qua0160.htm"><title>Treaty with the Quapaw, 1818</title></ref>; and once in each of Article 1 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/cho0652.htm"><title>Treaty with the Choctaw and Chickasaw, 1854</title></ref>, Article 2 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/cho0706.htm"><title>Treaty with the Choctaw and Chickasaw, 1855</title></ref>, and Article 1 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/chi0974.htm"><title>Treaty with the Chippewa of the Mississippi, 1867</title></ref> (Kappler, 1904b, pp. 160-161, 652-653, 706-714, and 974-976, respectively).  Besides two uses in the 1848 <title>Pawnee</title> contract itself, the correlated token <emph>plat</emph> occurred once in Article 12 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/chi0418.htm"><title>Treaty with the Chickasaw, 1834</title></ref> and five times throughout the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/wya0677.htm"><title>Treaty with the Wyandot, 1855</title></ref> (pp. 418-425 and 677-681).</p>
+    <p>Other images regarding the negotiations between the federal government and the Indians had been presented elsewhere, most notably in Charles C. Royce’s <title>Indian Land Cessions in the United States, 1784-1894</title>, a part of the 18th Annual Report of the Bureau of American Ethnology (1899).  In particular, the cession made by the Pawnee in 1848 is shown in green on Royce’s <ref type="url" target="http://usgwarchives.org/maps/cessions/ilcmap41.htm">Nebraska map</ref> as transaction number 270, but the notation conveys very little geographical information other than its setting within this state.</p>
+</div2>
+
+<div2>  
+<head>Selecting the location of the "new" Fort Kearny</head>
+    <p>This treaty and the production of this plat were not created haphazardly.  The general locale was explored many times (see Simpson, 1876, pp. 13-38), including extensive surveys by two members of the U.S. Army Corps of Topographical Engineers (see Beers, 1942a and b), Stephen H. Long (1784-1864; Malone, 1943, vol. 11, p. 380; James, 1972), and John C. Fr&#233;mont (1813-1890; Malone, 1943, vol. 7, pp. 19-23).  The latter’s report (1845) was particularly important in setting the stage for later excursions that commenced well into the 1850s.</p>
+    <p>Fr&#233;mont’s adventures were critical to the development of a firm understanding of the geographical composition of the United States.  However, another dividend attended these probes.  As Anne F. Hyde stated in her Introduction to <title>Fr&#233;mont’s First Impressions: The Original Report of His Exploring Expeditions of 1842-1844</title> (2012, p. xvii; emphasis added), “Fr&#233;mont’s text and Preuss’s maps also asserted American ownership of the West with the powerful act of naming.  Even before they were actually part of the United States, places became familiar and even domesticated when they had names.  Monikers like Fremont Peak, the Carson River, and Carson Pass <emph>labeled these places as Anglo-American space, not Native American space.”</emph><ref target="n06" n="6">6</ref>   The settlers’ migration across the continent was expedited by the apparent ease of venturing forth implied by Fr&#233;mont, but it was the tribes who ultimately suffered the most during these transitions.</p>
+    <p>As a continuation of Fr&#233;mont’s experiences, Congress in May 1846 passed An act to provide for raising a regiment of mounted riflemen, and for establishing military stations on the route to Oregon (1846) that appropriated “a sum not exceeding two thousand dollars for making compensation to the Indian tribes which may own or possess the ground on which the said station may be erected, and for each station” (§6, p. 14).  The first section of that act had proposed “a regiment of mounted riflemen” that would operate in the quest for determining new forts.  Under this provision, a fresh military unit was created, led by Lieutenant-Colonel Ludwell E. Powell of the Battalion of Missouri Mounted Volunteers, and formed to replace regular Army elements that were engaged in the Mexican War (1846-1848).  At the end of the War and just months after the treaty with the Pawnee was signed, the Volunteers were disbanded (Powell’s Battalion Missouri Mounted Volunteers, 1889).</p>
+    <p>The new fort along the Platte River was destined to replace the original but poorly positioned Fort Kearny on the Missouri River that had been constructed to protect travelers on the Oregon Trail (Willman, 1930, pp. 215-217; Barnes, 2008, pp. 61-62).  Lieutenant Daniel P. Woodbury (1812-1864; Malone, 1943, vol. 20, pp. 485-486), another Army topographical engineer, was assigned the responsibility to locate a site for this facility.  Cullum’s <title>Biographical Register of the Officers and Graduates of the U. S. Military Academy</title> (1868, p. 497) disclosed that Woodbury served as the “Superintending Engineer of the construction of Ft. Kearny, Neb., and Ft. Laramie, Dak[ota].”<ref target="n07" n="7">7</ref>   Today, the official web site for Hall County in Nebraska offers <ref type="url" target="http://www.hallcountyne.gov/content.lasso?page=7429">access to historical maps of the Grand Island and Hall County area.</ref>  One of their figures &#8212; entitled “U.S. Engineering Department’s ‘Grand Island’ &#8212; 1847” &#8212; is a plat created during that preliminary survey that, according to its legend in the lower right hand corner, was sent as part of Woodbury’s report dated 10 November 1847.<ref target="n08" n="8">8</ref></p>
+    <p>In that report (Military correspondence-War Department relating to Fort Kearny, 1930, pp. 250-354) to the Chief Engineer of the Army, Colonel Joseph G. Totten (1788-1864; Malone, 1943, vol. 18, pp. 598-599), Woodbury specifically offered his “view of locating the first military station on the route to Oregon” near Grand Island (p. 250).<ref target="n09" n="9">9</ref>   The proposed site was “17 miles from the turn off to Independence, 317 miles from Independence, about 300 miles from Ft. Leavenworth, <emph>197 miles from Ft. Kearny</emph>, and two or three miles from the head of the group or head of Grand Island” (p. 252; emphasis added).  Part of that letter spoke of “a sketch of the route and of the upper part of the Island” that was attached; this was the “U.S. Engineering Department’s ‘Grand Island’ &#8212; 1847” image that is now accessible through the Hall County Web site.  Woodbury also spoke of considerable timber on the Island: “cotton wood, scrub elm, small willows, and scattering ash and a very few cedars” (p. 252), which probably contributed to the contents of Article 3 of the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title></ref> that announced that “[t]he United States shall have the privilege of using any hard timber that may at any time be needed, situate upon Wood River, immediately north of the land hereby conveyed.”<ref target="n10" n="10">10</ref></p>
+    <p>In December 1847, Woodbury wrote to Totten for $15,000 to finance the construction of this recommended installation (Military correspondence-War Department relating to Fort Kearny, 1930, p. 254).  In June 1848 and at the onset of assembly (p. 256), he requested that the fort be named after his father-in-law, Major Thomas Childs, but this title was never officially implemented and, instead, an order was given in January 1849 that”[b]y direction of the War Department, under the date of the 19th inst., the fort at Grand Island, Platte river, is named <emph>Fort Kearny</emph>” (p. 257; emphasis original).  Woodbury acknowledged this directive in February (p. 258).</p>
+    <p>Eventually, the new fortifications &#8212; still locally identified as Fort Childs – appeared in the preamble and in the text of the 1848 transaction with the Pawnee that conveyed the entire strip of land near Grand Island: “Treaty with the Pawnees; articles of agreement and convention made this sixth day of August, A. D. 1848, at <emph>Fort Childs</emph>, near the head of Grand Island, on the south side of the Nebraska or Great Platte River, between Lieutenant-Colonel Ludwell E. Powell, commanding battalion Missouri Mounted Volunteers, en route to Oregon, in behalf of the United States, and the chiefs and head-men of the four confederated bands of Pawnees, viz: Grand Pawnees, Pawnee Loups, Pawnee Republicans, and Pawnee Tappage, at present residing on the south side of the Platte River” (Kappler, 1904b, p. 571; emphasis added).  As might be expected of a full participant during these negotiations, Woodbury is listed as a member of the treaty’s signatories as <emph>D. P. Woodbury, lieutenant, Engineers.</emph><ref target="n11" n="11">11</ref>   The $2,000 from Congress, through one expenditure or another, were conveyed under Article 2 of the negotiations: “In consideration of the land hereby ceded and relinquished, the United States has this day paid, through Captain Stewart Van Vliet, assistant quartermaster United States Army, under an order from Lieutenant-Colonel Ludwell E. Powell, commanding battalion Missouri Mounted Volunteers, to the said four bands collectively, on the execution of this treaty, <emph>the amount of two thousand dollars in goods and merchandise</emph>, the receipt of which is hereby acknowledged” (p. 571; emphasis added).  A collation of materials, published along with Willman’s 1930 article on Fort Kearny, identified a number of pieces of military correspondence between Woodbury and the War Department about the initial survey in 1847 and the concluding visit and treaty negotiations a year later in August 1848 (Military correspondence-War Department relating to Fort Kearny, 1930).</p>
+    <p>It is important to consider that many of the names of geographical sites &#8212; and in particular, of forts &#8212; within the United States have changed over time.  In this specific instance, an installation named after Colonel Stephen Watts Kearny was placed in May 1846 along the Missouri River near Nebraska City but the station was abandoned after it was realized that the protection it was designed to afford travelers was ineffective.  Woodbury’s survey led to a new Fort Kearny; the prefix <emph>new</emph> was frequently used to differentiate these two installations (Frazer, 1965, pp. 87-88).</p>
+    <p>Woodbury’s journey along the Platte River in Nebraska in 1847 was focused on locating the optimal locale to position that alternate military fort, in part to protect those adventurers who simultaneously invaded both the West and tribal lands.  His topographical skills were utilized in illuminating that venture’s report.  The following summer, he returned with the federal treaty party that consummated the <title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title> and it seems reasonable to assume that, while in attendance, Woodbury rendered the map that ultimately found its way into the <title>Statutes at Large.</title>  Just a few years later, the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/sio0594.htm"><title>Treaty of Fort Laramie, with Sioux, etc., 1851</title></ref>  was concluded, not at Fort Laramie,<ref target="n12" n="12">12</ref>  but rather at a site closer to Fort Kearny in an area near the western edge of Nebraska.  Article 1 of that 1851 contract stated: “The aforesaid nations, parties to this treaty, having assembled for the purpose of establishing and confirming peaceful relations amongst themselves, do hereby covenant and agree to abstain in future from all hostilities whatever against each other, to maintain good faith and friendship in all their mutual intercourse, and to make an effective and lasting peace.”</p>
+    <p>These intentions were undoubtedly upon clearing more completely the paths required by the increasing volume of settlers destined for the Pacific (see Bernholz and Pytlik Zillig, 2010 and 2011).  It too was exactly the task assigned to Lieutenant-Colonel Powell’s mission, according to the Court of Claims opinion for <title>Pawnee Indian tribe of Oklahoma v. the United States</title> (1953, pp. 890-891): “Following the 1833 Treaty, whereby the Pawnees ceded all of their land south of the Platte River, a number of Pawnees continued to reside in their old villages on the south side of the River and by 1847 their presence constituted a nuisance, and occasionally a menace, to white emigrant trains passing through this area on their way to Oregon. Because of this situation, Lt. Col. Ludwell E. Powell, Commander of the Battalion of Missouri Volunteers, was ordered to visit the Pawnees on his way west and to compel their removal north of the Platte.  The [Indian Claims] Commission stated in its opinion that Powell was also charged with the duty of establishing military posts along the route to Oregon for the protection of white emigrants and for the maintenance of peace among the Indian tribes along the route.  Although it was apparent that Powell concluded the 1848 Treaty in furtherance of that duty, his special duty was to compel the removal of all the Pawnees north of the Platte.”  As the Commission discussed, the target area for the cession was declared in the Preamble of the treaty by reference to “the four confederated bands of Pawnees, viz: Grand Pawnees, Pawnee Loups, Pawnee Republicans, and Pawnee Tappage, at present <emph>residing on the south side of the Platte River</emph>” (9 <title>Stat.</title> 949; emphasis added).</p>
+</div2>
+
+<div2>
+    <head>Variants of the <title>Pawnee</title> treaty map</head>
+    <p>Over the years, three general depictions of this transaction’s cession area were created:
+
+<list type="unordered">
+
+    <item>the survey map attached to Woodbury’s 1847 report; </item>
+
+    <item>the drawing in the treaty file at the National Archives that displays a very faint red border surrounding the actual transferred lands, as indicated by the <title>Statutes</title> caption “The red lines in the original plat are designated by dotted lines in this copy” (see the <title>Treaties with Indian Tribes and Related Records</title> entry in Matchette [1995, p. 11-2] for the federal microfilm product M668); and</item>
+
+    <item>the uncolored <title>Statutes at Large</title> (9 <title>Stat.</title> 949) image that was presented in President James K. Polk’s proclamation of the treaty; in the treaty’s entry in <title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> (1873); in Kappler’s 1903 and 1904 editions of volume 2 of <title>Indian Affairs: Laws and Treaties</title> (1903b, p. 423 and 1904b, p. 571); and in Parry’s (1969, p. 310) reproduction of Kappler’s 1904 rendering.<ref target="n13" n="13">13</ref>    Meyer (1984, p. 73; emphasis added) employed a notation for a 6 August 1848 record in his <title>Special Chronological List</title> of “‘Confederated Pawnee, Fort Childs Treaty’ Cession of land around the Platte River (<emph>diagram included</emph>), use of timber on Wood River, fidelity, arbitration” to describe the contents of the <ref type="url" target="http://digital.library.okstate.edu/kappler/Vol2/treaties/paw0571.htm">1904 Kappler text</ref> used in the <title>Consolidated Treaty Series.</title></item>
+</list>
+</p>
+
+        <p>In addition, three important compilations of international diplomacy offered the text, but failed to include the plat of the <title>Pawnee</title> transaction:
+
+<list>
+    <item>the <foreign>Nouveau recueil g&#233;n&#233;ral de trait&#233;s, conventions et autres transactions remarquables, servant à la connaissance des relations &#233;trangères des puissances et &#233;tats dans leurs rapports mutnels</foreign> (1856, pp. 214-215) that had a series of dashes after the treaty’s phrase “The land hereby conveyed is designated within the red lines of the following plat;” </item>
+
+    <item>the <foreign>Recueil manuel et pratique de trait&#233;s et conventions: sur lesquels sont &#233;tablis les relations et les rapports existant aujourd’hui entre les divers &#233;tats souverains du globe, depuis l’ann&#233;e 1760 jusquà l’&#233;poque actuelle</foreign> (1856, pp. 248-249) that affixed the remark <foreign>“Ici se trouve joint une carte marquant le cours de la riviere”</foreign> (“Here is attached a map marking the course of the river”) in the same position; and</item>
+
+    <item>the <title>British and Foreign State Papers</title> volume for the years 1849-1850 (1862, pp. 1213-1214) that pronounced in brackets “Here follows a plan of the River Platte.”</item></list>
+
+It should be noted as well that the writing style employed for the identifier <emph>Wood River</emph> on Woodbury’s 1847 survey map does not match the script of the same phrase on the diagram now contained in the 1848 <title>Pawnee</title> files at the National Archives and Records Administration, nor does it match the lettering in the <title>Statutes at Large</title> image, or in any other publication &#8212; like Kappler’s <title>Treaties</title> volume &#8212; that employed the <title>Statutes</title> graphic, thereby suggesting some other participant(s) in the presentation and/or publishing of these plans subsequent to the submission of Woodbury’s report.</p>
+</div2>
+
+<div2>
+<head> The last century, along the Platte</head>
+    <p>The new Fort Kearny (Willman, 1930) was placed at the western end of Woodbury’s survey area; the notation “Lat. 40° 33’, Long. 99° nearly” occurred in the <title>Statutes at Large</title> and subsequently in Kappler’s <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Pawnee</title></ref> text.  One may observe immediately that this statement is different from the one on the original treaty’s map.  In those paired <title>Statutes</title>/Kappler instances, the remark was “Lat. 40° <emph>38'</emph>, Long. 99° nearly” (9 <title>Stat</title> 949 and Kappler, 1904b, p. 571; emphasis added).  This five minute geographical discrepancy is equal to 5 nautical miles, or 5¾ statute miles (Cotter, 1969, pp. 25-26).  The <ref type="url" target="http://www.nebraskastudies.org/0400/frameset_reset.html?http://www.nebraskastudies.org/0400/stories/0401_0135.html">present location</ref> has been confirmed as 40° 38′ 35” N, 99° 0′ 20” W.  Thus, the initial estimate of its position at the time of negotiations was quite accurate, i.e., within three-quarters of a mile of the true site if the original longitude value was taken as exactly 99°.  However, the <ref type="url" target="http://www.usgs.gov/ohr/">United States Geological Survey (USGS)</ref> still calls this newer facility <ref type="url" target="http://geonames.usgs.gov/pls/gnispublic/f?p=132:3:2203016887641674::NO::P3_FID,P3_TITLE:1873803%2CFort%20Kearney%20%28historical%29">Fort <emph>Kearney</emph></ref><ref target="n14" n="14">14</ref>   and the original one to the east &#8212; on the Missouri River at 40° 40′ 40” N, 95° 50′ 45” W &#8212; as <ref type="url" target="http://geonames.usgs.gov/pls/gnispublic/f?p=132:3:1409350276404453::NO::P3_FID,P3_TITLE:1680825%2CFort%20Kearny%20%28historical%29">Fort <emph>Kearny</emph>.</ref></p>  
+    <p>Today, the USGS creates 7.5 minute topographic maps to present the land mass of America.  These images show how the Platte River has changed since the mid-nineteenth century, and while the original treaty and Kappler’s map contained five significant land masses in the waterway, only four major ones seem to remain today.  Meline had observed, just two decades after the treaty event, that “[i]t’s name &#8212; Platte &#8212; is said to be significant of the character of this shallow and many-channeled river, which is platted into myriads of islands, and sandbars.  One of these islands, known as Grand Island, was, a few years ago, ninety miles long &#8212; probably the longest river island in the world.  The new channels, forced by high water, have recently cut it into four islands” (1867, p. 21).  Along the path of the River, and “eleven miles west of Fort Kearney,” Meline believed that the “number of wooded islands here, picturesquely grouped, remind you vividly of the Thousand Islands of the St. Lawrence” (p. 21).  Two decades earlier, Captain James A. Pritchard had taken in the same vista, declaring that it was “hardly possible to guess at the width of the river as we seldom see the whole at once, on account of the numerous islands that are scattered from shore to shore” (Morgan, 1959, p. 63).  The plethora of these places remains clearly indicated in the USGS topographic map <title>Kearney, Nebr.</title> (1963).  Woodbury had warned in his report to Totten that “[t]he term Grand Island I shall continue to use for the sake of convenience, but <emph>there is no such thing as any one great island</emph> &#8212; there are two or more wide islands running side by side and smaller ones innumerable” (Military correspondence-War Department relating to Fort Kearny, 1930, p. 251; emphasis added).</p>
+    <p>Eight quadrangle maps (each published in 1963, from plane table surveys)<ref target="n15" n="15">15</ref>   show, from west to east: the new Fort Kearny (in the southeast corner of <emph>Kearney, Nebr.</emph>), the expanse of the River and the multitude of isles downstream towards the city of Grand Island (traversing each of <emph>Kearney, Nebr.; Newark, Nebr.; Gibbons South, Nebr.</emph>; and <emph>Denman, Nebr.</emph>), and then Elm Island, Shoemaker Island, Mormon Island, and Indian Island in the chart series of <emph>Prosser, Nebr.; Wood River, Nebr.; Alda, Nebr.</emph>: and <emph>Doniphan, Nebr.</emph>  Beyond this region, the narrowness and relatively unobstructed nature of the Platte River in the southeast corner of <emph>Grand Island, Nebr.</emph> suggest that the eastern end of Indian Island in the northeast portion of <emph>Doniphan, Nebr.</emph> signifies the same terminus of the unnamed island (presumed to be the so-called Grand Island by Meline in 1867) that predominates along the northern edge of the image in the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/paw0571.htm"><title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848.</title></ref></p>
+</div2>
+
+<div2>
+    <head>The unique status of the <title>Pawnee</title> map</head>
+    <p>The utilization of this Pawnee image is distinctive, more so because it is the only map to be found in the first thirty-three volumes of the <title>Statutes at Large</title>.  The third part of volume 34 of the <title>Statutes</title> in 1907 has a series of proclamations made by President Theodore Roosevelt as part of his forest reserves program under An act for the preservation of American antiquities (1906) initiative.<ref target="n16" n="16">16</ref>    A number of decrees, found in the <title>Statutes</title> for “setting aside” or for “setting apart” or for “enlarging boundaries” of many reserves (34 <title>Stat.</title> i), surrounds one made on 12 October 1905 for the purpose of Setting apart the Jemez Forest Reserve, New Mexico (34 <title>Stat.</title> 3182).  It is only at this point in the volumes of the <title>Statutes</title>, however, that the inclusion of maps begins.  Here, the township plat or survey for this Jemez Forest Reserve (p. 3183) initiates a lengthy series of chart usage for supplementing these <title>Statutes</title> descriptions.  The transition is a remarkable one, since the announcement preceding the one for the Jemez Forest Reserve was declared just over a week earlier &#8212; on 3 October 1905 &#8212; for the Little Belt Mountains Forest Reserve in Montana.  The Little Belt Mountains’ “Description” paragraph employed the traditional township specifications process (<title>Manual of Surveying Instructions</title>, 2009), commencing with the remarks “Beginning at the north-east corner of Township fifteen (15) North, Range ten (10) East, Principal Meridian, Montana; thence southerly to the south-west corner of Township fifteen (15) North, Range eleven (11) East…” (34 <title>Stat.</title> 3180).  For Jemez, the notice instead included the directive framed as “… shown as the Jemez Forest Reserve <emph>on the diagram forming a part hereof”</emph> (34 <title>Stat.</title> 3182; emphasis added).  Many more such plats were included in this volume’s array of proclamations, terminating on the last page before the volume’s index with a diagram accompanying the statement of 2 March 1907 for the Tillamook Forest Reserve in Oregon (34 <title>Stat.</title> 3311).  These <emph>visual</emph> township renderings for these regions, however, were nothing more than an alternative approach to the customary <emph>textual</emph> township presentations.  A very clear specimen of this visual approach may be seen in the austere figure that accompanies Roosevelt’s 1908 proclamation for the Dakota National Forest, North Dakota (35 <title>Stat.</title> 2207).  The two townships devoted to the reserved lands are escorted by eight others, presented only as empty survey grids.  Woodbury’s <title>Pawnee</title> plot, instead, was formed in the best <emph>cartographic</emph>, not surveying, tradition and so was a unique presentation within the <title>Statutes</title> for almost a century.<ref target="n17" n="17">17</ref>  </p>
+</div2>
+
+<div2>
+<head>Conclusions</head>
+    <p>After the <title>Treaty with the Pawnee &#8212; Grand, Loups, Republicans, etc., 1848</title>, there were many more treaties consummated with American Indians.  In the universe of the three hundred seventy-five recognized such transactions created before the end of treaty making in 1871 (Bernholz, Pytlik Zillig, Weakly, and Bajaber, 2006; Bernholz, 2003), <title>Pawnee</title> was just the two hundred fifty-second such contract.  The taking of tribal land was always a problem in these relationships, but many Indian entities had been forced to negotiate with the flimsiest of surveys and/or boundary markers.  For example, the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/cho0069.htm"><title>Treaty with the Choctaw, 1803</title></ref> used the phrases “thence up the said creek <emph>to a Pine tree standing on the left bank of the same, and blazed on two of its sides”</emph> and <emph>“a large broken top Cypress-tree</emph> standing near the opposite bank of the creek to designate ceded areas” (emphasis added).  <title>Pawnee</title>, alone among all such dealings, pivoted upon a <emph>map</emph> 
+as geographical evidence of that agreement: the usage of the descriptor “along the crest of said bluffs” was thereby more clearly made known to all through the accompanying plat.</p>
+    <p>However, for the Pawnee (just as for countless other tribes in the West), the invasion persisted too long and &#8212; coupled with the occurrence of disease, inter-tribal conflict, and the extensive fort building along the Platte River &#8212; progressively more of their land was lost.  Thus, the tribal claims of unconscionable considerations brought forward in the second half of the twentieth century were induced by <title>Pawnee</title> when it offered “the amount of two thousand dollars in goods and merchandise” (Article 2) to compensate for these lands and for “any hard timber that may at any time be needed” (Article 3).  The four bands, for their part, were in such a crisis at that time from these events that they had little choice: there is no doubt that these losses led to the demise of the Pawnee confederation (Wishart, 1979, p. 389).  The October 1850 report to the Commissioner of Indian Affairs from the Indian sub-agent John E. Barrow spoke directly to the “vast extent of emigration.”  In unison with the resulting destruction of their villages, agricultural fields, and hunting grounds, Barrow indicated that “[t]hese three tribes &#8212; viz., Ottoes, Omahas, and Pawnees &#8212; from their present deplorable situation, suffer and feel the effects of this vast emigration more than all the other tribes together” (Message from the President of the United States, to the two Houses of Congress, at the commencement of the second session of the Thirty-first Congress, 1850, p. 72).</p>
+    <p>Within the confluence of actions, Woodbury’s map attempted to define the appropriate area to be vacated by the Pawnee.  His illustration was examined and supplemented by descriptions from government agents like Pawnee agent John Miller, who remarked that “[w]e are to have the whole length of the Island which, according to Col. Freemont’s map is fifty-two miles in length and we are to have as far back as the Bluffs, which I have been informed is <emph>from ten to fifteen miles in width (Pawnee Indian tribe of Oklahoma v. the United States</emph>, 1953, p. 894; emphasis added).  That wider northern border is clearly depicted in Woodbury’s plat, and its breadth is made more evident when compared to the minor identified area reserved south of the Platte, but there is a substantial degree of distortion or confusion present here.  The treaty text gives points of reference that bring into question the accuracy of Woodbury’s illustration.  Article 1 speaks of portions of the designated tract’s boundary as “thence due north to the crest of the bluffs north of said Platte River” and “along the crest of said bluffs to the termination of Grand Island, supposed to be <emph>about sixty miles distant</emph>” (emphasis added).  The segment to the north for “the bluffs” &#8212; if portrayed to be identical to Agent Miller’s zone of “from ten to fifteen miles in width” &#8212; would have required an illustration drawn to subtend a distance of one-sixth to one-quarter the length of the river “within the red lines” as shown in Woodbury’s plat.</p>
+    <p>Yet perhaps there is no distortion here, and perhaps the inconsistency is a matter of Miller’s expectations versus Woodbury’s accurate final representation that would be anticipated from a member of the Corps of Topographical Engineers.  It seems clear that Woodbury contributed to the final <title>Pawnee</title> map in the <title>Statutes</title>, if this conclusion may be based upon the reproduction in the <title>Pawnee</title> treaty map of the 1847 survey’s “numerous well wooded islands.”  It is possible that those who rendered the published treaty image used Woodbury’s field report but cosmetically removed all the text and scale information that had populated his “U.S. Engineering Department’s ‘Grand Island’ &#8212; 1847” plot.  Removing those reconnaissance data, however, would not have required the <title>Statutes</title> staff to make any modifications to the general outline or to the portrayal of the islands in the Platte, nor would it have required adjusting any areas based on the implied boundaries that were then carefully noted in the  <title>Statutes</title> as “designated by dotted lines.”</p>
+    <p>Thus, by combining the data from a portion of the treaty text &#8212; “the termination of Grand Island, supposed to be about sixty miles distant” &#8212; and the actual dimensions of the published <title>Statutes</title> image’s “area to the crest of the bluffs north of said Platte River,” a ratio may be calculated to quantify the extent of that northern segment along the waterway.  The computed ratio suggests that the boundary land width is between 2.8 and 3.5 miles, leading to a conceivable proposition that the treaty was intended to provide a buffer of just three miles north of the River, not one subtending Miller’s “ten to fifteen miles.”<ref target="n18" n="18">18</ref>    The total acreage within an area of 60 miles by 3 miles is 115,200 acres, an amount quite close to the Pawnees’ own declaration in their 1953 Court of Claims case, i.e., this new calculated estimate of the acquired Pawnee lands north of the Platte is within about 4% of the “approximately 110,418 acres of land for which the United States paid $2,000” (<title>Pawnee Indian tribe of Oklahoma v. the United States</title>, 1953, p. 862).  The discrepancy between the larger calculated acreage and the smaller domain presented in the Court of Claims is due to an overestimation of the former’s total area by a mere 7.5 square miles, an amount that may have been indirectly implied by Meline’s remark that <emph>“one of these islands, known as Grand Island, was, a few years ago, ninety miles long</emph> &#8212; probably the longest river island in the world.  The new channels, forced by high water, have recently cut it into four islands” (1867, p. 21; emphasis added).  This reckoning was never made by the Commission itself during the 1950 Indian Claims Commission proceedings, wherein its opinion spoke only of an “area ceded and relinquished to the United States under the 1848 treaty [that] was <emph>indefinitely described, particularly as to its northern boundary”</emph> (<title>Pawnee Indian Tribe of Oklahoma v. United States</title>, 1950, p. 276; emphasis added).  In summary, these estimates now suggest that Lieutenant Daniel P. Woodbury of the Corps of Topographical Engineers probably delivered to Washington a very accurate survey from which these exact data could have been, and may now be, taken.  Through his professionalism, he contributed an exceptional and unique image to the nation’s laws of the land, one that was promptly deposited in the <title>Statutes at Large</title> and later recaptured by Kappler for his <title>Indian Affairs: Laws and Treaties.</title></p>
+</div2>
+</div1>
+        
+        
+        
+</body>
+    
+<back>
+        
+        
+ <div1> 
+   
+        <milestone unit="crosses"/>
+        
+<head>References</head>
+
+     <bibl><title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws.</title>  (1873). Washington, DC: Government Printing Office.</bibl>
+
+    <bibl>A resolution to authorize the Attorney General to contract for copies of a proposed edition of the laws and treaties of the United States.  (1845). 5 <title>Stat.</title> 798.</bibl>
+
+     <bibl>Agreement between the United States of America, the United Kingdom of Great Britain and Northern Ireland, and Yugoslavia, respecting the provisional administration of Venezia Giulia.  (1945).  59 <title>Stat.</title> 1855.</bibl>
+
+     <bibl><title>Alda, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>An act for the preservation of American antiquities.  (1906).  34 <title>Stat.</title> 225. </bibl>
+
+     <bibl>An act providing for publication of the revised statutes and the laws of the United States.  (1874).  18 <title>Stat.</title> 113.</bibl>
+
+     <bibl>An act to create an Indian Claims Commission, to provide for the powers, duties and functions thereof, and for other purposes.  (1946).  60 <title>Stat.</title> 1049.</bibl>
+
+     <bibl>An act to provide for raising a regiment of mounted riflemen, and for establishing military stations on the route to Oregon.  (1846).  9 <title>Stat.</title> 13.</bibl>
+
+    <bibl>Annual reports of the Department of the Interior for the fiscal year ended June 30, 1899, Indian Affairs, Part I.  (1899).  House of Representatives.  56th Congress, 1st session.  House Document No. 5, pt. 2.1 (<title>Serial Set</title> 3915).  Washington, DC: Government Printing Office. </bibl>
+
+     <bibl>Baird, W. D.  (1979).  William A. Jones, 1897-1904.  In R. M. Kvasnicka and H. J. Viola (Eds.).  <title>The Commissioners of Indian Affairs, 1824-1877</title> (pp. 211-220).  Lincoln, NE: University of Nebraska Press.</bibl>
+
+     <bibl>Barnes, J.  (2008).  <title>Forts of the Northern Plains: Guide to Historic Military Posts of the Plains Indian Wars.</title>  Mechanicsburg, PA: Stackpole Books.</bibl>
+
+     <bibl>Beers, H. P.  (1942a).  A history of the U.S. topographical engineers, 1813-1863.  <title>Military Engineer 34</title>, 287-291.</bibl>
+
+     <bibl>Beers, H. P.  (1942b).  A history of the U.S. topographical engineers, 1813-1863.  <title>Military Engineer 34</title>, 348-352.</bibl>
+
+     <bibl>Bernholz, C. D.  (2003).  <title>Kappler Revisited: An Index and Bibliographic Guide to American Indian Treaties.</title>  Kenmore, NY: Epoch Books, Inc.</bibl>
+
+     <bibl>Bernholz, C. D. and Carr, A. G.  (2009).  The annual reports of the Commissioner of Indian Affairs: Revisiting the key to the <title>United States Congressional Serial Set</title>, 1824-1920.  <title>Government Information Quarterly 26</title>, 540-545.</bibl>
+
+     <bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2010).  The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>: Revisiting the document found in Kappler’s <title>Indian Affairs: Laws and Treaties</title> and available <ref type="url" target="http://treatyoffortlaramie1851.unl.edu/">here.</ref></bibl>
+
+     <bibl>Bernholz, C. D. and Pytlik Zillig, B. L.  (2011).  Comparing nearly identical treaty texts: A note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> and Levenshtein’s edit distance metric.  <title>Literary and Linguistic Computing 26</title>, 5-16.</bibl>
+
+     <bibl>Bernholz, C. D. and Weiner, R. J.  (2008a).  Charles J. Kappler &#8212; A life beyond <title>Indian Affairs: Laws and Treaties</title> and available <ref type="url" target="http://kappler.unl.edu/">here.</ref></bibl>
+
+     <bibl>Bernholz, C. D. and Weiner, R. J.  (2008b).  The world of Charles J. Kappler: A digital portrait.  <title>Legal Reference Services Quarterly 27</title>, 377-383 and available <ref type="url" target="http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1190&amp;context=libraryscience">here.</ref></bibl>
+
+     <bibl>Bernholz, C. D.; Pytlik Zillig, B. L.; Weakly, L. K.; and Bajaber, Z. A.  (2006).  The last few American Indian treaties &#8212; An extension of the Charles J. Kappler <title>Indian Affairs: Laws and Treaties</title> Internet site at the Oklahoma State University.  <title>Library Collections, Acquisitions, and Technical Services 30</title>, 47-54.</bibl>
+
+     <bibl><title>British and Foreign State Papers.  1849-1850.  Vol. XXXVIII.</title>  (1862).  London: Harrison and Sons.</bibl>
+
+     <bibl>Charles Kappler is Authority on Indian Laws and Treaties.  (1941).  <title>The Evening Star</title>,  6 July 1941, C8.</bibl>
+
+     <bibl>Compilation on Indian Affairs.  (1902a).  <title>Congressional Record  35</title>, 5619.</bibl>
+
+     <bibl>Compilation on Indian Affairs.  (1902b).   <title>Congressional Record  35</title>, 5664-5665.</bibl>
+
+     <bibl>Cotter, C. H.  (1969).  <title>The Complete Nautical Astronomer.</title>  New York: American Elsevier.</bibl>
+
+     <bibl>Cullum, G. W.  (1868).  <title>Biographical Register of the Officers and Graduates of the U. S. Military Academy, at West Point, N.Y., From its Establishment, March 16, 1802 to the Army Reorganization of 1866-67, Second edition.  Vol. 1.  1802-1840.</title>  New York: Van Nostrand.</bibl>
+
+     <bibl><title>Denman, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl><title>Doniphan, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>Elliott, R. R.  (1983).  <title>Servant of Power: A Political Biography of Senator William M. Stewart.</title>  Reno, NV: University of Nevada Press.</bibl>
+
+     <bibl>Frazer, R. W.  (1965).  <title>Forts of the West: Military Forts and Presidios and Posts Commonly Called Forts West of the Mississippi River to 1898.</title>  Norman, OK: University of Oklahoma Press.</bibl>
+
+    <bibl>Fr&#233;mont, J. C.  (1845).  Report of the exploring expedition to the Rocky Mountains in the year 1842, and to Oregon and North California in the years 1843-‘44.  Senate.  28th Congress, 2nd session.  Senate Document No. 174 (<title>Serial Set</title> 461).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Fr&#233;mont, J. C.  (2012).  <title>Fr&#233;mont’s First Impressions: The Original Report of His Exploring Expeditions of 1842-1844.</title>  Lincoln, NE: University of Nebraska Press.</bibl>
+
+     <bibl><title>Gibbons South, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl><title>Grand Island, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>Gudde, E. G. and Gudde, E. K.  (1958).  <title>Exploring with Fr&#233;mont: The Private Diaries of Charles Preuss, Cartographer for John C. Fr&#233;mont on His First, Second, and Fourth Expeditions to the Far West.</title>  Norman, OK: University of Oklahoma Press.</bibl>
+
+     <bibl><title>Indian treaties.</title>  (1904).  33 <title>Stat.</title> 2077.</bibl>
+
+     <bibl>James, E.  (1972).  <title>Account of an Expedition from Pittsburgh to the Rocky Mountains, Under the Command of Major Stephen H. Long, from the Notes of Major Long, Mr. T. Say, and Other Gentlemen of the Exploring Party.</title>  Barre, MA: Imprint Society.</bibl>
+
+     <bibl>Kappler, C. J.  (1903a).  Indian affairs.  Laws and treaties, vol. 1.  Statutes, executive orders, proclamations, and statistics of tribes.  Senate.  57th Congress, 1st session.  Senate Document No. 452, pt. 1 (<title>Serial Set</title> 4253).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Kappler, C. J.  (1903b).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  57th Congress, 1st session.  Senate Document No. 452, pt. 2 (<title>Serial Set</title> 4254).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Kappler, C. J.  (1904a).  Indian affairs.  Laws and treaties, vol. 1.  Laws.  Senate.  58th Congress, 2nd session.  Senate Document No. 319, pt. 1 (<title>Serial Set</title> 4623).  Washington, DC: Government Printing Office.</bibl>
+    
+     <bibl>Kappler, C. J.  (1904b).  Indian affairs.  Laws and treaties, vol. 2.  Treaties.  Senate.  58th Congress, 2nd session.  Senate Document No. 319, pt. 2 (<title>Serial Set</title> 4624).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Kappler, C. J.  (1913).  Indian affairs.  Laws and treaties, vol. 3.  Laws.  Senate.  62nd Congress, 2nd session.  Senate Document No. 719 (<title>Serial Set</title> 6166).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Kappler, C. J.  (1929).  Indian affairs.  Laws and treaties, vol. 4.  Laws.  Senate.  70th Congress, 1st session.  Senate Document No. 53 (<title>Serial Set</title> 8849).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Kappler, C. J.  (1941).  Indian affairs.  Laws and treaties, vol. 5.  Laws.  Senate.  76th Congress, 3rd session.  Senate Document No. 194 (<title>Serial Set</title> 10458).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl><title>Kearney, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>Kunz, J. L.  (1948).  The free territory of Trieste.  <title>Western Political Quarterly 1</title>, 99-112.</bibl>
+
+     <bibl>Malone, D.  (1943). <title>Dictionary of American Biography.</title>  New York: Charles Scribner’s Sons.</bibl>
+
+     <bibl><title>Manual of Surveying Instructions: For the Survey of the Public Lands of the United States.</title>  (2009).  Denver, CO: Government Printing Office.</bibl>
+
+     <bibl>Markham, B.  (1942).  <title>West with the Night.</title>  Boston, MA: Houghton Mifflin.</bibl>
+
+     <bibl>Matchette, R. B.  (1995).  <title>Guide to Federal Records in the National Archives of the United States.  Volume I: Record Groups 1-70.</title>  Washington, DC: National Archives and Records Administration.</bibl>
+
+     <bibl>Meline, J. F.  (1867).  <title>Two Thousand Miles on Horseback.  Santa F&#233; and Back.  A Summer Tour through Kansas, Nebraska, Colorado, and New Mexico, in the Year 1866.</title>  New York: Hurd and Houghton.</bibl>
+
+     <bibl>Message from the President of the United States, to the two Houses of Congress, at the commencement of the second session of the Thirty-first Congress.  (1850).   Senate.  31st Congress, 2nd session.  Senate Executive Document No. 1 (<title>Serial Set</title> 587).</bibl>
+
+     <bibl>Meyer, M. A.  (1984).  <title>Special Chronological List: Special Chronologies (A) Colonial and Like Treaties (B) Postal and Telegraph etc. Agreements, 1848-1920.</title>  Volume 2.  Dobbs Ferry, NY: Oceana Publications.</bibl>
+
+     <bibl>Military correspondence-War Department relating to Fort Kearny.  (1930).  <title>Publications of the Nebraska State Historical Society 21</title>, 250-268.</bibl>
+
+     <bibl>Morgan, D. L.  (1959).  <title>The Overland Diary of James A. Pritchard from Kentucky to California in 1849.</title>  Denver, CO: F. A. Rosenstock.</bibl>
+
+     <bibl><title>Newark, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl><foreign>Nouveau recueil g&#233;n&#233;ral de trait&#233;s, conventions et autres transactions remarquables, servant à la connaissance des relations &#233;trangères des puissances et &#233;tats dans leurs rapports mutnels.  R&#233;dig&#233; sur des copies authentiques, vol. XIV.</foreign>  (1856).  Gottingue: Dieterich.</bibl>
+
+     <bibl>Parks, D. R.  (2001).  Pawnee.  In W. C. Sturtevant and R. J. DeMallie (Eds.).  <title>Handbook of North American Indians.  Volume 13: Plains</title> (Part 1) (pp. 515-547).  Washington, DC: Smithsonian Institution.</bibl>
+
+     <bibl>Parry, C.  (1969).  <title>The Consolidated Treaty Series: Volume 102, 1847-1849.</title>  Dobbs Ferry, NY: Oceana Publications.</bibl>
+
+     <bibl><title>Pawnee Indian tribe of Oklahoma v. the United States</title>, 1 Ind. Cl. Comm. 230 (1950).</bibl>
+
+     <bibl><title>Pawnee Indian tribe of Oklahoma v. the United States</title>, 109 F. Supp. 860 (1953).</bibl>
+    
+     <bibl>Powell’s Battalion Missouri Mounted Volunteers.  (1889).  House of Representatives.  50th Congress, 2nd session.  House Report No. 4049 (<title>Serial Set</title> 2674).  Washington, DC: Government Printing Office. </bibl>
+
+     <bibl><title>Prosser, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>Providing for the disposition of judgment funds now on deposit to the credit of the Pawnee tribe of Oklahoma.  (1964).  House of Representatives.  88th Congress, 2nd session.  House Report No. 1566 (<title>Serial Set</title> 12619-3).  Washington, DC: Government Printing Office. </bibl>
+
+     <bibl><foreign>Recueil manuel et pratique de trait&#233;s et conventions: sur lesquels sont &#233;tablis les relations et les rapports existant aujourd’hui entre les divers &#233;tats souverains du globe, depuis l’ann&#233;e 1760 jusquà l’&#233;poque actuelle,</foreign> vol. VI.  (1856).  Leipzig: F. A. Brockhaus.</bibl>
+
+     <bibl>Royce, C. C. (1899).  Indian land cessions in the United States.  In the 18th Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution, 1896–97, part 2.  House of Representatives.  56th Congress, 1st Session. House Document No. 736 (pp. 521–997).  (<title>Serial Set</title> 4015).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Schubert, F. N.  (1988).  <title>The Nation Builders: A Sesquicentennial History of the Corps of Topographical Engineers, 1838-1863.</title>  Fort Belvoir, VA: United States Army Corps of Engineers.</bibl>
+
+     <bibl>Sheldon, A. E.  (1936).  Land systems and land policies in Nebraska.  <title>Publications of the Nebraska State Historical Society 22,</title> 1-383.</bibl>
+
+     <bibl>Simpson, H. H.  (1850).  Reports of the Secretary of War, with reconnaissances of routes from San Antonio to El Paso, by Brevet Lt. Col. J. E. Johnston; Lieutenant W. F. Smith; Lieutenant F. T. Bryan; Lieutenant N. H. Michler; and Captain S. G. French, of Q’rmaster’s Dep’t.  Also, the report of Capt. R. B. Marcy’s route from Fort Smith to Santa Fe; and the report of Lieut. J. H. Simpson of an expedition into the Navajo Country; and the report of Lieutenant W. H. C. Whiting’s reconnaissances of the western frontier of Texas.  Senate.  31st Congress, 1st session.  Senate Executive Document No. 64 (<title>Serial Set</title> 562).  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Simpson, H. H.  (1852).  <title>Journal of a Military Reconnaissance from Santa F&#233;, New Mexico, to the Navajo Country, Made with the Troops Under Command of Brevet Lieutenant Colonel John M. Washington, Chief of Ninth Military Department, and Governor of New Mexico, in 1849</title>.  Philadelphia, PA: Lippincott, Grambo and Co.</bibl>
+
+     <bibl>Simpson, H. H.  (1876).  Report of explorations across the great basin of the territory of Utah for a direct wagon-route from Camp Floyd to Genoa, in Carson Valley, in 1859.  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Simpson, J. A. and Weiner, E. S. C.  (1989).  <title>The Oxford English Dictionary: Second Edition.  Volume XI – Ow to Poisant.</title>  Oxford: Clarendon Press.</bibl>
+
+     <bibl>Treaties, laws, etc., relating to Indian affairs.  (1903).  <title>Congressional Record 37</title>, 290.</bibl>
+
+     <bibl>Wainwright, D. B.  (1915).  <title>Surveying: A Plane Table Manual.</title>  Washington, DC: Government Printing Office.</bibl>
+
+     <bibl>Willman, L. M.  (1930).  The history of Fort Kearny.  <title>Publications of the Nebraska State Historical Society 21</title>, 210-249.</bibl>
+
+     <bibl>Wishart, D. J.  (1979).  The dispossession of the Pawnee.  <title>Annals of the Association of American Geographers 69</title>, 382-401.</bibl>
+
+     <bibl>Wishart, D. J.  (1985).  The Pawnee claims case, 1947-64.  In I. Sutton (Ed.).  <title>Irredeemable America: The Indians’ Estate and Land Claims</title> (pp. 157-186).  Albuquerque, NM: University of New Mexico Press.</bibl>
+
+     <bibl><title>Wood River, Nebr.</title> [Map].  (1963).  Denver, CO: U. S. Geological Survey.</bibl>
+
+     <bibl>Woodbury, D. P.  (1858).  <title>Treatise on the Various Elements of Stability in the Well-proportioned Arch, with Numerous Tables of the Ultimate and Actual Thrust.</title>  New York: Van Nostrand.</bibl>
+
+ </div1>
+    <div1>
+        <milestone unit="crosses"/>
+        <head>Acknowledgements</head>
+
+
+        <p>We wish to thank several people at the University of Nebraska-Lincoln: Adonna Fleming at the Geology Library for her cartographic expertise and advice; Seth Hampton and Cody C. Van Pelt of Government Documents and Brian O’Grady of Interlibrary Loan for their assistance during a preliminary investigation; and Laura Weakly and Karin Dalziel of the Center for Digital Research in the Humanities for their skills during the creation of this Web resource.</p>
+    </div1>
+
+<div1>
+        <milestone unit="crosses"/>
+    <head>Notes</head>
+
+ <note n="*" xml:id="f01">*Phone: 402-472-4473<lb/>
+  Fax: 402-472-5131<lb/>
+  E-mail: cbernholz2@unl.edu</note>
+ 
+ <note n="*" xml:id="f02">**Phone: 202-357-5005<lb/>
+E-mail: Jane.Fitzgerald@nara.gov 
+</note>
+
+    <note n="1" xml:id="n01">1 Bernholz and Carr (2009) have more on the Annual Reports of the Commissioners of Indian Affairs between the years of 1824 and 1920.</note>
+
+    <note n="2" xml:id="n02">2 The title page of volume 1 of the <title>Statutes</title> states: “The rights and interest of the United States in the stereotype plates from which this work is printed, are hereby recognized, acknowledged, and declared by the publishers, according to the provisions of the joint resolution of Congress, passed March 3, 1845.”</note>
+   
+
+    <note n="3" xml:id="n03">3 The Indian Claims Commission (see An act to create an Indian Claims Commission, to provide for the powers, duties and functions thereof, and for other purposes, 1946) was a new venue for disputes between the federal government and the tribes, particularly over the question of unconscionable considerations paid for tribal lands, a major part of the basis of the Pawnee challenge.  The third and fourth clauses of §2 (p. 1050; emphasis added) confirmed that “[t]he Commission shall hear and determine the following claims against the United States on behalf of any Indian tribe, band, or other identifiable group of American Indians residing within the territorial limits of the United States or Alaska: … (3) claims which would result if the treaties, contracts, and agreements between the claimant and the United States were revised on the ground of fraud, duress, <emph>unconscionable consideration,</emph> mutual or unilateral mistake, whether of law or fact, or any other ground cognizable by a court of equity” and  “(4) claims arising from the taking by the United States, whether as the result of a treaty of cession or otherwise, of lands owned or occupied by the claimant without the payment for such lands of compensation agreed to by the claimant.”  The traditional requirement of congressional approval to bring such a question before the United States Court of Claims &#8212; the so-called <ref type="url" target="http://www.justice.gov/enrd/3147.htm">special jurisdictional acts</ref> &#8212; was eliminated with the passage of the Indian Claims Commission Act of 1946 (60 <title>Stat.</title> 1049).  The Pawnee tribes’ assigned docket number before the Indian Claims Commission &#8212; number 10 &#8212; denotes this case as one of the earliest of these proceedings.</note>
+
+
+    <note n="4" xml:id="n04">4 The three residual assertions considered small holdings within Oklahoma.</note>
+
+
+    <note n="5" xml:id="n05">5 <title>The Oxford English Dictionary</title> (Simpson and Weiner, 1989, p. 993; emphasis added) defines <emph>plat</emph> as “[a] plan or diagram of anything; <emph>esp.</emph> a ground-plan of a building or of any part of the earth’s surface; a draught, design, <emph>map</emph>, chart.”</note>
+
+
+    <note n="6" xml:id="n06">6 This cartographer, Charles Preuss (1803-1854), created some of the earliest modern maps for the areas beyond the Mississippi River (Gudde and Gudde, 1958).  He was concerned, during the first expedition with Fr&#233;mont, with the constant Indian danger.  In his journal for 9 July 1842, he stated that “[d]aily, several people, White and Indian, have been killed there.  If our party cannot be increased at the Fort [Laramie], it would be best to turn back and limit ourselves to the survey of the Platte.  We are no military expedition to fight the Indians.  It would be ridiculous to risk the lives of twenty-five people just to determine a few longitudes and latitudes and to find out the elevation of a mountain range” (pp. 21-22).</note>
+
+
+    <note n="7" xml:id="n07">7 There is an image of Woodbury in Willman (1930, facing page 225).  The Cullum listing also indicated that Woodbury graduated sixth in the 1836 class at West Point.  Two decades later, and as a demonstration of his engineering skills, he wrote the <title>Treatise on the Various Elements of Stability in the Well-proportioned Arch</title> (1858).</note>
+
+
+    <note n="8" xml:id="n08">8 The map was also published as part of Willman’s article on the history of Fort Kearny (1930).</note>
+
+
+    <note n="9" xml:id="n09">9 There is an image of Totten in Schubert (1988, p. 29).</note>
+
+
+    <note n="10" xml:id="n10">10  Sheldon (1936, p. 9; emphasis added) remarked that “[t]he Pawnee treaty of 1848 was for the purpose of securing the Grand Island in the Platte river, with its <emph>abundant timber,</emph> water and grass, for the use of the new central fort, known in history as Fort Kearny.”</note>
+
+
+    <note n="11" xml:id="n11">11 There was one other such military officer in Kappler’s <title>Treaties</title> volume: <title>J. H. Simpson, First Lieutenant Corps Topographic Engineers</title> signed the <ref type="url" target="http://digital.library.okstate.edu/kappler/vol2/treaties/nav0583.htm"><title>Treaty with the Navaho, 1849.</title></ref>  Lieutenant Simpson (1813-1883; Malone, 1943, vol. 17, p. 179) was a prolific writer and reported extensively on his surveys in the Southwest.  The treaty event with the Navajo is described in his report to the War Department (1850, pp. 107-108) that subsequently appeared as a separate commercial product entitled <title>Journal of a Military Reconnaissance from Santa F&#233;, New Mexico, to the Navajo Country, Made with the Troops Under Command of Brevet Lieutenant Colonel John M. Washington, Chief of Ninth Military Department, and Governor of New Mexico, in 1849</title> (1852).  Later still, his excursions to the far West were described in an engineering report for the Army, and offered an extensive historical analysis of such journeys (1876, pp. 13-38).  His <title>Index</title> (p. 516) enumerates several entries for the <title>Platte River,</title> with subsections for <title>North, South,</title> and <title>Upper</title> portions; there is also a description of the Platte for the areas of northeastern Kansas and southeastern Nebraska (pp. 251-258).</note>
+
+
+    <note n="12" xml:id="n12">12  Woodbury actually purchased, for $4,000, the fur-trading site at Fort Laramie for the federal government in the summer of 1849 (Willman, 1930, pp. 259-260).</note>
+
+
+    <note n="13" xml:id="n13">13 One may distinguish the two Kappler treaty variants by the marginal note attending the preamble text.  The 1903 version (Kappler, 1903b, p. 422; emphasis added) states “9 Stat., 949.  <hi rend="bold">Treaty</hi>  ratified Jan. 8, 1849” while the later text (1904b, p. 571) notes only “9 Stat., 949.  Ratified Jan. 8., 1849.”  The transaction published in the <title>Statutes</title> at 9 <title>Stat.</title> 949 has the former, “Treaty ratified Jan. 8, 1849.”</note>
+
+
+    <note n="14" xml:id="n14">14 Note at that <ref type="url" target="http://geonames.usgs.gov/pls/gnispublic/f?p=132:3:156751548085219::NO:3:P3_FID,P3_TITLE:1873803,Fort%20Kearney%20(historical)">link</ref> the confirming, variant name of “Fort Childs.”</note>
+
+
+    <note n="15" xml:id="n15">15 See Wainwright (1915) for more on this cartographic process.</note>
+
+
+    <note n="16" xml:id="n16">16 “The Story of the Antiquities Act” is available from the <ref type="url" target="http://www.cr.nps.gov/archeology/pubs/lee/">National Park Service.</ref></note> 
+
+
+    <note n="17" xml:id="n17">17 A more cartographic rendering may be found in the <title>Statutes</title> accompanying the Trieste Area Agreement (Agreement between the United States of America, the United Kingdom of Great Britain and Northern Ireland, and Yugoslavia, respecting the provisional administration of Venezia Giulia, 1945).  A footnote in the first paragraph of the transaction commented “[A copy of this map is attached to the inside back cover of this volume.]”  Its placement was no doubt due to its large physical size (over 10 square feet versus the 10 square inch <title>Pawnee</title> plat in the <title>Statutes</title>), a format necessary to make clear the demarcation path of the so-called Morgan Line (see Kunz, 1948, p, 100).</note>
+
+
+    <note n="18" xml:id="n18">18 Similarly, it is possible to check if the plat accurately revealed that its western boundary was <emph>“five miles west</emph> of this post” (emphasis added).  Here, the square above the latitude value on the map was taken as the position of Fort Childs.  The computed distance between its western edge and the dotted line of the western boundary of the cession, relative to the transfer’s entire alleged length of 60 miles, was found to be approximately 5.25 miles.</note>
+
+
+                
+           
+           
+</div1>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1221">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1221	S. 1942 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1221</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1221	S. 1942 (Seventy-fourth Congress, First Session &#8212; F. Roosevelt)</head>
+
+<p>To repeal the act entitled “An act to grant to the State of New York and the Seneca Nation of Indians jurisdiction over the taking of fish and game within the Allegany Cattaraugus, and Oil Springs Indian Reservation,” approved January 5, 1927.</p>  
+
+<p>Vetoed June 15, 1935.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 70 (19 <title>Cong. Rec.</title> 9412).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 263.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1221.01.pdf">Taking the fish and game within certain Indian reservations in the State of New York- veto message.  Message from the President of the United States, returning without approval the Bill (S. 1942) entitled “An Act To Repeal the Act Entitled ‘An Act To Grant to the State of New York and the Seneca Nation Jurisdiction Over the Taking of Fish and Game Within the Allegany, Cattaraugus, and Oil Spring Indian Reservation, Approved January 5, 1927’"</ref>  (1935).   Senate.  74th Congress, 1st session.  Senate Document No. 70 (<title>Serial Set</title> 9909).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 	74TH CONGRESS 	SENATE
+1st Session	DOCUMENT
+No. 70 </fw>
+<head>TAKING OF FISH AND GAME WITHIN CERTAIN INDIAN RESERVATIONS IN THE STATE OF NEW YORK&#8212;VETO MESSAGE</head>
+<milestone unit="rule" />
+<head>MESSAGE
+
+FROM
+
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 1942) ENTITLED "AN ACT TO REPEAL THE ACT ENTITLED `AN ACT TO GRANT TO THE STATE OF NEW YORK AND THE SENECA NATION OF INDIANS JURISDICTION OVER THE TAKING OF FISH AND GAME WITHIN THE ALLEGANY, CATTARAUGUS, AND OIL SPRING INDIAN RESERVATION', APPROVED JANUARY 5, 1927"</head>
+<milestone unit="rule" />
+<head type="sub">MAY 13 (calendar day, JUNE 17), 1935.&#8212;Read; referred to the Committee on
+Indian Affairs and ordered to be printed</head>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return without my approval the act (S. 1942), "An Act to repeal the Act entitled `An Act to grant to the State of New York and the Seneca Nation of Indians jurisdiction over the taking of fish and game within the Allegany, Cattaraugus, and Oil Spring Indian Reservation', approved January 5, 1927."</p>
+<p>The status of game and fish protection by law in the three Indian reservations mentioned in this act prior to the act of January 5, 1927, for the repeal of which this act has been passed, was somewhat chaotic, for the reason that while, theoretically, the conservation laws of the State of New York applied to hunting and fishing in the reservations such laws were unenforceable with respect to the tribal Indians hunting therein, the Indians being wards of the National Government and Congress not having authorized the enforcement of the State conservation laws against them. Persons other than Indians hunting and fishing on such reservations were still subject to the New York conservation laws.</p>
+<p>Repeal of the act of January 5, 1927, which was intended to set up an orderly and more nearly uniform administration of the conservation laws of New York throughout the State, would restore the chaotic situation to which I have referred.</p><pb n="2" />
+<fw> 2	FISH AND GAME WITHIN CERTAIN INDIAN RESERVATIONS </fw>
+<p>It is highly desirable in this day of rapid disappearance of our wildlife, particularly the game species, that hunting and fishing throughout the land be restrained within those limits deemed by legislatures and responsible conservation officials essential for the preservation and perpetuation of the Nation's stock of wildlife.</p>
+<p>I can perceive no reason why, at this time, tribal Indians in the State of New York should not be subject to the restrictions of the State conservation laws which apply to all other persons hunting or fishing in the same territory, certainly those features of the conservation laws which limit the seasons during which hunting and fishing may be indulged in and the numbers of game and fish that may be taken within fixed periods. It is manifest that numbers of species, especially of game birds, are only temporarily or periodically resident on the Indian reservations, passing therefrom to other portions of the State and in numbers of cases to other portions of the United States. It is, therefore, strictly true to say that the Indians are no more vested with a property interest in this game than are the people of the rest of the State or country.</p>
+<p>Furthermore, game produced naturally or artificially in territory adjacent to the reservations inevitably pass back and forth between such territory and the reservations, as to which game it cannot with reason be contended that the Indians should have the privilege of taking it regardless of State law applicable to everybody else. The Indians are fully safeguarded against discriminative State law by the act of January 5, 1927, and by that act enjoy exemption from the hunting and fishing license feature of the State conservation law and in addition are vested with the exclusive right to authorize the taking of game and fish within their reservations and if they permit hunting and fishing, to issue the permits and licenses therefor.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE,
+June 15, 1935.</dateline></closer>
+<milestone unit="rule" />
+<p>S. 1942</p>
+<head>SEVENTY-FOURTH CONGRESS OF THE UNITED STATES OF AMERICAS AT THE FIRST
+SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON THURSDAY,
+THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-
+FIVE.</head>
+<head type="sub">AN ACT To repeal the Act entitled An Act to grant to the State of New York and the Seneca Nation of Indians jurisdiction over the taking of fish and game within the Allegany, Cattaraugus, and Oil Spring Indian Reservation", approved January 5, 1927.</head>
+
+<p><hi rend="italic">Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,</hi> That the Act entitled "An Act to grant to the State of New York and the Seneca Nation of Indians jurisdiction over the taking of fish and game within the Allegany, Cattaraugus, and Oil Spring Indian Reservations", approved January 5, 1927 (44 <title>Stat.</title> L. 932), is hereby repealed.</p>
+<closer><signed>JOSEPH W. BYRNS,
+Speaker of the House of Representatives.</signed>
+<signed>JNO. N. GARNER,
+Vice President of the United States and President of the Senate.</signed>
+<p>[Endorsement on back of bill.]</p>
+I certify that this act originated in the Senate.	<signed>E. A. HALSEY, Secretary.</signed></closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1221.02.pdf"><title>Congressional Record</title> 79, 9412-9413</ref> (1935).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9412	CONGRESSIONAL RECORD SENATE	JUNE .17 </fw>
+<p>S. J. Res. 42. Joint resolution to amend section 289 of the Criminal Code.</p>
+<p>The message also announced that the House had passed the following bills and joint resolutions, in which it requested the concurrence of the Senate:</p>
+<p>H. R. 3061. An act to authorize the adjustment of the boundaries of the Chelan National Forest in the State of Washington;</p>
+<p>H. R. 3430. An act to amend the act approved May 14, 1930, entitled "An act to reorganize the administration of Federal prisons; to authorize the Attorney General to contract for the care of United States prisoners; to establish Federal jails; and for other purposes";</p>
+<p>H. R. 5058. An act to convey certain lands to Clackamas County, Oreg., for public-park purposes;</p>
+<p>H. R. 5360. An act providing for punishment for the crime of robbing or attempting to rob custodians of Government moneys or property;</p>
+<p>H. R. 5920. An act to authorize the conveyance of certain Government land to the borough of Stroudsburg, Monroe County, Pa., for street purposes and as a part of the approach to the Stroudsburg viaduct on State Highway Route No. 498;</p>
+<p>H. R. 6776. An act to amend section 36 of the Emergency Farm Mortgage Act of 1933, as amended;</p>
+<p>H. R. 6910. An act to amend section 4 of the act of May 31, 1933, enacted to safeguard the interests and welfare of Indians of the Taos Pueblo, N. Mex., in certain lands within the Carson National Forest;</p>
+<p>H. R. 6983. An act to provide for the transfer of certain land in the city of Anderson, S. C., to such city;</p>
+<p>H. R. 6988. An act authorizing the State of Louisiana and the State of Texas to construct, maintain, and operate a free highway bridge across the Sabine River at or near a point where Louisiana Highway No. 21 meets Texas Highway No. 45;</p>
+<p>H. R. 6995. An act granting pensions to veterans of the Spanish-American War, including the Boxer Rebellion and the Philippine Insurrection, their widows and dependents, and for other purposes;</p>
+<p>H. R. 7044. An act authorizing the State of Louisiana and the State of Texas to construct, maintain, and operate a free highway bridge across the Sabine River at or near a point where Louisiana Highway No. 6 in Sabine Parish, La., meets Texas Highway No. 21 in Sabine County, Tex.;</p>
+<p>H. R. 7652. An act to authorize the furnishing of steam from the central heating plant to the Federal Reserve Board, and for other purposes;</p>
+<p>H. R. 7870. An act to provide a preliminary examination of the Purgatoire (Picketwire) and Apishapa Rivers, in the State of Colorado, with a view to the control of their floods and the conservation of their waters;</p>
+<p>H. J. Res. 237. Joint resolution for the establishment of a trust fund to be known as the "Oliver Wendell Holmes Memorial Fund ";</p>
+<p>H. J. Res. 265. Joint resolution pertaining to an appropriate celebration of the four hundredth anniversary of the expedition of Hernando De Soto; and</p>
+<p>H. J. Res. 290. Joint resolution to amend an act entitled "An act providing for the ratification of Joint Resolution No. 59 of the Legislature of Puerto Rico, approved by the Governor May 5, 1930, imposing an import duty on coffee imported into Puerto Rico ", approved June 18, 1934.</p>
+<head>REFUNDING OF TAXES TO BUILDING-AND-LOAN ASSOCIATIONS&#8212;VETO
+MESSAGE (S. DOC. NO. 71)</head>
+<p>The VICE PRESIDENT laid before the Senate a message from the President of the United States, which was read, referred to the Committee on Claims, and ordered to be printed, as follows:</p>
+
+<p>To the Senate:</p>
+<p>I return herewith, without my approval, S. 279, an act to extend the time for the refunding of certain taxes erroneously collected from certain building-and-loan associations.
+This bill authorizes the filing of claims for the refund of taxes which were, under the principle laid down by the
+United States Supreme Court in United States v. Cambridge Building & Loan Co. (278 U. S. 55) , erroneously assessed and collected, regardless of the fact that claims for refund thereof were not filed within the prescribed statutory period for filing such claims.</p>
+<p>Congress has determined that it is sound policy to include in all the revenue acts statutes of limitations, by the operation of which, after a certain period of time, it becomes impossible for the Government to collect additional taxes or for the taxpayer to obtain a refund of an overpayment of taxes. This bill selects a small class of taxpayers for special treatment by excepting them from this policy. The whole body of Federal taxpayers is thus discriminated against, and a precedent is established, opening the door to relief in all cases in which the statute operates to the prejudice of a particular taxpayer, while leaving the door closed to the Government in those cases in which the statute operates to the disadvantage of the Government.</p>
+<p>I know of no circumstances which would justify the exception made by S. 279 to the long&#8211;continued policy of Congress, and do not believe that the field of special legislation should be opened to relieve special classes of taxpayers from the consequences of their failure to file claims within the period fixed by law.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, June 14, 1935.</dateline></closer>
+
+<head>JURISDICTION OF FISH AND GAME IN INDIAN RESERVATIONS IN
+NEW YORK&#8212;VETO MESSAGE (S. DOC. NO. 70)</head>
+<p>The VICE PRESIDENT laid before the Senate a message from the President of the United States, which was read and ordered to be printed, as follows:</p>
+
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return without my approval the act, Senate 1942, "An act to repeal the act entitled `An act to grant to the State of New York and the Seneca Nation of Indians jurisdiction over the taking of fish and game within the Allegany, Cattaraugus, and Oil Spring Indian Reservations', approved January 5, 1927."</p>
+<p>The status of game and fish protection by law in the three Indian reservations mentioned in this act prior to the act of January 5, 1927, for the repeal of which this act has been passed, was somewhat chaotic, for the reason that, while theoretically the conservation laws of the State of New York applied to hunting and fishing in the reservations such laws were unenforceable with respect to the tribal Indians hunting therein, the Indians being wards of the National Government and Congress not having authorized the enforcement of the State conservation laws against them. Persons other than Indians hunting and fishing on such reservations were still subject to the New York conservation laws.</p>
+<p>Repeal of the act of January 5, 1927, which was intended to set up an orderly and more nearly uniform administration of the conservation laws of New York throughout the State, would restore the chaotic situation to which I have referred.</p>
+<p>It is highly desirable in this day of rapid disappearance of our wildlife, particularly the game species, that hunting and fishing throughout the land be restrained within those limits deemed by legislatures and responsible conservation officials essential for the preservation and perpetuation of the Nation's stock of wildlife.</p>
+<p>I can perceive no reason why, at this time, tribal Indians in the State of New York should not be subject to the restrictions of the State conservation laws which apply to all other persons hunting or fishing in the same territory, certainly those features of the conservation laws which limit the seasons during which hunting and fishing may be indulged in and the numbers of game and fish that may be taken within fixed periods. It is manifest that numbers of species, especially of game birds, are only temporarily or periodically resident on the Indian reservations, passing therefrom to other portions of the State and in numbers of cases to other portions of the United States. It is, there<pb n="9413" />
+<fw> HeinOnline- 79 <title>Cong. Rec.</title> 9412 1935
+1935	CONGRESSIONAL RECORD SENATE	9413 </fw>
+fore,, strictly true to say that the Indians are no more vested with a property interest in this game than are the people of the rest of the State or country.</p>
+<p>Furthermore, game produced naturally or artificially in territory adjacent to the reservations inevitably pass back and forth between such territory and the reservations, as to which game it cannot with reason be contended that the Indians should have the privilege of taking it regardless of State law applicable to everybody else. The Indians are fully safeguarded against discriminative State law by the act of January 5, 1927, and by that act enjoy exemption from the hunting-and-fishing license feature of the State conservation law, and, in addition, are vested with the exclusive right to authorize the taking of game and fish within their reservations, and if they permit hunting and fishing, to issue the permits and licenses therefor.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, June 15, 1935.</dateline></closer>
+<p>Mr. FRAZIER. I move that the veto message of the President be referred to the Committee on Indian Affairs. The motion was agreed to.</p>
+<head>ELSIE SEGAR</head>
+<p>The VICE PRESIDENT laid before the Senate the amendment of the House of Representatives to the bill (S. 2218) for the relief of Elsie Segar, which was, on page 1, line 5, after the word " appropriated ", to insert " and in full settlement of all claims against the United States."</p>
+<p>Mr. COPELAND. I move that the Senate concur in the amendment of the House.</p>
+<p>The motion was agreed to.</p>
+<head>DINO CARBONELL</head>
+<p>The VICE PRESIDENT laid before the Senate the amendment of the House of Representatives to the bill (S. 1325) for the relief of Dino Carbonell, which was, on page 1, line 7, to strike out the word " representing " and insert " in full settlement of all claims against the United States for."</p>
+<p>Mr. COPELAND. I move that the Senate concur in the amendment of the House.</p>
+<p>The motion was agreed to.</p>
+<head>JOHN W. DADY</head>
+<p>The VICE PRESIDENT laid before the Senate the amendment of the House of Representatives to the bill (S. 2333) for the relief of John W. Dady, which was, on page 1, line 10, after the word "work", to insert a colon and the following proviso:</p>
+<p><hi rend="italic">Provided,</hi> That no part of the amount appropriated in this act in excess of 10 percent thereof shall be paid or delivered to or received by any agent or agents, attorney or attorneys, on account of services rendered in connection with said claim. It shall be unlawful for any agent or agents, attorney or attorneys, to exact, collect, withhold, or receive any sum of the amount appropriated in this act in excess of 10 percent thereof on account of services rendered in connection with said claim, any contract to the contrary notwithstanding. Any person violating the provisions of this act shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any sum not exceeding $1,000.</p>
+<p>Mr. THOMAS of Oklahoma. I move that the Senate concur in the amendment of the House. The motion was agreed to.</p>
+
+<head>PETITIONS AND MEMORIALS</head>
+<p>The VICE PRESIDENT laid before the Senate the following memorial of the Legislature of the State of Florida, which was referred to the Committee on Public Lands and Surveys:</p>
+<p>Senate Memorial 23</p>
+<opener>
+<salute>To the President and Congress of the United States:</salute>
+</opener>
+<p>Whereas St. Johns Bluff on the St. Johns River in Duval County, Fla., was selected as a strategic location for fortifications by five different nations of the world; and
+Whereas the first battle between white races on North American soil was fought there for the possession of the vast region then known as Florida (1565); and</p>
+<p>Whereas there the first colony of Protestants in North America was planted; the first Protestant woman and children landed; and the first child born in that faith; and
+Whereas through the centuries following, St. Johns Bluff, the site of old Fort Caroline, continued to be the scene of varied national and international events of great Importance, many of which are noted in general histories; and</p>
+<p>Whereas this historic site of national and international interest is in every way worthy of possession by the General Government for strategic and historical purposes; and</p>
+<p>Whereas there is pending in the Congress of the United States a bill designated as H. It. 3416 and entitled "An act to establish the Fort Caroline National Monument in Duval County, Fla." The purpose of which is to create and designate St. Johns Bluff as "Fort Caroline National Monument", authorizing and directing the Secretary of the Interior to acquire, on behalf of the United States, this area of land comprising approximately 118 acres, situated on the St. Johns River, in Duval County, Fla.: Now, therefore be it</p>
+<p><hi rend="italic">Resolved</hi> by the Legislature of Florida, That the Congress of the United States is hereby memorialized to enact the above en-titled bill into law: Be it further
+Resolved, That United States Senators FLETCHER and TRAMMELL, and Representatives Wilcox, SEARS, GREEN, PETERSON, and CALDWELL, are hereby urged to use their most vigorous efforts to bring about the saving of this first-known landing place of the white race in the United States for future generations: Therefore be it further</p>
+<p><hi rend="italic">Resolved,</hi> That the secretary of the State of Florida is hereby directed to transmit a copy of this memorial, under the great seal of State, to the President of the United States, to the President of the United States Senate, to the Speaker of the House of Representatives of Congress, to the Secretary of the Interior, and each member of the Florida delegation in Congress.</p>
+<p>The VICE PRESIDENT also laid before the Senate a resolution adopted by the Board of Commissioners of the City of Galveston, Tex., favoring the enactment of legislation to establish a naval training station on the 900 acres of Government-owned land on Pelican Spit; to establish an adequate antiaircraft artillery base on the 600 acres, east end of the city of Galveston, given to the Government by the Galveston City Co. and Maco Stewart, and to construct a 200-foot canal from Fort Crockett and Offatt's Bayou westward to San Luis Pass, etc., which was referred to the Committee on Naval Affairs.</p>
+<p>He also laid before the Senate papers in the nature of petitions from several citizens of New York City, N. Y., praying for the enactment of House bill 7688, for the benefit of substitute postal employees who have served the Government from 4 to 14 years, which were referred to the Committee on Post Offices and Post Roads.</p>
+<p>He also laid before the Senate a petition of sundry citizens of New York City, N. Y., praying for an investigation of charges filed by the Women's Committee of Louisiana relative to the qualifications of the Senators from Louisiana (Mr. LONG and Mr. OVERTON), which was referred to the Committee on Privileges and EIections.</p>
+<p>Mr. WALSH presented a resolution adopted at a meeting of 32 citizens of the League for Peace Action, of Stoneham, Mass., favoring the enactment of legislation to control private profit in peace time and war time, with no inclusion of conscription, which was referred to the Committee on Finance.</p>
+<p>He also presented a paper in the nature of a petition from the Lynn (Mass.) Chamber of Commerce, praying for the enactment of House bill 7022, the so-called "air-defense bill", which was referred to the Committee on Military Affairs.</p>
+<p>He also presented a letter in the nature of a petition from the directors of the Boston (Mass.) Chamber of Commerce, signed by E. L. Hefron, secretary Committee on Aviation, praying for the enactment of House bill 6511, providing that rates of pay for the carriage of air mail be regulated by the Interstate Commerce Commission, which was referred to the Committee on Post Offices and Post Roads.</p>
+<head>FEDERAL GASOLINE TAX</head>
+<p>Mr. CAPPER. Mr. President, I ask unanimous consent to have printed in the RECORD and appropriately referred a resolution from the executive committee of the Mid-Continent Oil and Gas Association, urging that the Federal gasoline tax of 1 cent a gallon be not renewed in the tax bill which will come before us in the near future.</p>
+<p>This tax, as I have said before on the floor of the Senate, is generally recognized as a discriminatory, unjust, and outrageous tax; it should have been repealed long ago. In fact, it never should have been levied. It invades a field that not only belongs to the States but already also has been more</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

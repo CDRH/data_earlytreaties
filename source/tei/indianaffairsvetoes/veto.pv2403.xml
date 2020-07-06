@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2403">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2403	S. 2623 (Ninety-seventh Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2403</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-seventh Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2403	S. 2623 (Ninety-seventh Congress, Second Session &#8212; Reagan)</head>
+
+<p>To amend the Tribally Controlled Community College Assistance Act of 1978.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 97th Congress adjourned sine die on December 23, 1982.  The bill was presented to the President on December 22, 1982 (128 <title>Cong. Rec.</title> 33587).  A Presidential message was received by Congress on January 20, 1983 (192 S. Jour. 752; <title>see also</title> 128 <title>Cong. Rec.</title> 33440).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 494.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2403.01.pdf"><title>Congressional Record</title> 128, 33587</ref> (1982).</bibl>
+<!-- <floatingText>
+<body>
+CONGRESSIONAL RECORD—HOUSE	December 21, 1982
+33440
+H.R. 5858—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 5858, a bill for the relief of three silver dealers who suffered business losses as a result of their short market positions resulting from a decision by the Department of the Treasury to terminate the sale of Government-owned silver on May 18, 1967, without honoring the dealers' telephonic re-quests made that day to purchase almost seven million ounces of silver.
+These claims were the subject of very extensive proceedings before the former United States Court of Claims, which on May 18, 1967, held that no legally binding contracts to purchase the silver had been established by these claimants, because the claimants (1) were clearly on notice that the Treasury's involvement in the silver market was altogether inseparable from monetary policy, (2) had reason to expect that Treasury would abandon the marketplace just as soon as doing so would serve monetary policy, and (3) knew that Government silver sales would end soon in view of the published report that Treasury's supply of silver was being rapidly depleted. (Primary Metal & Mineral Corp. v. United States, 556 F.2d 507 (Ct.Cl. 1977).)
+In parallel proceedings before a trial commissioner of the same court pursuant to a Congressional Reference proceeding under 28 U.S.C. Sections 1494 and 2509 (1970), the trial commissioner had earlier found that the same dealers had valid breach of contract claims, even though he, too, found that they were well aware of the potential for a sudden termination of the sales program. After the court had rejected his analysis, he nevertheless concluded that the claimants had "equitable" claims sufficient to justify private relief legislation merely be-cause (in his opinion) the Court of Claims was wrong in disagreeing with his legal theory. In its report to the Congress, a review panel of three trial commissioners, without explaining its reasoning, stated that it agreed with this unprecedented rationale for the existence of an equitable claim against the Government.
+To permit the silver dealers covered by H.R. 5858 to recover over $3.3 mil-lion without any findings that they received inequitable treatment from the Government, in the face of the unappealed holding of the Court of Claims that they had no legal claims against the Treasury, would establish an undesirable precedent for payment of a host of claims to claimants who may have encountered hardships due to business decisions made with full awareness of the risks that a change in a Government property disposal program might entail. No doubt many similarly situated individuals have had their expectations frustrated in the past by similar program changes. Tosingle out these three claimants for special relief would be unjust to the others, while payment to all for frustrated expectations would result in an unacceptable interference with the Government's ability to decisively and expeditiously respond to developments affecting vital national policies. For these reasons I find the bill unacceptable.
+RONALD REAGAN.
+THE WHITE HousE, January 4, 1983.
+S. 2623—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of S. 2623, which would amend the Tribally Controlled Community Colleges Assistance Act of 1978 and extend its authorities through 1987.
+I am taking this action with reluctance, because my Administration is deeply committed to providing educational opportunities for American Indians. Education is critical to economic betterment for all elements of our society. It is an equally important aspect of increasing self-determination for American Indians. I support fully the intent of S. 2623 to improve existing Indian community college programs. My Administration is dedicated to furthering this goal. The bill which is before me, however, includes a number of provisions that are unacceptable and that do not contribute to enhancement of Indian education.
+Foremost among the unacceptable provisions of this bill is section 2, which would declare the Federal government's support of tribal community colleges to be a part of its trust responsibility toward Indian tribes. College level Indian education has never been characterized in law or treaty as a trust responsibility of the Federal government, and to do so now would potentially create legal obligations and entitlements that are not clearly in-tended or understood. Such a declaration is wholly unnecessary to the continuation of a successful program of Federal assistance to tribally con-trolled community colleges.
+Although the conference report on S. 2623 suggests that "Federal policy (on Indian education) should be clear and unequivocal", the enrolled bill is highly ambiguous as to the nature and extent of this new policy of trust responsibility. S. 2623 imposes what the conference report itself admits is a "very general" trust responsibility. However, neither the bill nor the report makes any attempt to define the nature or extent of that responsibility, except to suggest—in nonbinding report language—some concepts that are not intended. This vague non-statutory language could be interpreted by the courts in a variety of ways. It could be read as establishing a trust relationship that creates an absolute responsibility to provide assistance to tribal colleges and Indian students regardless of need, and it could establish a highly undesirable precedent formaking all Indian social service pro-grams a part of the Federal government's "very general" trust responsibility.
+Finally, section 2 would also provide that grants could be used for the improvement and expansion of physical facilities. When the program of assistance to tribally controlled community colleges was originally conceived, the Congress contemplated use of existing community facilities. To begin a major new building program when there are so many other competing tribal needs would be duplicative, unwarranted, and ill-advised under current economic conditions. Funds provided through the Bureau of Indian Affairs for the tribally controlled community colleges assistance program are for program support only, and should remain so.
+Another unacceptable provision is in section 14(b) of this bill, which would subject regulations issued by the Secretary of the Interior under the pro-gram to an unconstitutional legislative veto device presently found in section 431 of the General Education Provisions Act. The Attorney General has advised me, and I agree, that two Houses of Congress cannot bind the Executive Branch by passing a concur-rent resolution that is not presented to me for approval or veto. Such a pro-vision unconstitutionally encroaches on the principle of separation of powers that is at the foundation of our government.
+In addition to these strong objections, I also have serious reservations about a number of other provisions of the bill, which could significantly in-crease Federal expenditures in a time that demands fiscal restraint. Those reservations have been explained in re-ports and testimony of the Department of the Interior on the bill.
+The authorities in the Tribally Con-trolled Community Colleges Assistance Act are not scheduled to expire until September 30, 1984, under cur-rent law. Accordingly, there will be no interruption of our current successful program activities as a result of my disapproval of S. 2623. It is my hope that Congress will reconsider legislation extending the Act early in the next session and enact a bill which both advances the program's objectives and meets the Administration's objections to S. 2823.
+RONALD REAGAN.
+THE WHITE HOUSE, January 3, 1983.
+H.R. 7336—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 7336, which would make certain amendments intended to improve the implementation of the Education Consolidation and Improvement Act of 1981.
+I continue to support the objectives of both Chapter 1 and Chapter 2 of the Education Consolidation and Improvement Act. However, I cannot approve H.R. 7336 because the bill makes
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2403.02.pdf"><title>Journal of the Senate of the United States</title>, 752</ref> (1982).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+JOURNAL OF THE SENATE
+OF THE
+UNITED STATES C
+SECOND SESSION
+OF THE
+NINETY-SEVENTH CONGRESS
+BEGUN AND HELD AT THE CITY OF WASHINGTON
+JANUARY 25, 1982, IN THE TWO HUNDRED AND SIXTH
+YEAR OF THE INDEPENDENCE
+OF THE UNITED STATES
+Published pursuant to the Constitution of the
+United States (Art. I, Sec. 5)
+William F. Hildenbrand, Secretary of the Senate
+James E. Thorndike, Journal Clerk
+752	JOURNAL OF THE SENATE	DECEMBER 23, 1982
+On January 13, 1983:
+H.R. 5161. An act to designate certain lands in the Monongahela Nation-al Forest, W. Va., as wilderness; and to designate management of certain lands for uses other than wilderness.
+On January 14, 1983:
+S. 3105. An act to modify the judicial districts of West Virginia, and for other purposes.
+H.R. 3420. An act making technical corrections to the Natural Gas Pipe-line Safety Act of 1968 and the Hazardous Liquid Pipeline Safety Act of 1979, and for other purposes.
+H.R. 5470. An act to amend the Internal Revenue Code of 1954 with respect to the tax treatment of periodic payments for damages received on ac-count of personal injury or sickness, and for other purposes.
+H.R. 6548. An act to designate the Federal Building in Lima, Ohio, as the "Tennyson Guyer Federal Building."
+H.R. 7102. An act to provide for the protection of migrant and seasonal agricultural workers and for the registration of contractors of migrant and seasonal agricultural labor and for other purposes.
+S.J. Res. 260. Joint resolution to designate the period commencing January 1, 1983, and ending December 31, 1983, as the "Tricentennial Year of German Settlement in America."
+H.J. Res. 635. Joint resolution establishing the dates for submission of the Budget and Economic Report.
+THURSDAY, JANUARY 20, 1983
+PRESIDENTIAL DISAPPROVALS SUBSEQUENT
+TO SINE DIE ADJOURNMENT
+Subsequent to the sine die adjournment of the Senate,
+The President of the United States, on Thursday, January 20, 1983, transmitted to the Secretary of the Senate a record of bills disapproved by him on certain dates, with his reasons for such actions, as follows:
+On January 3, 1983:
+AMENDMENT OF TRIBALLY CONTROLLED COMMUNITY COLLEGES ASSISTANCE ACT
+I am withholding my approval of S. 2623, which would amend the Tribally Controlled Community Colleges Assistance Act of 1978 and extend its authorities through 1987.
+I am taking this action with reluctance, because my Administration is deeply committed to providing educational opportunities for American Indians. Education is critical to economic betterment for all elements of our society. It is an equally important aspect of increasing self-determination for American Indians. I support fully the intent of S. 2623 to improve existing Indian community college programs. My Administration is dedicated to furthering this goal. The bill which is before me, however, includes a number of provisions that are unacceptable and that do not contribute to enhancement of Indian education.
+Foremost among the unacceptable provisions of this bill is section 2, which would declare the Federal government's support of tribal community colleges to be a part of its trust responsibility toward Indian tribes. College level Indian education has never been characterized in law or treaty as a trust responsibility of the Federal government, and to do so now would potentially create legal obligations and entitlements that are not clearly in-tended or understood. Such a declaration is wholly unnecessary to the continuation of a successful program of Federal assistance to tribally con-trolled community colleges.
+Although the conference report on S. 2623 suggests that "Federal policy (on Indian education) should be clear and unequivocal", the enrolled bill is highly ambiguous as to the nature and extent of this new policy of trust responsibility. S. 2623 imposes what the conference report itself admits is a "very general" trust responsibility. However, neither the bill nor the report makes any attempt to define the nature or extent of that responsibility, except to suggest—in nonbinding report language—some concepts that are not intended. This vague non-statutory language could be interpreted by the courts in a variety of ways. It could be read as establishing a trust relationship that creates an absolute responsibility to provide assistance to tribal colleges and Indian students regardless of need, and it could establish a highly undesirable precedent for making all Indian social service pro-grams a part of the Federal government's "very general" trust responsibility.
+Finally, section 2 would also provide that grants could be used for the improvement and expansion of physical facilities. When the program of assistance to tribally controlled community colleges was originally conceived, the Congress contemplated use of existing community facilities. To begin a major new building program when there are so many other competing tribal needs would be duplicative, unwarranted, and ill-advised under current economic conditions. Funds provided through the Bureau of Indian Affairs for the tribally controlled community colleges assistance program are for program support only, and should remain so.
+Another unacceptable provision is in section 14(b) of this bill, which would subject regulations issued by the Secretary of the Interior under the pro-gram to an unconstitutional legislative veto device presently found in section 431 of the General Education Provisions Act. The Attorney General has advised me, and I agree, that two Houses of Congress cannot bind the Executive Branch by passing a concur-rent resolution that is not presented to me for approval or veto. Such a pro-vision unconstitutionally encroaches on the principle of separation of powers that is at the foundation of our government.
+In addition to these strong objections, I also have serious reservationsabout a number of other provisions of the bill, which could significantly in-crease Federal expenditures in a time that demands fiscal restraint. Those reservations have been explained in re-ports and testimony of the Department of the Interior on the bill.
+The authorities in the Tribally Con-trolled Community Colleges Assistance Act are not scheduled to expire until September 30, 1984, under cur-rent law. Accordingly, there will be no interruption of our current successful program activities as a result of my disapproval of S. 2623. It is my hope that Congress will reconsider legislation extending the Act early in the next session and enact a bill which both advances the program's objectives and meets the Administration's objectives to S. 2623.
+RONALD REAGAN. THE WHITE HousE, January 3, 1983.
+On January 4, 1983:
+RELIEF OF CERTAIN SILVER DEALERS
+I am withholding my approval of H.R. 5858, a bill for the relief of three silver dealers who suffered business losses as a result of their short market positions resulting from a decision by the Department of the Treasury to terminate the sale of Government-owned silver on May 18, 1967, without honoring the dealers' telephonic re-quests made that day to purchase almost seven million ounces of silver.
+These claims were the subject of very extensive proceedings before the former United States Court of Claims, which on May 18, 1967, held that no legally binding contracts to purchase the silver had been established by these claimants, because the claimants (1) were clearly on notice that the Treasury's involvement in the silver market was altogether inseparable from monetary policy, (2) had reason to expect that Treasury would abandon the marketplace just as soon as doing so would serve monetary policy, and (3) knew that Government silver sales would end soon in view of the published reports that Treasury's supply of silver was being rapidly depleted. (Primary Metal & Mineral Corp. v. United States, 556 F.2d 507 (Ct. Cl. 1977).)
+In parallel proceedings before a trial commissioner of the same court pursuant to a Congressional Reference proceeding under 28 U.S.C. Sections 1494 and 2509 (1970), the trial commissioner had earlier found that the same dealers had valid breach of contract claims, even though he, too, found that they were well aware of the potential for a sudden termination of the sales program. After the court had rejected his analysis, he nevertheless concluded that the claimants had "equitable" claims sufficient to justify private relief legislation merely be-cause (in his opinion) the Court of Claims was wrong in disagreeing with his legal theory. In its report to the Congress, a review panel of three trial commissioners, without explaining its
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ 
+ <bibl><ref target="PV2403.03.pdf"><title>Congressional Record</title> 128, 33440</ref> (1982).</bibl>
+<!-- <floatingText>
+<body>
+CONGRESSIONAL RECORD—HOUSE	December 21, 1982
+33440
+H.R. 5858—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 5858, a bill for the relief of three silver dealers who suffered business losses as a result of their short market positions resulting from a decision by the Department of the Treasury to terminate the sale of Government-owned silver on May 18, 1967, without honoring the dealers' telephonic re-quests made that day to purchase almost seven million ounces of silver.
+These claims were the subject of very extensive proceedings before the former United States Court of Claims, which on May 18, 1967, held that no legally binding contracts to purchase the silver had been established by these claimants, because the claimants (1) were clearly on notice that the Treasury's involvement in the silver market was altogether inseparable from monetary policy, (2) had reason to expect that Treasury would abandon the marketplace just as soon as doing so would serve monetary policy, and (3) knew that Government silver sales would end soon in view of the published report that Treasury's supply of silver was being rapidly depleted. (Primary Metal & Mineral Corp. v. United States, 556 F.2d 507 (Ct.Cl. 1977).)
+In parallel proceedings before a trial commissioner of the same court pursuant to a Congressional Reference proceeding under 28 U.S.C. Sections 1494 and 2509 (1970), the trial commissioner had earlier found that the same dealers had valid breach of contract claims, even though he, too, found that they were well aware of the potential for a sudden termination of the sales program. After the court had rejected his analysis, he nevertheless concluded that the claimants had "equitable" claims sufficient to justify private relief legislation merely be-cause (in his opinion) the Court of Claims was wrong in disagreeing with his legal theory. In its report to the Congress, a review panel of three trial commissioners, without explaining its reasoning, stated that it agreed with this unprecedented rationale for the existence of an equitable claim against the Government.
+To permit the silver dealers covered by H.R. 5858 to recover over $3.3 mil-lion without any findings that they received inequitable treatment from the Government, in the face of the unappealed holding of the Court of Claims that they had no legal claims against the Treasury, would establish an undesirable precedent for payment of a host of claims to claimants who may have encountered hardships due to business decisions made with full awareness of the risks that a change in a Government property disposal program might entail. No doubt many similarly situated individuals have had their expectations frustrated in the past by similar program changes. Tosingle out these three claimants for special relief would be unjust to the others, while payment to all for frustrated expectations would result in an unacceptable interference with the Government's ability to decisively and expeditiously respond to developments affecting vital national policies. For these reasons I find the bill unacceptable.
+RONALD REAGAN.
+THE WHITE HousE, January 4, 1983.
+S. 2623—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of S. 2623, which would amend the Tribally Controlled Community Colleges Assistance Act of 1978 and extend its authorities through 1987.
+I am taking this action with reluctance, because my Administration is deeply committed to providing educational opportunities for American Indians. Education is critical to economic betterment for all elements of our society. It is an equally important aspect of increasing self-determination for American Indians. I support fully the intent of S. 2623 to improve existing Indian community college programs. My Administration is dedicated to furthering this goal. The bill which is before me, however, includes a number of provisions that are unacceptable and that do not contribute to enhancement of Indian education.
+Foremost among the unacceptable provisions of this bill is section 2, which would declare the Federal government's support of tribal community colleges to be a part of its trust responsibility toward Indian tribes. College level Indian education has never been characterized in law or treaty as a trust responsibility of the Federal government, and to do so now would potentially create legal obligations and entitlements that are not clearly in-tended or understood. Such a declaration is wholly unnecessary to the continuation of a successful program of Federal assistance to tribally con-trolled community colleges.
+Although the conference report on S. 2623 suggests that "Federal policy (on Indian education) should be clear and unequivocal", the enrolled bill is highly ambiguous as to the nature and extent of this new policy of trust responsibility. S. 2623 imposes what the conference report itself admits is a "very general" trust responsibility. However, neither the bill nor the report makes any attempt to define the nature or extent of that responsibility, except to suggest—in nonbinding report language—some concepts that are not intended. This vague non-statutory language could be interpreted by the courts in a variety of ways. It could be read as establishing a trust relationship that creates an absolute responsibility to provide assistance to tribal colleges and Indian students regardless of need, and it could establish a highly undesirable precedent formaking all Indian social service pro-grams a part of the Federal government's "very general" trust responsibility.
+Finally, section 2 would also provide that grants could be used for the improvement and expansion of physical facilities. When the program of assistance to tribally controlled community colleges was originally conceived, the Congress contemplated use of existing community facilities. To begin a major new building program when there are so many other competing tribal needs would be duplicative, unwarranted, and ill-advised under current economic conditions. Funds provided through the Bureau of Indian Affairs for the tribally controlled community colleges assistance program are for program support only, and should remain so.
+Another unacceptable provision is in section 14(b) of this bill, which would subject regulations issued by the Secretary of the Interior under the pro-gram to an unconstitutional legislative veto device presently found in section 431 of the General Education Provisions Act. The Attorney General has advised me, and I agree, that two Houses of Congress cannot bind the Executive Branch by passing a concur-rent resolution that is not presented to me for approval or veto. Such a pro-vision unconstitutionally encroaches on the principle of separation of powers that is at the foundation of our government.
+In addition to these strong objections, I also have serious reservations about a number of other provisions of the bill, which could significantly in-crease Federal expenditures in a time that demands fiscal restraint. Those reservations have been explained in re-ports and testimony of the Department of the Interior on the bill.
+The authorities in the Tribally Con-trolled Community Colleges Assistance Act are not scheduled to expire until September 30, 1984, under cur-rent law. Accordingly, there will be no interruption of our current successful program activities as a result of my disapproval of S. 2623. It is my hope that Congress will reconsider legislation extending the Act early in the next session and enact a bill which both advances the program's objectives and meets the Administration's objections to S. 2823.
+RONALD REAGAN.
+THE WHITE HOUSE, January 3, 1983.
+H.R. 7336—MEMORANDUM OF DISAPPROVAL
+I am withholding my approval of H.R. 7336, which would make certain amendments intended to improve the implementation of the Education Consolidation and Improvement Act of 1981.
+I continue to support the objectives of both Chapter 1 and Chapter 2 of the Education Consolidation and Improvement Act. However, I cannot approve H.R. 7336 because the bill makes
+
+
+</body></floatingText> -->
+
+
+</div1>
+
+</body>
+</text>
+</TEI>

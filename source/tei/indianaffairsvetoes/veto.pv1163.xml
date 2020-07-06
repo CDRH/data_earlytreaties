@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1163">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1163	S. 1508 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1163</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-third Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1163	S. 1508 (Seventy-third Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>Providing for the final enrollment of the Indians of the Klamath Indian Reservation in the State of Oregon.</p> 
+
+<p>Pocket veto occurred after the 2nd session of the 73rd Congress had adjourned sine die on June 18, 1934.  The bill was presented to the President on June 16, 1934 (78 <title>Cong. Rec.</title> 12089; <hi rend="italics">see also</hi> 78 <title>Cong. Rec.</title> 12457).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 252.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1163.01.pdf"><title>Congressional Record</title> 78, 12089</ref> (1934).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1934	CONGRESSIONAL RECORD SENATE	12089 </fw>
+<p>Mr. COUZENS. I can submit the proof that the Senator from Virginia was not there when this bill was drafted for submission to the Senate.</p>
+<p>Mr. GLASS. The Senator did not need to be there to know that his colleagues on the Banking and Currency Committee are honest and upright men.</p>
+<p>Mr. COUZENS. I did not charge that they were otherwise than honest and upright men</p>.
+<p>Mr. GLASS. Yes; the Senator did. He charged that they were dominated by Wall Street, that they were dominated by the Federal Reserve Board, and I deny the assertion.</p>
+<p>Mr. COUZENS. I assert that it was so, and it was clearly evidenced in the meeting when the Senator was not present.</p>
+<p>Mr. GLASS. I do not know what was done at the meeting which I did not attend.</p>
+<p>Mr. COUZENS. Of course the Senator does not.</p>
+<p>Mr. GLASS. But I know what is in this bill; and the Senator cannot point to a provision of it that was advocated by Wall Street bankers.</p>
+<p>Mr. COUZENS. No; that was taken out because there was a division among the committee.</p>
+<p>Mr. GLASS. It was taken out, I venture to say, because it was the judgment of the committee that it should not be put in.</p>
+<p>Mr. COUZENS. Oh, no.</p>
+<p>Mr. GLASS. Had it been put in by either suggestion or dictation of Wall Street, the Senator might have had some justification for his accusation.</p>
+<p>It is a serious matter for any honorable Senator to stand on this floor and bring such an accusation as that against his colleagues. If I could think that the Banking and Currency Committee of the United States Senate could be dominated by Wall Street, or by the Federal Reserve Board, or by the Comptroller of the Currency, or by all three of them combined, I should be ashamed to accept membership on it.</p>
+
+<head>EXECUTIVE MESSAGES REFERRED</head>
+<p>The VICE PRESIDENT, as in executive session, laid before the Senate several messages from the President of the United States submitting nominations (and withdrawing a nomination), which were referred to the appropriate committees.</p>
+<p>(For nominations this day received and nomination withdrawn, see the end of Senate proceedings.)</p>
+
+<head>EXECUTIVE REPORTS OF COMMITTEES</head>
+<p>As in executive session,</p>
+<p>Mr. SHEPPARD, from the Committee on Military Affairs, reported favorably the nominations of several officers in the Regular Army.</p>
+<p>Mr. WALSH, from the Committee on Naval Affairs, reported favorably the nominations of sundry officers in the Navy.</p>
+<p>Mr. McKELLAR, from the Committee on Post Offices and Post Roads, reported favorably the nominations of sundry postmasters.</p>
+<p>Mr. STEPHENS, from the Committee on Commerce, re-ported favorably the nomination of Jesse E. Murry to be supervising inspector, Navigation and Steamboat Inspection.</p>
+<p>Mr. ASHURST, from the Committee on the Judiciary, re-ported favorably the following nominations:</p>
+<p>William H. McDonnell, of Illinois, to be United States marshal, northern district of Illinois, to succeed Henry C. W. Laubenheimer, resigned;</p>
+<p>Sid A. Willis, of Montana, to be United States marshal, district of Montana, to succeed Rolla Duncan, whose resignation is effective June 30, 1934;</p>
+<p>Samuel E. Swinney, of Oklahoma, to be United States marshal, eastern district of Oklahoma, to succeed Clark B. Wasson, term expired; and</p>
+<p>William C. Lewis, of Oklahoma, to be United States attorney, western district of Oklahoma. (Mr. Lewis is now serving under an appointment by the court.)</p>
+<p>The VICE PRESIDENT. The reports will be placed on the Executive Calendar.</p>
+<head>SENATORS FROM LOUISIANA&#8212;ADDITIONAL PETITION</head>
+<p>The VICE PRESIDENT laid before the Senate a letter in the nature of a petition from Hilda Phelps Hammond, chair-man of the Women's Committee of Louisiana, relative to the action of the Senate in regard to discharging the Committee on Privileges and Elections from further consideration of the charges filed by the Women's Committee of Louisiana against the Senators from that State, Mr. LONG and Mr. OVERTON, and praying further investigation of said charges, which was ordered to lie on the table.</p>
+<head>ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED</head>
+<p>Mrs. CARAWAY, from the Committee on Enrolled Bills,
+reported that on today, June 16, 1934, that committee presented to the President of the United States the following enrolled bills and joint resolutions:</p>
+<p>S.504. An act to authorize the Secretary of the Navy to make a long-term contract for the supply of water to the United States naval station at Guantanamo Bay, Cuba;</p> 
+<p>S. 551. An act for the relief of A. W. Holland;</p>
+<p>S. 555. An act to authorize the acquisition by the United States of the land upon which the Seneca Indian School, Wyandotte, Okla., is located;</p>
+<p>S. 822. An act to amend the act entitled "An act to amend section 217, as amended, of the act entitled `An act to codify, revise, and amend the penal laws of the United States', approved March 4, 1909 ", approved January 11, 1929, with respect to the use of the mails for the shipment of certain drugs and medicines to cosmetologists and barbers;</p>
+<p>S. 1508. An act providing for the final enrollment of the Indians of the Klamath Indian Reservation in the State of Oregon;</p>
+<p>S. 3096. An act for the relief of John T. Garity;</p>
+<p>S. 3151. An act to convey to the King Hill Irrigation District, State of Idaho, all the interest of the United States in the King Hill Federal Reclamation Project, and for other purposes;</p>
+<p>S.3446. An act to authorize the Postmaster General to receive, operate, and to maintain for official purposes motor vehicles seized for violations of the customs laws;</p>
+<p>S.3530. An act relating to Philippine currency reserves on deposit in the United States;</p>
+<p>S. 3618. An act to grant a portion of the Fort Douglas Military Reservation to the University of Utah, Salt Lake City, Utah;</p>
+<p>S.3655. An act to amend the act entitled "And act for preventing the manufacture, sale, or transportation of adulterated or misbranded or poisonous or deleterious foods, drugs, medicines, and liquors, and for regulating traffic therein, and for other purposes ", approved June 30, 1906, as amended;</p>
+<p>S. 3696. An act authorizing the President to make rules and regulations in respect to alcoholic beverages in the Canal Zone, and for other purposes;</p>
+<p>S. 3739. An act to authorize the President to transfer to the Government of Haiti without charge to that Government certain property of the United States in Haiti;</p>
+<p>S. 3764. An act to reduce the fee to accompany applications for entry as second-class matter of publications of limited circulation</p>;
+<p>S. 3765. An act to enable the Postmaster General to with-hold commissions on false returns made by postmasters;</p>
+<p>S.3766. An act to amend the act entitled "An act authorizing the Postmaster General to adjust certain claims of postmasters for loss by burglary, fire, or other unavoidable casualty ", approved March 17, 1882, as amended;</p>
+<p>S. 3779. An act to amend section 4 of " An act to amend an act entitled ` An act to establish a uniform system of bankruptcy throughout the United States ', approved July 1, 1898, and acts amendatory thereof and supplementary thereto", approved June 7, 1934;</p>
+S.J.Res. 106. Joint resolution authorizing loans to fruit growers for rehabilitation of orchards during the year 1934;
+<p>S.J.Res. 130. Joint resolution to amend section 72 of the Printing Act, approved January 12, 1895, and acts amendatory thereof and supplementary thereto, relative to the allot&#8211;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1163.02.pdf"><title>Congressional Record</title> 78, 12457</ref> (1934).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1934	CONGRESSIONAL RECORD SENATE	12457 </fw>
+<p>On June 27, 1934, the following bills and joint resolutions were likewise disapproved:</p>
+<p>H.R. 3595. An act for the relief of St. Ludgers Catholic Church of Germantown, Henry County, Mo.</p>
+<p>"Seventy years have elapsed since the end of the Civil War. During this period no Congress has ever seen fit either to grant an award of this claim or to refer it to the Court of Claims. To approve this bill would open up many claims for damages alleged to have been caused by Union forces in the Civil War."</p>
+<p>HR. 8513. An act to authorize the coinage of 50-cent pieces in commemoration of the boyhood home of Gen. Thomas J. (Stonewall) Jackson.</p>
+<p>"Although I have approved several bills to authorize issuing 50-cent pieces to commemorate anniversaries of the founding of States, I have* announced that hereafter such coinage should be greatly limited.</p>
+<p>" While the boyhood home of General Jackson is of great interest to all Americans, I do not believe that a special coinage of 50-cent pieces is justified."</p>
+<p>H.R. 8644. An act to provide warrant officers of the Coast Guard parity of promotion with warrant officers of the Navy.</p>
+<p>" The Treasury Department is definitely opposed to the approval of this measure. The question rests primarily on the need of the Coast Guard for additional warrant officers. The Secretary of the Treasury states categorically, 'If the bill was enacted the number of chief warrant officers appointed would far exceed the number needed for the proper conduct of the Coast Guard.' In view of this there is no question that disapproval is called for."</p>
+<p>S. 1103. An act to authorize the Secretary of the Navy to proceed with certain public works at the naval air station, Pensacola, Fla.</p>
+<p>" This bill authorizing an expenditure of over $5,000,000 for Navy aeronautical purposes is premature. Final decision as to priority of Navy flying developments has not yet been made. If it seems advisable to include Pensacola next winter, a request for an adequate appropriation and not merely an authorization will then be made."</p>
+<p>S.3626. An act referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+<p>"While the purpose of this is good, it does not cure the objections raised by me in the veto of a similar bill, S. 326, on May 10, 1934."</p>
+<p>S. 3780. An act for the relief of persons engaged in the fishing industry.</p>
+<p>"This bill is unnecessary because the act authorizing loans to industries includes the fishing industry."</p>
+<p>S.3092. An act to confer jurisdiction upon the Court of Claims to hear, determine, and render judgment upon the claim of the heirs of James Taylor, deceased Cherokee Indian, for the value of certain lands now held by the United States.</p>
+<p>"Disapproved because this bill ties the hands of the Court of Claims and prevents an equitable determination."</p>
+<p>S. 854. An act for the relief of the Ingram-Day Lumber Co.</p>
+<p>"Disapproved because no provision is made for the Government's counterclaim."</p>
+<p>H.R. 5543. An act for the relief of T. Brooks Afford.</p>
+<p>"A portion of this sum appears justifiable, but not the whole amount."</p>
+<p>S. 1287. An act for the relief of Leonard Theodore Boice.</p>
+<p>"The record is so clear in this case that it would not be
+just to attempt to change it by congressional action." </p>
+<p>S. 3499. An act for the relief of Michael Ilitz.</p>
+<p>"In spite of this man's excellent record as a soldier and civil employee, this bill would single him out for special reward. It must, therefore, be disapproved."</p>
+<p>S. 1654. An act for the relief of George Yusko.</p>
+<p>"I cannot feel that the circumstances disclosed are sufficiently extenuating to justify the approval of this bill."</p>
+<p>S.2810. An act for the relief of Alice F. Martin, widow, and two minor children.</p>
+<p>"This bill is similar to H.R. 6246 and must be disapproved for the same reasons given in my veto message of June 16, 1934."</p>
+<p>S. 1992. An act for the relief of Arthur R. Lewis.</p>
+<p>"I cannot agree that the 'extenuating circumstances' mentioned in the committee report justify changing the record."</p>
+<p>S. 3156. An act for the relief of Mary Angela Moert.</p>
+<p>"This bill departs from a long-established, sound policy of the War Department."</p>
+<p>S. 527. An act for the relief of Lillian Morden.</p>
+<p>"There must have been thousands of similar cases of influenza during the World War. I cannot open up this broad field."</p>
+<p>S. 2227. An act for the relief of Harold S. Shepardson.</p>
+<p>"Disapproved because the statements do not seem to me to justify or condone the offense."</p>
+<p>H.R. 3726. An act to grant a patent to Albert M. Johnson and Walter Scott.</p>
+<p>"While I am in sympathy with the purpose of this bill, I must disapprove it because it does not properly safeguard the Government."</p>
+<p>S.3516. An act for the relief of the Morgan Decorating Co.</p>
+<p>"Disapproved because I do not believe that an obligation of the Federal Government has been sufficiently established."</p>
+<p>S. 60. An act for the relief of Richard J. Rooney.</p>
+<p>"From a careful perusal of Senate Report 473, I cannot bring myself to the conclusion that this claim for $75 has sufficient merit."</p>
+<p>S. 2744. An act for the relief of Anna Carroll Tausssig.</p>
+<p>"This case has been before Congress in the form of a relief bill for approximately 15 years. It never received favorable consideration. Most of the postal records in the case were destroyed by the authority of Congress as useless papers. I presume that former Congresses were convinced that the claims had no merit."</p>
+<p>S. 3486. An act for the relief of George L. Rulison.</p>
+<p>"This bill violates the general rule that no officer or employee can create a valid claim by incurring obligations which he is not legally required or authorized to incur."</p>
+<p>S.J. Res. 106. Joint resolution authorizing loans to fruit growers for rehabilitation of orchards during the year 1934.</p>
+<p>"There is no necessity for this bill because its purpose can be accomplished with funds appropriated for the relief of stricken agricultural areas and made available by me in the Farm Credit Administration."</p>
+<p>H.R. 4554. An act to amend section 4808 of the Revised Statutes (U.S.C., title 24, sec. 3) to prevent discriminatory reductions in pay of the retired personnel of the Navy and Marine Corps.</p>
+<p>"There is no more reason to relieve officers and men on the retired list from the assessment of 20 cents per month for the Naval Hospital fund. than there would be to relieve those on the active list."</p>
+<p>H.R. 4447. An act for the relief of Vertner Tate.</p>
+<p>"This proposed bill is not desirable for the reason that it would set an unwise precedent."</p>
+<p>S. 2672. An act for the relief of Mabel S. Parker.</p>
+<p>"This bill is disapproved because it would create the precedent of granting relief upon the ground of ignorance of the law."</p>
+<p>H.R. 8688. An act for the relief of Stella E. Whitmore.</p>
+<p>"This bill is disapproved because relief can be granted upon proper application to the Treasury Department and also because of technical defects."</p>
+<p>S. 1508. An act providing for the final enrollment of the Indians of the Klamath Indian Reservation in the State of Oregon.</p>
+<p>"This bill improperly excludes certain Indians from existing rights."</p>
+<p>S. 3185. An act to amend the Agricultural Adjustment Act, as amended, with respect to farm prices.</p>
+<p>"This bill is disapproved because of the difficulties which have been pointed out in memoranda from the Department of Justice, the Department of Agriculture, and the Agricultural Adjustment Administration."</p>
+<p>H.R. 9145. An act to authorize the attendance of the Marine Band at the National Encampment of the Grand Army of the Republic to be held at Rochester, N.Y., August</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

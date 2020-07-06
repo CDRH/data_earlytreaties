@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0615">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">615	H.R. 7186 (Fiftieth Congress, Second Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0615</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fiftieth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>615	H.R. 7186 (Fiftieth Congress, Second Session &#8212; Cleveland)</head>
+<p>To authorize the Leavenworth and Rio Grande Railway Company to construct and operate a railway through the Indian Territory, and for other purposes.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 50th Congress had adjourned sine die on March 3, 1889.  The bill was presented to the President on February 26, 1889 (February 26, 1889, H. Jour., p. 657; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 32).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 136.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0615.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1889).  50th Congress, 2nd session, p. 657 (<title>Serial Set</title> 2625).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES
+OF THE
+UNITED STATES,
+BEING THE
+SECOND SESSION OF THE FIFTIETH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON,</head>
+<head>DECEMBER 3, 1888,
+IN THE ONE HUNDRED AND TWELFTH YEAR OF THE INDEPENDENCE
+OF THE UNITED STATES.</head>
+<milestone unit="rule" />
+
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1889.</head>
+
+<fw> Feb. 27, 1889.] HOUSE OF REPRESENTATIVES.	657 </fw>
+<p>ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Jones of Arkansas, Mr. Platt, and Mr. Dawes as conferees on their part.</p>
+<p>Also, that the Senate have passed with amendments the bill (H. R. 8740) to authorize the Secretary of the Interior to sell to the " Methodist College Association of Southwestern Kansas" certain lands in Kansas ; ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Plumb, Mr. Teller, and Mr. Cockrell as conferees on their part.</p>
+<p>Also, that the Senate have passed with amendment the bill (H. R. 9268) to punish dealers and pretended dealers in counterfeit money and other fraudulent devices for using the United states mails ; ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Mitchell, Mr. Sawyer, and Mr. Reagan as conferees on their part.</p>
+<p>Also, that the Senate have passed with amendments the bill (H. R. 9418) to incorporate the Washington and Western Maryland Railroad Company; ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Spooner, Mr. Farwell, and Mr. Faulkner as conferees on their part.</p>
+<p>Also, that the Senate have passed with amendments the bill (H. R. 11634) to provide for the allotment of land in severalty to United Peorias and Miamies, in Indian Territory, and for other purposes; ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Dawes, Mr. Morgan, and Mr. Stockbridge as conferees on their part.</p>
+<p>Also, that the Senate have passed with amendments the bill (H. R. 5509) to grant to the Gulf and Chicago Air Line Railway Company the right to construct bridges over navigable water courses; ask a conference on the disagreeing votes of the two Houses, and have appointed Mr. Vest, Mr. Sawyer, and Mr. Frye as conferees on their part.</p>
+<p>Also, that the Senate have passed the bill (H. R. 483) for the relief of Elizabeth Jones, widow of John Jones, deceased, and to place the name of said John Jones on the muster&#8211;rolls of Company B, Second Regiment North Carolina Mounted Infantry.</p>
+<p>On motion of Mr. Townshend, by unanimous consent, leave was given to withdraw from the files the papers in the cases of W. H. McCabe and W. P. Fowler.</p>
+<p>On motion of Mr. Crain, by unanimous consent, leave was granted to withdraw from the files the papers in the case of William M. Douglass.</p>
+<p>Mr. Enloe, from the Committee on Enrolled Bills, reported that he did, on yesterday, present to the President of the United States the bills of the House numbered as follows, viz: H. R. 11527, H. R. 7028, H. R. 11901, H. R. 12431, H. R. 7186, H. R. 325, H. R. 3721, H. R. 12414, EL R. 11216, H. R. 7065, H.. 11342, H. R. 12310, H. R. 12113, H. R. 11643, and H. R. 5032.</p>
+<p>Mr. Enloe, from the Committee on Enrolled Bills, also reported that said committee had examined and found truly enrolled bills of the House and Senate of the following titles, viz:</p>
+<p>H. R. 565. An act for the relief of Mary A. Howse and Lulu H. Howse ;</p>
+<p>H. R. 766. Au act for the relief of H. L. Newman;</p>
+<p>H. R. 285. An act for the relief of the legal representatives of H. Corths;</p>
+<p>H. R. 4581. An act for the relief of Thomas Matthews and others; </p>
+<p>H. R. 10652. An act to encourage the enlistment of boys as apprentices in the United States Navy;</p>
+</body></floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+<bibl><ref target="PV0615.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 32 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS 2d Session HOUSE OF REPRESENTATIVES DOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928.</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule" />
+<hi rend="right">DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<quote> In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition? </quote>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="32" />
+<fw> 32	REPORT ON POCKET VETO </fw>
+<p>The President made no marks on bills or on committee reports except as noted. I give the number of the bill and the date stamped on the bill as the date on which it was received at the Executive Mansion.</p>
+<table>
+<row><cell>S. 28-Feb. 23, 1889	</cell><cell>S. 2310-Feb. 26</row>
+<row><cell>S. 1488-Feb. 27	</cell><cell>S. 2344-Feb. 26</row>
+<row><cell>S. 1719-Mar. 2</cell><cell>	S. 2683-Mar. 2 </row>
+<row><cell>S. 2008-Feb. 26</cell><cell>S. 2690-Feb. 26</cell>
+</table>
+<p>S. 3132&#8212;date not marked. Attached to it is a printed report of a committee of the House of Representatives, and on it, written in pencil in the handwriting of President Cleveland but unsigned, are the words:</p>
+<p>This bill is inconsistent with the recent law passed in regard to juries in District and it refers to Sections of the Rev. <title>Stat.</title> improperly and that have been repealed or modified by a law passed at this Session.</p>
+<p>S. 3137-Mar. 2</p>
+<p>S. 3198-Feb. 26. Attached to it is a printed copy of a report of a committee to the Senate, on which in President Cleveland's handwriting but unsigned are the words:</p>
+<quote>No cause of death shown.</quote>
+<p>S. 3309-Feb. 26</p>
+<p>H. R. 483-Feb. 28. Attached to bill is a printed committee report on which is this penciled notation:</p>
+<quote>It seems this man is already on the rolls	G. C. </quote>
+<p>H. R. 717&#8212;Mar. 1, 1889</p>
+<p>H. R. 2157&#8212;Mar. 2 </p>
+<p>H. R. 2896&#8212;Mar. 2 </p>
+<p>H. R. 3829&#8212;Feb. 28. On the attached committee report is
+written: </p>
+<quote> This legislation seems to be unnecessary.	G. C. </quote>
+<table>
+<row><cell>
+H. R. 4624-Mar. 2</cell><cell>H. R. 6612-Feb. 27</cell> </row>
+<row><cell>H. R. 4856-Mar. 2</cell><cell>	H. R. 6763-Mar. 2</cell></row>
+<row><cell>H. R. 5398-Mar. 2</cell><cell>	H. R. 6896-Feb. 28</cell></row>
+<row><cell>H. R. 5758-Mar. 2</cell><cell>H. R. 7186-Feb. 26</cell></row>
+<p>H. R. 7924&#8212;Feb. 27. On attached committee report is the President's penciled unsigned comment:</p>
+<quote>Was not the payment under the law of 1886 after adjustment by the Secretary of Interior a settlement in full? (See act p. 8.) </quote>
+<p>H. R. 8580-stamped date illegible.</p>
+<p>H. R. 9159-Mar. 2</p>
+<p>H. R. 10721-Mar. 1, 1889. On attached committee report, in writing which appears to be that of the President:</p>
+<quote>This is a duplicate of bill passed 1st Session 50th Congress.</quote>
+<p>H. R. 11627-Mar. 2</p>
+<p>H. R. 12542-Mar. 2. President Cleveland wrote on sheets of paper now attached to the bill these comments:</p>
+<quote>These children ought to have a pension on the ground that their father really died from the effect of his wounds, and I would gladly sign a bill granting them a pension on that ground. I have signed many with not half the merits and </quote>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="lexicon_stylesheet.xsl" type="text/xsl"?>
+<!DOCTYPE TEI.2 PUBLIC "-//UNL Libraries::CDRH//DTD TEI.dtd (Nebraska)//EN" "TEI.dtd" [
+
+]>
+
+
+<TEI.2 id="treaty.tfl.002">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Comparing Nearly Identical Treaty Texts: 
+A Note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> 
+and Levenshtein's Edit Distance Metric
+</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Karin Dalziel</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital
+Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno/>
+<availability>
+<p><!-- ? (copyright) --></p>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change>
+<date>2009-10-27</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt>
+<item>Initial encoding</item>
+</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+<front>
+<div1>
+<head rend="center">Comparing Nearly Identical Treaty Texts:
+A Note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> 
+and Levenshtein's Edit Distance Metric</head>
+
+
+<milestone unit="crosses"/>
+
+<docAuthor>Charles D. Bernholz, Love Memorial Library, University of
+Nebraska, Lincoln, NE 68588<ref n="*" target="f01"/>
+</docAuthor>
+<docAuthor>Brian L. Pytlik Zillig, Center for Digital Research in the Humanities, Love Memorial Library, University of Nebraska, Lincoln, NE 68588<ref n="**" target="f02"/>
+</docAuthor>
+<p/>
+</div1>
+<milestone unit="crosses"/>
+<div1>
+<head>Abstract</head>
+
+<p>Vladimir Levenshtein's edit distance algorithm is used to reveal disparities between delimiter stripped texts of the Senate amended <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> as corrected in a previous study, and of other federal copies of this transaction.  All of the latter deviated markedly from that newly created version, reflecting errors of exclusion, of the absence in some transcripts of the Senate modification, of editorial decisions made by Charles J. Kappler during the preparation of his treaty compilations at the beginning of the twentieth century, and of spelling.  These results confirmed that the instrument was until now never published in its complete state.  This study may serve as a model for future text analyses that might benefit from the employment of Levenshtein's metric.</p>
+
+</div1>
+
+<milestone unit="crosses"/>
+
+</front>
+<body>
+<div1>
+
+<head rend="center">Comparing Nearly Identical Treaty Texts:
+A Note on the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>
+and Levenshtein's Edit Distance Metric</head>
+
+<milestone unit="crosses"/>
+
+
+<p>In a previous analysis of the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> (Kappler, 1904b, pp. 594-596; henceforth <title>Fort Laramie</title>), the published federal texts for this instrument were examined in order to produce a final, correct version of this transaction, reflecting both the original document's material as well as an amendment made by the Senate to one of its articles (Bernholz and Pytlik Zillig, 2009; <title>Laramie09</title>).  As one result of that study, it was concluded that <title>Fort Laramie</title> had never been published in an error-free state.</p>
+
+<p>The text of this contract with nine tribes of American Indians consisted of a preamble, eight articles, and a testimonium that announced forthcoming signatures.  Seven sources were assessed during these comparisons: that furnished by digital images of the original 1851 treaty itself, now held at the National Archives and Records Administration (<title>Laramie51</title>); by the Senate's 1852 Confidential Executive Document used during the ratification process (Articles of a treaty, 1852, pp. 1-3; <title>Laramie52</title>); by two nineteenth century summary examples, one from each of <title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> (1873, pp. 1047-1050; <title>Laramie73</title>) and <title>Laws of the United States Relating to Indian Affairs</title> (1884, pp. 317-320; <title>Laramie84</title>); by the two items published in Charles J. Kappler's 1903 (pp. 440-442; <title>Laramie03</title>) and 1904 (pp. 594-596; <title>Laramie04</title>) second volumes of <title>Indian Affairs: Laws and Treaties</title>; and by the passage offered in his 1929 fourth volume of that series (pp. 1065-1067; <title>Laramie29</title>).  The 1903 example did not contain the signatures of the event participants, so Kappler removed the testimonium found in the other reports.</p>
+
+<p>Comparing content is a fundamental process in text analysis and during the formation of <title>Laramie09</title>, many questions arose regarding the discrepancies found among the array of available alternatives for each term.  Setting aside the understandable changes induced by the Senate's annuity modification &#8212; wherein it was ordered that two words of Article 7 were to be replaced by thirty to describe that alteration &#8212; and given the reasonable expectation of identical or nearly identical subsequent accounts following that mandate, the observed dissimilarities presented interesting insights into the provenance of these documents.  This was especially so when an evaluation was conducted between the treaty's original 1851 wording and that of each of the three renditions found in Kappler's <title>Indian Affairs</title> (1903, 1904b, and 1929).  These later copies had been compiled in response to a Senate request for an up to date catalog of relevant Indian affairs materials (Compilation of Indian Affairs, 1902), where his second <title>Treaties</title> volume in each of the 1903 and 1904 series was reserved for these instruments alone.</p>
+
+<p>Unfortunately, and as the result of errors committed by the Department of the Interior, <title>Fort Laramie</title> was never appropriately published in the <title>Statutes at Large</title>, as is required by law,<ref n="1" target="n01"/> so only unofficial copies endure.  The general availability of Kappler's <title>Indian Affairs</title> therefore assured during the last century that his collations &#8212; and in particular, the 1904 one &#8212; became the most frequently used record of this event's parameters, as well as for those of almost all of the other federally recognized treaties with the tribes.  Francis Paul Prucha stated that Kappler's 1904 <title>Treaties</title> edition "follows a chronological arrangement and relies for its texts on the <title>Statutes at Large</title> (although it prints the Fort Laramie Treaty from 1851, which the <title>Statutes</title> omits), and in most cases, it prints the treaty <emph>as amended</emph> instead of the original treaty with amendments printed at the end, as the <title>Statutes</title> does" (1994, pp. 523-524; emphasis original).<ref n="2" target="n02"/></p>
+
+<p>Besides the later expected alteration motivated by the introduction of the annuity adaptation, the observation of a variety of text exclusions, incursions, and replacements in all other versions relative to the original 1851 material led to an additional matter.  <title>Laramie09</title>, instead of the 1851 instrument, could potentially serve as the standard against which all previous descriptions might be compared, especially if it could be established that the content of that revised entity was much closer to that of the original 1851 document than it was to any of the other remaining federal renditions.  Under this scenario, the need to index inherent dissimilarities was critical, since Kappler had incorporated the Senate adjustment into each of his three twentieth century transcripts, thereby approximating the expected accurate account.  Ultimately, <title>Laramie09</title> &#8212; the 1174 word, 5730 byte record fashioned during the text analysis study &#8212; captured the original 1851 text including punctuation which was then altered solely by integrating the allowance modification into Article 7.</p>
+
+<p>Absent punctuation, spelling, and insignificant replacement differences across versions, the pivotal inconsistencies are identified in Table 1.  First, just <title>Laramie51</title>, <title>Laramie52</title>, and <title>Laramie84</title> contained a boundary sub-specification &#8212; ". . . <emph>thence from the mouth of Powder River</emph>. . .." &#8212; found in the original Gros Ventre, Mandan, and Arikara portion of Article 5 (henceforth the Gros Ventre exclusion).  Second, <title>Laramie73</title> and the three Kappler descriptions were the only ones that presented the updated annuity clause of Article 7 that the Senate had developed during ratification.  Finally, the Table further confirms that <title>Laramie09</title> employed both the relevant boundary condition and the revised payment parameters, thereby more closely forming the expected &#8212; and legally required &#8212; final narrative that belonged in the <title>Statutes at Large</title>.</p>
+
+<div2>
+<head>Levenshtein's Edit Distance</head>
+
+<p>Vladimir Levenshtein, the 2006 IEEE Richard W. Hamming Medal winner "for exceptional contributions to information sciences, systems and technology,"<ref n="3" target="n03"/>  wrote forty years ago (1966) on the transmission of information, where the three operations of deletion, insertion, and substitution may be engaged to correct errors contained in a transmitted string.  Soukoreff and MacKenzie (2001) used the model <term>quick brown fox</term> as a prototypic presented text and <term>quixck brwn fox</term> as the corresponding transcribed one.  Even though there might be as many as six errors in such a communication &#8212; as shown by the failure of the transcribed substring <term>xck br</term> to match the presented one <term>ck bro</term> &#8212; the two most likely errors committed during their text entry task were those of the insertion of the character <term>x</term>, and of the omission of the character <term>o</term>; Levenshtein's edit distance (LED) would thus be 2 for the deletion operation of <term>x</term>, plus the insertion one of <term>o</term>.  It follows that for such string pairs that prove to be identical, the computed LED would be zero.  Further, the observed edit distance must be less than or equal to the maximum of the two string lengths; replacing a missing sequence with one of length <term>n</term> costs no more than <term>n</term> operations, considered here as <term>n</term> bytes.  The Levenshtein procedure has been found useful in the development of spell checkers (see Kukich, 1992) and plagiarism detectors (Zini, Fabbri, Moneglia, and Panunzi, 2006).  These editorial activities were precisely those investigated in the <title>Fort Laramie</title> study, because detecting spelling errors and/or inexact passage reproduction was paramount.</p>
+
+<p>For the assessment conducted here, the original 1851 treaty served as the base document.  The test data were taken from the earlier study and consisted of a vertically aligned joint set of the various transaction texts, excluding delimiters and constructed to a uniform length, where a specific document's alignment was augmented by blank rows to fill in any absent subsections of that version.  As an example of this procedure, a subsection of two parallel instruments might have a token difference such as <title>head men</title> vs. <title>headmen</title> which, when placed in these arrays, required their sequences to occupy first two lines, and then only one location, supplemented by a subsequent blank corresponding to the former's men term.  The application of the LED algorithm to this portion of the data would compute an edit distance for each of the <term>head</term> vs. <term>headmen</term> and the <term>men</term> vs. <term>blank</term> rows, and would return individual values of 3 and 3, respectively.  Note that a contrast between <term>head men</term> and <term>headmen</term> as two strings would generate an LED of just 1, i.e., through the deletion cost of the blank separating the two words in the first target.  The vertical text distribution format employed here thus maximized the potential cumulative LED scores.</p>
+
+<p>In addition, Levenshtein's process returns evidence of <emph>all</emph> text differences, including those of capitalization.  Inspection verified that the tokens in these treaty documents fluctuate markedly on this characteristic.  Since the main objective was concerned with the <emph>contents</emph> of the accord rather than with its presentation, all materials were normalized to lower case prior to similarity testing.</p>
+</div2>
+
+<div2>
+<head>Assignable costs</head>
+
+<p>The known differences among these <title>Fort Laramie</title> documents, explicitly exemplified by the chronological inability of the original contract to hold the final Senate annuity proposal, meant that there was a finite set of expected deviations across these examples.  Incorporating that Senate update thereby induced a degree of divergence between the wording of the 1851 and the 1852 pre-adjustment transcripts, and of those of some later versions.  This introduction also guaranteed that the value of the cumulative LED, computed between the original passages and those of both the ensuing accounts and <title>Laramie09</title>, would never be zero, but would instead reflect at a minimum one or more fixed offsets of some non-zero length.</p>
+
+<p>As one specific instance of this situation, revising the original 1851 rendering to reflect the legislated annuity change required the amendment activity specified by the Senate: "Article 7, strike out the words "fifty years," and insert in lieu thereof the following: <term>the term of ten years, with the right to continue the same, at the discretion of the President of the United States, for a period not exceeding five years thereafter</term>" (Journal of the Senate of the United States of America, 1852, p. 703; emphasis original).<ref n="4" target="n04"/>    The individual LED cost for this operation consisted of a 134 byte maneuver that substituted those thirty words for the initial two terms <term>fifty years</term>.  Similarly, inserting the Gros Ventre boundary parameter into the 1904 text, from which it is absent, necessitated a 31 byte repair, while the replacement of the deleted testimonium from Kappler's shortened 1903 version of <title>Fort Laramie</title> amounted to a 195 byte procedure.</p>
+
+<p>These three established problems &#8212; the exclusion, amendment, and testimonium &#8212; formed the potential major offsets required by members of this document suite.  The adjustments represented 0.5, 2.3, and 3.4%, respectively, of <title>Laramie09</title>'s total byte count.  A specific comparison's cumulative LED cost, with or without such offset expense(s), was then supplemented by the dissimilarity costs of such tokens as <term>Yellow Stone</term> vs. <term>Yellowstone</term>, <term>head men</term> vs. <term>headmen</term>, and <term>southwesterly</term> vs. <term>south-westerly</term>, if any.  This latter noise, mirroring perhaps editorial decisions and/or transcription errors as well as the nature of the vertical data format used in these inquiries, further clouded the true underlying divergence among the texts.  Table 1 catalogs problems appearing in the various models of <title>Fort Laramie</title> and shows that only <title>Laramie03</title> had two missing elements: the Gros Ventre exclusion and the testimonium, with an expected minimum cumulative LED of 226 bytes for these text sections alone.</p>
+</div2>
+
+<div2>
+<head>LED testing and results</head>
+
+<p>An initial trial was performed on <title>Laramie51</title> and <title>Laramie52</title>, in order to ascertain whether the Senate had worked with a markedly different document than the original treaty.  The first assessment concerned both full texts, including their capitalizations.  There were 135 observed errors generating a cumulative LED of 387 bytes in this comparison; 64 bytes were due to capitalization differences, i.e., to examples in the parallel data such as <title>Affairs</title> vs. <title>affairs</title> or <title>Territory</title> vs. <title>territory</title>.  When the lower case contents were readdressed, the cumulative LED was automatically reduced by these 64 bytes to a sum of 323, but the new error count &#8212; 77 &#8212; was not diminished by a similar integer amount because capitalization was just one type of error that affected the cumulative LED scores in these comparisons.  The first examination had illustrated both problems of capitalization and bifurcated word inequality by the frequent occurrence of disagreements such as <term>Head men</term> vs. <term>headmen</term>.</p>
+
+<p>Succeeding judgments were made between the lower case texts of the original treaty and the proposed corrected model, i.e., between <title>Laramie51</title> and <title>Laramie09</title>, and of <title>Laramie09</title> &#8212; employed as the new standard for <title>Fort Laramie</title> &#8212; with each of <title>Laramie52</title>, <title>Laramie73</title>, <title>Laramie84</title>, <title>Laramie03</title>, <title>Laramie04</title>, and <title>Laramie29</title>.  Table 2 conveys for these trials the detected error counts; the cumulative LED scores; the expected costs sustained to reintroduce one or more missing subsections of necessary matter; and noise estimates founded upon the differences between the cumulative LED scores and the expected costs to bring each pair of test documents into register.</p>  
+
+<p>Finally, the preamble and articles alone of <title>Laramie03</title> and <title>Laramie04</title> were examined to detect the degree of reliability between Kappler's two editions of <title>Fort Laramie</title>.  He had declared in the preface to the second edition (1904a, p. v) that "[t]he new edition has afforded the compiler an opportunity. . . to add the signatures subscribed to each treaty which was omitted in the first edition to save space," and reinstituted the testimonium into the latter.</p>
+
+<p>With particular reference to the three fixed offset values in mind, the LED test results are briefly summarized as follows:</p>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie51</title></head>
+<p>The disparity between the original transaction and <title>Laramie09</title> is immediately evident in the expected offset cost of 134 bytes for the thirty word annuity amendment (see Table 2), but there were no further costs &#8212; acknowledged by the noise score of zero &#8212; since <title>Laramie09</title> was based on a direct copy of <title>Laramie51</title>.</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie52</title></head>
+<p>Similarly, the Senate's working copy only considered the 1851 wording, and might in fact be the only account directly reproduced from the original parchment.  The 457 byte cumulative LED cost included the expected annuity offset of 134 bytes, but it also demonstrated &#8212; through a total of 107 errors &#8212; that there were many more induced changes.  This rendition and <title>Laramie84</title> are the only two beyond the original text that maintained the Gros Ventre boundary specification, thereby saving the modest expense of 31 bytes, but this revelation also supports the contention that at least the former was taken <emph>directly</emph> from the 1851 <title>Fort Laramie</title> contract itself.  As possible evidence to support the application of this hypothesis to the second transcript, the 1884 <title>Laws of the United States Relating to Indian Affairs</title> volume was, according to its title page, "compiled by the Indian Office" where at least one of the "fifteen handwritten copies" of the treaty must have been accessible (see VanDevelder, 2009, p. 196, who also provided Kappler's 1904 <title>Fort Laramie</title> in an appendix on pp. 245-247).</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie73</title></head>
+<p>Ninety-nine errors, at a penalty of 418 bytes, illuminated a substantial divergence between this pair, especially when it is considered that the latter already held the annuity amendment and was only missing the 31 byte Gros Ventre exclusion.  The noise was apparently caused in part by numerous examples of <term>Yellow Stone</term> vs. <term>Yellowstone</term>, <term>head men</term> vs. <term>head-men</term>, <term>head waters</term> vs. <term>head-waters</term>, and <term>Twenty five Yard Creek</term> vs. <term>Twenty-five Yard Creek</term> entries in the two files, respectively.</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie84</title></head>
+
+<p>The expense of 461 bytes involving 102 errors was driven in this test by the fact that the 1884 must be a reproduction of the original and/or of the 1852, pre-Senate amended material.  Thus, the required 134 byte annuity cost is a recognized portion of the instrument's returned overall LED score.  Clearly, the editors of <title>A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title> (1873) failed to provide a robust account.  In 1900, and again in 1901, the Commissioner of Indian Affairs, William A. Jones, criticized the overall <title>Compilation</title> when he remarked that it was "inaccurate" (Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900, 1900, p. 50, and Annual reports of the Department of the Interior for the fiscal year ended June 30, 1901, 1901, p. 47).  The observed cumulative LED found in the present comparison may offer corroborating evidence for that accusation.</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie03</title></head>
+
+<p>The decision to remove the testimonium from Kappler's 1903 version now necessitated an expense to absorb that final section from <title>Laramie09</title>'s complete transcript.  The total of 135 errors and a cumulative LED of 595 incorporated the known costs for <emph>two</emph> missing components: the 30 errors and 195 bytes associated with providing the deleted testimonium, and the seven word, Gros Ventre exclusion worth 31 bytes.  The prompt convergence to an outlay of 400 bytes, following the subtraction of the expenditure for the testimonium to be inserted, brings the cumulative LED cost for <title>Laramie03</title> very close to that of <title>Laramie04</title>.  Table 1 shows that both failed to supply the Gros Ventre exclusion.  See the supplemental assessment between these two versions below.</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie04</title></head>
+
+<p>The observed variation between the new proposed standard for <title>Fort Laramie</title> and Kappler's 1904 well-used one yielded the lowest cumulative LED cost.  There were still several reasons for the remaining 250+ byte dissimilarity &#8212; the Gros Ventre exclusion was just one &#8212; but when all the LED scores in Table 2 were contrasted, Kappler's <title>Laramie04</title> provided the best approximation to the true, complete rendering of the event as postulated by <title>Laramie09</title>.</p>
+</div3>
+
+<div3>
+<head><title>Laramie09</title> vs. <title>Laramie29</title></head>
+
+<p>The LED score for this comparison was amplified by the incursion of the 16 word and 62 byte phrase <term>thence up the north fork of the Platte River to the forks of the Platte River</term> in <title>Laramie29</title>'s Sioux reservation parameters of Article 5.  Thus, the cumulative noise score of 487, that far outdistanced that calculated for all other renditions, was affected by this production error; by the shortcut use of numeric values for $50,000 and 10 in the amount and duration aspects of the annuity definition; and by the use of <term>Art</term> for introducing each Article.  The expected cost was only 31 bytes for the absent Gros Ventre exclusion.  Clearly, the lack of precision in reproducing the 1904 version is unfortunate, but the use of <title>Fort Laramie</title> in Kappler's volume 4 was more for general information regarding the evolution of the tribal assents required for the Senate's annuity adjustment, and less for the legal text demands of Congress; the latter need was addressed by the 1904 edition of <title>Treaties</title>.</p>
+</div3>
+
+<div3>
+<head><title>Laramie03</title> vs. <title>Laramie04</title></head>
+<p>Following the general testing against the <title>Laramie09</title> model, an additional investigation involved Kappler's two main editions of <title>Fort Laramie</title>.  The <title>Laramie09</title> results had indicated that the 1903 and the 1904 versions converged to within just seven bytes, after subtracting the testimonium offset of 195 bytes from <title>Laramie03</title>'s returned cumulative LED score.  Such similarity &#8212; a 400 net cumulative LED for <title>Laramie03</title> vs. one of 393 for <title>Laramie04</title> &#8212; validated the hypothesis that Kappler reproduced the former for use in the second edition.  Upon closer inspection, there was an actual difference of 13 bytes found during a comparison of only the preamble and article sections of <title>Laramie03</title> and <title>Laramie04</title>, wherein the latter's testimonium segment was removed from that analysis.  The outcome revealed that <title>Laramie04</title>'s initial total cumulative LED score relative to <title>Laramie09</title> had been inflated by six bytes, due to a common spelling inconsistency &#8212; <term>headmen</term> vs. <term>Head men</term>, respectively &#8212; located in its testimonium.</p>
+</div3>
+
+<div3>
+<head><title>Laramie04</title> vs. <title>Laramie29</title></head>
+
+<p>The final examination assessed the differences between <title>Laramie04</title> and <title>Laramie29</title>.  The test was conducted between these two &#8212; and not between <title>Laramie03</title> and <title>Laramie29</title> &#8212; because Laramie03 does not possess the testimonium section.  The cumulative LED for the <title>Laramie04</title> and <title>Laramie29</title> consideration produced 47 errors encompassing a total of 175 bytes.  Removing the known cost for <title>Laramie29</title>'s 16 word incursion from these sums, the final tally is 31 errors with a cost of 113 bytes.  Both amounts suggest a poor reproduction of <title>Laramie04</title> and a significant departure from the accuracy demonstrated in the conversion of <title>Laramie03</title> into <title>Laramie04</title>.</p>
+</div3>
+</div2>
+
+<div2>
+<head>Conclusions</head>
+
+<p>Text analysis can be a complex undertaking when disparate contents are compared.  If the underlying fundamental questions pertaining to provenance are disregarded for the moment, the twists and turns of allegedly identical materials are still capable of providing interesting insights.  Indeed, this was one of the outcomes of the initial study: it was learned that the <title>Treaty of Fort Laramie with Sioux, etc., 1851</title> had never been published in a complete form during the last century and a half.  This discovery was expedited by Levenshtein's edit distance tool that promptly highlighted the divergences and &#8212; just as importantly &#8212; their magnitudes.  For other research efforts into the realms of punctuation and of capitalization, the LED process may be even more useful, because it recognizes every distinction between compared documents.   These American Indian materials are a rich mine of such data: there were 88 commas, 38 en dashes, 35 periods, six semicolons, and four colons, as well as 19 <term>River</term> and 25 <term>river</term> terms, among the original text of <title>Laramie51</title>.  These are the very typographical characteristics towards which all other copies of Fort Laramie should have converged, if the intent was to truly reproduce the original, and so the quest for fidelity required <title>Laramie09</title> to be constructed directly from the fabric of <title>Laramie51</title>, and tailored only to furnish the amended annuity parameters. </p>
+
+<p>In terms of consistency, the observed noise scores might mirror the effect of compositor carelessness and/or of a standardized approach taken by federal editors to tackle the orthography of instruments like <title>Fort Laramie</title>, where contents were sometimes purposely reformatted.<ref n="6" target="n06"/>   Indeed, such publishing outcomes have already served to stimulate endless text analyses, where the rewards might be significant for uncovering microscopic discrepancies between alleged copies, or among successive editions.<ref n="7" target="n07"/>   The observed differences between the 1852 Journal of the Senate entry for the annuity redefinition and the other <title>Fort Laramie</title> accounts are a pertinent materialization of this recompense.  In the present instance, the nonexistence of the testimonium, or the failure to present the recognized annuity parameters following ratification, yielded a blatant lack of correspondence; even the Gros Ventre exclusion &#8212; at just 0.5% of the overall byte length for the document &#8212; subtended a highly visible 31 bytes.  Additionally, the average cumulative noise LED score across the lower case test versions of <title>Laramie52</title> through <title>Laramie04</title> was 354, representing fully 6% of the total document's span and was almost equivalent to the sum of  the offsets costs for all three known major text faults.  This latter finding alone validated the decision to create <title>Laramie09</title> directly from the original <title>Fort Laramie</title> itself, instead of by selecting terms from the pool of all previous noisy reproductions.</p>
+
+<p>To sum up, even though the Gros Ventre boundary omission, or the testimonium removal from Kappler's 1903 presentation of <title>Fort Laramie</title>, has apparently violated neither the spirit nor the letter of the law, assessing these American Indian materials through Levenshtein's edit distance algorithm and uncovering these difficulties has been an effective demonstration of its use to fathom such variances.  Future text analysis studies may benefit from a similar application of this tool.</p>
+</div2>
+</div1>
+</body>
+
+<milestone unit="crosses"/>
+
+<back>
+<div1>
+<head>References</head>
+
+
+<bibl><title level="m">A Compilation of All the Treaties Between the United States and the Indian Tribes Now in Force as Laws</title>.  (<date value="1873">1873</date>).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><title level="a">Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900.  Indian Affairs.  Commission to the Five Civilized Tribes.  Indian Inspector for Indian Territory.  Indian contracts.  Board of Indian Commissioners.</title>  (<date value="1900">1900</date>).  House of Representatives.  56th Congress, 2nd session.  House Document No. 5, part 2.2 (<title level="m">Serial Set</title> 4102).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><title level="a">Annual reports of the Department of the Interior for the fiscal year ended June 30, 1901.  Indian Affairs.  Part I. Report of the Commissioner, and appendixes.</title>  (<date value="1901">1901</date>).  House of Representatives.  57th Congress, 1st session.  House Document No. 5, pt. 2-1 (<title level="m">Serial Set</title> 4290).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><title level="a">Articles of a treaty</title>.  (<date value="1852">1852</date>).  Senate.  32nd Congress, 1st session.  Senate Confidential Executive Document No. 11.  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Bernholz, C. D.</author>   (<date value="2009">2009</date>).  <title level="a">Standardized American Indians: The "Names of Indian tribes and bands" list from the Office of Indian Affairs</title>.  Submitted to <title level="j">Government Information Quarterly</title>.</bibl>
+
+<bibl><author n="">Bernholz, C. D.</author> and <author n="">Pytlik Zillig, B. L.</author>  (<date value="2009">2009</date>).  <title level="a">The <title>Treaty of Fort Laramie with Sioux, etc., 1851</title>: Revisiting the Document Found in Kappler's <title>Indian Affairs: Laws and Treaties</title>.</title>  Available at <ref n="http://treatyoffortlaramie1851.unl.edu">http://treatyoffortlaramie1851.unl.edu.</ref></bibl>
+
+<bibl><author n="">Brossard, E. E.</author>  (<date value="1945">1945</date>).  <title level="a">Punctuation of statutes</title>.  <title level="j">Oregon Law Review</title> 24, 157-172.</bibl>
+
+<bibl><title level="a">Compilation on Indian Affairs</title>.  (<date value="1902">1902</date>).  <title level="j">Congressional Record</title>  <biblScope type="volume">35</biblScope>, 5664-5665.</bibl>
+
+<bibl><title level="m">Journal of the Executive Proceedings of the Senate of the United States of America</title>, vol. 8  (<date value="1887">1887</date>).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><title level="a">Journal of the Senate of the United States of America, being the first session of the Thirty-second Congress; begun and held in the City of Washington, December 1, 1851, in the seventy-sixth year of the independence of the United States.</title>  (<date value="1852">1852</date>).  Senate.  32nd Congress, 1st session (<title level="m">Serial Set</title> 610).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Kappler, C. J.</author>  (<date value="1903">1903</date>).  <title level="a">Indian affairs.  Laws and treaties, vol. 2.  Treaties.</title>  Senate.  57th Congress, 1st session.  Senate Document No. 452, pt. 2 (<title level="m">Serial Set</title> 4254).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Kappler, C. J.</author>  (<date value="1904a">1904a</date>).  <title level="a">Indian affairs.  Laws and treaties, vol. 1.  Laws.</title>  Senate.  58th Congress, 2nd session.  Senate Document No. 319, pt. 1 (<title level="m">Serial Set</title> 4623).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Kappler, C. J.</author>  (<date value="1904b">1904b</date>).  <title level="a">Indian affairs.  Laws and treaties, vol. 2.  Treaties.</title>  Senate.  58th Congress, 2nd session.  Senate Document No. 319, pt. 2 (<title level="m">Serial Set</title> 4624).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Kappler, C. J.</author>  (<date value="1929">1929</date>).  <title level="a">Indian affairs.  Laws and treaties, vol. 4.  Laws.</title>  Senate.  70th Congress, 1st session.  Senate Document No. 53 (<title level="m">Serial Set</title> 8849).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl>
+
+<bibl><author n="">Kukich, K.</author>  (<date value="1992">1992</date>).  <title level="a">Techniques for automatically correcting words in text</title>.  <title level="j">ACM Computing Surveys</title>  24, 377-439.</bibl>
+
+<bibl><title level="m">Laws of the United States Relating to Indian Affairs: Compiled from the Revised Statutes of the United States enacted June 22, 1874, and from Statutes at Large from that date to March 4, 1883: Also, Special Acts and Resolutions Previous to the Enactment of the Revised Statutes, not Embraced in or Repealed by the Revision: Also, List of all Ratified Treaties and Agreements Made with the Several Indian Tribes</title> (3rd ed.).  (<date value="1884">1884</date>).  <pubPlace>Washington, DC</pubPlace>: <publisher>Government Printing Office</publisher>.</bibl> 
+
+<bibl><author n="">Levenshtein, V. I.</author>  (<date value="1966">1966</date>).  <title level="a">Binary codes capable of correcting deletions, insertions, and reversals</title>.  <title level="j">Soviet Physics Doklady</title> 10, 707-710.</bibl>
+
+<bibl><author n="">Prucha, F. P.</author>  (<date value="1994">1994</date>).  <title level="m">American Indian Treaties: The History of a Political Anomaly</title>.  <pubPlace>Berkeley, CA</pubPlace>: <publisher>University of California Press</publisher>.</bibl>
+
+<bibl><author n="">Soukoreff, R. W.</author> and <author n="">MacKenzie, I. S.</author>  (<date value="2001">2001</date>).  <title level="m">Measuring errors in text entry tasks: An application of the Levenshtein string distance statistic.  Companion Proceedings of the ACM Conference on Human Factors in Computing Systems &#8212; CHI 2001</title> (pp. 319-320).  <pubPlace>New York</pubPlace>: <publisher>Association of Computing Machinery</publisher>.</bibl>
+
+<bibl><author n="">VanDevelder, P.</author>  (<date value="2009">2009</date>).  <title level="m">Savages and Scoundrels: The Untold Story of America's Road to Empire through Indian Territory</title>.  <pubPlace>New Haven, CT</pubPlace>: <publisher>Yale University Press</publisher>.</bibl>
+
+<bibl><author n="">Zini, M.</author>; <author n="">Fabbri, M.</author>; <author n="">Moneglia, M.</author>; and <author n="">Panunzi, A.</author>  (<date value=" 2006">2006</date>).  <title level="a">Plagiarism detection through multilevel text comparison</title>.  <title level="m">Second International Conference on Automated Production of Cross Media Content for Multi-Channel Distribution</title> (pp. 181-185).  <pubPlace>Washington, DC</pubPlace>: <publisher>IEEE Computer Society</publisher>.</bibl>
+  
+</div1>
+
+<div1>
+
+    <note id="f01">* Phone: 402-472-4473<lb/> Fax: 402-472-5131<lb/> E-mail: cbernholz2@unl.edu</note>
+    <note id="f02">** Phone: 402-472-4547<lb/> Fax: 402-472-5131<lb/> E-mail: bzillig1@unl.edu</note>
+
+<note id="n01">A Congressional resolution in June 1790 assured "[t]hat all treaties made, or which shall be made and promulgated, under the authority of the United States, shall, from time to time, be published and annexed to their code of laws, by the Secretary of State" (1 Stat. 187).</note>
+  
+<note id="n02">Father Prucha also supplied an appendix entitled "Treaty documents and their promulgation" that illuminates the legislative process for these materials, including a special section on the 1851 <title>Fort Laramie</title> instrument (Prucha, 1994, pp. 429-445).</note>
+
+<note id="n03">See <ref n="http://www.ieee.org/portal/pages/about/awards/bios/2006RichardWHammingMedal.html">http://www.ieee.org/portal/pages/about/awards/bios/2006RichardWHammingMedal.html</ref> for more on Levenshtein and this award.</note>
+
+<note id="n04">Note that the punctuation in the specifications of the Senate's annuity correction varies in official presentations.  The cited 1852 <title>Journal of the Senate</title> statement contains two commas &#8212; one after each of the terms same and States &#8212; that appear in no other renditions.  Volume 8 of the J<title>ournal of the Executive Proceedings of the Senate of the United States of America</title> eliminated those two markings as well (1887, p. 389).  The correct 1852 passage, as passed by the Senate, was applied to <title>Laramie09</title>.</note>
+
+<note id="n05">Brossard (1945) has a discussion of the use of punctuation in statutes.</note>
+
+<note id="n06">Such strategies would include the "Names of Indian Tribes and Bands" list, published in 1900, that "[t]he Bureau of Ethnology and the Indian Bureau [had] undertaken to secure uniformity in the spelling of the names of Indian tribes and bands," and which the Government Printing Office published for federal agency use (Annual reports of the Department of the Interior for the fiscal year ended June 30, 1900, 1900, p. 687).  Kappler had the opportunity to use this new tribe name array, but chose to employ it only for the treaty titles in his 1903 and 1904 compilations and to leave unmodified the final texts from the <title>Statutes at Large</title> (Bernholz, 2009).</note>
+
+<note id="n07">In some situations, the differences may be far from microscopic.  After removing punctuation, a cumulative LED score of 14 was generated during an evaluation of the first lines of Walt Whitman's 1855 original and his later 1891 revision of <title>Body Electric</title>, i.e., for a test between "The <hi rend="bold">bodies</hi> of <hi rend="bold">men and women</hi> engirth me and I engirth them" and "The <hi rend="bold">armies</hi> of <hi rend="bold">those I love</hi> engirth me and I engirth them" (see <ref n="http://whitmanarchive.org/published/LG/1855/whole.html">http://whitmanarchive.org/published/LG/1855/whole.html</ref> and <ref n="http://whitmanarchive.org/published/LG/1891/whole.html">http://whitmanarchive.org/published/LG/1891/whole.html</ref>, respectively).  The bolded word pairs enumerate the four errors in that tally.  The contrast between the preamble and articles texts of <title>Laramie03</title> and <title>Laramie04</title> uncovered just a 13 byte divergence contained in two errors.</note>
+</div1>
+</back>
+</text>
+</TEI.2>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1926">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1926	S. 1407 (Eighty-first Congress, First Session &#8212; Truman)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1926</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Truman</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Eighty-first Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Navajo</term>
+<term>Hopi</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1926	S. 1407 (Eighty-first Congress, First Session &#8212; Truman)</head>
+
+<p>To promote the rehabilitation of the Navajo and Hopi Tribes of Indians and the better utilization of the resources of the Navajo and Hopi Indian Reservations.</p>
+
+<p>Vetoed October 17, 1949.  The veto message was laid before the Senate, ordered to lie on the table, and printed as S. Doc. No. 119 (95 <title>Cong. Rec.</title> 14784-14785).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 392.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1926.01.pdf">Rehabilitation of the Navajo and Hopi Tribes of Indians &#8212; veto message.  Message from the President of the United States returning without approval the Bill (S. 1407) entitled “An Act to Promote the Rehabilitation of the Navajo and Hopi Tribes of Indians and the Better Utilization of the Resources of the Navajo and Hopi Indian Reservations, and for Other Purposes.”</ref>  (1949).  Senate.  81st Congress, 1st session.  Senate   Document No. 119 (<title>Serial Set</title> 11310).  Washington, DC: Government Printing Office.
+</bibl>
+<!-- <floatingText>
+<body>
+<fw> 81ST CONGRESS l.	SENATE 1st Session
+1 DOCUMENT No. 119 </fw>
+<head>REHABILITATION OF THE NAVAJO AND HOPI TRIBES
+OF INDIANS&#8212;VETO MESSAGE</head>
+<milestone unit="rule" />
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL THE BILL (S. 1407) ENTITLED "AN ACT TO PROMOTE THE REHABILITATION OF THE NAVAJO AND HOPI TRIBES OF INDIANS AND THE BETTER UTILIZATION OF THE RESOURCES OF THE NAVAJO AND HOPI INDIAN RESERVATIONS, AND FOR OTHER PURPOSES"</head>
+<milestone unit="rule" />
+<p>OCTOBER 17, 1949.&#8212;Read; ordered to lie on the table and to be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate of the United States:</salute>
+</opener>
+<p>I return herewith, without my approval, the enrolled bill (S. 1407) to promote the rehabilitation of the Navajo and Hopi Tribes of Indians and the better utilization of the resources of the Navajo and Hopi Indian Reservations, and for other purposes.</p>
+<p>The principal objective of this bill is the establishment of a 10-year program of capital and other improvements for the benefit and rehabilitation of the Navajo and Hopi Tribes of Indians. Appropriations would be authorized for this purpose totaling $88,570,000. Among the principal program goals specified and the amounts provided therefor would be: Roads and trails, $20,000,000; school buildings and equipment, and other educational measures, $25,000,000; soil and water conservation and range improvement work, $10,000,000; and completion and extension of existing irrigation projects, and completion of the investigation to determine the feasibility of the proposed San Juan-Shiprock irrigation project, $9,000,000.</p>
+<p>I have withheld my approval with reluctance and only after the most careful consideration of all the provisions of S. 1407. The bill contains many meritorious features. In fact, its only objectionable provisions are those of section 9 which, with some qualifications, ex-tend State civil and criminal laws and court jurisdiction to the Navajo-Hopi Reservations which are now under Federal and tribal laws and<pb corresp="" n="2" />
+<fw> 2 REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE </fw>
+courts. Section 9 is heavily weighted with possibilities of grave injury to the very people who are intended to be the beneficiaries of the bill. Its many and serious defects outweigh, in my judgment, the merits of the rest of the bill.</p> <p>
+In the first place, the meaning of section 9 is obscure. While it seeks to subject the Navajo and Hopi Indians to the civil and criminal laws of the States where their reservations are situated, in certain circumstances and under certain conditions the details of these circumstances and conditions cannot be determined, with any assurance of legal correctness, from the language of section 9. For example, the right to inherit personal property, such as cattle, sheep, tools and utensils, is a matter of vital concern to the Navajo and Hopi Indians, as it is to other human beings. The descent of this property upon death is a matter which is now governed by their tribal practices and customs. Section 9 might be construed as abrogating these practices and customs at one fell swoop and imposing upon these Indians a system governing the descent and distribution of personal property which they neither want nor understand. Another matter of vital concern to the Navajo and Hopi Indians is their water rights, since they live in an arid country where water is the most precious of all natural resources. The jurisdiction to adjudicate, protect, and en-force these water rights is now vested in the Federal courts where Indian rights are assured of full protection. Section 9 might be construed as transferring plenary power over Indian water rights to the State courts where there is much less assurance of protection for Indian rights, or it might be construed as leaving the existing Federal jurisdiction substantially unimpaired. These two illustrations are far from exhaustive, but they reveal quite plainly that the bill contains serious threats to the basic rights of these Indians, and at best would create a series of legal tangles which only years of expensive litigation could unravel. In the interim, many valuable interests might be lost and much irreparable injury suffered by the Navajo and Hopi peoples.</p>
+<p>A second major objection to section 9 is that its avowed purpose of accomplishing abroad-scale extension of State laws to the Navajo and Hopi Reservations is in conflict with one of the fundamental principles of Indian law accepted by our Nation, namely, the principle of respect for tribal self-determination in matters of local government. The Congress and the executive branch have repeatedly recognized that so long as Indian communities wished to maintain, and were prepared to maintain, their own political and social institutions, they should not be forced to do otherwise. One of the most liberal self-government clauses over written for an Indian tribe appears in section 6 of the enrolled bill. That sectioa declares that the Navajo people shall have "the right to adopt a tribal constitution," which "may provide for the exercise by the Navajo Tribe of any powers vested in the tribe or any organ thereof by existing law, together with such additional powers as the members of the tribe may, with the approval of the Secretary of the Interior, deem proper to include therein," and which"shall authorize the fullest possible participation of the Navajos in the administration of their affairs." It would be inconsistent to enact into law section 9 concurrently with section 6. If either is to be accepted as meaning what it says, the other must be viewed as mainly rhetoric.</p>
+<p>Statutes have, of course, been enacted from time to time extending State criminal or civil laws to s articular Indian communities. Pri<pb corresp="" n="3" /><pb corresp="" n="3" />
+<fw> REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE 3 </fw>
+marily, these statutes dealt with comparatively small groups, the members of which through long association with neighboring whites, had reached the stage where they were prepared to and wished to be governed by State and local law. The Navajo and Hopi Tribes are not in this category. They are, indeed, the Indians who are probably least prepared for such a major change.</p>
+<p>Ultimate acceptance of State jurisdiction is a logical consequence of our policy of assisting the Indians to develop their natural talents and physical resources in ways that will enable them to participate fully in our free, but vigorously competitive, society. In the long run, this process of adjustment to our culture can be expected to result in the complete merger of all Indian groups into the general body of our population. Yet the desirability of this result is no reason for compelling the Navajos and Hopis to accept legal integration long before they have been prepared for such a consequence through the orderly course of social and economic integration. Premature steps for tribal dissolution have invariably revealed that the process of cultural adjustment cannot be hastened, and may be retarded, by attempts at legal compulsion. For many years more the lives of the Navajo and Hopi peoples will continue to be governed by the isolation of the country where they live, the facts that four-fifths of them cannot speak English and that the majority of their children have never been to school, the primitive background of their social concepts, the limitations of their economic resources, and other circumstances which tend to make their tribal governments a necessary instrument for their continued progress in civilization. It would be unjust and unwise to compel them to abide by State laws written to fill other needs than theirs.</p>
+<p>In reaching my decision to veto S. 1407, I have been greatly influenced by the attitude of the Navajo Indians toward the bill. The Navajo Tribe includes about 65,000 of the approximately 70,000 Indians affected by 5.1407. They greatly favor the long-range rehabilitation program which the bill proposes. But much as they favor the constructive provisions of the bill, they fear section 9 more. This is indicated by the fact that at a meeting held on October 13, 1949, after final congressional action on the bill, the Navajo Tribal Council, the Tribe's governing body, adopted a resolution urging that I veto S. 1407.</p>
+<p>In withholding approval from S. 1407, I am glad to note that the principal feature of that measure, the 10-year program of capital improvements provided for in section 1, can be put into effect through normal appropriation procedures. Expenditures for substantially all of the purposes listed in section 1 are authorized by existing laws relating to Indian affairs. The purpose in proposing a special authorization for the 10-year program was to afford the Congress an opportunity to review that program as a whole before appropriation estimates were submitted for the individual items. The Congress, by its action on S. 1407, has now manifested its view that the capital improvements in question should he undertaken at once and prosecuted speedily to completion. Accordingly, I plan to include in the budget for the fiscal year 1951 appropriation estimates that will provide for initiation of the 10-year program. Since statutory authorization for almost all of these items already exists, the failure of S. 1407 to become law will not interpose a legal bar to the appropriation of the necessary<pb corresp="" n="4" />
+<fw> 4 REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE </fw>
+funds, although it will result in the loss of some incidental features of S. 1407 that would have been of value to the Indians. I would, of course, be glad to approve a bill that incorporated these features and the other provisions of S. 1407, without the objectionable provisions of section 9, should the Congress see fit to pass such a measure.</p>
+<closer><signed>HARRY S. TRUMAN. </signed><dateline>THE WHITE HOUSE, October 17, 1949.</dateline></closer>
+
+<milestone unit="rule" />
+<p>S. 1407</p>
+<head>EIGHTY-FIRST CONGRESS OF THE UNITED STATES OF AMERICA, AT THE FIRST SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON MONDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND FORTY-NINE</head>
+<head type="sub">AN ACT To promote the rehabilitation of the Navajo and Hopi Tribes of Indians and the better utilization of the resources of the Navajo and Hopi Indian Reservations, and for other purposes</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That in order to further the purposes of existing treaties with the Navajo Indians, to provide facilities, employment, and services essential in combating hunger, disease, proverty, and demoralization among the members of the Navajo and Hopi Tribes, to make available the resources of their reservations for use in promoting a self-supporting economy and self-reliant communities, and to lay a stable foundation on which these Indians can engage in diversified economic activities and ultimately attain standards of living comparable with those employed by other citizens, the Secretary of the Interior is hereby authorized and directed to undertake, within the limits of the funds from time to time appropriated pursuant to this Act, a program of basic improvements for the conservation and development of the resources of the Navajo and Hopi Indians, the more productive employment of their manpower, and the supplying of means to be used in their rehabilitation, whether on or off the Navajo and Hopi Indian Reservations. Such program shall include the following projects for which capital expenditures in the amount shown after each project listed in the following subsections and totaling $88,570,000 are hereby authorized to be appropriated:</p>
+<p>(1) Soil and water conservation and range improvement work, $10,000,000.</p>
+<p>(2) Completion and extension of existing irrigation projects, and completion of the investigation to determine the feasibility of the proposed San Juan-Shiprock irrigation project, $9,000,000.</p>
+<p>(3) Surveys and studies of timber, coal, mineral, and other physical and human resources, $500,000.</p>
+<p>(4) Development of industrial and business enterprises, $1,000,000.</p>
+<p>(5) Development of opportunities for off-reservation employment and resettlement and assistance in adjustments related thereto, $3,500,000.</p>
+<p>(6) Relocation and resettlement of Navajo and Hopi Indians (Colorado River Indian Reservation), $5,750,000.</p>
+<p>(7) Roads and trails, $20,000,000.</p>
+<p>(8) Telephone and radio communication systems, $250,000.</p>
+<p>(9) Agency, institutional, and domestic water supply, $2,500,000.</p>
+<p>(10) Establishment of a revolving loan fund, $5,000,000.</p>
+<p>(11) Hospital buildings and equipment, and other health conservation measures, $4,750,000.</p>
+<p>(12) School buildings and equipment, and other educational measures, $25,000,000.</p>
+<p>(13) Housing and necessary facilities and equipment, $820,000.</p>
+<p>(14) Common service facilities, $500,000.</p>
+<p>Funds so appropriated shall be available for administration, investigations, plans, construction, and all other objects necessary for or appropriate to the carrying out of the provisions of this Act. Such further sums as may be necessary for or appropriate to the annual operation and maintenance of the projects herein enumerated are hereby also authorized to be appropriated. Funds appropriated under these authorizations shall be in addition to funds made available for use on the Navajo and Hopi Reservations, or with respect to Indians of the Navajo Tribes, out of appropriations heretofore or hereafter granted for the benefit, care, or assistance of Indians in general, or made pursuant to other authorizations now</p><pb corresp="" n="5" />
+<fw> REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE 5 </fw>
+<p>SEC. 2. The foregoing program shall be administered in accordance with the provisions of this Act and existing laws relating to Indian affairs, shall include such facilities and services as are requisite for or incidental to the the effectuation of the projects herein enumerated, shall apply sustained-yield principles to the administration of all renewable resources, and shall be prosecuted in a manner which will provide for completion of the program, so far as practicable, within ten years from the date of the enactment of this Act. An account of the progress being had in the rehabilitation of the Navajo and Hopi Indians, and of the use made of the funds appropriated to that end under this Act, shall be included in each annual report of the work of the Department of the Interior submitted to the Congress during the period covered by the foregoing program.</p>
+<p>SEC. 3. Navajo and Hopi Indians shall be given, whenever practicable, preference in employment on all projects undertaken pursuant to this Act, and, in furtherance of this policy, may be given employment on such projects without regard to the provisions of the civil-service and classification laws. To the fullest extent possible, Indian workers on such projects shall receive on-the-job training in order to enable them to become qualified for more skilled employment.</p>
+<p>SEC. 4. The Secretary of the Interior is authorized, under such regulations as he may prescribe, to make loans from the loan fund authorized by section 1 hereof to the Navajo Tribe, or any member or association of members thereof, or to the Hopi Tribe, or any member or association of members thereof, for such productive purposes as, in his judgment, will tend to promote the better utilization of the manpower and resources of the Navajo or Hopi Indians. Sums collected in repayment of such loans and sums collected as interest or other charges thereon shall be credited to the loan fund, and shall be available for the purpose for which the fund was established.</p>
+<p>SEC. 5. Any restricted Indian lands owned by the Navajo Tribe, members thereof, or associations of such members, or by the Hopi Tribe, members thereof, or associations of such members, may be leased by the Indian owners, with the approval of the Secretary of the Interior, for public, religious, educational, recreational, or business purposes, including the development or utilization of natural resources in connection with operations under such leases. All leases so granted shall be for a term of not to exceed twenty-five years, but may include provisions authorizing their renewal for an additional term of not to exceed twenty-five years, and shall be made under such regulations as may be prescribed by the Secretary. Restricted allotments of deceased Indians may be leased under this section, for the benefit of their heirs or devisees, in the circumstances and by the persons pre-scribed in the Act of July 8, 1940 (54 <title>Stat.</title> 745; 25 U. S. C., 1946 edition, sec. 380). Nothing contained in this section shall be construed to repeal or affect any authority to lease restricted Indian lands conferred by or pursuant to any other provision of law.</p>
+<p>SEC. 6. In order to facilitate the fullest possible participation by the Navajo Tribe in the program authorized by this Act, the members of the tribe shall have the right to adopt a tribal constitution in the manner herein prescribed. Such constitution may provide for the exercise by the Navajo Tribe of any powers vested in the tribe or any organ thereof by existing law, together with such additional powers as the members of the tribe may, with the approval of the Secretary of the Interior, deem proper to include therein. Such constitution shall be formulated by the Navajo Tribal Council at any regular meeting, distributed in printed form to the Navajo people for consideration, and adopted by secret ballot of the adult members of the Navajo Tribe in an election held under such regulations as the Secretary may prescribe, at which a majority of the qualified votes cast favor such adoption. The constitution shall authorize the fullest possible participation of the Navajos in the administration of their affairs as approved by the Secretary of the Interior and shall become effective when approved by the Secretary. The constitution may be amended from time to time in the same manner as herein provided for its adoption, and the Secretary of the Interior shall approve any amendment which in the opinion of the Secretary of the Interior advances the development of the Navajo people toward the fullest realization and exercise of the rights, privileges, duties, and responsibilities of American citizenship.</p>
+<p>SEC. 7. Notwithstanding any other provision of existing law, the tribal funds now on deposit or hereafter placed to the credit of the Navajo Tribe of Indians in the United States Treasury shall be available for such purposes as may be designated by the Navajo Tribal Council and approved by the Secretary of the Interior.</p>
+<p>SEC. 8, The Tribal Councils of the Navajo and Hopi Tribes and the Indian communities affected shall be kept informed and afforded opportunity to consider from their inception plans pertaining to the program authorized by this Act. In<pb corresp="" n="6" />
+<fw> 6 REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE </fw>
+the administration of the program, the Secretary of the Interior shall consider the recommendations of the tribal councils and shall follow such recommendations whenever he deems them feasible and consistent with the objectives of this Act.</p>
+<p>SEC. 9. From and after the effective date of this Act, all Indians within the tribal or allotted lands of the Navajo and Hopi Reservations shall be subject to the laws of the State wherein such lands are located, and shall have access to the courts of such State for the enforcement of their rights and the redress of wrongs to the same extent and in the same manner as any other citizen thereof: Provided, however, That all classes and character of property now exempt from taxation shall continue to be and remain exempt from taxation by the State until otherwise provided by Congress; and that, until otherwise provided by Congress, all Federal and tribal laws and regulations respecting the management, assignment, inheritance, or disposition of lands shall he recognized and enforced where such laws or regulations are in conflict with State laws: Provided further. That hothing herein contained shall be construed as authorizing the State to interfere in any manner with the administration of the school system as provided and administered by the Federal Government for such Indians, except that the respective State school curricula shall be installed and followed in the Navajo schools so far as feasible: Provided further, That beginning with the quarter commencing July 1, 1950, the Secretary of the Treasury shall pay quarterly to each State (from sums made available for making payments to the States under sections 3 (a), 403 (a), and 1003 (a) of the Social Security Act) an amount, in addition to the amounts prescribed to be paid to such State under such sections, equal to 80 per centum of (1) the total amounts expended during the preceding quarter by the State, under the State plans approved under the Social Security Act for old age assistance, aid to dependent children, and aid to the needy blind, to Navajo and Hopi Indians residing within the boundaries of the State on reservations or on allotted or trust lands, with respect to whom payments are made to the State by the United States under sections 3 (a), 403 (a), and 1003 (a), respectively, of the Social Security Act, not counting so much of such expenditure to any individual for any month as exceeds the limitations prescribed in such sections, reduced by (2) the total amounts paid to such State by the United States for such quarter under sections 3 (a), 403 (a), and 1003 (a) of the Social Security Act with respect to such Indians: And provided further, That nothing in this Act provided shall be deemed to impair the terms and obligations of any existing statute or treaty between the United States Government and the said Indians, nor take away the jurisdiction now exercised by the Federal Government or the tribes, but in all cases the jurisdiction of the State, the Federal, and the tribal courts shall be concurrent.</p>
+<p>SEC. 10. (a) There is hereby established a joint congressional committee to be known as the Joint Committee on Navajo-Hopi Indian Administration (herein-after referred to as the "committee"), to be composed of three members of the Committee on Interior and Insular Affairs of the Senate to be appointed by the chairman thereof, not more than two of whom shall be from the same political party, and three members of the Committee on Public Lands of the House of Representatives to be appointed by the chairman thereof, not more than two of whom shall be from the same political party. A vacancy in the membership of the committee shall be filled in the same manner as the original selection. The committee shall elect a chairman from among its members.</p>
+<p>(b) It shall be the function of the committee to make a continuous study of the programs for the administration and rehabilitation of the Navajo and Hopi Indians, and to review the progress achieved in the execution of such programs. Upon request, the committee shall aid the several standing committees of the Congress having legislative jurisdiction over any part of such programs, and shall make a report to the Senate and the House of Representatives, from time to time, concerning the results of its studies, together with such recommendations as it may deem desirable. The Commissioner of Indian Affairs at the request of the committee, shall consult with the committee from time to time with respect to his activities under this Act.</p>
+<p>(c) The committee, or any duly authorized subcommittee thereof, is authorized. to hold such hearings, to sit and act at such times and places, to require by subpena or otherwise the attendance of such witnesses and the production of such books, papers, and documents, to administer such oaths, to take such testimony, to pro-cure such printing and binding, and to make such expenditures as it deems advise able. The cost of stenographic services to report such hearings shall not be in excess of 25 cents per hundred words. The provisions of sections 102 to 104,<pb corresp="" n="7" />
+<fw> REHABILITATION OF NAVAJO AND HOPI INDIANS-VETO MESSAGE 7 </fw>
+inclusive, of the Revised Statutes shall apply in case of any failure of any witness to comply with any subpena or to testify when summoned under authority of this subsection.</p>
+<p>(d) The committee is authorized to appoint and, without regard to the -Classification Act of 1923, as amended, fix the compensation of such experts, consultants, technicians, and organizations thereof, and clerical and stenographic assistants as it deems necessary and advisable.</p>
+<p>(e) There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, to be disbursed by the Secretary of the Senate on vouchers signed by the chairman.</p>
+<closer><signed>SAM RAYBURN,</signed>
+Speaker of the House of Representatives.
+<signed>ALBEN W. BARKLEY,</signed>
+Vice President of the United States and President of the Senate. 
+<NOTE>[Endorsement on back of bill:]</note>
+I certify that this Act originated in the Senate.
+<signed>LESLIE L. BIFFLE,</signed>
+Secretary. <signed>By EMERY L. FRAZIER,</signed>
+Chief Clerk.</closer>
+
+</body></floatingText> -->
+
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1926.02.pdf"><title>Congressional Record</title> 95, 14784-14785</ref> (1949)</bibl>
+<!-- <floatingText>
+<body>
+<fw> 14784	CONGRESSIONAL RECORD-SENATE	OCTOBER 17 </fw>
+<p>Notre Dame line ever punched. I shall later try to develop that in more detail.</p>
+<p>Mr. LONG. Mr. President, will the Senator yield for a question?</p>
+<p>Mr. DOUGLAS. I shall be glad to yield.</p>
+<p>Mr. LONG. Does the Senator think anyone could possibly open any greater hole than was opened in the Tulane line last week?</p>
+<p>Mr. DOUGLAS. I had always thought that Notre Dame could open bigger holes than could anyone else, until I read this conference report, and then I thought that probably the draftsmen of the act had been misplaced. We should have had them opening up football holes, because no football hole was ever opened wider than the legal hole which has been developed in the Antitrust Act.</p>
+<head>Finally, Mr. President, I should like to point out that the change made by the conference committee in section 4D, which seems to be very innocent on its face, is in reality a "sleeper" clause which completely upsets any protection which the small-business man has been given by the Clayton Act and the Robinson-Patman Act. For both of these acts provide that discriminatory acts which substantially lessen competition should be enjoined. In other words, a discriminatory act where "the effect * * • may be substantially to lessen competition" can be enjoined either prior to its commission or prior to the full effect of the act having been carried out. This ability to enjoin the acts in advance of the full effects being realized can now be employed by the Federal Trade Commission and the courts. It can be done on the basis of the test of reasonable probability that a given discriminatory act will lead to the effect either of substantially lessening competition or helping to pro-duce monopoly. This is on the principle of the red traffic light which holds back the north- and south-bound traffic, be-cause if the north- and south-bound autos go ahead at the crossing, they will conflict with the autos going from east to west on the green light. It is well to turn on the red light to prevent the autos from conflicting with those which have been given the green light.</head>
+<p>Mr. LUCAS. Mr. President, will the Senator yield?</p>
+<p>Mr. DOUGLAS. I shall be very glad to yield.</p>
+<p>Mr. LUCAS. Mr. President, I advised the Senate this morning that we would go along until approximately '7 o'clock and then take a recess until tomorrow. May I ask the Senator how much longer he expects to speak?</p>
+<p>Mr. DOUGLAS. I am not precisely able to tell, because I never know what interruptions may occur. I believe this is such an important issue that it needs to be very thoroughly elucidated and explained, so that the public as well as the Senate can make up its mind upon it.</p>
+<p>Mr. LUCAS. Mr. President, of course there is no way by which I can keep my colleague from speaking as long as he desires, but I did advise a number of Senators that the Senate would conclude its business at 7 o'clock. I think the RECORD will show that. I thoughtperhaps the Senator might conclude now, and with the Senate convening at 11 o'clock in the morning, that he might be able to get the floor at that time.</p>
+<p>Mr. DOUGLAS. Would I lose my right to the floor if the Senate took a recess until 11 o'clock tomorrow?</p>
+<p>Mr. LUCAS. If the Senator got unanimous consent, he would not.</p>
+<p>Mr. DOUGLAS. Since it is the desire of my colleague, the Senator from Illinois, in accordance with his previous statement that we should either recess or adjourn at 7 o'clock, if without losing my right to the floor I can resume again at the time the Senate convenes tomorrow morning, I should appreciate that very much. I would be very pleased indeed to have the Senator from Illinois make his motion.</p>
+<p>The VICE PRESIDENT. Is the Senator asking unanimous consent?</p>
+<p><p>Mr. DOUGLAS. I am asking unanimous consent that I may have the privilege of the floor when the Senate reconvenes tomorrow.</p>
+The VICE PRESIDENT. Is there objection? The Chair hears none.</p>
+<p>Mr. WHERRY. Mr. President, I should like to ask a question of the majority leader, if the Senator from Illinois will permit.</p>
+<p>Mr. DOUGLAS. Certainly.</p>
+<p>Mr. WHERRY. I understood it was the intention of the majority leader to have the Senate recess at this time to convene at 11 o'clock tomorrow morning. and I am in total agreement with that. I am wondering if the distinguished majority leader can tell us whether or not he intends to have a night session to-morrow night.</p>
+<p>Mr. LUCAS. I presume we had better have a night session, in view of the importance of the argument that is proceeding, involving the basing-point conference report. I presume my colleague will speak at some length, and that the Senator from Louisiana will do likewise</p>.
+<p>Mr. DOUGLAS. I have no desire to spin out the argument, but it is extremely important that the great issues which are at stake should be made clear.</p>
+<p>Mr. LUCAS. I perfectly understand that, and I know that the Senator cannot make the issue clear in 15 or 20 minutes. It will take some time for him to do that. I know, too, that he will be ably assisted by the junior Senator from Louisiana [Mr. LONG], who usually takes quite some time, also, to explain an important matter of this kind.</p>
+<p>Mr. WHERRY. In view of the fact that the distinguished majority leader has stated that when the motion is made to recess it will be to recess until tomorrow at 11 o'clock, and in view of the statement that the majority leader feels a night session will be necessary tomorrow, I should like to say that I shall not object to the unanimous-consent request. I think that is the proper procedure, and I am perfectly agreeable that the distinguished junior Senator from Illinois shall be recognized when the Senate convenes tomorrow morning to continue his speech,</p>
+<p>The VICE PRESIDENT. Without objection, it is so ordered.</p>
+<head>AMENDMENT OF FEDERAL AIRPORT ACT</head>
+<p>Mr. MYERS. Mr. President, this afternoon the Federal airport bill was passed, and I believe the House bill was substituted for the Senate bill. The House bill has not yet come over from the House. Therefore, I ask unanimous consent that the action by which Senate bill 1284 was indefinitely postponed, relating to section 6 of the Federal Airport Act, be reconsidered.</p>
+<p>The VICE PRESIDENT. Is there objection?</p>
+<p>Mr. WHERRY. Mr. President, as I understand, the Senate bill was passed with the idea that there was a House bill on the calendar, but the House bill is not even on the calendar.</p>
+<p>Mr. MYERS. That is correct.</p>
+<p>Mr. WHERRY. I have no objection whatever to the request.</p>
+<p>The VICE PRESIDENT. Without objection, it is so ordered.</p>
+<p>Mr. MYERS. Mr. President, I also ask unanimous consent that the proceedings with reference to House bill 4239 be vacated.</p>
+<p>The VICE PRESIDENT. Without objection, it is so ordered.</p>
+<p>Mr. MYERS. Mr. President, I further ask unanimous consent that Senate bill 1284, as amended, be acted on at this time.</p>
+<p>The VICE PRESIDENT. Is there objection?</p>
+There being no objection, the bill was ordered to be engrossed for a third reading, read the third time, and passed.
+<head>COMMITTEE MEETING DURING SENATE
+SESSION</head>
+<p>On request of Mr. JOHNSON of Colorado, and by unanimous consent, the Committee on Interstate and Foreign Commerce was authorized to meet during the session of the Senate tomorrow afternoon.</p>
+<head>MESSAGE FROM THE PRESIDENT</head>
+<p>A message in writing from the President of the United States was communicated to the Senate by Mr. Miller, one of his secretaries.</p>
+<head>REHABILITATION OF NAVAJO AND HOPI TRIBES OF INDIANS&#8212;VETO MESSAGE (S. DOC. NO. 119)</head>
+<p>The VICE PRESIDENT. The Senate has received a message from the President of the United States, vetoing Senate bill 1407, relating to the Navajo and Hopi Tribes of Indians. In view of the lateness of the hour, the Chair will ask that the message be printed as a Senate document, lie on the table, and printed in the RECORD without being read. This is at the request of the Senator from Arizona [Mr. MCFARLAND]. The Chair hears no objection.</p>
+<p>The message from the President is as follows:</p>
+
+To the Senate of the United States:
+I return herewith, without my approval, the enrolled bill (S. 1407) to pro-mote the rehabilitation of the Navajo and Hopi Tribes of Indians and the bet-ter utilization of the resources of the Navajo and Hopi Indian Reservations, and for other purposes.
+HeinOnline- 95 <title>Cong. Rec.</title> 14784 1949
+1949	CONGRESSIONAL RECORD-SENATE	14785
+The principal objective of this bill is the establishment of a 10-year program of capital and other improvements for the benefit and rehabilitation of the Navajo and Hopi Tribes of Indians. Appropriations would be authorized for this purpose totaling $88,570,000. Among the principal program goals specified and the amounts provided therefor would be: roads and trails, $20,000,000; school buildings and equipment, and other educational measures, $25,000,000; soil and water conservation and range improvement work, $10,000,000; and completion and extension of existing irrigation projects, and completion of the investigation to determine the feasibility of the proposed San Juan-Shiprock irrigation project, $9,000,000.
+I have withheld my approval with reluctance and only after the most careful consideration of all the provisions of S. 1407. The bill contains many meritorious features. In fact, its only objectionable provisions are those of section 9 which, with some qualifications, extend State civil and criminal laws and court jurisdiction to the Navajo-Hopi Reservations which are now under Federal and tribal laws and courts. Section 9 is heavily weighted with possibilities of grave injury to the very people who are intended to be the beneficiaries of the bill. Its many and serious defects out-weigh, in my judgment, the merits of the rest of the bill.
+In the first place, the meaning of section 9 is obscure. While it seeks to subject the Navajo and Hopi Indians to the civil and criminal laws of the States where their reservations are situated, in certain circumstances and under certain conditions, the details of these circumstances and conditions cannot be deter-mined, with any assurance of legal correctness, from the language of section 9. For example, the right to inherit personal property, such as cattle, sheep, tools, and utensils, is a matter of vital concern to the Navajo and Hopi Indians, as it is to other human beings. The de-scent of this property upon death is a matter which is now governed by their tribal practices and customs. Section 9 might be construed as abrogating these practices and customs at one fell swoop and imposing upon these Indians a system governing the. descent and distribution of personal property which they neither want nor understand. Another matter of vital concern to the Navajo and Hopi Indians is their water rights, since they live in an arid country where water is the most precious of all natural resources. The jurisdiction to adjudicate, project, and enforce these water rights is now vested in the Federal courts where Indian rights are assured of full protection. Section 9 might be construed as transferring plenary power over Indian water rights to the State courts where there is much less assurance of protection for Indian rights, or it might be construed as leaving the existing Federal jurisdiction substantially unimpaired. These two illustrations are far from exhaustive, but they reveal quite plainly that the bill contains serious threats to the basic rights of these Indians, and at best would create a series of legal tangles which only years of ex-pensive litigation could unravel. In the interim, many valuable interests might be lost and much irreparable injury suffered by the Navajo and Hopi peoples.
+A second major objection to section 9 is that its avowed purpose of accomplishing a broad-scale extension of State laws to the Navajo and Hopi Reservations is in conflict with one of the fundamental principles of Indian law accepted by our Nation, namely, the principle of respect for tribal self-determination in matters of local government. The Congress and the executive branch have repeatedly recognized that so long as Indian communities wished to maintain, and were prepared to maintain, their own political and social institutions, they should not be forced to do otherwise. One of the most liberal self-government clauses ever written for an Indian tribe appears in section 6 of the enrolled bill. That section declares that the Navajo people shall have "the right to adopt a tribal constitution," which "may provide for the exercise by the Navajo Tribe of any powers vested in the tribe or any organ there-of by existing law, together with such additional powers as the members of the tribe may, with the approval of the Secretary of the Interior, deem proper to include therein," and which "shall authorize the fullest possible participation of the Navajos in the administration of their affairs." It would be inconsistent to enact into law section 9 concurrently with section 6. If either is to be accepted as meaning what it says, the other must be viewed as mainly rhetoric.
+Statutes have, of course, been enacted from time to time extending State criminal or civil laws to particular Indian communities. Primarily, these statutes dealt with comparatively small groups, the members of which through long association with neighboring whites, had reached the stage where they were pre-pared to and wished to be governed by State and local law. The Navajo and Hopi Tribes are not in this category. They are, indeed, the Indians who are probably lease prepared for such a major change.
+Ultimate acceptance of State jurisdiction is a logical consequence of our policy of assisting the Indians to develop their natural talents and physical resources in ways that will enable them to participate fully in our free, but vigorously competitive, society. In the long run, this process of adjustment to our culture can be expected to result in the complete merger of all Indian groups into the general body of our population. Yet the desirability of this result is no reason for compelling the Navajos and Hopis to accept legal integration long before they have been prepared for such a consequence through the orderly course of social and economic integration. Premature steps for tribal dissolution have in-variably revealed that the process of cultural adjustment cannot be hastened, and may be retarded, by attempts at legal compulsion. For many years more, the lives of the Navajo and Hopi peoples will continue to be governed by the isolation of the country where they live, the facts that four-fifths of them cannot speak English, and that the majority of their children have never been to school, theprimitive background of their social concepts, the limitations of their economic resources, and other circumstances which tend to make their tribal governments a necessary instrument for their continued progress in civilization. It would be unjust and unwise to compel them to abide by State laws written to fill other needs than theirs.
+In reaching my decision to veto S. 1407, I have been greatly influenced by the attitude of the Navajo Indians toward the bill. The Navajo Tribe includes about 65,000 of the approximately 70,000 Indians affected by S. 1407. They greatly favor the long-range rehabilitation pro-gram which the bill proposes. But much as they favor the constructive provisions of the bill, they fear section 9 more. This is indicated by the fact that at a meeting held on October 13, 1949, after final congressional action on the bill, the Navajo Tribal Council, the tribe's governing body, adopted a resolution urging that I veto S. 1407.
+In withholding approval from S. 1407, I am glad to note that the principal feature of that measure, the 10-year pro-gram of capital improvements provided for in section 1, can be put into effect through normal appropriation procedures. Expenditures for substantially all of the purposes listed in section 1 are authorized by existing laws relating to Indian affairs. The purpose in proposing a special authorization for the 10-year program was to afford the Congress an opportunity to review that program as a whole before appropriation estimates were submitted for the individual items. The Congress, by its action on S. 1407, has now manifested its view that the capital improvements in question should be undertaken at once and prosecuted speedily to completion. Accordingly, I plan to include in the budget for the fiscal year 1951, appropriation estimates that will provide for initiation of the 10-year program. Since statutory authorization for almost all of these items al-ready exists, the failure of S. 1407 to become law will not interpose a legal bar to the appropriation of the necessary funds, although it will result in the loss of some incidental features of S. 1407 that would have been of value to the Indians. I would, of course, be glad to approve a bill that incorporated these features and the other provisions of S. 1407, without the objectionable provisions of section 9, should the Congress see fit to pass such a measure.
+HARRY S. TRUMAN. THE WHITE HOUSE, October 17, 1949.
+RECESS
+Mr. LUCAS. Mr. President, I move that the Senate stand in recess until 11 o'clock a. M. tomorrow.
+The motion was agreed to; and (at 7 o'clock and 5 minutes p. m.) the Senate took a recess until tomorrow, Tuesday, October 18, 1949, at 11 o'clock a. m.
+NOMINATIONS
+Executive nominations received by the Senate October 17, 1949:
+DIPLOMATIC AND FOREIGN SERVICE
+The following-named Foreign Service officers for promotion from class 1 to the class
+
+
+</body></floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

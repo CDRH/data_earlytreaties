@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="treaty_stylesheet.xsl" type="text/xsl"?>
+<!--
+<!DOCTYPE TEI.2 [
+<!NOTATION jpeg SYSTEM "JPEG">
+<!ENTITY n137_signatures SYSTEM "n137_signatures.jpg" NDATA jpeg>
+]>
+-->
+<TEI.2 id="treaty.00007">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Early Recognized Treaties with American Indian Nations</title>
+<author></author>
+<respStmt>
+<resp>Project Director</resp>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<respStmt>
+<resp>Project Team</resp>
+<name>Brian Pytlik Zillig</name>
+<name>Laura Weakly</name>
+<name>Zach Bajaber</name>
+</respStmt>
+</titleStmt>
+
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Electronic Text Center</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="label">Ratified treaty # 7</note>
+<note type="project">
+Treaty of Fort Stanwix, or The Grant from the Six Nations to the King and Agreement of Boundary &#8212; Six Nations, Shawnee, Delaware, Mingoes of Ohio, 1768</note>
+<note type="source">O'Callaghan, E. B. (Ed.). (1857). <hi rend="italics">Documents Relative to the Colonial History of the State of New York, vol. 8</hi>. Albany, NY: Weed, Parsons, and Co., 111&#8211;137.</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<analytic>
+<title>Documents Relative to the Colonial History of the State of New York,</title>
+<editor>O'Callaghan, E. B. (Ed.).</editor>
+</analytic>
+<monogr>
+<title></title>
+<imprint>
+<biblScope type="volume"> vol. 8</biblScope>
+<date value="1857">  (1857).</date>
+<biblScope type="pages"> 111&#8211;137.</biblScope>
+<pubPlace>Albany, NY:</pubPlace>
+<publisher>Weed, Parsons, and Co.,</publisher>
+</imprint>
+</monogr>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<revisionDesc>
+<change> 
+<date>2006-02-08</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Changed TEI header</item> 
+</change>
+
+<change> 
+<date>2005-01-20</date>
+<respStmt>
+<name>Laura Weakly</name>
+</respStmt> 
+<item>Added page breaks, note and ref apparatus, orig regs and abbs</item> 
+</change> 
+
+<change> 
+<date>2005-12-09</date>
+<respStmt>
+<resp></resp>
+<name>Zach Bajaber</name>
+</respStmt> 
+<item>Moved sourceDesc to fileDesc, added body tags</item> 
+</change>
+
+<change>
+<date>2005</date>
+<respStmt>
+<name>Charles D. Bernholz</name>
+</respStmt>
+<item>Initial creation</item>
+</change>
+</revisionDesc>
+
+</teiHeader>
+
+
+<text>
+<body>
+<div1>
+<!--MATT'S  NOTE:  The  signatures  can   be   found   on   J:\Treaty
+Documents\Treaty 7 - O'Callaghan (1857) Vol. 8 111 - 137\signatures-->
+
+<!--O'Callaghan,  E.B.  (Ed.)  Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France, VIII, pp. 111-134. Albany, NY: Weed, Parsons and Co. 1857.-->
+
+<pb n="111" />
+
+<p><hi  rend="bold"><hi  rend="center">Proceedings  of  Sir  William
+Johnson with the  Indians  at  Fort  Stanwix  to  settle  a  Boundary
+Line.</hi></hi><lb/></p>
+
+<p><hi  rend="center">[Plantations   General,   XXX.,   Bundle   V.
+7.]</hi><lb/></p>
+
+<p>Proceedings at a Treaty held by Sir William Johnson Baronet  with
+the Six Nations, Shawanese, Delawares,  Senecas  of  Ohio  and  other
+dependant Tribes, at Fort Stanwix in  the  months  of  October  &amp;
+November 1768, for the settlement of  a  Boundary  Line  between  the
+Colonies and Indians, pursuant to His Majesty's orders<lb/><lb/></p>
+
+<p>The Time appointed for the Indians to meet at Fort Stanwix  being
+the <orig reg="20th">20<hi rend="super">th</hi></orig> of  <orig reg="September">Sept<hi  rend="super">r</hi></orig>  <orig reg="Sir"> S<hi
+rend="super">r </hi></orig> <orig reg="William">W<hi rend="super">m </hi></orig> Johnson arrived there on the <orig reg="19th">19<hi rend="super">th</hi></orig> accompanied by  the  Governor  of  New Jersey and several
+
+<pb n="112" />
+
+other Gentlemen, with 20 Boats loaded with the Goods intended for the
+Present to be  made  by  the  Cession  of  Lands  to  the  King.  The
+Commissioners from Virginia were already  there,  and  on  the  <orig reg="21st">21<hi rend="super">st</hi></orig>  arrived  <orig reg="Lieutenant">Lieut<hi  rend="super">t </hi></orig>   <orig reg="Governor">Gov<hi
+rend="super">r </hi></orig>  Penn  with  <orig reg="Commissioners">Comm<hi  rend="super">rs</hi></orig>   from Pensilvania &amp; several  other  gentlemen,  The  same  day  <orig reg="Messrs">Mess<hi rend="super">rs</hi></orig> Wharton &amp; Trent of Pensylvania delivered  in an account of the Traders losses in 1763, together with their  Powers of Attorney for obtaining a retribution  in  Lands,  pursuant  to  an
+article of the Treaty of Peace in 1765<lb/><lb/></p>
+
+<p>Several   Indians   came   in   &amp;   informed    Sir    <orig reg="William">W<hi rend="super">m</hi></orig> Johnson that those of Susquehanna  were  near  at hand, and gave him sundry intelligences<lb/><lb/></p>
+
+<p>On the <orig reg="29th">29<hi rend="super">th</hi></orig>  some  Delawares  arrived  from Muskingham who left the Shawanees at Fort Pitt on their way  to  Fort
+Stanwix<lb/><lb/></p>
+
+<p><orig reg="30th">30<hi rend="super">th</hi></orig> The Bounds  between  the  Mohawks  and Stockbridge Indians were adjusted to  mutual  Satisfaction,  and  the
+latter returned home<lb/><lb/></p>
+
+<p> At the beginning of October, there  were  800  Indians  assembled
+&amp; continued coming in dayly till after the Treaty was opened. The
+upper Nations still remaining behind thro' evil  Reports,  and  Belts
+sent amongst them. Sir William dispatched Messengers to  hasten  them
+and held several Congresses with those on the spot, antecedent to the
+Treaty,  for  adjusting  differences  and  preparing  them  to  enter
+heartily upon business on the arrival of the rest<lb/><lb/></p>
+
+<p> On the <orig reg="15th">15<hi  rend="sup">th</hi></orig>  of  <orig reg="October">Oct<hi  rend="super">r </hi></orig> <orig reg="Governor">Gov<hi rend="super">r </hi></orig> Penn urged by the Affairs of his  Province
+set off for Philadelphia leaving behind him as Commissioners  <orig reg="Messrs">Mess<hi rend="super">rs</hi></orig> Peters &amp; Tilghman.<lb/><lb/></p>
+
+<p>By the <orig reg="22d">22<hi rend="sup">d</hi></orig> there were 2200 Indians  collected and several large Parties coming in the next day, amongst  whom  were
+all the cheifs of the upper Nations, Sir William prepared to open the
+Congress on the <orig reg="24th">24<hi rend="super">th</hi></orig><lb/><lb/></p>
+
+<p><hi rend="bold"><hi rend="center">At a Treaty with the 6  Nations
+Shawanese Delawares, Senecas of Ohio &amp; Dependants &amp;c.  opened
+at Fort Stanwix on Monday the 24 Oct. 1768.</hi></hi><lb/></p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212; <orig reg="Honourable">Hon<hi  rend="super">ble</hi></orig> Sir    <orig reg="William">W<hi    rend="sup">m</hi></orig> Johnson  Bart <orig reg="Superintendent">Superint<hi
+rend="super">dt</hi></orig><lb/><lb/></p>
+
+<p>His  <orig reg="Excellency">Excell<hi  rend="super">cy </hi></orig>  <orig reg="William">W<hi   rend="super">m</hi></orig> Franklin <orig reg="Esquire">Esq <hi rend="super">re </hi></orig>  <orig reg="Governor">Gov<hi  rend="super">r</hi></orig>  of New Jersey<lb/><lb/></p>
+
+<p>Thomas    Walker    <orig reg="Esquire">Esq<hi    rend="super">re </hi></orig>     <orig reg="Commissioner">Comm<hi rend="super">r</hi></orig> from Virginia<lb/><lb/></p>
+
+<p><orig reg="Honourable">Honb<hi rend="sup">le</hi></orig>  Fred.  Smith<ref target="n112.01" n="1"></ref>  Ch. Justice of New Jersey.<lb/><lb/></p>
+
+<p><orig reg="Richard">Rich<hi rend="super">d</hi></orig> Peters &amp; James  Tilghman  <orig reg="Commissioners">Comm<hi rend="super">rs</hi></orig> from the Province of Pensylvania.<lb/><lb/></p>
+
+<p><hi rend="bold">Deputy Agents of Indian affairs</hi><lb/>
+</p>
+
+<p>George Croghan <orig reg="Esquire">Esq<hi rend="super">re</hi></orig>  Daniel  Claus  <orig reg="Esquire">Esq<hi rend="super">re</hi></orig><lb/><lb/>
+</p>
+
+<p>Guy  Johnson   <orig reg="Esquire">Esq<hi   rend="super">re</hi></orig>   Dep:   Agent as Secretary.<lb/><lb/></p>
+
+<p>With sundry Gents: from different Colonies<lb/><lb/></p>
+
+<p>Interpreters  John  Butler  <orig reg="Esquire">Esq<hi   rend="super">re  </hi></orig>   <orig reg="Mr">M<hi
+rend="super">r</hi></orig> Andrew Montour Philip Philips<lb/></p>
+
+<note id="n112.01" n="1"><orig reg="Fredrick">F<hi  rend="smallCaps">REDRICK </hi></orig> <orig reg="Smyth">S<hi rend="smallCaps">MYTH</hi></orig>, the last Chief Justice of the  Colony  of
+New Jersey, succeeded Chief Justice Read on the  bench  on  the  17th
+October, 1764, and continued in office  until  the  adoption  of  the
+Constitution. In 1772 he was appointed one of  the  Commissioners  to
+examine into the affairs of the burning of the British schooner Gaspé
+by the Whigs of Rhode  Island.  When  the  Revolution  broke  out  he
+removed to Philadelphia, where he died. His reputation as a judge was
+highly respectable,  and  throughout  his  career  he  preserved  the
+character    of    a    firm    and    consistent    Loyalist.    <hi
+rend="italics">Field's  Provincial  Courts  of  New  Jersey</hi>.  &#8212;
+E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="113" />
+
+<p><hi rend="center"><hi rend="bold">Indian Cheifs Present</hi></hi><lb/></p>
+
+<p><hi   rend="center"><orig reg="Mohawks">MOHAWKS</orig></hi>   Abraham	Aroghiadecka	Onohario Kanadagaya	Kayenqueregoa	      Kendrick Tobarihoga &amp;c     &amp;c      &amp;c.<lb/><lb/>
+</p>
+
+<p><hi rend="center"><orig reg="Onondagas">ONONDAGAS</orig></hi> The  Bunt	Diaquanda	Tawawshughti Tewawmit &amp;c. &amp;c. <lb/><lb/></p>
+
+<p><hi  rend="center"><orig reg="Senecas">SENECAS</orig></hi>  Guastrax	Odongot	&amp;c  &amp;c &amp;c. <lb/><lb/></p>
+
+<p><hi rend="center"><orig reg="Oneidas">ONEIDAS</orig></hi>  Ganaghquieson	Senughsis	Tagawaron Nicholasera	Cajuheta	&amp;c &amp;c &amp;c. <lb/><lb/></p>
+
+<p><hi  rend="center"><orig reg="Cajugas">CAJUGAS</orig></hi>  Tagaaia	Atrawawna	Skanarady &amp;c  &amp;c &amp;c <lb/><lb/></p>
+
+<p><hi rend="center"><orig reg="Tuscaroras">TUSCARORAS</orig></hi>  Saquarcesera	Kanigot	Tyagawehe &amp;c &amp;c &amp;c <lb/><lb/></p>
+
+<p><hi  rend="center"><orig reg="Mingos">MINGOS</orig>  of  Ohio  <orig reg="Shawanese">SHAWANESE</orig></hi>  Benevissica<lb/><lb/></p>
+
+<p><hi rend="center"><orig reg="Delawares">DELAWARES</orig></hi> Killbuck	Turtleheart  <lb/><lb/>
+</p>
+
+<p>The whole being seated <orig reg="Mr">M<hi rend="super">r</hi></orig> Walker<ref target="n113.01" n="1"></ref> delivered his Power, as Comm<hi rend="super">r</hi> from Virginia to Sir William Johnson which was in the words following <lb/><lb/></p>
+
+<p>"John  Blair  <orig reg="Esquire">Esq<hi  rend="super">re</hi></orig>  President   of   His Majesty's Council &amp; Commander in Cheif of the Colony and Dominion
+of Virginia, To Thomas Walker <orig reg="Esquire">Esq<hi  rend="super">re</hi></orig><lb/><lb/>
+</p>
+
+<p>By virtue of the  Power  &amp;  Authority  to  me  committed  as
+President of His Matys Council &amp; Commander in Cheif in  and  over
+this Colony &amp; Dominion of Virginia, I do hereby appoint  you  the
+said Thomas Walker  to  be  Commissioner  of  Virginia  to  settle  a
+Boundary Line between this Colony, &amp; the Colonies of  Pensylvania
+and Maryland &amp; the several Nations of Indians concerned. You  are
+required to attend at a Congress to be held for  that  purpose  under
+the direction of Sir  William  Johnson  agreeable  to  His  Majesty's
+Instructions when you are to pay due regard to the  Interest  of  His
+Majesty &amp; such Instructions as you shall receive
+
+<note id="n113.01" n="1">Doctor <orig reg="Thomas">T<hi     rend="smallCaps">HOMAS </hi></orig> <orig reg="Walker">W<hi rend="smallCaps">ALKER</hi></orig> was  an  early  explorer  of  the  Indian
+country of Western Virginia. In 1718 he crossed Powell's  valley  and
+gave the name of "Cumberland" to the lofty range of mountains to  the
+west, and passed a remarkable  depression  in  the  chain,  which  he
+called  the  "Cumberland  gap,"  and  next  named  the  Shawanee  the
+Cumberland river, all  in  honor  of  the  Duke  of  Cumberland.  <hi
+rend="italics">Monette's Mississippi</hi>, I., 314. In 1760 he  again
+passed the Clinch and Powell rivers into what  is  now  Kentucky,  on
+which occasion, it is supposed, he was accompanied by the  celebrated
+Daniel Boone. <hi  rend="italics">Ramsey's  Tennessee</hi>,  65,  66.
+These circumstances account for his appointment  as  Commissioner  at
+the present Treaty. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="114" />
+
+from  me.  Given  under  my  hand  &amp;  Seal  of  the   Colony   of
+Williamsburgh this <orig reg="17th">17<hi rend="super">th</hi></orig> day of June in the eighth year of His Majesty's Reign. A. D. 1768.<lb/><lb/></p>
+
+<p><orig reg="John">J<hi rend="smallCaps">OHN</hi></orig> <orig reg="Blair">B<hi rend="smallCaps">LAIR</hi></orig>."<lb/><lb/></p>
+
+<p><hi  rend="center"><orig reg="Messrs">Mess<hi  rend="super">rs</hi></orig>  Peters   &amp; Tilghman being likewise admitted as <orig reg="Commissioners">Comm<hi rend="super">rs</hi></orig>  for Pensilvania, Sir William, then  by  Abraham  Cheif  of  the  Mohawks, addressed the Indians</hi><lb/></p>
+
+<p>Bretheren<lb/></p>
+
+<p>I take you by the hand and heartily bid you all wellcome to  this
+place where I have kindled a Council Fire for affairs of  importance.
+The  <orig reg="Governor">Gov<hi  rend="super">r</hi></orig>  of  New  Jersey  and  the   <orig reg="Commissioners">Comm<hi rend="super">rs</hi></orig>  of  Virginia  &amp;  Pensilvania  do   likewise welcome    you    here.    <orig reg="Lieutenant">Lieut<hi    rend="super">t </hi></orig>  <orig reg="Governor">Gov<hi rend="super">r </hi></orig> Penn came hither  to  meet  you  &amp;  waited  a
+considerable time, but was at length by business  obliged  to  return
+home, leaving these  Gentlemen  as  <orig reg="Commissioners">Comm<hi  rend="super">rs</hi></orig>  on behalf of Pensylvania<lb/><lb/></p>
+
+<p>Both  the  <orig reg="Governor">Gov<hi  rend="super">r</hi></orig>  &amp;  Gentlemen  <orig reg="Commissioners">Comm<hi rend="super">rs</hi></orig> as well as myself, having waited here a month to no purpose began to be impatient never the less you  see  that  their desire to meet you  prevailed  over  every  other  consideration  and induced them to stay. I hope therefore that you are  now  come  fully prepared and with Hearts well inclined  to  the  great  business  for
+which we are convened, and in order to prepare  you  the  better  for
+these purposes, I do now, agreeable to the antient custom  establishd
+by our Forefathers, proceed to the ceremony of  Condolence  usual  on
+these occasions<lb/><lb/></p>
+
+<p>And first: With this String of Wamp:  I  do,  on  behalf  of  His
+Majesty &amp; all His subjects wipe away the  Tears  from  your  eyes
+which you are constantly shedding for your late deceased Cheifs,  and
+I clear your sight that so you may look cheerfully at your Bretheren,
+who are come from Several of the Provinces  to  attend  this  General
+Congress ordered by His Majesty to be held by me; in order to  settle
+some necessary points between him &amp; you<lb/><lb/></p>
+
+<p>With this String I clear the Passage to your Hearts that you  may
+speak cheerfully and candidly on the several subjects  which,  during
+this Congress, will be treated of, as well as to  remove  all  sorrow
+&amp; uneasiness from you<lb/><lb/></p>
+
+<p>With this last string I wipe away the blood of your friends  from
+off your Births, that you may on your  return  rest  with  Peace  and
+comfort on them	Gave the 3 Strings<lb/><lb/></p>
+
+<p>Bretheren<lb/></p>
+
+<p>I am greatly concerned for the many losses you have sustained  in
+your several Nations since our last meeting &amp;  sincerely  condole
+with you for them all	1. A Belt. </p>
+
+<p>Brethren<lb/></p>
+
+<p>With this Belt I light up, anew your several Council Fires,  that
+the Cheifs still remaining may upon all occasions sit comfortably  by
+them and consult on the several matters, which may come before  them.
+2. A Belt<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>As I have by the former Belt  kindled  up  your  several  Council
+Fires, I do now by this Belt desire, that you  the  Councillors  will
+duly assemble, when the affairs of your  nations  require  it,  &amp;
+then jealously apply yourselves to every measure which  may  tend  to
+your Peace and Interest.	A Belt<lb/><lb/></p>
+
+<p>Brethren.<lb/></p>
+
+<p>With this Belt I dispel the darkness which  for  some  time  past
+hath overspread your several Countries, by reason of your many  &amp;
+great Losses, and now heartily wish you may enjoy a 
+
+<pb n="115" />
+
+serene clear sky, so that you may be able to see your Brethren from the  Sun
+rising to the Sun setting	4 A. Belt<lb/><lb/></p>
+
+<p>Brethren, <lb/></p>
+
+<p>As I would deal with all people in their own way, and  that  your
+Ancestors have from the earliest time directed  and  recommended  the
+observation of a Sett of Rules  which  they  laid  down  for  you  to
+follow, I do now, agreeable to that  custom,  take  of  the  clearest
+water and therewith cleanse your inside  from  all  Filth  and  every
+thing which has given you concern. 5 A Belt<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>I must  desire  that  you  Sachems  &amp;  Councillors  will,  as
+occasions may require consult with the Cheiftains of your young  men,
+as they  are  in  general  men  of  sense  and  experience;  and  you
+cheiftains and Warriors to pay a  due  regard  to  your  Sachems  and
+Councillors whose sage advice will seldom  or  never  be  amiss  6  A
+Belt<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>In performing these ceremonies I  can  not  omit  this  necessary
+part, which is, that as there are but  two  Council  Fires  for  your
+confederacy, the one at my house and the other at  Onondaga,  I  must
+desire that you will always be ready to attend either of  them,  when
+called upon, by which means business will I hope, always be  attended
+&amp; properly carried  on  for  our  mutual  Interest,  and  this  I
+earnestly recommend to you all	7 A Belt<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>I must also advise you to be unanimous amongst  yourselves  &amp;
+reside in your respective Countries, and not think of  scattering  or
+settling amongst other Nations, as has been too much the Practice for
+some years past, to the great weakening  of  your  confederacy.  8  A
+Belt<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>I give you a Pouch with a String of Wampum in it, which  you  are
+to make use of when you here of the loss of any of  the  Confederacy,
+and rise up on such occasions without delay in order to  condole  for
+the same, and remove the concern  thereby  occasioned  3  Strings  of
+Wampum<lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>I now supply you with a torch or candle which you  are  to  travel
+with by night upon any extraordinary emergency, such as the  approach
+of an enemy, in  order  to  communicate  the  News  with  the  utmost
+despatch.	3 Strings <lb/><lb/></p>
+
+<p>The Nations gave the Yo-hah at the proper places, and the ceremony
+of Condolence. Adjourned till next day. <lb/><lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">At  a  Congress  with  the  several  Nations  on   Tuesday   <orig reg="25th">25<hi rend="super">th </hi></orig> <orig reg="October">Oct<hi rend="super">r</hi></orig></hi></hi><lb/></p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212; as before. <lb/><lb/></p>
+
+<p>Canaghquieson, Chief of Oneida,  stood  up  &amp;  addressing  all
+present, <orig reg="observed">observ<hi  rend="super">d</hi></orig>  that  the  several  American Governors had Indian Names, by which they were known to the  Indians, the Governor of New Jersey excepted; that  he  therefore  thought  it
+necessary to compliment him with a name, which he  did  by  bestowing
+his own name upon him, on which his Excellency
+
+<pb n="116" />
+
+<orig reg="Governor">Gov<hi rend="super">r</hi></orig> Franklin  shook  him  by  the  hand  &amp; returned him thanks.  Then  Canaghquieson  proceeded  to  answer  the
+ceremony of Condolence as follows <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We congratulate you, the <orig reg="Governor">Gov<hi rend="super">r</hi></orig> and  the  rest of the Gentlemen on your safe arrival at this  Place,  where  we  are
+heartily glad to meet you. Then after repeating what Sir William  had
+said on the first strings, yesterday, he  said,  they  did  on  their
+parts wipe away the Tears  which  their  Brothers  the  English  were
+shedding for their losses as also the blood  of  their  friends  from
+their seats, cleansing their hearts that they may be able  to  attend
+the important affairs which were  to  be  transacted	Gave  3  Strings
+<lb/><lb/></p>
+
+<p>Then repeated all that Sir William had said on  the  Black  Belts
+given at the Condolence for all which he  returned  thanks  and  said
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are much concerned at the losses you have met  with  since  our
+last Congress, and we sincerely condole with you  upon  the  occasion
+for them all.	A Belt of 9 Rows <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We thank you for rekindling our several Council Fires, whereby  we
+are enabled  to  proceed  to  business  as  formerly,  and  we  shall
+endeavour to render our  Meetings  useful  to  the  Public.  A  Belt.
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We thank you for the advice you give us, to assemble duly when the
+publick affairs require it, and we assure you that we will direct our
+thoughts,  to  the  maintenance  of  Peace  and  good  order.	A  Belt
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are much obliged  to  you  for  dispelling  the  darkness  that
+surround<hi rend="super">d</hi> our several Nations on account of our
+many losses. This we take very kindly of you, as  we  were  in  great
+heaviness for some time past, and all our Nations  join  in  thanking
+you and performing the same on their parts.	A Belt. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We all express our thanks  to  you  for  the  remembrance  of  our
+antient ceremonies. We consider them as the cement of our union,  and
+as you have cleansed us with water, we do in like manner take of  the
+clearest running stream &amp; wash your inside  thoroughly  therewith
+cleansing you from all impurities	A Belt <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We esteem the advice you have given  our  cheifs  to  consult  the
+young men as occasion may require,  and  your  directions  that  they
+should on their parts pay due regard to  us,  and  we  shall  observe
+whatever you have recommended to us	A Belt <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are sensible that we have but two great Council Fires, the  one
+at your house, the other at Onondaga, We shall  always  be  ready  to
+attend at either for the public Good,  and  we  hope  that  you  will
+continue to be ready to meet us often as the general  Peace  requires
+it A Belt <lb/></p>
+
+<pb n="117" />
+
+<p>Brother, <lb/></p>
+
+<p>We give you thanks for recommending unanimity to us. We know  that
+our living together is necessary to our happiness and that  it  gives
+us strength We will follow your advice, and we recommend  it  to  the
+English to be unanimous in all good works	A Belt. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are happy to find you so observant of our ancient Customs, that
+you give us a string in a Pouch to make use of when we have  occasion
+to communicate our losses and condole for them. We request  you  will
+be equally observant of these matters,  that  so  our  Grief  may  be
+timely and properly removed	A Belt. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We also give you many thanks for supplying  us  with  a  Torch  to
+travel with on emergencys. We assure that we shall make proper use of
+it, &amp; communicate every necessary intelligence to  you.  All  the
+six  Nations,  with  the  Shawanese,  Delawares,  &amp;   all   their
+dependants as far as to the great Plains of Sioto,  give  you  thanks
+for your good words which were  a  cordial  to  them,  and  they  all
+request that you will continue in the same good sentiments.	3 Strings
+<lb/><lb/></p>
+
+<p>The Ceremony of condolence being ended Sir  William  gave  them  a
+short <orig reg="exhortatn">exhortat<hi rend="super">n</hi></orig> after which  the  Cheifs  arose and  shook  hand  with  <orig reg="Governor">Gov<hi  rend="super">r</hi></orig>  Franklin   &amp; Canaghquieson addressing him said, that as he had given him  his  own name,  the  hoped  that  the  would  endeavour  to  acquire  as  much reputation with it amongst the People as he  had  done  The  Governor returned them many thanks <lb/><lb/></p>
+
+<p>Then adjourned till the day following. <lb/><lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">At a Congress Wednesday Oct. 26.
+</hi></hi>
+<lb/></p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212; as before <lb/><lb/></p>
+
+<p>Conoghquieson stood up and  said  that  the  Six  Nations  not  being
+satisfied  with  his  having  given  his   own   name   to   <orig reg="Governor">Gover<hi rend="super">r</hi></orig> Franklin had met upon it, and in testimony of their sense of his, and his Peoples justice in causing  the  murtherers  of some Indians to be put to death within his Government did now  confer
+upon him the name of Sagorighweyoghsta,<ref target="n117.01" n="1"></ref>
+ or the  Great Arbiter or Doer of Justice, wishing that he and  the  people  of  his
+Government might continue to act  with  the  same  Justice  they  had
+hitherto done. Whereupon <orig reg="Governor">Gov<hi rend="super">r</hi></orig> Franklin returned them thanks for the favor and  assured  them  both  himself  and  the people of his Government would  upon  all  occasions  manifest  their
+esteem for the Indians and their inclination to do them justice</p>
+
+<p>Then Sir William addressed them</p>
+
+<p>Brethren</p>
+
+<p>We have now mutually <orig reg="performed">p<hi rend="super">r</hi>formed</orig> the Ceremony  of Condolence as a proof of the regard we have for the  Customs  of  our
+Ancestors &amp; of the concern we feel  for  each  others  losses,  I
+think
+
+<note id="n117.01" n="1">From the verb <hi rend="italics">Garih8aieriston</hi>, to do, or render     justice;     which     is      compounded      of      <hi
+rend="italics">Garih8a</hi>,      a       thing,       and,       <hi
+rend="italics">Gajeri</hi>,     just.      By      inserting      <hi
+rend="italics">io</hi>, great, in the middle of the verb, we have <hi
+rend="italics">Garih|8a|io|ston</hi>,  to  do  great  justice;   then
+prefixing <hi rend="italics">Sa</hi>, Thou, and putting the  verb  in
+the present tense, we have, what is above intended for  a  noun,  <hi
+rend="italics">Sagarih8ioghsta</hi>, with the strong Mohawk  guttural
+added, signifying, literally, Thou doest great justice, or Thou are a
+great Doer of Justice. <hi rend="italics">Bruyas' Iroquois Vocabulary
+and Grammar</hi>. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="118" />
+
+it highly necessary in the next place that we farther strengthen  the
+Union between us and with that view I do therefore by  this  Belt  in
+the name of your Father the great King of England, in behalf  of  all
+his  American  Subjects  renew  &amp;  confirm  the  Covenant   Chain
+subsisting between us, strengthening it, and  rubbing  off  any  rust
+which it may have contracted that it may appear bright to all Nations
+as a proof of our love and Friendship, &amp; I hope that all of  you,
+sensible of the advantages of this union, will after the  example  of
+the English have it always before you, &amp; keep it fast that it may
+remain firm and unshaken, so long as Grass shall grow or  waters  run<lb/><lb/>
+
+
+
+Belt of the <orig reg="Covenant">Cov<hi rend="super">t</hi></orig> Chain 15 Rows with human figures at each end. <lb/><lb/></p>
+
+<p>Bretheren <lb/></p>
+
+<p>I persuade myself that you are all sensible of the Benefits  which
+result from our strict Union, &amp; that <orig reg="having">hav<hi rend="super">g</hi></orig>  it always before your eyes, you will be careful in preserving  it.  This will protect you from all dangers, &amp; secure to you the  blessings of Peace, and the advantages of Commerce with a people able to supply
+all your wants. And as this is  a  considerat<hi rend="super">n</hi>  of  much  importance,
+which depends on the friendship subsisting between us  &amp;  a  free
+open and safe Communication for all our people to you, I  do  now  by
+this Belt clear the Rivers  &amp;  Paths  throughout  our  respective
+countries, of all obstructions removing Trees out of our Creeks &amp;
+Logs Briars &amp; Rubbish out of our Roads, that our Canoes may  pass
+along without danger and that our  people  may  travel  freely  &amp;
+securely by night or by day without any risk or impediment whatsoever
+&#8212; And I recommend it to you all to contribute to this good work, &amp;
+to assist in keeping it free and open to the latest Posterity	A Large
+Belt. <lb/><lb/></p>
+
+<p>Brethren <lb/></p>
+
+<p>Hearken to me who have good words to speak to you, such as are for
+the benefit of your  whole  confederacy  and  of  your  children  yet
+unborn. <lb/><lb/></p>
+
+<p>You all remember that three years ago I signified to you His Matys
+desire to establish a Boundary Line between his people and yours  and
+that we then agreed together how some part of that Line  should  run,
+whenever, the same came to be settled <lb/><lb/></p>
+
+<p>You all, I am hopefull, recollect the Reasons I then gave you  for
+making such a Boundary never the less I shall again repeat them.  You
+know Brethren that the encroachments upon your Lands have been always
+one of your principal subjects of complaint, and that so  far  as  it
+could be done endeavors have not  been  wanting  for  your  obtaining
+Redress. But it was a difficult Task, and generally unsuccessfull &#8212; for
+altho' the Provinces have bounds between each  other,  there  are  no
+certain Bounds between them &amp; you, And thereby not  only  several
+of our people ignorant in Indian Affairs have advanced too  far  into
+your country, but also many of your own people through  the  want  of
+such a Line have been deceived in the Sales they have made or in  the
+limits they have set to our respective claims This,  Brethren,  is  a
+sad Case, which has frequently given us much trouble, and turned many
+of your heads; but it is likely to continue so untill some Bounds are
+agreed to, fixed upon and made public between us. The Great the  good
+King of England my master, whose friendship  and  tender  regard  for
+your Interests I wish you may ever hold in  remembrance  has  amongst
+other Instances of his Goodness after long deliberation on some means
+for your releif, and for preventing future disputes concerning Lands,
+at length resolved upon fixing a general Boundary  Line  between  his
+subjects and you, and  that  in  such  a  manner  as  shall  be  most
+agreeable to you, in consequence of which I have received  his  Royal
+commands to call you together  for  the  establishment  thereof,  and
+after conferring with the Governments interested hereupon, you
+
+<pb n="119" />
+
+now see before you the <orig reg="Governor">Gov<hi rend="super">r</hi></orig> of the Jerseys, the Commissioners  on  behalf  of  Aseregoa,<ref target="n119.01" n="1"></ref>  <orig reg="Governor">Gov<hi rend="super">r</hi></orig> of Virginia &amp; Commissioners from  Pensylvania in order to give you  the  strongest  assurances  on  behalf  of  the respective Governments of their Resolutions to pay due regard to what shall be now entered into, the presence of so  many  great  men  will give a sanction to the transaction and cause the same to be known  as
+far as the English Name extends &#8212; His Majesty has directed me to give
+you   a   handsome   proof   of    his    Generosity    <orig reg="proportioned">proportion<hi rend="super">d</hi></orig> to the nature and extent of what Lands  shall  fall to him &#8212; Upon the whole  I  hope  that  your  deliberations  will  be unanimous &amp; your Resolutions such as His  Maty  may  consider  as proofs of your gratitude for  all  his  favors  &#8212;	A  fine  New  Belt.<lb/><lb/></p>
+
+<p>The Importance of this affair now before  us  requires  the  most
+serious attention. I will not burthen  you  with  any  other  subject
+untill this is generally settled, and  therefore  we  shall  adjourn,
+that you may have time to think of it and come fully prepared to give
+an agreeable answer <lb/><lb/></p>
+
+<p>Then Abraham Cheif of the Mohawks after repeating what Sir William
+had said addressed him <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We give you thanks for what you have said to us at this  time,  it
+is a weighty affair, and we shall agreeable to your  desire  take  it
+into our most serious consideration <lb/><lb/></p>
+
+<p>We are glad that so many great men are assembled to  bear  witness
+of the transaction and we are now resolved to retire and consult on a
+proper answer to be given to all you have said, &amp; so soon  as  we
+have agreed upon it, we shall give  you  notice  that  we  may  again
+assemble, and make it known to you and we are all much obliged to you
+that you have directed us to attend to this  great  affair  alone  at
+this time that our minds might not be burthened or diverted  from  it
+by attending to anything else. <lb/><lb/></p>
+
+<p>Then Conoghquieson  addressed  the  whole  and  desired  that  the
+several Nations might look towards the Onondagas  who  would  appoint
+him a time  and  place  for  taking  the  matter  into  consideration
+<lb/><lb/></p>
+
+<p>After which adjourned <lb/><lb/></p>
+
+<p>P M. Sir  William  met  the  Nanticokes  with  Captain  Ogden  and
+explained to them the affair of the Sale of their Lands of which  the
+approved, as well as of the price which [is] 666  Dollars  &amp;  two
+thirds &#8212; <orig reg="Mr">M<hi rend="super">r</hi></orig> Ogden then delivered an account  of his expences which amounted to £ 100.9.9 <orig reg="Currency">Cur<hi  rend="super">cy</hi></orig> so that a balance of 415 Dollars or £ 166.2.3 Currency remains due by said Ogden which he is to pay to the cheif of the Nanticokes as  soon
+as may be and then  they  are  to  impower  him  to  dispose  of  the
+remainder of their Land in Maryland <lb/><lb/></p>
+
+<p>Thursday the <orig reg="27th">27<hi rend="super">th</hi></orig>  Deiaquande  Cheiftain  of the Onondagas with 86 arrived and came immediately  to  Sir  Williams
+Quarters to pay him the usual compliments which  having  returned  he
+ordered them paint, Pipes, Tobacco &amp; a dram around and  dismissed
+them <lb/><lb/></p>
+
+<p>Friday the <orig reg="28th">28<hi rend="super">th</hi></orig> &#8212; The weather being cold Sir William clothed the  old  cheifs  of  every  Nation  for  which  they
+returned many thanks &amp; told them that he now enabled them to meet
+and consider of the Great  affair  before  them  with  pleasure,  and
+assured him that they would endeavour to do every thing for the best,
+and that with the utmost expedition &#8212; They told Sir William that they
+were yesterday employed in hearing news brought them by the Shawanese
+
+<note id="n119.01" n="1">See note 3, [Documents Relative to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] IX, 706. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="120" />
+
+and  receiving  the  Belts,  that  this  day  they  would  take  into
+consideration the Boundary Line, and seriously deliberate thereon  as
+they were determined to make it binding <lb/><lb/></p>
+
+<p><hi rend="center"><hi rend="bold">At a  Congress  with  the  several  Nations  on
+Friday the <orig reg="28th">28<hi rend="super">th</hi></orig> day of October 1768</hi></hi>  <lb/>
+</p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212; as before <lb/><lb/></p>
+
+<p>The Indians continued in private Council till 4 P.  M.  when  they
+sent to let Sir William know, that they would be glad to  speak  with
+him: being all seated the Speaker addressed  Sir  William  <lb/><lb/>
+</p>
+
+<p>Brother <lb/></p>
+
+<p>We  have  been  for  some  time  deliberating  on  what  you  said
+concerning a Line between the English and us, &amp; we  are  sensible
+it would be for our mutual advantage if it were not transgressed, but
+dayly experience teaches us that we cannot have any great  dependance
+on the white People, and that they will forget their  agreements  for
+the sake of our Lands &#8212; However you have said so much to us  upon  it
+that  we  are  willing  to  beleive  more  favorably  in  this  case.
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>You remember when we spoke last concerning this Boundary, that  we
+did not agree about the way it should run from Oswegy<ref target="n120.01" n="1"></ref> &#8212; This is a point that must now be settled for to what purpose  could it be to draw a Line between us &amp; the country of  Virginia  &amp;
+Pensylvania whilst the way to our Towns lay open We  would  therefore
+know what you intend to propose as a Boundary to the  Northward  that
+we take it into consideration and we shall be glad that  you  explain
+it fully to  us,  that  no  mistake  may  be  made  on  either  side.
+<lb/><lb/></p>
+
+<p>To which Sir William answered, <lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>I have attended to what you say and do admit that it is reasonable
+the Line should be closed, &amp; I persuade myself that His Maty will
+approve of it All these things I had in consideration before, &amp; I
+recommended the Line to you generally at first according to your  own
+practice as an Introduction to the rest and in order  to  render  the
+whole clear &amp; plain to you, I have prepared a Map  on  which  the
+Country is drawn large &amp; plain which will enable us both to judge
+better of these matters. I would therefore recommend  it  to  you  to
+send the cheifs of each Nation to my Quarters where I shall  lay  the
+Map before them &amp; confer with them upon it <lb/><lb/></p>
+
+<p>The Speaker then thanked Sir William for what he  had  said  which
+they all greatly approved of, in consequence of which the  Cheifs  of
+each Nation came soon after to his Quarters when Sir William  laid  a
+Map on the Table &amp; after explaining to them  the  nature  of  his
+orders &amp; the desires of Government he spoke as follows <lb/><lb/>
+</p>
+
+<p>Brothers <lb/></p>
+
+<p>Here is the Map of which I spoke to you, where  all  that  Country
+which is the subject of our meeting is faithfully laid down. The Line
+here described between the Kanhawa River &amp; Oswegy1  was  what  we
+spoke about &#8212; The King has not fixed upon any particular place to
+
+<note id="n120.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<pb n="121" />
+
+continue it to It therefore remains for me to obtain  a  continuation
+of that Line which will be secure to you and advantageous  to  us  on
+which subject we now meet &#8212; I have likewise to observe  to  you  that
+the piece of Land in the Forks of Susquehanna is very much desired by
+the Commissioners from Pensylvania and would be more advantageous  to
+them than to you, besides as it is or will be soon partly  surrounded
+by Settlements it will be a very difficult matter to get  any  people
+to go far to the Northward, &amp; leave such Land as it  were  behind
+them &#8212; I would therefore  propose,  the  Bounds  from  Fort  Pitt  be
+continued up to the Ohio to Moghulbughilum Creek,<ref target="n121.01" n="1"></ref>
+Thence up that Creek &amp; along the eight mile Carrying Place<ref target="n121.02" n="2"></ref> to the West Branch of Susquehanna thence along that River to
+the Allegany Ridge. Thence along  that  Ridge  of  Mountains  to  the
+Cayuga Branch &amp; down  the  same  to  the  Great  East  Branch  of
+Susquehanna, from thence up that East Branch to Oswegy,<ref target="n121.03" n="3"></ref> from whence it can be run Eastward to the Delaware River, which is
+very near it at that Place and  for  that  part  of  this  additional
+Cession which will fall to  <orig reg="Mr">M<hi  rend="super">r</hi></orig>  Penn,  you  will receive a large &amp; handsome consideration  over  and  besides  His
+Matys Royal Bounty And as to the continuation of that Line  from  the
+Delaware so as to close it, I must desire  to  hear  what  yourselves
+think &amp; I expect that your Resolutions will  be  advantageous  to
+us, &amp; that you will make proper allowance for the increase of our
+People whereby you will recommend yourselves to the King, and  become
+so pleasing to his subjects that it will greatly  contribute  to  the
+due observance of the Boundary Line. <lb/><lb/></p>
+
+<p>To which the Speaker made the following answer <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We have hearkened to all that you have said and we thank  you  for
+your advice which we beleive is well intended &#8212;  But this is  a  great
+Cession of Land which will require much  thought  and  attention  and
+therefore we shall  defer  the  consideration  of  it  till  tomorrow
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>Before we answer you about the continuation of the  Line  we  must
+say something to you concerning the extent of  it  to  the  Southward
+which we find is no further than Kanhawa River. Now Brother, you, who
+know all our affairs, must  be  sensible  that  our  Rights  go  much
+farther to the Southward and that we have a  very  good  &amp;  clear
+Title to the Lands as far as the Cherokee  River  which  we  can  not
+allow to be right of any other Indians without  doing  wrong  to  our
+Posterity  and  acting  unworthy  those  Warriors  who  fought  &amp;
+conquered it. We therefore expect this our Right will be  considered.
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are now to speak about continuing the Line  as  you  said  from
+Delaware so as to close it, and you recommend it to us  to  give  you
+plenty for the people <lb/><lb/></p>
+
+<p>We were formerly generous &amp; gave  the  white  people  in  many
+places Lands when they were too poor to buy them. We have  often  had
+bad Returns. Nevertheless we would still act generously and  mean  to
+do as much as we can without ruining our Children <lb/><lb/></p>
+
+<note id="n121.01" n="1">Moghulbuctitum. <hi rend="italics">Scull's Map of
+Pennsylvania</hi>.  'Tis   a   corruption   of   the   Indian   name,
+Mochulbuctison or Moeholpakison, meaning, "where boats are abandoned"
+(that    is,    the     head     of     navigation);     from     <hi
+rend="italics">Amokkol</hi>,  the  Delaware  word   for   Boat.   <hi
+rend="italics">Bulletin of Pennsylvania Historical Society</hi>, 128.
+It falls into the Allegany river in Armstrong  county,  Pennsylvania,
+and seems to be called, in modern maps, the Mahoning. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n121.02" n="2">This carrying place is  in  the  present  county  of
+Indiana, Pennsylvania.</note>
+
+<note id="n121.03" n="3"><hi rend="italics">Sic</hi>. Owegy.</note>
+
+<pb n="122" />
+
+<p>Brother <lb/></p>
+
+<p>You know that the country from Oswegy<ref target="n122.01" n="1"></ref>
+ quite  to Oswego is full of our Towns &amp; Villages and that it is  very  dear
+to us so that we cannot be expected to part with  what  lies  at  our
+Doors, besides your people are come  already  too  close  to  us.  We
+therefore think that the Line should run up the Delaware to the Swamp
+&amp; from that run across to the Governors (Cosbys Land) and then go
+away to Lake  George  which  we  can  not  but  think  a  fair  offer
+<lb/><lb/></p>
+
+<p>To which Sir <orig reg="William">W<hi rend="super">m</hi></orig> answered <lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>We have heard what you said and shall  answer  it.  In  the  first
+place I acknowledge to have heard of  your  claim  to  the  Southward
+before this time The King  does  not  deny  your  claims  He  is  not
+thoroughly acquainted with the exact extent of them and finding  that
+they may be liable to some dispute  with  the  Southern  Indians,  he
+being an enemy to strife directed the Line to be run in the manner he
+thought least liable to it. But of this I shall take  further  notice
+to you having no[w] to speak to you in answer to the course you  have
+proposed for continuing the Line from Delaware <lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>I know very well how you are situated and it is not  His  Majestys
+inclination to disturb you therein,  at  the  same  time  you  should
+consider what is reasonable on your parts and that the Lands are even
+patented further than you propose the Line, and that the more  people
+are confined the more readily will the transgress the bounds so  that
+I must desire you to think the better of it and speak more  favorably
+at our next meeting, till when I shall propose nothing further, as  I
+could not consistently propose any other  Line  than  such  as  would
+bring us to or near Lake Ontario. <lb/><lb/></p>
+
+<p>They then withdrew taking with them a Map in order to consider the
+affair in private. <lb/><lb/></p>
+
+<p>At night Sir William had a private conference with the  Cheifs  of
+the most Influence with whom he made use of every argument  to  bring
+matters to an agreeable issue <lb/><lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">Saturday Oct <orig reg="29th">29<hi rend="super">th</hi></orig></hi></hi><lb/>
+</p>
+
+<p>The Indians continued in  Council  all  the  forenoon  the  Cheifs
+having given the Belts to the Warriors for their  opinion  concerning
+the Boundary; several of the Indians particularly  the  Oneidas  gave
+great obstruction to the business,  and  Sir  William  heard  that  a
+clergyman sent by Mr Wheelock from New England who had delivered  him
+a memorial on the 14th instant "praying that the Line might  not  be
+extended far North or West but the Lands reserved for the  purposes
+of Religion" was very busy amongst the Indians for that purpose.<ref target="n122.02" n="2"></ref> Information was likewise given to Sir William this morning
+that this Clergyman had in conversations with Coll  Fitch  Mr  Peters
+junior and others told them that he had done what he could  to  opose
+the Cession of Territory, and would continue to obstruct  it  to  the
+utmost of his Power, and that he had shewed the Indians the folly  of
+giving up their Lands &amp; cautioned them against it before he  left
+Oneida <lb/><lb/></p>
+
+<p>Sir William this day cloathed several of the Cheifs with  whom  he
+had several conferences the Majority of  them  continued  in  Council
+together to consider farther on the speeches made
+
+<note id="n122.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.</note>
+
+<note id="n122.02" n="2">See  <hi  rend="italics">New  York  Documentary
+History</hi>,  8<hi  rend="smallCaps">VO</hi>.,  IV.,  388&#8211;398,   for
+papers illustrative of the matters here referred to. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<pb n="123" />
+
+to them in the  afternoon  the  Onondaga  &amp;  Mohock  Cheifs  with
+several others waited on Sir William with a Message from  the  whole,
+importing that as it was a very weighty &amp; interesting  affair  it
+required some further consideration they therefore requested that  he
+and the Gentlemen with him  would  wait  with  patience  till  monday
+morning when they hoped to be able to give an answer <lb/><lb/></p>
+
+<p>Sir William told them that he was  really  become  very  impatient
+through the delays which was given to business, that the security  of
+their Lands depended upon their  despatch  and  the  freedom  of  the
+Cession &#8212; That he would however wait till Monday, when  he  hoped  to
+hear from them some  thing  that  might  make  up  for  their  delays
+<lb/><lb/></p>
+
+<p>At night several of the Cheifs came to Sir Williams  Quarters  to
+let him know the purport of Intelligence and Belts received from  the
+Shawanese, which was that according to the old  agreement  subsisting
+between the several Indian Nations, they were all to unite and attack
+the English as soon as the latter became  formidable  to  them.  That
+several of the Nations to the South and West greatly alarmed  at  the
+Power and increase of the English and irritated at the ill  treatment
+they had met with  had  expressed  a  desire  to  meet  the  rest  to
+deliberate on what was to be done. That the  Spaniards  &amp;  French
+had for a long time urged  them  to  take  up  arms  and  given  them
+repeated assurances of a  powerfull  assistance  That  they  had  now
+called them to a meeting at the Mississippi near  the  mouth  of  the
+Ohio for that purpose. That  they  had  sent  many  Belts  among  the
+Indians, a great part of whom were just ready to  set  out  when  Sir
+Williams message came to them, and that they waited the event of  the
+Treaty at  Fort  Stanwix  before  they  would  come  to  any  further
+resolution with  a  variety  of  other  particulars  all  tending  to
+corroberate the former Intelligence received by Sir  William  Johnson
+<lb/><lb/></p>
+
+<p>In the morning  the  Indians  again  met  in  Council,  when  the
+Warriors came and laid before  their  Sachems  the  result  of  their
+deliberations yesterday concerning the Northern part of the Line  who
+directed  four  of  their  Sachems  viz   Tyaruruante,   Ganaquieson,
+Tyeransera,<ref target="n123.01" n="1"></ref> and Tagawaron to wait on Sir  William  and communicate the same  which  was,  that  the  Line  should  run  from
+Oriscany to Tianderhah,<ref target="n123.02" n="2"></ref> and down  that  River  to  the Susquehanna, thence in a straight Line to the Hills, and  so  to  the
+Delaware Branch &amp; down the same to Oswegy,<ref target="n123.03" n="3"></ref>
+ thence down the Susquehanna to Shamokin, and so along  the  West  Branch  of
+that River to Kittanning declaring they would not part with any Lands
+to the Westward of Oriscany or down  towards  Wioming  or  the  Great
+Island,  as  they  reserved  that  part  of  the  Country  for  their
+Dependants. <lb/><lb/></p>
+
+<p>But Sir William finding that some busy persons had  been  alarming
+those Nations most immediately affected by the Line,  and  that  many
+others could be induced to settle it more advantageously he in a long
+and warm speech to the Cheifs shewed  them  that  the  Line  was  not
+proposed to injure them, but that for a handsome consideration it was
+intended to obtain a Cession of as much Land as would give the people
+Room on the Frontiers  ascertain<hi rend="super">g</hi>  the  Boundary  at  the  same  time
+between them &#8212; that with the help of proper  Laws  it  would  not  be
+liable to intrusion &#8212; that the Line proposed at  Oriscany  interfered
+with a patent granted above sixty years ago now in possession of some
+Gentlemen at New York the Indian Deed for which, he had before  shewn
+them That these Gentlemen and all others concerned would have  reason
+to blame him for agreeing to lines so injurious to their Rights,  and
+that the continuance of a line from thence in the  manner  that  they
+proposed would in many places approach so near to our settlements, as
+to render its duration very uncertain from the great increase of our
+
+<note id="n123.01" n="1">See Note, [Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] III, 453.</note>
+
+<note id="n123.02" n="2">Now    called    the    <hi rend="italics">Unadilla</hi>, agreeably to the softer Oneida dialect.</note>
+
+<note id="n123.03" n="3"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<pb n="124" />
+
+people, whereas by giving them more room the  Boundary  would  be  so
+well known, and secured by Laws before there  would  be  occasion  to
+invade it, that people would act with extreem caution and  rather  go
+to other unsettled parts than attempt to transgress an  agreement  so
+well defended &#8212;  That it had  been  long  in  agitation  and  was  now
+according to their own desires ordered by His Majesty to be  settled,
+as the surest means of putting and end to Land Disputes, and that  if
+they rejected this opportunity now offered them and drew the Line  so
+as to interfere with Grants, or approach allmost to our  settlements,
+he could not see that any thing more effectual  could  thereafter  be
+proposed for preventing encroachments,  and  the  Crown  after  being
+already at a very heavy expense on this occasion must find  its  good
+intentions and reasonable proposals totally  defeated.  He  therefore
+recommended it to them to consider this point  farther,  and  as  his
+Majestys Bounty, or that of the Colonys would be proportioned to  the
+extent of their Cession, a rule which he  should  observe  upon  this
+occasion &#8212; That he hoped for a more favorable Answer as it  would  be
+more to their immediate  advantage  and  would  tend  to  the  better
+observance  of  the  Line  hereafter.  After  these  and  many  other
+arguments, &amp; farther explaining the several courses laid down  on
+the draft, they agreed to take the Map back to their Council Hutt for
+farther consideration, promising to use their Interest with the  rest
+for a more favorable Line then withdrew Sir William assuring them  at
+parting that they should be particularly rewarded for their  services
+or  endeavours  to  shew  the  Indians  the  reasonableness  of   the
+requisition. <lb/><lb/></p>
+
+<p>At night Tagawaron returned with the Map to Sir William,  informed
+him that they were then debating on the subject but much  divided  in
+opinion,  and  added  that  he  thought   his   Nation   disagreeably
+circumstanced the rest having thrown so much of  the  transaction  to
+the Northward on their hands, nevertheless he would do all  he  could
+to obtain a more favorable settlement <lb/><lb/></p>
+
+<p>After which Sir William had many other private  conferences  which
+occupied a great part of the night &#8212; In particular Six Cheifs of  the
+Oneidas, came to him at nine of the clock at night and they very much
+doubted the validity of the purchase above Orisca &#8212; But through  <orig reg="Sir">S<hi rend="super">r</hi></orig> Williams  solicitations  and  to  shew  their  good disposition towards compleating the work in hand,  they  would  agree
+that the Line should run from the Susquehanna North  across  at  Fort
+Newport near Fort Stanwix where the  Boats  are  launched,  and  from
+thence to the Northwest corner of the late purchase for Lord  Holland
+&amp; others &#8212; Sir William thanked them for the Amendments  but  told
+them that he could not think it would answer, that it  did  not  even
+include the carrying place,  and  therefore  desired  them  again  to
+consider the matter and that as they could extend it much farther  to
+the westward without any sensible  inconvenience,  he  expected  they
+would do so, for which their Nation, over and besides the rest should
+have five hundred Dollars &amp; a handsome present for  each  of  the
+cheifs. &#8212; They promised to use their best endeavours for that purpose
+&amp; withdrew <lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">Monday. Oct <orig reg="31st">31<hi rend="super">st</hi></orig></hi></hi><lb/></p>
+
+<p>At 10 A M. The Oneidas returned to Sir Williams Quarters, and told
+him that their people possitively refused to agree to any other  Line
+than they had proposed the last night, &amp; that as  Game  began  to
+grow scarce in their neighbourhood, they had come to a Resolution  to
+keep the carrying Place to the Canada Creek in  their  hands,  as  by
+keeping Horses and Carriages there as they proposed  to  do  for  the
+future to carry over the Traders Goods, they might earn 
+
+<pb n="125" />
+
+somewhat  for
+the support of their families. Sir William answered that  he  thought
+it  somewhat  extraordinary  that  they  should  enter  into  such  a
+Resolution on the sudden having totally neglected carrying goods  for
+so many years &#8212;  That if  they  gave  it  up  they  might  still  reap
+benefits from a high road open to all provided they had horses  &amp;
+Carriages as reasonable as other people, but that their keeping it to
+themselves would occasion many disputes between them  and  the  white
+people, which His Maty was so very desirous  of  preventing  and  had
+fallen upon the Boundary as the means of doing so. That  they  should
+not stop at what was but a Trifle to them, tho' so advantageous &amp;
+necessary to the English and that he wished they would so act  as  to
+shew their love and respect for the King  &amp;  friendship  for  his
+Subjects &#8212; That the Governor and People of New  York  had  reason  to
+expect much more from them and that they had left it to him  to  urge
+these matters to them as thinking Commissioners unnecessary  when  he
+was to conduct the Congress. He hoped that this would  be  a  farther
+consideration and desired them to act a part proper on  the  Occasion
+<lb/><lb/>
+</p>
+
+<p>The thereupon withdrew to consult further upon it. They shortly
+after returned and said that Sir William had been so desirous to have
+the Bounds further extended the last and only thing  they  could  say
+was, that provided they were allowed an equal  use  of  the  carrying
+Place with the English and to be paid  Six  Hundred  Dollars  to  the
+Tribes over and besides the several Fees which were given in private,
+they should extend the Line to Canada Creek Sir  William  finding  it
+best not to urge this matter farther told them that he acquiesced for
+the present leaving it to be confirmed or  rejected  by  His  Majesty
+They answered that they  considered  and  unanimously  resolved  that
+whatever Boundary Line was now agreed to should be for  ever  binding
+&amp; conclusive on both sides &#8212; That  no  province  should  on  any
+pretence  invade  the  Line  and  that  whatever  transaction   might
+thereafter be necessary should be with  the  King  or  those  by  him
+directed to treat with them. <lb/><lb/></p>
+
+<p>A Messenger then arrived to call them to attend  the  consultation
+about the rest of the line <lb/><lb/></p>
+
+<p>At night Canaquieson came to inform  Sir  William  that  they  had
+further considered the general subject of the Line &amp; would send a
+cheif &amp; Warrior from each Nation with their final resolves  which
+they would deliver in public the next day - They accordingly came  to
+Sir Williams Quarters, when Sir William told them, he hoped they were
+now come with such an answer as would be pleasing to all Parties. The
+Map being then laid before them, they said, that what they had to say
+was the final resolves of all the Nations,  then  said  at  the  same
+time, tracing it on the Map that they would agreeable to  their  just
+Claims begin the Line at the mouth of the  Cherokee  River,  then  go
+along to the South East side of the Ohio to Kittanning,  from  thence
+to the Head of the West Branch of Susquehanna thence down the same to
+Bald Eagle Creek thence across the River at Tiadaghta Creek below the
+great Island, thence by a straight Line to Burnett's Hills and  along
+the same to the mouth of Awanda Creek on the West Side  of  the  East
+Branch of Susquehanna, thence up the stream thereof  to  Oswegy,<ref target="n125.01" n="1"></ref> thence Eastward to the Delaware River, thence up the stream
+thereof till they come opposite to  the  mouth  of  Tianaderah  Creek
+emptying into Susquehanna, thence up the West side of Tianaderrah  to
+the head of its Westerly Branch, and from  thence  to  the  mouth  of
+Canada Creek on Wood Creek. <lb/><lb/></p>
+
+<p>This they delivered  as  their  final  determinations  subject  to
+several  conditions  for  the  security  of  their  possessions   and
+engagements entered into, and for that part which would fall
+
+<note id="n125.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="126" />
+
+within <orig reg="Mr">M<hi rend="super">r</hi></orig> Penns <orig reg="Government">Gov<hi rend="super">t</hi></orig> they
+insisted on having 10,000 Dollars Sir William told them he would take
+the matter into consideration and would assemble  them  all  tomorrow
+and after parting conferred with  the  Commissioners  of  Pensilvania
+concerning the same who <orig reg="approved">approv<hi rend="super">d</hi></orig> it, and  agreed to the consideration on behalf of the Proprietors. <lb/><lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">At a General Congress with the several  Nations  at  Fort  Stanwix
+Tuesday Nov <orig reg="1st">1<hi rend="super">st</hi></orig> 1768 </hi></hi><lb/><lb/></p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212;  as  at  the  former  Meetings
+<lb/><lb/></p>
+
+<p>Being all seated they desired to  know  whether  Sir  William  was
+prepared to hear them, and on being answered in the affirmative,  the
+speaker stood up and spoke as follows <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are hopefull that you will not  take  it  amiss  that  we  have
+delayed till now our public answer on the subject you recommended  to
+us, This was a great and weighty matter requiring long  deliberation,
+and should not be undertaken lightly &#8212; We have accordingly considered
+it, and are now come to give you our final  resolutions  thereon,  to
+which we beg your attention <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We remember that on our first Meeting with you, when you came with
+your ship we kindly received you, entertained you,  entered  into  an
+alliance with you, though we were then great &amp; numerous and  your
+people inconsiderable and week and we know that  we  entered  into  a
+Covenant Chain with you and fastened your ship therewith,  but  being
+apprehensive the Bark would break and your ship be lost we  made  one
+of iron, and held it fast that  it  should  not  slip  from  us,  but
+perceiving the former chain was liable to  rust;  We  made  a  silver
+chain to guard against it Then,  Brother,  you  arose,  renewed  that
+chain which began to look dull, and have for many years taken care of
+our affairs by the command of the  Great  King,  &amp;  you  by  your
+labors have polished that chain so that it has looked bright  and  is
+become known to all Nations, for all which we shall ever  regard  you
+and we are thankfull to you in that you have taken such care of these
+great affairs of which we are allways mindfull, and we do now on  our
+parts renew and strengthen the Covenant Chain by which we will  abide
+so long as you shall preserve it strong &amp; bright on your  part.	A
+Belt. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are glad that you have opened the River and cleared  the  Roads
+as  it  is   so   necessary   to   us   both.   We   were  <orig reg="promised"> promis<hi rend="super">d</hi></orig> that when the war was over, we should have  Trade in plenty, Goods cheap and honest men to deal with  us  and  that  we
+should have proper persons to manage all this.  We  hope  that  these
+promises will never be forgot but that they will be  fully  performed
+that we shall feel the benefits of an intercourse between us  &#8212;  that
+the Roads and waters may be free and open to us  all  to  go  to  the
+Southward, or for our friends from thence with whom  we  are  now  at
+peace to visit us, that we may have proper persons in our Countrys to
+manage affairs and smiths to mend our arms and implements  &#8212;  and  in
+the expectation of this, we do, now on our parts open the  Roads  and
+waters, and promise to assist in keeping them so. A Belt.  <lb/><lb/>
+</p>
+
+<p>Then after repeating all that had been said  concerning  the  Line
+proceeded <lb/></p>
+
+<pb n="127" />
+
+<p>Brother <lb/></p>
+
+<p>We have long considered this proposal for a Boundary  between  us,
+and we think it will be of good consequence if you on your parts  pay
+due regard to it, and we in  consequence  thereof  have  had  sundry
+Meetings amongst ourselves and with you and from all  that  you  have
+said to us thereon, we have at length  come  to  a  final  resolution
+concerning it, and we hope that what is  now  agreed  upon  shall  be
+inviolably observed on your parts as we are determined it shall be on
+ours and that no further attempts shall be made on our Lands but that
+this Line, be considered as final and we do now agree to the Line  we
+have marked upon your Map, now before you on  certain  conditions  on
+which we have spoken and shall  say  more  and  we  desire  that  one
+Article of this our agreement be, that none of the Provinces or their
+People shall attempt to invade it under color of any  old  Deeds,  or
+other pretences what soever for in many of these things we have  been
+imposed on, and therefore we disclaim  them  all,  which  Bounds  now
+agreed to we begin on the Ohio at the mouth of  the  Cherokee  River<ref target="n127.01" n="1"></ref> which is now our just right, and from thence we give up
+on the South side of Ohio to Kittanning above Fort Pitt, from  thence
+a direct Line to the nearest Fork of the West Branch  of  Susquehanna
+thence through the Allegany Mountains along the  south  side  of  the
+said West Branch till we come opposite to  the  mouth  of  the  Creek
+called Tiadaghton thence across the Nest Branch &amp; along the  East
+side of that Creek and along the ridge of Burnets Hills  to  a  Creek
+called Awandae thence down  the  same  to  the  East  Branch  of  the
+Susquehanna, and across the same and up the East side of  that  River
+to Oswegy, from thence Eastward to Delaware River, and up that  River
+to opposite  where  Trinaderha  falls  into  Susquehanna,  thence  to
+Trienaderha and up the West side thereof and its West Branches to the
+Head thereof thence by a straight Line to the mouth of  Canada  Creek
+where it emptys itself into  Wood  Creek  at  the  end  of  the  long
+carrying place beyond Fort Stanwix, and this we  declare  to  be  our
+final Resolves and we expect that the conditions of  this  our  Grant
+will be observed A Belt. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>Now as we have made so large a Cession  to  the  King  of  such  a
+valuable and Extensive Country, We do expect it as the Terms  of  our
+Agreement that strict regard be paid to all our reasonable desires  &#8212; 
+We do now on this on behalf and in the name of all  our  Warriors  of
+every Nation, condition that all our Warriors shall have the  liberty
+of hunting throughout the Country as they  have  no  other  means  of
+subsistance and as  your  people  have  not  the  same  occasions  or
+inclinations &#8212; That the White people be restricted  from  hunting  on
+our side of the Line  to  prevent  contensions  between  us  A  Belt.
+<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>By this Belt we address ourselves to the  Great  King  of  England
+through You our superintendant in the Name and in behalf of  all  the
+Six Nations Shawanese, Delawares and all other our  Friends,  Allies,
+&amp; Dependants, We now tell the King that we have given  to  him  a
+great and valuable Country, and we know that what we shall  now  get
+for it must be far short of its value &#8212; We make  it  a  condition  of
+this our <orig reg="Agreement">Agreem<hi rend="super">t</hi></orig> concerning the Line that His Majesty will not forget or neglect to show us His favor or suffer the Chain to contract Rust, but that he will direct those who have the management of our  affairs to be punctual in  renewing  our  antient  agreements.  That  as  the
+Mohocks are now within the Line which we give to the 
+
+<note id="n127.01" n="1">Now   called   the    Tennessee.    <hi rend="italics">Ramsey</hi>. &#8212;  E<hi rend="smallCaps">D</hi></note>
+
+<pb n="128" />
+
+King, and that these people  are  the  true  old  heads  of  the  whole
+confederacy their  several  villages  and  all  the  Land  they  occupy
+unpatented, about them as also the Residences  of  any  others  in  our
+confederacy affected by this Cession shall be considered as their  sole
+property and at their disposal both now, and so long as the sun shines,
+and that all grants or engagements they  have  now  or  lately  entered
+into, shall be considered as independent of this Boundary so that  they
+who have so little left may not lose the benefit of the sale of it, but
+that the people, with whom they have agreed, may have  the  Land  &#8212;  We
+likewise further condition on behalf of all the Six Nations and of  all
+our allies, friends &amp;  Nephews  our  Dependants  that  as  we  have
+experienced how  difficult  it  is  to  get  justice  or  to  make  our
+complaints known and that it is not in the power of our  Superintendant
+to take care of our affairs in different Places without the Kings  help
+that His Majesty will give him help &amp; strength to do us justice and
+to manage our affairs in a proper manner. We all know the want of this,
+and we make it a point of great consequence on which this  our  present
+Agreement is to depend and without which Affairs will go wrong and  our
+heads may be turned. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We likewise desire that as we have now given up a  great  deal  of
+Lands within the Bounds that <orig reg="Mr">M<hi rend="super">r</hi></orig> Penn claimed  a right of buying that he may in  consequence  of  the  agreement  now
+entered into between us, enjoy what we have given within them Limits.
+And as we know that Lydius of Albany  did  in  the  name  of  several
+persons lay claim to Lands in  Pennsylvania,  which  we  know  to  be
+unjust, and that the Deeds he pretends a right to  were  invalid,  We
+expect that no regard will be paid to them or any such claims now  or
+hereafter, as  we  have  fairly  sold  them  to  the  proprietors  of
+Pensylvania to whom alone we shall sell Lands within  that  Province,
+and we shall now give them a Deed for that &amp; other  Lands  there.
+And in order to shew that we love justice, we expect the Traders  who
+suffered by some of our dependants in the wars five  years  ago,  may
+have a grant for  the  Lands  we  now  give  them  down  Ohio,  as  a
+satisfaction   for   their   losses,   and   as   our   friend   <orig reg="Mr">M<hi
+rend="super">r</hi></orig> Croghan<ref target="n128.01" n="1"></ref>
+ long ago got a  Deed  for Lands from us, which may now be taken into  <orig reg="Mr">M<hi  rend="super">r</hi></orig> Penns Lands,  should  it  so  happen,  we  request  that  it  may  be considered and get as much from the King somewhere else, as he fairly bought it. &#8212; And as we have given enough to shew  our  Love  for  the King and make his people easy, in the next place we  expect  that  no
+old claims which we disavow or new encroachments may  be  allowed  of
+<lb/><lb/></p>
+
+<p>Brother, <lb/></p>
+
+<p>We have now gone through this matter and we have  shewn  ourselves
+ready to give the King whatever we could reasonably spare. We on  our
+parts express our regard for him and we hope for His favor in return.
+&#8212; Our words are strong and our resolutions firm &amp; we expect  that
+our request will be complied with in so much as we have so generously
+complied with all that has been desired as far as was consistent with
+our Existence A Belt. <lb/><lb/></p>
+
+<p>Sir William then thanked them for what they had said, and  assured
+them that it should all be considered, and that he  would  meet  them
+tomorrow on these and other subjects. Then adjourned <lb/><lb/></p>
+
+<note id="n128.01" n="1">See note, [Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] VII., 982. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<pb n="129" />
+
+<p><hi  rend="center"><hi rend="bold">Wednesday November the <orig reg="2d">2<hi rend="super">d</hi></orig></hi></hi>
+
+<lb/></p>
+
+<p>The day being very rainy the Indians  did  not  meet  in  Council.
+<lb/><lb/></p>
+
+<p>Sir William cloathed a number of cheifs and Cheiftains of  several
+Nations and was this day busy in preparing the necessary  Papers  for
+the Next Meeting <lb/><lb/></p>
+
+<p>P. M. Sir William met the Mohocks and other cheifs and endeavoured
+to persuade them to extend the Line more favorably to the West of New
+York <orig reg="observing">observ<hi rend="super">g</hi></orig>  that  they  could  not  agree  to extend it further down the Wood Creek  on  the  South  side  that  he
+expected they would let it run below the Canada Creek, on  the  North
+side of Wood Creek, but finding them determined and  that  they  were
+for closing it at the point of the  last  purchase  near  the  Mohock
+River, he told them he would stop at the Mouth of Canada Creek  &amp;
+refer the remainder to His Matys consideration <lb/><lb/></p>
+
+<p>Sir William then acquainted the Cheifs  that  his  Excellency  the
+Commander in cheif purposed to evacuate Fort Ontario, or to put it on
+the same footing with Fort  Stanwix,  as  a  measure  that  would  be
+agreeable to them, and that as for any forts, which it was  necessary
+still to keep up,  they  could  be  no  inconvenience  to  them  They
+answered that they had nothing to complain of against the keeping  up
+Ontario, on the footing it was for some time past nor would they make
+any difficulty about the others whilst they were civilly  treated  at
+them, and no encroachments made on  their  Lands  which  Sir  William
+<orig reg="promised">promis<hi rend="super">d</hi></orig> should be duly attended to.  <lb/><lb/>
+</p>
+
+<p><hi  rend="center"><hi rend="bold">Thursday November the <orig reg="3d">3<hi rend="super">d</hi></orig></hi></hi><lb/></p>
+
+<p>This day was partly employed in <orig reg="preparing">prepar<hi rend="super">g</hi></orig>  the several Speeches &amp;, the Deed of Cession <lb/><lb/></p>
+
+<p>P. M. A  Deputation  from  the  Aghquessaine  Indians  came  to  Sir
+Williams Quarters accompanied by the Oneida chiefs whose  interposition
+with him had  been  requested  in  order  to  accommodate  the  unhappy
+difference which had gone such lengths  in  their  village  that  their
+Preist and many of their people  would  likely  be  murthered  A  Belt.
+<lb/><lb/></p>
+
+<p>Sir William answered them that he had been extreemly concerned  to
+hear of  that  difference  amongst  themselves  that  in  consequence
+thereof he had directed Coll Claus the Deputy Agent for that  Quarter
+to enquire into the particulars &amp; to put a stop to it,  and  that
+he now had the pleasure to acquaint them that agreeable to His orders
+the whole was happily determined  before  Coll  Claus  left  Montreal
+which account gave them all great  satisfaction  A  Belt.  <lb/><lb/>
+</p>
+
+<p><hi  rend="center"><hi rend="bold">At a Congress  with  the  several  Nations  Friday  November  <orig reg="4th">4<hi
+rend="super">th</hi></orig></hi></hi><lb/></p>
+
+<p><orig reg="Present">P<hi  rend="smallCaps">RESENT</hi></orig>  &#8212;  as  at  the  last   Meeting<lb/><lb/></p>
+
+<p>The Onondaga Speaker performed the Ceremony of Condolence,  for  a
+loss sustained by the Oneidas after which Sir William  addressed  the
+several Nations <lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>After having duly considered your speech and the Agreement you  have
+at length come into, I  am  pleased  to  find  that  you  have  so  far
+dispatched business Notwithstanding the  severity  of  the  <orig reg="approaching">approach<hi rend="super">g</hi></orig> season, and the distance which many of us are  from our dwellings. I gave you all the  time  necessary  for  bringing  this weighty affair to a deliberate conclusion <lb/></p>
+
+<pb n="130" />
+
+<p>Brother <lb/></p>
+
+<p>I am glad to  find  that  you  remember  your  old  agreements  so
+particularly and I wish you may always observe them,  and  with  that
+view I should have been glad to have heard you confine your answer to
+my Belt for keeping the Roads open, to that subject alone, as a  free
+and safe intercourse between us is so  necessary  to  you  <lb/><lb/>
+</p>
+
+<p>The promises formerly made you of the happy change which would be
+produced by the  Reduction  of  Canada  you  have  in  many  respects
+experienced as far as it was in the power of  his  Majestys  Servants
+you likewise have had a considerable number of  Traders  amongst  you
+which has so far lowered the Prices of Goods that several of them are
+become Bankrupts and at many of the Posts they are to be bought at as
+low rates as at our Towns Notwithstanding the distance and expence of
+Transportation. I am to inform you that it has been judged adviseable
+by the Government to commit  that  part  of  business  regarding  the
+management of the Indian Trade  to  the  care  &amp;  charge  of  the
+several Colonies who I make no doubt will endeavour to do every thing
+they can for your interest A Belt. <lb/><lb/></p>
+
+<p>You have of late made several complaints on  account  of  the  ill
+behaviour of some  people  on  the  Frontiers;  those  that  regarded
+Pennsylvania, I have reason to think I finally  settled  and  gave  a
+handsome  portion  of  their  bounty  upon  the  occasion,   and   in
+consequence of the  information  I  gave  the  Governor  of  Virginia
+thereon, his Assembly passed several Votes in your favour, which  are
+now before me, whilst the Governor sent this assurance of their  good
+faith and friendship for you and of their intentions to  prevent  you
+from being ill treated <lb/><lb/></p>
+
+<p><hi rend="center">Here showed and explained the  Resolves  of  the
+House of Burgesses likewise a paper  under  the  Great  Seal  of  the
+Province of Virginia authorizing Sir William to give  to  them  those
+favorable assurances. and proceeds</hi><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>I hope all this will convince you that they are your  friends  and
+as further proof of it  the  Gentlemen  <orig reg="Commissioners">Comm<hi  rend="super">rs</hi></orig> from those Provinces will at their return take  proper  measures  for your future good treatment  &amp;  for  the  due  observance  of  the
+Boundary Line by proper Laws for these purposes, according his  Matys
+desires  which  I  shall  recommend  to  their  remembrance  A  belt.
+<lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>I am glad the Boundary is at length agreed upon, &amp; as  I  have
+great reason to think it will be duly  observed  by  the  English.  I
+recommend it to you  to  preserve  it  carefully  in  remembrance  to
+explain it fully to those that are absent and to  teach  it  to  your
+children. This Boundary is intended to be lasting but  should  it  be
+found necessary by His Majesty  or  yourselves  to  make  any  future
+additions or alterations he will treat with you by those who have the
+management of your affairs. And never permit any private  application
+this I have received in command to tell you <lb/><lb/></p>
+
+<p>As to the several reservations you make in  your  Cession  to  the
+King and the other points you recommend you may be assured  that  His
+Maty shall be made acquainted with them, as I shall transmit to him a
+copy of our transactions at this place &amp; I may venture to  assure
+you that they will meet with all possible regard from a Prince of His
+clemency &amp; Justice &amp; I now give you this Belt  to  strengthen
+ratify  and  confirm  the  Boundary  to  all  transactions  necessary
+thereto. A Belt. <lb/></p>
+
+<pb n="131" />
+
+<p>Brothers <lb/></p>
+
+<p>The speech which you addressed particularly to His Maty  shall  be
+faithfully transmitted to him with the rest of  your  proceedings.  I
+have attended to the whole of it &amp; I persuade myself  that  every
+reasonable article will be taken proper notice of &amp; that he  will
+take such measures as to him shall seem best for your benefit and for
+the rendering you justice &#8212; I likewise consider your good  intentions
+towards the Traders who sustained the losses  &amp;  your  desire  to
+fulfill all your other engagements as instances of your integrity.  I
+wish that you may on your parts carefully remember  &amp;  faithfully
+observe the Engagements you have now as well as formerly entered into
+with the English, and that you may every day grow more  sensible  how
+much it is your Interest to do so And I once more exhort you  all  to
+be strong and stedfast to keep firm hold of the Covenant Chain  &amp;
+never to give attention or credit to People who under the  Masque  of
+friendship should come amongst you with stories  which  may  tend  to
+weaken your attachment to us, but to  keep  your  eye  stedfastly  on
+those whose business &amp; inclination it is to tell you truth  &amp;
+make your minds easy A Belt. <lb/><lb/></p>
+
+<p>Brothers the Shawanese &amp; Delawares <lb/></p>
+
+<p>I now particularly address you,  in  that  you  live  far  to  the
+Southward, &amp; may at some times be disturbed by bad men who taking
+advantage of our distance from us &amp; the Heads of the  Confederacy
+may by Belts Messages or Stories invented to create  mischeif  impose
+on many of your  people  &amp;  through  their  means  mislead  other
+Nations I am not ignorant that this has happened &amp;  I  have  good
+intelligence that there are people who  have  been  lately  deceiving
+some of you with stories of Revolutions in American affairs &amp;  of
+French Fleets &amp;  armies,  with  which  you  have  been  so  often
+deceived that I wonder any of your people should  credit  them  &#8212;   Be
+assured, Brothers, that those who were able to conquer Canada,  &amp;
+drive their enemies out of their country,  will  always  have  it  in
+their power to defeat their  future  projects  should  they  be  weak
+enough to make any future attempts to regain what  they  lost.  I  do
+therefore exhort you by this Belt to pay no regard to such  deceivers
+for the future, but continue to live peaceably &amp; let me know  who
+they are, &amp; from whence  that  attempt  to  impose  upon  you.  I
+likewise desire you to remember all your engagements with the English
+to observe the treaty of Peace  with  the  Cherokees,  to  avoid  any
+irregularities on the Frontiers &amp; pay due regard to the  Boundary
+Line now made, &amp; to make all  your  People  acquainted  with  it,
+&amp; to keep the Roads &amp; Waters open and free whereby  you  will
+enjoy the benefits of Peace &amp; Commerce, the esteem of the King of
+Great Britain &amp; the friendship of all his subjects &amp; I desire
+you will remember &amp; often repeat my words A Belt. <lb/><lb/></p>
+
+<p>Brothers the Indians of Canada <lb/></p>
+
+<p>With this Belt I recommend it to you to  remember  what  has  been
+done at this &amp; all former Treaties and to make  the  same  public
+among all your people on your return to  Canada  recommending  it  to
+them to continue to promote peace  and  to  discountenance  all  evil
+reports &amp; idle Stories which may be propagated by ignorant or bad
+men &amp; to communicate all usefull intelligence to me from time  to
+time as a proof of your regard for your engagements &amp; a means  of
+recommending yourselves to the esteem  of  the  King  and  people  of
+England. A belt. <lb/><lb/></p>
+
+<p>Brothers of the <orig reg="several">sev<hi rend="super">l</hi></orig> Nations here  Assembled<lb/></p>
+
+<p>The <orig reg="Governor">Gov<hi rend="super">r</hi></orig> of New Jersey being called hence by some urgent business has desired me to inform you  that  he  can  not
+think of taking leave of His Brethren the Six  Nations  without  once
+more
+
+<pb n="132" />
+
+expressing the Happiness he  has  received  from  finding  that  they
+entertain such right sentiments of his justice,  &amp;  that  of  the
+good people under his Government He has himself the highest sense  of
+the value &amp; importance of the name conferred on him &amp;  doubts
+not but that future Governors &amp; the cheif men  &amp;  inhabitants
+of New Jersey will be ever carefull to  deserve  so  distinguished  a
+Title among the Indian Nations as that  of  Sagorrihwhioughstha <ref target="n132.01" n="1"></ref> Doer of Justice <lb/><lb/></p>
+
+<p>The Governor has likewise requested me to remind  you  that  at  a
+Treaty held at Easton in  the  year  1758  the  Delawares  and  other
+Indians who had any pretensions to Land in  New  Jersey,  did  for  a
+valuable consideration give a general release for all  the  Lands  in
+that Province except such parts as were reserved by Law for  the  use
+of those Indians who chose to  live  under  the  protection  of  that
+<orig reg="Government">Governm<hi rend="super">t</hi></orig>. This was done in  public  Council  in the presence of many of  the  Six  Nations  and  the  Governor  would therefore be glad, that at this Congress (where are present so  many
+cheifs of the different Nations belonging to  the  Confederacy  &amp;
+when a general Boundary Line between the subjects of  His  Brittannic
+Majesty in America  &amp;  their  Bretheren  the  Indians  is  to  be
+settled) you would do the Province  of  New  Jersey  the  justice  to
+confirm the  said  Release  by  acknowledging  in  public  that  that
+Province is entirely free from all Indian Claims,  except  as  before
+<orig reg="mentioned">ment<hi rend="super">d</hi></orig> His Reason for this request is that  this matter may held in remembrance by all the nations  present  &amp;  by
+that means be more surely handed down  to  their  Posterity  A  Belt.
+<lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>In consequence of a Belt I have just received from the Senecas which
+I formerly gave them to bind them together I do  now  think  it  highly
+necessary  with  this  Belt  to  bind  you  all  together  <orig reg="recommending">recommend<hi rend="super">g</hi></orig> it to you all to avoid wandering and to continue at your several villages after the manner of your  ancestors,  I  do  this principally for your own advantage, convinced that you will be weakened by rambling and  that  your  Councils  and  opinions  will  be  thereby
+disunited &#8212; Take therefore my advice and do not suffer yourselves to be
+lead away with any imaginary prospects of advantage by scattering,  but
+continue by this Belt in your several places of  abode  following  your
+commerce and all peaceable pursuits A Large Black Belt <lb/><lb/></p>
+
+<p>Brothers <lb/></p>
+
+<p>The business of the Treaty being so  far  happily  brought  to  a
+conclusion it only remains that you execute a deed of Cession to  His
+Majesty &amp; whatever else is  necessary  on  this  occasion,  after
+which I shall deliver over to your People the large Present, together
+with the Sum of Money the amount and value of which  I  have  already
+explained to you &#8212;  The  <orig reg="Governors">Gov<hi  rend="super">rs</hi></orig>  and  Gentlemen <orig reg="Commissioners">Comm<hi  rend="super">rs</hi></orig>  from  the  <orig reg="several">sev<hi  rend="super">l</hi></orig> <orig reg="Governments">Governm<hi rend="super">ts</hi></orig> are sensible  of  your  good  conduct
+during the Treaty, and I shall recommend what is necessary to them in
+your presence for its further security &amp; on the part of New  York
+I take upon myself to promise you that every thing necessary  thereto
+shall be recommended and I make no doubt agreed to by the Legislature
+of this Province, heartily wishing that the same may on your parts be
+as carefully observed &amp; that  no  disputes  may  hereafter  arise
+concerning any part of the Cession you have made or  the  engagements
+you have entered into at this time. <lb/><lb/></p>
+
+<p>Then Sir William addressed the <orig reg="Governor">Gov<hi rend="super">r</hi></orig>  of  New Jersey &amp; the Commissioners <lb/><lb/></p>
+
+<note id="n132.01" n="1"><hi  rend="italics">supra</hi>,  p.  117.   &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="133" />
+
+<p>Gentlemen <lb/></p>
+
+<p>Agreeable to His Matys intentions signified to me by the secretary
+of State and  for  the  satisfaction  of  the  several  Nations  here
+assembled I take the liberty to recommend it strongly to your several
+Provinces to enact the most effectual Laws for the due observance  of
+this  Line  &amp;  the  preventing  all  future  intrusions,  as  the
+expectations thereof and  the  reliance  the  Indians  have  on  your
+Justice from the Assurances I gave them  on  that  head  have  proved
+great inducements to the  settlement  of  the  Line  now  established
+between the Colonies and them <lb/><lb/></p>
+
+<p>To this the Governors &amp; Commissioners  answered  that  nothing
+should be wanting on their parts to the obtaining such  security  for
+the Boundary as  was  deemed  necessary  on  their  return  to  their
+respective Colonies <lb/><lb/></p>
+
+<p>Then Sir William at the desire of the Gentlemen  Commissioners  from
+Pensylvania acquainted the Indians, that they the Commissioners  had  a
+present ready to the amount of 500 Dollars to give in full satisfaction
+of the Conostoga Lands, which by the death of that People became vested
+in the Proprietaries &#8212; That they freely gave  this  sum  as  a  farther
+Proof of the regard of that Province for them and of their concern  for
+the unhappy fate of the Conostogas. Then Sir William told the  Indians,
+that as the proprietaries did not know whether they would  chuse  money
+or Goods for the  addition  of  Land  to  Pensylvania  they  were  then
+unprovided, but that Sir William Johnson would be  answerable  for  the
+speedy payment of the purchase, &amp; would propose to them  either  to
+receive it in money to  be  sent  on  the  <orig reg="Commissioners">Com<hi  rend="super">rs</hi></orig> return or in goods speedy as possible or to wait till the  next  spring by which time they could have goods better  &amp;  more  for  the  same
+money  from  England  which  was  submitted  to   their   determination
+<lb/><lb/></p>
+
+<p>As it grew late Sir William dismissed the Indians  till  the  next
+day when they were to subscribe to the Deed of Cession &amp;  receive
+the consideration <lb/><lb/></p>
+
+<p>At night the cheifs came to Sir William told  him  that  they  had
+considered the proposals made by the  Commissioners  of  Pensylvania,
+&amp; preferred the receiving the purchase in Cash, as the  speediest
+payment which was agreed to &amp; security given that the same should
+be paid in Six Weeks <lb/></p>
+
+<p><hi  rend="center"><hi rend="bold"><orig reg="November">Nov<hi rend="super">r </hi></orig>  <orig reg="5th">5<hi  rend="super">th</hi></orig></hi></hi><lb/>
+</p>
+
+<p>The Present being placed  in  public  view  around  the  Buildings
+within the Fort early this morning the whole assembled in  the  Area,
+to subscribe to the Deed &amp; receive the  consideration  <lb/>
+</p>
+
+<p><hi  rend="center"><hi rend="bold">At a Congress with the several Nations Saturday Nov  5  </hi></hi><lb/>
+</p>
+
+<p><orig reg="Present">P<hi rend="smallCaps">RESENT</hi></orig> &#8212; as before. <lb/><lb/></p>
+
+<p>The Speaker after repeating what Sir had said to them on the first
+Belt at the last Congress said <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We thank you for what you have said &amp; we are hopeful that  you
+will observe your engagements as we mean to do on our parts;  but  as
+this will in a great measure depend upon the Colonies, We now  desire
+their Representatives here present to do every thing  for  preserving
+those <orig reg="engagements">engagem<hi rend="super">ts</hi></orig> and  keeping  their  people  in good order A Belt. <lb/></p>
+
+<pb n="134" />
+
+<p>Then repeating what was said on the second Belt,  said  <lb/><lb/>
+</p>
+
+<p>Brother <lb/></p>
+
+<p>We thank you for the advice you have given us  not  to  listen  to
+evil reports or lies. <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We approve of your caution and shall observe it, and we shall from
+time to time give us<ref target="n134.01" n="1"></ref>  the the  earliest  intelligence of any such Reports &amp; from whence they come  A  Belt.  <lb/><lb/>
+</p>
+
+<p>Then in answer to <orig reg="Governor">Gov<hi  rend="super">r</hi></orig>  Francklin's  Speech<lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>We are glad to see that Governor Francklin is so well pleased with
+our having bestowed one of our own names  upon  him  &amp;  are  well
+pleased [to] hear you promise that he will always be ready to  do  us
+justice We hope that all future Governors will act the same part.  We
+acknowledge that several of our Nations now present were witnesses to
+the transaction at Easton &amp; therefore acquit that Province of any
+demand and we have only to desire of him to follow  your  example  in
+his future Conduct towards us, which will sufficiently recommend  him
+and his people to our esteem A Belt <lb/><lb/></p>
+
+<p>Brother <lb/></p>
+
+<p>The advice you gave us yesterday to continue firm and  united  and
+to live together as formerly we think it very salutary  and  intended
+for our Good. We are therefore intended to follow your  advice  shall
+lodge your Belt at our Fire place at Onondaga to the end that all our
+confederacy may have recourse to it &amp; act accordingly  <lb/><lb/>
+</p>
+
+<p>The Deed to His Majesty, that to the Proprietors  of  Pensylvania,
+with that to the Traders being then laid on the Table  were  executed
+in the presence of the <orig reg="Governor">Gov<hi rend="super">r</hi></orig> Commissioners,  &amp;  the  rest  of  the Gentlemen <lb/><lb/></p>
+
+<p>After which the Cheifs of each Nation received the Cash which  was
+piled on a Table for that purpose and then proceeded  to  divide  the
+Goods amongst their People which occupied the remainder of  that  day
+<lb/><lb/></p>
+
+<p>P M The Governor &amp; Commissioners took leave  and  returned  to
+their respive Provinces and that night Sir William took leave of  the
+Cheifs recommending it  to  them  to  remember  what  had  been  then
+transacted &amp; cautioning them against committing any Disorders  at
+their Departure but to pack up their Goods &amp; return home in peace
+&amp; Good Order <lb/><lb/></p>
+
+<p><hi  rend="center"><hi rend="bold">Sunday Nov <orig reg="6th">6<hi rend="super">th</hi></orig></hi></hi><lb/></p>
+
+<p>The Indians began to decamp &amp; Sir  William  sett  off  on  his
+return for Johnston Hall where he arrived on the ninth of that  Month
+<lb/><lb/>
+</p>
+
+<p>A True Copy examined by <lb/></p>
+
+<p>G <orig reg="Johnson">J<hi rend="smallCaps">OHNSON</hi></orig>  Deputy  Agent  as  Secretary.<lb/><lb/></p>
+
+<!--O'Callaghan,  E.B.  (Ed.)  Documents  Relative  to  the  Colonial
+History of the State of New York; Procurede in Holland,  England  and
+France, pp. 135-137. Albany, NY: Weed, Parsons and Co. 1857.-->
+
+<!-- There is a map - between pages 136 and  137  that  needs  to  be
+reproduced and added to this treaty's text -->
+
+<note id="n134.01" n="1"><hi rend="italics">Sic</hi>. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<pb n="135" />
+
+<p><hi rend="bold"><hi rend="center">Deed Determining  the  Boundary
+Line between the Whites and the Indians</hi></hi><lb/></p>
+
+<p><hi   rend="center">[Plantations    General,    Vol.,    30,
+V.S.]</hi><lb/></p>
+
+<p>To all to whom, These presents shall come or may concern. We  the
+Sachems &amp; Cheifs of the  Six  confederate  Nations,  and  of  the
+Shawanese, Delawares, Mingoes of Ohio and other Dependant  Tribes  on
+behalf of our selves and of the  rest  of  our  Several  Nations  the
+Cheifs &amp; Warriors of whom are now here convened  by  Sir  William
+Johnson Baronet His Majestys Superintendant of our affairs send  <orig reg="Greeting">G<hi rend="smallCaps">REETING</hi></orig>.<lb/><lb/></p> 
+
+<p><orig reg="Whereas">W<hi  rend="smallCaps">HEREAS</hi></orig>  His  Majesty  was   graciously pleased to propose to us in the year one  thousand  seven  hundred  and
+sixty five that a Boundary Line should be  fixed  between  the  English
+&amp; us to ascertain &amp; establish our  Limitts  and  prevent  those
+intrusions &amp; encroachments of which  we  had  so  long  and  loudly
+complained and to put a stop to the many  fraudulent  advantages  which
+had been so often taken of us in Land affairs which Boundary  appearing
+to us a wise and good measure we did then agree to a part of a Line and
+promised to settle the whole finally when soever  Sir  William  Johnson
+should   be   fully   empowered   to   treat   with   us    for    that
+purpose<lb/><lb/></p>
+
+<p><orig reg="And">A<hi  rend="smallCaps">ND </hi></orig>  <orig reg="Whereas">W<hi
+rend="smallCaps">HEREAS</hi></orig> His said Majesty has at length given Sir
+William Johnson orders to compleat the said Boundary Line between the
+Provinces and Indians in  conformity  to  which  orders  Sir  William
+Johnson has convened the Cheifs  &amp;  Warriors  of  our  respective
+Nations who are the true and absolute Proprietors  of  the  Lands  in
+question and who are here now to a  very  considerable  Number. 
+<lb/><lb/></p> 
+
+<p><orig reg="And">A<hi rend="smallCaps">ND </hi></orig>   <orig reg="Whereas">W<hi   rend="smallCaps">HEREAS</hi></orig> many uneasinesses and doubts have arisen amongst us which have given  rise to an apprehension that the Line may not be strictly observed on  the part of the English in which case matters may be  worse  than  before which apprehension together with the dependant state of some  of  our
+Tribes and other circumstances  which  retarded  the  Settlement  and
+became the subject of some Debate Sir William Johnson has  at  length
+so far satisfied us upon as to induce us  to  come  to  an  agreement
+concerning the Line which is now brought to a  conclusion  the  whole
+being fully explained to us in a large Assembly of our People  before
+Sir William Johnson  and  in  the  presence  of  His  Excellency  the
+Governor of New  Jersey  the  Commissioners  from  the  Provinces  of
+Virginia and Pensilvania and sundry other Gentlemen by which Line  so
+agreed upon a considerable Tract of Country along  several  Provinces
+is by us ceded to His said Majesty which we are  induced  to  and  do
+hereby ratify &amp; confirm to His said Majesty from  the  expectation
+and confidence we place in His royal Goodness that he will graciously
+comply with our humble requests as the  same  are  expressed  in  the
+speech of the several Nations addressed to His  Majesty  through  Sir
+William Johnson on Tuesday the first of the Present Month of November
+wherein we have declared our expectation of the  continuance  of  His
+Majestys Favour and  our  desire  that  our  ancient  Engagements  be
+observed and our affairs attended to  by  the  officer  who  has  the
+management thereof  enabling  him  to  discharge  all  these  matters
+properly for our Interest. That the Lands  occupied  by  the  Mohocks
+around their villages as well as by any other Nation affected by this
+our Cession may effectually remain to them and to their Posterity and
+that any engagements regarding Property which they may now  be  under
+may be prosecuted and our present Grants deemed valid  on  our  parts
+with the several other humble requests contained in our  said  Speech
+<lb/><lb/></p>
+
+<p><orig reg="And">A<hi rend="smallCaps">ND </hi></orig> <orig reg="Whereas">W<hi  rend="smallCaps">HEREAS</hi></orig>  at the settling of the said Line it appeared that the  Line  described  by His Majestys order was not extended to the Northward of  Oswegy  or  to the Southward of Great Kanhawa river We have agreed  to  and  continued the Line to the Northward on a  supposition  that  it  was  omitted  by
+reason of our not having
+
+<pb n="136" />
+
+come to any determination concerning its course at the Congress  held
+in one thousand seven hundred and sixty five and in as  much  as  the
+Line to the Northward became the most necessary of any for preventing
+encroachments at our very Towns &amp; Residences  We  have  given  the
+Line   more   favorably    to    Pensylvania    for    the    reasons
+&amp; considerations  mentioned  in  the  Treaty,  we  have   likewise
+continued it South to Cherokee River because the same is  and  we  do
+declare it to be our true Bounds with the Southern Indians  and  that
+we have an undoubted right to the Country as far South as that  River
+which makes our Cession to His Majesty much  more  advantageous  than
+that proposed,<lb/><lb/></p> 
+
+<p>Now <hi rend="smallCaps"><orig reg="Therefore">THEREFORE </orig> <orig reg="know">KNOW </orig> <orig reg="ye">YE</orig></hi> that we the  Sachems
+and Cheifs aforementioned Native Indians and Proprietors of  the  Lands
+herein after described for and in behalf of ourselves and the whole  of
+our Confederacy for the considerations herein before mentioned and also
+for and in consideration of a valuable Present of the several  articles
+in use amongst Indians which  together  with  a  large  sums  of  money
+amounts in the whole to the sum of Ten thousand four Hundred and  Sixty
+pounds seven shillings and three pence sterling to us now delivered and
+paid by Sir  William  Johnson  Baronet  His  Majestys  sole  Agent  and
+superintendant of Indian affairs for the Northern department of America
+in the Name and on behalf of our Soverreign Lord George  the  third  by
+the Grace of God of Great Britain France and Ireland King  Defender  of
+the  Faith  the  receipt  whereof  we  do   hereby   acknowledge   <orig reg="We">W<hi rend="smallCaps">E</hi></orig> the said Indians <orig reg="Have">H<hi rend="smallCaps">AVE</hi></orig> for us and our Heirs and Successors granted bargained sold released and confirmed and by  these  presents  <orig reg="Do">D<hi  rend="smallCaps">O</hi></orig>  Grant bargain sell release and confirm unto  our  said  Sovereign  Lord  King George the third, <orig reg="All">A<hi  rend="smallCaps">LL</hi></orig>  that  Tract  of  Land
+situate in North America at the Back of the British Settlements bounded
+by a Line which we have now agreed upon and do hereby establish as  the
+Boundary between us and the British Colonies in  America  beginning  at
+the Mouth of Cherokee or Hogohege River where it emptys into the  River
+Ohio and running from thence upwards along the South side of said River
+to Kittaning which is above Fort Pitt from thence by a direct  Line  to
+the nearest Fork of the west branch of Susquehanna thence  through  the
+Allegany Mountains along the South side of the said West Branch  untill
+it comes opposite to the mouth of  a  Creek  callek  Tiadaghton  thence
+across the West Branch and along the South Side of that Creek and along
+the North Side of Burnetts Hills to a Creek called Awandae thence  down
+the same to the East Branch of Susquehanna and across the same  and  up
+the East side of that River to Oswegy from thence East to Delawar River
+and up that River to opposite where Tianaderha falls  into  Susquehanna
+thence to Tianaderha and up the West side of its  West  Branch  to  the
+head thereof and thence by a direct  Line  to  Canada  Creek  where  it
+emptys into the wood Creek at the West of  the  Carrying  Place  beyond
+Fort Stanwix and extending Eastward from every part of the said Line as
+far as the Lands formerly purchased so as to comprehend  the  whole  of
+the Lands between the said Line and the purchased Lands or settlements,
+except what is within the Province of Pensilvania,  together  with  all
+the  Hereditaments  and  Appurtenances  to  the   same   belonging   or
+appertaining in the fullest &amp; most ample manner and all the  Estate
+Right Title Interest  Property  Possession  Benefit  claim  and  Demand
+either in Law or Equity of each &amp; every of us of in or to the  same
+or any part thereof <orig reg="To">T<hi rend="smallCaps">O </hi></orig> <hi rend="smallCaps"><orig reg="have">HAVE </orig> <orig reg="and">AND </orig> <orig reg="to">TO </orig>  <orig reg="hold">HOLD</orig></hi>  the
+whole Lands and Premises hereby granted  bargained  sold  released  and
+confirmed  as  aforesaid  with  the  Hereditaments  and   appurtenances
+thereunto belonging under the reservations made in the Treaty unto  our
+said Sovereign Lord King George the third his Heirs &amp; Successors to
+and for his and their own proper use and
+
+<pb n="Map" />
+
+<pb n="137" />
+
+behoof for ever<lb/><lb/></p> 
+
+<p>In <orig reg="Witness">W<hi rend="smallCaps">ITNESS</hi></orig> whereof We the Cheifs  of  the Confederacy  have  hereunto  set  our   marks   and   Seals   at   <orig reg="Fort">F<hi rend="smallCaps">ORT </hi></orig> <orig reg="Stanwix">S<hi rend="smallCaps">TANWIX</hi></orig>  the  fifth day of November one Thousand seven hundred and sixty eight in the ninth year of His Majestys Reign<lb/><lb/></p>
+
+<figure entity="n137_signatures">
+<figDesc>
+</figDesc>
+</figure>
+
+<p>for the Mohocks<lb/></p>
+
+<p><orig reg="Tyorhansere">T<hi rend="smallCaps">YORHANSERE</hi></orig> als <orig reg="Abraham">A<hi rend="smallCaps">BRAHAM</hi></orig> </p><lb/><lb/>
+
+<p>for the Oneidas<lb/></p>
+
+<p><orig reg="Canaghquieson">C<hi rend="smallCaps">ANAGHQUIESON</hi></orig> </p><lb/><lb/>
+
+<p>for the Tuscaroras<lb/></p>
+
+<p><orig reg="Sequarusera">S<hi rend="smallCaps">EQUARUSERA</hi></orig> </p><lb/><lb/>
+
+<p>for the Onondagas<lb/></p>
+
+<p><orig reg="Otsinoghiyata">O<hi rend="smallCaps">TSINOGHIYATA</hi></orig> als <orig reg="Bunt">B<hi rend="smallCaps">UNT</hi></orig></p><lb/><lb/>
+
+<p>for the Cayugas<lb/></p>
+
+<p><orig reg="Tegaaia">T<hi rend="smallCaps">EGAAIA</hi></orig> </p><lb/><lb/>
+
+<p>for the Senecas<lb/></p>
+
+<p><orig reg="Guastrax">G<hi rend="smallCaps">UASTRAX</hi></orig></p><lb/><lb/>
+
+<p>Sealed and delivered and the consideration paid in  the  presence
+of </p><lb/>
+
+<p><orig reg="William">W<hi rend="super">m</hi></orig> Franklin Governor of New Jersey </p><lb/>
+
+<p>Fre. Smyth Cheif Justice of New Jersey</p><lb/>
+
+<p>Thomas Walker Commissioner for Virginia</p><lb/><lb/>
+
+
+<p>Of the Council of Pensylvania</p><lb/>
+
+<p>Richard Peters</p><lb/>
+
+<p>James Tilghman</p><lb/><lb/>
+
+<p>The above Deed was executed in my presence at  Fort  Stanwix  the
+day and year above Written </p><lb/>
+
+<p><orig reg="W Johnson">W J<hi rend="smallCaps">OHNSON</hi></orig></p>
+
+</div1>
+</body>
+<!-- <back>
+<div1 type="notes">
+
+
+
+Moved to the correct pages - 14 February 2006 - CB
+
+<note id="n112.01" n="1"><orig reg="Fredrick">F<hi  rend="smallCaps">REDRICK </hi></orig> <orig reg="Smyth">S<hi rend="smallCaps">MYTH</hi></orig>, the last Chief Justice of the  Colony  of
+New Jersey. succeeded Chief Justice Read on the  bench  on  the  17th
+October, 1764, and continued in office  until  the  adoption  of  the
+Constitution. In 1772 he was appointed one of  the  Commissioners  to
+examine into the affairs of the burning of the British schooner Gaspé
+by the Whigs of Rhode  Island.  When  the  Revolution  broke  out  he
+removed to Philadelphia, where he died. His reputation as a judge was
+highly respectable,  and  throughout  his  career  he  preserved  the
+character    of    a    firm    and    consistent    Loyalist.    <hi
+rend="italics">Field's  Provincial  Courts  of  New  Jersey</hi>.  &#8212;
+E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n113.01" n="1">Doctor <orig reg="Thomas">T<hi     rend="smallCaps">HOMAS</hi></orig> <orig reg="Walker">W<hi rend="smallCaps">ALKER</hi></orig> was  an  early  explorer  of  the  Indian
+country of Western Virginia. In 1718 he crossed Powell's  valley  and
+gave the name of "Cumberland" to the lofty range of mountains to  the
+west, and passed a remarkable  depression  in  the  chain,  which  he
+called  the  "Cumberland  gap,"  and  next  named  the  Shawanee  the
+Cumberland river, all  in  honor  of  the  Duke  of  Cumberland.  <hi
+rend="italics">Monette's Mississippi</hi>, I., 314. In 1760 he  again
+passed the Clinch and Powell rivers into what  is  now  Kentucky,  on
+which occasion, it is supposed, he was accompanied by the  celebrated
+Daniel Boone. <hi  rend="italics">Ramsey's  Tennessee</hi>,  65,  66.
+These circumstances account for his appointment  as  Commissioner  at
+the present Treaty. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n117.01" n="1">From the verb <hi rend="italics">Garih8aieriston</hi>, to do, or render     justice;     which     is      compounded      of      <hi
+rend="italics">Garih8a</hi>,      a       thing,       and,       <hi
+rend="italics">Gajeri</hi>,     just.      By      inserting      <hi
+rend="italics">io</hi>, great, in the middle of the verb, we have <hi
+rend="italics">Garih|8a|io|ston</hi>,  to  do  great  justice;   then
+prefixing <hi rend="italics">Sa</hi>, Thou, and putting the  verb  in
+the present tense, we have, what is above intended for  a  noun,  <hi
+rend="italics">Sagarih8ioghsta</hi>, with the strong Mohawk  guttural
+added, signifying, literally, Thou doest great justice, or Thou are a
+great Doer of Justice. <hi rend="italics">Bruyas' Iroquois Vocabulary
+and Grammar</hi>. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n119.01" n="1">See note 3, [Documents Relative to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] IX, 706. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n120.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; ED</note>
+
+<note id="n121.01" n="1">Moghulbuctitum. <hi rend="italics">Scull's Map of
+Pennsylvania</hi>.  'Tis   a   corruption   of   the   Indian   name,
+Mochulbuctison or Moeholpakison, meaning, "where boats are abandoned"
+(that    is,    the     head     of     navigation);     from     <hi
+rend="italics">Amokkol</hi>,  the  Delaware  word   for   Boat.   <hi
+rend="italics">Bulletin of Pennsylvania Historical Society</hi>, 128.
+It falls into the Allegany river in Armstrong  county,  Pennsylvania,
+and seems to be called, in modern maps, the Mahoning. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n121.02" n="2">This carrying place is  in  the  present  county  of
+Indiana, Pennsylvania.</note>
+
+<note id="n121.03" n="3"><hi rend="italics">Sic</hi>. Owegy.</note>
+
+<note id="n122.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.</note>
+
+<note id="n122.02" n="2">See  <hi  rend="italics">New  York  Documentary
+History</hi>,  8<hi  rend="smallCaps">VO</hi>.,  IV.,  388&#8211;398,   for
+papers illustrative of the matters here referred to. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n123.01" n="1">See Note, [Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] III, 453.</note>
+
+<note id="n123.02" n="2">Now    called    the    <hi rend="italics">Unadilla</hi>, agreeably to the softer Oneida dialect.</note>
+
+<note id="n123.03" n="3"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n125.01" n="1"><hi  rend="italics">Sic</hi>.  Owegy.  &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n127.01" n="1">Now   called   the    Tennessee.    <hi rend="italics">Ramsey</hi>. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n128.01" n="1">See note, [Documents  Relative  to  the  Colonial
+History of the State of New York; Procured in  Holland,  England  and
+France,] VII., 982. &#8212; E<hi rend="smallCaps">D</hi></note>
+
+<note id="n132.01" n="1"><hi  rend="italics">supra</hi>,  p.  117.   &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+<note id="n134.01" n="1"><hi rend="italics">Sic</hi>. &#8212; E<hi rend="smallCaps">D</hi>.</note>
+
+
+
+</div1>
+</back> -->
+</text>
+</TEI.2>
+
+

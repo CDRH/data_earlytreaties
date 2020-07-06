@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1407">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1407	H.R. 5753 (Seventy-fifth Congress, Third Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1407</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fifth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-XX</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1407	H.R. 5753 (Seventy-fifth Congress, Third Session &#8212; F. Roosevelt)</head>
+
+<p>Authorizes advance of the amounts due on delinquent homestead entries on certain Indian reservations.</p>
+
+<p>Vetoed April 8, 1938.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Doc. No. 582 (83 <title>Cong. Rec.</title> 5124).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 296.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1407.01.pdf">Veto message on H.R. 5753, a "Bill to Authorize Advance of the Amounts Due on Delinquent Homestead Entries on Certain Indian Reservations."  Message from the President of the United States returning, without approval, H.R. 5753, entitle "An act to authorize advance of the amounts due to delinquent homestead entities on certain Indian reservations."</ref>  (1938).   House of Representatives.  75th Congress, 3rd session.  House Document No. 582 (<title>Serial Set</title> 10265).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 75TH CONGRESS  3d Session  HOUSE OF REPRESENTATIVES  DOCUMENT 	No. 582 </fw>
+<head>VETO MESSAGE ON H. R. 5753, A BILL TO AUTHORIZE ADVANCE OF THE AMOUNTS DUE ON DELINQUENT HOMESTEAD ENTRIES ON CERTAIN INDIAN RESERVATIONS</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+
+WITHOUT APPROVAL, H. R. 5753, ENTITLED "AN ACT TO AUTHORIZE ADVANCE OF THE AMOUNTS DUE ON DELINQUENT HOME-STEAD ENTRIES ON CERTAIN INDIAN RESERVATIONS"</head>
+<milestone unit="rule" />
+<head type="sub">APRIL 8, 1938.-Referred to the Committee on Indian Affairs and ordered to be
+printed</head>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning herewith without my approval enrolled bill H. R. 5753, to authorize advance of the amounts due on delinquent homestead entries on certain Indian reservations.</p>
+<p>This bill was passed by the House of Representatives on August 16, 1937, and subsequent thereto, but before passage by the Senate, there was passed by both Houses of Congress and submitted to me for approval H. R. 2888. I found myself unable to approve the latter bill because of the provisions of sections 3 and 4 thereof. The first two sections of the bill now under consideration are identical with sections 3 and 4 of H. R. 2888. I am compelled, therefore, to withhold approval of the bill H. R. 5753, for the same reasons that were set forth in my memorandum of disapproval, on August 31, 1937, of the bill H. R. 2888 (p. 9681, Congressional Record, August 21, 1937), viz.:</p>
+<quote>
+<p>I am unable to find any satisfactory basis for approving sections 3 and 4 of the bill. These two sections provide for the advance payment to the Indians from the general fund of the Treasury of the indebtedness of entrymen and purchasers of ceded Indian land. With the opening of these ceded Indian lands to entry, the United States accepted no responsibility to purchase or find purchasers for such lands, but acted only as a trustee to sell the lands and pay over the proceeds to the Indians. The delinquency that has occurred on the part of entrymen and purchasers in making their payments on these lands constitutes no justification for the proposed shifting from the Indians to the Government of the burden of<pb n="2" />
+<fw> 2	VETO MESSAGE ON H. R. 5753 </fw>
+waiting for the completion of the payments. The fact of the delinquency indicates, indeed, that this is simply the transfer of bad debts from one payee to another.</p>
+<p>I would have no objection to the enactment of legislation that would provide for the cancelation of these entries and for the reversion of the lands to the Indians for their own use.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE,
+April 8, 1938.</dateline></closer>
+<p>H. R. 5753</p>
+
+<head>SEVENTY-FIFTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE THIRD SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON MONDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-EIGHT</head>
+
+<head type="sub">AN ACT To authorize advance of the amounts due on delinquent homestead entries on certain Indian
+reservations.</head>
+
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That there is hereby authorized to be appropriated an amount equal to the amount of the unpaid balance of principal and interest which the Secretary of the Interior may find to be due on homestead and other entries or purchases on opened lands of the Cheyenne River, Colville, Fort Berthold, Coeur d'Alene, Fort Peck, Pine Ridge, Rosebud, Shoshone, and Standing Rock Reservations, and the Chippewa lands in Minnesota opened in accordance with the Act of January 14, 1889 (25 <title>Stat.</title> L. 642), on the date of the enactment of this Act, less an amount equal to the amount of payments made on such homesteads entries after the enactment of this Act and before the appropriation herein authorized has been made. Such an amount when appropriated shall be placed to the credit of the Indian tribes of such reservations in the Treasury of the United States, and shall be available upon the recommendation of the Indian tribe or tribes concerned for making permanent improvements on lands of the Indians, including the development of irrigation and the granting of aid to individual Indians in establishing permanent homes, and for the purchase of lands on said reservations from individual Indians or from white owners, in the discretion of the Secretary of the Interior, and under such regulations as he may prescribe. Title to any lands so purchased shall be taken in the name of the United States in trust for the respective Indian tribes and such lands shall not be allotted in severalty.</p>
+<p>SEC. 2. The provisions of this Act shall in no way affect the liability of entry-men on such opened lands in the said Indian reservations to complete payments on their entries. Any payments made by said homesteaders after the appropriation authorized by this Act has been made shall be covered into the general fund of the Treasury of the United States. If any entry shall be relinquished or canceled on which the United States shall have advanced payments to the Indians of the reservation involved, said payments shall be reimbursed to the United States out of any funds on deposit in the Treasury of the United States to the credit of the said Indians.</p>
+<p>SEC. 3. Any homestead entryman or purchaser of ceded Indian land, who is delinquent in the payment of the purchase money or interest, or both, due on the land embraced in his entry, entries, purchase, or purchases, and who is unable to make payment thereof in accordance with existing laws, shall be accorded the privilege of relinquishing any subdivision, or subdivisions, as shown on the approved plat, of his entry, entries, purchase, or purchases, so that the purchase money paid on the whole of such entry, entries, purchase, or purchases, will be sufficient to complete payment on the lands retained, which retained lands shall be in reasonably compact form. Relinquishments heretofore made may be accepted under the provisions of this section.</p>
+<closer><signed>WM. B. BANKHEAD,</signed>
+Speaker of the House of Representatives.
+<signed>JN0. N. GARNER,</signed>
+Vice President of the United States and President of the Senate.
+<note>[Endorsement on back of bill:]</note>
+I certify that this act originated in the House of Representatives.
+<signed>SOUTH TRIMBLE,</signed> Clerk. By H. NEWLIN MEGILL.</closer>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1407.02.pdf"><title>Congressional Record</title> 83, 5124</ref> (1938).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 5124.	CONGRESSIONAL RECORD HOUSE	APRIL 8 </fw>
+<p>So the motion to recommit was agreed to. The Clerk announced the following pairs: </p><p>On this vote:</p>
+<p>Mr. Frey of Pennsylvania (for) with Mr. Hobbs (against).</p>
+<p> Mr. Douglas (for) with Mr. Weaver (against).</p>
+<p>Mr. Champion (for) with Mr. White of Idaho (against).</p>
+<p> Mr. Wigglesworth (for) with Mr. Cartwright (against).</p>
+<p>Mr. Kennedy of New York (for) with Mr. Mitchell of Illinois (against).</p>
+<p>General pairs:</p>
+<p>Mr. Rankin with Mr. Fries of Illinois. </p>
+<p>Mr. Steagall with Mr. Colden.</p>
+<p>Mr. Sutphin with Mr. Deen.</p>
+<p>Mr. Drewry of Virginia with Mr. Owen.</p> <p>Mr. Mitchell of Tennessee with Mr. Walter.</p>
+<p>Mr. Caldwell with Mr. Hancock of North Carolina. </p>
+<p>Mr. Taylor of Colorado with Mr. McFarlane.</p>
+<p>Mr. Somers of New York with Mr. Allen of Louisiana.</p>
+<p>Mr. Boykin with Mr. O'Connor of Montana.</p>
+<p>Mr. FARLEY. Mr. Speaker, I qualify and vote "nay."</p>
+<p>Mr. O'CONNOR of New York. Mr. Speaker, I insist that
+the Members qualify by stating they were present and
+listening and did not hear their names called.</p>
+<p>The SPEAKER. The Chair will qualify under the rule
+all Members desiring to vote. Was the gentleman present and listening when his name was called?</p>
+<p>Mr. FARLEY. I was present and listening, Mr. Speaker. </p>
+<p>The SPEAKER. And failed to hear his name called? </p>
+<p>Mr. FARLEY. Yes, Mr. Speaker.</p>
+<p>The SPEAKER. The gentleman qualifies.</p>
+<p>Mr. PACE. Mr. Speaker, may I inquire how I am
+recorded?</p>
+<p>The SPEAKER. The gentleman voted "nay."</p>
+<p>Mr. O'CONNOR of New York. Mr. Speaker, I demand
+the announcement of the result.</p>
+<p>The SPEAKER. The Chair will announce the result as
+soon as it is handed to the Chair by the Clerk.</p>
+<p>Mr. MEAD. Mr. Speaker, how was my vote recorded?</p>
+<p>Mr. O'CONNOR of New York. That is just an attempt to delay the decision, Mr. Speaker.</p>
+<p>Mr. SNELL. Mr. Speaker, I demand the announcement
+of the vote.</p>
+<p>The SPEAKER. The Chair does not desire one side or
+the other to have any advantage. We are merely following the usual routine.</p>
+<p>Mr. MEAD. Mr. Speaker, how am I recorded?</p>
+<p>The SPEAKER. The gentleman voted "nay."</p>
+<p>Mr. MEAD. That is correct.</p>
+<p>Mr. CANNON of Missouri rose.</p>
+<p>The SPEAKER. For what purpose does the gentleman
+from Missouri rise?</p>
+<p>Mr. CANNON of Missouri. Mr. Speaker, in view of the
+closeness of the vote, I wondered if the Chair would not prefer to have a recapitulation. Of course, that would rest entirely with the Speaker, but if the vote were close, the Speaker
+would be justified in ordering a recapitulation.</p>
+<p>The regular order was demanded.</p>
+<p>Mr. O'CONNOR of New York. Mr. Speaker, the Chair
+must announce the vote before any request for a recapitulation.</p>
+<p>The SPEAKER. The Chair will undertake to exercise fair discretion with reference to this matter, the Chair may state
+to the gentleman from New York.</p>
+<p>In the opinion of the Chair, this vote is not close enough
+to justify a recapitulation. The Chair has the discretion
+upon a very close vote to request a recapitulation; that is, where there is a difference of only one or two or three or
+possibly four votes. The Chair, therefore, thinks that in view of the statement of the vote handed to him by the tally clerk, the Chair is not justified under the circumstances in requesting a recapitulation.</p>
+<p>The result of the vote was announced as above recorded.</p>
+<p>Mr. O'CONNOR of New York rose.</p>
+<p>The SPEAKER. For what purpose does the gentleman
+from New York rise?</p>
+<p>Mr. O'CONNOR of New York. Mr. Speaker, I move to reconsider the vote by which the motion to recommit was agreed to and lay that motion on the table.</p>
+<p>Mr. McCORMACK. Mr. Speaker, a parliamentary inquiry.</p>
+<p>The SPEAKER. The gentleman will state it.</p>
+<p>Mr. McCORMACK. Whether or not the motion of the gentleman from New York can be separated and a separate vote demanded on reconsideration and on laying the motion on the table?</p>
+<p>The SPEAKER. In answer to the parliamentary inquiry of the gentleman from Massachusetts, the Chair may state that the motion in order would be to lay upon the table the motion to reconsider.</p>
+<p>All in favor of the motion to reconsider&#8212;</p>
+<p>Mr. SNELL. Mr. Speaker, I do not understand what motion the Chair is putting.</p>
+<p>The SPEAKER The gentleman from New York [Mr. O'CONNOR] moved to reconsider the vote by which the motion to recommit was agreed to and to lay that motion on the table. The question, therefore, is on the motion of the gentleman from New York to lay that motion on the table.
+The motion was agreed to.</p>
+<p>Mr. CULLEN. Mr. Speaker, I want to announce that my colleague&#8212;</p>
+<p>Mr. O'CONNOR of New York. Mr. Speaker, I object to the announcement of how any Member would have voted on this vote.</p>
+<p>Mr. CULLEN. I do not know that the objection goes to this request. There is no rule against it.</p>
+<p>The SPEAKER. The gentleman from New York [Mr. CULLEN] asks unanimous consent to make a statement with reference to one of his absent colleagues. Is there objection?</p>
+<p>Mr. CHURCH. I object.</p>
+<p>The SPEAKER. The gentleman from Illinois objects, and under the rules of the House the gentleman from New York would have to make his statement by unanimous consent.</p>
+
+<head>VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES&#8212;HOMESTEAD ENTRIES ON INDIAN RESERVATIONS (H. DOC. NO. 582)</head>
+<p>The SPEAKER laid before the House the following veto message from the President of the United States:</p>
+<opener>
+<salute>To the House of Representatives:</salute>
+</opener>
+<p>I am returning herewith, without my approval, enrolled bill H. R. 5753, to authorize advance of the amounts due on delinquent homestead entries on certain Indian reservations.
+This bill was passed by the House of Representatives on August 16, 1937, and subsequent thereto, but before passage by the Senate, there was passed by both Houses of Congress and submitted to me for approval H. R. 2888. I found my-, self unable to approve the latter bill because of the provisions of sections 3 and 4 thereof. The first two sections of the bill now under consideration are identical with sections 3 and 4 of H. R. 2888. I am compelled, therefore, to withhold approval of the bill H. R. 5753, for the same reasons that were set forth in my memorandum of disapproval, on August 31, 1937, of the bill H. R. 2888 (p. 9681, CONGRESSIONAL RECORD, August 21, 1937), namely:</p>
+<p>I am unable to find any satisfactory basis for approving sections 3 and 4 of the bill. These two sections provide for the advance payment to the Indians from the general fund of the Treasury of the indebtedness of entrymen and purchasers of ceded Indian land. With the opening of these ceded Indian lands to entry, the United States accepted no responsibility to purchase or find purchasers for such lands, but acted only as a trustee to sell the lands and pay over the proceeds to the Indians. The delinquency that has occurred on the part of entrymen and purchasers in making their payments on these lands constitutes no justification for the pro-posed shifting from the Indians to the Government of the burden of waiting for the completion of the payments. The fact of the delinquency indicates, indeed, that this is simply the transfer of bad debts from one payee to another.</p>
+<p>I would have no objection to the enactment of legislation that would provide for the cancelation of these entries and for the reversion of the lands to the Indians for their own use.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, April 8, 1938.</dateline></closer>
+<p>The SPEAKER. The objections of the President will be spread at large upon the Journal.</p><pb n="5125" />
+<fw> HeinOnline- 83 <title>Cong. Rec.</title> 5124 1938
+1938 '	CONGRESSIONAL RECORD HOUSE	5125 </fw>
+<p>Mr. ROGERS of Oklahoma. Mr. Speaker, I move that the message of the President, together with the bill, be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+<head>ANNOUNCEMENT OF VOTE</head>
+<p>Mr. CULLEN. Mr. Speaker, I renew my request to announce that my colleague the gentleman from New York, Mr. SOMERS, has been detained in New York. If he had been present, he would have voted in the negative on the motion to recommit this bill.</p>
+<p>The SPEAKER. Is there objection?</p>
+<p>There was no objection.</p>
+<head>PERMISSION TO ADDRESS THE HOUSE</head>
+<p>Mr. BOYLAN of New York. Mr. Speaker, I ask unanimous consent that on Wednesday next, April 13, the birthday of Thomas Jefferson, I may be permitted to address the House for 15 minutes on the life and times of Thomas Jefferson.</p>
+<p>The SPEAKER. The gentleman from New York asks unanimous consent that on Wednesday next, at the conclusion of the legislative program of the day, he may be permitted to address the House for 15 minutes. Is there objection?</p>
+<p>There was no objection.</p>
+
+<head>LEAVE OF ABSENCE</head>
+<p>By unanimous consent, leave of absence was granted as follows:</p>
+<p>To Mr. MCFARLANE (at the request of Mr. LUTHER A. JOHNSON), on account of death in his family.</p>
+<p>To Mr. KENNEDY of New York, indefinitely, on account of illness.</p>
+<head>PERMISSION TO ADDRESS THE HOUSE</head>
+<p>The SPEAKER. Under the special order of the House heretofore made, the gentleman from New York [Mr. FISH] is entitled to recognition.</p>
+<p>Mr. FISH, Mr. Speaker, I ask unanimous consent that the time given me today may be transferred to Monday next at the conclusion of the legislative program for the day and other special orders.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from New York?
+There was no objection.</p>
+<head>
+EXTENSION OF REMARKS</head>
+<p>Mr. SHAFER of Michigan. Mr. Speaker, I ask unanimous consent to extend my own remarks and to include therein a communication received from Robert J. Caldwell, of New York.</p>
+<p>The SPEAKER. Without objection, it is so ordered. There was no objection.</p>
+<p>Mr. BINDERUP asked and was given permission to extend his own remarks in the RECORD.</p>
+
+<head>PERMISSION TO ADDRESS THE HOUSE</head>
+<p>Mr. GRAY of Indiana. Mr. Speaker, I ask unanimous
+consent to address the House for one-half minute. </p>
+<p>The SPEAKER. Without objection, it is so ordered. </p>
+<p>There was no objection.</p>
+<p>Mr. GRAY of Indiana. Mr. Speaker, it was an unfortunate coincidence that in speaking figuratively this morning to illustrate that Marriner S. Eccles was trying to play with this Congress and at the same time go along with the Federal Reserve bankers that he should emanate from a State where my illustration could be construed to cast any reflections.</p>
+<p>I assure the House that any such meaning was my last purpose or intention. And I would rather. suffer the loss of the use of my right arm or hand than to intentionally cast such reflection. This statement was made in the House in the heat of tense excitement and in an unguarded moment.</p>
+<p>There is no State delegation in Congress for whom I have greater respect and consideration than the Members of the House and Senate from the great State of Utah. The Members of the House, ABE MURDOCK and J. W. ROBINSON,are my favorites, and if it were not showing partiality I would say that I admire them above all others.</p>
+<p>But this accidental, unguarded statement grieves me more than I can express as possible of construction to show ingratitude for great favors and hospitality shown me by the good people of the State of Utah when I was there sojourning with a sister suffering in the last stages of tuberculosis.</p>
+<p>While there for a number of weeks the good and gracious people of that State endeared themselves to me in a way I will remember as long as I live, in furnishing our cottage free and refusing to take any pay whatsoever, for long automobile journeys, where in other localities we were over-charged.</p>
+<p>But when we had returned to Indiana the unusual climate and hospitality of the people everywhere in that State was often recalled for pleasant reflections and will be recollected and called to memory where other States and localities visited will pass out of mind and be forgotten.</p>
+<head>ADJOURNMENT OVER</head>
+<p>Mr. RAYBURN. Mr. Speaker, I ask unanimous consent that when the House adjourns today it adjourns to meet on Monday next.</p>
+<p>The SPEAKER. Is there objection to the request of the gentleman from Texas?</p>
+<p>There was no objection.</p>
+<head>BILL PRESENTED TO THE PRESIDENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on this day present to the President, for his approval, a bill of the House of the following title:
+H. R. 7448. An act to provide for experimental air-mail services to further develop safety, efficiency, and economy, and for other purposes.</p>
+<head>ADJOURNMENT</head>
+<p>Mr. RAYBURN. Mr. Speaker, I move that the House do now adjourn.
+The motion was agreed to; accordingly (at 7 o'clock and 4 minutes p. m.) the House, in accordance with its previous order, adjourned until Monday, April 11, 1938, at 12 o'clock noon.</p>
+<milestone unit="rule" />
+
+<head>COMMITTEE HEARINGS</head>
+<head>COMMITTEE ON NAVAL AFFAIRS</head>
+<p>There will be a meeting of the full open Committee, Naval Affairs, at 10 a. m. Saturday and Monday, April 9 and 11, 1938; continuation of consideration of H. R. 9315, to regulate the distribution, promotion, and retirement of officers of the line of the Navy, and for other purposes.</p>
+<head>COMMITTEE ON INTERSTATE AND FOREIGN COMMERCE</head>
+<p>There will be a meeting of Mr. EICHER's subcommittee of the Committee on Interstate and Foreign Commerce at 10 a. m. Monday, April 11, 1938. Business to be considered: Hearings on S. 3255, a bill to regulate over-the-counter marketing.</p>
+<p>There will be a meeting of the Committee on Interstate and Foreign Commerce at 10 a. m. Tuesday, April 12, 1938. Business to be considered: Hearing on H. R. 9047—control of venereal diseases, and other kindred bills.</p>
+<head>COMMITTEE ON FLOOD CONTROL</head>
+<p>Set forth below are dates, times of meetings, subjects of hearings, and parties to be heard with respect to a number of hearings scheduled before the Flood Control Committee.</p>
+<p>The Committee on Flood Control will continue hearings on Saturday, April 9, 1938, at 10 a. m. Local representatives of other drainage-basin areas will be heard.</p>
+<p>The Committee on Flood Control will continue hearings on Monday, April 11, 1938, at 10 a. m. Local representatives of the Red River and tributaries will be heard.</p>
+<p>The Committee on Flood Control will continue hearings on Tuesday, April 12, 1938, at 10 a. m. Local representatives of the Arkansas River and tributaries will be heard.</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

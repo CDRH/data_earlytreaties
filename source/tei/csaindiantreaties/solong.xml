@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="solong">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">So Long as Grass Shall Grow and Water Run: The Treaties Formed By the Confederate States of America and the Tribes in Indian Territory, 1861</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>solong</idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+<revisionDesc>
+<change><date>2010-08-02</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+        
+</teiHeader>
+    
+    
+<text>
+<front>
+<div1>
+<head type="heading">So Long as Grass Shall Grow and Water Run: The Treaties Formed By the Confederate States of America and the Tribes in Indian Territory, 1861</head>
+
+<docAuthor>Charles D. Bernholz<lb/>
+Love Memorial Library<lb/>
+University of Nebraska<lb/>
+ Lincoln, NE 68588<lb/>
+ Phone: 402-472-4473<lb/>
+Fax: 402-472-5181<lb/>
+E-mail: cbernholz2@unl.edu</docAuthor>
+ 
+ <docAuthor>Brian L. Pytlik Zillig<lb/>
+Laura K. Weakly<lb/> 
+Electronic Text Center<lb/>
+ Love Memorial Library<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588<lb/>
+Phone: 402-472-4547<lb/> 
+Fax: 402-472-5181<lb/>
+E-mail: etcenter@unl.edu
+</docAuthor>
+</div1>
+
+<milestone unit="crosses"/>
+
+<div1>
+<head>Abstract</head>
+
+<p>The Confederate States of America created nine treaties with the tribes in Indian Territory in July, August, and October of 1861.  The original documents no longer exist and the generally accepted source for these transactions today is <title>The Statutes at Large of the Provisional Government of the Confederate States of America</title>.  These little known instruments reveal a series of provisions that reached far beyond those offered by the federal government in earlier treaties or in the stipulations found in an array of new punitive treaties enacted by the United States following the Civil War.</p>
+    
+<milestone unit="crosses"/>
+
+</div1>
+</front>
+
+<body>
+<head>So Long as Grass Shall Grow and Water Run: The Treaties Formed By the Confederate States of America and the Tribes in Indian Territory, 1861</head>
+
+<milestone unit="crosses"/>
+
+<div1>
+
+<epigraph><quote>“Each tribe or band shall have the right to posses, occupy, and use the reserve allotted to it, as long as grass shall grow and water run, and the reserves shall be their own property like their horses and cattle.”</quote>
+
+<bibl>Article 5 of the <title>Treaty with the Comanches and Other Tribes and Bands</title>, 12 August 1861<ref n="1" target="n1"></ref></bibl> 
+</epigraph>
+    
+<milestone unit="crosses"/>
+
+<div2>
+<p>There are 375 ratified treaties with American Indians that are acknowledged by the United States Department of State (see <title>Ratified Indian Treaties, 1722-1869</title>, 1966).  These consist of seven instruments created between <ref n="http://earlytreaties.unl.edu/treaty.00001.html">1722</ref> and <ref n="http://earlytreaties.unl.edu/treaty.00007.html">1768</ref> by the British during their tenure in what became the United States, and the 368 American documents produced between <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/del0003.htm">1778</ref> and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/nez1024.htm">1868</ref>.  Formal treaty making with the tribes ceased on 3 March 1871 (16 <title>Stat.</title> 544, 566), with so-called conventions forming the new means of diplomacy.</p>
+
+ <p>Digitized versions of these two treaty suites &#8212; for each of the British and the United States materials &#8212; have been created by the <ref n="http://earlytreaties.unl.edu/">University of Nebraska&#8211;Lincoln</ref> and the <ref n="http://digital.library.okstate.edu/kappler/">Oklahoma State University</ref>, respectively.  This resource was designed to provide digital access to the nine treaties developed by the Confederate States of America (CSA) and the tribes in Indian Territory during joint negotiations in July, August, and October of 1861.  <ref n="csa.index1.html">Table I</ref> provides tribe participants, signing dates, original CSA <title>Statutes at Large</title> page numbers, and the number of articles in each instrument.</p>
+
+<p>The original treaties have been lost and only copies are held in Record Group 109 at the National Archives (Beers, 1986, p. 7).<ref n="2" target="n2"></ref> As a result, the compilation of the CSA <title>Statutes at Large</title> (Matthews, 1864/1988) has served as the primary source for all nine texts during the last century and a half.  The treaties were also published in a <title>War of the Rebellion</title> volume of the U. S. Congressional Serial Set (1900), and they were subsequently provided by Deloria and DeMallie (1999); the latter used the 1988 CSA <title>Statutes at Large</title> reprint as their resource.  Gibson likewise furnished these contracts, with the notation that “The following . . . have been reproduced from THE STATUTES AT LARGE OF THE PROVISONAL GOVERNMENT OF THE CONFEDERATE STATES OF AMERICA, 1864”  (1977, p. 77; capitalization original).  Gibson’s statement may be confirmed by the observation of a printing error in Article XVII of the <title>Treaty with the Creek Nation</title>: the smudged appearance of the term <term>apply</term> in the first sentence of his version (p. 83) and its similarity to the corresponding word in Matthew’s 1864 <title>Statutes</title> reveals the same error (p. 293).  Analogous blemishes may be found in paired comparisons of the <title>Treaty with the Seminole Nation</title> and of the <title>Treaty with the Cherokees</title>.</p>
+</div2>
+
+<div2>
+<head>A Brief History</head>
+<p>The history of Indian Territory goes back to the times of removal at the beginning of the nineteenth century.  In 1804,  the United States government endorsed a policy, through <title>An act erecting Louisiana into two territories, and providing for the temporary government thereof</title> (2 Stat. 283), to address the issue of Indian removal from areas east of the Mississippi to sites within the domain acquired from France in 1803.<ref n="3" target="n3"></ref>   This legislation afforded mechanisms by which the federal government could begin to determine the necessary parameters for implementing executive, legislative, and judicial departments for this immense new area.</p>
+
+<p>The language in Article 9 of the 1814 <title>Treaty of Peace and Amity Between His Britannic Majesty and the United States of America</title> (8 Stat. 219) that concluded the War of 1812 was significant because it declared that all hostilities with Indian tribes or bands were to cease immediately.  This paved the way to better relations later expressed through more than a dozen and a half new treaties.  However, difficulties experienced during that War with members of the Five Civilized Tribes, i.e., with the Cherokee, Chickasaw, Choctaw, Creek, and Seminole, led to increased political pressure to remove these specific groups.  The prototypic <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0140.htm"><title>Treaty with the Cherokee, 1817</title></ref> commenced a long series of transactions over almost three decades that exchanged land in the east for property farther west.  Articles 1 and 2 of that contract spoke of the tribe’s voluntary land cession and this was echoed by Article 5 that delivered the federal promise to provide an equivalent acreage in exchange, but it soon became apparent that the voluntary nature of such exchanges impeded progress as tribal resistance rose against such removal processes.  As a result of these interactions, the <title>Indian Removal Act of 1830</title> was designed “to provide for an exchange of lands with the Indians residing in any of the states or territories, and for their removal <emph>west of the river Mississippi</emph>” (4 <title>Stat.</title> 411; emphasis added).  In this process, a true Indian Territory was finally created.</p>
+
+<p>A few months after the Act, the Choctaws signed the first such removal transaction (the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0310.htm"><title>Treaty with the Choctaw, 1830</title></ref>) with a specified departure timeline.  Similar documents were fashioned with the Creek (the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/cre0341.htm"><title>Treaty with the Creek, 1832</title></ref>); with the Chickasaws (the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/chi0356.htm"><title>Treaty with the Chickasaw, 1832</title></ref>); with the Seminole (the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sem0344.htm"><title>Treaty with the Seminole, 1832</title></ref> and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sem0394.htm"><title>1833</title></ref>); and with the Cherokee (the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0439.htm"><title>Treaty with the Cherokee, 1835</title></ref>).  Tribal participation was less than enthusiastic and the course of the exchanges difficult: the Seminoles finally reached Indian Territory under duress in 1842.  As such, however, the Five Civilized Tribes took possession of almost all of present day Oklahoma; Prucha (1990, p. 70) offers a map of Indian Territory that indicates these tribal holdings up to 1855.</p>
+</div2>
+
+<div2>
+<head>The Civil War Era</head>
+    
+<p>The creation of the Confederate States of America at the beginning of 1861<ref n="5" target="n5"></ref>  was followed soon afterwards by a request for the creation of a Bureau of Indian Affairs and for a Commissioner to lead it (Richardson, 1905, p. 58).  This program was implemented with the appointment in mid-March of Albert Pike as the “Commissioner of this Government to all the Indian Tribes West of Arkansas and South of Kansas” (<title>Message of the President and Report of Albert Pike, Commissioner of the Confederate States to the Indian Nations West of Arkansas, of the Results of His Mission</title>, 1861, p. 3).  Pike had been an early advocate of securing the Indian Territory for the CSA (Abel, 1915, pp. 131-132).  Two months later, an <title>Act for the protection of certain Indian tribes</title> was passed.  CSA President Jefferson Davis tantalizingly described this now-lost<ref n="6" target="n6"></ref>  document as “a declaration by Congress of our future policy in relation to those Indians” that was promptly “transmitted to the Commissioner and he was directed to consider it as his instructions in the contemplated negotiations” (p. 3).<ref n="7" target="n7"></ref>   By the end of May, Pike was at Fort Smith in Arkansas and consummated in Indian Territory on 10 July the initial diplomatic product of this policy, the <ref n="csa_treaties.html#p289"><title>Treaty with the Creek Nation</title></ref>.  This was followed by eight additional contracts, the last with the Cherokees in October 1861.<ref n="8" target="n8"></ref></p>
+
+<p>Pike’s noted <title>Report</title> thus forms a direct connection between that lost guideline instrument and the reality of his negotiations.  In particular, he spoke directly of the ordeal of preparing all the necessary materials required by this task (p. 9): “I found it necessary, on account of the pressure caused by the copying of treaties and the multiplicity of accounts and abstracts, to avail myself of the very valuable and constant services, as a skilled accountant and copyist, of Capt. Johnson, and of those of Mr. Walter L. Pike (for whose labor I have allowed no charge to be made) as a copyist.”<ref n="9" target="n9"></ref>   His description of the events highlights the many situations in which he actually countermanded the specifications of the <title>Act for the protection of certain Indian tribes</title>. In fact, President Davis &#8212; in his message that prefaces Pike’s report (p. 4) &#8212; specifically identified unauthorized examples of Pike’s unilateral offers of statehood and of representation in the House.  Pike’s defense for these decisions was direct: “I do not think there is a single provision in any of the treaties, granting them any right or privilege, recognizing any claim, or providing for any payment, that I would not cheerfully have inserted, if I had been treating with them in behalf of the United States ten years ago” (p. 28).</p>
+
+<p>Pike’s dealings with the tribes were not entirely pleasant, primarily because the proposal of tribal removal to Indian Territory had been formed upon many boisterous Southern requests.  There was, however, the common history of the use of slavery that the CSA shared with the tribes.  Each of the Five Civilized Tribe treaties &#8212; as well as those with the Osages, the Senecas and the Senecas and Shawnees, and the Quapaws &#8212; contained a statement regarding this practice.<ref n="10" target="n10"></ref></p>
+    
+<p>In comparison to the other participants, the Cherokees were especially interested in remaining neutral, but this resistance eventually dissolved with Confederate success on the battlefields: the ninth and final “treaty of friendship and alliance” was signed on 7 October 1861 at Tahlequah. Financial issues were paramount for many of these tribes, since abrogating federal treaties would cause the loss of an income stream, let alone the forfeiture of the principal amounts gained through prior negotiations.  The transactions with the CSA were thus strewn with unending provisions addressing financial parameters specified in earlier instruments with the federal government, which would mitigate in turn such losses when the tribes switched allegiance.  These terms (and particularly their offering) were the primary factors among those for which Pike was later reprimanded.<ref n="11" target="n11"></ref>   Yet by the summer of 1862, and even with all these efforts to secure a better future under a new government, the CSA began to default under the weight of these immense promises (McNeil, 1964; Franks, 1973).</p>
+
+<p>As one additional condition of these negotiations, the relative wildness among the tribes demanded different levels of administration and, therefore, of instrument syntax.  The array of treaties may thus be broken down into three such categories: one for the transactions with the Five Civilized Tribes; a second for those with the Osages, Quapaws, Senecas, and Shawnees; and a third for transactions made with the Comanches and other Reserve and Prairie groups (Robinson, 1941, p. 338).  In general, the complexity of the contract decreased across these three alignments, with the latter group considered the most difficult to oversee.  Abel (1919 and 1925) offers a history of Indian participation in, and subsequent to, the Civil War.</p>
+</div2>
+
+<div2>
+<head>The Post-Civil War Era</head>
+<p>The repercussions following the Civil War were especially brutal for the Indian Territory tribes that had made new treaties with the CSA.  In 1866, a series of new instruments with the federal government was created, stripping the Five Civilized Tribes of much of their lands.  The sequence began with the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/sem0910.htm">Seminole</ref> (see Article 3: “In compliance with the desire of the United States to locate other Indians and freedmen thereon, the Seminoles cede and convey to the United States their entire domain”), followed by the <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/cho0918.htm">Chocktaw and Chickasaw</ref>, <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/cre0931.htm">Creeks</ref>, and <ref n="http://digital.library.okstate.edu/kappler/Vol2/treaties/che0942.htm">Cherokees</ref> (Prucha, 1994, pp. 264-268).  Such tribe-specific land losses, and the subsequent arrival in Indian Territory of other tribes, swelled the Indian population and its representation.  Wright (1986, p. 16) enumerated <emph>sixty-seven</emph> tribes that were involved in such migrations; her map for the years between 1866 and 1890 illustrates the resulting geographic confusion.  During this period, many of these other groups were made parties to new federal treaties, or were so stipulated in Congressional acts, that removed them to the Territory.  Some found themselves sent to areas that had already been allocated to earlier arrivers.  The Oto and Missouri asked to be removed to Indian Territory and purchased in 1881 the final Indian Territory reserve in what was once the Cherokee Outlet (Hampton, 1976; Milner, 1982, pp. 117-152).  Overall, however, the participation of the Indian Territory tribes through the parameters of these nine CSA transactions initiated a range of long-lasting cumulative effects that affected these groups up to, and following, the creation of the state of Oklahoma in 1907.  As one such demonstration of the ensuing evolution of these tribes, Kidwell (2007) discusses the Choctaws in Oklahoma during the century and a half between 1855 and 1970.</p>
+</div2>
+
+<div2>
+<head>The Digitized CSA Treaties with the Tribes of Indian Territory</head>
+<p>The University of North Carolina (UNC) has digitized the entire <ref n="http://docsouth.unc.edu/imls/19conf/19conf.html">CSA <title>Statutes at Large</title></ref> as part of their <ref n="http://docsouth.unc.edu/index.html">Documenting the American South</ref> digital initiative.  This Statutes material begins with a segment reserved for a “List of the Public Acts and Resolutions of the Provisional Congress, and of the Proclamations and Treaties Contained in this Volume.”  The texts of the nine treaties consummated with the tribes in Indian Territory during 1861 form the last entries in this subsection.  These UNC digital pages were copied,<ref n="12" target="n12"></ref>  and then rechecked against the same pages in the original Statutes (Matthews, 1864/1988).  Images of the individual treaty pages of the Statutes tome were obtained to pair with the appropriate UNC digital page texts.  The resulting array of digital documents, in <title>Statutes</title> order and with corresponding images of the original text, consists of the following documents:</p>
+    
+<list>
+<item><ref n="csa_treaties.html#p289">Treaty with the Creek Nation</ref></item>
+<item><ref n="csa_treaties.html#p311">Treaty with the Choctaws and Chickasaws</ref></item>
+<item><ref n="csa_treaties.html#p322">Treaty with the Seminole Nation</ref></item>
+<item><ref n="csa_treaties.html#p347">Treaty with the Comanches and Other Tribes and Bands</ref></item>
+<item><ref n="csa_treaties.html#p354">Treaty with the Comanches of the Prairies and Staked Plain</ref></item>
+<item><ref n="csa_treaties.html#p363">Treaty with the Osages</ref></item>
+<item><ref n="csa_treaties.html#p374">Treaty with the Senecas and Senecas and Shawnees</ref></item>
+<item><ref n="csa_treaties.html#p386">Treaty with the Quapaws</ref></item>
+<item><ref n="csa_treaties.html#p394">Treaty with the Cherokees</ref></item>
+</list>
+</div2>
+</div1>
+</body>
+
+<back>
+<div1>
+<head>References</head>
+
+<bibl>Abel, A. H.  (1915).  <title>The American Indian As Slaveholder and Secessionist: An Omitted Chapter in the Diplomatic History of the Southern Confederacy</title>.  Cleveland, OH: Arthur H. Clark.</bibl>
+<bibl>Abel, A. H.  (1919).  <title>The American Indian In the Civil War</title>.  Cleveland, OH: Arthur H. Clark.</bibl>
+<bibl>Abel, A. H.  (1925).  <title>The American Indian and the End of the Confederacy, 1863-1866</title>.  Cleveland, OH: Arthur H. Clark.</bibl>
+<bibl>Beers, H. P.  (1986).  <title>The Confederacy: A Guide to the Archives of the Government of the Confederate States of America</title>.  Washington, DC: National Archives and Records Administration.</bibl>
+<bibl>Brown, E. S.  (1920).  <title>The Constitutional History of the Louisiana Purchase, 1803-1812</title>.  Berkeley, CA: University of California Press.
+Deloria, V. and DeMallie, R. J.  (1999).  <title>Documents of American Indian Diplomacy: Treaties, Agreements, and Conventions, 1775-1979</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+<bibl>Duncan, R. L.  (1961).  <title>Reluctant General: The Life and Times of Albert Pike</title>.  New York: E. P. Dutton.</bibl>
+<bibl>Foreman, G.  (1953).  <title>Indian Removal: The Emigration of the Five Civilized Tribes of Indians</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+<bibl>Franks, K. A.  (1972).  An analysis of the Confederate treaties with the five civilized tribes.  <title>Chronicles of Oklahoma</title> 50, 458-473.</bibl>
+<bibl>Franks, K. A.  (1973).  The implementation of the Confederate treaties with the five civilized tribes.  <title>Chronicles of Oklahoma</title> 51, 21-33.</bibl>
+<bibl>Gibson, R. V.  (1977).  <title>Jefferson Davis and the Confederacy: And Treaties Concluded By the Confederate States with Indian Tribes</title>.  Dobbs Ferry, NY: Oceana Publications.</bibl>
+<bibl>Hampton, C.  (1976).  Indian colonization in the Cherokee Outlet and western Indian Territory.  In A. M. Gibson (Ed.).  <title>America’s Exiles: Indian Colonization in Oklahoma</title> (pp. 130-145).  Oklahoma City, OK: Oklahoma Historical Society.</bibl>
+<bibl>Kidwell, C. S.  (2007).  <title>The Choctaws in Oklahoma: From Tribe to Nation, 1855-1970</title>.  Norman, OK: University of Oklahoma Press.
+Matchette, R. B.  (1995).  <title>Guide to Federal Records in the National Archives of the United States, Vol. 1: Record Groups 1-170.</title>  Washington, DC: National Archives and Records Administration.</bibl>
+<bibl>Matthews, J. M.  (1864/1988).  <title>The Statutes at Large of the Provisional Government of the Confederate States of America</title>.  Buffalo, NY: W. S. Hein.</bibl>
+<bibl>McNeil, M. K.  (1964).  Confederate treaties with the tribes of Indian Territory.  <title>Chronicles of Oklahoma 42</title>, 408-420.</bibl>
+<bibl><title>Message of the President and Report of Albert Pike, Commissioner of the Confederate States to the Indian Nations West of Arkansas, of the Results of His Mission</title>.  (1861).  Richmond, VA: Enquirer Book and Job Press, Tyler, Wise, Allegre &amp; Smith.
+Milner, C. A.  (1982).  <title>With Good Intentions: Quaker Work Among the Pawnees, Otos, and Omahas in the 1870s</title>.  Lincoln, NE: University of Nebraska Press.</bibl>
+<bibl>Morton, O.  (1953a).  The Confederate States government and the five civilized tribes, part I: Pre-Civil War, Indian tribal development.  <title>Chronicles of Oklahoma 31</title>, 189-204.</bibl>
+<bibl>Morton, O.  (1953b).  The Confederate States government and the five civilized tribes, part II.  <title>Chronicles of Oklahoma 31</title>, 299-322.</bibl>
+<bibl>Prucha, F. P.  (1990).  <title>Atlas of American Indian Affairs</title>.  Lincoln, NE: University of Nebraska Press.</bibl>
+<bibl>Prucha, F. P.  (1994).  <title>American Indian Treaties: The History of a Political Anomaly</title>.  Berkeley, CA: University of California Press.</bibl>
+<bibl>Ramsdell, C. W.  (1941).  <title>Laws and Joint Resolutions of the Last Session of the Confederate Congress (November 7, 1864-March 18, 1865) Together with the Secret Acts of Previous Congresses</title>.  Durham, NC: Duke University Press.</bibl>
+<bibl><title>Ratified Indian Treaties, 1722-1869</title>.  (1966).  Washington, DC: National Archives and Records Administration.</bibl>
+<bibl>Richardson, J. D.  (1905).  <title>A Compilation of the Messages and Papers of the Confederacy, Including the Diplomatic Correspondence, 1861-1865</title>.  Nashville, TN: United States Publishing.</bibl>
+<bibl>Robinson, W. M.  (1941).  <title>Justice in Grey: A History of the Judicial System of the Confederate States of America</title>.  Cambridge, MA: Harvard University Press.</bibl>
+<bibl><title>The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies</title>, series IV, volume 1.  (1900).  House of Representatives.  56th Congress, 1st session.  House Document No. 579 (<title>Serial Set</title> 3967).  Washington, DC: Government Printing Office.</bibl>
+<bibl>Trickett, D.  (1939).  The Civil War in the Indian Territory, 1861.  <title>Chronicles of Oklahoma 17</title>, 401-412.</bibl>
+<bibl>Wright, M.  (1986).  <title>A Guide to the Indian Tribes of Oklahoma</title>.  Norman, OK: University of Oklahoma Press.</bibl>
+
+</div1>
+
+<div1>
+<head>Acknowledgements</head>
+<p>We thank Karin Dalziel, Katie Heupel, and Rhiannon Root, our colleagues at the Center for Digital Research in the Humanities at the University of Nebraska&#8211;Lincoln, for their assistance during this project.</p>
+</div1>
+
+<div1>
+<note xml:id="n1">The expression “so long as grass shall grow and water run” appears in eight out of nine Confederate States treaties with these tribes: it is absent from the text of the <title>Treaty with the Cherokees</title>.</note>
+<note xml:id="n2">See <ref n="http://www.archives.gov/research/guide-fed-records/groups/109.html">http://www.archives.gov/research/guide-fed-records/groups/109.html</ref> or Matchette (1995, p. 109-1), and specifically Record Group 109.3, for these Indian treaties consummated by the CSA.</note>
+<note xml:id="n3">The <title>Treaty between the United States of America and the Republic of France</title> (8 <title>Stat.</title> 200), supplemented by two additional transactions (8 <title>Stat.</title> 206 and 208), had specified this transfer of “a vast, undeveloped, foreign country, equal in size to the entire United States of its day” (Brown, 1920, pp. 1-2).</note>
+<note xml:id="n4">Foreman (1953) provides a full description of the emigration of the Five Civilized Tribes.</note>
+<note xml:id="n5">See Jefferson Davis’s inaugural address of 18 February 1861 (Richardson, 1905, pp. 32-36).</note>
+<note xml:id="n6">Trickett (1939, p. 402) remarked “[s]o far as known, no copy of that important measure is in existence today.”  Ramsdell (1941, p.158) offered the possibility that the original act was missing even in the 1860s.</note>
+<note xml:id="n7">The act is cited in the preambles of four of the nine following treaties (<title>Creek Nation</title>, p. 289; <title>Choctaws and Chickasaws</title>, p. 311; <title>Seminole Nation</title>, p. 332; and <title>Cherokees</title>, p. 394), and once in Article 5 of <title>Cherokees</title> (p. 396).</note>
+<note xml:id="n8">There are five articles that form a helpful reading list for an understanding of these treaty transactions between the CSA and the tribes: Franks (1972 and 1973); McNeil (1964); and Morton (1953a and b).  Robinson’s chapter, entitled “Extraterritorial affairs and courts in the Indian country” (1941, pp. 331-358), is a pertinent supplement to these materials.</note>
+<note xml:id="n9">“Capt. Johnson” served as Pike’s aide-de-camp and appears as W. Warren Johnson in these transactions.  “Walter L. Pike” was Pike’s son, born in 1840 (Duncan, 1961, p. 135).</note>
+<note xml:id="n10">In the imposed treaties with the federal government that followed the Civil War, slavery was abolished.</note>
+<note xml:id="n11">Robinson (1941, pp. 356-357) itemized twelve CSA appropriations made for the Bureau of Indian Affairs and for addressing these treaty provisions with the tribes.  Just two months after the final negotiations with the Cherokees, the 24 December 1861 <title>Act making appropriations to comply in part with treaty stipulations made with certain Indian tribes</title> (Matthews, 1864/1988, pp. 232-237) initially reserved more than $736,000 to cover these specific expenses, under the conditions expressed in section 4 of the Act “[t]hat the appropriations hereby made may, at the discretion of the President, be forthwith paid into the hands of the proper officers or agents of the government and transmitted, in order that they may be promptly paid over to the said tribes of Indians, under the said treaties, when the amendments made by this government shall have been ratified as parts of said several treaties by the respective tribes.”  Between March 1861 and March 1865, $2,236,760.75 were so allocated, with 92% of the total (or $2,052,665.75) earmarked for assurances contained in these contracts.</note>
+<note xml:id="n12">We thank our colleagues &#8212; and especially Mike Millner &#8212; at UNC for permission to use their CSA <title>Statutes at Large</title> material.</note>
+</div1>
+
+</back>
+</text>
+</TEI>

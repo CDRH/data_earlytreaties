@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0951">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">951	S. 8839 (Sixtieth Congress, Second Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0951</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixtieth Congress, Second Sessio</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Osage</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>951	S. 8839 (Sixtieth Congress, Second Session &#8212; T. Roosevelt)</head>
+<p>For the removal of restrictions from the third selection or allotment of lands selected by William J. Scott, a minor member of the Osage Tribe of Indians, and for other purposes.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 60th Congress had adjourned sine die on March 3, 1903.  The bill was presented to the President on March 3, 1909 (March 3, 1909, S. Jour., p. 266; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., pp. 39-40).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 202.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0951.02.pdf">Journal of the Senate of the United States</ref>.  (1907).  60th Congress, 2nd session, p. 266 (<title>Serial Set</title> 5378). Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+J<head>OURNAL
+of the
+SENATE OF THE UNITED STATES
+OF AMERICA
+BEING THE
+SECOND SESSION OF THE SIXTIETH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 7, 1908,
+IN THE ONE HUNDRED AND THIRTY-THIRD YEAR OF THE INDEPENDENCE OF THE UNITED STATES</head>
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE
+1909</head><pb n="266" />
+<fw> <fw>  </fw>266	JOURNAL, OF THE SENATE.	MARCH </fw>
+<p>S. R. 119. Joint resolution authorizing the Secretary of War f to award gold medals to Orville Wright and Wilbur Wright;</p>
+<p>S.R.140. Joint resolution to create a joint committee to consider the revision and codification of the laws of the United States:</p>
+<p>H. R.1072. An net for the relief of the legal representatives of Sewell Coulson, deceased;</p>
+<p>H.R.1549. An act granting a pension to Lela L. Ellis;</p>
+<p>H. R. 2950. An act for the relief of certain officers of the United States Signal Corps;</p>
+<p>H. R.3022. An art for the relief of John D. McLain; </p>
+<p>H. R.3674. An act for the relief of Mrs. M. E. West;</p>
+<p>H. R. 4168. An act to carry out the findings of the Court of
+Claims in the ease of James A. Paulk;</p>
+<p>H. R. 6183. An net granting to the Siletz Power and Manufacturing Company a right of was for a water ditch or canal through the Siletz Indian Reservation, in Oregon;</p>
+<p>H. R.12512. An act for the relief of persons who sustained damage by explosion near Frankford Arsenal, Philadelphia;</p>
+<p>H.R.12712. An act for the relief of the estate of Samuel J. Rogers:</p>
+<p>H. R. 15603. An act for the relief of John W. Wood; </p>
+<p>H.R.16696. An act for the relief of the estate of Peter McEnery, deceased:</p>
+<p>H. R. 19607. An net to authorize the Secretary of Commerce and Labor to cooperate, through the Bureau of the Coast and Geodetic Survey and the Bureau of Fisheries. with the fish commissioner of the State of North Carolina, in making surveys of the waters of North Carolina where fishing is prohibited by law:</p>
+<p>H. R. 23464. An act making appropriations for the legislative, executive, and judicial expenses of the Government for the fiscal year ending June 30, 1910, and for other purposes;</p>
+<p>H R.23468. An net to amend sections 11 and 12 of an act entitled. "An act to provide for eliminating certain grade crossings on the line of the Baltimore and Potomac Railway Company in the city of Washington, D.C. and requiring said company to depress and elevate its tracks and to enable it to re-locate parts of its railroad therein, and for other purposes," approved February 12, 1901;</p>
+<p>H. R. 23973. An act for the relief of pensioners of the Metropolitan police fund;</p>
+<p>H. R. 24864. An act to provide for the distribution of the Congressional Record and public bills, documents. etc., to the governor-general of the Philippine Islands at Manila, P. I.;</p>
+<p>H. R. 25980. An act for the relief of Sarah J. Fowler;</p>
+<p>H.R. 26203. An act making appropriations for the payment of invalid and other pensions of the United States for the fiscal year ending June 30, 1910, and for other purposes;</p>
+<p>H. R. 28192. An act to amend and consolidate the acts respecting copyright;</p>
+<p>H. R. 28245. An act making appropriations for sundry civil expenses of the Government for the fiscal year ending June 30, 1911), and for other purposes;</p>
+<p>H. R. 28376. An act making appropriations to supply deficiencies in the appropriations for the fiscal year ending June 30, 1909, and for prior years, and for other purposes; and</p>
+<p>H. J. Res.235. Joint resolution concerning and relating to the treaty between the United States and Russia.</p>
+<p>Whereupon,</p>
+<p>The Vice-President signed the same, and they were delivered to the committee to be presented to the President of the United States.</p>
+<head>ENROLLED BILLS PRESENTED.</head>
+<head>Mr. Hopkins reported from the committee that they this day presented to the President of the United States the following enrolled bills and joint resolutions:</head>
+<p>S.671. An act to construct a road along the south bank of Anacostia River;</p>
+<p>S.1163. An act to correct the naval record of Peter H. Brodie, alias Patrick Torbett;</p>
+<p>S.1752. An act to reimburse Garrett R. Bradley, late post-master at Tonopah, Nev., for money expended for clerical assistance;</p>
+<p>S.2489. An act for the relief of Harry G. Rupp;</p>
+<p>S.2344. An act for the relief of William Martinson;</p>
+<p>S. 2982. An act to codify, revise, and amend the penal laws of the United States:</p>
+<p>S. 3164. An act to correct the military record of Paul Sinock; </p>
+<p>S.3452. An act for the relief of Joseph Schrembs;</p>
+<p>5.3526. An act to amend section 876 of the Revised Statutes: </p>
+<p>S.3810. An act for the relief of Howard B. Carpenter; </p>
+<p>S.3952. An act to restore to the active list of the United States Marine Corps the name of Robert Morgan Gilson;</p>
+<p>S.4035. An net to provide for the payment of certain claims against the District of Columbia in accordance with the act of Congress approved January 26, 1897, and as amended July 19, 1897; </p>
+<p>S.4103. An act authorizing the Secretary of the Interior to ascertain the amount due O bah baum, and pay the same out of the fund known as "For the relief and civilization of the Chippewa Indians;"</p>
+<p>S.4426. An act for the relief of Thomas C. Clark;</p>
+<p>S. 5349. An act for the relief of Madison County, Ky.;</p>
+<p>S.5510. An act for the relief of the owners of the tug <hi rend="italic">Juno;</hi></p>
+<p>8.5729. An act to correct the records and authorize the re-enlistment of certain noncommissioned officers and enlisted men belonging to companies B, C, and D, of the Twenty-fifth V. S. Infantry, who were discharged without honor under Special Orders, No, 266, War Department, November 9, 1906, and the restoration to them of all rights of which they have been deprived on account thereof;</p>
+<p>S.5905. An act for the relief of the executors of the estate of Harold Brown, deceased;</p>
+<p>S. 6055. An act to amend section 691 of subchapter 7, building associations, of the Code of Law for the District of Columbia:</p>
+<p>S.6373. An act waiving the statute of limitations as to the claim of the Nestler Brewing Company and authorizing the Commissioner of Internal Revenue to adjudicate the same:</p>
+<p>S.6852. An act for the relief of Walter F. Rogers, executor of the estate of Sarah Edwards, late owner of lot No. 116, square No. 628, Washington, D. C., with regard to assessment and payment of damages on account of changes of grade due to construction of the Union Station, District of Columbia;</p>
+<p>S.7640. An act to extend the time for the completion of a bridge across the Missouri River at Yankton, S. Dak., by the Yankton, Norfolk and Southern Railway Company;</p>
+<p>S. 7782. An act for the relief of James H. Owen;</p>
+<p>S.7785. An act relative to outward alien manifests on certain vessels;</p>
+<p>S.7859. An act for the relief of Parsey O. Burrough; </p>
+<p>S. 7561. An act for the relief of D. B. Crocker;</p>
+<p>S. 8058. An net authorizing the Attorney-General to appoint as special peace officers such employees of the Alaska school service as may be named by the Secretary of the Interior;</p>
+<p>5.8187. An act to change the name of the Washington Hospital for Foundlings;</p>
+<p>S.8379. An net for the relief of the owners of the British steamship <hi rend="italic">Maroa</hi>;</p>
+<p>5.8429. An act to refund certain tonnage taxes and light dues levied on the steamship <hi rend="italic">Montara</hi> without register; S. S518. An act empowering the juvenile court of the District of Columbia to issue execution on forfeited recognizances; 5.8520. An act requiring reports of the Hospital for Foundlings to be made to the Commissioners of the District of Columbia:</p>
+<p>S.8555. An act to relinquish the interest of the United States in and to certain land in Dade County to John M. Bryan, Jr.;</p> <p>S. 8588. An act to amend an act entitled "An act for the relief of Dewitt Eastman" approved January S, 1909;</p>
+<p>S. 8.822. An act providing for the relinquishment by the United States of certain lands to the county of Kootenai, in the State of Idaho:</p>
+<p>S.8839. An net for the removal of restrictions from the third selection or allotment of lands selected by William J. Scott, a minor member of the Osage tribe of Indians, and for other purposes:</p>
+<p>S.8899. An act granting pensions and increase of pensions to soldiers and sailors of wars other than the civil war and to certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>S.9278. An act granting pensions and increase of pensions to certain soldiers and sailors of wars other than the civil war and to certain dependent relatives of such soldiers and sailors:</p>
+<p>S.8929. An act withdrawing from entry and sale and granting unto the city of Los Angeles, in the State of California, certain lands therein described;</p>
+<p>5.9402. An act for the relief of John H. Layne;</p>
+<p>S.9421. An act granting pensions and increase of pensions to certain soldiers and sailors of wars other than the civil war and to certain widows and dependent and helpless relatives of such soldiers and sailors;</p>
+<p>S. R. 105. Joint resolution for the purpose of more fully carrying into effect the convention concluded at Brussels on March 15, 1586, in reference to the exchange of official journals, etc.;</p>
+<p>S. R.119. Joint resolution authorizing the Secretary of War to award gold medals to Orville Wright and Wilbur Wright; and</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0951.01.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, pp. 39-40 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>REPORT ON POCKET VETO	39</head>
+<p>H. R. 15573-received Feb. 28. On bill is written in ink: </p>
+<p>Veto</p>
+<p>H. R. 16361-received Feb. 28. On bill is written in ink: </p>
+<p>Not sign</p>
+<p>H. R. 16445&#8212;received Feb. 28. No marks by the President, but attached to the bill is a report of the Commissioner of Pensions that the beneficiary had died.</p>
+<p>The 58th Congress, third session, adjourned March 4, 1905, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 39, pt. 4, pp. 4028, 4041) President Roosevelt retained unsigned S. 5108, which is stamped:</p>
+<p>White House received Mar 3, 1905</p>
+<p>and H. R. 11204, which has no date of receipt stamped on it. Both bills are now at the Executive Offices.</p>
+<p>The 59th Congress, first session, adjourned June 30, 1906. (<title>Cong. Rec.</title>, vol. 40, pt. 10, pp. 9802, 9817) President Roosevelt retained unsigned six Senate and three House bills. They are now at the Executive Offices.</p>
+<p>S. 1812, S. 2188, S. 4774, H. R. 12080 and H. R. 15673 are undated. S. 4197 is stamped:</p>
+<p>The White House received Jun. 29, 1906 On the bill is penciled:</p> <p>Pocket Veto.</p>
+<p>S. 4965 is undated. Attached to the bill is a slip on which is written:</p>
+<p>Pocket Veto.</p>
+<p>S. 6355 was received June 29. Attached to it is a slip of paper on which is written:</p>
+<p>Let it die.</p>
+<p>H. R. 7226 was received June 28. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket Veto.</p>
+<p>The 59th Congress, second session, adjourned March 4, 1907, the Senate and House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 41, pt. '5, pp. 4658, 4672) President Roosevelt retained unsigned two Senate and four House bills, which are now at the Executive Offices.</p>
+<p>S. 4964 was received Mar. 2. On the bill itself, in ink, in the President's handwriting, is word "Veto."</p>
+<p>S. 8540 was received Mar. 2. On the bill, in ink, in the President's handwriting, are the words "Pocket veto."</p>
+<p>H. R. 3498 was received February 28, 1907.</p>
+<p>H. R. 17415 is not stamped with date of receipt. On the bill itself, in ink, in the President's handwriting, are the words "Pocket veto." H. R. 18854 was received February 22.</p>
+<p>H. R. 19500 is undated.</p>
+<p>The 60th Congress, second session, adjourned March 4, 1909, the Senate legislative day of March 3 and the House legislative day of February 23. (Cong Rec., vol. 43, pt. 4, pp. 3825, 3837) President Roosevelt retained unsigned ten Senate and seven House bills. They <pb n="40" />
+are now at the Executive Offices. Very few of them bear marks showing when they were received.</p>
+<p>S. 2544&#8212;undated. On bill is written:</p>
+<p>All wrong</p>
+<p>R</p>
+<p>S. 3164-undated. On bill is written:</p>
+<p>Bad</p>
+<p>R</p>
+<p>S. 3526, S. 6852, S. 8588 and S. 8839 are undated and on each is written:</p>
+<p>BAD</p>
+<p>S. 4426 and S. 8429 are undated and on each bill is a large question mark.</p>
+<p>S. 7859&#8212;undated. On bill is written:</p>
+<p>Bad?</p>
+<p>R</p>
+<p>S. 9402 and H. R. 1072 are undated. There are no marks on them. H. R. 4521 was stamped as received Mar. 2. On it some comment was written in ink and afterwards erased.</p>
+<p>H. R. 6183-undated. On it is written:</p>
+<p>All wrong</p>
+<p>T. R.</p>
+<p>H. R. 16696&#8212;undated. On it is written: Know nothing about it.</p>
+H. R. 12499 was received Feb. 27, 1909. Attached to it is a slip of paper on which is written:
+
+<p>H. R. 13712 was received Feb. 22. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket veto</p>
+<p>W. L. Jr.</p>
+
+<p>
+H. R. 13928 was received March 2. Attached to it is a slip of paper on which is written in same handwriting as on slips of paper attached to H. R. 12499 and H. R. 13712:</p>
+<p>Pocket veto.</p>
+<p>The 61st Congress, second session, adjourned June 25, 1910. (<title>Cong. Rec.</title>, vol. 45, pt. 8, pp. 9080, 9119) President Taft retained unsigned three House bills which are now at the Executive Offices. H. R. 3346, A. R. 18376 and H. R. 20644 are all stamped as received at the White House on June 24, 1910. To each of the last two bills a letter is attached and on each letter is written in pencil the word "Pocket."</p>
+<p>The 61st Congress, third session, adjourned March 4, 1911, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 46, pt. 5, pp. 4323, 4339) President Taft retained unsigned two House bills, which are now at the Executive Offices.</p>
+<p>H. R. 30273 was received March 3.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

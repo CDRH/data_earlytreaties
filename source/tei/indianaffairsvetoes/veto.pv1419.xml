@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1419">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1419	S. 1478 (Seventy-fifth Congress, Third Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1419</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fifth Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Choctaw</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1419	S. 1478 (Seventy-fifth Congress, Third Session &#8212; F. Roosevelt)</head>
+
+<p>Adjudicate the claims of the Choctaw Indians in the State of Mississippi.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 75th Congress had adjourned sine die on June 16, 1938.  The bill was presented to the President on June 16, 1938 (83 <title>Cong. Rec.</title> 9612; <hi rend="italics">see also</hi> 83 <title>Cong. Rec.</title> 9620).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 298-299.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1419.01.pdf"><title>Congressional Record</title> 83, 9612</ref> (1938).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 9612	CONGRESSIONAL RECORD SENATE 	JUNE 16 </fw>
+<p>S. 371. An act for the relief of William R. Kellogg;	</p>
+<p>S. 1043. An act for the relief of A. C. Williams;</p>
+<p>S. 1294. An act to amend the act entitled "An act to authorize the President to provide housing for war needs," approved May 16, 1918, as amended;</p>
+<p>S. 1478. An act conferring jurisdiction on the Court of Claims to hear and determine the claims of the Choctaw Indians of the State of Mississippi;</p>
+<p>S.2163. An act to authorize the deposit and investment of Indian funds;</p>
+<p>S. 2505. An act for the relief of James J. Hogan;</p>
+<p>S. 3337. An act to amend section 2 of the act entitled "An act making appropriations for the naval service for the fiscal year ending June 30, 1919, and for other purposes," approved July 1, 1918, to increase the authorized percentage of privates, first class, in the Marine Corps from 25 to 40 percent of the whole number of privates;</p>
+<p>S.3548. An act to amend section 9 of the Civil Service Retirement Act, approved May 29; 1930, as amended;</p>
+<p>S.3774. An act to authorize cooperation between the United States and the State of New York in the protection of the public interest and welfare inherent in certain forest lands in said State through provision for the acquisition and management of said lands;</p>
+<p>S. 4007. An act authorizing the county of Lawrence, Ky., to construct, maintain, and operate a free highway bridge across the Big Sandy River at or near Louisa, Ky.;</p>
+<p>S.4011. An act to extend the time for completing the construction of a bridge across the Mississippi River at or near a point between Cherokee and Osage Streets, St. Louis, Mo.;</p>
+<p>S. 4036. An act relating to the tribal and individual affairs of the Osage Indians of Oklahoma;</p>
+<p>S. 4041. An act granting the consent of Congress to the State of New Jersey and the Commonwealth of Pennsylvania to enter into compacts or agreements with respect to constructing, maintaining, and operating a vehicular tunnel under the Delaware River; </p>
+<p>S.4044. An act to authorize the President to permit citizens of the American Republics to receive instruction at professional educational institutions and schools maintained and administered by the Government of the United States or by Departments or agencies thereof;</p>
+<p>S. 4069. An act to authorize the, Secretary of War to lend certain property to the reunion committee of the United Confederate Veterans to be used at their annual encampment to be held at Columbia, S. C., from August 30 to September 2, 1938;</p>
+<p>S. 4070. An act to authorize the attendance of the Marine Band at the United Confederate Veterans' 1938 Reunion at Columbia, S. C., from August 30 to .September 2, 1938, both dates inclusive;</p>
+<p>S. 4132. An act limiting the hours of labor of certain' officers and seamen on certain vessels navigating the Great Lakes and adjacent waters; and</p>
+<p>S. J. Res. 308. Joint resolution to prescribe the acreage allotments for wheat for 1939.</p>
+<head>ORDER OF BUSINESS</head>
+<p>Mr. BARKLEY obtained the floor.</p>
+<p>Mr. REYNOLDS. Mr. President, will the Senator yield? </p>
+<p>Mr. BARKLEY. I yield.</p>
+<p>Mr. REYNOLDS. Mr. President, I ask unanimous consent that I be heard upon a motion for reconsideration. On the calendar of motions for reconsideration there is listed a motion made by the Senator from Utah [Mr. KING) for the reconsideration of the vote by which Senate bill 2206, to provide for the transfer of the enlisted men of the Coast Guard to the fleet naval reserve, was passed.</p>
+<p>Mr. BARKLEY. Mr. President, I do not wish to yield to anything that will consume any time. Is it a motion to reconsider which the Senator desires to have called up?</p>
+<p>Mr. REYNOLDS. It is a motion to reconsider which is on the calendar.</p>
+<p>Mr. BARKLEY. What is the status of it?</p>
+<p>Mr. REYNOLDS. The bill was passed by the Senate. The Senator from Utah [Mr. KING] asked for a reconsideration of the vote by which the bill was passed, and the motion is on the calendar. It was not called during the call of the calendar, and, as a result, I was not provided an opportunity to bring it to the attention of the Senate, and before the adjournment tonight I should like to have a vote on it.</p>
+<p>Mr. KING. Mr. President, will the Senator from Kentucky yield?</p>
+<p>Mr. BARKLEY. I yield.</p>
+<p>Mr. KING. If this is to be taken up for discussion, it will take some time tonight. There are a large number of documents in my office relating to the matter, which I did not suppose would be called up tonight. Naval officials express opposition to the bill.</p>
+<p>Mr. BARKLEY. Is this a bill which can be completed and sent to the President merely by a disposition of the motion to reconsider?</p>
+<p>Mr. KING. No.</p>
+<p>Mr. BARKLEY. What is to be accomplished by reconsidering the vote, then? It is a Senate bill, I am informed, and the House will not act upon it even though the motion to reconsider is defeated and the bill passed. There is no chance for it to be considered in the House, and it seems to me a waste of time to consume time on it now, because the House is not going to consider any further business tonight.</p>
+<p>Mr. REYNOLDS. I should like to have a vote on it. </p>
+<p>Mr. KING. There will be no vote, Mr. President.</p>
+<p>Mr. BARKLEY. I think it is a futile effort. Under the circumstances, I feel that I cannot yield for that purpose.</p>
+
+<head>FINAL ADJOURNMENT RESOLUTION</head>
+<p>The PRESIDENT pro tempore. The Chair lays before the Senate a concurrent resolution from the House of Representatives, which will be read.</p>
+<p>The Chief Clerk read the concurrent resolution (H. Con. Res. 67), as follows:</p>
+<p><hi rend="italic">Resolved by the House of Representatives (the Senate concurring),</hi> That the two Houses of Congress shall adjourn on Thursday the 16th day of June 1938, and that when they adjourn on said day they stand adjourned sine die.</p>
+<p>The concurrent resolution was agreed to. </p>
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. BARKLEY. Mr. President, before I make the motion which I shall make in compliance with the concurrent resolution, I wish to express to my colleagues my grateful appreciation for the courtesies and the cooperation which I have received at their hands during this session of the Congress. I have been in Congress many years, but I do not recall a session of the Congress when the Members have been more industrious and more earnest in the performance of their duties than' during the session which is now about to close. There have been many questions of difference, controversy, and disagreement. The Senate has disposed of practically all of them in fine spirit and in good humor. We have not indulged in any useless or unnecessary delays in the consideration of measures at this session, and. I wish to thank my colleagues on this side of the Chamber for the uniform courtesy and consideration which I have received in the position which I have occupied during the session.</p>
+<p>I wish also to express my grateful appreciation to the distinguished senior Senator from Oregon [Mr. McNARY], the leader of the minority, for his unfailing cooperation and his generous courtesy and cooperation in the transaction of the business of the Senate. </p>
+<p>I wish for all the Members of the Senate a joyous return to their homes and their constituents, and to those who may not return here&#8212;and there are some who are not asking for reelection&#8212;I wish to say that I hope that through the remainder of their years they may carry the happy memory of their association here in this great deliberative body.</p>
+<p>I wish likewise to express my appreciation to the members of the press gallery for the forbearance and consideration</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1419.02.pdf"><title>Congressional Record</title> 83, 9620</ref> (1938).</bibl>
+<!-- <fw> 9620	CONGRESSIONAL RECORD SENATE	JuNE 16 </fw>
+<p>"During the Seventy-fourth Congress a relief bill of this character received my approval, but at that time I addressed letters, dated March 19, 1936, to the chairmen of the Senate and House Committees on Military Affairs, respectively, in which I said:</p>
+<p>" 'I am therefore advising you that while I have approved this particular relief bill it should under no condition be considered as a precedent for any similar legislation, and I earnestly hope that any future bills of this character will not receive the approval of the committee.'</p>
+<p>"After giving this case careful consideration and in view of the foregoing, I am compelled to withhold my approval of this bill."</p>
+<p> On June 24, 1938:</p>
+<p>S. 4126. An act to amend the act authorizing the construction of a bridge at South Sioux City, Nebr.</p>
+<p>"I have withheld my approval of S. 4126, entitled 'An act to amend the act authorizing the construction of a bridge at South Sioux City, Nebr.'</p>
+<p>"I cannot give my approval to this bill because of the inclusion therein of the following provision:</p>
+<p>"'Such bridges; and the bonds issued in connection there-with, and the income derived therefrom, shall be exempt from any Federal, State, municipal, and local taxation.'</p>
+<p>"Under date of June 30, 1936, I withheld my approval of S. 3107, Seventy-fourth Congress, a bill to exempt publicly owned interstate highway bridges from State, municipal, and local taxation, for reasons stated in my press release of that date, as follows:</p>
+<p>"`The effect of this bill would be that, by declaring publicly owned interstate highway bridges to be Federal instrumentalities, such bridges would thereby be exempt from all State and local taxation. I cannot give my approval to this bill, first, because I can find no compelling reason for making publicly owned interstate highway bridges Federal instrumentalities, and, secondly, because relieving such bridges of all State and local taxation would, in the majority of cases, result in loss of revenue by States and their political subdivisions, necessitating material curtailment of necessary activities, or the imposition of increased tax burdens upon other taxpayers to make up the deficit.'</p>
+<p>"For the same reasons, and the added reason. that the present bill, S. 4126, would exempt Federal taxation in addition to State, municipal, and local taxation, I cannot give the bill my approval."</p>
+<p>On June 25, 1938:</p>
+<p>S. 252. An act to exempt publicly owned interstate high-way bridges from local taxation.</p>
+<p>"I have withheld my approval of S. 252, entitled 'An act to exempt publicly owned interstate highway bridges from local taxation.'</p>
+<p>"This bill is designed to accomplish the same purpose as S. 3107, Seventy-fifth Congress, with respect to which I with-held my approval for reasons set forth in a memorandum of disapproval dated June 30, 1936, as follows:</p>
+<p>"'I am withholding my approval of S. 3107, to exempt publicly owned interstate highway bridges from State, municipal, and local taxation, for the following reasons:</p>
+<p>"'The effect of this bill would be that, by declaring publicly owned interstate highway bridges to be Federal instrumentalities, such bridges would thereby be exempt from all State and local taxation. I cannot give my approval to this bill, first, because I can find no compelling reason for making publicly owned interstate highway bridges Federal instrumentalities; and secondly, because relieving such bridges of all State and local taxation would, in the majority of cases, result in loss of revenue by States and their political subdivisions, necessitating material curtailment of necessary activities, or the imposition of increased tax burdens upon other taxpayers to make up the deficit.'</p>
+<p>"For the same reasons I cannot give my approval to the present bill, S. 252."</p>
+<p>S. 1478. An act conferring jurisdiction on the Court of Claims to hear and determine the claims of the Choctaw Indians of the State of Mississippi.</p>
+<p>"I have withheld my approval of the Senate bill (S. 1478) entitled 'Conferring jurisdiction on the Court of Claims to hear and determine the claims of the Choctaw Indians of the State of Mississippi.'</p>
+<p>"Unlike other Indian jurisdictional bills, this measure does not relate to claims of any tribe against the United States, but is concerned with the claims of certain individual members of the Choctaw Tribe, who assert that they were erroneously denied the right to share in the distribution of certain tribal properties. If they had received the property to which they claim to have been entitled, it would have been a share in the tribal properties. </p><p>Nevertheless, the bill under consideration, instead of seeking to permit them to secure an award against the tribe, or against other members of the tribe who, on the theory of the claimants, received an excessive share of the properties, in effect proposes that the Government should assume the tribal liability and should pay to the claimants the value of the share that they might have received on the distribution of the tribal properties.
+"The enactment of this legislation might result in assumption of a liability by the Government aggregating several millions of dollars. No reason appears why in equity and good conscience this burden should be borne by the United States.</p>
+<p>"Moreover, the effect of this legislation would be to reopen matters that were settled more than 30 years ago by a quasi-judicial commission. It does not appear desirable to take such action after a long lapse of time, when most of the pertinent evidence is no longer available."</p>
+<p>S. 3319. An act to authorize certain payments to the Veterans of Foreign Wars of the United States, Inc., and to the Disabled American Veterans of the World War, Inc.</p>
+<p>"I have withheld my approval of S. 3319, an act to authorize certain payments to the Veterans of Foreign Wars of the United States, Inc., and to the Disabled American Veterans of the World War, Inc.</p>
+<p>"This bill would appropriate from the Treasury of the United States the sum of $196,568.64, to be divided equally between the two organizations named above for use in aiding and assisting disabled, destitute, or unemployed veterans and/or their dependents.</p>
+<p>"Last year I withheld my approval of S. 1516, which was passed at the first session of the Seventy-fifth Congress. That bill differed from the present one only in that it appropriated a larger sum of money, $294,852.97, and provided for distribution of this money among four organizations, which included the two designated to receive the funds appropriated by the present bill. In withholding my approval last year of S. 1516 I stated:</p>
+<p>"'While the money to be appropriated represents the unexpended balance of certain funds accumulated by military organizations during the World War, Congress has already provided that, because of the impossibility of returning this money to the sources from which it originated, it be covered into the general fund of the Treasury and has authorized an equivalent amount to be appropriated, in the event of war, for the recreation, amusement, comfort, contentment, and health of the enlisted personnel of the Military Establishment.</p>
+<p>"'The reports of the committees of Congress which considered this bill stressed the fact that a portion of the money formerly in this fund was authorized to be appropriated to the American Legion to be used in connection with the liquidation of indebtedness against Pershing Hall Memorial in Paris, thereby implying that other national organizations engaged in aiding and assisting veterans and their dependents are likewise entitled to share in this fund. The premise on which this argument is based seems to me an incorrect one. The appropriation which was made to the Secretary of the Treasury to liquidate the indebtedness connected with Pershing Hall was conditioned on the vesting of the legal title to the property in the Government of the United States for the use and benefit of all American veterans of the World War. In no sense could this former appropriation be considered as being for the benefit of any one organization of</p>
+-->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

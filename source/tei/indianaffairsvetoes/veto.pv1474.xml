@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1474">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1474	S. 18 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1474</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-sixth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1474	S. 18 (Seventy-sixth Congress, First Session &#8212; F. Roosevelt)</head>
+<p>Authorizing payment to the San Carlos Apache Indians for lands ceded by them in the agreement of February 25, 1896, ratified by the act of June 10, 1896 and reopening such lands to mineral entry.</p>
+
+<p>Vetoed August 5, 1939.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 128 (84 <title>Cong. Rec.</title> 11121).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 308.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1474.01.pdf">Payment to the San Carlos Apache Indians.  Message from the President of the United States returning without approval, the Bill (S. 18) entitled “An Act Authorizing Payment to the San Carlos Apache Indians for the Lands Ceded by them in the Agreement of February 25, 1896, Ratified by the Act of June 10, 1896, and Reopening the Lands to Mineral Entry.”</ref>  (1939).   Senate.  76th Congress, 1st session.  Senate   Document No. 128 (<title>Serial Set</title> 10316).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 76TH CONGRESS  	 1st Session
+SENATE	1 DOCUMENT No. 128 </fw>
+<head>PAYMENT TO THE SAN CARLOS APACHE INDIANS</head>
+<milstone unit="rule" />
+<head>MESSAGE
+
+FROM
+
+
+THE PRESIDENT OF THE UNITED STATES
+
+RETURNING
+
+WITHOUT APPROVAL, THE BILL (S. 18) ENTITLED "AN ACT AUTHORIZING PAYMENT TO THE SAN CARLOS APACHE INDIANS FOR THE LANDS CEDED BY THEM IN THE AGREEMENT OF FEBRUARY 25, 1896, RATIFIED BY THE ACT OF JUNE 10, 1896, AND REOPENING THE LANDS TO MINERAL ENTRY"</head>
+<head type="sub">AUGUST 5 (legislative day, AUGUST 2), 1939.-Read, referred to the Committee
+on Indian Affairs, and ordered to be printed</head>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 18, a bill authorizing payment to the San Carlos Apache Indians for the lands ceded by them in the agreement of February 25, 1896, ratified by the act of June 10, 1896, and reopening such lands to mineral entry.</p>
+<p>The bill provides, by a declaration to that effect, for the payment to the San Carlos Apache Indians of $33,725 for 232,320 acres of land. It would appear, however, that this represents in reality a payment, at $1.25 per acre, for such ceded lands as have been included in homesteads, national forests, power sites, public water reserves, and State of Arizona school land grant, lieu or indemnity selections, an area much smaller than that named in the bill.</p> <p>
+The bill further provides that, after payment for the lands that have been included in homesteads, etc., the remaining acreage of ceded lands shall be reopened to location and entry under the public land and mineral entry laws of the United States. While I would not favor legislation that would provide for the payment to the Indians of $1.25 per acre for this remaining acreage, I would favor its restoration to the Indians. The provision of the pending bill reopening these lands to public entry, and thus depriving the Indians of the future use of the lands and even of their present receipts from such lands, appears to me definitely objectionable.</p><pb n="2" />
+<fw> 2	PAYMENT TO SAN CARLOS APACHE INDIANS </fw>
+<p>It seems to me that this legislation is also objectionable because of its specific description of a payment for a total of 232,320 acres of land when it is apparent that the amount provided in the bill represents payment for a very much smaller acreage.</p>
+<p>In these circumstances, I feel that this matter should receive the further consideration of Congress, and that I would not, therefore, be justified in approving the present bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE,
+August 5, 1939.</dateline></closer>
+<p>S.18
+</p>
+<head>SEVENTY-SIXTH CONGRESS OF THE UNITED STATES OF AMERICA; AT THE FIRST SESSION BEGUN AND HELD AT THE CITY OF WASHINGTON ON TUESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-NINE</head>
+<head type="sub">AN ACT Authorizing payment to the San Carlos Apache Indians for the lands ceded by them in the agreement of February 25, 1896, ratified by the Act of June 10, 1896, and reopening such lands to mineral entry.</head>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That there is hereby authorized to be appropriated, out of any moneys in the Treasury of the United States not otherwise appropriated, as payment in full to the San Carlos Apache Indians, for two hundred and thirty-two thousand three hundred and twenty acres of land ceded by them under the agreement of February 25, 1896, ratified by the Act of June 10, 1896 (29 <title>Stat.</title> 358), less $12,433.63 received by the Indians as royalty under mining permits, the sum or $33,725 to be deposited in the Treasury of the United States to the credit of the San Carlos Apache Indians, and to be available for expenditure for the benefit of such Indians: Provided, That no part of the amounts authorized in this Act shall be paid or delivered to or received by any agent or attorney on account of services heretofore or hereafter rendered in connection with these claims, and the same shall be unlawful, any contract to the contrary notwithstanding. Any person violating the provisions of this Act shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined in any sum not exceeding $1,000.</p>
+<p>SEc. 2. Upon appropriation and deposit to the credit of the San Carlos Apache Indians of the amount herein authorized the lands referred to in the first section of this Act shall be reopened to location and entry under the public land and mineral entry laws of the United States.</p>
+<signed>WM. A. BANKHEAD,</signed>
+Speaker of the House of Representatives,
+<signed>JNO. N. GARNER,</signed>
+Vice President of the United States and President of the Senate.
+<signed>EDWIN A. HALSEY</signed>, Secretary.
+<note>[Endorsement on back of bill:]</note>
+<p>I certify that this Act originated in the Senate.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1474.02.pdf"><title>Congressional Record</title> 84, 11121</ref> (1939).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1939	CONGRESSIONAL RECORD SENATE	11121 </fw>
+<p> I concur in the objections and adverse recommendation of the Board of Commissioners and am, therefore, withholding my approval of this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed>
+<dateline>THE WHITE House, August 4, 1939.</dateline></closer>
+<head>PAYMENT TO SAN CARLOS APACHE INDIANS&#8212;VETO MESSAGE
+(S. DOC. NO. 128)</head>
+<p>The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was read, and with the accompanying bill, referred to the Committee on Indian Affairs and ordered to be printed:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 18, a bill "Authorizing payment to the San Carlos Apache Indians for the lands ceded by them in the agreement of February 25, 1896, ratified by the act of June 10, 1896, and reopening such lands to mineral entry."</p>
+<p>The bill provides, by a declaration to that effect, for the payment to the San Carlos Apache Indians of $33,725 for 232,320 acres of land. It would appear, however, that this represents in reality a payment at $1.25 per acre, for such ceded lands as have been included in homesteads, national forests, power sites, public water reserves, and State of Arizona school land grant, lien or indemnity selections, an area much smaller than that named in the bill.</p>
+<p>The bill further provides that, after payment for the lands that have been included in homesteads, and so forth, the remaining acreage of ceded lands shall be reopened to location and entry under the public-land and mineral-entry laws of the United States. While I would not favor legislation that would provide for the payment to the Indians of $1.25 per acre for this remaining acreage, I would favor its restoration to the Indians. The provision of the pending bill re-opening these lands to public entry, and thus depriving the Indians of the future use of the lands and even of their present receipts from such lands, appears to me definitely objectionable.</p>
+<p>It seems to me that this legislation is also objectionable because of its specific description of a payment for a total of 232,320 acres of land when it is apparent that the amount provided in the bill represents payment for a very much smaller acreage.</p>
+<p>In these circumstances, I feel that this matter should receive the further consideration of Congress, and that I would not, therefore, be justified in approving the present bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> <dateline>THE WHITE HOUSE, August 5, 1939.</dateline></closer>
+
+<head>INTERLOCKING BANK DIRECTORATES&#8212;VETO MESSAGE (S. DOC.
+NO. 126)</head>
+<p>The VICE PRESIDENT laid before the Senate the following message from the President of the United States, which was read, and with the accompanying bill, referred to the Committee on Banking and Currency and ordered to be printed:</p>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith,, without my approval, Senate bill 2150, "An act to amend section 8 of the act entitled `An act to supplement laws against unlawful restraints and monopolies, and for other purposes,' particularly with reference to interlocking bank directorates, known as the Clayton Act." If it was in the public interest in 1935 for the Congress to decide to terminate these relationships, it is in the public interest to terminate them now. Affected banks and affected directorates have had over 4 years to make adjustments. That would seem to be a liberal time.</p>
+<p>If the Congress wishes to reverse itself and allow inter-locking directorships in the future, it can, of course, do so. But I do not think that the Congress should nullify its policy, declared in 1935, by extending interlocking directorships for another 4 years on top of the 4 years' extension which has already been given.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT. </signed><dateline>THE WHITE HOUSE, August 5, 1939.</dateline></closer>
+<head>CELEBRATION OF ANNIVERSARY OF WRITING OF THE STAR-SPANGLED
+BANNER (S. DOC. NO. 129)</head>
+<p>The VICE PRESIDENT laid before the Senate a communication from the President of the United States, transmitting, pursuant to law, an estimate of appropriation for the Commission for Participation in the Celebration of the Anniversary of the writing of The Star-Spangled Banner, amounting to $5,000, fiscal year 1940, which, with the accompanying paper, was referred to the Committee on Appropriations and ordered to be printed.</p>
+<head>ANNIVERSARY OF FIRST SESSION OF THE SUPREME COURT OF THE
+UNITED STATES</head>
+<p>The VICE PRESIDENT, under the terms of House Concurrent Resolution 33, agreed to subsequently today, appointed the Senator from Arizona [Mr. ASHURST], the Senator from Nevada [Mr. PITTMAN], the Senator from New Mexico [Mr. HATCH], the Senator from Idaho [Mr. BORAH], and the Senator from Vermont [Mr. AUSTIN], members, on the part of the Senate, of a joint committee to make plans and suitable arrangements for fitting and proper exercises, to be held on February 1, 1940, in commemoration of the one hundred and fiftieth anniversary of the commencement of the first session of the Supreme Court of the United States.</p>
+
+<head>AUTHORITY TO SIGN ENROLLED BILLS, ETC., AFTER FINAL ADJOURNMENT</head>
+<p>The VICE PRESIDENT laid before the Senate House Con-current Resolution 35, which was read, as follows:</p> <p>House Concurrent Resolution 35</p>
+<p>Resolved by the House of Representatives (the Senate concur-ring), That, notwithstanding the adjournment of the first session of the Seventy-sixth Congress, the President of the Senate and the Speaker of the House of Representatives be, and they are hereby, authorized to sign any enrolled bills or joint resolutions duly passed by the two Houses and which have been examined by the Committee on Enrolled Bills of each House and found truly enrolled.</p>
+
+<p>Mr. BARKLEY. I ask for the present consideration and adoption of the resolution.</p>
+<p>The concurrent resolution was considered and agreed to. </p>
+<head>NATIONAL ADVISORY HEALTH COUNCIL</head>
+<p>The VICE PRESIDENT laid before the Senate the amendments of the House of Representatives to the bill (S. 1540) to adjust the compensation of the members of the National Advisory Health Council not in the regular employment of the Government, which were, on page 1, lines 9 and 10, to strike out "Secretary of the Treasury" and insert "Federal Security Administrator", and on page 2, lines 6 and 7, to
+strike out "Secretary of the Treasury" and insert "Federal Security Administrator.".</p>
+<p>Mr. BAILEY. I move that the Senate concur in the
+amendments of the House. The amendments are wholly clerical in character.</p>
+<p>The motion was agreed to.</p>
+
+<head>PETITIONS AND MEMORIALS</head>
+
+<p>The VICE PRESIDENT laid before the Senate the following resolution of the Senate of the State of Massachusetts, which was referred to the Committee on the Library:</p>
+<p>Resolutions memorializing Congress in favor of the presentation to Eire of a statue of <p>Commodore John Barry, "the father of the United States Navy"</p>
+Whereas there is pending in the Congress of the United States a bill providing for the presentation to Eire of a statue of Commodore John Barry, known as the father of the United States Navy: </p><p>Therefore be it</p>
+<p><hi rend="italic">Resolved,</hi> That the Senate of the Commonwealth of Massachusetts records itself in favor of said bill and respectfully urges the Congress of the United States to enact the same into law; and be it further</p>
+<p><hi rend="italic">Resolved,</hi> That the secretary of the Commonwealth send a copy of these resolutions to the presiding officers of both branches of the Congress and to each Member thereof from this Commonwealth.</p>
+
+<p>The VICE PRESIDENT also laid before the Senate the following joint resolution of the Legislature of Wisconsin, which was referred to the Committee on Public Lands and Surveys:</p>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

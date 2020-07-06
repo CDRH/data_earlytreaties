@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1324">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1324	S. 1793 (Seventy-fourth Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1324</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fourth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1324	S. 1793 (Seventy-fourth Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>To amend an act entitled “An act authorizing the attorney general of the State of California to bring suit in the Court of Claims on behalf of the Indians of California,” approved May 18, 1928.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 74th Congress had adjourned sine die on June 20, 1936.  The bill was presented to the President on June 20, 1936 (80 <title>Cong. Rec.</title> 10549; <hi rend="italics">see also</hi> 80 <title>Cong. Rec.</title> 10561).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 281.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1324.01.pdf"><title>Congressional Record</title> 80, 10549</ref> (1936).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1936	CONGRESSIONAL RECORD) SENATE	10549 </fw>
+<head>GREETINGS FROM THE PRESIDENT</head>
+<p>The PRESIDENT pro tempore. The Chair desires, before the Senator makes his motion, to submit to the Senate a communication he has just received from the President of the United States, which the clerk will read.</p>
+<note>The legislative clerk read as follows:</note>
+<opener>
+<dateline>THE WHITE House,
+Washington, June 20, 1936.</dateline>
+<salute>MY DEAR MR. VICE PRESIDENT:</salute> 
+</opener><p>As the Seventy-fourth Congress comes to a close, will you not accept for yourself and extend to the Members of the Senate my greetings and cordial good wishes?</p>
+<closer>Very sincerely yours,
+<signed>FRANKLIN D. ROOSEVELT.</signed> The honorable the VICE PRESIDENT.</closer>
+
+<head>ADDITIONAL ENROLLED BILLS AND JOINT RESOLUTION PRESENTED</head>
+<p>Mrs. CARAWAY, from the Committee on Enrolled Bills, reported that on June 20, 1936, that committee presented to the President of the United States the following enrolled bills and joint resolution:</p>
+<p>S. 1146. An act for the relief of Michael Dalton;</p>
+<p>S. 1567. An act to amend section 5 of the act of March 2, 1919, generally known as the War Minerals Relief Act;</p>
+<p>S. 1793. An act to amend the act entitled "An act authorizing the attorney general of the State of California to bring suit in the Court of Claims on behalf of the Indians of California", approved May 18, 1928 (45 <title>Stat.</title> L. 602);</p>
+<p>S. 2268. An act for the relief of Bausch & Lomb Optical Co.;</p>
+<p>S. 2460. An act to amend the act of June 6, 1924, entitled "An act to amend in certain particulars the National Defense Act of June 3, 1916", as amended, and for other purposes;</p>
+<p>S. 2647. An act authorizing the Comptroller General of the United States to settle and adjust the claims of subcontractors, materialmen, and laborers for material and labor furnished in the construction of a post-office building at Hempstead, N. Y.;</p>
+<p>S. 3143. An act for the relief of the Passaic Valley Sewerage Commissioners;</p>
+<p>S. 3405. An act for the relief of Capt. James W. Darr;</p>
+<p>S. 3843. An act to provide for the entry under bond of exhibits of arts, sciences, and industries, and products of the soil, mine, and sea, and all other exhibits for exposition purposes;</p>
+<p>S. 3879. An act for the relief of James W. Grist;</p>
+<p>S. 4020. An act to authorize the acquisition of lands in the city of Alameda, county of Alameda, State of California, as a site for a naval air station and to authorize the construction and installation of a naval air station thereon;</p>
+<p>S. 4719. An act for the relief of the Bridgeport irrigation district;</p>
+<p>S. 4727. An act to quiet title and possession with respect to certain lands in Lawrence County, Ala.;</p>
+<p>S. 4780. An act to extend the laws governing inspection of vessels, and for other purposes; and</p>
+<p>S. J. Res. 115. Joint resolution designating the last Sunday in September as "Gold Star Mother's Day", and for other purposes.</p>
+
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. ROBINSON. I move, in accordance with the terms of Concurrent Resolution 63, that the Senate do now adjourn sine die.
+The motion was agreed to; and (at 11 o'clock and 55 minutes p. m.) the Senate adjourned sine die.</p>
+<head>ENROLLED BILLS AND JOINT RESOLUTIONS SIGNED</head>
+<p>The Vice President, under the authority of House Concurrent Resolution 54, signed the following enrolled bills and joint resolutions which had been previously signed by the Speaker of the House of Representatives;</p>
+<p>S. 1790. An act for the relief of Margaret Murphy;</p>
+<p>S. 3055. An act to provide conditions for the purchase of supplies and the making of contracts by the United States, and for other purposes;</p>
+<p>S. 3107. An act to exempt publicly owned interstate high-way bridges from State, municipal, and local taxation; </p>
+<p>S. 3175. An act for the relief of Jesse Ashby;</p>
+<p>S. 3505. An act for the improvement and protection of the beaches along the shores of the United States;</p>
+<p>S. 3733. An act authorizing the issuance of a patent to certain lands in the State of Montana to Florence Kerr Facey;</p>
+<p>S. 3808. An act for the relief of R. D. Stephens and Vera. Stephens;</p>
+<p>S.3976. An act to amend the act approved February 27,. 1931, known as the District of Columbia Traffic Act ;</p>
+<p>S. 4152. An act validating certain conveyances by Kickapoo Indians of Oklahoma made prior to February 17, 1933, providing for actions in partition in certain cases;</p>
+<p>S. 4457. An act authorizing the appointment of an additional circuit judge for the third circuit;</p>
+<p>S. 4490. An act for the relief of F. W. Elmer;</p>
+<p>S. 4581. An act authorizing the payment of certain salaries' and expenses of employees of the General Land Office;</p>
+<p>S. 4670. An act to authorize the striking of an appropriate medal in commemoration of the three hundredth anniversary of the original Norfolk (Va.) land grant and the two hundredth anniversary of the establishment of the city of Norfolk, Va., as a borough;</p>
+<p>S. 4684. An act for the relief of the First, Second, and Third National Steamship Companies;</p>
+<p>S. 4773. An act to confer jurisdiction on the Court of Claims to hear and determine certain claims against the United States on the part of owners of certain vessels;</p>
+<p>H. R. 6773. An act to provide for an investigation to determine whether the water rights of the United States have been violated in the Clear Lake watershed, California, and for other purposes;</p>
+<p>H. R. 8555. To further the development and maintenance of an adequate and well-balanced American merchant marine, to promote the commerce of the United States, to aid in the national defense, to repeal certain former legislation, and for other purposes;</p>
+<p>H. R. 8875. An act to clarify section 104 of the Revised Statutes (U. S. C., title II, sec. 194);</p>
+<p>H. R. 10094. An act to amend section 1 of the act entitled "An act to stop injury to the public grazing lands by preventing overgrazing and soil deterioration; to provide for their orderly use, improvement, and development; to stabilize the livestock industry dependent upon the public range; and for other purposes", approved June 28, 1934 (48 <title>Stat.</title> 1269);</p>
+<p>H. R. 12458. An act authorizing a preliminary examination of the Intracoastal Waterway throughout Broward County, Fla.;</p>
+<p>H. R. 12796. An act to amend the act entitled "An act to provide for the times and places for holding court for the eastern district of North Carolina"; approved May 10, 1928, as amended (U. S. C., 1934 edition, title 28, sec. 179; U. S. C., Supp. I, title 28, sec. 179) ;</p>
+<p>S. J. Res. 38. Joint resolution to provide for an inquiry by the Court of Claims with respect to losses sustained by cooperative marketing associations in connection with stabilization activities in grain;</p>
+<head>S. J. Res. 196. Joint resolution to correct errors in the enrollment of Private Act No. 349, Seventy-fourth Congress, approved August 29, 1935, and to clarify the duties of the Comptroller General in connection with said act;</head>
+<head>S. J. Res. 255. Joint resolution to provide for the participation of the United States in the commemoration of the seventy-fifth anniversary of the Battle of Antietam; and</head>
+<head>H. J. Res. 642. Joint resolution to enable the Secretary of Agriculture to apply such methods of control of grass-hoppers as in his judgment may be necessary.</head>
+<head>ENROLLED BILLS AND JOINT RESOLUTIONS PRESENTED</head>
+<p>The following enrolled bills and joint resolutions, heretofore duly signed by the Presiding Officers of the two Houses, <p>were presented to the President of the United States by the Committee on Enrolled Bills:</p>
+On June 22, 1936:</p>
+<p>S. 2953. An act to provide for the inspection, control, and regulation of steam boilers and unfired pressure vessels in the District of Columbia;</p>
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1324.02.pdf"><title>Congressional Record</title> 80, 10561</ref> (1936).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1936	CONGRESSIONAL RECORD SENATE	10561• </fw>
+<p>"Mrs. Murphy is now receiving a salary of $1,260 per annum and an additional $120 per annum from the Employees' Compensation Commission."</p>
+<p>S. 1793. An act to amend the act entitled "An act authorizing the attorney general of the State of California to bring suit in the Court of Claims on behalf of the Indians of California", approved May 18, 1928 (45 <title>Stat.</title> L. 602).</p>
+<p>"I am withholding approval of S. 1793 for the following reasons:</p>
+<p>"The bill authorizes the Indians of California to bring suit in the Court of Claims for compensation for lands in that State of which they were dispossessed by the United States, and directs the court to compute the value of said lands at $1.25 per acre and to render judgment therefor.</p>
+<p>"It appears from the report of the Senate Committee on Indian Affairs relative to this bill (S. Rept. 709, 74th Cong., 1st sess.) that the total area for which an award might probably be made under the terms of this legislation would be not less than 90,000,000 acres. Thus the bill involves a liability of at least $100,000,000.</p>
+<p>"In addition to having the effect of imposing a very heavy financial burden on the Government, the bill would create a dangerous and undesirable precedent for similar endeavors on the part of the present descendants of other aborigines to secure payment for lands occupied by their ancestors at the time of the original settlements in the United States or the acquisition of territory by this country. Not only would such a course of action result in an incalculable financial burden to the government, but justice to the Indians of today does not seem to require this type of reparation."</p>
+<p>S.2647. An act authorizing the Comptroller General of the United States to settle and adjust the claims of subcontractors, materialmen, and laborers for material and labor furnished in the construction of a post-office building at Hempstead, N. Y.</p>
+<p>"I am withholding approval of S. 2647 for the following reasons:</p>
+<p>"This bill, if approved, would operate to deprive the United States of its right to priority and set-off in this case, and would thus be regarded as a precedent for like surrender in similar cases. Also, it might operate to deprive the other creditors of the surety company of their just right to a pro-rata share in the distribution of the surety's assets."</p>
+<p>S. 3107. An act to exempt publicly owned interstate high-way bridges from State, municipal, and local taxation.
+"I am withholding my approval of S. 3107, to exempt publicly owned interstate highway bridges from State, municipal, and local taxation, for the following reasons:</p>
+<p>"The effect of this bill would be that, by declaring publicly owned interstate highway bridges to be Federal instrumentalities, such bridges would thereby be exempt from all State and local taxation. I cannot give my approval to this bill, first, because I can find no compelling reason for making publicly owned interstate highway bridges Federal instrumentalities, and secondly, because relieving such bridges of all State and local taxation would, in the majority of cases, result in loss of revenue by States and their political sub-divisions, necessitating material curtailment of necessary activities, or the imposition of increased tax burdens upon other taxpayers to make up the deficit."</p>
+<p>S. 3175. An act for the relief of Jesse Ashby</p>.
+<p>"I am withholding approval of S. 3175 for the following reasons:</p>
+<p>"The bill confers upon the United States Court of Claims jurisdiction to hear and adjudicate a claim of Mr. Ashby growing out of losses suffered under his contract dated April 28, 1931, for painting plaster walls in the Department of Commerce Building, Washington, D. C. The claim is related to four separate proposals, each dated April 9, 1932, covering the following items of alleged additional work:</p>
+<p>(1) For additional labor and material supplied because
+certain of the ceilings and walls became porous
+and chalky 	$11,154.96</p>
+<p>(2) For repainting surfaces where cracks were replas-
+terecl	1,983.80</p>
+<p>(3) For refinishing walls and ceilings where partition
+changes were made 	1,675.20</p>
+<p>(4) For expenses incurred in the substitution of Wall
+Hide for the size coat specified	665.00</p>
+<p>"These claims were never brought to the attention of the
+Treasury Department until after the work had been entirely completed. As a result of this failure on the part of the contractor to abide by contract provisions requiring that extra work be authorized in advance by the contracting officer, no record of the contractor's alleged additional expenses was ever kept by the Government representatives supervising the work, and the Department has failed, after thorough investigation, to find any evidence which may be used to check the correctness of such alleged additional expenses. For these reasons there would not be a fair opportunity to see to the protection of the Government's interests in proceedings before the Court of Claims.</p>
+<p>"The Treasury Department advanced the above objection in its unfavorable report to the Committee on Claims of the House of Representatives under date of March 28, 1935. The committee report concluded with the following statement:</p>
+<p>" `Your committee is of the opinion that the claimant can-not be charged with the Government's failure to keep an account of the additional cost to which he was put, and inasmuch as the bill merely proposes that the matter be referred to the Court of Claims with jurisdiction to hear and adjudicate the claim upon the basis of the loss and damages suffered, in which court said losses and damages will be subject to proof, passage of it is recommended.'</p>
+<p>"While this view is not without force, the Treasury Department's objection to the bill is more fundamental than the committee appears to have appreciated. It was pointed out in the report of March 28, 1935, that the Department regards it as extremely important that claims for additional work under Government contracts be made prior to the time when the work is done, and the Department felt an undesirable precedent would be created if the bill received favorable action. </p><p>Government contracts are carefully drawn with a view to obviating the exact situation now presented, provisions being included therein as to the procedure to be followed in ordering changes and extra work, and to the effect that no charge for any extra work or material will be allowed unless so ordered. While there may be cases of extreme hardship in which it would be appropriate to disregard these provisions, I do not feel that this is such a case, since the claim is clearly the result of afterthought, and the Government would be at a distinct disadvantage in endeavoring to prevent an excessive allowance."</p>
+<p>S. 4658. An act to aid the several States in making certain toll bridges on the system of Federal-aid highways free bridges, and for other purposes.</p>
+<p>"I am withholding my approval of S. 4658, an act to aid the several States in making certain toll bridges on the system of Federal-aid highways free bridges, and for other purposes, for the following reasons:</p>
+<p>"This bill provides that if any State which, subsequent to March 3, 1927, constructed toll bridges on the Federal-aid highway system, will, prior to July 1, 1938, make such bridges free bridges, the Secretary of Agriculture would be authorized to pay to such State, from Federal-aid road funds apportioned thereto, not to exceed 50 percent of such sum as the Secretary may approve as being the reasonable construction cost of any such toll bridge.</p>
+<p>"The effect of this bill would be to divert funds appropriated for carrying forward our system of Federal-aid highways through the construction of new roads and new bridges to the payment of one-half of the construction cost of bridges already built. The bridges in question were constructed by the States as toll bridges and were to be operated as such until the revenue from their tolls should liquidate the cost of construction, when they were to become free bridges. This is the general theory upon which public toll bridges are constructed, and I can find no justification for diverting Federal road funds for the purpose of making such toll-bridges free bridges at an earlier date."</p>
+<p> H. R. 237. An act for the relief of the Rowesville Oil Co. "I am withholding approval of H. R. 237 for the following reasons:</p>
+<p>"This bill authorizes and directs the Secretary of the Treasury to pay to the Rowesville Oil Co., of Rowesville,,</p>
+
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

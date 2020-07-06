@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0825">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">825	H.R. 9571 (Fifty-fourth Congress, Second Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0825</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-fourth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>825	H.R. 9571 (Fifty-fourth Congress, Second Session &#8212; Cleveland)</head>
+
+<p>Authorizing the Galveston &amp; Great Northern Railway Company to construct and operate a railway through the Indian Territory and for other purposes.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 54th Congress had adjourned sine die on March 3, 1897.  The bill was presented to the President on March 2, 1897 (March 2, 1897, H. Jour., p. 253; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 37).</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes,</title> 1789-1988.  (1992). Washington, DC: Government Printing Office, 176.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0825.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1897).  54th Congress, 2nd session, p. 253 (<title>Serial Set</title> 3476-A).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES,
+BEING THE
+SECOND SESSION OF THE FIFTY-FOURTH CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 7, 1896,
+IN THE ONE HUNDRED AND TWENTY-FIRST YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+<milestone unit="rule" />
+<head type="sub">WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1897.</head>
+<fw> 1897.	HOUSE OF REPRESENTATIVES.	253 </fw>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 108, and agree to the same with an amendment as follows: In lien of the sum proposed insert three hundred and ninety-four thousand three hundred and thirty-four dollars; and the Senate agree to the same.</p>
+<p>That the House recede front its disagreement to the amendment of the Senate numbered 109, and agree to the same with an amendment as follows: In lieu of the sum proposed insert three hundred and fifty thousand dollars ; and the Senate agree to the same.</p>
+<p>That the House recede front its disagreement to the amendment of the Senate numbered 110, and agree to the same with an amendment as follows: In lieu of the sum proposed insert, three hundred and fifty thousand dollars ; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 111, and agree to the same with an amendment as follows: In lieu of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 113, and agree to the same with an amendment as follows: In lieu of the sum proposed insert four-hundred and thirty-seven thousand five hundred dollars; and the Senate agree to the same. </p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 116, and agree to the same with an amendment as follows: In lieu of the sum proposed insert three hundred and fifty thousand dollars ; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 118, and agree to the same with an amendment as follows: In lieu of the tone proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 120, and agree to the saute with an amendment as follows: In lieu of the sum proposed insert three hundred and That thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 123, and agree to the same with an amendment as follows: In lieu of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 124, and agree to the scone with an amendment as follows: In lieu of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 125, and agree to the same with an amendment as follows : In lieu of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 126, and agree to the same with an amendment as fellows: In lieu of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the house recede from its disagreement to the amendment of the Senate numbered 129, and agree to the same with an amendment as follows: In lieu of the stun proposed insert eight hundred
+and seventy-five thousand dollars ; and the Senate agree to the same.</p>
+<p>That the House recede front its disagreement to the amendment of the Senate numbered 130, and agree to the same with an amendment as follows: In lien of the sum proposed insert three hundred and fifty thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 137, and agree to the same with an amendment as follows: In lieu of the sum named in said amendment insert five thousand dollars; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 139, and agree to the same with an amendment as follows: In line 1 of said amendment strike out the word "purpose" and insert in lieu thereof the word purchase; and the Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 169, and agree to the same with an amendment as follows: In lieu of the sum proposed insert two million five
+hundred and three thousand six hundred and forty-six dollars; and the
+Senate agree to the same.</p>
+<p>That the House recede from its disagreement to the amendment of the Senate numbered 170, and agree to the same with an amendment as follows: In lieu of the matter inserted by said amendment insert the following: All supplies for the National Home for Disabled Volunteer Soldiers shall be purchased, shipped, and distributed as may be directed by the Board of Managers; and the Senate agree to the
+same.</p>
+<closer><hi rend="right"><signed>J. G. CANNON,</signed>
+<signed>WM. A. STONE,</signed>
+<signed>JOSEPH D. SAYERS,</signed>
+Managers on the part of the House.
+<signed>W. B. ALLISON, EUGENE HALE, A. P. GORMAN,</signed>
+Managers on the part of the Senate.</hi></closer>
+<p>The conference report was considered and agreed to.</p>
+<p>A motion by Mr. Gannon to reconsider the vote last taken was, on his motion, laid on the table.</p>
+<p><hi rend="italic">Ordered,</hi> That the Clerk notify the Senate thereof.</p>
+<p>The Speaker, pursuant to law, announced the appointment of the following committees of the House:</p>
+<p>The Committee on Accounts: Mr. Odell, of New York; Mr. Bull, of Rhode Island; and Mr. Bartlett, of Georgia.</p>
+<p>The Speaker announced the appointment of Mr. Milliken, of Maine; Sir. Belknap, of Illinois; and Mr. Washington, of Tennessee, as Visitors to the Military Academy at West Point.</p>
+<p>The Speaker announced the appointment of Mr. Wilson, of New
+York ; Mr. Foss, of Illinois; and Mr. Hart, of Pennsylvania, as
+Visitors to the United States Naval Academy at Annapolis. And then,
+On motion of Mr. Cannon, at 2 o'clock and 25 minutes a. m., the House took a recess until 3.25 a.m.</p>
+
+<head>AFTER THE RECESS-3.25 A. M., MARCH 4, 1897.</head>
+<p>The House resumed its session;</p>
+<p>When,
+On motion of Mr. Dalzell, the House took a recess until 4 o'clock
+a.m.</p>
+<head>AFTER THE RECESS-4 A. M., MARCH 4, 1897.</head>
+<p>The House resumed its session;</p>
+<p>When,</p>
+<p>A message from the Senate, by Mr. McEwan, its chief clerk, announced that the Senate had agreed to the report of the committee of conference on the disagreeing votes of the two Houses on the amendments of the Senate to the bill (H. R. 10292) entitled "An act making appropriations for sundry civil expenses of the Government for the fiscal year ending June 30, 1898, and for other purposes."</p>
+<p>The message also announced that the Senate had passed the bill (H. R. 9188) entitled "An act authorizing the appointment of a nonpartisan commission to collate information and to consider and recommend legislation to meet the problems presented by latter, agriculture, and capital," with amendments, in which the concurrence of the House was requested.</p>
+<p>Mr. Hager, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>H. R. 10331. An act to authorize reassessment of water-main taxes in the District of Columbia;</p>
+<p>H. R. 9571. An act authorizing the Galveston and Northern Railway Company to construct and operate a railway through the Indian Territory; and</p>
+<p>H. R. 10167. An act making appropriations to provide for the expenses of the government of the District of Columbia, etc.</p>
+<p>And then,</p>
+<p>On motion of Mr. Dalzell, at 4 o'clock and 5 minutes a. m., the House took a recess until 4.35 a. m.</p>
+<head>AFTER THE RECESS-4.35 A. M., MARCH 4, 1897.</head>
+<p>The House resumed its session</p>;
+<p>When,</p>
+<p>Mr. Hager, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled a bill of the following title; which was thereupon signed by the Speaker, to wit: H. R. 10002. An act making appropriations for current and contingent expenses of the Indian Department, and for fulfilling treaty stipulations with various Indian tribes, for the fiscal year ending June 30, 1898, and for other purposes;</p>
+<p>And then,</p>
+<p>On motion of Mr. Dalzell, at 4 o'clock and 57 minutes a. m., the House took a recess until 5.40 a. m.</p>
+<head>AFTER THE. RECESS&#8212;5.40 A. M., MARCH 4, 1897.</head>
+<p>The House resumed its session;</p>
+<p>When,</p>
+<p>On motion of Mr. Dalzell, the House took a recess until 8.30 a. m.</p>
+
+<head>AFTER THE RECESS&#8212;8.30 A. M., MARCH 4, 1897.</head>
+<p>The House resumed its session;</p>
+<p>When,</p>
+<p>Mr. Hager, front the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled bills of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>S. 3538. An act to authorize the Supreme Court of the United States to issue writs of certiorari to the court of appeals of the District of Columbia in the same cases and manner that it may do in respect of the circuit court of appeals; and</p>
+<p>H. R. 10292. An act making appropriations for sundry civil expenses of the Government for the year ending Jane 30, 1898, and for other purposes.</p>
+<p>The Speaker laid before the House the bill (H. R. 9188) entitled "An act authorizing the appointment of a nonpartisan commission to collate information and to consider and recommend legislation to meet the problems presented by labor, agriculture, and capital," with Senate amendments thereto.</p>
+<p>The amendments were concurred in.</p>
+<p>A motion by Mr. Phillips to reconsider the vote last taken was, on his motion, laid on the table.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0825.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 37 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+
+<fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES DOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head><opener>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<dateline><hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi></dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="37" />
+<fw> REPORT ON POCKET VETO	37 </fw>
+<p>At the end of the 54th Congress, second session, which adjourned March 4, 1897, three Senate and forty-two House bills were retained unsigned. They are now at the Executive Offices.</p>
+<p>S. 824&#8212;stamped as received at the Executive Mansion Mar 3, 1897.</p>
+<p>S. 3328&#8212;received Feb. 26, 1897. report is penciled the word "Pass." writing of President Cleveland.</p>
+<p>S. 2986&#8212;received Mar. 2. On an the penciled words:</p>
+<p>This bill seems to be exactly what is not needed&#8212;Pass.</p>
+<p>H. R. 1353, H. R. 2815, H. R. 4058, H. R. 4193, H. R. 4930, H. R. 6352, H. R. 9099, H. R. 9571, H. R. 9704, H. R. 10002, H. R. 10292 and H. R. 10331 have no date stamped on them.</p>
+<p>H. R. 948-received Feb. 26. On an attached committee report is penciled the word "Pass."</p>
+<p>H. R. 4424	received Feb. 25; H. R. 8706, H. R. 9961,&#8212;received
+Feb. 26; H. R. 5473, H. R. 9762	received Feb. 27. To each of
+these bills a letter is attached and on each letter there is penciled the word "Pass."</p>
+<p>H. R. 3402, H. R. 3605, H. R. 5128, H. R. 5183, H. R. 6159, H. R. 6268, H. R. 6417, H. R. 6560, H. R. 6765, H. R. 6845, H. R. 6915, H. R. 7317, H. R. 7451, H. R. 8633, H. R. 10290 were each stamped as received Mar. 1. To each is attached a committee report and on each committee report is penciled the word "Pass."</p>
+<p>H. Res. 261&#8212;received Mar. 2. On attached note is penciled "Pass."</p>
+<p>H. R. 459, H. R. 2974, H. R. 6634, H. R. 9607 and H. R. 10178 were stamped March 3.</p>
+<p>H. R. 2962&#8212;received Mar. 1. On attached committee report is penciled:</p>
+<p>Death not connected with service </p>
+<p>Pass</p>
+<p>H. R. 4310&#8212;received Mar. 2. On attached report was penciled "Pass." On this bill had been written in ink:</p>
+<quote><p>Approved March 3, 1897</p>
+<signed>GROVER CLEVELAND</signed></quote>
+<p>Then the approval and signature had been erased.</p>
+<p>H. R. 7205&#8212;received Mar. 2. On attached committee report is penciled:</p>
+<p>Pass&#8212;Beneficiary is already in receipt of pension of $12 per month the same rate provided in this bill.</p>
+<p>At the close of the 55th Congress, second session, which adjourned July 8, 1898 (<title>Cong. Rec.</title>, vol. 31, pt. 7, pp. 6794, 6807), President McKinley retained unsigned S. 4847, "to provide an American register for the steamer <hi rend="italic">Titania,</hi>" which was stamped as received at the Executive Mansion July 7.</p>
+<p>At the close of the 55th Congress, third session, which adjourned March 4, 1899, the President retained unsigned H. R. 8897, which was stamped as received Feb. 24, 1899, and H. R. 8578 and H. R. 9344, both of which are unstamped. To H. R. 8578 there is attached a letter on which there is the unsigned penciled word "pocket." To</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0689">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">689	H.R. 8681 (Fifty-third Congress, Third Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0689</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-third Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>689	H.R. 8681 (Fifty-third Congress, Third Session &#8212; Cleveland)</head>
+
+<p>Authorizing the Arkansas Northwestern Railway Company to construct and operate a railway through the Indian Territory.</p>
+
+<p>Vetoed February 28, 1895.  The veto message was laid before the House, referred to the Committee on Indian Affairs, and printed as H.R. Ex. Doc. No. 341 (27 <title>Cong. Rec.</title> 2939).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 151.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0689.01.pdf">Arkansas Northwestern Railway Company.  Message from the President of the United States, returning without his approval House Bill 8681, entitled “An Act Authorizing the Arkansas Northwestern Railway Company to Construct and Operate a Railway through the Indian Territory, and for Other Purposes.”</ref>  (1895).   House of Representatives.  53rd Congress, 3rd session.  House Executive Document No. 341 (<title>Serial Set</title> 3324).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<p>33D CONGRESS, HOUSE OF REPRESENTATIVES. 5 Ex. Doc. 3d Session.	
+No. 341.</p>
+<p>ARKANSAS NORTHWESTERN RAILWAY COMPANY.</p>
+<p>MESSAGE
+FROM THE
+PRESIDENT OF THE UNITED STATES,
+RETURNING
+Without his approval House bill 8681, entitled "An act authorizing the Arkansas Northwestern Railway Company to construct and operate a railway through the Indian Territory, and for other purposes."</p>
+<p>FEBRUARY 28,1895.&#8212;Referred to the Committee on Indian Affairs and ordered to be
+printed.</p>
+<hi rend="italic"><p>To the House of Representatives.</p></hi>
+<p>I herewith return without approval House bill number 8681, entitled "An act authorizing the Arkansas Northwestern Railway Company to construct and operate a railway through the Indian Territory, and for other purposes."</p>
+<p>The contemplated route of this railway, so far as it is disclosed in the bill, would run from a point in the southwestern corner of the State of Missouri, across the northeastern corner of the Indian Territory, to a point in the southeastern part of the State of Kansas. This route necessarily runs through the lands of the Cherokee Indians or through the small reservations of the Quapaws, the Peorias, the Ottawas, the Wyandottes, and the Senecas.
+There is no provision in the bill requiring the consent of the Indians whose lands are to be thus traversed.</p>
+<p>There is no provision requiring the entire line to be located and approved by the Secretary of the Interior before the work of building is commenced.</p>
+<p>The bill provides for compensation to individual occupants or allottees by a process of appraisal by referees, with the right of appeal to the district court held at Fort Smith in the State of Arkansas. </p>
+<p>In the case of allotted land or land held in individual occupancy by the Indians great care should be exercised in interfering with their holdings. Their land is given them for cultivation and with a view of making them self-supporting and industrious citizens. If their land is invaded and cut up by railroads the purpose of allotment is in danger of being defeated. Money compensation is of but little use to them, and no amount can compensate for the disturbance in the cultivation of their lands and their consequent discontent and discouragement.</p>
+<fw> 2	ARKANSAS NORTHWESTERN RAILWAY COMPANY. </fw>
+<p>These considerations, it seems to me, emphasize the necessity of the exact location of the entire line of the contemplated railroad and such control over it by the Secretary of the Interior as will enable him to avoid as much as possible interference with individual Indian occupants and other difficulties.</p>
+<p>This supervision and regulation of the line can be done with much more safety and effectiveness in considering the entire line than it can be clone in sections of twenty-five miles each, as is provided in the bill.</p>
+<p>The United States circuit and district courts for the districts of Kansas and the district of Arkansas, and such other courts as may be authorized by Congress, are given concurrent jurisdiction of all controversies arising between the railway company and the nations and tribes of Indians through whose territory the railway shall be constructed, or between said company and the members of said nations or tribes, without reference to the amount in controversy, and the civil jurisdiction of said courts is extended within the limits of said Indian Territory without distinction as to the citizenship of parties so far as may be necessary to carry out the provisions of the act.</p>
+<p>The requirement that an Indian shall be obliged to seek a distant court for the adjudication of his rights in his controversies, great and small, with this railway company would result in many cases to a denial of justice.</p>
+<p>I am convinced of the growing necessity in this period of change in our relations with the Indians of caution and certainty in the grants given to railroads to pass through Indian lands, and of the exercise of care in allowing interference with their occupation.</p>
+<closer><signed>GROVER CLEVELAND</signed>
+<signed>EXECUTIVE MANSION,
+February 28, 1895.</signed></closer>
+</body>
+</floatingText> -->
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0689.02.pdf"><title>Congressional Record</title> 27, 2939</ref> (1895).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1895.	CONGRESSIONAL RECORD-HOUSE.	2939 </fw>
+<fw> 1895.	CONGRESSIONAL RECORD-HOUSE.	2939 </fw>
+<p>For this day:</p>
+<p>Mr. GEARY with Mr. BINGHAM.</p>
+<p>Mr. BROOKSHIRE with Mr. HOUK.</p>
+<p>Mr. GOODNIGHT with Mr. AITKEN.</p>
+<p>Mr. ROBERTSON of Louisiana with Mr. RANDALL;</p>
+<p>Mr. COOMBS with Mr. BOUTELLE.</p>
+Mr. ENLOE with Mr. JOHNSON of Indiana.
+<p>On this vote:</p>
+<p>Mr. PASCHAL with Mr. COFFIN of Maryland.</p>
+<p>Mr. CRAIN with Mr. QUIGG.</p>
+<p>The SPEAKER. Upon this question the yeas are 115 and the nays are 150. The nays have it, and the House refuses to recede from its disagreement. Without objection, an order will be made further insisting upon the disagreement and asking for a conference with the Senate on the disagreeing votes of the two Houses; and the Chair will appoint as conferees on the part of the House Mr. MCCREARY of Kentucky, Mr. HooKER of Mississippi, and Mr. HITT.</p>
+<head>EULOGIES UPON THE LATE REPRESENTATIVE SHAW, OF WISCONSIN. </head>
+<p>The SPEAKER laid before the House the following resolution:</p>
+<p><hi rend="italic">Resolved</hi> by the Senate (the House of Representatives concurring), That the eulogies delivered in Congress on the Hon. George B. Shaw, late a Representative from the State of Wisconsin, be printed as required by law.</p>
+<p>On motion of Mr. RICHARDSON of Tennessee, the Senate resolution was concurred in.</p>
+<head>LEAVE OF ABSENCE.</head>
+<p>By unanimous consent, leave of absence was granted as follows:</p>
+<p> To Mr. COBB of Alabama, indefinitely, on account of urgent business.</p>
+<p>To Mr. MONEY, for this day, on account of sickness,</p>
+<p>To Mr. LACEY, indefinitely, on account of sickness in his family. </p>
+<head>JOINT COMMISSION OF CONGRESS.</head>\
+<p>Mr. DOCKERY, chairman of the Joint Commission of Congress to Inquire into the Status of Laws Organising the Executive Departments, asked permission in behalf of the commission to file, as of date March 3, 1895, within one week after the final adjournment of this Congress, a final report of the Joint Commission, giving a statement of its expenditures, and a general review of the work it has accomplished, which report when filed shall be printed.</p>
+<p>There was no objection, and it was so ordered.</p>
+
+<head>DUPLICATES OF BILLS.</head>
+<p>The SPEAKER also laid before the House the following resolution; which was adopted:
+Resolved, That the Senate be requested to furnish the House a duplicate copy of the amendments of the Senate to House bill MI6, entitled "An act for
+the appointment of a sealer and assistant sealer of weights and measures in the District of Columbia and for other purposes."</p>
+<p><hi rend="italic">Ordered,</hi> That the Clerk furnish the Senate a duplicate engrossed copy of said bill.</p>
+<p>Also the following resolution; which was adopted:</p>
+<p>Resolved, That the Senate be requested to furnish the House a duplicate of Senate bill No. 1252, entitled "A bill to amend an act entitled an act to provide for the time and places to hold trial terms of the United States courts in the State of Washington.</p>
+
+<head>ARKANSAS NORTHWESTERN RAILWAY COMPANY.</head>
+
+
+<p>The SPEAKER also laid before the House the following message from the President of the United States; which was read, and referred to the Committee on Indian Affairs, and ordered to be printed:</p>
+<quote>
+<opener>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I herewith return without approval House bill No. 8681, entitled '"An act authorizing the Arkansas Northwestern Railway Company to construct and operate a railway through the Indian Territory, and for other purposes."</p>
+<p>The contemplated route of this railway, so far as it is disclosed in the bill, would run from a point in the southwestern corner of the State of Missouri, across the northeastern corner of the Indian Territory, to a point in the southeastern part of the State of Kansas. This route necessarily runs through the lands of the Cherokee Indians, or through the small reservations of the Quapaws, the Peorias, the Ottawas, the Wyandottes, and the Senecas.
+There is no provision in the bill requiring the ,consent of the Indians whose lands are to be thus traversed.</p>
+<p>There is no provision requiring the entire line to be located and approved by the Secretary of the Interior before the work of building is commenced. The bill provides for compensation to individual occupants or allottees by a process of appraisal by referees, with the right of appeal to the district court held at Fort Smith, in the State of Arkansas.</p>
+<p>In the case of allotted land or land held in individual occupancy by the Indians great care should be exercised in interfering with their holdings. Their land is given them for cultivation and with a view of making them self-supporting and industrious citizens. If their land is invaded and cut up by railroads the purpose of allotment is in danger of being defeated. Money compensation is of but little use to them, and no amount can compensate for the disturbance in the cultivation of their lands and their consequent discontent and discouragement.</p>
+<p>These considerations, it seems to me, emphasize the necessity of the exact location of the entire line of the contemplated railroad and such control over it by the Secretary of the Interior as will enable him to avoid as much as possible interference with individual Indian occupants and other difficulties.</p>
+<p>This supervision and regulation of the line can be done with much more safety and effectiveness in considering the entire line than it can be done in sections of 25 miles each, as is provided in the bill.</p>
+<p>The United States circuit and district courts for the districts of Kansas and the district of Arkansas, and such other courts as may be authorized by Congress, are given concurrent jurisdiction of all controversies arising between the railway company and the nations and tribes of Indians through whose territory the railway shall be constructed, or between said company and the members of said nations or tribes, without reference to the amount in controversy; and the civil jurisdiction of said courts is extended within the limits of said Indian Territory without distinction as to the citizenship of par-ties so far as may be necessary to carry out the provisions of the act.</p>
+<p>The requirement that an Indian shall be obliged to seek a distant court for the adjudication of his rights in his controversies, great and small, with this railway company would result in many cases to a denial of justice.</p>
+<p>I am convinced of the growing necessity, in this period of change in our relations with the Indians, of caution and certainty in the grants given to rail-roads to pass through Indian lands and of the exercise of care in allowing interference with their occupation. </p>
+<signed>GROVER CLEVELAND. </signed>
+<dateline>EXECUTIVE MANSION, February 28, 1895.</dateline> </quote>
+
+<head>OKLAHOMA CENTRAL RAILROAD.</head>
+<p>The SPEAKER also laid before the House the following message from the President of the United States; which was read, referred to the Committee on Indian Affairs, and ordered to be printed:</p>
+<quote>
+<opener>
+<hi rend="italic"><salute>To the House of Representatives:</salute></hi>
+</opener>
+<p>I herewith return without approval House bill No. 5624, entitled "An act to authorize the Oklahoma Central Railroad to construct and operate a rail-way through the Indian and Oklahoma Territories, and for other purposes."</p>
+<p>The railroad proposed to be built under authority of this bill commences at a point in the Creek Nation called Sapulpa, and runs through the Indian Territory to Oklahoma City, in Oklahoma, and thence through the Kiowa and Comanche Reservation to a point at or near the Red River, on the west line of said reservation.</p>
+<p>There is no provision in this bill requiring the consent of the Indians through whose lands it is proposed to build the road.</p>
+<p>The character and situation of these Indians is such as to make this consent important.
+The first section gives the railroad company the right to build not only its line of road, but "each tracks, turn-outs, branches, sidings, and extensions as said company may deem it to their interest to construct."</p>
+<p>If under an apparent grant to build a railroad, the route of which is in a general way defined, this company is to be allowed to build such branches and ,extensions as it may deem it to its interest to construct, the grant, I am sure, is more comprehensive than was intended by the Congress.</p>
+<p>It seems to me that the entire line of the proposed railroad should be precisely located and subjected to the approval of the Secretary of the Interior before, the work of construction is entered upon. This bill provides that it shall be approved in sections of 25 miles before construction on such sections shall be commenced.</p>
+<p>Our relations to the Indians on reservations and their welfare and quiet are better preserved and protected when the entire line of road can be settled upon atone time and all uncertainty and doubt on the subject removed. The object sought by submitting the line to the supervision and determination of the Secretary of the Interior can be better and more intelligently accomplished if it is dealt with in its entirety instead of in sections.</p>
+
+<closer><signed>GROVER CLEVELAND. </signed>
+<dateline>EXECUTIVE MANSION, February 28, 1895.</dateline></closer>
+</quote>
+<head>
+ORDER OF BUSINESS.</head>
+<p>Mr. MARTIN of Indiana. Mr. Speaker, I desire to call up a bill and veto message that are on the Speaker's table.</p>
+<p>Mr. BROWN. Mr. Speaker, I desire to call up the contested-election case of Williams vs. Settle.</p>
+<p>The SPEAKER. The gentleman from Indiana [Mr. MARTIN]
+calls up a veto message, which is a matter of the highest privilege.</p>
+<p>Mr. BROWN. Is it of higher privilege than a contested-election case?</p>
+<p>The SPEAKER. These matters seem to be of equal dignity,
+but the Chair has recognized the gentleman from Indiana -[Mr. MARTIN].</p>
+<p>Mr. BROWN. Then I give notice that I shall insist upon recognition after that is disposed of.</p>
+<p>Mr. KIEFER. Mr. Speaker, I desire to present a conference report.</p>
+<p>The SPEAKER. The gentleman from Indiana [Mr. MARTIN] has called up a veto message.</p>
+<p>Mr. HEARD. Mr. Speaker, I rise to a parliamentary inquiry. I desire to ask whether the business which the gentleman from
+Indiana [Mr. MARTIN] has called up for consideration is of such a character as to displace the business of the Committee on the District of Columbia, for which this day was specially assigned?</p>
+<p>The SPEAKER. The matter which the gentleman from Indiana [Mr. MARTIN] has called up is a veto message, which is a matter
+of the highest privilege. The gentleman from Indiana [Mr. MARTIN] moves, as the Chair understands, that this bill pass, the
+objections of the President to the contrary notwithstanding. The Clerk will report the bill.</p>
+<note>The Clerk read as follows:</note>
+<quote>
+<p>A bill (H. R. 4858) granting a pension to Hiram R. Rhea and repealing an act
+approved March 3,1871.</p>
+<p>Be it enacted, etc., That the Secretary of the Interior be, and he is hereby, authorized and directed to lace on the pension roll, under certificate numbered 123580, the name of Hiram R. Rhea, as of Company G, Third North Carolina Mounted Infantry, at a rate proportionate to the degree of disability from such gunshot wounds as may be shown to the satisfaction of the said Secretary to have been received at the hands of Confederate soldiers or sympathizers while said Rhea was attempting to cooperate with the Union forces, and provided it be shown by the evidence that he was a member of said organization.</p>
+<p>Sec. 2. That the act entitled "An act granting a pension to Hiram R. Rhea," approved March 3, 1871, is hereby repealed.</p> </quote>
+<p>The SPEAKER. The Clerk will now read the message of the President.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0972">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">972	H.R. 32531 (Sixty-first Congress, Third Session &#8212; Taft)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0972</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Taft</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-first Congress, Third Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Choctaw</term>
+<term>Chickasaw</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>972	H.R. 32531 (Sixty-first Congress, Third Session &#8212; Taft)</head>
+
+<p>Authorizing the Secretary of the Interior to permit the Missouri, Kansas &amp; Texas Coal Company and the Eastern Coal &amp; Mining Company to exchange certain lands embraced within their existing coal leases in the Choctaw and Chickasaw Nation for other lands within said nation.</p>
+
+<p>Pocket veto occurred after the 3rd session of the 61st Congress had adjourned sine die on March 3, 1911.  The bill was presented to the President on March 2, 1911 (March 2, 1911, H. Jour., p. 425; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 41).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 207.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0972.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1911).  61st Congress, 3rd session, p. 425 (<title>Serial Set</title> 5839).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES
+OF THE UNITED STATES</head>
+<head>SIXTY-FIRST CONGRESS
+THIRD SESSION</head>
+<head type="sub">BEGUN AND HELD AT THE CITY OF WASHINGTON
+DECEMBER 5, 1910, IN THE ONE HUNDRED AND
+THIRTY-FOURTH YEAR OF THE INDEPENDENCE
+OF THE UNITED STATES</head>
+<head type="sub">WASHINGTON 1911</head>
+<fw> 1911.	HOUSE OF REPRESENTATIVES.	425 </fw>
+<p>H. R. 32531. An act authorizing the Secretary of the Interior to permit the Missouri, Kansas & Texas Coal Co. and the Eastern Coal & Mining Co. to exchange certain lands embraced within their existing coal leases within the Choctaw and Chickasaw Nation for other lands within said nation;</p>
+<p>H. R. 32170. An act for the protection of game in the Territory of Alaska;</p>
+<p>H. R.3082. An act for the relief of David F. Wallace; </p>
+<p>H.R.11421. An act for the relief of R.J. Warren; </p>
+<p>H.R.25925. An act authorizing the Postmaster General to
+advertise for the construction of pneumatic tubes in the city of Cincinnati, State of Ohio;</p>
+<p>H.R.24885. An act to amend section 3536 of the Revised Statutes of the United States, relating to the weighing of silver coins;</p>
+<p>H. R.25192. An act to amend section 11, act of May 28, 1896;</p>
+<p>H. R. 32264. An act for the relief of Frances Coburn, Charles Coburn, and the heirs of Mary Morrisette, deceased;</p>
+<p>H.R. 31652. An act to authorize the Central Vermont Rail-way Co. to construct a bridge across the arm of Lake Champlain between the towns of Alburg and Swanton, Vt.;</p>
+<p>H. R. 15566. An act for the relief of II. M. Dickson. William T. Mason, the Dickson-Mason Lumber Co., and D. L. Boyd;</p>
+<p>H. R. 32842. An act to authorize the Controller Railway & Navigation Co. to construct two bridges across the Bering River, in the District of Alaska, and for other purposes;</p>
+<p>H. R. 12814. An act for the relief of John J. Adams;</p>
+<p>H.R.32047. An act for the relief of Eli Helton;</p>
+<p>H. R. 31728. An act to authorize the Manhattan City & Interurban Railway Co. to construct and operate an electric railway line on the Fort Riley Military Reservation, and for other purposes:</p>
+<p>H. R. 27298. An act relating to homestead entries in the former Siletz Indian Reservation, in the State of Oregon;</p>
+<p>H. R. 30281. An act to provide for the entry under bond of exhibits of arts, sciences, and industries;</p>
+<p>H. R. 32435. An act granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R. 32865. An act making appropriations for fortifications and other works of defense, for the armament thereof for the procurement of heavy ordnance for trial and service, and for other purposes;</p>
+<p>H. R. 32675. An act granting pensions and increase of pensions to certain soldiers and sailors of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to widows and dependent relatives of such soldiers and sailors;</p>
+<p>H.R.8185. An act for the relief of Valentine Fraker;</p>
+<p>H. R. 21225. An act for the relief of certain persons having supplied labor and materials for the prosecution of the work of making the main canal of the Belle Fourche irrigation project;</p>
+<p>H. R. 19685. An act to compensate William P. Williams for losses sustained by him while assistant treasurer of the United States at Chicago, Ill.;</p>
+<p>H.R.22270. An act for the relief of Amos M. Barbin;</p>
+<p>H. R. 26121. An act for the relief of Edward F. Kearns:</p>
+<p>H. R. 19010. An act authorizing proper accounting officers of the Treasury Department to reopen pay accounts of certain officers of the Navy;</p>
+<p>H. R. 9137. An act to authorize the expenditure of the sum of $25,000 as a part contribution toward the erection of a monument at Germantown, Pa., in commemoration of the founding of the first German settlement in America;</p>
+<p>H. J. Res. 286. Joint resolution authorizing the printing of 100,000 copies of the special report on the Diseases of the Horse; and</p>
+<p>H. J. Res. 287. Joint resolution authorizing the printing of 100,000 copies of the special report on the Diseases of Cattle.</p>
+<p>The Speaker announced his signature to an enrolled joint resolution of the Senate of the following title:</p>
+<p>S. J. Res. 147. Joint resolution providing for a commission to investigate cost of transporting and handling second-class mail.</p>
+<p>Bills of the House with amendments of the Senate thereto and a joint resolution of the Senate of the following titles were taken from the Speaker's table and referred as follows:</p>
+<p>H. R. 32010. A bill to create a tariff board; to the Committee on Ways and Means.</p>
+<p>H. R. 15616. A bill for the relief of Louis Durst; to the Committee on Military Affairs.</p>
+<p>H. R. 32348. A bill supplementary to and amendatory of the act entitled "An act for the division of the lands and funds of the Osage Nation of Indians in Oklahoma," approved June 28, 1906, and for other purposes, with an amendment; to the Committee on Indian Affairs.</p>
+<p>S. J. Res. 142. Joint resolution to create a joint committee to continue the consideration of the revision and codification of the laws of the United States; to the Committee on the Revision of the Laws.</p>
+<p>Mr. Wilson of Illinois, from the Committee on Enrolled Bills, reported that that committee did on this day present to the President for his approval bills of the House of the following titles</p>
+<p>H. R. 25192. An act to amend section 11, act of May 28, 1896; </p>
+<p>H. R. 31652. An net to authorize the Central Vermont Railway Co. to construct a bridge across the arm of Lake Champlain between the towns of Alburg and Swanton, Vt.;</p>
+<p>H. R. 32264. An act for the relief of Frances Coburn, Charles Coburn, and the heirs of Mary Morrisette, deceased; </p>
+<p>H.R.15566. An act for the relief of II. M. Dickson, William T. Mason, the Dickson-Mason Lumber Co., and D. L. Boyd; </p>
+<p>H.R. 24885. An act to amend section 3536 of the Revised Statutes of the United States, relating to the weighing of silver coins;</p>
+<p>H. R. 25925. An act authorizing the Postmaster General to advertise for the construction of pneumatic tubes in the city of Cincinnati, State of Ohio;</p>
+<p>H. R.11421. An net for the relief of R. J. Warren;</p>
+<p>H. R.10605. An act for the relief of Aaron Wakefield;</p>
+<p>H. R. 31724. An act granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R.32822. An act granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R. 32078. An act granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R. 32675. An act granting pensions and increase of pensions to certain soldiers and sailors of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. J. Res. 287. Joint resolution authorizing the printing of 100.000 copies of the special report on the Diseases of Cattle; </p>
+<p>H. J. Res. 286. Joint resolution authorizing the printing of 100,000 copies of the special report on the Diseases of the Horse; </p>
+<p>H. R. 3982. An act for the relief of David F. Wallace; H. R. 17493. An act for the relief of the Baltimore & Ohio Railroad Co.;</p>
+<p>H. R. 22747. An act for the relief of Edward Swainor; </p>
+<p>H.R. 24886. An act to amend sections 3548 and 3549 of the Revised Statutes of the United States, relative to the standards for coinage;</p>
+<p>H. R. 6043. An act for the relief of registers and former registers of the United States land offices;</p>
+<p>H. R. 32531. An act authorizing the Secretary of the Interior to permit the Missouri, Kansas & Texas Coal Co. and the Eastern Coal and Mining Co. to exchange certain lands embraced within their existing coal leases in the Choctaw and Chickasaw Nation for other lands within said nation;</p>
+<p>H. R. 32170. An act for the protection of game in the Territory of Alaska;</p>
+<p>H. R. 24145. An act for the establishment of marine schools, and for other purposes;</p>
+<p>H. R.7549. An act providing for the erection of a joint monu-ment to the memory of Gen. James Screven and Gen. Daniel Stewart. two distinguished officers of the American Army;</p>
+<p>H. R. 32435. An act granting pensions and increase of pensions to certain soldiers and sailors of the Civil War and certain widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R. 25081. An act for the relief of Helen S. Hogan;</p>
+<p>H. R.9624. An act for the relief of Hansen Hatfield, of McMinn County, Tenn.;</p>
+<p>H.R. 32907. An act to incorporate the National McKinley Birthplace Memorial Association;</p>
+<p>H. R. 301969. An act for the relief of William Porter White:</p>
+<p>H. R. 32213. An act to authorize the city of Portsmouth, N. H., to construct a bridge across the Piscataqua River;</p>
+<p>H. R.32128. An act granting pensions and increase of pensions to certain soldiers and sailors of the Regular Army and Navy, and certain soldiers and sailors of wars other than the Civil War, and to widows and dependent relatives of such soldiers and sailors;</p>
+<p>H. R. 26121. An act for the relief of Edward F. Kearns:</p>
+<p>H. R.19010. An act authorizing proper accounting officers of the Treasury Department to reopen pay accounts of certain officers of the Navy;</p>
+<p>H. R. 9137. An act to authorize the expenditure of the sum of $25,000 as a part contribution toward the erection of a monu&#8212;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0972.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 41 (<title>Serial Set </title>9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d Session	HOUSE OF REPRESENTATIVES JDOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<head>MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule />
+<head>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<opener>
+DEPARTMENT OF JUSTICE, <dateline>Washington, October 10, 1928.</dateline>
+</opener>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p> <pb n="41" />
+<fw> REPORT ON POCKET VETO	41 </fw>
+<p>H. R. 32531 was received March 4. On the bill itself is penciled "Pocket."</p>
+<p>The 62d Congress, second session, adjourned August 26, 1912. (<title>Cong. Rec.</title>, vol. 48, pt. 11, pp. 11881, 11903) President Taft retained unsigned S. 2534, on which no date was stamped; and H. R. 21708, which was stamped as received on August 20, and to which is attached a memorandum reading:</p>
+<quote><p>Put on cabinet table tomorrow </p>
+<p>WHT</p>
+</quote>
+<p>The 62d Congress, third session, adjourned March 4, 1913, the Senate legislative day of March 3 and the House legislative day of March 1. (<title>Cong. Rec.</title>, vol. 49, pt. 5, pp. 4842, 4856) President Taft retained unsigned two House bills.</p>
+<p>H. R. 18213  &#8212;received March 1, 1913. On a memorandum which
+is attached to the bill is the word "Pocket."</p>
+<p>H. R. 23673&#8212;undated. Attached to the bill is the following type-written memorandum:</p>
+<quote>
+<p>Memorandum to accompany H. R. 23673. An Act to promote the welfare of American seamen in the merchant marine of the United States; to abolish arrest and imprisonment as a penalty for desertion and to secure the abrogation of treaty provisions in relation thereto; and to promote safety at. sea.</p>
+<p>This bill is so important and conflicts in its operation with the treaty obligations of the United States and in its possible friction with the commerce of foreign countries that in the short time that I have had since it has been presented to me, I do not feel justified in assuming the responsibility of allowing it to become a law.</p>
+<closer><signed>Wm H TAFT </signed>
+<dateline>THE WHITE HOUSE
+March 4, 1913.</dateline></closer>
+</quote>
+<p>At the end of the 64th Congress, first session, which adjourned September 8, 1916 (<title>Cong. Rec.</title>, vol. 53, pt. 13, pp. 14154, 14173) President Wilson retained S. 708 without signing it. It is now at the Executive Offices. It bears a stamp-mark showing that it was received September 5, 1916.</p>
+<p>At the end of the 64th Congress, second session, which adjourned March 4, 1917, the Senate legislative day, of March 2 and the House legislative day of March 3, (<title>Cong. Rec.</title>., vol. 54, pt. 5, pp. 5020, 5033) President Wilson retained unsigned H. R. 20414. On the margin where the date of White House receipt is usually stamped are the figures 2/28/17. A slip of paper attached to the bill bears this penciled notation:</p>
+<quote>
+<opener>
+<salute>DEAR FORSTER.</salute>
+</opener>
+<p>I let this bill die. Please do what is usual with it.</p>
+<closer><signed>W. w.</signed></closer></quote>
+<p>At the end of the 65th Congress, first session, which adjourned October 6, 1917 (<title>Cong. Rec.</title>, vol. 55, pt. 8, pp. 7897, 7918) President Wilson retained unsigned H. J. Res. 116. No date of receipt is marked on it, and there are no marks on the resolution or on any attached memorandum.</p>
+<p>At the end of the 66th Congress, second session, which adjourned June 5, 1920 (<title>Cong. Rec.</title>, vol. 59, pt. 8, pp. 8644, 8679) President Wilson retained unsigned H. J. R. 373. It is stamped as received June 5. It is now at the Executive Offices. Memoranda at those offices say that the President also retained S. J. Res, 152 and H. R.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

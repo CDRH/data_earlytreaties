@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0964">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">964	H.R. 18376 (Sixty-first Congress, Second Session &#8212; Taft)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0964</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Taft</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixty-first Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>964	H.R. 18376 (Sixty-first Congress, Second Session &#8212; Taft)</head>
+
+<p>Directing that patents issue to certain settlers for lands within the former Siletz Indian Reservation in Oregon.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 61st Congress had adjourned sine die on June 25, 1910.  The bill was presented to the President on June 23, 1910 (June 23, 1910, H. Jour., p. 839; see also H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 40).</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 206.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0964.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1910).  61st Congress, 2nd session, p. 839 (<title>Serial Set</title> 5581).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES
+OF THE UNITED STATES</head>
+<head>SIXTY-FIRST CONGRESS
+SECOND SESSION</head>
+<head type="sub">BEGUN AND HELD AT THE CITY OF WASHINGTON
+DECEMBER 6, 1909, IN THE ONE HUNDRED AND
+THIRTY-THIRD YEAR OF THE INDEPENDENCE
+OF THE UNITED STATES</head>
+<head type="sub">WASHINGTON
+GOVERNMENT PRINTING OFFICE
+1910</head>
+<fw> 1910.	HOUSE OF REPRESENTATIVES.	839 </fw>
+<p>5.7676. An act for the relief of the Mission Farm Company, Peter Volondra, and others&#8212;to the Committee on Indian Affairs.</p>
+<p>S.6316. An act to relieve the Copper River and Northwestern Railway Company, in Alaska, from taxation&#8212;to the Committee on the Territories.</p>
+<p>S.3828. An act for the relief of the registers and receivers of the United States land office in the State of Kansas&#8212;to the Committee on Claims.</p>
+<p>S.4967. An act to authorize the town of Chevy Chase, Md., to connect its water system with the water system of the District of Columbia&#8212;to the Committee on the District of Columbia.</p>
+<p>S.4623. An act prohibiting corporations transacting business in the District of Columbia under a name similar to another corporation doing business therein&#8212;to the Committee on the District of Columbia.</p>
+<p>5.8135. An act providing for the approval by Congress of contracts affecting the money and property of any tribe of Indians&#8212;to the Committee on Indian Affairs.</p>
+<p>S.1941. An act to increase the efficiency of the Pay Department, United States Army&#8212;to the Committee on Military Affairs.</p>
+<p>S.4517. An act referring the claim of the State of Rhode Island to the Court of Claims for adjudication&#8212;to the Committee on War Claims.</p>
+<p>S.5632. An act to amend section 4889 of the Revised Statutes&#8212;to the Committee on Patents</p>.
+<p>S.6470. An act to amend an act approved February 6, 1909, entitled "An act relating to affairs in the Territories"&#8212;to the Committee on the Territories.</p>
+<p>S. 7111. An act to amend sections 680 and 686 of the Code of Law for the District of Columbia-to the Committee on the District of Columbia.</p>
+<p>S.7247. An act to amend an act entitled "An act to provide for the better registration of births in the District of Columbia, and for other purposes," approved March 1, 1907&#8212;to the Committee on the District of Columbia.</p>
+<p>S. 7892. An act to refund certain tonnage taxes and light dues&#8212;to the Committee on Claims.
+Mr. Wilson of Illinois, from the Committee on Enrolled Bills reported that that committee had examined and found truly enrolled bills of the House of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>H. R. 20872. An act for the relief of William J. McGhee;</p>
+<p>H. R. 732. An act for the relief of the Merchants' Exchange National Bank, of the city of New York;</p>
+<p>H. R. 11374. An act to reimburse Dr. M. K. Knauff;</p>
+<p>H. R. 24833. An act to provide for the care of insane persons in the Territory of Alaska;</p>
+<p>H. R. 550. An act to pay Edward F. Luckenbach for damages to his barge C. F. Sargent by collision with the U. S. dredge Manhattan;</p>
+<p>H. R. 5449. An act for the relief of C. W. Reid and Sam Daube;</p>
+<p>H. R. 3346. An act for the relief of Frank E. Lyman, jr.; </p>
+<p>H. R. 20644. An act for the relief of Frederick B. Neilson;</p>
+<p>H. R. 19662. An act for the relief of the heirs of the estate
+of Orson A. Dimmick;</p>
+<p>H. R. 25414. An act for the relief of John Ridenbaugh, alias Henry Ridenbaugh;</p>
+<p>H. R. 18376. An act directing that patents issue to certain settlers for lands within the former Siletz Indian Reservation, in Oregon;</p>
+<p>H. R. 20553. An act for the relief of Sanford A. Pinyan;</p> 
+<p>H. R. 22592. An act for the relief of James B. Boyd; </p>
+<p>H. R. 6663. An act for the relief of Sarah B. Schaeffer;</p>
+<p>H. R. 13556. An act for the relief of Frank Wyman, ex-postmaster at St. Louis, Mo.;</p>
+<p>H. R. 26458. An act to authorize the construction and maintenance of a dike on Olalla Slough, Lincoln County, Oreg.;</p>
+<p>H. R. 1386. An act for the relief of James C. Johnson;</p>
+<p>H. R. 13517. An act authorizing a credit in certain accounts of the Treasurer of the United States;</p>
+<p>H. R. 18761. An act granting relief to the estate of Patrick H. Handley;</p>
+<p>H. R. 19857. An act for the relief of Bartholomew Cronin;</p>
+<p>H. R. 26987. An act to increase the limit of cost of certain public buildings; to authorize the enlargement, extension, re-modeling, or improvement of certain public buildings; to authorize the erection and completion of public buildings; to authorize the purchase of sites for public buildings, and for other purposes;</p>
+<p>H. J. Res. 223. Joint resolution to authorize the appointment of a commission in relation to universal peace;</p>
+<p>H. R. 15103. An act to reimburse G. H. Kitson for money advanced to the Menominee tribe of Indians of Wisconsin; </p>
+<p>H.B.10634. An act for the relief of John Martin;</p>
+<p>H. R. 17373. An act for the relief of the estate of John V. Schermer;</p>
+<p>H. R. 22253. An act for the relief of Henry L. Woods;</p>
+<p>H. R. 26233. An act to amend an act entitled An act to expedite the hearing and determination of suits in equity pending or hereafter brought under the act of July 2, 1890, entitled 'An act to protect trade and commerce against unlawful restraints and monopolies,' 'An act to regulate commerce,' approved February 4, 1887, or any other acts having a like purpose that may be hereafter enacted," approved February 11, 1903;</p>
+<p>H. J. Res. 116. Joint resolution to amend and correct chapter 271 of volume 35, United States Statutes at Large;</p>
+<p>H. R. 25715. An act authorizing the Kansas City, Mexico and Orient Railway Company, of Texas, and the Kansas City, Mexico and Orient Railway Company to build two bridges across the Rio Grande;</p>
+<p>H. R. 24012. An act granting certain public lands to the State of Colorado for the use of the state agricultural college, for agriculture, forestry, and other purposes;</p>
+<p>H. R. 25117. An act for the relief of E. P. Adams;</p>
+<p>H. R. 9431. An act for the relief of the Barse Live Stock Commission Company;</p>
+<p>H. R. 4345. An act to reimburse the city of Chicago for damage done to the Chicago Avenue Bridge by the U. S. light-house tender <hi rend="italic">Dahlia;</hi></p>
+<p>A further message from the Senate, by Mr. Curtis, one of its secretaries, announced that the Senate further insists upon its amendments and agrees to a further conference with the House on the disagreeing votes of the two Houses on the bill (H. R. 26730) making appropriations to supply deficiencies in appropriations for the fiscal year 1910, and for other purposes; and that Mr. Hale, Mr. Gallinger, and Mr. Clay have been appointed managers on the part of the Senate at said conference.</p>
+<p>The Speaker announced his signature to an enrolled bill and a joint resolution of the Senate of the following titles: S. 870. An act to parole United States prisoners, and for other purposes; and</p>
+<p>S. J. Res. 119. Joint resolution authorizing the President of the United States to invite the International Congress of Refrigeration to hold its third meeting in the United States of America.</p>
+<p>Mr. Wilson of Illinois, from the Committee on Enrolled Bills, reported that that committee did on this day present to the President for his approval bills of the House of the following <p>titles :</p>
+H. R. 23217. An act repealing part of the act of March 5, 1910, relating to an increase of pension to Jacob Whitlock; </p>
+<p>H. R. 22231. An act granting to the city of Hot Springs, Ark., land for street purposes</p>;
+<p>H.R.4093. An act for the relief of the owners of the American schooner <hi rend="italic">Wilson and Hunting</hi> and cargo;</p>
+<p>H. R. 20554. An act authorizing the Secretary of the Interior to issue patent to Fred G. Smith and Lula Smith, minor heirs of George Smith, deceased, for the title in fee to the east half of the northwest quarter and the east half of the southwest quarter of section 7, township 24 north, range 13 west, sixth principal meridian, in the State of Nebraska, entered as a home-stead by said deceased;</p>
+<p>H. R. 19499. An act for the relief of George Drake and Lillie Nelson;</p>
+<p>H. R. 2272. An act for the relief of John A. Brown; </p>
+<p>H.R.12434. An act to make uniform the salaries of United States district attorneys and marshals in Texas;</p>
+<p>H. R. 20148. An act to provide for an additional judge of the district court for the eastern district of New York;</p>
+<p>H. J. Res. 164. Joint resolution construing section 6 of the act of May 29, 1908, entitled "An act authorizing a resurvey of certain townships in the State of Wyoming, and for other purposes:"</p>
+<p>H. R. 21090. An act authorizing the President of the United States to appoint Commander Kenneth McAlpine a commander in the navy on the active list;</p>
+<p>H. R. 13556. An act for the relief of Frank Wyman, ex-postmaster at St. Louis, Mo.;</p>
+<p>H. R. 6663. An act for the relief of Sarah B. Schaeffer; </p>
+<p>H.R. 22592. An act for the relief of James B. Boyd;</p>
+<p>H. R. 19662. An act for the relief of the heirs of the estate of Orson A. Dimmick;</p>
+<p>H. B. 25414. An act for the relief of John Ridenbaugh, alias Henry Ridenbaugh;</p>
+<p>H.R. 18376. An act directing that patents issue to certain settlers for lands within the former Siletz Indian Reservation in Oregon;</p>
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0964.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 40 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d SessionHOUSE OF REPRESENTATIVES   DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head type="sub">DECEMBER 22, 1928.-Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="40" />
+<fw> REPORT ON POCKET VETO </fw>
+<p>are now at the Executive Offices. Very few of them bear marks showing when they were received.
+S. 2544&#8212;undated. On bill is written:</p>
+<p>All wrong</p>
+<p>R</p>
+<p>S. 3164&#8212;undated. On bill is written:</p>
+<p>Bad</p>
+<p>R</p>
+
+<p>S. 3526, S. 6852, S. 8588 and S. 8839 are undated and on each is written:</p>
+Bad
+<p>S. 4426 and S. 8429 are undated and on each bill is a large question mark.</p>
+<p>S. 7859&#8212;undated. On bill is written:
+Bad?</p>
+<p>R</p>
+<p>S. 9402 and H. R. 1072 are undated. There are no marks on them. H. R. 4521 was stamped as received Mar. 2. On it some comment was written in ink and afterwards erased.</p>
+<p>H. R. 6183&#8212;undated. On it is written:</p>
+<p>All wrong</p>
+<p>T. R.</p>
+<p>H. R. 16696&#8212;undated. On it is written: </p>
+<p>Know nothing about it.</p>
+<p>H. R. 12499 was received Feb. 27, 1909. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket veto	</p>
+<p>W. L. Jr.</p>
+<p>H. R. 13712 was received Feb. 22. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket veto</p>
+<p>W. L. Jr.</p>
+<p>H. R. 13928 was received March 2. Attached to it is a slip of paper on which is written in same handwriting as on slips of paper attached to H. R. 12499 and H. R. 13712</p>:
+<p>Pocket veto.</p>
+<p>The 61st Congress, second session, adjourned June 25, 1910. (<title>Cong. Rec.</title>, vol. 45, pt. 8, pp. 9080, 9119) President Taft retained unsigned three House bills which are now at the Executive Offices. H. R. 3346, A. R. 18376 and H. R. 20644 are all stamped as received at the White House on June 24, 1910. To each of the last two bills a letter is attached and on each letter is written in pencil the word "Pocket."</p>
+<p>The 61st Congress, third session, adjourned March 4, 1911, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 46, pt. 5, pp. 4323, 4339) President Taft retained unsigned two House bills, which are now at the Executive Offices.
+H. R. 30273 was received March 3.</p>
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

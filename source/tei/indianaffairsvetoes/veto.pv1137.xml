@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1137">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1137	S. 326	(Seventy-third Congress, Second Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1137</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-third Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Chippewa</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1137	S. 326	(Seventy-third Congress, Second Session &#8212; F. Roosevelt)</head>
+
+<p>Referring the claims of the Turtle Mountain Band of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+
+<p>Vetoed May 10, 1934.  The veto message was laid before the Senate, referred to the Committee on Indian Affairs, and printed as S. Doc. No. 179 (78 <title>Cong. Rec.</title> 8587).</p>
+
+<p>Veto unchallenged.</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title><title>Presidential Vetoes, 1789-1988</title>.</title>  (1992). Washington, DC: Government Printing Office, 247.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1137.01.pdf">Turtle Mountain Band or bands of Chippewa Indians of North Dakota &#8212; veto message.  Message from the President of the United States, returning without approval the Bill S. 326, entitled "An Act Referring the Claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for Adjudication and Settlement.” </ref> (1934).  Senate.  73rd Congress, 2nd session.  Senate Document No. 179 (<title>Serial Set</title> 9801).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 73D CONGRESS 	SENATE 2d Session
+1 DOCUMENT No. 179 </fw>
+<head>TURTLE MOUNTAIN BAND OR BANDS OF CHIPPEWA
+INDIANS OF NORTH DAKOTA-VETO MESSAGE</head>
+<head>
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+RETURNING
+WITHOUT APPROVAL THE BILL S. 326, ENTITLED "AN ACT REFERRING THE CLAIMS OF THE TURTLE MOUNTAIN BAND OR BANDS OF CHIPPEWA INDIANS OF NORTH DAKOTA TO THE COURT OF CLAIMS FOR ADJUDICATION AND SETTLEMENT"</head>
+<milestone unit="rule" />
+<p>MAY 10 (calendar day, MAY 11), 1934.&#8212;Read; referred to the Committee on
+Indian Affairs, and ordered to be printed</p>
+<milestone unit="rule" />
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 326, referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+<p>The principal claims of these Indians were settled by a treaty ratified by the Indians and by the act of Congress of April 21, 1904, whereby $1,000,000 was appropriated for the benefit of the Indians, and under which they executed a release of all claims whatsoever held by them against the United States.</p>
+<p>If such releases and settlements are ignored or deprived of their legal effect in this instance, an undesirable precedent would be created for applications for similar relief for other Indian tribes. This would require the Court of Claims and Supreme Court to pass upon questions of governmental policy in dealing with the Indians, and upon the propriety or impropriety of the Government's action in specific cases. These are questions of a political nature which, heretofore, Congress has consistently refused to remit to the courts for review. Further, it seems to me very questionable whether the courts can be asked or required to adjudicate the rights of the Indians and the United States and, at the same time, to exercise the powers of an arbitrator.</p>
+<p>Section 4 of the bill opens the doors of the court to the institution of suits for individual losses or claims, something which the Congress<pb n="2" />
+<fw> 2 TURTLE MOUNTAIN BAND OR BANDS OF CHIPPEWA INDIANS </fw>
+has heretofore sedulously refused to do. This section also empowers the court to entertain questions with reference to agreements and treaties which the courts have uniformly held are strictly political and not within the province of a court. Recognition of Indian title is a purely political matter and can be accorded solely by the sovereign. Section 4 of this act might fasten upon the United States liability for the payment of the value of land which they had never recognized as belonging to these particular Indians solely because some official of the United States, minor or otherwise, had "recognized" title and occupancy by long possession as being in these particular Indians.</p>
+<p>For the foregoing reasons, I consider the bill contrary to the best interests of the United States.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> 
+<dateline>THE WHITE HOUSE, May 10, 1934.</dateline></closer>
+
+<milestone unit="rule" />
+<p>S. 326</p>
+
+<p>SEVENTY-THIRD CONGRESS OF THE UNITED STATES OF AMERICA; AT THE SECOND SESSION, BEGUN AND HELD AT THE CITY OF WASHINGTON ON WEDNESDAY, THE THIRD DAY OF JANUARY, ONE THOUSAND NINE HUNDRED AND THIRTY-FOUR.</p>
+<hi rend="italic"><p>AN ACT Referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North
+Dakota to the Court of Claims for adjudication and settlement</p></hi>
+<p>Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That jurisdiction be, and hereby is, conferred upon the Court of Claims, with right of appeal to the Supreme Court of the United States by either party, notwithstanding the lapse of time, statutes of limitations, waiver, release, settlement heretofore made or directed by any Act of Congress, to hear, adjudicate, and render judgment according to right and justice and as upon a full and fair arbitration, on any and all claims not heretofore determined and adjudicated on their merits by the Court of Claims or the Supreme Court of the United States, arising under any treaty, ratified or unratified, Act of Congress, agreement or understanding, verbal or written, Executive order, or treaty with any other tribes or nations of Indians by the authorized agents or representatives of the United States relating to, affecting, or violating the land occupancy or other rights of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota, including the band of Chief or Thomas Little Shell, and other isolated Bands of Chippewas of North Dakota and Montana.</p>
+<p>SEC. 2. Any and all claims against the United States within the purview of this Act shall be forever barred unless suit be instituted or petition or petitions filed as herein provided in the Court of Claims within five years from the date of the approval of this Act, and such suit shall make the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota party or parties plaintiff and the United States of America party defendant. The claim or claims of the band or bands aforementioned may be presented separately or jointly by petition, subject, however, to amendment. The petition or petitions shall be verified by the respective attorney or attorneys employed to prosecute such claim or claims under contract with the Turtle Mountain Band or Bands of Chippewa Indians, approved by the Commissioner of Indian Affairs and the Secretary of the Interior, as provided by law. Official letters, papers, documents, reports and records, or affidavits on file in the Interior Department or certified copies thereof, may be used in evidence; and the Departments of the Government shall furnish to the attorney or attorneys of said Turtle Mountain Bank or Bands such treaties, agreements, papers, reports, correspondence, affidavits, or records as may be needed by the attorney or attorneys of said band or bands of Indians.</p>
+<p>SEC. 3. That if any claim or claims be submitted to said court it shall deter-mine the rights of the parties thereto, notwithstanding lapse of time, statutes of limitation, waiver, or release, and any payment which may have been made by the United States upon any claim so submitted shall not be pleaded as an estoppel , but may be pleaded as a set-off in any suit; and the United States shall be allowed credit subsequent to the date of any law, treaty or agreement under which the claims arise for any sum or sums heretofore paid or expended for the benefit of said Indians.</p>
+<fw> TURTLE MOUNTAIN BAND OR BANDS OF CHIPPEWA INDIANS 3 </fw>
+<p>SEC. 4. That if the Court of Claims shall determine that the United States, under the provisions of any agreement or understanding, verbal or written, Executive order, law, or treaty referred to in section 1 hereof, has unlawfully appropriated or disposed of any property belonging to the said Turtle Mountain Band or Bands of Chippewa Indians, or its or their members, or to which the said Indians had the right of title by occupancy; or if the said court shall determine that the United States, under the provisions of any such agreement, Executive order, law, or treaty, herein referred to, under mistake of fact or duress obtained title to or the cession of any land from the said Indians for an inadequate consideration; or if the court shall determine that the United States obtained cessions of land from said band or bands of Indians without obtaining the consent of a majority of the male adult members thereof; or if the court shall determine that the United States, to the loss of said Indians, appropriated to its own use or to the use of any other Indian tribe or band, or permitted white settlers to occupy and acquire title under the public land laws of the United States, to any lands in North Dakota, the title and occupancy of which by long possession by the said Indians had been acknowledged by other tribes and by officials of the United States; or if a portion of the land so claimed by the said band or bands was taken from them by an Executive order for the benefit of any other band or tribe of Indians, without compensation to the said Turtle Mountain Band or Bands of Chippewa Indians, the damages shall be confined to the reasonable money value thereof at the time of such appropriation: Provided, That if the Court of Claims shall determine that the United States, by reason of any delay on the part of its agents or authorized representatives, in submitting for ratification any agreement with the said Turtle Mountain Band or Bands of Chippewa Indians, for the purchase or cession of any land so occupied and possessed by them, or that the Congress of the United States, contrary to the understanding of or oral promise made to said Indians, unduly delayed the ratification of any such agreement whereby any such lands were ceded to the United States, to the detriment and loss of the said Indians, then the said court is hereby authorized to award and enter judgment, as justice and equity may demand, for damages due to such delay at 4 per centum per annum of the stipulated or agreed amount set out in any such agreement ceding such lands to the United States, and to compute such interest from the date the said agreement was signed or executed by the said Indians; and with reference to all claims which may be the subject matter of the suits herein authorized, the decree of the court shall be in full settlement of all damages, if any, committed by the Government of the United States and shall annul and cancel all claim right, and title of the said Turtle Mountain Band or Bands of Chippewa Indians in and to such money or other property.</p>
+<p>SEC. 5. Upon the final determination of such suit or suits the Court of Claims shall have jurisdiction to fix and determine a reasonable fee, not to exceed 10 per centum of the recovery in each instance, together with all necessary and proper expenses incurred in preparation and prosecution of the suit, to be paid to the respective attorneys employed by the said band or bands of Indians, and the same shall be included in the decree and shall be paid out of any sum or sums found to be due said band or bands of Indians. The court shall have jurisdiction and is hereby further authorized to determine what amount of the recovery, if any, shall be awarded to the respective bands who bring suit here-under.</p>
+<p>SEc. 6. The Court of Claims shall have full authority by proper orders and process to bring in and make parties to such suit any other tribe or band of Indians deemed by it necessary or proper to the final determination of the matters in controversy. A copy of the petition shall, in such case, be served upon the Attorney General of the United States, and he, or some attorney from the Department of Justice to be designated by him, is hereby directed to appear and defend the interests of the United States in such case.</p>
+<p>SEc. 7. The proceeds of all amounts, if any, recovered for said band or bands of Indians less fees and expenses shall be deposited in the Treasury of the United States to the credit of the Indians decreed by said court to be entitled thereto, and shall draw interest at the rate of 4 per centum per annum from the date of the judgment or decree.</p>
+<closer><signed>HENRY T. RAINEY,</signed> Speaker of the House of Representatives.
+<signed>JN0. N. GARNER,</signed>
+Vice President of the United Stales and President of the Senate.</closer>
+<p>(Endorsement on back of bill:]</p>
+<note>I certify that this act originated in the Senate.</note>
+<signed>EDW. A. HALSEY, Secretary.</signed>
+<fw> 73-2. vol. 19-40 </fw>
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV1137.02.pdf"><title>Congressional Record</title> 78, 8587</ref> (1934).</bibl>
+
+<!-- <floatingText>
+<body>
+<fw> 1934	CONGRESSIONAL RECORD SENATE	8587 </fw>
+<p>Mr. HEBERT. I desire to announce that the Senator from New Jersey [Mr. KEAN] is paired with the Senator from Louisiana [Mr. LONG]. If the Senator from New Jersey were present and permitted to vote, he would vote "yea ", and the Senator from Louisiana would vote "nay." I desire further to announce that the Senator from Indiana [Mr. Robinson] is paired with the Senator from Mississippi
+[Mr. STEPHENS]. I am not advised as to how the Senator from Indiana would vote if present.</p>
+<p>The result was announced&#8212;yeas 23, nays 55, as follows:</p>
+<head>YEAS&#8212;23</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Austin</cell>	<cell role="desc">Gibson</cell>	<cell role="desc">Hebert</cell>	<cell role="desc">Schall</cell>
+</row>
+<row>
+<cell role="desc">Barbour</cell>	<cell role="desc">Goldsborough</cell>	<cell role="desc">Keyes</cell>	<cell role="desc">Steiwer</cell>
+</row>
+<row>
+<cell role="desc">Carey</cell>	<cell role="desc">Gore</cell>	<cell role="desc">McNary</cell>	<cell role="desc">Townsend</cell>
+</row>
+<row>
+<cell role="desc">Copeland</cell>	<cell role="desc">Hale</cell>	<cell role="desc">Metcalf</cell>	<cell role="desc">Vandenberg</cell>
+</row>
+<row>
+<cell role="desc">Davis</cell>	<cell role="desc">Hastings</cell>	<cell role="desc">Patterson</cell>	<cell role="desc">Wagner</cell>
+</row>
+<row>
+<cell role="desc">Fees</cell>	<cell role="desc">Hatfield</cell>	<cell role="desc">Reynolds</cell>
+</row>
+</table>
+<head>NAYS&#8212;55</head>
+<table type="" rows="" cols="">
+<row>
+<cell role="desc">Adams</cell>	<cell role="desc">Caraway</cell>	<cell role="desc">Hayden</cell>	<cell role="desc">O'Mahoney</cell>
+</row>
+<row>
+<cell role="desc">Ashurst</cell>	<cell role="desc">Clark</cell>	<cell role="desc">Johnson</cell>	<cell role="desc">Overton</cell>
+</row>
+<row>
+<cell role="desc">Bachman</cell>	<cell role="desc">Connally</cell>	<cell role="desc">King</cell>	<cell role="desc">Pittman</cell>
+</row>
+<row>
+<cell role="desc">Bankhead</cell>	<cell role="desc">Coolidge</cell>	<cell role="desc">La Follette</cell>	<cell role="desc">Pope</cell>
+</row>
+<row>
+<cell role="desc">Barkley</cell>	<cell role="desc">Couzens</cell>	<cell role="desc">Lewis</cell>	<cell role="desc">Robinson, Ark.</cell>
+</row>
+<row>
+<cell role="desc">Black</cell>	<cell role="desc">Dill</cell>	<cell role="desc">Logan</cell>	<cell role="desc">Sheppard</cell>
+</row>
+<row>
+<cell role="desc">Bone</cell>	<cell role="desc">Duffy</cell>	<cell role="desc">Lonergan</cell>	<cell role="desc">Shipstead</cell>
+</row>
+<row>
+<cell role="desc">Borah</cell>	<cell role="desc">Erickson</cell>	<cell role="desc">McCarran</cell>	<cell role="desc">Thomas, Okla.</cell>
+</row>
+<row>
+<cell role="desc">Brown</cell>	<cell role="desc">Fletcher</cell>	<cell role="desc">McGill</cell>	<cell role="desc">Thompson</cell>
+</row>
+<row>
+<cell role="desc">Bulkley</cell>	<cell role="desc">Frazier</cell>	<cell role="desc">McKellar</cell>	<cell role="desc">Trammell</cell>
+</row>
+<row>
+<cell role="desc">Bulow</cell>	<cell role="desc">George</cell>	<cell role="desc">Murphy</cell>	<cell role="desc">Tydings</cell>
+</row>
+<row>
+<cell role="desc">Byrd</cell>	<cell role="desc">Glass</cell>	<cell role="desc">Neely</cell>	<cell role="desc">Van Nuys</cell>
+</row>
+<row>
+<cell role="desc">Byrnes</cell>	<cell role="desc">Harrison</cell>	<cell role="desc">Norris</cell>	<cell role="desc">Wheeler</cell>
+</row>
+<row>
+<cell role="desc">Capper</cell>	<cell role="desc">Hatch</cell>	<cell role="desc">Nye </cell>
+</row>
+</table>
+<head>NOT VOTING&#8212;15</head>
+<table type="" rows="" cols="">
+
+<row>
+<cell role="desc">Bailey</cell>	<cell role="desc">Kean</cell>	<cell role="desc">Robinson, Ind.</cell> <cell role="desc">Walcott</cell>
+</row>
+<row>
+<cell role="desc">Costigan</cell>	<cell role="desc">Long</cell>	<cell role="desc">Russell</cell>	<cell role="desc">Walsh</cell>
+</row>
+<row>
+<cell role="desc">Cutting</cell>	<cell role="desc">McAdoo</cell>	<cell role="desc">Smith</cell>	<cell role="desc">White</cell>
+</row>
+<row>
+<cell role="desc">Dickinson</cell>	<cell role="desc">Norbeck	</cell><cell role="desc">Stephens</cell>
+</row>
+<row>
+<cell role="desc">Dieterich</cell>	<cell role="desc">Reed</cell>	<cell role="desc">Thomas, Utah</cell>
+</row>
+</table>
+<p>So the amendment of Mr. HASTINGS was rejected.</p>
+
+<head>CLAIMS OF TURTLE MOUNTAIN BAND OR BANDS OF CHIPPEWA
+INDIANS&#8212;VETO MESSAGE (S.DOC. NO. 179)</head>
+<p>The PRESIDING OFFICER laid before the Senate a message from the President of the United States, which was read, and ordered to be printed, as follows:</p>
+<quote>
+<opener>
+<salute>To the Senate:</salute>
+</opener>
+<p>I return herewith, without my approval, S. 326, referring the claims of the Turtle Mountain Band or Bands of Chippewa Indians of North Dakota to the Court of Claims for adjudication and settlement.</p>
+<p>The principal claims of these Indians were settled by a treaty ratified by the Indians and by the act of Congress of April 21, 1904, whereby $1,000,000 was appropriated for the benefit of the Indians, and under which they executed a release of all claims whatsoever held by them against the United States.</p>
+<p>If such releases and settlements are ignored or deprived of their legal effect in this instance, an undesirable precedent would be created for applications for similar relief for other Indian tribes. This would require the Court of Claims and Supreme Court to pass upon questions of governmental policy in dealing with the Indians, and upon the propriety or impropriety of the Government's action in specific cases. These are questions of a political nature which, heretofore, Congress has consistently refused to remit to the courts for review.</p> <p>Further, it seems to me very questionable whether the courts can be asked or required to adjudicate the rights of the Indians and the
+United States and, at the same time, to exercise the powers of an arbitrator.</p>
+<p>Section 4 of the bill opens the doors of the court to the institution of suits for individual losses or claims, some-thing which the Congress has heretofore sedulously refused to do. This section also empowers the court to entertain questions with reference to agreements and treaties which the courts have uniformly held are strictly political and not
+within the province of a court. Recognition of Indian title is a purely political matter and can be accorded solely by the sovereign. Section 4 of this act might fasten upon the
+United States liability for the payment of the value of land which they had never recognized as belonging to these particular Indians solely because some official of the United
+States, minor or otherwise, had " recognized " title and
+occupancy by long possession as being in these particular Indians.</p>
+<p>For the foregoing reasons, I consider the bill contrary to the best interests of the United States.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed> 
+<dateline>THE WHITE HOUSE, May 10, 1934.</dateline></closer>
+</quote>
+<p>Mr. FRAZIER. I move that the message of the President of the United States, with the accompanying bill, be referred to the Committee on Indian Affairs.</p>
+<p>The motion was agreed to.</p>
+<head>THE AIR MAIL</head>
+<p>Mr. McKELLAR. Mr. President, I ask unanimous consent that the Chair may lay before the Senate at this time
+the amendments of the House to the so-called "air mail bill."</p>
+<p>There being no objection, the Presiding Officer laid before the Senate the amendments of the House of Representatives to the bill (S. 3170) to revise air-mail laws, which were to strike out all after the enacting clause and insert:</p>
+<p>That this act may be cited as the "Air Mail Act of 1934."</p>
+<p>SEc. 2. (a) Effective July 1, 1934, the rate of postage on air mail shall be 5 cents for each ounce or fraction thereof.</p>
+<p>(b) When used in this act&#8212;</p>
+<p>(1) The term "air mail" means mail of any class prepaid at the rate of postage prescribed in subsection (a) of this section.</p>
+<p>(2) The term "person" includes an individual, partnership, association, or corporation.</p>
+<p>(3) The term " pilot " includes copilot.</p>
+<p>SEc. 3. (a) The Postmaster General is authorized to award con-tracts for the transportation of air mail by airplane between such points as he may designate, and for periods of not exceeding 1 year, to the lowest responsible bidders tendering sufficient guaranty for faithful performance in accordance with the term of the advertisement at fixed rates per airplane-mile. The base rate of pay which may be bid and accepted in awarding such contracts shall in no case exceed 35 cents per airplane-mile for transporting a mail load not exceeding 300 pounds. Payment for transportation shall be at the base rate fixed In the contract for the first 300 pounds of mail or fraction thereof, plus one tenth of such base rate for each additional 100 pounds of mail or fraction thereof, computed at the end of each calendar month on the basis of the average mail load carried per mile over the route during such month.</p>
+<p>(b) In case of a determination by the Postmaster General that any bidder is not responsible or is otherwise disqualified under the terms of this act, such determination shall be subject to review in any manner authorized by law.</p>
+<p>(c) The Postmaster General shall not award contracts for air-mail routes in excess of an aggregate of 29,000 miles, and shall not establish schedules for air-mail transportation on such routes in excess of an annual aggregate of 40,000,000 airplane-miles. Authority is hereby conferred upon the Postmaster General to provide and pay for the carriage of mail by air in conformity with the terms of any contract therefor issued prior to the passage of this act, and to extend any such contract for an additional period not exceeding 9 months, at a rate of compensation not exceeding that provided for in the original contract : Provided, That the contractor shall consent in writing to the extension and shall likewise agree to comply with all provisions of this act during the extended period of the contract.</p>
+<p>SEc. 4. The Postmaster General shall cause an advertisement of each air-mail route to be conspicuously posted at each post office that is a terminus of the route named in such advertisement, for at least 15 days, and a notice thereof shall be published at least once in some daily newspaper of general circulation published in the cities that are the termini for the route, before the time of the opening of bids.</p>
+<p>SEc. 5. Any person having a claim against the United States arising out of the annulment of an air-mail contract heretofore held by it, may prosecute such claim in the Court of Claims of the United States, if suit therefor is brought within 1 year after such annulment. No person shall be ineligible to bid and contract for carrying air mail under this act by reason of the provisions of section 3950 of the Revised Statutes (act of June 8, 1872; U.S.C., title 39, sec. 432) , nor by reason of any restriction imposed in prior legislation in respect to air-mail contracts.</p>
+<p>SEc. 6. All persons holding air-mail contracts shall keep their books, records, and accounts under such regulations as may be prescribed by the Postmaster General, and he is hereby authorized to examine and audit the books, records, and accounts of such contractors and to require a full financial report under such regulations as he may prescribe.</p>
+<p>SEC. 7. Before the establishment of any air-mail route the Post-master General shall notify the Secretary of Commerce, who thereupon shall certify to the Postmaster General the character of equipment to be employed and maintained on such route. The Secretary of Commerce in certifying his specifications to the Postmaster General shall only determine the speed, load capacity, and safety features and safety devices of airplanes to be used on</p>
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

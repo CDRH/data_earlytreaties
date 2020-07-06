@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv1392">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">1392	H.R. 4399 (Seventy-fifth Congress, First Session &#8212; F. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv1392</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>F. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Seventy-fifth Congress, First Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Ute</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-25</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>1392	H.R. 4399 (Seventy-fifth Congress, First Session &#8212; F. Roosevelt)</head>
+<p>To adjudicate claims of certain Ute Indians.</p>
+
+<p>Pocket veto occurred after the 1st session of the 75th Congress had adjourned sine die on August 21, 1937.  The bill was presented to the President on August 23, 1937 (81 <title>Cong. Rec.</title> 9678; <hi rend="italics">see also</hi> 81 <title>Cong. Rec.</title> 9682).</p>
+
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 293-294.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1392.01.pdf"><title>Congressional Record</title> 81, 9678</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> .9678	CONGRESSIONAL RECORD HOUSE	AUGUST 21 </fw>
+<p>And to you my friends on my right and on my left, to the minority leader who has been kind and fine, outstanding, and protecting the interests of his party and carrying out his conception of protecting the interests of the country, he has been cooperative and he has been fine; to the chair-man of every committee on my right, and to the members of those committees who have been so kind and fine, willing to consult with me at all times on. their problems, and, give me their fine cooperation, I thank you.</p>
+<p>My service in this body with its wonderful associations is one of the grand things that I shall remember as long as I live, either in public life or in retirement, which I hope for sometime pretty soon down on the farm in the great State of Texas, when this fitful fever is over and I can pillow my head upon grass, or feathers, or whatever it is, in Texas. For 24 1/2 years I have been here. Every year of my life my esteem of the Congress and the Members who compose it has risen. I love this place. It is a part and parcel of my life.</p>
+<p>And to every one of you, as you go forth from here, I wish that you may enjoy a vacation filled with happiness and peace. God bless you and keep you every one. [Applause, the Members rising.]</p>
+<head>COMMUNICATION FROM THE PRESIDENT OF THE UNITED STATES</head>
+<p>The SPEAKER. The Chair lays before the House the following very gracious message from the President of the United States.</p>
+<note>The Clerk read as follows:</note>
+<p>The honorable THE SPEAKER OF THE HOUSE OF REPRESENTATIVES, WASHINGTON, D. C.:</p>
+<p>MY DEAR MR. SPEAKER: Before the adjournment of the Congress will you be good enough to extend to the Members of the <p>House of Representatives my regards and good wishes?</p>
+I hope that during the coming months all of you will have a pleasant and a happy vacation.</p>
+<closer>Very sincerely yours,
+<signed>FRANKLIN D. ROOSEVELT. </signed>THE WHITE HOUSE, August 21, 1937.</closer>
+<head>ADJOURNMENT SINE DIE</head>
+<p>Mr. RAYBURN. Mr. Speaker, I move that the House do now adjourn.</p>
+<p>The motion was agreed to.</p>
+<p>The SPEAKER. In pursuance of the provisions of House Concurrent Resolution No. 25, I declare the first session of the Seventy-fifth Congress adjourned without' day.</p>
+<head>BILLS PRESENTED TO THE PRESIDENT SUBSEQUENT TO SINE DIE
+ADJOURNMENT</head>
+<p>Mr. PARSONS, from the Committee on Enrolled Bills, reported that that committee did on August 23, 1937, present to the President for his approval bills of the House of the following titles:</p>
+<p>H. R. 1093. An act for the relief of Cleveland L. Short;"</p>
+<p>H.R. 1481. An act to amend the Revenue Act of 1926, as amended, to exempt persons traveling between Puerto Rico and the continental United States from the payment of a stamp tax on steamship tickets;</p>
+<p>H. R. 2229. An act for the relief of Florida O. McLain, widow of Calvin E. McLain;</p>	.
+<p>H. R. 2888. An act to grant relief to homesteaders and purchasers of public and ceded Indian lands and to authorize advance of amounts due on delinquent homestead entries on certain Indian reservations;</p>
+<p>H. R. 3493. An act to amend section 76 of the Judicial Code with respect to the terms of the United States district court at Tallahassee, Fla. ;</p>
+<p>H. R. 3988. An act to amend the act entitled "An act conferring upon the United States District Court for the Northern District of California, southern division, jurisdiction of the claim of Minnie C. de Back against the Alaska Railroad", approved June 24, 1935;</p>
+<p>H. R. 4399. An act authorizing payment for certain lands
+appropriated by the United States, and for other purposes;</p>
+<p>H. R. 4539. An act authorizing a per-capita payment of
+$25 each to the members of the Red Lake Band of Chippewa
+Indians from the proceeds of the sale of timber and lumber on the Red Lake Reservation;</p>
+<p>H. R. 4567. An act for the relief of Alden H. Baker;</p>
+ <p>H. R. 5495. An act for the relief of Anne E. Felix;</p>
+<p>H. R. 5594. An act to make available for national-park purposes certain lands within the area of the proposed Mammoth Cave National Park, Ky.;</p>
+<p>H.'R. 5846. An act for the relief of Carolina Maldonado;</p>
+<p> H. R. 6042. An act making further provision with respect to the funds of the Metlakahtla Indians of Alaska; H. R. 6468. An act to authorize the cancelation of deportation proceedings in the case of John Grinwood Taylor;</p>
+<p>H. R. 6682. An act for the relief of the Merchants National Bank & Trust Co., the First National Bank & Trust Co., and the Vicksburg Infirmary, all of Vicksburg, Miss.;</p>
+<p>H. R. 6893. An act for the relief of Henry T. Sharp, Hilliard B. Atkins, and Theodore S. Meekins;</p>
+<p>H. R. 6996. An act for the relief of Ragsdale & Knauss;</p>
+<p>H. R. 7210. An act to authorize an exchange of lands at the New Cumberland General Depot, Pennsylvania;</p>
+<p>H. R. 7587. An act conferring jurisdiction upon the Court of Claims of the United States to hear, determine, and render judgment upon the claim of the Lon D. Worsham Co.;</p>
+<p>H. R. 7646. An act to amend an act entitled "An act authorizing the construction of certain public works on rivers and harbors for flood control, and for other purposes", approved June 22, 1936; and</p>
+<p>H. R. 7709. An act 'to incorporate the American Chemical Society;</p>
+<p>H. R. 7806. An act authorizing the State Roads Commission of the State of Maryland to construct, maintain, and operate a free highway bridge across Sinepunxent Bay in Worchester County, Md., at Ocean City, Md., to replace a bridge already in existence;</p>
+<p>H. R. 7908. An act to extend the benefits of section 21 of the Bankhead-Jones Act to Puerto Rico;</p>
+<p>H. R. 7950. An act to amend the District of Columbia Alcoholic Beverage Control Act;</p>
+<p>H. R. 7985. An act to promote air commerce by providing for the enlargement of Washington Airport.</p>
+<p>H. R. 8245. An act making appropriations to supply deficiencies in certain appropriations for the fiscal year ending June 30, 1937, and for prior fiscal years, to provide supple-mental appropriations for the fiscal year ending June 30, 1938, and for Other purposes;</p>
+<head>APPROVAL OF HOUSE BILLS AND JOINT RESOLUTIONS SUBSEQUENT
+TO SINE DIE ADJOURNMENT</head>
+<p>The President of the United States, subsequent to the final adjournment of the first session of the Seventy-fifth Congress, notified the Clerk of the House of Representatives that he had approved acts and joint resolutions of the House, as follows:</p>
+<p>On August 20, 1937:</p>
+<p>H. R. 827. An act for the relief of Fred P. Halbert. </p>
+<p>On August 21, 1937:</p>
+<p>H. R. 2014. An act to amend an act entitled "An act to provide for the establishment of the Everglades National Park in the State of Florida, and for other purposes", approved May 30, 1934;</p>
+<p>H. R. 4489. An act for the relief of Stella Van Dewerker;</p>
+<p>H. R. 7127. An act authorizing the President to invite the States of the Union and foreign countries to participate! in the International Petroleum Exposition at Tulsa, Okla., to be held May 14 to May 21, 1938;</p>
+<p>H. R. 7430. An act for the relief of Mary Lucia Haven; and</p>
+<p>H. J. Res. 385. Joint resolution authorizing the President to invite the States of the Union and foreign countries to participate in the Oil World Exposition at Houston, Tex., to be held October 11 to 16, 1937, inclusive.</p>
+<p>On August 23, 1937:</p>
+<p>H. R. 4291. An act to extend further time for naturalization to alien veterans of the World War under the act approved May 25, 1932 (47 <title>Stat.</title> 165), to extend the same privileges to certain veterans of countries allied with the United States during the World War, and for other purposes;</p>
+</body></floatingText> -->
+
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV1392.02.pdf"><title>Congressional Record</title> 81, 9681</ref> (1937).</bibl>
+<!-- <floatingText>
+<body>
+<fw> 1937	CONGRESSIONAL RECORD HOUSE	9681 </fw>
+<p>I suggest that the States of Ohio, Missouri, Oklahoma, and
+Maine be honored by changing the names of certain diagonal highways in the District of Columbia as follows:</p>
+<p>For Ohio Avenue, rename Concord Avenue and Riggs Road.</p>
+<p>For Oklahoma Avenue, rename Benning Road or Nichols Avenue.</p>
+<p>For Maine Avenue, rename Reno Road.</p>
+<p>For Missouri Avenue, rename Linnean Avenue.</p>
+<p>Under this set-up the two States of Maine and Missouri would be paired as they were in the Mall, a relationship which the congressional representatives from those States thought important to perpetuate. As alternatives for Maine and Missouri Avenues, I also suggest that Water Street might be renamed Maine Avenue and that Potomac Avenue could be renamed Missouri Avenue. The surveyor of the District of Columbia has been contacted and sees no objection to a change in these existing street names.</p>
+<p>For the reasons which I have set out herein I am convinced that House Joint Resolution No. 171 should not become law.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<p>On August 30, 1937:</p>
+<p>WALTER W. JOHNSTON</p>
+<p>H. R. 2860. I am withholding my approval of bill H. R. 2860, entitled "An act for the relief of Walter W. Johnston."</p>
+<p>The bill authorizes and directs the Secretary of the Treasury to pay to Walter W. Johnston, out of any money in the Treasury not otherwise appropriated, the sum of $5,495 for personal services claimed to have been rendered to the United States Shipping Board Emergency Fleet Corporation and for the use of appliances personally owned and operated by him in connection with the launching of ships for the United States Shipping Board Emergency Fleet Corporation for carrying on the war.</p>
+<p>The record in this case shows that the claimant was fully compensated for his personal services and for the use of his devices for launching ships, by virtue of a decision of the Court of Claims rendered on April 30, 1930, wherein it was determined that the fair and reasonable compensation for the services rendered by the claimant in this connection was $20,000, and that he had received approximately $5,495 to apply on his compensation. The court therefore rendered a judgment in favor of the claimant in the sum of $14,505, which judgment <p>was paid by the United States on September 6, 1930.</p>
+In the light of the record in this case, which discloses that the claim of Walter W. Johnston has been fully litigated and a judgment had and paid for the fair and reasonable value of the services rendered, I do not feel justified in approving this bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<head>RED LAKE BAND OF CHIPPEWA INDIANS IN MINNESOTA</head>
+<p>H. R. 4539 would authorize a per-capita payment of $25 to the members of the Red Lake Band of Chippewa Indians in Minnesota from the proceeds of the sale of timber and lumber on the Red Lake Reservation.</p>
+<p>The Acting Secretary of the Interior advises that (a) a large number of the old people are being provided for under the Social Security Act; (b) that employment opportunities are plentiful for able-bodied Indians in road and emergency conservation work; (c) that to provide labor to conduct timber operations on the reservation it was necessary to discontinue some of the emergency relief activities; and (d) that the proposed payment would reduce the capital of this tribe to such a point that future timber operations may be seriously handicapped.</p>
+<p>For these reasons I am withholding approval of H. R. 4539.</p>
+<signed>FRANKLIN D. ROOSEVELT.</signed> <p>On August 31, 1937:</p>
+<head>CLEVELAND L. SHORT</head>
+<p>H. R. 1093. I have withheld my approval from H. R. 1093, "An act for the relief of Cleveland L. Short."</p>
+<p>This measure would authorize and direct the Secretary of the Treasury to pay to Cleveland L. Short the sum of$1,572.50 in full settlement of all claims against the United States for permanent injuries sustained by him on June 14, 1909, while employed by the Isthmian Canal Commission.</p>
+<p>The compensation law in effect at the time Mr. Short was injured provided that, in the event of injury resulting from hazardous employment, the employee would be entitled to receive for a year thereafter the same rate of pay as if he continued to be employed, unless, in the opinion of the Secretary of Commerce and Labor, the employee could return to work sooner.</p>
+<p>The record in this case shows that Mr. Short was incapacitated for 45 1/2 days; that he returned to work after that period; and that, in accordance with the provisions of the then-existing law, he received benefits of $227.50 to cover his lost time.</p>
+<p>The present bill provides for paying the employee the difference between $227.50 and his rate of pay for a full year, or an additional payment of $1,572.50.</p>
+<p>Apparently this is the first bill of this kind; and if this were the only case of a full year's compensation to a Federal employee who returned to work after a disability that existed for only a portion of the year, I would have no hesitancy whatever in approving the bill, particularly in view of the fact that the employee lost a foot in the accident. But there are hundreds of cases of employees who sustained injuries during the period from May 30, 1908, to September 7, 1916, and who returned to work after varying periods of disability of less than 1 year without receiving a full year's compensation on account of such disabilities.
+I therefore feel that the enactment of this bill would create a precedent which might result in numerous claims for additional compensation by others who were injured and who have received the benefits to which they were entitled under the law.</p>
+<p>For these reasons I withhold approval of the bill.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+<head>AUTHORIZING ADVANCE OF AMOUNTS DUE ON DELINQUENT HOMESTEAD ENTRIES ON CERTAIN INDIAN RESERVATIONS</head>
+<p>H. R. 2888 is a bill to grant relief to homesteaders and purchasers of public and ceded Indian lands and to authorize advance of amounts due on delinquent homestead entries on certain Indian reservations.</p>
+<p>Sections 1 and 2 thereof authorize the granting of leave of absence and exemption from payment of installments on the purchase price of their land to homestead settlers and entrymen who, because of economic conditions, find it necessary during the calendar year 1937 to leave their homesteads to seek employment. Section 5 would permit any entryman or purchaser of ceded Indian land to relinquish a portion of his entry or purchase so that the payments on the whole of such entry or purchase will be sufficient to complete payment on the lands retained. To these three sections I have no serious objection, in view of the previous extensions that have been granted by the Congress.</p>
+<p>But I am unable to find any satisfactory basis for approving sections 3 and 4 of the bill. These two sections provide for the advance payment to the Indians from the general fund of the Treasury of the indebtedness of entrymen and purchasers of ceded Indian land. With the opening of these ceded Indian lands to entry, the United States accepted no responsibility to purchase or find purchasers for such lands, but acted only as a trustee to sell the lands and pay over the proceeds to the Indians. The delinquency that has occurred on the part of entrymen and purchasers in making their payments on these lands constitutes no justification for the proposed shifting from the Indians to the Government of the burden of waiting for the completion of the payments. The fact of the delinquency indicates, indeed, that this is simply the transfer of bad debts from one payee to another.</p>
+<p>I would have no objection to the enactment of legislation that would provide for the cancelation of these entries and for the reversion of the lands to the Indians for their own use.</p>
+<p>For the foregoing reasons I am withholding approval of H. R. 2888.</p>
+<closer><signed>FRANKLIN D. ROOSEVELT.</signed></closer>
+</body></floatingText> -->
+
+
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

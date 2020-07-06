@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0955">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">955	H.R. 6183 (Sixtieth Congress, Second Session &#8212; T. Roosevelt)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0955</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>T. Roosevelt</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Sixtieth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>955	H.R. 6183 (Sixtieth Congress, Second Session &#8212; T. Roosevelt)</head>
+
+<p>Granting to the Siletz Power &amp; Manufacturing Company a right of way for a water ditch or canal
+through the Siletz Indian Reservation, in Oregon.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 60th Congress had adjourned sine die on March 3, 1909 (H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 40).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 203.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0955.01.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 40 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS  	2d SessionHOUSE OF REPRESENTATIVES   DOCUMENT
+	No. 493 </fw>
+<head>REPORT ON POCKET VETO</head>
+<milestone unit="rule" />
+<head>
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<head type="sub">DECEMBER 22, 1928.-Referred to the Committee on the Judiciary and ordered
+to be printed</head>
+
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928</dateline> 
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<closer><signed>CALVIN COOLIDGE.</signed></closer>
+<milestone unit="rule />
+<hi rend="right">DEPARTMENT OF JUSTICE, 
+Washington, October 10, 1928.</hi>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p><pb n="40" />
+<fw> REPORT ON POCKET VETO </fw>
+<p>are now at the Executive Offices. Very few of them bear marks showing when they were received.
+S. 2544&#8212;undated. On bill is written:</p>
+<p>All wrong</p>
+<p>R</p>
+<p>S. 3164-undated. On bill is written:</p>
+<p>Bad</p>
+<p>R</p>
+
+<p>S. 3526, S. 6852, S. 8588 and S. 8839 are undated and on each is written:</p>
+Bad
+<p>S. 4426 and S. 8429 are undated and on each bill is a large question mark.</p>
+<p>S. 7859-undated. On bill is written:
+Bad?</p>
+<p>R</p>
+<p>S. 9402 and H. R. 1072 are undated. There are no marks on them. H. R. 4521 was stamped as received Mar. 2. On it some comment was written in ink and afterwards erased.</p>
+<p>H. R. 6183-undated. On it is written:</p>
+<p>All wrong</p>
+<p>T. R.</p>
+<p>H. R. 16696-undated. On it is written: </p>
+<p>Know nothing about it.</p>
+<p>H. R. 12499 was received Feb. 27, 1909. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket veto	</p>
+<p>W. L. Jr.</p>
+<p>H. R. 13712 was received Feb. 22. Attached to it is a slip of paper on which is written:</p>
+<p>Pocket veto</p>
+<p>W. L. Jr.</p>
+<p>H. R. 13928 was received March 2. Attached to it is a slip of paper on which is written in same handwriting as on slips of paper attached to H. R. 12499 and H. R. 13712</p>:
+<p>Pocket veto.</p>
+<p>The 61st Congress, second session, adjourned June 25, 1910. (<title>Cong. Rec.</title>, vol. 45, pt. 8, pp. 9080, 9119) President Taft retained unsigned three House bills which are now at the Executive Offices. H. R. 3346, A. R. 18376 and H. R. 20644 are all stamped as received at the White House on June 24, 1910. To each of the last two bills a letter is attached and on each letter is written in pencil the word "Pocket."</p>
+<p>The 61st Congress, third session, adjourned March 4, 1911, the Senate legislative day of March 4 and the House legislative day of March 2. (<title>Cong. Rec.</title>, vol. 46, pt. 5, pp. 4323, 4339) President Taft retained unsigned two House bills, which are now at the Executive Offices.
+H. R. 30273 was received March 3.</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

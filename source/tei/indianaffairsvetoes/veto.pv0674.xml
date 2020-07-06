@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv0674">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">674	H.R. 6122 (Fifty-third Congress, Second Session &#8212; Cleveland)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv0674</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Cleveland</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Fifty-third Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-08-18</date>  <name>Laura Weakly</name> Linked PDFs</change>
+<change><date>2010-03-23</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>674	H.R. 6122 (Fifty-third Congress, Second Session &#8212; Cleveland)</head>
+
+<p>Authorizing the Kansas City, Oklahoma &amp; Pacific Railway Company to construct and operate a railway through the Indian Territory.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 53rd Congress had adjourned sine die on August 28, 1894.  The bill was presented to the President on August 28, 1894 (August 28, 1894, H. Jour., p. 581; <hi rend="italics">see also</hi> H.R. Doc. No. 493, 70th Cong., 2nd sess., p. 34).</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 148-149.</bibl>
+</div1>
+
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0674.01.pdf">Journal of the House of Representatives of the United States</ref>.  (1894).  53rd Congress, 2nd session, p. 581 (<title>Serial Set</title> 3196).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<head>JOURNAL
+OF THE
+HOUSE OF REPRESENTATIVES OF THE UNITED STATES,
+BEING THE
+SECOND SESSION OF THE FIFTY-THIRD CONGRESS,
+BEGUN AND HELD
+AT THE CITY OF WASHINGTON
+DECEMBER 4, 1893,
+IN THE ONE HUNDRED AND EIGHTEENTH YEAR OF THE INDEPENDENCE OF THE UNITED STATES.</head>
+
+<head type="sub>>WASHINGTON:
+GOVERNMENT PRINTING OFFICE.
+1894.</head>
+<fw> 1894.	HOUSE OF REPRESENTATIVES.	581 </fw>
+<p>mittee on Finance; 25,000 copies for the use of the members of the Senate and 35,000 for the use of members of the House of Representatives of the Fifty-third Congress,</p>
+<p>After debate thereon,</p>
+<p>Mr. Richardson, of Tennessee, moved the previous question. Subsequently Mr. Richardson, of Tennessee, withdrew said motion and also withdrew said resolution.</p>
+<p>The Speaker laid before the House the joint resolution of the Senate (S. R. 105) to change the initials of a name in the Indian appropriation bill.</p>
+<p>Said resolution was, by unanimous consent, considered, and was read three times and passed.</p>
+<p><hi rend="italic">Ordered, </hi>That the Clerk notify the Senate thereof.</p>
+<p>Mr. Hangen announced the death today of Hon. George B. Shaw, a Representative from the State of Wisconsin.</p>
+<p>Mr. Haugen thereupon submitted the following resolutions:</p>
+<p><hi rend="italic">Resolved,</hi> That the House of Representatives has heard with profound sorrow of the death of Hon. George B. Shaw, late a Representative from the State of Wisconsin.</p>
+<p><hi rend="italic">Resolved,</hi> That a committee of nine members of the House be appointed by the Speaker to act with such Senators as may be selected to attend the funeral of the deceased, and that the Sergeant-at-Arms of the House shall take order for superintending the funeral of the deceased at his home; and the necessary expenses attending the execution of this order shall be paid out of the contingent fund of the House.</p>
+<p><hi rend="italic">Resolved,</hi> That the Clerk of the House be directed to communicate to the Senate a copy of these resolutions.</p>
+<p><hi rend="italic">Resolved,</hi> That as a further mark of respect the House do now adjourn.</p>
+<p>The resolutions were unanimously agreed to.</p>
+<p>The Speaker appointed as the committee to attend said funeral Messrs. Haugen, Barwig, Cooper of Wisconsin, Somers, Babcock, Cannon of Illinois, Hepburn, Johnson of North Dakota, and Cousins.</p>
+<p>And then,</p>
+<p>In accordance with the last of said resolutions, at 1 o'clock and 23 minutes p.m., the House adjourned.</p>
+
+<head>REPORT OF COMMITTEE ON PRIVATE BILL.</head>
+<p>Under clause 2, Rule XXIII, Mr. Wheeler, of Alabama, from the Committee on Military Affairs, reported, with amendments, the bill (H. R.1819) to correct the military record of James McGee (Report No. 1474.)</p>
+
+<head>PUBLIC BILL, AND RESOLUTIONS INTRODUCED.</head>
+<p>Under clause 3 of Rule XXII, bill and resolutions, of the follow- in titles were introduced and severally referred as follows:</p>
+<p>By Mr. Hangen: A bill (H. R. 8036) to authorize the Court of Claims to hear, try, determine, and render final judgment upon the claims of the Eastern Cherokee Indians—to the Committee on Indian Affairs.</p>
+<p>By Mr. Somers: A joint resolution (H. Res. 228) authorizing the Secretary of the Interior to approve the leasing of certain lands in Polk County, in the State of Minnesota—to the Committee on the Public Lands.</p>
+<p>By Mr. Charles W. Stone: A resolution directing the Secretary of the Treasury to examine the claim of the State of Pennsylvania for expenses incurred in the war of the rebellion—to the Committee on War Claims.</p>
+<head>
+PRIVATE BILLS INTRODUCED.</head>
+<p>Under clause 1 of Rule XXII, private bills of the following titles were presented and referred as follows:</p>
+<p>By Mr. Catchings: A bill (H. R.8037) to pension Charles N. Prescott, alias Stone&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. Curtis, of Kansas: A bill (H. R. 8038) granting an increase of pension to Francis Knapp, of Ottawa, Kans.&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. Cummings: A bill (II. R. 8039) for the relief of Patrick Morris&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. Donovan: A bill (H. R. 8040) for the relief of Reason C. Dillon&#8212;to the Committee on Military Affairs.</p>
+<p>By Mr. Kribbs: A bill (H. R.8041) granting a pension to Jonas I. Boal&#8212;to the Committee on Invalid Pensions.</p>
+<p>By Mr. Moses: A bill (H. R. 8042) granting a pension to Bailey R. Gill&#8212;to the Committee on Pensions.</p>
+<p>Also, a bill (H. R. 8043) granting increase of pensions to Daniel P. Copeland&#8212;to the Committee on Pensions.</p>
+<p>By Mr. Terry (by request): A bill (H. R. 8044) for the relief of Bernard Campbell&#8212;to the Committee on Claims.</p>
+
+<head>PETITIONS, ETC.</head>
+<p>Under clause 1 of Rule XXII, the following petitions and papers were laid on the Clerk's desk and referred as follows:</p>
+<p>By Mr. Alderson: Petition of James H. Nash, administrator of estate of George Harmon, deceased, praying that his claim for property taken by the Army during the late war be referred to the Court of Claims&#8212;to the Committee on War Claims.</p>
+<p>By Mr. Sipe: Petition of John M. Davis, of Philadelphia, and 600 other citizens of Pennsylvania, praying for Government con trol of telegraphic system&#8212;to the Committee on the Post-Office and Post-Roads.</p>
+<p>By Mr. Springer : Petition of four Young People's Societies, of Rantoul, Ill., for the passage of Senator Hoar's autilottery bill&#8212;to the Committee on the Judiciary.</p>
+<p>Also, papers to accompany House bill 7925&#8212;to the Committee on Invalid Pensions.</p>
+<p>Also, petition of residents of Oklahoma Territory, praying for the appointment of a Congressional committee to investigate the entries of lands in the Cherokee Outlet&#8212;to the Committee on the Public Lands.</p>
+<p>By Mr. Charles W. Stone: Memorial of the board of health of Warren, Pa., in favor of national board of health&#8212;to the Committee on Immigration and Naturalization.</p>
+<p>By Mr. Wright, of Pennsylvania: Petition of 27 citizens of Susquehanna, Pa., in favor of a bill to establish a bureau of public health within the Treasury Department of the United States&#8212;to the Committee on Immigration and Naturalization.</p>
+
+<head>TUESDAY, AUGUST 28, 1894.</head>
+<p>The Speaker announced the appointment of Messrs. Brookshire, Pigott, Daniels, and Updegraff members on the part of the House of the Joint Commission to Investigate the Ford's Theater Disaster (said commission being authorized by the sundry civil appropriation act for the fiscal year, ending June 30, 1895).</p>
+<p>The Speaker laid before the House a communication from Hon. William C. Oates, a Representative from the Third district of Alabama; which was read as follows:</p>
+<dateline><hi rend="right">
+HOUSE OF REPRESENTATIVES, 
+Washington, D. C., August 28, 1894.</hi></dateline>
+<p>SIR: I have this day tendered to the governor of Alabama my resignation as Representative in this House from the Third district of said State, to take effect on and after the 5th day of November next.</p>
+<closer>Respectfully, <signed>WM. C. OATES.</signed></closer>
+<p>To Hon. CHARLES F. CRISP,
+<hi rend="italic">Speaker House of Representatives.</hi></p>
+<p>The Speaker laid before the House bills and a joint resolution of the following titles ; which were severally referred as follows:</p>
+<p>S. 2295. An act authorizing the Secretary of the Interior to correct errors where double allotments of land have erroneously been made to an Indian, to correct errors in patents, and for other purposes&#8212;to the Committee on Indian Affairs.</p>
+<p>S. R. 106. Joint resolution authorizing the printing upon the blank diplomas authorized by section 3 of the act of March 3, 1893, the names of the persons to whom diplomas are to be awarded by the World's Columbian Commission—to the Committee on Appropriations.</p>
+<p>The Speaker laid before the House the bill (S. 2322) for the relief of I. H. Hathaway & Co.; which was indefinitely postponed.</p>
+<p>The Speaker laid before the House the bill&#8212;with amendments of the Senate&#8212;entitled:</p>
+<p>H. R. 1314. An act for the relief of Matthew S. Priest;</p>
+<p>And the same was referred to the Committee on Military Affairs.</p>
+<p>Mr. Pearson, from the Committee on Enrolled Bills, reported that the committee had examined and found truly enrolled a bill and joint resolutions of the following titles; which were thereupon signed by the Speaker, to wit:</p>
+<p>H. R. 6122. An act authorizing the Kansas City, Oklahoma and Pacific Railway Company to construct and operate a railway through the Indian Territory, and for other purposes;</p>
+<p>S. 14, 105. Joint resolution to change the initials of a name in the Indian appropriation bill; and</p>
+<p>H. Res. 198. Joint resolution to print Agricultural Report for 1894.</p>
+<p>A message front the President of the United States, by Mr. Pruden, one of his secretaries, announced that the President had approved and signed bills and joint resolutions of the following titles, to wit:</p>
+<p>On August 27, 1894:</p>
+<p>H. Res. 231. Joint resolution to pay the officers and employes of the Senate and House of Representatives their respective salaries for the month of August, 1894, on the 23d day of said mouth;</p>
+<p>H. R. 8007. An act to provide for the collection of internal revenue and for other purposes;</p>
+<p>11. Res 220. Joint resolution instructing the Secretary of War to return to the State of Massachusetts the flags of certain regiments
+of Massachusetts Volunteer Infantry: </[>
+<p>H. R. 3334. An act authorizing and directing the Secretary of the Treasury to pay to the heirs or legal representatives of C. P. Gooch certain money due him for carrying the mail;</p>
+<p>H. R. 6888. An act for the registry or enrollment of the bark <hi rend="italic">Skudesnaes</hi>;</p>
+<p>H. R. 7571. An act to authorize the construction of a bridge across the Osage River, in the State of Missouri;</p>
+<p>H. R. 5478. An act to authorize the Biloxi and Back Bay Bridge</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+<bibl><ref target="PV0674.02.pdf">Report on pocket veto.  Message from the President of the United States transmitting a memorandum prepared in the Office of the Attorney General regarding bills presented to the President less than 10 days before the adjournment of Congress and not signed by him</ref>.  (1928).   House of Representatives.  70th Congress, 2nd session.  House Document No. 493, p. 34 (<title>Serial Set</title> 9035).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+<fw> 70TH CONGRESS / HOUSE OF REPRESENTATIVES JDOCUMENT 2d Session	No. 493 </fw>
+<head>REPORT ON POCKET VETO
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+A MEMORANDUM PREPARED IN THE OFFICE OF THE ATTORNEY GENERAL REGARDING BILLS PRESENTED TO THE PRESIDENT LESS THAN 10 DAYS BEFORE THE ADJOURNMENT OF CONGRESS AND NOT SIGNED BY HIM</head>
+<milestone unit="rule" />
+<p>DECEMBER 22, 1928.&#8212;Referred to the Committee on the Judiciary and ordered
+to be printed</p>
+<milestone unit="rule" />
+<opener>
+<dateline>THE WHITE HOUSE, December 22, 1928. </dateline>
+<salute>To the Congress of the United States:</salute>
+</opener>
+<p>I am transmitting herewith for the information of the Congress a memorandum prepared in the office of the Attorney General regarding bills presented to the President less than ten days before the adjournment of Congress and not signed by him.</p>
+<hi rend="right"><signed>CALVIN COOLIDGE.</signed></hi>
+<milestone unit="rule" />
+<dateline>DEPARTMENT OF JUSTICE, Washington, October 10, 1928.</dateline>
+<head>MEMORANDUM FOR THE ATTORNEY GENERAL</head>
+<p>In re bills presented to the President less than ten days before the adjournment of Congress and not signed by him. In the case of each such bill, what was done with the engrossed copy of the bill, and what communication or memorandum was made in connection with such disposition?</p>
+<p>Such unsigned bills are found in four places: in the custody of the Secretary of the Senate; in the custody of the Manuscript Division of the Library of Congress (where Presidential messages to the House of Representatives prior to the Civil War have been deposited); in the</p>
+<fw> 34	- REPORT ON POCKET VETO </fw>
+<p>H. R. 3308&#8212;received Mar. 2. On the bill itself is penciled "Die" </p>
+<p>H. R. 4187&#8212;received Mar. 2.</p>
+<p>H. R. 9313&#8212;undated&#8212;On bill itself is penciled "Die"</p>
+<p>H. R. 6170&#8212;received Mar. 2. On bill itself is penciled "Let it die"</p>
+<p>In the archives of the State Department is a bill passed by the 52d Congress; second session, and unsigned by President Harrison. The bill is for the relief of purchasers of timber and stone lands under the act of June 3, 1878. It is S. 2275 and is stamped "Executive Mansion Dec. 15 1892 received." On the face of the bill is the following memorandum, signed by the President:</p>
+<quote>This bill was presented to me on the 15th day of December 1892. Congress, pursuant to a concurrent resolution adopted on the 21st day of December 1892, adjourned from the 22d day of December 1892 to January 4, 1893. I have not approved the bill. </quote>
+<closer><signed>BENJ HARRISON</signed>
+<dateline>DECEMBER 30th 1892</dateline></closer>
+
+<p>The 52d Congress, second session, adjourned on March 4, 1893, the legislative day of March 3. (<title>Cong. Rec.</title>, vol. 24, pt. 3, pp. 2551, 2618) H. R. 9956, a bill to incorporate the Washington, Burnt Mills and Sandy Spring Railway Co., was signed by the presiding officers of the two Houses of Congress on the last day of the session. (<title>Cong. Rec.</title>, vol. 24, pt. 3, pp. 2550, 2618) President Harrison did not sign the bill. It is now at the Executive Offices.</p>
+<p>The 53d Congress, second session, adjourned August 28, 1894. (<title>Cong. Rec.</title> vol. 26, pt. 8, pp. 8665, 8667) There are now at the Executive Offices the following unsigned bills of that session.</p>
+<p>S. R. 99 is stamped as received at the Executive Mansion Aug. 24, 1894.</p>
+<p>S. 2263 is stamped as received August 24. Attached to the bill is a typewritten recommendation on which President Cleveland made the following penciled unsigned memorandum:
+I do not think this amendment is put in the best place and the renewed corporations should be in express terms made subject to all the provisions applicable to the original corporations. There should be a limit to the number of renewals to avoid perpetuity & it would be better to have the proposed renewal approved by the Chief Judge of the District or other Judicial officers rather than the Com'rs.</p>
+<p>Aug. 25/94.</p>
+<p>H. Res. 198&#8212;received Aug. 28.</p>
+<p>H. R. 3005&#8212;received Aug. 20.</p>
+<p>H. R. 7685—received Aug. 28. Attached to the bill is a typewritten memorandum on which President Cleveland wrote in pencil:</p>
+<p>This bill was not presented to the President until after the adjournment of Congress.</p>
+<p>H. R. 6122&#8212;Aug. 28. Attached to the bill is a typewritten memorandum on which the President wrote in pencil:</p>
+<quote><p>This bill was not presented to the President until after adjournment—at 3.55 P. M.</p>
+<p>G. C.</p></quote>
+<p>The 53d Congress, third session, adjourned March 4, 1895. There are now at the Executive Offices, unsigned by President Cleveland, the following 18 Senate and 38 House bills:</p>
+</body>
+</floatingText> -->
+
+</div1>
+
+</body>
+</text>
+</TEI>

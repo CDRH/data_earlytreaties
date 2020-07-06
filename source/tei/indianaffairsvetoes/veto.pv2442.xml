@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2442">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2442	H.R. 3247 (Ninety-ninth Congress, Second Session &#8212; Reagan)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2442</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Reagan</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-ninth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2442	H.R. 3247 (Ninety-ninth Congress, Second Session &#8212; Reagan)</head>
+
+<p>To amend the Native American Programs Act of 1974 to authorize appropriations for fiscal years 1987 through 1990.</p>
+
+<p>Vetoed on September 26, 1986.  The veto message was laid before the House and printed as H. Doc. 99-274 (132 <title>Cong. Rec.</title> 27102).</p>
+
+<p>Veto unchallenged.</p>
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 502.</bibl>
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2442.01.pdf">Veto of H.R. 3247.  Message from the President of the United States transmitting his veto of H.R. 3247, a bill to amend the Native American Programs Act of 1974 to authorize appropriations for fiscal years 1987 through 1990.</ref>  (1986).  House of Representives.  99th Congress, 1st session.  House   Document No. 99-274 (<title>Serial Set</title> 13696).  Washington, DC: Government Printing Office.</bibl>
+<!-- <floatingText>
+<body>
+99th Congress, 2d Session 	House Document 99-274
+VETO OF H.R. 3247
+MESSAGE
+FROM
+THE PRESIDENT OF THE UNITED STATES
+TRANSMITTING
+HIS VETO OF KR. 3247, A BILL TO AMEND THE NATIVE AMERICAN PROGRAMS ACT OF 1974 TO AUTHORIZE APPROPRIATIONS FOR FISCAL YEARS 1987 THROUGH 1990
+SEPTEMBER 29, 1986.-Message and accompanying bill referred to the
+Committee on Education and Labor and ordered to be printed
+U.S. GOVERNMENT PRINTING OFFICE 71-011 0	WASHINGTON : 1986
+To the House of Representatives:
+I am returning herewith without my signature H.R. 3247, which would extend and amend the Native American Programs Act of 1974.
+I fully support the objectives of the Native American Programs Act of 1974 to help American Indians, Alaskan Natives, and Native Hawaiians achieve economic and social self-sufficiency. My decision not to approve H.R. 3247 is based on my belief that this bill would seriously undermine the administrative flexibility needed to ensure responsiveness to individual tribes and Native American organizations-flexibility that is essential to the effectiveness of the Native American programs.
+The Executive branch must be allowed to carry out its responsibilities to administer the laws effectively. H.R. 3247 would cause undue interference with ongoing program management. This legislation, if signed into law, would make effective administration of this important program extremely difficult by creating delays in implementing program policy that can only hurt rather than help the Native Americans it is intended to serve.
+If H.R. 3247 were to become law, if would require diverting scarce resources away from program-related activities to meet wasteful and unnecessary administrative requirements and would involve the Congress inappropriately in ongoing administrative activities that should be left to the Executive branch. Specifically, the bill would:
+require "notice and comment" rulemaking for rules and policy statements that have been and should continue to be handled informally, without permitting exceptions for good cause or in other circumstances where exceptions generally apply, thereby substantially increasing administrative costs and delays;
+require the Administration for Native Americans (ANA) to use peer review panels to review and rank all grant applications, even though the use of such panels is not appropriate in all cases; and
+require the Secretary of Health and Human Services to report and explain to the Congress all decisions on grant applications at variance with recommendations of the peer review panels.
+These provisions of H.R. 3247 would unnecessarily increase administrative requirements and thereby shift resources away from technical assistance and other activities more directly related to helping applicants and grantees. Equally troublesome, they would inevitably involve both the Congress and members of the public in second-guessing the ANA on details related to administration of Native American programs. This would have adverse results for the programs and would potentially set a dangerous precedent for
+(1)
+2
+
+unnecessary restrictions disrupting the operations of other Federal human services programs.
+Quite simply, the Executive branch cannot effectively carry out its responsibilities to implement the laws if agencies are required, as a routine procedure, to justify each grant decision to the Congress, or if every general statement of agency policy or procedure must be made through formal notice and comment rulemaking.
+The provisions of H.R. 3247 also raise concerns about confidentiality, in requiring the Commissioner of the ANA to discuss publicly the weaknesses and problems of applications submitted by individual tribal organizations. This could well have a chilling effect on the competitive grant process. New and less experienced organizations could be more hesitant to apply, and established Native American organizations might be disturbed about public distribution of information about their applications.
+I reiterate my support for the continuation of the Native American programs. I therefore urge the Congress to provide funding for these programs in the fiscal year 1987 continuing resolution and urge that the 100th Congress promptly consider new legislation to authorize appropriations for these programs. The Administration, through the Department of Health and Human Services, looks for-ward to working with the Congress to develop legislation that will meet the Congress' legitimate concerns for accountability of the Executive branch, while also meeting our concerns that the law not be burdened with requirements incompatible with our responsibility to achieve the statutory purposes of these programs.
+RONALD REAGAN. THE WHITE HOUSE, September 26, 1986.
+H. R. 3247
+Ninety-ninth Congress of the United States of America
+AT THE SECOND SESSION
+Begun and held at the City of Washington on Tuesday, the twenty-first day of January,
+one thousand nine hundred and eighty-six
+an act
+To amend the Native American Programs Act of 1974 to authorize appropriations
+for fiscal years 1987 through 1990.
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the "Native American Programs Amendments of 1986".
+SEC. 2. REVIEW OF APPLICATIONS FOR ASSISTANCE.
+The Native American Programs Act of 1974 (42 U.S.C. 2991-2992d) is amended-
+(1) in the first sentence of section 803(a) by inserting ", on a single year or multiyear basis," after "financial assistance",
+(2) by redesignating sections 813 and 814 as sections 815 and 816, respectively,
+(3) by redesignating sections 806 through 812, as sections 807 through 813, respectively, and
+(4) by inserting after section 805 the following new section:
+
+"PEER REVIEW OF APPLICATIONS FOR ASSISTANCE
+"SEC. 806. (a)(1) The Secretary shall establish a formal peer review process for purposes of evaluating applications for financial assistance under sections 803 and 805 and of determining the relative merits of the projects for which such assistance is requested.
+"(2) Members of peer review panels shall be appointed by the Secretary from among individuals who are not officers or employees of the Administration for Native Americans. In making appointments to such panels, the Secretary shall give preference to American Indians, Hawaiian Natives, and Alaskan Natives.
+"(b) Each peer review panel 'established under subsection (a)(2) that reviews any application for financial assistance shall-
+"(1) determine the merit of each project described in such
+application;
+"(2) rank such application with respect to all other applications it reviews for the fiscal year involved, according to the relative merit of all of the projects that are described in such application and for which financial assistance is requested; and
+"(3) submit to the Secretary a list that identifies all applications reviewed by such panel and arranges such applications according to rank determined under paragraph (2).
+"(c) Whenever the Secretary approves an application for financial assistance under section 803 or 805, the Secretary shall transmit to the Committee on Education and Labor of the House of Representatives and the President pro tempore of the Senate written notice-
+"(1) identifying such application;
+4
+
+"(2) containing a copy of the list submitted to the Secretary under subsection (b)(3) in which such application is ranked;
+"(3) specifying which other applications ranked in such list have been approved by the Secretary under sections 803 and 805; and
+"(4) if the Secretary has not approved each application superior in merit, as indicated on such list, to the application with respect to which such notice is transmitted, containing a statement of the reasons relied upon by the Secretary for-
+"(A) approving the application with respect to which such
+notice is transmitted; and
+"(B) failing to approve each pending application that is superior in merit, as indicated on such list, to the application described in subparagraph (A).".
+SEC. 3. PROCEDURAL REQUIREMENTS.
+(a) RULE MAKING.-The Native American Programs Act of 1974 (42 U.S.C. 2991-2992d) is amended by inserting after section 813, as so redesignated by section 2, the following new section:
+
+"ADDITIONAL REQUIREMENTS APPLICABLE TO RULE MAKING
+
+"SEc. 814. (a) Notwithstanding subsection (a) of section 553 of title 5, United States Code, and except as otherwise provided in this section, such section 553 shall apply with respect to the establishment and general operation of any program that provides loans, grants, benefits, or contracts authorized by this title.
+"(b) The last sentence of section 553(b) of title 5, United States Code, shall not apply with respect to any rule (including any general statement of policy) that is-
+"(1) proposed under this title;
+"(2) applicable to any program, project, or activity authorized by, or carried out under, this title; or
+"(3) applicable to the organization, procedure, or practice of an agency (as defined in section 551(1) of title 5, United States Code) and that would affect the administration of this title.
+"(c) Notwithstanding section 553(d) of title 5, United States Code,
+no rule (or general statement of policy) that-
+"(1) is issued to carry out this title;
+"(2) applies to any program, project, or activity authorized by, or carried out under, this title; or
+"(3) is applicable to the organization, procedure, or practice of
+an agency (as defined in section 551(1) of title 5, United States
+Code) and that will affect the administration of this title;
+may take effect until 30 days after the publication required under the first 2 sentences of section 553(b) of title 5, United States Code.
+"(d) Each rule to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
+"(e) Except as provided in subsection (c), if as a result of the enactment of any law affecting the administration of this title it is necessary or appropriate for the Secretary to issue any rule, the Secretary shall issue such rule not later than 180 days after the date of the enactment of such law.
+5
+"U) Whenever an agency publishes in the Federal Register a rule (including a general statement of policy) to which subsection (c) applies, such agency shall transmit a copy of such rule to the Speaker of the House of Representatives and the President pro tempore of the Senate.".
+(b) DEFINITION OF RULE.-Section 815 of the Native American Programs Act of 1974 (42 U.S.C. 2992c), as so redesignated by section 2, is amended-
+(1) in paragraph (3) by striking out "and" at the end thereof,
+(2) by redesignating paragraph (4) as paragraph (5), and
+(3) by inserting after paragraph (3) the following new
+paragraph:
+"(4) the term `rule' has the meaning given it in section 551(4) of title 5, United States Code, as amended from time to time; and".
+SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+Section 816(a) of the Native American Programs Act of 1974 (42 U.S.C. 2992d(a)), as so redesignated by section 2 of this Act, is amended by striking out "1986" and inserting in lieu thereof "1990".
+THOMAS S. FOLEY,
+Speaker of the House of Representatives pro tempore.
+STROM THURMOND,
+President of the Senate pro tempore.
+I certify that this Act originated in the House of Representatives.
+BENJAMIN J. GUTHRIE,
+Clerk.
+
+</body></floatingText> -->
+
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2442.02.pdf"><title>Congressional Record</title> 132, 27102</ref> (1986).</bibl>
+<!-- <floatingText>
+<body>
+The SPEAKER. The Clerk will notify the Senate of the action of the House.
+GENERAL LEAVE
+Mr. WOLPE. Mr. Speaker. I ask unanimous consent that all Members may have 5 legislative days in which to revise and extend their remarks on H.R. 4868, the bill just passed.
+The SPEAKER. Is there objection to the request of the gentleman from Michigan?
+There was no objection.
+PERSONAL EXPLANATION
+Mr. JONES of Oklahoma. Mr. Speaker, due to a malfunctioning ma-chine I was not recorded on two votes last week. They were the motions to suspend the rules and pass H.R. 5269 and H.R. 4216, rollcalls 401 and 402, respectively. Had I been present, I would have voted in favor of both motions.
+NATIVE AMERICAN PROGRAMS AMENDMENTS OF 1986—VETO MESSAGE FROM THE PRESIDENT OF THE UNITED STATES
+The SPEAKER laid before the House the following veto message from the President of the United States:
+To the House of Representatives:
+I am returning herewith without my signature H.R. 3247, which would extend and amend the Native American Programs Act of 1974.
+I fully support the objectives of the Native American Programs Act of 1974 to help American Indians, Alaskan Natives, and Native Hawaiians achieve economic and social self-sufficiency. My decision not to approve H.R. 3247 is based on my belief that this bill would seriously undermine the administrative flexibility needed to ensure responsiveness to individual tribes and Native American organizations—flexibility that is essential to the effectiveness of the native American programs.
+The Executive branch must be al-lowed to carry out its responsibilities to administer the laws effectively. H.R. 3247 would cause undue interference with ongoing program management. This legislation, if signed into law, would make effective administration of this important program extremely difficult by creating delays in implementing program policy that can only hurt rather than help the Native Americans it is intended to serve.
+If H.R. 3247 were to become law, it would require diverting scarce re-sources away from program-related activities to meet wasteful and unnecessary administrative requirements and would involve the Congress inappropriately in ongoing administrative activities that should be left to the Executive branch. Specifically, the bill would:
+—require "notice and comment" rulemaking for rules and policy statements that have been and should continue to be handled in-formally, without permitting exceptions for good cause or in other circumstances where exceptions generally apply, thereby substantially increasing administrative costs and delays;
+—require the Administration for Native Americans (ANA) to use peer review panels to review and rank all grant applications, even though the use of such panels is not appropriate in all cases; and
+—require the Secretary of Health and Human Services to report and explain to the Congress all decisions on grant applications at variance with recommendations of the peer review panels.
+These provisions of H.R. 3247 would unnecessarily increase administrative requirements and thereby shift re-sources away from technical assistance and other activities more directly related to helping applicants and grantees. Equally troublesome, they would inevitably involve both the Congress and members of the public in second-guessing the ANA on details related to administration of Native American programs. This would have adverse results for the programs and would potentially set a dangerous precedent for unnecessary restrictions disrupting the operations of other Federal human services programs.
+Quite simply, the Executive branch cannot effectively carry out its responsibilities to implement the laws if agencies are required, as a routine procedure, to justify each grant decision to the Congress, or if every general statement of agency policy or procedure must be made through formal notice and comment rulemaking.
+The provisions of H.R. 3247 also raise concerns about confidentiality, in requiring the Commissioner of the ANA to discuss publicly the weakness-es and problems of applications submitted by individual tribal organizations. This could well have a chilling effect on the competitive grant process. New and less experienced organizations could be more hesitant to apply, and established Native American organizations might be disturbed about public distribution of information about their applications.
+I reiterate my support for the continuation of the Native American pro-grams. I therefore urge the Congress to provide funding for these programs in the fiscal year 1987 continuing resolution and urge that the 100th Congress promptly consider new legislation to authorize appropriations for these programs. The Administration, through the Department of Health and Human Services, looks forward toworking with the Congress to develop legislation that will meet the Congress' legitimate concerns for account-ability of the Executive branch, while also meeting our concerns that the law not be burdened with requirements in-compatible with our responsibility to achieve the statutory purposes of these programs.
+RONALD REAGAN. THE WHITE HOUSE, September 26, 1986.
+The SPEAKER. The objections of the President will be spread at large upon the Journal, and the message and bill will be printed as a House document.
+Mr. KILDEE. Mr. Speaker, I ask unanimous consent that the veto message of the President, together with the accompanying bill, H.R. 3247, be referred to the Committee on Education and Labor.
+The SPEAKER. Is there objection to the request of the gentleman from Michigan?
+There was no objection.
+NEW DEFERRALS OF BUDGET AUTHORITY UNDER IMPOUNDMENT CONTROL ACT OF 1974—MESSAGE FROM THE PRESIDENT OF THE UNITED STATES (H. DOC. NO. 99-272)
+The SPEAKER laid before the House the following message from the President of the United States; which was read and, together with the accompanying papers, referred to the Committee on Appropriations and ordered to be printed:
+(For message, see proceedings of the Senate of September 26, 1986, at page S13838.)
+CLARIFYING THE EXEMPTIVE AUTHORITY OF THE SECURITIES AND EXCHANGE COMMISSION
+Mr. MARKEY. Mr. Speaker, I ask unanimous consent to take from the Speaker's table the Senate bill (S. 2000) to clarify the exemptive authority of the Securities and Exchange Commission, and ask for its immediate' consideration.
+The Clerk read the title of the Senate bill.
+The SPEAKER. Is there objection to the request of the gentleman from California?
+Mr. MOORHEAD. Mr. Speaker, re-serving the right to object, under my reservation, I will yield to the gentle-man from Massachusetts [Mr. MARKEY] to explain what he is doing and what the bill contains.
+Mr. MARKEY. Mr. Speaker, the bill S. 2000, like H.R. 5252, which I introduced in the House, cures an unintended application of the Public Utility Holding Company Act of 1935 [PUHCA]. This legislation will permit
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

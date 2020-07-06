@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="veto.pv2375">
+
+ <teiHeader>
+ <fileDesc>
+<titleStmt>
+<title level="m" type="main">2375	H.R. 11092 (Ninety-fifth Congress, Second Session &#8212; Carter)</title>
+<author>Charles D. Bernholz</author>
+<author>Brian L. Pytlik Zillig</author>
+<author>Laura Weakly</author>
+<principal>Charles D. Bernholz</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+ <addrLine>319 Love Library</addrLine>
+ <addrLine>University of Nebraska-Lincoln</addrLine>
+ <addrLine>Lincoln, NE 68588-4100</addrLine>
+ <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno>veto.pv2375</idno>
+<availability><p><fw> ? (copyright) </fw></p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+  
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="President">
+<term>Carter</term>
+</keywords>
+<keywords scheme="original" n="Congress">
+<term>Ninety-fifth Congress, Second Session</term>
+</keywords>
+ <keywords scheme="original" n="Tribe">
+<term>Navajo</term>
+<term>Hopi</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change><date>2010-03-29</date>  <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+  
+ </teiHeader>
+ 
+ 
+ <text>
+<body>
+<div1 type="stub">
+<head>2375	H.R. 11092 (Ninety-fifth Congress, Second Session &#8212; Carter)</head>
+
+<p>The Navajo and Hopi Indian Relocation Commission Amendments.</p>
+
+<p>Pocket veto occurred after the 2nd session of the 95th Congress adjourned sine die on October 15, 1978.  The bill was presented to the President on October 24, 1978 (124 <title>Cong. Rec.</title> 38780).  A Presidential message was received by Congress on November 4, 1978 (124 <title>Cong. Rec.</title> 38784).</p>
+
+
+</div1>
+
+<div1 type="source_citation">
+<bibl><title>Presidential Vetoes, 1789-1988</title>.  (1992). Washington, DC: Government Printing Office, 488.</bibl>
+</div1>
+
+<div1 type="source_full">
+ <bibl><ref target="PV2375.01.pdf"><title>Congressional Record</title> 124, 38780</ref> (1978).</bibl>
+<!-- <floatingText>
+<body>
+38780	CONGRESSIONAL RECORD—HOUSE	October 14, 1978
+H.R. 11092. A bill to increase the authorization of appropriations under the act of December 22, 1974 (88 <title>Stat.</title> 1712) ;
+H.R. 11580. A bill to amend title 18, United States Code, to allow the transportation or mailing to a foreign country of material concerning a lottery authorized by that foreign country, and for other purposes;
+H.R. 11671. A bill to designate a certain Federal building in Big Stone Gap, Va., the "C. Bascom Slemp Building";
+H.R. 11861. A bill to amend the Merchant Marine Act, 1936, to direct the Secretary of Commerce to cooperate with the Secretary of the Navy and the maritime industry in establishing an adequate and well-balanced fleet;
+H.R. 11945. A bill to authorize the Secretary of the Army to return to the Federal Re-public of Germany 10 paintings of the German Navy seized by the U.S. Army at the end of World War II;
+H.R. 12112. A bill designating Gathright Lake on the Jackson River, Va., as Gathright Dam and Lake Moomaw;
+H.R. 12116. A bill to amend the District of Columbia Self-Government and Governmental Reorganization Act to repeal the authority of the President to sustain vetoes by the Mayor of the District of Columbia of acts passed by the Council of the District of Columbia and repassed by two-thirds of the Council, to change the period during which acts of the Council of the District of Columbia are subject to congressional review, and for other purposes;
+H.R. 12140. A bill to amend the Federal Water PoIIution Control Act to provide additional authorizations for certain operating programs under the act;
+H.R. 12509. A bill to amend the Immigration and Nationality Act to exclude from ad-mission into, and to deport from, the United States all aliens who persecuted any person on the basis of race, religion, national origin, or political opinion, under the direction of the Nazi government of Germany, and for other purposes;
+H.R. 12605. A bill to amend the Communications Act of 1934 to extend and improve the provisions of such act relating to long-term financing for the Corporation for Public Broadcasting and relating to certain grant programs for public telecommunications, and for other purposes;
+H.R. 12634. A bill to designate a building in Pittsburg, Kans., as the "Joe Skubitz Social Security Administration Center";
+H.R. 13187. A bill to designate the U.S. Post Office and Federal Building in Griffin, Ga., the "John J. Flynt, Jr. Federal Building";
+H.R. 13372. A bill to increase the price of migratory-bird hunting and conservation stamps and to provide for consultation by t 'e Secretary of the Interior with State and local authorities before migratory bird areas are recommended for purchase or rental, and for other purposes.
+H.R. 13416. A bill to amend title 10, United States Code, to modernize the permanent faculty structure at the U.S. Military Academy. and for other mimosas;
+H.R. 13481. A bill to name the nest office and Federal building in Portland, Maine, the "Frederick G. Payne Building";
+H.R. 13514. A bill to name the certain Federal building in Shreveport, La., the "Joe Waggonner Federal Building";
+H.R. 13597. A bill to authorize the Architect of the Capitol to install solar collectors for furnishing a portion of the energy needs of the Rayburn House Office Building and House Office Building Annex Numbered 2, and for other purposes;
+H.R. 13702. A bill to provide that the 'Territory of American Samoa be represented by a nonvoting Delegate to the United States House of Representatives, and for other purposes;
+H.R. 13719. A bill to offset the loss in tax revenue incurred by Guam and the Virgin
+Islands by reason of certain Federal tax reductions;
+H.R. 13808. A bill to designate the "Omar Burleson Federal Building";
+H.R. 13809. A bill to designate the "George Mahon Federal Building";
+H.R. 13892, A bill to amend title 28 of the United States Code to provide that the requirement that each U.S. attorney and U.S. marshal reside in the district for which he is appointed shall not apply to an individual appointed to such a position for the Northern Mariana Islands if such individual is at the same time serving in the same capacity in another district;
+H.R. 13903, A bill to amend title 10, United States Code, to provide that a member of the Board of Regents of the Uniformed Services University of the Health Sciences whose term of office has expired shall continue to serve until a successor is appointed;
+H.R. 13972. A bill to designate the Great Bear Wilderness, Flathead National Forest and enlarge the Bob Marshall Wilderness, Flathead and Lewis and Clark National Forests, State of Montana;
+H.R. 13989. A bill to amend section 1445(b) of the Food and Agriculture Act of 1977 to modify the formula for distribution of funds authorized thereunder for agricultural re-search;
+H.R. 14145. A bill to amend title 28 of the United States Code to make certain changes in the divisions within judicial districts and in the places of holding court, and to re-quire the Director of the Administrative Office of the U.S. Courts to conduct a study of the judicial business of the Central District of California and the Eastern District of New York;
+H.R. 14223. A bill to designate a certain Federal building in Bloomington, Ill., the "Leslie C. Arends Building";
+H.R. 14224. A bill to authorize and direct the Secretary of the Interior to acquire certain lands for the benefit of the Mille Lacs Band of the Minnesota Chippewa Indians;
+H.R. 14295. A bill to designate the "Paul G. Rogers Federal Building";
+H.J. Res. 489. A resolution granting the status of permanent residence to certain aliens;
+H.J. Res. 747. A resolution to consent to an amendment of the constitution of the State of New Mexico to provide a method for executing leases and other contracts for the development and operation of geothermal steam and waters on lands granted or con-firmed to each State;
+H.J. Res. 816. A resolution to extend the authority of the Federal Reserve banks to buy and sell certain obligations; and
+H,J. Res. 1147. a resolution authorizing and requesting the President to designate the 7-day period beginning on May 28, 1979, as "Vietnam Veterans Week."
+On October 25, 1978:
+H.J. Res. 1173. A resolution relative to the convening of the first session of the 96th Congress, and for other purposes;
+H.R. 4319. A bill to amend subchapter III of chapter 83 of title 5, United States Code, to provide that employees who retire after 5 years of service, in certain instances, may be eligible to retain their life and health insurance benefits, and for other purposes;
+H.R. 5029. A bill to amend title 38, United States Code, to extend certain expiring pro-grams of the Veterans' Administration, to ex-tend and improve the program of veterans readjustment appointments in the Federal Government, and for other purposes;
+H.R. 5646, A bill to amend the Regional Rail Reorganization Act of 1973 to require ConRail to make premium payments under certain medical and life insurance policies, to provide that ConRail shall be entitled to a loan under section 211(h) of such act in an amount required for such premium payments shall be deemed to be expenses of ad-ministration of the respective railroads in reorganization;
+H.R. 7749. A bill to implement the Agreed Measures for the Conservation of Antarctic Fauna and Flora, and for other purposes;
+H.R. 7971. A bill to validate certain land conveyances, and for other purposes;
+H.R. 8200, A bill to establish a uniform law on the subject of bankruptcies;
+H.R. 9701. A bill to amend the Budget and Accounting Procedures Act of 1950 to re-quire that the Comptroller General provide for a financial audit with respect to pension plans for officers and employees of the Federal Government and its agencies and instrumentalities, to require that an annual report, including a financial statement and an actuarial statement, be furnished to the Congress and the Comptroller General with respect to such plans, and for other purposes;
+H.R. 10173. A bill to amend title 38, United States Code, to provide improvements in the pension program for certain veterans of a period of war with non-service-connected disabilities, for certain surviving spouses of veterans of a period of war, and for certain surviving children of veterans of a period of war, to increase the rates of dependency and indemnity compensation to surviving parents of certain veterans, to provide for automatic annual cost-of-living adjustments in the rates of pension and in the rates of parents' dependency and indemnity compensation, to prevent reductions in and terminations of pension and terminations of parents' dependency and indemnity compensation solely attributable to cost-of-living increases in social security benefits, and for other purposes;
+H.R. 11209. A bill to provide for the establishment, ownership, operation, and govern-mental oversight and regulation of international maritime satellite telecommunications services;
+H.R. 12393. A bill to provide for nationwide service of subpenas in all suits involving the False Claims Act, and for other purposes;
+H.R. 12467, A bill to amend the Rehabilitation Act of 1973 to extend certain programs established in such act, to establish a community service employment program for handicapped individuals, and to provide comprehensive services for independent living for handicapped individuals, to amend the Developmental Disabilities Services and Facilities Construction Act to revise and extend the programs under that act, and for other purposes;
+H.R. 12874. A bill to provide for an accelerated program of research, development, and demonstration of solar photovoltaic energy technologies leading to early competitive commercial applicability of such technologies to be carried out by the Department of Energy, with the support of the National Aeronautics and Space Administration, the National Bureau of Standards, the General Services Administration, and other Federal agencies; and
+H,R. 13500. A bill to amend title 44 to in-sure the preservation of and public access to the official records of the President, and for other purposes.
+On October 26, 1978:
+H.R. 50. A bill to translate into practical reality the right of all Americans who are able, willing, and seeking to work to full opportunity for useful paid employment at fair rates of compensation; to assert the responsibility of the Federal Government to use all practicable programs and policies to promote full employment, production, and real income, balanced growth, adequate productivity growth, proper attention to national priorities, and reasonable price stability; to require the President each year to set forth explicit short-term and medium-term economic goals; to achieve a better integration of general and structural economic policies; and to improve the coordination of economic policymaking within the Federal Government;
+</body></floatingText> -->
+
+</div1>
+
+
+<div1 type="source_full">
+ <bibl><ref target="PV2375.02.pdf"><title>Congressional Record</title> 124, 38784</ref> (1978).</bibl>
+<!-- <floatingText>
+<body>
+by 40 percent. In May of this year I signed an Executive order calling for a White House Conference on Small Business to be held in January 1980. This Conference will involve over 25,000 small business people throughout the country helping us to develop a small business policy for this country. I intend to work with the Congress and particularly with Chairmen SMITH and NELSON to develop and implement such a policy.
+This legislation does have beneficial features. However, it is precisely because of my commitment to small business and an effective Small Business Administration, that I must withhold my approval from H.R. 11445, This bill, in its present form, is not the best we can do for small business in the United States and is in-consistent with the tight budget situation we will face in the next few years. Disapproval of the bill would not interrupt any existing SBA program since SBA programs are already authorized for fiscal year 1979, nor would it interfere with administration plans regarding the White House Conference on Small Business, since $4,000,000 has already been appropriated for the Conference in fiscal year 1979. This Conference is an important priority of mine and of my administration.
+The bill authorizes over $2 billion in expenditures in excess of our budget projections through 1982, It continues a duplicative program of farm disaster lending by the SBA with excessively deep interest subsidies and terms which we believe to be wasteful. This has led to an unwarranted amount of farm disaster lending which should be done by the Farmers Home Administration. This Ad-ministration has proposed that farm lending be consolidated in the Department of Agriculture which has the farm credit expertise and extensive field net-work necessary to operate the program effectively and efficiently. The Congress has failed to act on this recommendation.
+Even more important is the effect this bill would have on the operations of the Small Business Administration. The bill virtually mandates significant staff in-creases. It would also interfere with the ability of the Administrator of the SBA, my primary small business advisor and representative, to effectively run that agency. The legislation imposes specific titles and responsibilities upon agency officials and specifies funding and personnel levels for activities throughout SBA down to the smallest detail. These legislative strictures run counter to my efforts to better manage the Federal government.
+The bill also distorts the role of SBA's Chief Counsel for Advocacy. I supported the establishment of this office as a means to insure that the views of small business were adequately reflected in the policy-making processes of the government, But the legislation tends to move the Chief Counsel for Advocacy into policy and administrative areas more properly those of the Administrator of the SBA. This bill also might begin to isolate the Chief Counsel for Advocacy from the executive policy-making process by calling for an annual report to Congress which could not be reviewedor coordinated with any other agency of the Executive Branch, Current statutes provide the Chief Counsel with sufficient authorities to evaluate small business issues and serve as an ombudsman to small business interests.
+I am also concerned by the loan pooling provision in this bill that would authorize private dealers to issue a new class of 100 percent Federally guaranteed securities which would compete directly with the Treasury and other Federally-backed securities in the bond markets.
+I look forward to working with the Congress and the small business community who worked on this bill to develop a program to meet the needs of small business. It is my great hope that early in the next Congress an approach will be fashioned to meet the needs of the small business community, with the full involvement of my Administration.
+JIMMY CARTER.
+THE WHITE HOUSE, October 25, 1978.
+H.R. 11092
+MEMORANDUM OF DISPPROVAL
+I am withholding my approval of H.R. 11092, the "Navajo and Hopi Relocation Amendments of 1978." I have no objection to the authorization in this bill to fund the important and difficult work being performed by the Relocation Commission to administer the partitioning of land which has been jointly used by the Navajo and Hopi Tribes. My failure to approve this bill will not affect the ability of the Commission to continue its work, because appropriations for this fiscal year have already been approved.
+My objections to the bill center on section 4, which would provide for a one-house veto of the relocation plan which is finally adopted by the Relocation Commission. I have previously informed the Congress of my view that such legislative veto devices are unconstitutional intrusions into the day-to-day administration of the law by the Executive Branch, including independent agencies such as the Relocation Commission. Congress is constitutionally empowered to overrule agency decisions executing the law only by enacting legislation subject to the veto power of the President under Article I, section 7 of the Constitution.
+Where either Congress or the President is dissatisfied with the execution of the law by an independent agency or commission, legislation agreeable to both or enacted over the President's veto is an appropriate and constitutional means for overturning the result reached by that independent agency. If the Constitution required less, there would in fact be no true independence for agencies such as the Relocation Commission. This principle was adhered to by the Ninety-third Congress when it enacted the Navajo and Hopi Indian Relocation Commission Act in 1974 and is one from which we should not depart.
+The bill also contains a provision which would oust incumbent members of the Navajo and Hopi Indian Relocation Commission if they happened to be Federal, State or local elected officials. This pro-vision in section 2 has constitutional implications since it would allow for Congressional removal of officers in the Executive Branch. Further, as a matter of fairness and equity, interruption of the tenure of appointed officials by the imposition of new "qualifications" should not be lightly undertaken. Accordingly, I would suggest that the Ninety-sixth Congress, in any consideration of a similar bill, give due consideration to these problems.
+The Administration will work with the Congress next year to develop any needed legislation to improve the operations of the Relocation Commission. The Commission needs to operate more effectively and I look forward to working with Congressional leaders such as Sena-tor DECONCINI and Congressman UDALL toward this end.
+JIMMY CARTER. THE WHITE HOUSE, November 2, 1978.
+H.R. 11861
+MEMORANDUM OF DISAPPROVAL
+I am withholding my signature from H.R. 11861, which would require the Secretaries of Commerce and the Navy to meet at least four times a year with representatives of the maritime industry and to submit an annual report to the President and Congress on their activities and recommendations.
+Both the Maritime Administration of the Commerce Department (MARAD) and the Navy already have numerous contacts with the maritime industry and with each other to study, develop, and implement the goals of the Merchant Marine Act. Navy and MARAD are currently working to improve their cooperation in this area by adding the Secretaries of Commerce and Navy to an existing inter-agency advisory board on maritime matters. They are also arranging to have the board meet at least four times a year, and at least one of these meetings will be open to maritime industry representatives.
+In addition, in order to assure that the concerns that generated this bill are fully addressed, I am directing both Secretaries to consult regularly with maritime industry officials to discuss issues of mutual concern.
+In light of these actions, I see no reason for this legislation. It is not necessary to achieve our goal of an adequate merchant marine. It would mandate a change in administrative functions which are currently satisfactory. It is an undue legislative intrusion into administrative activities which are the appropriate responsibility of the Executive Branch, and the required report would be an additional and unnecessary government expense. For these reasons, I am disapproving this bill.
+JIMMY CARTER. THE WHITE HOUSE, November 2, 1978.
+H.R. 6586
+MEMORANDUM OF DISAPPROVAL
+I am withholding my approval from H.R. 6536 which would make certain changes in the retirement program for police, firefighers, teachers, and judges of the District of Columbia,
+This action today in no way alters my commitment to the basic principles of fairness and self-determination which must be the cornerstone et Federal-District relations. Included among our ac-
+
+</body></floatingText> -->
+
+</div1>
+
+
+</body>
+</text>
+</TEI>

@@ -2,6 +2,7 @@ default:
   collection: earlytreaties
   solr_core: earlytreaties
   tei_solr_xsl: scripts/solr_transform_tei.xsl
+  allowed_files: config/allowed_files.txt
 development:
   solr_path: https://cdrhdev1.unl.edu/solr
 production:
